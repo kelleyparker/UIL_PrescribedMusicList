@@ -21,11 +21,18 @@
   --hero-orb: rgba(255, 255, 255, 0.1);
   --accent-soft: rgba(107, 132, 176, 0.18);
   --accent-soft-text: #dbe7fb;
+  --active-chip-bg: #b3192d;
+  --active-chip-text: #ffffff;
   --nmr-pill-bg: rgba(179, 25, 45, 0.22);
   --nmr-pill-text: #ffd8de;
   --composer-accent: #ff8f9f;
   --control-label: #cad5ea;
   --placeholder: #7d899d;
+  --card-start: rgba(24, 31, 44, 0.98);
+  --card-end: rgba(16, 22, 34, 0.94);
+  --stat-card-bg: rgba(255, 255, 255, 0.12);
+  --select-bg: rgba(10, 15, 23, 0.42);
+  --link-color: #ff8f9f;
 }
 
 * {
@@ -41,6 +48,7 @@ body {
     radial-gradient(circle at top left, var(--page-glow-left), transparent 28%),
     radial-gradient(circle at top right, var(--page-glow-right), transparent 34%),
     linear-gradient(180deg, var(--page-start) 0%, var(--page-mid) 48%, var(--page-end) 100%);
+  transition: background 220ms ease, color 220ms ease;
 }
 
 .page-shell {
@@ -92,7 +100,7 @@ body {
   padding: 0.8rem 0.95rem;
   border: 1px solid rgba(255, 255, 255, 0.16);
   border-radius: 14px;
-  background: rgba(10, 15, 23, 0.42);
+  background: var(--select-bg);
   color: var(--texas-white);
   font: inherit;
   text-transform: none;
@@ -129,7 +137,7 @@ body {
 .stat-card {
   padding: 1rem 1.1rem;
   border-radius: 18px;
-  background: rgba(255, 255, 255, 0.12);
+  background: var(--stat-card-bg);
   backdrop-filter: blur(8px);
 }
 
@@ -187,8 +195,8 @@ body {
 }
 
 .filter-chip.is-active {
-  background: var(--texas-red);
-  color: var(--texas-white);
+  background: var(--active-chip-bg);
+  color: var(--active-chip-text);
 }
 
 .filter-chip-nmr {
@@ -234,7 +242,7 @@ body {
 }
 
 .uil-link {
-  color: var(--texas-red);
+  color: var(--link-color);
   font-weight: 700;
   text-decoration-thickness: 2px;
 }
@@ -251,8 +259,7 @@ body {
   padding: 1.2rem;
   border: 1px solid var(--border);
   border-radius: 22px;
-  background:
-    linear-gradient(180deg, rgba(24, 31, 44, 0.98), rgba(16, 22, 34, 0.94));
+  background: linear-gradient(180deg, var(--card-start), var(--card-end));
   box-shadow: var(--shadow);
 }
 

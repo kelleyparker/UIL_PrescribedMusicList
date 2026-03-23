@@ -33,6 +33,8 @@ const themes = {
     border: "rgba(143, 170, 214, 0.18)",
     accentSoft: "rgba(107, 132, 176, 0.18)",
     accentSoftText: "#dbe7fb",
+    activeChipBg: "#b3192d",
+    activeChipText: "#ffffff",
     nmrPillBg: "rgba(179, 25, 45, 0.22)",
     nmrPillText: "#ffd8de",
     composerAccent: "#ff8f9f",
@@ -40,6 +42,11 @@ const themes = {
     ink: "#edf2fb",
     muted: "#9ba7bd",
     placeholder: "#7d899d",
+    cardStart: "rgba(24, 31, 44, 0.98)",
+    cardEnd: "rgba(16, 22, 34, 0.94)",
+    statCardBg: "rgba(255, 255, 255, 0.12)",
+    selectBg: "rgba(10, 15, 23, 0.42)",
+    linkColor: "#ff8f9f",
   },
   "neon-rodeo": {
     pageGlowLeft: "rgba(255, 86, 34, 0.25)",
@@ -56,6 +63,8 @@ const themes = {
     border: "rgba(127, 214, 255, 0.2)",
     accentSoft: "rgba(45, 211, 255, 0.18)",
     accentSoftText: "#d8f8ff",
+    activeChipBg: "#ff5c39",
+    activeChipText: "#fff4ef",
     nmrPillBg: "rgba(255, 92, 57, 0.22)",
     nmrPillText: "#ffe0d8",
     composerAccent: "#ff9b7d",
@@ -63,6 +72,11 @@ const themes = {
     ink: "#f0f7ff",
     muted: "#a2b3d1",
     placeholder: "#7f91ad",
+    cardStart: "rgba(28, 20, 46, 0.97)",
+    cardEnd: "rgba(15, 24, 48, 0.94)",
+    statCardBg: "rgba(255, 255, 255, 0.1)",
+    selectBg: "rgba(20, 16, 36, 0.5)",
+    linkColor: "#72d9ff",
   },
   "desert-ember": {
     pageGlowLeft: "rgba(255, 110, 64, 0.24)",
@@ -79,6 +93,8 @@ const themes = {
     border: "rgba(231, 181, 130, 0.16)",
     accentSoft: "rgba(208, 138, 87, 0.24)",
     accentSoftText: "#ffe6cf",
+    activeChipBg: "#d46f3b",
+    activeChipText: "#fff7ef",
     nmrPillBg: "rgba(255, 120, 80, 0.22)",
     nmrPillText: "#ffe0d6",
     composerAccent: "#ffb28d",
@@ -86,6 +102,11 @@ const themes = {
     ink: "#fff3e8",
     muted: "#c0a794",
     placeholder: "#9d8372",
+    cardStart: "rgba(46, 28, 19, 0.97)",
+    cardEnd: "rgba(26, 16, 14, 0.94)",
+    statCardBg: "rgba(255, 226, 196, 0.1)",
+    selectBg: "rgba(44, 25, 15, 0.5)",
+    linkColor: "#ffbf89",
   },
   "bluebonnet-dusk": {
     pageGlowLeft: "rgba(110, 118, 255, 0.25)",
@@ -102,6 +123,8 @@ const themes = {
     border: "rgba(161, 163, 255, 0.18)",
     accentSoft: "rgba(111, 122, 255, 0.2)",
     accentSoftText: "#ebeeff",
+    activeChipBg: "#7758f6",
+    activeChipText: "#f7f5ff",
     nmrPillBg: "rgba(145, 121, 255, 0.24)",
     nmrPillText: "#efe9ff",
     composerAccent: "#b8a5ff",
@@ -109,6 +132,11 @@ const themes = {
     ink: "#eff3ff",
     muted: "#a4add9",
     placeholder: "#7e87b7",
+    cardStart: "rgba(28, 24, 58, 0.97)",
+    cardEnd: "rgba(16, 18, 40, 0.94)",
+    statCardBg: "rgba(201, 196, 255, 0.1)",
+    selectBg: "rgba(18, 18, 54, 0.48)",
+    linkColor: "#b8a5ff",
   },
   "vintage-marquee": {
     pageGlowLeft: "rgba(255, 80, 72, 0.22)",
@@ -125,6 +153,8 @@ const themes = {
     border: "rgba(236, 176, 98, 0.18)",
     accentSoft: "rgba(224, 161, 42, 0.2)",
     accentSoftText: "#ffefc7",
+    activeChipBg: "#e0a12a",
+    activeChipText: "#2b170e",
     nmrPillBg: "rgba(255, 102, 86, 0.24)",
     nmrPillText: "#ffe2db",
     composerAccent: "#ffbb77",
@@ -132,6 +162,11 @@ const themes = {
     ink: "#fff4df",
     muted: "#c8ae8d",
     placeholder: "#a1866c",
+    cardStart: "rgba(51, 24, 29, 0.97)",
+    cardEnd: "rgba(27, 19, 17, 0.94)",
+    statCardBg: "rgba(255, 220, 141, 0.12)",
+    selectBg: "rgba(45, 19, 23, 0.52)",
+    linkColor: "#ffd16e",
   },
   "crimson-steel": {
     pageGlowLeft: "rgba(194, 46, 78, 0.24)",
@@ -148,6 +183,8 @@ const themes = {
     border: "rgba(151, 161, 179, 0.18)",
     accentSoft: "rgba(116, 130, 154, 0.22)",
     accentSoftText: "#e5ebf6",
+    activeChipBg: "#bf314d",
+    activeChipText: "#fff0f4",
     nmrPillBg: "rgba(194, 46, 78, 0.24)",
     nmrPillText: "#ffdbe3",
     composerAccent: "#ff8ca1",
@@ -155,6 +192,11 @@ const themes = {
     ink: "#eef3f9",
     muted: "#99a6b8",
     placeholder: "#7f8998",
+    cardStart: "rgba(33, 27, 35, 0.97)",
+    cardEnd: "rgba(18, 18, 22, 0.94)",
+    statCardBg: "rgba(255, 219, 228, 0.08)",
+    selectBg: "rgba(26, 21, 29, 0.5)",
+    linkColor: "#ff8ca1",
   },
   "electric-teal": {
     pageGlowLeft: "rgba(18, 227, 195, 0.22)",
@@ -171,6 +213,8 @@ const themes = {
     border: "rgba(118, 226, 233, 0.18)",
     accentSoft: "rgba(27, 181, 196, 0.22)",
     accentSoftText: "#dbffff",
+    activeChipBg: "#1a96b2",
+    activeChipText: "#efffff",
     nmrPillBg: "rgba(0, 204, 170, 0.24)",
     nmrPillText: "#d9fffb",
     composerAccent: "#7af5e8",
@@ -178,6 +222,11 @@ const themes = {
     ink: "#ecfefd",
     muted: "#93bfc3",
     placeholder: "#709498",
+    cardStart: "rgba(13, 36, 41, 0.97)",
+    cardEnd: "rgba(8, 19, 24, 0.94)",
+    statCardBg: "rgba(173, 255, 247, 0.08)",
+    selectBg: "rgba(9, 31, 35, 0.5)",
+    linkColor: "#7af5e8",
   },
   "copper-night": {
     pageGlowLeft: "rgba(203, 113, 66, 0.24)",
@@ -194,6 +243,8 @@ const themes = {
     border: "rgba(214, 148, 112, 0.17)",
     accentSoft: "rgba(195, 120, 84, 0.22)",
     accentSoftText: "#ffe6da",
+    activeChipBg: "#bd6a43",
+    activeChipText: "#fff5f0",
     nmrPillBg: "rgba(230, 126, 90, 0.24)",
     nmrPillText: "#ffe3d8",
     composerAccent: "#ffb391",
@@ -201,12 +252,19 @@ const themes = {
     ink: "#faf0ea",
     muted: "#b79f98",
     placeholder: "#8e7b75",
+    cardStart: "rgba(41, 27, 28, 0.97)",
+    cardEnd: "rgba(22, 18, 24, 0.94)",
+    statCardBg: "rgba(255, 209, 186, 0.08)",
+    selectBg: "rgba(31, 18, 21, 0.5)",
+    linkColor: "#ffb391",
   },
 };
 
 function setTheme(themeName) {
   const theme = themes[themeName] || themes["midnight-lone-star"];
   const root = document.documentElement;
+  root.dataset.theme = themeName;
+  root.style.colorScheme = "dark";
   root.style.setProperty("--page-glow-left", theme.pageGlowLeft);
   root.style.setProperty("--page-glow-right", theme.pageGlowRight);
   root.style.setProperty("--page-start", theme.pageStart);
@@ -221,6 +279,8 @@ function setTheme(themeName) {
   root.style.setProperty("--border", theme.border);
   root.style.setProperty("--accent-soft", theme.accentSoft);
   root.style.setProperty("--accent-soft-text", theme.accentSoftText);
+  root.style.setProperty("--active-chip-bg", theme.activeChipBg);
+  root.style.setProperty("--active-chip-text", theme.activeChipText);
   root.style.setProperty("--nmr-pill-bg", theme.nmrPillBg);
   root.style.setProperty("--nmr-pill-text", theme.nmrPillText);
   root.style.setProperty("--composer-accent", theme.composerAccent);
@@ -228,6 +288,11 @@ function setTheme(themeName) {
   root.style.setProperty("--ink", theme.ink);
   root.style.setProperty("--muted", theme.muted);
   root.style.setProperty("--placeholder", theme.placeholder);
+  root.style.setProperty("--card-start", theme.cardStart);
+  root.style.setProperty("--card-end", theme.cardEnd);
+  root.style.setProperty("--stat-card-bg", theme.statCardBg);
+  root.style.setProperty("--select-bg", theme.selectBg);
+  root.style.setProperty("--link-color", theme.linkColor);
   localStorage.setItem("uil-piano-theme", themeName);
 }
 
