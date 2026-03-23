@@ -1,0 +1,4952 @@
+[
+  {
+    "id": 290,
+    "uilCode": "603-3-18147",
+    "title": "Anna Magdalena's Notebook",
+    "composer": "Bach",
+    "arranger": "",
+    "publishers": [
+      "Multiple Publishers",
+      "Alfred Music Company, Inc.",
+      "Carl Fischer, Inc.",
+      "C.F. Peters Corporation",
+      "Barenreiter/Verlag",
+      "Foreign Music Distributors"
+    ],
+    "publisherText": "Multiple Publishers;Alfred Music Company, Inc.;Carl Fischer, Inc.;C.F. Peters Corporation;Barenreiter/Verlag;Foreign Music Distributors",
+    "classLevel": 3,
+    "specification": "(play two contrasting pieces)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 291,
+    "uilCode": "603-3-18148",
+    "title": "Solfeggio (Solfeggietto)",
+    "composer": "Bach",
+    "arranger": "",
+    "publishers": [
+      "Multiple Publishers",
+      "C.F. Peters Corporation",
+      "Any unabridged edition"
+    ],
+    "publisherText": "Multiple Publishers;C.F. Peters Corporation;Any unabridged edition",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 292,
+    "uilCode": "603-3-18149",
+    "title": "Evening in the Country (Evening in Transylvania) from Ten Easy Pieces",
+    "composer": "Bartok",
+    "arranger": "",
+    "publishers": [
+      "Multiple Publishers",
+      "Alfred Music Company, Inc.",
+      "Boosey & Hawkes, Inc.",
+      "Any unabridged edition"
+    ],
+    "publisherText": "Multiple Publishers;Alfred Music Company, Inc.;Boosey & Hawkes, Inc.;Any unabridged edition",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 293,
+    "uilCode": "603-3-18150",
+    "title": "Mikrokosmos, Book III",
+    "composer": "Bartok",
+    "arranger": "",
+    "publishers": [
+      "Boosey & Hawkes, Inc."
+    ],
+    "publisherText": "Boosey & Hawkes, Inc.",
+    "classLevel": 3,
+    "specification": "(play two)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 294,
+    "uilCode": "603-3-18151",
+    "title": "German Dances",
+    "composer": "Beethoven",
+    "arranger": "",
+    "publishers": [
+      "C.F. Peters Corporation"
+    ],
+    "publisherText": "C.F. Peters Corporation",
+    "classLevel": 3,
+    "specification": "(play two)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 295,
+    "uilCode": "603-3-18152",
+    "title": "Sonatinas in G major and F major, WoO Anh. 5",
+    "composer": "Beethoven",
+    "arranger": "",
+    "publishers": [
+      "Carl Fischer, Inc."
+    ],
+    "publisherText": "Carl Fischer, Inc.",
+    "classLevel": 3,
+    "specification": "(play either sonatina)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 296,
+    "uilCode": "603-3-18153",
+    "title": "Enfantines",
+    "composer": "Bloch",
+    "arranger": "",
+    "publishers": [
+      "Multiple Publishers",
+      "Carl Fischer, Inc.",
+      "G. Schirmer, Inc."
+    ],
+    "publisherText": "Multiple Publishers;Carl Fischer, Inc.;G. Schirmer, Inc.",
+    "classLevel": 3,
+    "specification": "(play two)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 329,
+    "uilCode": "603-3-39967",
+    "title": "25 Easy and Progressive Studies, Op. 100",
+    "composer": "Burgmuller",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 3,
+    "specification": "(play any two)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 297,
+    "uilCode": "603-3-18154",
+    "title": "Lyric Prelude",
+    "composer": "Chagy",
+    "arranger": "",
+    "publishers": [
+      "Boston Music Company"
+    ],
+    "publisherText": "Boston Music Company",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 298,
+    "uilCode": "603-3-18155",
+    "title": "Preludes Op. 28",
+    "composer": "Chopin",
+    "arranger": "",
+    "publishers": [
+      "Multiple Publishers",
+      "C.F. Peters Corporation",
+      "Alfred Music Company, Inc."
+    ],
+    "publisherText": "Multiple Publishers;C.F. Peters Corporation;Alfred Music Company, Inc.",
+    "classLevel": 3,
+    "specification": "(play 4, 7 or 20)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 299,
+    "uilCode": "603-3-18156",
+    "title": "Sonatinas, Op. 36, nos. 1-4",
+    "composer": "Clementi",
+    "arranger": "",
+    "publishers": [
+      "Multiple Publishers",
+      "Alfred Music Company, Inc.",
+      "Carl Fischer, Inc.",
+      "Any unabridged edition"
+    ],
+    "publisherText": "Multiple Publishers;Alfred Music Company, Inc.;Carl Fischer, Inc.;Any unabridged edition",
+    "classLevel": 3,
+    "specification": "(play first OR last mvt of any sonatina)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 300,
+    "uilCode": "603-3-18157",
+    "title": "Five Little Dances Op. 24",
+    "composer": "Creston",
+    "arranger": "",
+    "publishers": [
+      "G. Schirmer, Inc."
+    ],
+    "publisherText": "G. Schirmer, Inc.",
+    "classLevel": 3,
+    "specification": "(play two)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 301,
+    "uilCode": "603-3-18158",
+    "title": "Lyric Pieces for the Young",
+    "composer": "Dello Joio",
+    "arranger": "",
+    "publishers": [
+      "Multiple Publishers",
+      "Marks Music Corporation",
+      "G. Schirmer, Inc."
+    ],
+    "publisherText": "Multiple Publishers;Marks Music Corporation;G. Schirmer, Inc.",
+    "classLevel": 3,
+    "specification": "(play two)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 302,
+    "uilCode": "603-3-18159",
+    "title": "Suite for the Young",
+    "composer": "Dello Joio",
+    "arranger": "",
+    "publishers": [
+      "Multiple Publishers",
+      "Marks Music Corporation",
+      "G. Schirmer, Inc."
+    ],
+    "publisherText": "Multiple Publishers;Marks Music Corporation;G. Schirmer, Inc.",
+    "classLevel": 3,
+    "specification": "(play two)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 327,
+    "uilCode": "603-3-36090",
+    "title": "Lyric Preludes in Romantic Style",
+    "composer": "Gillock",
+    "arranger": "",
+    "publishers": [
+      "Multiple Publishers",
+      "Summy/Birchard",
+      "Alfred Music Company, Inc."
+    ],
+    "publisherText": "Multiple Publishers;Summy/Birchard;Alfred Music Company, Inc.",
+    "classLevel": 3,
+    "specification": "(play two)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 326,
+    "uilCode": "603-3-36089",
+    "title": "William Gillock Recital Collection",
+    "composer": "Gillock",
+    "arranger": "",
+    "publishers": [
+      "Willis Music Company"
+    ],
+    "publisherText": "Willis Music Company",
+    "classLevel": 3,
+    "specification": "(play two)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 303,
+    "uilCode": "603-3-18160",
+    "title": "Bell Ringing Op. 54 No. 6",
+    "composer": "Grieg",
+    "arranger": "Halford",
+    "publishers": [
+      "Alfred Music Company, Inc. [Grieg-An Introduction to his Piano Works]"
+    ],
+    "publisherText": "Alfred Music Company, Inc. [Grieg-An Introduction to his Piano Works]",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 304,
+    "uilCode": "603-3-18161",
+    "title": "Lyric Pieces Op. 12",
+    "composer": "Grieg",
+    "arranger": "",
+    "publishers": [
+      "Multiple Publishers",
+      "C.F. Peters Corporation",
+      "Edwin F. Kalmus"
+    ],
+    "publisherText": "Multiple Publishers;C.F. Peters Corporation;Edwin F. Kalmus",
+    "classLevel": 3,
+    "specification": "(play one)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 305,
+    "uilCode": "603-3-18162",
+    "title": "Sailor Song Op. 68 No. 1",
+    "composer": "Grieg",
+    "arranger": "Halford",
+    "publishers": [
+      "Alfred Music Company, Inc. [Grieg-An Introduction to his Piano Works]"
+    ],
+    "publisherText": "Alfred Music Company, Inc. [Grieg-An Introduction to his Piano Works]",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 330,
+    "uilCode": "603-3-39968",
+    "title": "Handel: The First Book for Pianists",
+    "composer": "Handel",
+    "arranger": "Lucktenberg",
+    "publishers": [
+      "Alfred Music Company, Inc. [Handel: The First Book for Pianists]"
+    ],
+    "publisherText": "Alfred Music Company, Inc. [Handel: The First Book for Pianists]",
+    "classLevel": 3,
+    "specification": "(play any two)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 306,
+    "uilCode": "603-3-18163",
+    "title": "Six Sonatinas (Divertimenti, Hob. XVI: 4, 7, 8, 9, 10, 11)",
+    "composer": "Haydn",
+    "arranger": "",
+    "publishers": [
+      "Alfred Music Company, Inc."
+    ],
+    "publisherText": "Alfred Music Company, Inc.",
+    "classLevel": 3,
+    "specification": "(play two mvts from one sonatina)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 307,
+    "uilCode": "603-3-18164",
+    "title": "30 Pieces for Children",
+    "composer": "Kabalevsky",
+    "arranger": "",
+    "publishers": [
+      "Multiple Publishers",
+      "G. Schirmer, Inc.",
+      "Any unabridged edition"
+    ],
+    "publisherText": "Multiple Publishers;G. Schirmer, Inc.;Any unabridged edition",
+    "classLevel": 3,
+    "specification": "(play two)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 308,
+    "uilCode": "603-3-18165",
+    "title": "Adventures of Ivan",
+    "composer": "Khatchaturian",
+    "arranger": "",
+    "publishers": [
+      "Multiple Publishers",
+      "Music Corporation of America",
+      "Any unabridged edition"
+    ],
+    "publisherText": "Multiple Publishers;Music Corporation of America;Any unabridged edition",
+    "classLevel": 3,
+    "specification": "(play two)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 331,
+    "uilCode": "603-3-39969",
+    "title": "Sonatinas, Op. 55, Nos. 1 and 2",
+    "composer": "Kuhlau",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 3,
+    "specification": "(play first OR last mvt of any sonatina)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 309,
+    "uilCode": "603-3-18166",
+    "title": "Touches Blanches",
+    "composer": "Milhaud",
+    "arranger": "",
+    "publishers": [
+      "Multiple Publishers",
+      "Carl Fischer, Inc.",
+      "Any unabridged edition"
+    ],
+    "publisherText": "Multiple Publishers;Carl Fischer, Inc.;Any unabridged edition",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 310,
+    "uilCode": "603-3-18167",
+    "title": "Touches Noires",
+    "composer": "Milhaud",
+    "arranger": "",
+    "publishers": [
+      "Multiple Publishers",
+      "Carl Fischer, Inc.",
+      "Any unabridged edition"
+    ],
+    "publisherText": "Multiple Publishers;Carl Fischer, Inc.;Any unabridged edition",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 332,
+    "uilCode": "603-3-39970",
+    "title": "Eight Minuets, K. 315",
+    "composer": "Mozart",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 3,
+    "specification": "(play any two)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 313,
+    "uilCode": "603-3-18170",
+    "title": "German Dances",
+    "composer": "Mozart",
+    "arranger": "",
+    "publishers": [
+      "C.F. Peters Corporation"
+    ],
+    "publisherText": "C.F. Peters Corporation",
+    "classLevel": 3,
+    "specification": "(play two)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 311,
+    "uilCode": "603-3-18168",
+    "title": "Notebook for Nannerl",
+    "composer": "Mozart",
+    "arranger": "",
+    "publishers": [
+      "Multiple Publishers",
+      "Schott Company",
+      "Carl Fischer, Inc."
+    ],
+    "publisherText": "Multiple Publishers;Schott Company;Carl Fischer, Inc.",
+    "classLevel": 3,
+    "specification": "(play two)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 312,
+    "uilCode": "603-3-18169",
+    "title": "Notebook for Wolfgang",
+    "composer": "Mozart",
+    "arranger": "",
+    "publishers": [
+      "Multiple Publishers",
+      "Schott Company",
+      "Any unabridged edition"
+    ],
+    "publisherText": "Multiple Publishers;Schott Company;Any unabridged edition",
+    "classLevel": 3,
+    "specification": "(play two)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 333,
+    "uilCode": "603-3-39971",
+    "title": "Japanese Festival",
+    "composer": "Nakada",
+    "arranger": "Lew",
+    "publishers": [
+      "Alfred Music Company, Inc."
+    ],
+    "publisherText": "Alfred Music Company, Inc.",
+    "classLevel": 3,
+    "specification": "(play any two)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 314,
+    "uilCode": "603-3-18171",
+    "title": "Little Piano Book",
+    "composer": "Persichetti",
+    "arranger": "",
+    "publishers": [
+      "Elkan-Vogel Company, Inc."
+    ],
+    "publisherText": "Elkan-Vogel Company, Inc.",
+    "classLevel": 3,
+    "specification": "(play two)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 315,
+    "uilCode": "603-3-18172",
+    "title": "Children's Festival",
+    "composer": "Pinto",
+    "arranger": "",
+    "publishers": [
+      "G. Schirmer, Inc."
+    ],
+    "publisherText": "G. Schirmer, Inc.",
+    "classLevel": 3,
+    "specification": "(play two)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 316,
+    "uilCode": "603-3-18173",
+    "title": "Scenes Infantas",
+    "composer": "Pinto",
+    "arranger": "",
+    "publishers": [
+      "G. Schirmer, Inc."
+    ],
+    "publisherText": "G. Schirmer, Inc.",
+    "classLevel": 3,
+    "specification": "(play two)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 317,
+    "uilCode": "603-3-18174",
+    "title": "Grandmother's Tales Op. 31",
+    "composer": "Prokofiev",
+    "arranger": "",
+    "publishers": [
+      "Multiple Publishers",
+      "Boosey & Hawkes, Inc.",
+      "Edwin F. Kalmus",
+      "Music Corporation of America"
+    ],
+    "publisherText": "Multiple Publishers;Boosey & Hawkes, Inc.;Edwin F. Kalmus;Music Corporation of America",
+    "classLevel": 3,
+    "specification": "(play two)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 328,
+    "uilCode": "603-3-36091",
+    "title": "Pieces for Children, Op. 65",
+    "composer": "Prokofiev",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 3,
+    "specification": "(play two)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 334,
+    "uilCode": "603-3-39972",
+    "title": "Danse Orientale, Op. 2, No. 5",
+    "composer": "Rebikov",
+    "arranger": "Agay",
+    "publishers": [
+      "Music Sales Corp. [Easy Classics to Moderns]"
+    ],
+    "publisherText": "Music Sales Corp. [Easy Classics to Moderns]",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 318,
+    "uilCode": "603-3-18175",
+    "title": "Silhouettes",
+    "composer": "Rebikov",
+    "arranger": "",
+    "publishers": [
+      "G. Schirmer, Inc."
+    ],
+    "publisherText": "G. Schirmer, Inc.",
+    "classLevel": 3,
+    "specification": "(play two)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 319,
+    "uilCode": "603-3-18176",
+    "title": "Dances (Ecossaises, German Dances, L\u00e4ndler, Waltzes)",
+    "composer": "Schubert",
+    "arranger": "",
+    "publishers": [
+      "Multiple Publishers",
+      "Dover",
+      "Henle Publishing"
+    ],
+    "publisherText": "Multiple Publishers;Dover;Henle Publishing",
+    "classLevel": 3,
+    "specification": "(play two from the same set or opus no.)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 320,
+    "uilCode": "603-3-18177",
+    "title": "Album for the Young Op. 68",
+    "composer": "Schumann",
+    "arranger": "",
+    "publishers": [
+      "Multiple Publishers",
+      "Alfred Music Company, Inc.",
+      "Any unabridged edition"
+    ],
+    "publisherText": "Multiple Publishers;Alfred Music Company, Inc.;Any unabridged edition",
+    "classLevel": 3,
+    "specification": "(play two)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 321,
+    "uilCode": "603-3-18178",
+    "title": "American Kaleidoscope",
+    "composer": "Siegmeister",
+    "arranger": "",
+    "publishers": [
+      "Multiple Publishers",
+      "Sam Fox Publishing Company",
+      "Alfred Music Company, Inc."
+    ],
+    "publisherText": "Multiple Publishers;Sam Fox Publishing Company;Alfred Music Company, Inc.",
+    "classLevel": 3,
+    "specification": "(play two contrasting pieces)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 322,
+    "uilCode": "603-3-18179",
+    "title": "Sketches in Color, Book 1",
+    "composer": "Starer",
+    "arranger": "",
+    "publishers": [
+      "Music Corporation of America"
+    ],
+    "publisherText": "Music Corporation of America",
+    "classLevel": 3,
+    "specification": "(play three)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 323,
+    "uilCode": "603-3-18180",
+    "title": "Pour les Enfants, Vol. 1-4",
+    "composer": "Tansman",
+    "arranger": "",
+    "publishers": [
+      "Multiple Publishers",
+      "Max Eschig",
+      "Durand"
+    ],
+    "publisherText": "Multiple Publishers;Max Eschig;Durand",
+    "classLevel": 3,
+    "specification": "(play three)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 324,
+    "uilCode": "603-3-18181",
+    "title": "Album for the Young Op. 39",
+    "composer": "Tchaikovsky",
+    "arranger": "",
+    "publishers": [
+      "Multiple Publishers",
+      "Alfred Music Company, Inc.",
+      "Any unabridged edition"
+    ],
+    "publisherText": "Multiple Publishers;Alfred Music Company, Inc.;Any unabridged edition",
+    "classLevel": 3,
+    "specification": "(play two)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 325,
+    "uilCode": "603-3-18182",
+    "title": "Preludes, Vol. 1",
+    "composer": "Vandall",
+    "arranger": "",
+    "publishers": [
+      "Myklas"
+    ],
+    "publisherText": "Myklas",
+    "classLevel": 3,
+    "specification": "(play # 1 & 6)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 210,
+    "uilCode": "603-2-18089",
+    "title": "Little Preludes, BWV 924-931, 933-943",
+    "composer": "Bach",
+    "arranger": "",
+    "publishers": [
+      "Multiple Publishers",
+      "C.F. Peters Corporation",
+      "Alfred Music Company, Inc.",
+      "Any unabridged edition"
+    ],
+    "publisherText": "Multiple Publishers;C.F. Peters Corporation;Alfred Music Company, Inc.;Any unabridged edition",
+    "classLevel": 2,
+    "specification": "(play two)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 211,
+    "uilCode": "603-2-18090",
+    "title": "Two-Part Inventions, BWV 772-786",
+    "composer": "Bach",
+    "arranger": "",
+    "publishers": [
+      "Multiple Publishers",
+      "Alfred Music Company, Inc.",
+      "Carl Fischer, Inc.",
+      "C.F. Peters Corporation",
+      "Edwin F. Kalmus",
+      "Barenreiter/Verlag",
+      "Foreign Music Distributors"
+    ],
+    "publisherText": "Multiple Publishers;Alfred Music Company, Inc.;Carl Fischer, Inc.;C.F. Peters Corporation;Edwin F. Kalmus;Barenreiter/Verlag;Foreign Music Distributors",
+    "classLevel": 2,
+    "specification": "(play one)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 213,
+    "uilCode": "603-2-18092",
+    "title": "Bear Dance (from Ten Easy Pieces)",
+    "composer": "Bartok",
+    "arranger": "",
+    "publishers": [
+      "Boosey & Hawkes, Inc."
+    ],
+    "publisherText": "Boosey & Hawkes, Inc.",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 214,
+    "uilCode": "603-2-18093",
+    "title": "Fifteen Hungarian Peasant Songs",
+    "composer": "Bartok",
+    "arranger": "",
+    "publishers": [
+      "Boosey & Hawkes, Inc."
+    ],
+    "publisherText": "Boosey & Hawkes, Inc.",
+    "classLevel": 2,
+    "specification": "(play two)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 215,
+    "uilCode": "603-2-18094",
+    "title": "Mikrokosmos, Vol. IV",
+    "composer": "Bartok",
+    "arranger": "",
+    "publishers": [
+      "Boosey & Hawkes, Inc."
+    ],
+    "publisherText": "Boosey & Hawkes, Inc.",
+    "classLevel": 2,
+    "specification": "(play two)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 216,
+    "uilCode": "603-2-18095",
+    "title": "Rumanian Christmas Songs",
+    "composer": "Bartok",
+    "arranger": "",
+    "publishers": [
+      "Boosey & Hawkes, Inc."
+    ],
+    "publisherText": "Boosey & Hawkes, Inc.",
+    "classLevel": 2,
+    "specification": "(play two)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 217,
+    "uilCode": "603-2-18096",
+    "title": "Rumanian Folk Dances",
+    "composer": "Bartok",
+    "arranger": "",
+    "publishers": [
+      "Boosey & Hawkes, Inc."
+    ],
+    "publisherText": "Boosey & Hawkes, Inc.",
+    "classLevel": 2,
+    "specification": "(play two)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 212,
+    "uilCode": "603-2-18091",
+    "title": "Sonatina - Mvt. 1 (Bagpipe)",
+    "composer": "Bartok",
+    "arranger": "",
+    "publishers": [
+      "Boosey & Hawkes, Inc."
+    ],
+    "publisherText": "Boosey & Hawkes, Inc.",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 262,
+    "uilCode": "603-2-39939",
+    "title": "Children\u2019s Album, Op. 36",
+    "composer": "Beach",
+    "arranger": "",
+    "publishers": [
+      "Multiple Publishers",
+      "Clifton Edition Ltd.",
+      "Schott Company",
+      "Hal Leonard Music, Inc."
+    ],
+    "publisherText": "Multiple Publishers;Clifton Edition Ltd.;Schott Company;Hal Leonard Music, Inc.",
+    "classLevel": 2,
+    "specification": "(play any two)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 218,
+    "uilCode": "603-2-18097",
+    "title": "Bagatelles Op. 33",
+    "composer": "Beethoven",
+    "arranger": "",
+    "publishers": [
+      "C.F. Peters Corporation"
+    ],
+    "publisherText": "C.F. Peters Corporation",
+    "classLevel": 2,
+    "specification": "(play one)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 219,
+    "uilCode": "603-2-18098",
+    "title": "Sonatas Op. 49, No. 1 and No. 2",
+    "composer": "Beethoven",
+    "arranger": "",
+    "publishers": [
+      "Multiple Publishers",
+      "C.F. Peters Corporation",
+      "Edwin F. Kalmus",
+      "Any unabridged edition"
+    ],
+    "publisherText": "Multiple Publishers;C.F. Peters Corporation;Edwin F. Kalmus;Any unabridged edition",
+    "classLevel": 2,
+    "specification": "(play one mvt of either Sonata)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 263,
+    "uilCode": "603-2-39940",
+    "title": "Variations on Nel cor pi\u00f9 non mi sento, WoO 70",
+    "composer": "Beethoven",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 220,
+    "uilCode": "603-2-18099",
+    "title": "Variations on a Swiss Song",
+    "composer": "Beethoven",
+    "arranger": "",
+    "publishers": [
+      "Alfred Music Company, Inc. [Beethoven-An Introduction to his Piano Works]"
+    ],
+    "publisherText": "Alfred Music Company, Inc. [Beethoven-An Introduction to his Piano Works]",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 221,
+    "uilCode": "603-2-18100",
+    "title": "Waltzes, Op. 39 (simplified version by composer)",
+    "composer": "Brahms",
+    "arranger": "",
+    "publishers": [
+      "Edwin F. Kalmus"
+    ],
+    "publisherText": "Edwin F. Kalmus",
+    "classLevel": 2,
+    "specification": "(play two)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 264,
+    "uilCode": "603-2-39941",
+    "title": "Mazurka in B-flat major, Op. 7, no. 1",
+    "composer": "Chopin",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 265,
+    "uilCode": "603-2-39942",
+    "title": "Mazurka in G minor, Op. 67, no. 2",
+    "composer": "Chopin",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 222,
+    "uilCode": "603-2-18102",
+    "title": "Mazurkas, Op. 68, No. 2 or 3",
+    "composer": "Chopin",
+    "arranger": "",
+    "publishers": [
+      "Multiple Publishers",
+      "C.F. Peters Corporation",
+      "Chopin Institute Edition",
+      "Salabert, Inc.",
+      "Any unabridged edition"
+    ],
+    "publisherText": "Multiple Publishers;C.F. Peters Corporation;Chopin Institute Edition;Salabert, Inc.;Any unabridged edition",
+    "classLevel": 2,
+    "specification": "(play one)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 266,
+    "uilCode": "603-2-39943",
+    "title": "Polonaise in G minor, Op. post.",
+    "composer": "Chopin",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 223,
+    "uilCode": "603-2-18105",
+    "title": "Preludes, Op. 28, nos. 6 (B minor), 15 (D-flat major), 22 (G minor)",
+    "composer": "Chopin",
+    "arranger": "",
+    "publishers": [
+      "Multiple Publishers",
+      "Alfred Music Company, Inc.",
+      "C.F. Peters Corporation",
+      "Any unabridged edition"
+    ],
+    "publisherText": "Multiple Publishers;Alfred Music Company, Inc.;C.F. Peters Corporation;Any unabridged edition",
+    "classLevel": 2,
+    "specification": "(play two preludes)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 267,
+    "uilCode": "603-2-39944",
+    "title": "Waltz in A minor, Op. post. BI 150",
+    "composer": "Chopin",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 224,
+    "uilCode": "603-2-18106",
+    "title": "Sonatina Op. 36 No. 6",
+    "composer": "Clementi",
+    "arranger": "",
+    "publishers": [
+      "Multiple Publishers",
+      "Alfred Music Company, Inc.",
+      "Any unabridged edition"
+    ],
+    "publisherText": "Multiple Publishers;Alfred Music Company, Inc.;Any unabridged edition",
+    "classLevel": 2,
+    "specification": "(play both mvts)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 268,
+    "uilCode": "603-2-39945",
+    "title": "Sonatina in G major, Op. 36, no. 5",
+    "composer": "Clementi",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 2,
+    "specification": "(play two mvts)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 269,
+    "uilCode": "603-2-39946",
+    "title": "Sonatinas Op. 37, nos. 1, 2, and 3",
+    "composer": "Clementi",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 2,
+    "specification": "(play one mvt of any sonatina)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 270,
+    "uilCode": "603-2-39947",
+    "title": "Sonatinas Op. 38, nos. 1, 2, and 3",
+    "composer": "Clementi",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 2,
+    "specification": "(play one mvt of any sonatina)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 225,
+    "uilCode": "603-2-18107",
+    "title": "Down a Country Lane",
+    "composer": "Copland",
+    "arranger": "",
+    "publishers": [
+      "Boosey & Hawkes, Inc."
+    ],
+    "publisherText": "Boosey & Hawkes, Inc.",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 226,
+    "uilCode": "603-2-18108",
+    "title": "The Harper Minstrel Sings",
+    "composer": "Cowell",
+    "arranger": "",
+    "publishers": [
+      "Multiple Publishers",
+      "Associated Music Publishers Inc.",
+      "Carl Fischer, Inc. [In Masters Of Our Day, V. 1]"
+    ],
+    "publisherText": "Multiple Publishers;Associated Music Publishers Inc.;Carl Fischer, Inc. [In Masters Of Our Day, V. 1]",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 227,
+    "uilCode": "603-2-18109",
+    "title": "The Irishman Dances",
+    "composer": "Cowell",
+    "arranger": "",
+    "publishers": [
+      "Multiple Publishers",
+      "Associated Music Publishers Inc.",
+      "Carl Fischer, Inc. [In Masters Of Our Day, V. 1]"
+    ],
+    "publisherText": "Multiple Publishers;Associated Music Publishers Inc.;Carl Fischer, Inc. [In Masters Of Our Day, V. 1]",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 228,
+    "uilCode": "603-2-18110",
+    "title": "The Snows of Fugi-Yama",
+    "composer": "Cowell",
+    "arranger": "",
+    "publishers": [
+      "Associated Music Publishers Inc."
+    ],
+    "publisherText": "Associated Music Publishers Inc.",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 229,
+    "uilCode": "603-2-18111",
+    "title": "Pastorale",
+    "composer": "Crumb",
+    "arranger": "",
+    "publishers": [
+      "Belwin, Inc"
+    ],
+    "publisherText": "Belwin, Inc",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 230,
+    "uilCode": "603-2-18112",
+    "title": "Bruyeres",
+    "composer": "Debussy",
+    "arranger": "",
+    "publishers": [
+      "Multiple Publishers",
+      "Durand [Preludes Book II]",
+      "Any unabridged edition"
+    ],
+    "publisherText": "Multiple Publishers;Durand [Preludes Book II];Any unabridged edition",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 271,
+    "uilCode": "603-2-39948",
+    "title": "Children\u2019s Corner Suite",
+    "composer": "Debussy",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 2,
+    "specification": "(play No. 2-Children\u2019s Corner Suite OR No. 5-The Little Shepherd)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 272,
+    "uilCode": "603-2-39949",
+    "title": "Mazurka",
+    "composer": "Debussy",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 231,
+    "uilCode": "603-2-18114",
+    "title": "Reverie",
+    "composer": "Debussy",
+    "arranger": "",
+    "publishers": [
+      "Multiple Publishers",
+      "Durand",
+      "Any unabridged edition"
+    ],
+    "publisherText": "Multiple Publishers;Durand;Any unabridged edition",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 232,
+    "uilCode": "603-2-18115",
+    "title": "Nocturne in B-flat major, H. 37",
+    "composer": "Field",
+    "arranger": "",
+    "publishers": [
+      "C.F. Peters Corp. [Eighteen Nocturnes, ed. Louis K\u00f6hler]"
+    ],
+    "publisherText": "C.F. Peters Corp. [Eighteen Nocturnes, ed. Louis K\u00f6hler]",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 233,
+    "uilCode": "603-2-18116",
+    "title": "Twelve Spanish Dances, Volume I",
+    "composer": "Granados",
+    "arranger": "",
+    "publishers": [
+      "Edwin F. Kalmus"
+    ],
+    "publisherText": "Edwin F. Kalmus",
+    "classLevel": 2,
+    "specification": "(play one)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 274,
+    "uilCode": "603-2-39951",
+    "title": "French Serenade, Op. 62, no. 3",
+    "composer": "Grieg",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 273,
+    "uilCode": "603-2-39950",
+    "title": "Homesickness, Op. 57, no. 6",
+    "composer": "Grieg",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 234,
+    "uilCode": "603-2-18118",
+    "title": "Lyrical Pieces Op. 38 and Op. 43",
+    "composer": "Grieg",
+    "arranger": "",
+    "publishers": [
+      "G. Schirmer, Inc."
+    ],
+    "publisherText": "G. Schirmer, Inc.",
+    "classLevel": 2,
+    "specification": "(play one)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 235,
+    "uilCode": "603-2-18119",
+    "title": "Nocturne Op. 54 No. 4",
+    "composer": "Grieg",
+    "arranger": "",
+    "publishers": [
+      "G. Schirmer, Inc."
+    ],
+    "publisherText": "G. Schirmer, Inc.",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 275,
+    "uilCode": "603-2-39952",
+    "title": "Sm\u00e5trold (Puck), Op. 71, no. 3",
+    "composer": "Grieg",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 277,
+    "uilCode": "603-2-39954",
+    "title": "Suite in E major, HWV 430",
+    "composer": "Handel",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 2,
+    "specification": "(play The Harmonious Blacksmith)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 276,
+    "uilCode": "603-2-39953",
+    "title": "Suite in G minor, HWV 432",
+    "composer": "Handel",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 2,
+    "specification": "(play Passacaille)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 236,
+    "uilCode": "603-2-18120",
+    "title": "Enchantment",
+    "composer": "Hanson",
+    "arranger": "",
+    "publishers": [
+      "Multiple Publishers",
+      "Carl Fischer, Inc.",
+      "Any unabridged edition"
+    ],
+    "publisherText": "Multiple Publishers;Carl Fischer, Inc.;Any unabridged edition",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 237,
+    "uilCode": "603-2-18121",
+    "title": "Mystic Flute",
+    "composer": "Hovhaness",
+    "arranger": "",
+    "publishers": [
+      "C.F. Peters Corporation"
+    ],
+    "publisherText": "C.F. Peters Corporation",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 238,
+    "uilCode": "603-2-18122",
+    "title": "Twelve Armenian Folk Songs",
+    "composer": "Hovhaness",
+    "arranger": "",
+    "publishers": [
+      "C.F. Peters Corporation"
+    ],
+    "publisherText": "C.F. Peters Corporation",
+    "classLevel": 2,
+    "specification": "(play two)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 239,
+    "uilCode": "603-2-18123",
+    "title": "The Giddy Girl",
+    "composer": "Ibert",
+    "arranger": "",
+    "publishers": [
+      "Alphonse Leduc"
+    ],
+    "publisherText": "Alphonse Leduc",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 240,
+    "uilCode": "603-2-18124",
+    "title": "The Little White Donkey",
+    "composer": "Ibert",
+    "arranger": "",
+    "publishers": [
+      "Alphonse Leduc"
+    ],
+    "publisherText": "Alphonse Leduc",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 278,
+    "uilCode": "603-2-39955",
+    "title": "Four Rondos, Op. 60",
+    "composer": "Kabalevsky",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 2,
+    "specification": "(play one)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 241,
+    "uilCode": "603-2-18125",
+    "title": "Sonatina in C Op. 13 No. 1",
+    "composer": "Kabalevsky",
+    "arranger": "",
+    "publishers": [
+      "Multiple Publishers",
+      "Music Corporation of America",
+      "Any unabridged edition"
+    ],
+    "publisherText": "Multiple Publishers;Music Corporation of America;Any unabridged edition",
+    "classLevel": 2,
+    "specification": "(play two mvts)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 242,
+    "uilCode": "603-2-18126",
+    "title": "Variations in D major, Op. 40, no. 1",
+    "composer": "Kabalevsky",
+    "arranger": "",
+    "publishers": [
+      "Multiple Publishers",
+      "Music Corporation of America",
+      "Any unabridged edition"
+    ],
+    "publisherText": "Multiple Publishers;Music Corporation of America;Any unabridged edition",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 279,
+    "uilCode": "603-2-39956",
+    "title": "Variations in F major, Op. 51, no. 1",
+    "composer": "Kabalevsky",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 243,
+    "uilCode": "603-2-18127",
+    "title": "Three Miniatures",
+    "composer": "Korte",
+    "arranger": "",
+    "publishers": [
+      "E.C. Schirmer Music Company"
+    ],
+    "publisherText": "E.C. Schirmer Music Company",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 281,
+    "uilCode": "603-2-39958",
+    "title": "Sonatina in A minor, Op. 88, no. 3",
+    "composer": "Kuhlau",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 2,
+    "specification": "(play first OR last mvt)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 280,
+    "uilCode": "603-2-39957",
+    "title": "Sonatinas, Op. 20, nos. 1, 2, 3",
+    "composer": "Kuhlau",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 2,
+    "specification": "(play first OR last mvt of any sonatina)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 244,
+    "uilCode": "603-2-18128",
+    "title": "La Comparsa (Danzas Afro-Cubanas, no. 6)",
+    "composer": "Lecuona",
+    "arranger": "",
+    "publishers": [
+      "EBM"
+    ],
+    "publisherText": "EBM",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 282,
+    "uilCode": "603-2-39959",
+    "title": "Consolations",
+    "composer": "Liszt",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 2,
+    "specification": "(play one)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 283,
+    "uilCode": "603-2-39960",
+    "title": "Sea Pieces, Op. 55",
+    "composer": "MacDowell",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 2,
+    "specification": "(play any two)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 245,
+    "uilCode": "603-2-18129",
+    "title": "Woodland Sketches Op. 51",
+    "composer": "MacDowell",
+    "arranger": "",
+    "publishers": [
+      "Boston Music Company"
+    ],
+    "publisherText": "Boston Music Company",
+    "classLevel": 2,
+    "specification": "(play two)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 246,
+    "uilCode": "603-2-18130",
+    "title": "Song Without Words",
+    "composer": "Mendelssohn",
+    "arranger": "",
+    "publishers": [
+      "Carl Fischer, Inc."
+    ],
+    "publisherText": "Carl Fischer, Inc.",
+    "classLevel": 2,
+    "specification": "(play one EXCEPT Op. 19-No.5; Op. 30-No.4; Op. 38-No.6; Op. 67-No.4)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 247,
+    "uilCode": "603-2-18131",
+    "title": "Poemetti: 12 Pieces for Children",
+    "composer": "Menotti",
+    "arranger": "",
+    "publishers": [
+      "Multiple Publishers",
+      "Ricordi & Company, Inc.",
+      "Any unabridged edition"
+    ],
+    "publisherText": "Multiple Publishers;Ricordi & Company, Inc.;Any unabridged edition",
+    "classLevel": 2,
+    "specification": "(play two)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 248,
+    "uilCode": "603-2-18132",
+    "title": "Scenes d' Enfants",
+    "composer": "Mompou",
+    "arranger": "",
+    "publishers": [
+      "Salabert, Inc."
+    ],
+    "publisherText": "Salabert, Inc.",
+    "classLevel": 2,
+    "specification": "(play two)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 284,
+    "uilCode": "603-2-39961",
+    "title": "Fantasy in D minor, K. 397",
+    "composer": "Mozart",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 249,
+    "uilCode": "603-2-18133",
+    "title": "Six Viennese Sonatinas, K. 439b",
+    "composer": "Mozart",
+    "arranger": "",
+    "publishers": [
+      "Multiple Publishers",
+      "International Music Company",
+      "Schott Company",
+      "Any unabridged edition"
+    ],
+    "publisherText": "Multiple Publishers;International Music Company;Schott Company;Any unabridged edition",
+    "classLevel": 2,
+    "specification": "(play two mvts from one sonatina)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 250,
+    "uilCode": "603-2-18134",
+    "title": "Diversions Op. 23",
+    "composer": "Muczynski",
+    "arranger": "",
+    "publishers": [
+      "G. Schirmer, Inc."
+    ],
+    "publisherText": "G. Schirmer, Inc.",
+    "classLevel": 2,
+    "specification": "(play two)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 251,
+    "uilCode": "603-2-18135",
+    "title": "Six Preludes Op. 6",
+    "composer": "Muczynski",
+    "arranger": "",
+    "publishers": [
+      "G. Schirmer, Inc."
+    ],
+    "publisherText": "G. Schirmer, Inc.",
+    "classLevel": 2,
+    "specification": "(play two)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 252,
+    "uilCode": "603-2-18136",
+    "title": "Piano Sonatinas: Op. 38, 45, 47, 63, 64, 65",
+    "composer": "Persichetti",
+    "arranger": "",
+    "publishers": [
+      "Elkan-Vogel Company, Inc."
+    ],
+    "publisherText": "Elkan-Vogel Company, Inc.",
+    "classLevel": 2,
+    "specification": "(play all of one sonatina)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 253,
+    "uilCode": "603-2-18137",
+    "title": "Villageoises",
+    "composer": "Poulenc",
+    "arranger": "",
+    "publishers": [
+      "Salabert, Inc."
+    ],
+    "publisherText": "Salabert, Inc.",
+    "classLevel": 2,
+    "specification": "(play two)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 285,
+    "uilCode": "603-2-39962",
+    "title": "Ten Negro Spirituals",
+    "composer": "Price",
+    "arranger": "",
+    "publishers": [
+      "G. Schirmer, Inc."
+    ],
+    "publisherText": "G. Schirmer, Inc.",
+    "classLevel": 2,
+    "specification": "(play any two)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 287,
+    "uilCode": "603-2-39964",
+    "title": "Gnossiennes",
+    "composer": "Satie",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 2,
+    "specification": "(play any two)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 254,
+    "uilCode": "603-2-18138",
+    "title": "Trois Gymnop\u00e9dies",
+    "composer": "Satie",
+    "arranger": "",
+    "publishers": [
+      "Multiple Publishers",
+      "Edwin F. Kalmus",
+      "Any unabridged edition"
+    ],
+    "publisherText": "Multiple Publishers;Edwin F. Kalmus;Any unabridged edition",
+    "classLevel": 2,
+    "specification": "(play two)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 288,
+    "uilCode": "603-2-39965",
+    "title": "Two Scherzi, D. 593",
+    "composer": "Schubert",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 2,
+    "specification": "(play one)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 255,
+    "uilCode": "603-2-18140",
+    "title": "Scenes of Childhood (Kinderszenen), Op. 15",
+    "composer": "Schumann",
+    "arranger": "",
+    "publishers": [
+      "Multiple Publishers",
+      "Carl Fischer, Inc.",
+      "Alfred Music Company, Inc.",
+      "Any unabridged edition"
+    ],
+    "publisherText": "Multiple Publishers;Carl Fischer, Inc.;Alfred Music Company, Inc.;Any unabridged edition",
+    "classLevel": 2,
+    "specification": "(play two)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 256,
+    "uilCode": "603-2-18141",
+    "title": "Lotus Land, Op. 47, no. 1",
+    "composer": "Scott",
+    "arranger": "",
+    "publishers": [
+      "Multiple Publishers",
+      "Carl Fischer, Inc.",
+      "Schott Company"
+    ],
+    "publisherText": "Multiple Publishers;Carl Fischer, Inc.;Schott Company",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 257,
+    "uilCode": "603-2-18142",
+    "title": "Three Fantastic Dances, Op. 5",
+    "composer": "Shostakovich",
+    "arranger": "",
+    "publishers": [
+      "Multiple Publishers",
+      "Music Corporation of America",
+      "Boosey & Hawkes, Inc.",
+      "G. Schirmer, Inc."
+    ],
+    "publisherText": "Multiple Publishers;Music Corporation of America;Boosey & Hawkes, Inc.;G. Schirmer, Inc.",
+    "classLevel": 2,
+    "specification": "(play two dances)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 258,
+    "uilCode": "603-2-18143",
+    "title": "Sketches in Color",
+    "composer": "Starer",
+    "arranger": "",
+    "publishers": [
+      "Music Corporation of America"
+    ],
+    "publisherText": "Music Corporation of America",
+    "classLevel": 2,
+    "specification": "(play two sketches)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 259,
+    "uilCode": "603-2-18144",
+    "title": "Bagatelles, Op. 5",
+    "composer": "Tcherepnin",
+    "arranger": "",
+    "publishers": [
+      "Multiple Publishers",
+      "G. Schirmer, Inc.",
+      "Any unabridged edition"
+    ],
+    "publisherText": "Multiple Publishers;G. Schirmer, Inc.;Any unabridged edition",
+    "classLevel": 2,
+    "specification": "(play one)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 260,
+    "uilCode": "603-2-18145",
+    "title": "Sacro Monte (from Danses Gitanes Op. 55 No. 5)",
+    "composer": "Turina",
+    "arranger": "",
+    "publishers": [
+      "Salabert, Inc."
+    ],
+    "publisherText": "Salabert, Inc.",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 261,
+    "uilCode": "603-2-18146",
+    "title": "The Clowns (The Circus, Op. 68, no. 5)",
+    "composer": "Turina",
+    "arranger": "",
+    "publishers": [
+      "Salabert, Inc."
+    ],
+    "publisherText": "Salabert, Inc.",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 289,
+    "uilCode": "603-2-39966",
+    "title": "O Polichinello (A Pr\u00f3le do B\u00e9b\u00e9, no. 1:7)",
+    "composer": "Villa-Lobos",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 286,
+    "uilCode": "603-2-39963",
+    "title": "Piano Literature, Vol. 4",
+    "composer": "various",
+    "arranger": "Bastien",
+    "publishers": [
+      "Neil A. Kjos Music Company [Piano Literature, Vol. 4]"
+    ],
+    "publisherText": "Neil A. Kjos Music Company [Piano Literature, Vol. 4]",
+    "classLevel": 2,
+    "specification": "(play Valse m\u00e9lancolique, Op. 2, no. 3)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 94,
+    "uilCode": "603-1-39823",
+    "title": "Chants d\u2019Espagne, Op. 232",
+    "composer": "Albeniz",
+    "arranger": "",
+    "publishers": [
+      "Multiple Publishers",
+      "Henle Publishing",
+      "Union Musical Ediciones"
+    ],
+    "publisherText": "Multiple Publishers;Henle Publishing;Union Musical Ediciones",
+    "classLevel": 1,
+    "specification": "(play one mvt)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 93,
+    "uilCode": "603-1-39822",
+    "title": "Suite Espa\u00f1ola, Op. 47",
+    "composer": "Albeniz",
+    "arranger": "",
+    "publishers": [
+      "Multiple Publishers",
+      "International Music Company",
+      "Union Musical Ediciones"
+    ],
+    "publisherText": "Multiple Publishers;International Music Company;Union Musical Ediciones",
+    "classLevel": 1,
+    "specification": "(play one mvt)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 1,
+    "uilCode": "603-1-18026",
+    "title": "Capriccio in Bb Major",
+    "composer": "Bach",
+    "arranger": "",
+    "publishers": [
+      "Multiple Publishers",
+      "Edwin F. Kalmus",
+      "C.F. Peters Corporation"
+    ],
+    "publisherText": "Multiple Publishers;Edwin F. Kalmus;C.F. Peters Corporation",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 95,
+    "uilCode": "603-1-39824",
+    "title": "Capriccio on the Departure of a Beloved Brother, BWV 992",
+    "composer": "Bach",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 2,
+    "uilCode": "603-1-18027",
+    "title": "Fantasy in c minor, BWV 906",
+    "composer": "Bach",
+    "arranger": "",
+    "publishers": [
+      "Multiple Publishers",
+      "C.F. Peters Corporation",
+      "G. Henle Verlag/USA, Inc.",
+      "Edwin F. Kalmus",
+      "Any unabridged edition"
+    ],
+    "publisherText": "Multiple Publishers;C.F. Peters Corporation;G. Henle Verlag/USA, Inc.;Edwin F. Kalmus;Any unabridged edition",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 4,
+    "uilCode": "603-1-18029",
+    "title": "Italian Concerto, BWV 971",
+    "composer": "Bach",
+    "arranger": "",
+    "publishers": [
+      "Multiple Publishers",
+      "Alfred Music Company, Inc.",
+      "Barenreiter/Verlag",
+      "Foreign Music Distributors",
+      "Any unabridged edition"
+    ],
+    "publisherText": "Multiple Publishers;Alfred Music Company, Inc.;Barenreiter/Verlag;Foreign Music Distributors;Any unabridged edition",
+    "classLevel": 1,
+    "specification": "(play first or last mvt) NMR:(play first and last mvts)",
+    "noMemoryRequired": true
+  },
+  {
+    "id": 3,
+    "uilCode": "603-1-18028",
+    "title": "Sinfonias (Three-Part Inventions) BWV 787-801",
+    "composer": "Bach",
+    "arranger": "",
+    "publishers": [
+      "Multiple Publishers",
+      "Alfred Music Company, Inc.",
+      "Barenreiter/Verlag",
+      "Foreign Music Distributors",
+      "Any unabridged edition"
+    ],
+    "publisherText": "Multiple Publishers;Alfred Music Company, Inc.;Barenreiter/Verlag;Foreign Music Distributors;Any unabridged edition",
+    "classLevel": 1,
+    "specification": "(play two 3 part inventions)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 63,
+    "uilCode": "603-1-36057",
+    "title": "Six English Suites, BWV 806-811",
+    "composer": "Bach",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 1,
+    "specification": "(play any Prelude OR two other contrasting mvts from the same suite)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 5,
+    "uilCode": "603-1-18030",
+    "title": "Six French Suites, BWV 812-817",
+    "composer": "Bach",
+    "arranger": "",
+    "publishers": [
+      "Multiple Publishers",
+      "C.F. Peters Corporation",
+      "Edwin F. Kalmus",
+      "Barenreiter/Verlag",
+      "Foreign Music Distributors",
+      "Any unabridged edition"
+    ],
+    "publisherText": "Multiple Publishers;C.F. Peters Corporation;Edwin F. Kalmus;Barenreiter/Verlag;Foreign Music Distributors;Any unabridged edition",
+    "classLevel": 1,
+    "specification": "(play two contrasting mvts from one suite)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 6,
+    "uilCode": "603-1-18031",
+    "title": "Six Partitas, BWV 825-830",
+    "composer": "Bach",
+    "arranger": "",
+    "publishers": [
+      "Multiple Publishers",
+      "C.F. Peters Corporation",
+      "Edwin F. Kalmus",
+      "Barenreiter/Verlag",
+      "Foreign Music Distributors",
+      "Any unabridged edition"
+    ],
+    "publisherText": "Multiple Publishers;C.F. Peters Corporation;Edwin F. Kalmus;Barenreiter/Verlag;Foreign Music Distributors;Any unabridged edition",
+    "classLevel": 1,
+    "specification": "(play two contrasting mvts from one partita)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 7,
+    "uilCode": "603-1-18032",
+    "title": "The Well-Tempered Clavier, Vol. I & II, BWV 846-869, 870-893",
+    "composer": "Bach",
+    "arranger": "",
+    "publishers": [
+      "Multiple Publishers",
+      "Belwin, Inc",
+      "Edwin F. Kalmus",
+      "Any unabridged edition"
+    ],
+    "publisherText": "Multiple Publishers;Belwin, Inc;Edwin F. Kalmus;Any unabridged edition",
+    "classLevel": 1,
+    "specification": "(play one Prelude & Fugue) (a cappella)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 8,
+    "uilCode": "603-1-18033",
+    "title": "Excursions",
+    "composer": "Barber",
+    "arranger": "",
+    "publishers": [
+      "G. Schirmer, Inc."
+    ],
+    "publisherText": "G. Schirmer, Inc.",
+    "classLevel": 1,
+    "specification": "(play one)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 9,
+    "uilCode": "603-1-18034",
+    "title": "Nocturne",
+    "composer": "Barber",
+    "arranger": "",
+    "publishers": [
+      "G. Schirmer, Inc."
+    ],
+    "publisherText": "G. Schirmer, Inc.",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 10,
+    "uilCode": "603-1-18035",
+    "title": "Allegro Barbaro",
+    "composer": "Bartok",
+    "arranger": "",
+    "publishers": [
+      "Multiple Publishers",
+      "Boosey & Hawkes, Inc.",
+      "Any unabridged edition"
+    ],
+    "publisherText": "Multiple Publishers;Boosey & Hawkes, Inc.;Any unabridged edition",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 11,
+    "uilCode": "603-1-18036",
+    "title": "Mikrokosmos, Vols. V and VI",
+    "composer": "Bartok",
+    "arranger": "",
+    "publishers": [
+      "Multiple Publishers",
+      "Boosey & Hawkes, Inc.",
+      "Any unabridged edition"
+    ],
+    "publisherText": "Multiple Publishers;Boosey & Hawkes, Inc.;Any unabridged edition",
+    "classLevel": 1,
+    "specification": "(play two from one vol.)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 96,
+    "uilCode": "603-1-39825",
+    "title": "Sonata (1926)",
+    "composer": "Bartok",
+    "arranger": "",
+    "publishers": [
+      "Multiple Publishers",
+      "Boosey & Hawkes, Inc.",
+      "Universal Music Company"
+    ],
+    "publisherText": "Multiple Publishers;Boosey & Hawkes, Inc.;Universal Music Company",
+    "classLevel": 1,
+    "specification": "(play 1st OR 3rd mvt)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 12,
+    "uilCode": "603-1-18037",
+    "title": "Suite Op. 14",
+    "composer": "Bartok",
+    "arranger": "",
+    "publishers": [
+      "Multiple Publishers",
+      "Boosey & Hawkes, Inc.",
+      "Any unabridged edition"
+    ],
+    "publisherText": "Multiple Publishers;Boosey & Hawkes, Inc.;Any unabridged edition",
+    "classLevel": 1,
+    "specification": "(play two mvts)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 97,
+    "uilCode": "603-1-39826",
+    "title": "Four Sketches, Op. 15",
+    "composer": "Beach",
+    "arranger": "",
+    "publishers": [
+      "Dover [Amy Beach: Piano Music]"
+    ],
+    "publisherText": "Dover [Amy Beach: Piano Music]",
+    "classLevel": 1,
+    "specification": "(play one)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 98,
+    "uilCode": "603-1-39827",
+    "title": "Hermit Thrush at Morn, Op. 92, No. 2",
+    "composer": "Beach",
+    "arranger": "",
+    "publishers": [
+      "Hal Leonard Music, Inc."
+    ],
+    "publisherText": "Hal Leonard Music, Inc.",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 99,
+    "uilCode": "603-1-39828",
+    "title": "Scottish Legend, Op. 54",
+    "composer": "Beach",
+    "arranger": "",
+    "publishers": [
+      "[Piano Music of Amy Beach]"
+    ],
+    "publisherText": "[Piano Music of Amy Beach]",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 100,
+    "uilCode": "603-1-39829",
+    "title": "Alla ingharese, Op. 129 (Rage Over a Lost Penny)",
+    "composer": "Beethoven",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 102,
+    "uilCode": "603-1-39831",
+    "title": "Bagatelles, Op. 126",
+    "composer": "Beethoven",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 1,
+    "specification": "(play any two)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 103,
+    "uilCode": "603-1-39832",
+    "title": "Rondos, Op. 51",
+    "composer": "Beethoven",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 1,
+    "specification": "(play one rondo)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 64,
+    "uilCode": "603-1-36058",
+    "title": "Sonatas Op 2. No. 1 through Op. 90",
+    "composer": "Beethoven",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 1,
+    "specification": "(Play any first OR last mvt; EXCEPTION Op. 27, No. 2 mvt 1; Op. 49; Op. 79)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 101,
+    "uilCode": "603-1-39830",
+    "title": "Three Sonatas, WoO 47",
+    "composer": "Beethoven",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 1,
+    "specification": "(play two contrasting mvts from any sonata)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 66,
+    "uilCode": "603-1-36060",
+    "title": "Variations on God Save the King",
+    "composer": "Beethoven",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 65,
+    "uilCode": "603-1-36059",
+    "title": "Variations on Rule Britannia",
+    "composer": "Beethoven",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 105,
+    "uilCode": "603-1-39834",
+    "title": "Variations on an Original Theme, Op. 34",
+    "composer": "Beethoven",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 104,
+    "uilCode": "603-1-39833",
+    "title": "Variations on the March from The Ruins of Athens, Op. 76",
+    "composer": "Beethoven",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 106,
+    "uilCode": "603-1-39835",
+    "title": "Variations on the Russian Dance from Das Waldm\u00e4dchen, WoO 71",
+    "composer": "Beethoven",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 107,
+    "uilCode": "603-1-39836",
+    "title": "Three Ghost Rags",
+    "composer": "Bolcom",
+    "arranger": "",
+    "publishers": [
+      "Multiple Publishers",
+      "Hal Leonard Music, Inc.",
+      "Edward B. Marks Music"
+    ],
+    "publisherText": "Multiple Publishers;Hal Leonard Music, Inc.;Edward B. Marks Music",
+    "classLevel": 1,
+    "specification": "(play one)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 108,
+    "uilCode": "603-1-39837",
+    "title": "Troubled Water from Spiritual Suite",
+    "composer": "Bonds",
+    "arranger": "",
+    "publishers": [
+      "Oxford Press [Piano Music of Africa and the African Diaspora, Vol. 4]"
+    ],
+    "publisherText": "Oxford Press [Piano Music of Africa and the African Diaspora, Vol. 4]",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 13,
+    "uilCode": "603-1-18039",
+    "title": "Ballades, Op. 10",
+    "composer": "Brahms",
+    "arranger": "",
+    "publishers": [
+      "Multiple Publishers",
+      "Edwin F. Kalmus [Piano Works in Two Volumes]",
+      "Any unabridged edition"
+    ],
+    "publisherText": "Multiple Publishers;Edwin F. Kalmus [Piano Works in Two Volumes];Any unabridged edition",
+    "classLevel": 1,
+    "specification": "(play one)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 14,
+    "uilCode": "603-1-18040",
+    "title": "Fantasies, Op. 116",
+    "composer": "Brahms",
+    "arranger": "",
+    "publishers": [
+      "Multiple Publishers",
+      "Edwin F. Kalmus [Piano Works in Two Volumes]",
+      "Any unabridged edition"
+    ],
+    "publisherText": "Multiple Publishers;Edwin F. Kalmus [Piano Works in Two Volumes];Any unabridged edition",
+    "classLevel": 1,
+    "specification": "(play one)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 15,
+    "uilCode": "603-1-18041",
+    "title": "Piano Pieces, Op. 117",
+    "composer": "Brahms",
+    "arranger": "",
+    "publishers": [
+      "Multiple Publishers",
+      "Edwin F. Kalmus [Piano Works in Two Volumes]",
+      "Any unabridged edition"
+    ],
+    "publisherText": "Multiple Publishers;Edwin F. Kalmus [Piano Works in Two Volumes];Any unabridged edition",
+    "classLevel": 1,
+    "specification": "(play one)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 16,
+    "uilCode": "603-1-18042",
+    "title": "Piano Pieces, Op. 118",
+    "composer": "Brahms",
+    "arranger": "",
+    "publishers": [
+      "Multiple Publishers",
+      "Edwin F. Kalmus [Piano Works in Two Volumes]",
+      "Any unabridged edition"
+    ],
+    "publisherText": "Multiple Publishers;Edwin F. Kalmus [Piano Works in Two Volumes];Any unabridged edition",
+    "classLevel": 1,
+    "specification": "(play one)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 17,
+    "uilCode": "603-1-18043",
+    "title": "Piano Pieces, Op. 119",
+    "composer": "Brahms",
+    "arranger": "",
+    "publishers": [
+      "Multiple Publishers",
+      "Edwin F. Kalmus [Piano Works in Two Volumes]",
+      "Any unabridged edition"
+    ],
+    "publisherText": "Multiple Publishers;Edwin F. Kalmus [Piano Works in Two Volumes];Any unabridged edition",
+    "classLevel": 1,
+    "specification": "(play one)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 18,
+    "uilCode": "603-1-18044",
+    "title": "Piano Pieces, Op. 76",
+    "composer": "Brahms",
+    "arranger": "",
+    "publishers": [
+      "Multiple Publishers",
+      "Edwin F. Kalmus [Piano Works in Two Volumes]",
+      "Any unabridged edition"
+    ],
+    "publisherText": "Multiple Publishers;Edwin F. Kalmus [Piano Works in Two Volumes];Any unabridged edition",
+    "classLevel": 1,
+    "specification": "(play one)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 19,
+    "uilCode": "603-1-18045",
+    "title": "Rhapsodies, Op. 79",
+    "composer": "Brahms",
+    "arranger": "",
+    "publishers": [
+      "Multiple Publishers",
+      "Edwin F. Kalmus [Piano Works in Two Volumes]",
+      "Any unabridged edition"
+    ],
+    "publisherText": "Multiple Publishers;Edwin F. Kalmus [Piano Works in Two Volumes];Any unabridged edition",
+    "classLevel": 1,
+    "specification": "(play one)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 109,
+    "uilCode": "603-1-39838",
+    "title": "Scherzo in E-flat minor, Op. 4",
+    "composer": "Brahms",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 110,
+    "uilCode": "603-1-39839",
+    "title": "Automne, Op. 35, no. 2 (\u00c9tude de concert)",
+    "composer": "Chaminade",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 111,
+    "uilCode": "603-1-39840",
+    "title": "La lisonjera (The Flatterer), Op. 50",
+    "composer": "Chaminade",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 112,
+    "uilCode": "603-1-39841",
+    "title": "Tarantelle, Op. 35, no. 6 (\u00c9tude de concert)",
+    "composer": "Chaminade",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 68,
+    "uilCode": "603-1-36062",
+    "title": "24 Preludes, Op. 28",
+    "composer": "Chopin",
+    "arranger": "",
+    "publishers": [
+      "Multiple Publishers",
+      "Henle Publishing",
+      "Alfred Music Company, Inc.",
+      "Vienna Urtext Edition",
+      "Any unabridged edition"
+    ],
+    "publisherText": "Multiple Publishers;Henle Publishing;Alfred Music Company, Inc.;Vienna Urtext Edition;Any unabridged edition",
+    "classLevel": 1,
+    "specification": "(play any two) EXCEPTION: 4, 6, 7, 15, 20, 22",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 67,
+    "uilCode": "603-1-36061",
+    "title": "Ballades, Op. 23, 38, 47, 52",
+    "composer": "Chopin",
+    "arranger": "",
+    "publishers": [
+      "Multiple Publishers",
+      "Henle Publishing",
+      "Alfred Music Company, Inc.",
+      "Vienna Urtext Edition",
+      "Any unabridged edition"
+    ],
+    "publisherText": "Multiple Publishers;Henle Publishing;Alfred Music Company, Inc.;Vienna Urtext Edition;Any unabridged edition",
+    "classLevel": 1,
+    "specification": "(play one)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 113,
+    "uilCode": "603-1-39842",
+    "title": "Barcarolle, Op. 60",
+    "composer": "Chopin",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 114,
+    "uilCode": "603-1-39843",
+    "title": "Berceuse, Op. 57",
+    "composer": "Chopin",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 115,
+    "uilCode": "603-1-39844",
+    "title": "Bol\u00e9ro, Op. 19",
+    "composer": "Chopin",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 56,
+    "uilCode": "603-1-30637",
+    "title": "Four Ballades",
+    "composer": "Chopin",
+    "arranger": "",
+    "publishers": [
+      "C.F. Peters Corporation"
+    ],
+    "publisherText": "C.F. Peters Corporation",
+    "classLevel": 1,
+    "specification": "(play one)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 59,
+    "uilCode": "603-1-33071",
+    "title": "Four Scherzo",
+    "composer": "Chopin",
+    "arranger": "",
+    "publishers": [
+      "Dover"
+    ],
+    "publisherText": "Dover",
+    "classLevel": 1,
+    "specification": "(play one)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 117,
+    "uilCode": "603-1-39846",
+    "title": "Impromptus, Op. 29, 36, 51, 66",
+    "composer": "Chopin",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 1,
+    "specification": "(play one)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 20,
+    "uilCode": "603-1-18046",
+    "title": "Mazurkas, Op. 6, 7, 17, 24, 33, 50, 59, 63",
+    "composer": "Chopin",
+    "arranger": "",
+    "publishers": [
+      "Multiple Publishers",
+      "C.F. Peters Corporation",
+      "Chopin Institute Edition",
+      "Salabert, Inc.",
+      "Any unabridged edition"
+    ],
+    "publisherText": "Multiple Publishers;C.F. Peters Corporation;Chopin Institute Edition;Salabert, Inc.;Any unabridged edition",
+    "classLevel": 1,
+    "specification": "(Play one EXCEPT Op. 7, No. 1 & 5)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 21,
+    "uilCode": "603-1-18051",
+    "title": "Nocturnes",
+    "composer": "Chopin",
+    "arranger": "",
+    "publishers": [
+      "Multiple Publishers",
+      "C.F. Peters Corporation",
+      "Chopin Institute Edition",
+      "Salabert, Inc."
+    ],
+    "publisherText": "Multiple Publishers;C.F. Peters Corporation;Chopin Institute Edition;Salabert, Inc.",
+    "classLevel": 1,
+    "specification": "(play one)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 118,
+    "uilCode": "603-1-39847",
+    "title": "Nocturnes",
+    "composer": "Chopin",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 1,
+    "specification": "(play one)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 22,
+    "uilCode": "603-1-18052",
+    "title": "Polonaises, Op. 26, 40, 44, 61",
+    "composer": "Chopin",
+    "arranger": "",
+    "publishers": [
+      "Multiple Publishers",
+      "C.F. Peters Corporation",
+      "Chopin Institute Edition",
+      "Salabert, Inc.",
+      "Any Publisher"
+    ],
+    "publisherText": "Multiple Publishers;C.F. Peters Corporation;Chopin Institute Edition;Salabert, Inc.;Any Publisher",
+    "classLevel": 1,
+    "specification": "(play one)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 119,
+    "uilCode": "603-1-39848",
+    "title": "Prelude in C-sharp minor, Op. 45",
+    "composer": "Chopin",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 120,
+    "uilCode": "603-1-39849",
+    "title": "Rondo in C minor, Op. 1",
+    "composer": "Chopin",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 122,
+    "uilCode": "603-1-39851",
+    "title": "Rondo in E-flat major, Op. 16",
+    "composer": "Chopin",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 121,
+    "uilCode": "603-1-39850",
+    "title": "Rondo \u00e0 la Mazur, Op. 5",
+    "composer": "Chopin",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 123,
+    "uilCode": "603-1-39852",
+    "title": "Scherzos, Op. 20, 31, 39, 54",
+    "composer": "Chopin",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 1,
+    "specification": "(play one)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 23,
+    "uilCode": "603-1-18054",
+    "title": "Waltz",
+    "composer": "Chopin",
+    "arranger": "",
+    "publishers": [
+      "Public Domain"
+    ],
+    "publisherText": "Public Domain",
+    "classLevel": 1,
+    "specification": "(Play one EXCEPT Waltz in A minor, Op. post. BI 150)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 116,
+    "uilCode": "603-1-39845",
+    "title": "\u00c9tudes, Op. 10, Op. 25",
+    "composer": "Chopin",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 1,
+    "specification": "(play one)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 125,
+    "uilCode": "603-1-39854",
+    "title": "24 Negro Melodies, Op. 59",
+    "composer": "Coleridge-Taylor",
+    "arranger": "",
+    "publishers": [
+      "Theodore Presser Company"
+    ],
+    "publisherText": "Theodore Presser Company",
+    "classLevel": 1,
+    "specification": "(play one)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 124,
+    "uilCode": "603-1-39853",
+    "title": "Humoresques, Op. 31",
+    "composer": "Coleridge-Taylor",
+    "arranger": "",
+    "publishers": [
+      "Schott Company"
+    ],
+    "publisherText": "Schott Company",
+    "classLevel": 1,
+    "specification": "(play one)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 126,
+    "uilCode": "603-1-39855",
+    "title": "Three-Fours, Op. 71",
+    "composer": "Coleridge-Taylor",
+    "arranger": "",
+    "publishers": [
+      "Schott Company"
+    ],
+    "publisherText": "Schott Company",
+    "classLevel": 1,
+    "specification": "(play one)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 24,
+    "uilCode": "603-1-18056",
+    "title": "Four Piano Blues",
+    "composer": "Copland",
+    "arranger": "",
+    "publishers": [
+      "Boosey & Hawkes, Inc."
+    ],
+    "publisherText": "Boosey & Hawkes, Inc.",
+    "classLevel": 1,
+    "specification": "(play one)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 25,
+    "uilCode": "603-1-18057",
+    "title": "Scherzo Humoristique, The Cat and the Mouse",
+    "composer": "Copland",
+    "arranger": "",
+    "publishers": [
+      "Multiple Publishers",
+      "Boosey & Hawkes, Inc.",
+      "Alfred Music Company, Inc."
+    ],
+    "publisherText": "Multiple Publishers;Boosey & Hawkes, Inc.;Alfred Music Company, Inc.",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 127,
+    "uilCode": "603-1-39856",
+    "title": "Arabesques",
+    "composer": "Debussy",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 1,
+    "specification": "(play one)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 26,
+    "uilCode": "603-1-18058",
+    "title": "Children\u2019s Corner Suite",
+    "composer": "Debussy",
+    "arranger": "",
+    "publishers": [
+      "Multiple Publishers",
+      "C.F. Peters Corporation",
+      "Durand",
+      "Any unabridged edition"
+    ],
+    "publisherText": "Multiple Publishers;C.F. Peters Corporation;Durand;Any unabridged edition",
+    "classLevel": 1,
+    "specification": "(Play first, third, fourth or last movement\u2014NOT Jimbo\u2019s Lullaby OR The Little Shepherd)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 128,
+    "uilCode": "603-1-39857",
+    "title": "Danse (Tarentelle styrienne)",
+    "composer": "Debussy",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 50,
+    "uilCode": "603-1-18113",
+    "title": "Deux Arabesques",
+    "composer": "Debussy",
+    "arranger": "",
+    "publishers": [
+      "Durand"
+    ],
+    "publisherText": "Durand",
+    "classLevel": 1,
+    "specification": "(play one)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 70,
+    "uilCode": "603-1-36064",
+    "title": "Estampes",
+    "composer": "Debussy",
+    "arranger": "",
+    "publishers": [
+      "Multiple Publishers",
+      "Dover",
+      "Any unabridged edition"
+    ],
+    "publisherText": "Multiple Publishers;Dover;Any unabridged edition",
+    "classLevel": 1,
+    "specification": "(play one mvt)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 71,
+    "uilCode": "603-1-36065",
+    "title": "Images, Books I and II",
+    "composer": "Debussy",
+    "arranger": "",
+    "publishers": [
+      "Multiple Publishers",
+      "Dover",
+      "Any unabridged edition"
+    ],
+    "publisherText": "Multiple Publishers;Dover;Any unabridged edition",
+    "classLevel": 1,
+    "specification": "(play one mvt)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 130,
+    "uilCode": "603-1-39859",
+    "title": "L\u2019isle joyeuse",
+    "composer": "Debussy",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 69,
+    "uilCode": "603-1-36063",
+    "title": "Pour le Piano",
+    "composer": "Debussy",
+    "arranger": "",
+    "publishers": [
+      "Multiple Publishers",
+      "Dover",
+      "Any unabridged edition"
+    ],
+    "publisherText": "Multiple Publishers;Dover;Any unabridged edition",
+    "classLevel": 1,
+    "specification": "(play one mvt)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 27,
+    "uilCode": "603-1-18061",
+    "title": "Preludes, Book I and Book II",
+    "composer": "Debussy",
+    "arranger": "",
+    "publishers": [
+      "Multiple Publishers",
+      "Durand",
+      "Any unabridged edition"
+    ],
+    "publisherText": "Multiple Publishers;Durand;Any unabridged edition",
+    "classLevel": 1,
+    "specification": "(play one Prelude EXCEPT \"Bruyeres\")",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 62,
+    "uilCode": "603-1-36056",
+    "title": "Suite Bergamasque",
+    "composer": "Debussy",
+    "arranger": "",
+    "publishers": [
+      "Multiple Publishers",
+      "Dover",
+      "Any unabridged edition"
+    ],
+    "publisherText": "Multiple Publishers;Dover;Any unabridged edition",
+    "classLevel": 1,
+    "specification": "(play one mvt)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 129,
+    "uilCode": "603-1-39858",
+    "title": "\u00c9tudes",
+    "composer": "Debussy",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 1,
+    "specification": "(play one)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 28,
+    "uilCode": "603-1-18062",
+    "title": "Four Rhapsodies Op. 11",
+    "composer": "Dohnanyi",
+    "arranger": "",
+    "publishers": [
+      "Multiple Publishers",
+      "Edwin F. Kalmus",
+      "Alfred Music Company, Inc."
+    ],
+    "publisherText": "Multiple Publishers;Edwin F. Kalmus;Alfred Music Company, Inc.",
+    "classLevel": 1,
+    "specification": "(play one) NMR:(play two)",
+    "noMemoryRequired": true
+  },
+  {
+    "id": 131,
+    "uilCode": "603-1-39860",
+    "title": "Three Inventions",
+    "composer": "Ewazen",
+    "arranger": "",
+    "publishers": [
+      "Presser"
+    ],
+    "publisherText": "Presser",
+    "classLevel": 1,
+    "specification": "(play one)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 29,
+    "uilCode": "603-1-18063",
+    "title": "Three Preludes",
+    "composer": "Gershwin",
+    "arranger": "",
+    "publishers": [
+      "Multiple Publishers",
+      "Harms, Inc.",
+      "New World Music Corporation",
+      "Any unabridged edition"
+    ],
+    "publisherText": "Multiple Publishers;Harms, Inc.;New World Music Corporation;Any unabridged edition",
+    "classLevel": 1,
+    "specification": "(play two)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 132,
+    "uilCode": "603-1-39861",
+    "title": "Danzas argentinas, Op. 2",
+    "composer": "Ginastera",
+    "arranger": "",
+    "publishers": [
+      "Multiple Publishers",
+      "Boosey & Hawkes, Inc.",
+      "Ricordi & Company, Inc."
+    ],
+    "publisherText": "Multiple Publishers;Boosey & Hawkes, Inc.;Ricordi & Company, Inc.",
+    "classLevel": 1,
+    "specification": "(play one)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 30,
+    "uilCode": "603-1-18064",
+    "title": "Rondo on Argentine Children's Folk Tunes",
+    "composer": "Ginastera",
+    "arranger": "",
+    "publishers": [
+      "Boosey & Hawkes, Inc."
+    ],
+    "publisherText": "Boosey & Hawkes, Inc.",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 133,
+    "uilCode": "603-1-39862",
+    "title": "Sonata no. 1, Op 22",
+    "composer": "Ginastera",
+    "arranger": "",
+    "publishers": [
+      "Multiple Publishers",
+      "Boosey & Hawkes, Inc.",
+      "Hal Leonard Music, Inc."
+    ],
+    "publisherText": "Multiple Publishers;Boosey & Hawkes, Inc.;Hal Leonard Music, Inc.",
+    "classLevel": 1,
+    "specification": "(play any mvt EXCEPT 3rd)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 134,
+    "uilCode": "603-1-39863",
+    "title": "L\u2019Alouette (The Lark)",
+    "composer": "Glinka",
+    "arranger": "Balakirev",
+    "publishers": [
+      "Multiple Publishers",
+      "Chester Music Ltd.",
+      "Henle Publishing",
+      "G. Schirmer, Inc."
+    ],
+    "publisherText": "Multiple Publishers;Chester Music Ltd.;Henle Publishing;G. Schirmer, Inc.",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 135,
+    "uilCode": "603-1-39864",
+    "title": "Le bananier, Op. 5",
+    "composer": "Gottschalk",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 137,
+    "uilCode": "603-1-39866",
+    "title": "Pasquinade, Op. 59",
+    "composer": "Gottschalk",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 138,
+    "uilCode": "603-1-39867",
+    "title": "Souvenir de Porto Rico, Op. 31",
+    "composer": "Gottschalk",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 136,
+    "uilCode": "603-1-39865",
+    "title": "The Banjo, Op. 15",
+    "composer": "Gottschalk",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 31,
+    "uilCode": "603-1-18065",
+    "title": "Twelve Spanish Dances, Volume 2",
+    "composer": "Granados",
+    "arranger": "",
+    "publishers": [
+      "Multiple Publishers",
+      "Edwin F. Kalmus",
+      "G. Schirmer, Inc.",
+      "Any unabridged edition"
+    ],
+    "publisherText": "Multiple Publishers;Edwin F. Kalmus;G. Schirmer, Inc.;Any unabridged edition",
+    "classLevel": 1,
+    "specification": "(play one)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 139,
+    "uilCode": "603-1-39868",
+    "title": "Holberg Suite, Op. 40",
+    "composer": "Grieg",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 1,
+    "specification": "(play one mvt)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 140,
+    "uilCode": "603-1-39869",
+    "title": "March of the Dwarfs, Op. 54, no. 3",
+    "composer": "Grieg",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 141,
+    "uilCode": "603-1-39870",
+    "title": "Sonata in E minor, Op. 7",
+    "composer": "Grieg",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 1,
+    "specification": "(play any mvt EXCEPT 3rd)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 142,
+    "uilCode": "603-1-39871",
+    "title": "Wedding Day at Troldhaugen, Op. 65, no. 6",
+    "composer": "Grieg",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 143,
+    "uilCode": "603-1-39872",
+    "title": "Fantasy Pieces, Op. 6",
+    "composer": "Griffes",
+    "arranger": "",
+    "publishers": [
+      "G. Schirmer, Inc."
+    ],
+    "publisherText": "G. Schirmer, Inc.",
+    "classLevel": 1,
+    "specification": "(play one)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 144,
+    "uilCode": "603-1-39873",
+    "title": "Roman Sketches, Op. 7",
+    "composer": "Griffes",
+    "arranger": "",
+    "publishers": [
+      "Multiple Publishers",
+      "Alfred Music Company, Inc.",
+      "G. Schirmer, Inc."
+    ],
+    "publisherText": "Multiple Publishers;Alfred Music Company, Inc.;G. Schirmer, Inc.",
+    "classLevel": 1,
+    "specification": "(play one)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 145,
+    "uilCode": "603-1-39874",
+    "title": "American Ballads",
+    "composer": "Harris",
+    "arranger": "",
+    "publishers": [
+      "Carl Fischer, Inc."
+    ],
+    "publisherText": "Carl Fischer, Inc.",
+    "classLevel": 1,
+    "specification": "(play one)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 146,
+    "uilCode": "603-1-39875",
+    "title": "Fantasy (Capriccio) in C major, Hob. XVII:4",
+    "composer": "Haydn",
+    "arranger": "",
+    "publishers": [
+      "Multiple Publishers",
+      "Henle Publishing",
+      "Schott Company"
+    ],
+    "publisherText": "Multiple Publishers;Henle Publishing;Schott Company",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 32,
+    "uilCode": "603-1-18066",
+    "title": "Piano Sonatas, Hob. 20-52",
+    "composer": "Haydn",
+    "arranger": "",
+    "publishers": [
+      "Multiple Publishers",
+      "Carl Fischer, Inc.",
+      "C.F. Peters Corporation",
+      "G. Henle Verlag/USA, Inc.",
+      "Vienna Urtext Edition",
+      "Any unabridged edition"
+    ],
+    "publisherText": "Multiple Publishers;Carl Fischer, Inc.;C.F. Peters Corporation;G. Henle Verlag/USA, Inc.;Vienna Urtext Edition;Any unabridged edition",
+    "classLevel": 1,
+    "specification": "(play first or last mvt only from one sonata)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 33,
+    "uilCode": "603-1-18067",
+    "title": "Sonata II",
+    "composer": "Hindemith",
+    "arranger": "",
+    "publishers": [
+      "Schott Company"
+    ],
+    "publisherText": "Schott Company",
+    "classLevel": 1,
+    "specification": "(play two mvts) NMR:(play all)",
+    "noMemoryRequired": true
+  },
+  {
+    "id": 147,
+    "uilCode": "603-1-39876",
+    "title": "Nora\u2019s Dance",
+    "composer": "Holt",
+    "arranger": "Downes",
+    "publishers": [
+      "Presser"
+    ],
+    "publisherText": "Presser",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 148,
+    "uilCode": "603-1-39877",
+    "title": "The Island Spell (from Decorations)",
+    "composer": "Ireland",
+    "arranger": "",
+    "publishers": [
+      "Stainer & Bell"
+    ],
+    "publisherText": "Stainer & Bell",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 149,
+    "uilCode": "603-1-39878",
+    "title": "Complete Rags for Piano",
+    "composer": "Joplin",
+    "arranger": "",
+    "publishers": [
+      "G. Schirmer, Inc. [Complete Rags for Piano]"
+    ],
+    "publisherText": "G. Schirmer, Inc. [Complete Rags for Piano]",
+    "classLevel": 1,
+    "specification": "(play one)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 72,
+    "uilCode": "603-1-36066",
+    "title": "Sonata No. 3 in F major",
+    "composer": "Kabalevsky",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 1,
+    "specification": "(play first or last mvt)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 34,
+    "uilCode": "603-1-18068",
+    "title": "Twenty-four Preludes Op. 38",
+    "composer": "Kabalevsky",
+    "arranger": "",
+    "publishers": [
+      "Multiple Publishers",
+      "Music Corporation of America",
+      "Any unabridged edition"
+    ],
+    "publisherText": "Multiple Publishers;Music Corporation of America;Any unabridged edition",
+    "classLevel": 1,
+    "specification": "(play two)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 150,
+    "uilCode": "603-1-39879",
+    "title": "Toccata",
+    "composer": "Khachaturian",
+    "arranger": "",
+    "publishers": [
+      "G. Schirmer, Inc."
+    ],
+    "publisherText": "G. Schirmer, Inc.",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 151,
+    "uilCode": "603-1-39880",
+    "title": "Andalucia Suite (original version)",
+    "composer": "Lecuona",
+    "arranger": "",
+    "publishers": [
+      "Edward B. Marks Music"
+    ],
+    "publisherText": "Edward B. Marks Music",
+    "classLevel": 1,
+    "specification": "(play one)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 74,
+    "uilCode": "603-1-36070",
+    "title": "Complete Nocturnes",
+    "composer": "Liebermann",
+    "arranger": "",
+    "publishers": [
+      "Presser"
+    ],
+    "publisherText": "Presser",
+    "classLevel": 1,
+    "specification": "(play one)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 73,
+    "uilCode": "603-1-36067",
+    "title": "Gargoyles, Op. 29",
+    "composer": "Liebermann",
+    "arranger": "",
+    "publishers": [
+      "Presser"
+    ],
+    "publisherText": "Presser",
+    "classLevel": 1,
+    "specification": "(play one)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 55,
+    "uilCode": "603-1-30635",
+    "title": "Annees De Pelerinage",
+    "composer": "Liszt",
+    "arranger": "",
+    "publishers": [
+      "C.F. Peters Corporation"
+    ],
+    "publisherText": "C.F. Peters Corporation",
+    "classLevel": 1,
+    "specification": "(play one)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 152,
+    "uilCode": "603-1-39881",
+    "title": "Ann\u00e9es de p\u00e9l\u00e9rinage, all volumes",
+    "composer": "Liszt",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 1,
+    "specification": "(play one)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 153,
+    "uilCode": "603-1-39882",
+    "title": "Ballade no. 1 in D-flat major",
+    "composer": "Liszt",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 154,
+    "uilCode": "603-1-39883",
+    "title": "Ballade no. 2 in B minor",
+    "composer": "Liszt",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 76,
+    "uilCode": "603-1-36072",
+    "title": "Concert \u00c9tudes: Il Lamento, La Leggierezza and Un Sospiro",
+    "composer": "Liszt",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 1,
+    "specification": "(play one)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 75,
+    "uilCode": "603-1-36071",
+    "title": "Concert \u00c9tudes: Waldesrauschen and Gnomenreigen",
+    "composer": "Liszt",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 1,
+    "specification": "(play one)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 77,
+    "uilCode": "603-1-36073",
+    "title": "Grand \u00c9tudes after Paganini",
+    "composer": "Liszt",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 1,
+    "specification": "(play one)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 155,
+    "uilCode": "603-1-39884",
+    "title": "Harmonies po\u00e9tiques et r\u00e9ligeuses",
+    "composer": "Liszt",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 1,
+    "specification": "(play one)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 54,
+    "uilCode": "603-1-30634",
+    "title": "Hungarian Rhapsodies",
+    "composer": "Liszt",
+    "arranger": "",
+    "publishers": [
+      "Multiple Publishers",
+      "Alfred Music Company, Inc.",
+      "Any unabridged edition"
+    ],
+    "publisherText": "Multiple Publishers;Alfred Music Company, Inc.;Any unabridged edition",
+    "classLevel": 1,
+    "specification": "(play one Rhapsody)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 156,
+    "uilCode": "603-1-39885",
+    "title": "Legends",
+    "composer": "Liszt",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 1,
+    "specification": "(play one)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 61,
+    "uilCode": "603-1-33782",
+    "title": "Liebestr\u00e4ume",
+    "composer": "Liszt",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 1,
+    "specification": "(play one)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 78,
+    "uilCode": "603-1-36074",
+    "title": "Mephisto Waltz No. 1",
+    "composer": "Liszt",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 157,
+    "uilCode": "603-1-39886",
+    "title": "Polonaise No. 2 in E major",
+    "composer": "Liszt",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 158,
+    "uilCode": "603-1-39887",
+    "title": "Rigoletto Paraphrase",
+    "composer": "Liszt",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 159,
+    "uilCode": "603-1-39888",
+    "title": "Soir\u00e9es de Vienne",
+    "composer": "Liszt",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 1,
+    "specification": "(play one)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 160,
+    "uilCode": "603-1-39889",
+    "title": "Spanish Rhapsody",
+    "composer": "Liszt",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 161,
+    "uilCode": "603-1-39890",
+    "title": "Transcendental \u00c9tudes (final version)",
+    "composer": "Liszt",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 1,
+    "specification": "(play one)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 162,
+    "uilCode": "603-1-39891",
+    "title": "Valse oubli\u00e9e No. 1",
+    "composer": "Liszt",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 35,
+    "uilCode": "603-1-18069",
+    "title": "12 Etudes Op. 39",
+    "composer": "MacDowell",
+    "arranger": "",
+    "publishers": [
+      "Multiple Publishers",
+      "Boston Music Company",
+      "Edwin F. Kalmus"
+    ],
+    "publisherText": "Multiple Publishers;Boston Music Company;Edwin F. Kalmus",
+    "classLevel": 1,
+    "specification": "(play two)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 163,
+    "uilCode": "603-1-39892",
+    "title": "Fireside Tales, Op. 61",
+    "composer": "MacDowell",
+    "arranger": "",
+    "publishers": [
+      "Multiple Publishers",
+      "Alfred Music Company, Inc.",
+      "Dover"
+    ],
+    "publisherText": "Multiple Publishers;Alfred Music Company, Inc.;Dover",
+    "classLevel": 1,
+    "specification": "(play one)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 79,
+    "uilCode": "603-1-36075",
+    "title": "Virtuoso \u00c9tudes, Op. 46",
+    "composer": "MacDowell",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 1,
+    "specification": "(play one)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 164,
+    "uilCode": "603-1-39893",
+    "title": "Fantasy in F-sharp minor, Op. 28",
+    "composer": "Mendelssohn",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 1,
+    "specification": "(play first OR last mvt)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 165,
+    "uilCode": "603-1-39894",
+    "title": "Preludes and Fugues, Op. 35",
+    "composer": "Mendelssohn",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 1,
+    "specification": "(play one Prelude AND Fugue pair)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 166,
+    "uilCode": "603-1-39895",
+    "title": "Rondo capriccioso, Op. 14",
+    "composer": "Mendelssohn",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 57,
+    "uilCode": "603-1-30639",
+    "title": "Scherzo in e minor, Op. 16 #2",
+    "composer": "Mendelssohn",
+    "arranger": "",
+    "publishers": [
+      "Multiple Publishers",
+      "Carl Fischer, Inc.",
+      "Any unabridged edition"
+    ],
+    "publisherText": "Multiple Publishers;Carl Fischer, Inc.;Any unabridged edition",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 169,
+    "uilCode": "603-1-39898",
+    "title": "Song Without Words in A-flat major, Op. 38, no. 6 (Duetto)",
+    "composer": "Mendelssohn",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 168,
+    "uilCode": "603-1-39897",
+    "title": "Song Without Words in B minor, Op. 30, no. 4",
+    "composer": "Mendelssohn",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 170,
+    "uilCode": "603-1-39899",
+    "title": "Song Without Words in C major, Op. 67, no. 4 (Spinning Song)",
+    "composer": "Mendelssohn",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 167,
+    "uilCode": "603-1-39896",
+    "title": "Song Without Words in F-sharp minor, Op. 19, no. 5",
+    "composer": "Mendelssohn",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 171,
+    "uilCode": "603-1-39900",
+    "title": "\u00c9tincelles, Op. 36, no. 6",
+    "composer": "Moszkowski",
+    "arranger": "",
+    "publishers": [
+      "Multiple Publishers",
+      "Bosworth Music Company",
+      "G. Schirmer, Inc."
+    ],
+    "publisherText": "Multiple Publishers;Bosworth Music Company;G. Schirmer, Inc.",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 172,
+    "uilCode": "603-1-39901",
+    "title": "Fantasy in C minor, K. 475",
+    "composer": "Mozart",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 174,
+    "uilCode": "603-1-39903",
+    "title": "Rondo in A minor, K. 511",
+    "composer": "Mozart",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 173,
+    "uilCode": "603-1-39902",
+    "title": "Rondo in D major, K. 485",
+    "composer": "Mozart",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 36,
+    "uilCode": "603-1-18071",
+    "title": "Sonatas",
+    "composer": "Mozart",
+    "arranger": "",
+    "publishers": [
+      "Multiple Publishers",
+      "Carl Fischer, Inc.",
+      "C.F. Peters Corporation",
+      "G. Henle Verlag/USA, Inc.",
+      "Barenreiter/Verlag",
+      "Foreign Music Distributors",
+      "Any unabridged edition"
+    ],
+    "publisherText": "Multiple Publishers;Carl Fischer, Inc.;C.F. Peters Corporation;G. Henle Verlag/USA, Inc.;Barenreiter/Verlag;Foreign Music Distributors;Any unabridged edition",
+    "classLevel": 1,
+    "specification": "(play first or last mvt of one Sonata, except k.545: play all)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 175,
+    "uilCode": "603-1-39904",
+    "title": "Variations on Ah, vous dirai-je, Maman, K. 265",
+    "composer": "Mozart",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 176,
+    "uilCode": "603-1-39905",
+    "title": "Variations on Je suis Lindor, K. 354",
+    "composer": "Mozart",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 37,
+    "uilCode": "603-1-18072",
+    "title": "Variations on Salve tu Domine K. 398",
+    "composer": "Mozart",
+    "arranger": "",
+    "publishers": [
+      "C.F. Peters Corporation"
+    ],
+    "publisherText": "C.F. Peters Corporation",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 177,
+    "uilCode": "603-1-39906",
+    "title": "Variations on Unser dummer P\u00f6bel meint, K. 455",
+    "composer": "Mozart",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 178,
+    "uilCode": "603-1-39907",
+    "title": "Variations on a Minuet by Duport, K. 573",
+    "composer": "Mozart",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 179,
+    "uilCode": "603-1-39908",
+    "title": "Desperate Measures: Paganini Variations, Op. 48",
+    "composer": "Muczynski",
+    "arranger": "",
+    "publishers": [
+      "Presser"
+    ],
+    "publisherText": "Presser",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 38,
+    "uilCode": "603-1-18073",
+    "title": "Suite Op. 13",
+    "composer": "Muczynski",
+    "arranger": "",
+    "publishers": [
+      "G. Schirmer, Inc."
+    ],
+    "publisherText": "G. Schirmer, Inc.",
+    "classLevel": 1,
+    "specification": "(play two mvts)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 80,
+    "uilCode": "603-1-36076",
+    "title": "Legende, Op. 16, No. 1",
+    "composer": "Paderewski",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 81,
+    "uilCode": "603-1-36077",
+    "title": "Nocturne, Op. 16, No. 4",
+    "composer": "Paderewski",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 83,
+    "uilCode": "603-1-36079",
+    "title": "8 Nocturnes",
+    "composer": "Poulenc",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 1,
+    "specification": "(play one nocturne)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 52,
+    "uilCode": "603-1-30631",
+    "title": "Five Impromptus",
+    "composer": "Poulenc",
+    "arranger": "",
+    "publishers": [
+      "Multiple Publishers",
+      "G. Schirmer, Inc.",
+      "Any unabridged edition"
+    ],
+    "publisherText": "Multiple Publishers;G. Schirmer, Inc.;Any unabridged edition",
+    "classLevel": 1,
+    "specification": "(play one)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 82,
+    "uilCode": "603-1-36078",
+    "title": "Intermezzo in A-flat",
+    "composer": "Poulenc",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 39,
+    "uilCode": "603-1-18074",
+    "title": "Movements Perpetuels",
+    "composer": "Poulenc",
+    "arranger": "",
+    "publishers": [
+      "Multiple Publishers",
+      "J&W Chester, Ltd.",
+      "MMB Music, Inc."
+    ],
+    "publisherText": "Multiple Publishers;J&W Chester, Ltd.;MMB Music, Inc.",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 180,
+    "uilCode": "603-1-39909",
+    "title": "Novelettes",
+    "composer": "Poulenc",
+    "arranger": "",
+    "publishers": [
+      "Chester Music Ltd."
+    ],
+    "publisherText": "Chester Music Ltd.",
+    "classLevel": 1,
+    "specification": "(play one)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 58,
+    "uilCode": "603-1-30879",
+    "title": "Three Novelettes",
+    "composer": "Poulenc",
+    "arranger": "",
+    "publishers": [
+      "G. Schirmer, Inc."
+    ],
+    "publisherText": "G. Schirmer, Inc.",
+    "classLevel": 1,
+    "specification": "(play one)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 182,
+    "uilCode": "603-1-39911",
+    "title": "Piano Sonata",
+    "composer": "Price",
+    "arranger": "",
+    "publishers": [
+      "G. Schirmer, Inc."
+    ],
+    "publisherText": "G. Schirmer, Inc.",
+    "classLevel": 1,
+    "specification": "(play one mvt)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 183,
+    "uilCode": "603-1-39912",
+    "title": "Sketches in Sepia",
+    "composer": "Price",
+    "arranger": "",
+    "publishers": [
+      "G. Schirmer, Inc."
+    ],
+    "publisherText": "G. Schirmer, Inc.",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 184,
+    "uilCode": "603-1-39913",
+    "title": "Summer Moon",
+    "composer": "Price",
+    "arranger": "",
+    "publishers": [
+      "G. Schirmer, Inc."
+    ],
+    "publisherText": "G. Schirmer, Inc.",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 185,
+    "uilCode": "603-1-39914",
+    "title": "Your Hands in Mine",
+    "composer": "Price",
+    "arranger": "",
+    "publishers": [
+      "G. Schirmer, Inc."
+    ],
+    "publisherText": "G. Schirmer, Inc.",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 40,
+    "uilCode": "603-1-18075",
+    "title": "Four Pieces for Piano Op. 4",
+    "composer": "Prokofiev",
+    "arranger": "",
+    "publishers": [
+      "Multiple Publishers",
+      "Edwin F. Kalmus",
+      "Music Corporation of America",
+      "Any unabridged edition"
+    ],
+    "publisherText": "Multiple Publishers;Edwin F. Kalmus;Music Corporation of America;Any unabridged edition",
+    "classLevel": 1,
+    "specification": "(play one)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 186,
+    "uilCode": "603-1-39915",
+    "title": "Prelude in C major, Op. 12, no. 7",
+    "composer": "Prokofiev",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 85,
+    "uilCode": "603-1-36081",
+    "title": "Sarcasms, Op. 17",
+    "composer": "Prokofiev",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 1,
+    "specification": "(play two)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 84,
+    "uilCode": "603-1-36080",
+    "title": "Sonatas",
+    "composer": "Prokofiev",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 1,
+    "specification": "(play all of No. 1 OR No. 3 OR first or last mvt of any other SONATA)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 187,
+    "uilCode": "603-1-39916",
+    "title": "Visions Fugitives, Op. 22",
+    "composer": "Prokofiev",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 1,
+    "specification": "(play any two)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 86,
+    "uilCode": "603-1-36082",
+    "title": "Etudes-Tableaus, Op. 33 and 39",
+    "composer": "Rachmaninoff",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 1,
+    "specification": "(play one)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 41,
+    "uilCode": "603-1-18076",
+    "title": "Humoresque Op. 10",
+    "composer": "Rachmaninoff",
+    "arranger": "",
+    "publishers": [
+      "Multiple Publishers",
+      "Carl Fischer, Inc.",
+      "Belwin, Inc",
+      "Mills Music, Inc."
+    ],
+    "publisherText": "Multiple Publishers;Carl Fischer, Inc.;Belwin, Inc;Mills Music, Inc.",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 42,
+    "uilCode": "603-1-18077",
+    "title": "Prelude Op. 23",
+    "composer": "Rachmaninoff",
+    "arranger": "",
+    "publishers": [
+      "G. Schirmer, Inc."
+    ],
+    "publisherText": "G. Schirmer, Inc.",
+    "classLevel": 1,
+    "specification": "(play one)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 53,
+    "uilCode": "603-1-30632",
+    "title": "Prelude Op. 32",
+    "composer": "Rachmaninoff",
+    "arranger": "",
+    "publishers": [
+      "G. Schirmer, Inc."
+    ],
+    "publisherText": "G. Schirmer, Inc.",
+    "classLevel": 1,
+    "specification": "(play one)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 60,
+    "uilCode": "603-1-33781",
+    "title": "Prelude in C sharp minor Op. 3, No. 2",
+    "composer": "Rachmaninoff",
+    "arranger": "",
+    "publishers": [
+      "Multiple Publishers",
+      "G. Schirmer, Inc.",
+      "G. Schirmer, Inc. [public domain]"
+    ],
+    "publisherText": "Multiple Publishers;G. Schirmer, Inc.;G. Schirmer, Inc. [public domain]",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 188,
+    "uilCode": "603-1-39917",
+    "title": "Moments musicaux, Op. 16",
+    "composer": "Rachmaninov",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 1,
+    "specification": "(play one)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 189,
+    "uilCode": "603-1-39918",
+    "title": "Morceaux de fantaisie, Op. 3",
+    "composer": "Rachmaninov",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 1,
+    "specification": "(play one)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 190,
+    "uilCode": "603-1-39919",
+    "title": "Morceaux de salon, Op. 10",
+    "composer": "Rachmaninov",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 1,
+    "specification": "(play one)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 191,
+    "uilCode": "603-1-39920",
+    "title": "Le tombeau de Couperin",
+    "composer": "Ravel",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 1,
+    "specification": "(play one mvt)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 87,
+    "uilCode": "603-1-36083",
+    "title": "Miroirs",
+    "composer": "Ravel",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 1,
+    "specification": "(play one)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 43,
+    "uilCode": "603-1-18078",
+    "title": "Sonatine",
+    "composer": "Ravel",
+    "arranger": "",
+    "publishers": [
+      "Multiple Publishers",
+      "Durand",
+      "Edwin F. Kalmus"
+    ],
+    "publisherText": "Multiple Publishers;Durand;Edwin F. Kalmus",
+    "classLevel": 1,
+    "specification": "(play one mvt)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 88,
+    "uilCode": "603-1-36084",
+    "title": "Valse nobles et sentimentales",
+    "composer": "Ravel",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 1,
+    "specification": "(play two waltzes)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 51,
+    "uilCode": "603-1-30047",
+    "title": "Sonata in f minor K. 238",
+    "composer": "Scarlatti",
+    "arranger": "",
+    "publishers": [
+      "G. Schirmer, Inc."
+    ],
+    "publisherText": "G. Schirmer, Inc.",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 44,
+    "uilCode": "603-1-18079",
+    "title": "Sonatas, Vols. I and II",
+    "composer": "Scarlatti",
+    "arranger": "Kirkpatrick",
+    "publishers": [
+      "Multiple Publishers",
+      "G. Schirmer, Inc.",
+      "Any unabridged edition"
+    ],
+    "publisherText": "Multiple Publishers;G. Schirmer, Inc.;Any unabridged edition",
+    "classLevel": 1,
+    "specification": "(play one Sonata)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 192,
+    "uilCode": "603-1-39921",
+    "title": "Drei Klavierst\u00fccke (Three Piano Pieces), D. 946",
+    "composer": "Schubert",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 1,
+    "specification": "(play one)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 45,
+    "uilCode": "603-1-18080",
+    "title": "Impromptus Op. 90 or Op. 142",
+    "composer": "Schubert",
+    "arranger": "",
+    "publishers": [
+      "Multiple Publishers",
+      "C.F. Peters Corporation",
+      "G. Schirmer, Inc.",
+      "Any unabridged edition"
+    ],
+    "publisherText": "Multiple Publishers;C.F. Peters Corporation;G. Schirmer, Inc.;Any unabridged edition",
+    "classLevel": 1,
+    "specification": "(play one mvt)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 193,
+    "uilCode": "603-1-39922",
+    "title": "Moments musicaux, D. 780",
+    "composer": "Schubert",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 1,
+    "specification": "(play one)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 194,
+    "uilCode": "603-1-39923",
+    "title": "Sonatas",
+    "composer": "Schubert",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 1,
+    "specification": "(play first OR last mvt of any sonata)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 46,
+    "uilCode": "603-1-18081",
+    "title": "Arabeske, Op. 18",
+    "composer": "Schumann",
+    "arranger": "",
+    "publishers": [
+      "Multiple Publishers",
+      "C.F. Peters Corporation",
+      "Edwin F. Kalmus",
+      "Any unabridged edition"
+    ],
+    "publisherText": "Multiple Publishers;C.F. Peters Corporation;Edwin F. Kalmus;Any unabridged edition",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 197,
+    "uilCode": "603-1-39926",
+    "title": "Arabeske, Op. 18",
+    "composer": "Schumann",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 198,
+    "uilCode": "603-1-39927",
+    "title": "Blumenstuck, Op. 19",
+    "composer": "Schumann",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 92,
+    "uilCode": "603-1-36088",
+    "title": "Drei Romanzen, Op. 28",
+    "composer": "Schumann",
+    "arranger": "",
+    "publishers": [
+      "Multiple Publishers",
+      "Henle Publishing",
+      "Dover",
+      "Any unabridged edition"
+    ],
+    "publisherText": "Multiple Publishers;Henle Publishing;Dover;Any unabridged edition",
+    "classLevel": 1,
+    "specification": "(play one)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 89,
+    "uilCode": "603-1-36085",
+    "title": "Fantasiestucke. Op. 12",
+    "composer": "Schumann",
+    "arranger": "",
+    "publishers": [
+      "Multiple Publishers",
+      "Henle Publishing",
+      "Dover",
+      "Any unabridged edition"
+    ],
+    "publisherText": "Multiple Publishers;Henle Publishing;Dover;Any unabridged edition",
+    "classLevel": 1,
+    "specification": "(play one)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 199,
+    "uilCode": "603-1-39928",
+    "title": "Fantasiest\u00fccke, Op. 111",
+    "composer": "Schumann",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 1,
+    "specification": "(play one)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 91,
+    "uilCode": "603-1-36087",
+    "title": "Nachtst\u00fccke, Op. 23",
+    "composer": "Schumann",
+    "arranger": "",
+    "publishers": [
+      "Multiple Publishers",
+      "Henle Publishing",
+      "Dover",
+      "Any unabridged edition"
+    ],
+    "publisherText": "Multiple Publishers;Henle Publishing;Dover;Any unabridged edition",
+    "classLevel": 1,
+    "specification": "(play one)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 90,
+    "uilCode": "603-1-36086",
+    "title": "Novelettes, Op. 21",
+    "composer": "Schumann",
+    "arranger": "",
+    "publishers": [
+      "Multiple Publishers",
+      "Henle Publishing",
+      "Dover",
+      "Any unabridged edition"
+    ],
+    "publisherText": "Multiple Publishers;Henle Publishing;Dover;Any unabridged edition",
+    "classLevel": 1,
+    "specification": "(play one)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 200,
+    "uilCode": "603-1-39929",
+    "title": "Waldszenen, Op. 82",
+    "composer": "Schumann",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 1,
+    "specification": "(play any two)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 195,
+    "uilCode": "603-1-39924",
+    "title": "Pi\u00e8ces fugitives, Op. 15",
+    "composer": "Schumann, C",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 1,
+    "specification": "(play one)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 196,
+    "uilCode": "603-1-39925",
+    "title": "Soir\u00e9es musicales, Op. 6",
+    "composer": "Schumann, C",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 1,
+    "specification": "(play one)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 204,
+    "uilCode": "603-1-39933",
+    "title": "Deux Po\u00e8mes, Op. 32",
+    "composer": "Scriabin",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 1,
+    "specification": "(play one)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 47,
+    "uilCode": "603-1-18085",
+    "title": "Preludes, Op. 11, 13, 15, 16, 17, 22",
+    "composer": "Scriabin",
+    "arranger": "",
+    "publishers": [
+      "Multiple Publishers",
+      "G. Schirmer, Inc.",
+      "Any unabridged edition"
+    ],
+    "publisherText": "Multiple Publishers;G. Schirmer, Inc.;Any unabridged edition",
+    "classLevel": 1,
+    "specification": "(play two from one opus)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 205,
+    "uilCode": "603-1-39934",
+    "title": "Vers la flamme, Op. 72",
+    "composer": "Scriabin",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 201,
+    "uilCode": "603-1-39930",
+    "title": "\u00c9tude in C-sharp minor, Op. 2, No. 1",
+    "composer": "Scriabin",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 203,
+    "uilCode": "603-1-39932",
+    "title": "\u00c9tudes, Op. 42",
+    "composer": "Scriabin",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 1,
+    "specification": "(play one)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 202,
+    "uilCode": "603-1-39931",
+    "title": "\u00c9tudes, Op. 8",
+    "composer": "Scriabin",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 1,
+    "specification": "(play one)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 206,
+    "uilCode": "603-1-39935",
+    "title": "24 Preludes and Fugues, Op. 87",
+    "composer": "Shostakovich",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 1,
+    "specification": "(play one Prelude AND Fugue pair)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 48,
+    "uilCode": "603-1-18086",
+    "title": "Twenty-four Preludes, Op. 34",
+    "composer": "Shostakovich",
+    "arranger": "",
+    "publishers": [
+      "Multiple Publishers",
+      "Music Corporation of America",
+      "Any unabridged edition"
+    ],
+    "publisherText": "Multiple Publishers;Music Corporation of America;Any unabridged edition",
+    "classLevel": 1,
+    "specification": "(play two)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 207,
+    "uilCode": "603-1-39936",
+    "title": "Eight Memories in Watercolor",
+    "composer": "Tan Dun",
+    "arranger": "",
+    "publishers": [
+      "G. Schirmer, Inc."
+    ],
+    "publisherText": "G. Schirmer, Inc.",
+    "classLevel": 1,
+    "specification": "(play any two)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 208,
+    "uilCode": "603-1-39937",
+    "title": "The Seasons, Op. 37a",
+    "composer": "Tchaikovsky",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 1,
+    "specification": "(play one)",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 49,
+    "uilCode": "603-1-18087",
+    "title": "The Juggler Op. 31 No. 3",
+    "composer": "Toch",
+    "arranger": "",
+    "publishers": [
+      "Schott Company"
+    ],
+    "publisherText": "Schott Company",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 209,
+    "uilCode": "603-1-39938",
+    "title": "Variations on a Kentucky Folk Song",
+    "composer": "Walker",
+    "arranger": "",
+    "publishers": [
+      "Keiser Music Publications"
+    ],
+    "publisherText": "Keiser Music Publications",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false
+  },
+  {
+    "id": 181,
+    "uilCode": "603-1-39910",
+    "title": "Piano Music of Africa and the African Diaspora, Vol. 3",
+    "composer": "various",
+    "arranger": "",
+    "publishers": [
+      "Oxford Press [Piano Music of Africa and the African Diaspora, Vol. 3]"
+    ],
+    "publisherText": "Oxford Press [Piano Music of Africa and the African Diaspora, Vol. 3]",
+    "classLevel": 1,
+    "specification": "(play Juba Dance OR The Cuckoo)",
+    "noMemoryRequired": false
+  }
+]

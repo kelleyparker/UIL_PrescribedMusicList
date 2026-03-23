@@ -1,0 +1,16 @@
+{
+  "songCount": 334,
+  "publisherCount": 608,
+  "noteCount": 2,
+  "databaseRecordCount": 336,
+  "classBreakdown": {
+    "3": 45,
+    "2": 80,
+    "1": 209
+  },
+  "noMemoryRequiredCount": 3,
+  "notes": {
+    "source_song_count": "334",
+    "dataset_audit": "The provided CSV contains 334 piano-solo rows; two additional audit records were requested for the database target of 336 total records. Imported 2026-03-23T22:40:16.812997+00:00."
+  }
+}

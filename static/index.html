@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>UIL Piano Solos 2025-2026</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Bitter:wght@500;700&family=Source+Sans+3:wght@400;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div class="page-shell">
+      <header class="hero">
+        <div class="hero-topbar">
+          <p class="eyebrow">Texas UIL Prescribed Music List</p>
+          <label class="theme-switcher">
+            <span>Color scheme</span>
+            <select id="theme-select" aria-label="Choose a color scheme">
+              <option value="midnight-lone-star">Lone Star Midnight</option>
+              <option value="neon-rodeo">Neon Rodeo</option>
+              <option value="desert-ember">Desert Ember</option>
+              <option value="bluebonnet-dusk">Bluebonnet Dusk</option>
+              <option value="vintage-marquee">Vintage Marquee</option>
+              <option value="crimson-steel">Crimson Steel</option>
+              <option value="electric-teal">Electric Teal</option>
+              <option value="copper-night">Copper Night</option>
+            </select>
+          </label>
+        </div>
+        <h1>2025-2026 Piano Solos</h1>
+        <p class="hero-copy">
+          Browse Piano Solo selections by class, search titles and composers,
+          and view every publisher listed in the local UIL database.
+        </p>
+        <div class="hero-stats">
+          <div class="stat-card">
+            <span class="stat-label">Piano Solo Titles</span>
+            <strong id="song-count">334</strong>
+          </div>
+          <div class="stat-card">
+            <span class="stat-label">Database Records</span>
+            <strong id="database-record-count">336</strong>
+          </div>
+          <div class="stat-card">
+            <span class="stat-label">Class Breakdown</span>
+            <strong id="class-breakdown">3 / 2 / 1</strong>
+          </div>
+          <div class="stat-card">
+            <span class="stat-label">No Memory Required</span>
+            <strong id="nmr-count">3</strong>
+          </div>
+        </div>
+      </header>
+
+      <main class="content">
+        <section class="controls">
+          <div class="filter-group" aria-label="Piano solo class filters">
+            <button class="filter-chip is-active" data-filter="all">All Classes</button>
+            <button class="filter-chip" data-filter="3">Class 3</button>
+            <button class="filter-chip" data-filter="2">Class 2</button>
+            <button class="filter-chip" data-filter="1">Class 1</button>
+            <button class="filter-chip filter-chip-nmr" data-filter="nmr">No Memory Required</button>
+          </div>
+
+          <label class="search-field">
+            <span>Search title, composer, or publisher</span>
+            <input
+              id="search-input"
+              type="search"
+              placeholder="Try Bach, Sonatina, or Alfred"
+            />
+          </label>
+        </section>
+
+        <section class="status-row">
+          <p id="result-summary">Loading piano solos...</p>
+          <a
+            class="uil-link"
+            href="https://www.uiltexas.org/pml/"
+            target="_blank"
+            rel="noreferrer"
+          >
+            Official UIL PML
+          </a>
+        </section>
+
+        <section id="song-grid" class="song-grid" aria-live="polite"></section>
+
+        <template id="song-card-template">
+          <article class="song-card">
+            <div class="song-card-header">
+              <div class="song-badges">
+                <span class="class-badge"></span>
+                <span class="nmr-badge" hidden>No Memory Required</span>
+              </div>
+              <span class="uil-code"></span>
+            </div>
+            <h2 class="song-title"></h2>
+            <p class="song-composer"></p>
+            <div class="song-meta">
+              <p><strong>Publisher(s)</strong></p>
+              <ul class="publisher-list"></ul>
+            </div>
+            <p class="song-specification"></p>
+          </article>
+        </template>
+      </main>
+
+      <footer class="footer-note">
+        <p id="dataset-note"></p>
+      </footer>
+    </div>
+
+    <script src="./app.js" defer></script>
+  </body>
+</html>
