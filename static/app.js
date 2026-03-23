@@ -360,6 +360,13 @@ function setTheme(themeName) {
   localStorage.setItem("uil-piano-theme", themeName);
 }
 
+window.__uilSetTheme = (themeName) => {
+  if (themeSelect) {
+    themeSelect.value = themeName;
+  }
+  setTheme(themeName);
+};
+
 async function loadDataset() {
   const [statsResponse, songsResponse] = await Promise.all([
     fetch("./data/stats.json"),

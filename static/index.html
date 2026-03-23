@@ -10,7 +10,7 @@
       href="https://fonts.googleapis.com/css2?family=Bitter:wght@500;700&family=Source+Sans+3:wght@400;600;700&display=swap"
       rel="stylesheet"
     />
-    <link rel="stylesheet" href="./styles.css" />
+    <link rel="stylesheet" href="./styles.css?v=20260323c" />
   </head>
   <body>
     <div class="page-shell">
@@ -19,7 +19,12 @@
           <p class="eyebrow">Texas UIL Prescribed Music List</p>
           <label class="theme-switcher">
             <span>Color scheme</span>
-            <select id="theme-select" aria-label="Choose a color scheme">
+            <select
+              id="theme-select"
+              aria-label="Choose a color scheme"
+              onchange="window.__uilSetTheme && window.__uilSetTheme(this.value)"
+              oninput="window.__uilSetTheme && window.__uilSetTheme(this.value)"
+            >
               <option value="midnight-lone-star">Lone Star Midnight</option>
               <option value="neon-rodeo">Neon Rodeo</option>
               <option value="desert-ember">Desert Ember</option>
@@ -115,6 +120,6 @@
       </footer>
     </div>
 
-    <script src="./app.js" defer></script>
+    <script src="./app.js?v=20260323c" defer></script>
   </body>
 </html>
