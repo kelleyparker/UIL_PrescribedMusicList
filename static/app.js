@@ -263,13 +263,14 @@ const themes = {
 function setTheme(themeName) {
   const theme = themes[themeName] || themes["midnight-lone-star"];
   const root = document.documentElement;
+  const body = document.body;
   root.dataset.theme = themeName;
   root.style.colorScheme = "dark";
-  root.style.setProperty("--page-glow-left", theme.pageGlowLeft);
-  root.style.setProperty("--page-glow-right", theme.pageGlowRight);
-  root.style.setProperty("--page-start", theme.pageStart);
-  root.style.setProperty("--page-mid", theme.pageMid);
-  root.style.setProperty("--page-end", theme.pageEnd);
+  body.style.setProperty("--page-glow-left", theme.pageGlowLeft);
+  body.style.setProperty("--page-glow-right", theme.pageGlowRight);
+  body.style.setProperty("--page-start", theme.pageStart);
+  body.style.setProperty("--page-mid", theme.pageMid);
+  body.style.setProperty("--page-end", theme.pageEnd);
   root.style.setProperty("--hero-start", theme.heroStart);
   root.style.setProperty("--hero-mid", theme.heroMid);
   root.style.setProperty("--hero-end", theme.heroEnd);
@@ -293,6 +294,69 @@ function setTheme(themeName) {
   root.style.setProperty("--stat-card-bg", theme.statCardBg);
   root.style.setProperty("--select-bg", theme.selectBg);
   root.style.setProperty("--link-color", theme.linkColor);
+
+  body.style.background = `
+    radial-gradient(circle at top left, ${theme.pageGlowLeft}, transparent 28%),
+    radial-gradient(circle at top right, ${theme.pageGlowRight}, transparent 34%),
+    linear-gradient(180deg, ${theme.pageStart} 0%, ${theme.pageMid} 48%, ${theme.pageEnd} 100%)
+  `;
+
+  document.querySelectorAll(".hero").forEach((element) => {
+    element.style.background = `linear-gradient(120deg, ${theme.heroStart} 0%, ${theme.heroMid} 48%, ${theme.heroEnd} 100%)`;
+  });
+
+  document.querySelectorAll(".controls").forEach((element) => {
+    element.style.background = theme.panel;
+    element.style.borderColor = theme.border;
+  });
+
+  document.querySelectorAll(".stat-card").forEach((element) => {
+    element.style.background = theme.statCardBg;
+  });
+
+  document.querySelectorAll(".song-card").forEach((element) => {
+    element.style.background = `linear-gradient(180deg, ${theme.cardStart}, ${theme.cardEnd})`;
+    element.style.borderColor = theme.border;
+  });
+
+  document.querySelectorAll(".uil-link").forEach((element) => {
+    element.style.color = theme.linkColor;
+  });
+
+  document.querySelectorAll(".filter-chip.is-active").forEach((element) => {
+    element.style.background = theme.activeChipBg;
+    element.style.color = theme.activeChipText;
+  });
+
+  document.querySelectorAll(".filter-chip:not(.is-active)").forEach((element) => {
+    if (element.classList.contains("filter-chip-nmr")) {
+      element.style.background = theme.nmrPillBg;
+      element.style.color = theme.nmrPillText;
+      return;
+    }
+    element.style.background = theme.accentSoft;
+    element.style.color = theme.accentSoftText;
+  });
+
+  document.querySelectorAll(".song-composer").forEach((element) => {
+    element.style.color = theme.composerAccent;
+  });
+
+  document.querySelectorAll(".nmr-badge").forEach((element) => {
+    element.style.background = theme.nmrPillBg;
+    element.style.color = theme.nmrPillText;
+  });
+
+  if (themeSelect) {
+    themeSelect.style.background = theme.selectBg;
+  }
+
+  if (searchInput) {
+    searchInput.style.background = theme.inputBg;
+    searchInput.style.color = theme.ink;
+    searchInput.style.borderColor = theme.border;
+  }
+
   localStorage.setItem("uil-piano-theme", themeName);
 }
 
@@ -389,6 +453,7 @@ function applyActiveFilter(nextFilter) {
     button.classList.toggle("is-active", button.dataset.filter === nextFilter);
   });
   refreshSongs();
+  setTheme(themeSelect.value);
 }
 
 async function init() {
@@ -396,9 +461,11 @@ async function init() {
   themeSelect.value = savedTheme;
   setTheme(savedTheme);
 
-  themeSelect.addEventListener("change", (event) => {
+  const handleThemeChange = (event) => {
     setTheme(event.target.value);
-  });
+  };
+  themeSelect.addEventListener("change", handleThemeChange);
+  themeSelect.addEventListener("input", handleThemeChange);
 
   await loadDataset();
   const stats = state.stats;
@@ -422,6 +489,7 @@ async function init() {
   });
 
   await refreshSongs();
+  setTheme(themeSelect.value);
 }
 
 init().catch((error) => {
