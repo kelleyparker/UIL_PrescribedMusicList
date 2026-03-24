@@ -7,7 +7,7 @@ from http.server import SimpleHTTPRequestHandler, ThreadingHTTPServer
 from pathlib import Path
 from urllib.parse import parse_qs, urlparse
 
-from scripts.import_piano_solos import DB_PATH, build_database
+from scripts.import_piano_solos import DB_PATH, STATIC_DATA_DIR, build_from_csv
 
 
 ROOT = Path(__file__).resolve().parent
@@ -16,7 +16,7 @@ STATIC_DIR = ROOT / "static"
 
 def ensure_database() -> None:
     if not DB_PATH.exists():
-        build_database()
+        build_from_csv()
 
 
 def database_connection() -> sqlite3.Connection:
@@ -125,7 +125,7 @@ def fetch_stats() -> dict:
             "SELECT COUNT(*) FROM piano_solos WHERE specification LIKE '%NMR:%'"
         ).fetchone()[0]
 
-    return {
+    payload = {
         "songCount": song_count,
         "publisherCount": publisher_count,
         "noteCount": note_count,
@@ -134,6 +134,13 @@ def fetch_stats() -> dict:
         "noMemoryRequiredCount": no_memory_required_count,
         "notes": {row["note_key"]: row["note_value"] for row in notes},
     }
+
+    stats_path = STATIC_DATA_DIR / "stats.json"
+    if stats_path.exists():
+        static_stats = json.loads(stats_path.read_text(encoding="utf-8"))
+        payload["schoolYear"] = static_stats.get("schoolYear")
+
+    return payload
 
 
 class UILRequestHandler(SimpleHTTPRequestHandler):

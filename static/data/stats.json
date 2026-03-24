@@ -1,4 +1,5 @@
 {
+  "schoolYear": "2025-2026",
   "songCount": 334,
   "publisherCount": 608,
   "noteCount": 2,
@@ -11,6 +12,6 @@
   "noMemoryRequiredCount": 3,
   "notes": {
     "source_song_count": "334",
-    "dataset_audit": "The provided CSV contains 334 piano-solo rows; two additional audit records were requested for the database target of 336 total records. Imported 2026-03-23T22:40:16.812997+00:00."
+    "dataset_audit": "Sourced from https://www.uiltexas.org/pml/ and https://www.uiltexas.org/pml/pml.php. Imported 2026-03-24T02:37:37.783128+00:00."
   }
 }

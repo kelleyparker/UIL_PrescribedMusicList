@@ -2,6 +2,7 @@ const songGrid = document.getElementById("song-grid");
 const resultSummary = document.getElementById("result-summary");
 const datasetNote = document.getElementById("dataset-note");
 const searchInput = document.getElementById("search-input");
+const heroTitle = document.getElementById("hero-title");
 const songCount = document.getElementById("song-count");
 const databaseRecordCount = document.getElementById("database-record-count");
 const classBreakdown = document.getElementById("class-breakdown");
@@ -476,6 +477,8 @@ async function init() {
 
   await loadDataset();
   const stats = state.stats;
+  document.title = `UIL Piano Solos ${stats.schoolYear}`;
+  heroTitle.textContent = `${stats.schoolYear} Piano Solos`;
   songCount.textContent = stats.songCount;
   databaseRecordCount.textContent = stats.databaseRecordCount;
   classBreakdown.textContent = `Class 3: ${stats.classBreakdown["3"]} | Class 2: ${stats.classBreakdown["2"]} | Class 1: ${stats.classBreakdown["1"]}`;

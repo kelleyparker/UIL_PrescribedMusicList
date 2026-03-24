@@ -1,7 +1,7 @@
 [
   {
-    "id": 290,
     "uilCode": "603-3-18147",
+    "eventName": "Piano Solo",
     "title": "Anna Magdalena's Notebook",
     "composer": "Bach",
     "arranger": "",
@@ -16,11 +16,12 @@
     "publisherText": "Multiple Publishers;Alfred Music Company, Inc.;Carl Fischer, Inc.;C.F. Peters Corporation;Barenreiter/Verlag;Foreign Music Distributors",
     "classLevel": 3,
     "specification": "(play two contrasting pieces)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 112
   },
   {
-    "id": 291,
     "uilCode": "603-3-18148",
+    "eventName": "Piano Solo",
     "title": "Solfeggio (Solfeggietto)",
     "composer": "Bach",
     "arranger": "",
@@ -32,11 +33,12 @@
     "publisherText": "Multiple Publishers;C.F. Peters Corporation;Any unabridged edition",
     "classLevel": 3,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 113
   },
   {
-    "id": 292,
     "uilCode": "603-3-18149",
+    "eventName": "Piano Solo",
     "title": "Evening in the Country (Evening in Transylvania) from Ten Easy Pieces",
     "composer": "Bartok",
     "arranger": "",
@@ -49,11 +51,12 @@
     "publisherText": "Multiple Publishers;Alfred Music Company, Inc.;Boosey & Hawkes, Inc.;Any unabridged edition",
     "classLevel": 3,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 114
   },
   {
-    "id": 293,
     "uilCode": "603-3-18150",
+    "eventName": "Piano Solo",
     "title": "Mikrokosmos, Book III",
     "composer": "Bartok",
     "arranger": "",
@@ -63,11 +66,12 @@
     "publisherText": "Boosey & Hawkes, Inc.",
     "classLevel": 3,
     "specification": "(play two)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 115
   },
   {
-    "id": 294,
     "uilCode": "603-3-18151",
+    "eventName": "Piano Solo",
     "title": "German Dances",
     "composer": "Beethoven",
     "arranger": "",
@@ -77,11 +81,12 @@
     "publisherText": "C.F. Peters Corporation",
     "classLevel": 3,
     "specification": "(play two)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 116
   },
   {
-    "id": 295,
     "uilCode": "603-3-18152",
+    "eventName": "Piano Solo",
     "title": "Sonatinas in G major and F major, WoO Anh. 5",
     "composer": "Beethoven",
     "arranger": "",
@@ -91,11 +96,12 @@
     "publisherText": "Carl Fischer, Inc.",
     "classLevel": 3,
     "specification": "(play either sonatina)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 117
   },
   {
-    "id": 296,
     "uilCode": "603-3-18153",
+    "eventName": "Piano Solo",
     "title": "Enfantines",
     "composer": "Bloch",
     "arranger": "",
@@ -107,11 +113,12 @@
     "publisherText": "Multiple Publishers;Carl Fischer, Inc.;G. Schirmer, Inc.",
     "classLevel": 3,
     "specification": "(play two)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 118
   },
   {
-    "id": 329,
     "uilCode": "603-3-39967",
+    "eventName": "Piano Solo",
     "title": "25 Easy and Progressive Studies, Op. 100",
     "composer": "Burgmuller",
     "arranger": "",
@@ -121,11 +128,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 3,
     "specification": "(play any two)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 329
   },
   {
-    "id": 297,
     "uilCode": "603-3-18154",
+    "eventName": "Piano Solo",
     "title": "Lyric Prelude",
     "composer": "Chagy",
     "arranger": "",
@@ -135,11 +143,12 @@
     "publisherText": "Boston Music Company",
     "classLevel": 3,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 119
   },
   {
-    "id": 298,
     "uilCode": "603-3-18155",
+    "eventName": "Piano Solo",
     "title": "Preludes Op. 28",
     "composer": "Chopin",
     "arranger": "",
@@ -151,11 +160,12 @@
     "publisherText": "Multiple Publishers;C.F. Peters Corporation;Alfred Music Company, Inc.",
     "classLevel": 3,
     "specification": "(play 4, 7 or 20)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 120
   },
   {
-    "id": 299,
     "uilCode": "603-3-18156",
+    "eventName": "Piano Solo",
     "title": "Sonatinas, Op. 36, nos. 1-4",
     "composer": "Clementi",
     "arranger": "",
@@ -168,11 +178,12 @@
     "publisherText": "Multiple Publishers;Alfred Music Company, Inc.;Carl Fischer, Inc.;Any unabridged edition",
     "classLevel": 3,
     "specification": "(play first OR last mvt of any sonatina)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 121
   },
   {
-    "id": 300,
     "uilCode": "603-3-18157",
+    "eventName": "Piano Solo",
     "title": "Five Little Dances Op. 24",
     "composer": "Creston",
     "arranger": "",
@@ -182,11 +193,12 @@
     "publisherText": "G. Schirmer, Inc.",
     "classLevel": 3,
     "specification": "(play two)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 122
   },
   {
-    "id": 301,
     "uilCode": "603-3-18158",
+    "eventName": "Piano Solo",
     "title": "Lyric Pieces for the Young",
     "composer": "Dello Joio",
     "arranger": "",
@@ -198,11 +210,12 @@
     "publisherText": "Multiple Publishers;Marks Music Corporation;G. Schirmer, Inc.",
     "classLevel": 3,
     "specification": "(play two)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 123
   },
   {
-    "id": 302,
     "uilCode": "603-3-18159",
+    "eventName": "Piano Solo",
     "title": "Suite for the Young",
     "composer": "Dello Joio",
     "arranger": "",
@@ -214,11 +227,12 @@
     "publisherText": "Multiple Publishers;Marks Music Corporation;G. Schirmer, Inc.",
     "classLevel": 3,
     "specification": "(play two)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 124
   },
   {
-    "id": 327,
     "uilCode": "603-3-36090",
+    "eventName": "Piano Solo",
     "title": "Lyric Preludes in Romantic Style",
     "composer": "Gillock",
     "arranger": "",
@@ -230,11 +244,12 @@
     "publisherText": "Multiple Publishers;Summy/Birchard;Alfred Music Company, Inc.",
     "classLevel": 3,
     "specification": "(play two)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 194
   },
   {
-    "id": 326,
     "uilCode": "603-3-36089",
+    "eventName": "Piano Solo",
     "title": "William Gillock Recital Collection",
     "composer": "Gillock",
     "arranger": "",
@@ -244,11 +259,12 @@
     "publisherText": "Willis Music Company",
     "classLevel": 3,
     "specification": "(play two)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 193
   },
   {
-    "id": 303,
     "uilCode": "603-3-18160",
+    "eventName": "Piano Solo",
     "title": "Bell Ringing Op. 54 No. 6",
     "composer": "Grieg",
     "arranger": "Halford",
@@ -258,11 +274,12 @@
     "publisherText": "Alfred Music Company, Inc. [Grieg-An Introduction to his Piano Works]",
     "classLevel": 3,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 125
   },
   {
-    "id": 304,
     "uilCode": "603-3-18161",
+    "eventName": "Piano Solo",
     "title": "Lyric Pieces Op. 12",
     "composer": "Grieg",
     "arranger": "",
@@ -274,11 +291,12 @@
     "publisherText": "Multiple Publishers;C.F. Peters Corporation;Edwin F. Kalmus",
     "classLevel": 3,
     "specification": "(play one)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 126
   },
   {
-    "id": 305,
     "uilCode": "603-3-18162",
+    "eventName": "Piano Solo",
     "title": "Sailor Song Op. 68 No. 1",
     "composer": "Grieg",
     "arranger": "Halford",
@@ -288,11 +306,12 @@
     "publisherText": "Alfred Music Company, Inc. [Grieg-An Introduction to his Piano Works]",
     "classLevel": 3,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 127
   },
   {
-    "id": 330,
     "uilCode": "603-3-39968",
+    "eventName": "Piano Solo",
     "title": "Handel: The First Book for Pianists",
     "composer": "Handel",
     "arranger": "Lucktenberg",
@@ -302,11 +321,12 @@
     "publisherText": "Alfred Music Company, Inc. [Handel: The First Book for Pianists]",
     "classLevel": 3,
     "specification": "(play any two)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 330
   },
   {
-    "id": 306,
     "uilCode": "603-3-18163",
+    "eventName": "Piano Solo",
     "title": "Six Sonatinas (Divertimenti, Hob. XVI: 4, 7, 8, 9, 10, 11)",
     "composer": "Haydn",
     "arranger": "",
@@ -316,11 +336,12 @@
     "publisherText": "Alfred Music Company, Inc.",
     "classLevel": 3,
     "specification": "(play two mvts from one sonatina)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 128
   },
   {
-    "id": 307,
     "uilCode": "603-3-18164",
+    "eventName": "Piano Solo",
     "title": "30 Pieces for Children",
     "composer": "Kabalevsky",
     "arranger": "",
@@ -332,11 +353,12 @@
     "publisherText": "Multiple Publishers;G. Schirmer, Inc.;Any unabridged edition",
     "classLevel": 3,
     "specification": "(play two)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 129
   },
   {
-    "id": 308,
     "uilCode": "603-3-18165",
+    "eventName": "Piano Solo",
     "title": "Adventures of Ivan",
     "composer": "Khatchaturian",
     "arranger": "",
@@ -348,11 +370,12 @@
     "publisherText": "Multiple Publishers;Music Corporation of America;Any unabridged edition",
     "classLevel": 3,
     "specification": "(play two)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 130
   },
   {
-    "id": 331,
     "uilCode": "603-3-39969",
+    "eventName": "Piano Solo",
     "title": "Sonatinas, Op. 55, Nos. 1 and 2",
     "composer": "Kuhlau",
     "arranger": "",
@@ -362,11 +385,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 3,
     "specification": "(play first OR last mvt of any sonatina)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 331
   },
   {
-    "id": 309,
     "uilCode": "603-3-18166",
+    "eventName": "Piano Solo",
     "title": "Touches Blanches",
     "composer": "Milhaud",
     "arranger": "",
@@ -378,11 +402,12 @@
     "publisherText": "Multiple Publishers;Carl Fischer, Inc.;Any unabridged edition",
     "classLevel": 3,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 131
   },
   {
-    "id": 310,
     "uilCode": "603-3-18167",
+    "eventName": "Piano Solo",
     "title": "Touches Noires",
     "composer": "Milhaud",
     "arranger": "",
@@ -394,11 +419,12 @@
     "publisherText": "Multiple Publishers;Carl Fischer, Inc.;Any unabridged edition",
     "classLevel": 3,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 132
   },
   {
-    "id": 332,
     "uilCode": "603-3-39970",
+    "eventName": "Piano Solo",
     "title": "Eight Minuets, K. 315",
     "composer": "Mozart",
     "arranger": "",
@@ -408,11 +434,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 3,
     "specification": "(play any two)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 332
   },
   {
-    "id": 313,
     "uilCode": "603-3-18170",
+    "eventName": "Piano Solo",
     "title": "German Dances",
     "composer": "Mozart",
     "arranger": "",
@@ -422,11 +449,12 @@
     "publisherText": "C.F. Peters Corporation",
     "classLevel": 3,
     "specification": "(play two)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 135
   },
   {
-    "id": 311,
     "uilCode": "603-3-18168",
+    "eventName": "Piano Solo",
     "title": "Notebook for Nannerl",
     "composer": "Mozart",
     "arranger": "",
@@ -438,11 +466,12 @@
     "publisherText": "Multiple Publishers;Schott Company;Carl Fischer, Inc.",
     "classLevel": 3,
     "specification": "(play two)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 133
   },
   {
-    "id": 312,
     "uilCode": "603-3-18169",
+    "eventName": "Piano Solo",
     "title": "Notebook for Wolfgang",
     "composer": "Mozart",
     "arranger": "",
@@ -454,11 +483,12 @@
     "publisherText": "Multiple Publishers;Schott Company;Any unabridged edition",
     "classLevel": 3,
     "specification": "(play two)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 134
   },
   {
-    "id": 333,
     "uilCode": "603-3-39971",
+    "eventName": "Piano Solo",
     "title": "Japanese Festival",
     "composer": "Nakada",
     "arranger": "Lew",
@@ -468,11 +498,12 @@
     "publisherText": "Alfred Music Company, Inc.",
     "classLevel": 3,
     "specification": "(play any two)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 333
   },
   {
-    "id": 314,
     "uilCode": "603-3-18171",
+    "eventName": "Piano Solo",
     "title": "Little Piano Book",
     "composer": "Persichetti",
     "arranger": "",
@@ -482,11 +513,12 @@
     "publisherText": "Elkan-Vogel Company, Inc.",
     "classLevel": 3,
     "specification": "(play two)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 136
   },
   {
-    "id": 315,
     "uilCode": "603-3-18172",
+    "eventName": "Piano Solo",
     "title": "Children's Festival",
     "composer": "Pinto",
     "arranger": "",
@@ -496,11 +528,12 @@
     "publisherText": "G. Schirmer, Inc.",
     "classLevel": 3,
     "specification": "(play two)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 137
   },
   {
-    "id": 316,
     "uilCode": "603-3-18173",
+    "eventName": "Piano Solo",
     "title": "Scenes Infantas",
     "composer": "Pinto",
     "arranger": "",
@@ -510,11 +543,12 @@
     "publisherText": "G. Schirmer, Inc.",
     "classLevel": 3,
     "specification": "(play two)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 138
   },
   {
-    "id": 317,
     "uilCode": "603-3-18174",
+    "eventName": "Piano Solo",
     "title": "Grandmother's Tales Op. 31",
     "composer": "Prokofiev",
     "arranger": "",
@@ -527,11 +561,12 @@
     "publisherText": "Multiple Publishers;Boosey & Hawkes, Inc.;Edwin F. Kalmus;Music Corporation of America",
     "classLevel": 3,
     "specification": "(play two)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 139
   },
   {
-    "id": 328,
     "uilCode": "603-3-36091",
+    "eventName": "Piano Solo",
     "title": "Pieces for Children, Op. 65",
     "composer": "Prokofiev",
     "arranger": "",
@@ -541,11 +576,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 3,
     "specification": "(play two)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 195
   },
   {
-    "id": 334,
     "uilCode": "603-3-39972",
+    "eventName": "Piano Solo",
     "title": "Danse Orientale, Op. 2, No. 5",
     "composer": "Rebikov",
     "arranger": "Agay",
@@ -555,11 +591,12 @@
     "publisherText": "Music Sales Corp. [Easy Classics to Moderns]",
     "classLevel": 3,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 334
   },
   {
-    "id": 318,
     "uilCode": "603-3-18175",
+    "eventName": "Piano Solo",
     "title": "Silhouettes",
     "composer": "Rebikov",
     "arranger": "",
@@ -569,11 +606,12 @@
     "publisherText": "G. Schirmer, Inc.",
     "classLevel": 3,
     "specification": "(play two)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 140
   },
   {
-    "id": 319,
     "uilCode": "603-3-18176",
+    "eventName": "Piano Solo",
     "title": "Dances (Ecossaises, German Dances, L\u00e4ndler, Waltzes)",
     "composer": "Schubert",
     "arranger": "",
@@ -585,11 +623,12 @@
     "publisherText": "Multiple Publishers;Dover;Henle Publishing",
     "classLevel": 3,
     "specification": "(play two from the same set or opus no.)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 141
   },
   {
-    "id": 320,
     "uilCode": "603-3-18177",
+    "eventName": "Piano Solo",
     "title": "Album for the Young Op. 68",
     "composer": "Schumann",
     "arranger": "",
@@ -601,11 +640,12 @@
     "publisherText": "Multiple Publishers;Alfred Music Company, Inc.;Any unabridged edition",
     "classLevel": 3,
     "specification": "(play two)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 142
   },
   {
-    "id": 321,
     "uilCode": "603-3-18178",
+    "eventName": "Piano Solo",
     "title": "American Kaleidoscope",
     "composer": "Siegmeister",
     "arranger": "",
@@ -617,11 +657,12 @@
     "publisherText": "Multiple Publishers;Sam Fox Publishing Company;Alfred Music Company, Inc.",
     "classLevel": 3,
     "specification": "(play two contrasting pieces)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 143
   },
   {
-    "id": 322,
     "uilCode": "603-3-18179",
+    "eventName": "Piano Solo",
     "title": "Sketches in Color, Book 1",
     "composer": "Starer",
     "arranger": "",
@@ -631,11 +672,12 @@
     "publisherText": "Music Corporation of America",
     "classLevel": 3,
     "specification": "(play three)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 144
   },
   {
-    "id": 323,
     "uilCode": "603-3-18180",
+    "eventName": "Piano Solo",
     "title": "Pour les Enfants, Vol. 1-4",
     "composer": "Tansman",
     "arranger": "",
@@ -647,11 +689,12 @@
     "publisherText": "Multiple Publishers;Max Eschig;Durand",
     "classLevel": 3,
     "specification": "(play three)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 145
   },
   {
-    "id": 324,
     "uilCode": "603-3-18181",
+    "eventName": "Piano Solo",
     "title": "Album for the Young Op. 39",
     "composer": "Tchaikovsky",
     "arranger": "",
@@ -663,11 +706,12 @@
     "publisherText": "Multiple Publishers;Alfred Music Company, Inc.;Any unabridged edition",
     "classLevel": 3,
     "specification": "(play two)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 146
   },
   {
-    "id": 325,
     "uilCode": "603-3-18182",
+    "eventName": "Piano Solo",
     "title": "Preludes, Vol. 1",
     "composer": "Vandall",
     "arranger": "",
@@ -677,11 +721,12 @@
     "publisherText": "Myklas",
     "classLevel": 3,
     "specification": "(play # 1 & 6)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 147
   },
   {
-    "id": 210,
     "uilCode": "603-2-18089",
+    "eventName": "Piano Solo",
     "title": "Little Preludes, BWV 924-931, 933-943",
     "composer": "Bach",
     "arranger": "",
@@ -694,11 +739,12 @@
     "publisherText": "Multiple Publishers;C.F. Peters Corporation;Alfred Music Company, Inc.;Any unabridged edition",
     "classLevel": 2,
     "specification": "(play two)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 59
   },
   {
-    "id": 211,
     "uilCode": "603-2-18090",
+    "eventName": "Piano Solo",
     "title": "Two-Part Inventions, BWV 772-786",
     "composer": "Bach",
     "arranger": "",
@@ -714,11 +760,12 @@
     "publisherText": "Multiple Publishers;Alfred Music Company, Inc.;Carl Fischer, Inc.;C.F. Peters Corporation;Edwin F. Kalmus;Barenreiter/Verlag;Foreign Music Distributors",
     "classLevel": 2,
     "specification": "(play one)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 60
   },
   {
-    "id": 213,
     "uilCode": "603-2-18092",
+    "eventName": "Piano Solo",
     "title": "Bear Dance (from Ten Easy Pieces)",
     "composer": "Bartok",
     "arranger": "",
@@ -728,11 +775,12 @@
     "publisherText": "Boosey & Hawkes, Inc.",
     "classLevel": 2,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 62
   },
   {
-    "id": 214,
     "uilCode": "603-2-18093",
+    "eventName": "Piano Solo",
     "title": "Fifteen Hungarian Peasant Songs",
     "composer": "Bartok",
     "arranger": "",
@@ -742,11 +790,12 @@
     "publisherText": "Boosey & Hawkes, Inc.",
     "classLevel": 2,
     "specification": "(play two)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 63
   },
   {
-    "id": 215,
     "uilCode": "603-2-18094",
+    "eventName": "Piano Solo",
     "title": "Mikrokosmos, Vol. IV",
     "composer": "Bartok",
     "arranger": "",
@@ -756,11 +805,12 @@
     "publisherText": "Boosey & Hawkes, Inc.",
     "classLevel": 2,
     "specification": "(play two)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 64
   },
   {
-    "id": 216,
     "uilCode": "603-2-18095",
+    "eventName": "Piano Solo",
     "title": "Rumanian Christmas Songs",
     "composer": "Bartok",
     "arranger": "",
@@ -770,11 +820,12 @@
     "publisherText": "Boosey & Hawkes, Inc.",
     "classLevel": 2,
     "specification": "(play two)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 65
   },
   {
-    "id": 217,
     "uilCode": "603-2-18096",
+    "eventName": "Piano Solo",
     "title": "Rumanian Folk Dances",
     "composer": "Bartok",
     "arranger": "",
@@ -784,11 +835,12 @@
     "publisherText": "Boosey & Hawkes, Inc.",
     "classLevel": 2,
     "specification": "(play two)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 66
   },
   {
-    "id": 212,
     "uilCode": "603-2-18091",
+    "eventName": "Piano Solo",
     "title": "Sonatina - Mvt. 1 (Bagpipe)",
     "composer": "Bartok",
     "arranger": "",
@@ -798,11 +850,12 @@
     "publisherText": "Boosey & Hawkes, Inc.",
     "classLevel": 2,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 61
   },
   {
-    "id": 262,
     "uilCode": "603-2-39939",
+    "eventName": "Piano Solo",
     "title": "Children\u2019s Album, Op. 36",
     "composer": "Beach",
     "arranger": "",
@@ -815,11 +868,12 @@
     "publisherText": "Multiple Publishers;Clifton Edition Ltd.;Schott Company;Hal Leonard Music, Inc.",
     "classLevel": 2,
     "specification": "(play any two)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 301
   },
   {
-    "id": 218,
     "uilCode": "603-2-18097",
+    "eventName": "Piano Solo",
     "title": "Bagatelles Op. 33",
     "composer": "Beethoven",
     "arranger": "",
@@ -829,11 +883,12 @@
     "publisherText": "C.F. Peters Corporation",
     "classLevel": 2,
     "specification": "(play one)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 67
   },
   {
-    "id": 219,
     "uilCode": "603-2-18098",
+    "eventName": "Piano Solo",
     "title": "Sonatas Op. 49, No. 1 and No. 2",
     "composer": "Beethoven",
     "arranger": "",
@@ -846,11 +901,12 @@
     "publisherText": "Multiple Publishers;C.F. Peters Corporation;Edwin F. Kalmus;Any unabridged edition",
     "classLevel": 2,
     "specification": "(play one mvt of either Sonata)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 68
   },
   {
-    "id": 263,
     "uilCode": "603-2-39940",
+    "eventName": "Piano Solo",
     "title": "Variations on Nel cor pi\u00f9 non mi sento, WoO 70",
     "composer": "Beethoven",
     "arranger": "",
@@ -860,11 +916,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 2,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 302
   },
   {
-    "id": 220,
     "uilCode": "603-2-18099",
+    "eventName": "Piano Solo",
     "title": "Variations on a Swiss Song",
     "composer": "Beethoven",
     "arranger": "",
@@ -874,11 +931,12 @@
     "publisherText": "Alfred Music Company, Inc. [Beethoven-An Introduction to his Piano Works]",
     "classLevel": 2,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 69
   },
   {
-    "id": 221,
     "uilCode": "603-2-18100",
+    "eventName": "Piano Solo",
     "title": "Waltzes, Op. 39 (simplified version by composer)",
     "composer": "Brahms",
     "arranger": "",
@@ -888,11 +946,12 @@
     "publisherText": "Edwin F. Kalmus",
     "classLevel": 2,
     "specification": "(play two)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 70
   },
   {
-    "id": 264,
     "uilCode": "603-2-39941",
+    "eventName": "Piano Solo",
     "title": "Mazurka in B-flat major, Op. 7, no. 1",
     "composer": "Chopin",
     "arranger": "",
@@ -902,11 +961,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 2,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 303
   },
   {
-    "id": 265,
     "uilCode": "603-2-39942",
+    "eventName": "Piano Solo",
     "title": "Mazurka in G minor, Op. 67, no. 2",
     "composer": "Chopin",
     "arranger": "",
@@ -916,11 +976,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 2,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 304
   },
   {
-    "id": 222,
     "uilCode": "603-2-18102",
+    "eventName": "Piano Solo",
     "title": "Mazurkas, Op. 68, No. 2 or 3",
     "composer": "Chopin",
     "arranger": "",
@@ -934,11 +995,12 @@
     "publisherText": "Multiple Publishers;C.F. Peters Corporation;Chopin Institute Edition;Salabert, Inc.;Any unabridged edition",
     "classLevel": 2,
     "specification": "(play one)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 71
   },
   {
-    "id": 266,
     "uilCode": "603-2-39943",
+    "eventName": "Piano Solo",
     "title": "Polonaise in G minor, Op. post.",
     "composer": "Chopin",
     "arranger": "",
@@ -948,11 +1010,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 2,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 305
   },
   {
-    "id": 223,
     "uilCode": "603-2-18105",
+    "eventName": "Piano Solo",
     "title": "Preludes, Op. 28, nos. 6 (B minor), 15 (D-flat major), 22 (G minor)",
     "composer": "Chopin",
     "arranger": "",
@@ -965,11 +1028,12 @@
     "publisherText": "Multiple Publishers;Alfred Music Company, Inc.;C.F. Peters Corporation;Any unabridged edition",
     "classLevel": 2,
     "specification": "(play two preludes)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 72
   },
   {
-    "id": 267,
     "uilCode": "603-2-39944",
+    "eventName": "Piano Solo",
     "title": "Waltz in A minor, Op. post. BI 150",
     "composer": "Chopin",
     "arranger": "",
@@ -979,11 +1043,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 2,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 306
   },
   {
-    "id": 224,
     "uilCode": "603-2-18106",
+    "eventName": "Piano Solo",
     "title": "Sonatina Op. 36 No. 6",
     "composer": "Clementi",
     "arranger": "",
@@ -995,11 +1060,12 @@
     "publisherText": "Multiple Publishers;Alfred Music Company, Inc.;Any unabridged edition",
     "classLevel": 2,
     "specification": "(play both mvts)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 73
   },
   {
-    "id": 268,
     "uilCode": "603-2-39945",
+    "eventName": "Piano Solo",
     "title": "Sonatina in G major, Op. 36, no. 5",
     "composer": "Clementi",
     "arranger": "",
@@ -1009,11 +1075,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 2,
     "specification": "(play two mvts)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 307
   },
   {
-    "id": 269,
     "uilCode": "603-2-39946",
+    "eventName": "Piano Solo",
     "title": "Sonatinas Op. 37, nos. 1, 2, and 3",
     "composer": "Clementi",
     "arranger": "",
@@ -1023,11 +1090,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 2,
     "specification": "(play one mvt of any sonatina)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 308
   },
   {
-    "id": 270,
     "uilCode": "603-2-39947",
+    "eventName": "Piano Solo",
     "title": "Sonatinas Op. 38, nos. 1, 2, and 3",
     "composer": "Clementi",
     "arranger": "",
@@ -1037,11 +1105,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 2,
     "specification": "(play one mvt of any sonatina)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 309
   },
   {
-    "id": 225,
     "uilCode": "603-2-18107",
+    "eventName": "Piano Solo",
     "title": "Down a Country Lane",
     "composer": "Copland",
     "arranger": "",
@@ -1051,11 +1120,12 @@
     "publisherText": "Boosey & Hawkes, Inc.",
     "classLevel": 2,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 74
   },
   {
-    "id": 226,
     "uilCode": "603-2-18108",
+    "eventName": "Piano Solo",
     "title": "The Harper Minstrel Sings",
     "composer": "Cowell",
     "arranger": "",
@@ -1067,11 +1137,12 @@
     "publisherText": "Multiple Publishers;Associated Music Publishers Inc.;Carl Fischer, Inc. [In Masters Of Our Day, V. 1]",
     "classLevel": 2,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 75
   },
   {
-    "id": 227,
     "uilCode": "603-2-18109",
+    "eventName": "Piano Solo",
     "title": "The Irishman Dances",
     "composer": "Cowell",
     "arranger": "",
@@ -1083,11 +1154,12 @@
     "publisherText": "Multiple Publishers;Associated Music Publishers Inc.;Carl Fischer, Inc. [In Masters Of Our Day, V. 1]",
     "classLevel": 2,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 76
   },
   {
-    "id": 228,
     "uilCode": "603-2-18110",
+    "eventName": "Piano Solo",
     "title": "The Snows of Fugi-Yama",
     "composer": "Cowell",
     "arranger": "",
@@ -1097,11 +1169,12 @@
     "publisherText": "Associated Music Publishers Inc.",
     "classLevel": 2,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 77
   },
   {
-    "id": 229,
     "uilCode": "603-2-18111",
+    "eventName": "Piano Solo",
     "title": "Pastorale",
     "composer": "Crumb",
     "arranger": "",
@@ -1111,11 +1184,12 @@
     "publisherText": "Belwin, Inc",
     "classLevel": 2,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 78
   },
   {
-    "id": 230,
     "uilCode": "603-2-18112",
+    "eventName": "Piano Solo",
     "title": "Bruyeres",
     "composer": "Debussy",
     "arranger": "",
@@ -1127,11 +1201,12 @@
     "publisherText": "Multiple Publishers;Durand [Preludes Book II];Any unabridged edition",
     "classLevel": 2,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 79
   },
   {
-    "id": 271,
     "uilCode": "603-2-39948",
+    "eventName": "Piano Solo",
     "title": "Children\u2019s Corner Suite",
     "composer": "Debussy",
     "arranger": "",
@@ -1141,11 +1216,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 2,
     "specification": "(play No. 2-Children\u2019s Corner Suite OR No. 5-The Little Shepherd)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 310
   },
   {
-    "id": 272,
     "uilCode": "603-2-39949",
+    "eventName": "Piano Solo",
     "title": "Mazurka",
     "composer": "Debussy",
     "arranger": "",
@@ -1155,11 +1231,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 2,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 311
   },
   {
-    "id": 231,
     "uilCode": "603-2-18114",
+    "eventName": "Piano Solo",
     "title": "Reverie",
     "composer": "Debussy",
     "arranger": "",
@@ -1171,11 +1248,12 @@
     "publisherText": "Multiple Publishers;Durand;Any unabridged edition",
     "classLevel": 2,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 81
   },
   {
-    "id": 232,
     "uilCode": "603-2-18115",
+    "eventName": "Piano Solo",
     "title": "Nocturne in B-flat major, H. 37",
     "composer": "Field",
     "arranger": "",
@@ -1185,11 +1263,12 @@
     "publisherText": "C.F. Peters Corp. [Eighteen Nocturnes, ed. Louis K\u00f6hler]",
     "classLevel": 2,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 82
   },
   {
-    "id": 233,
     "uilCode": "603-2-18116",
+    "eventName": "Piano Solo",
     "title": "Twelve Spanish Dances, Volume I",
     "composer": "Granados",
     "arranger": "",
@@ -1199,11 +1278,12 @@
     "publisherText": "Edwin F. Kalmus",
     "classLevel": 2,
     "specification": "(play one)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 83
   },
   {
-    "id": 274,
     "uilCode": "603-2-39951",
+    "eventName": "Piano Solo",
     "title": "French Serenade, Op. 62, no. 3",
     "composer": "Grieg",
     "arranger": "",
@@ -1213,11 +1293,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 2,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 313
   },
   {
-    "id": 273,
     "uilCode": "603-2-39950",
+    "eventName": "Piano Solo",
     "title": "Homesickness, Op. 57, no. 6",
     "composer": "Grieg",
     "arranger": "",
@@ -1227,11 +1308,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 2,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 312
   },
   {
-    "id": 234,
     "uilCode": "603-2-18118",
+    "eventName": "Piano Solo",
     "title": "Lyrical Pieces Op. 38 and Op. 43",
     "composer": "Grieg",
     "arranger": "",
@@ -1241,11 +1323,12 @@
     "publisherText": "G. Schirmer, Inc.",
     "classLevel": 2,
     "specification": "(play one)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 84
   },
   {
-    "id": 235,
     "uilCode": "603-2-18119",
+    "eventName": "Piano Solo",
     "title": "Nocturne Op. 54 No. 4",
     "composer": "Grieg",
     "arranger": "",
@@ -1255,11 +1338,12 @@
     "publisherText": "G. Schirmer, Inc.",
     "classLevel": 2,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 85
   },
   {
-    "id": 275,
     "uilCode": "603-2-39952",
+    "eventName": "Piano Solo",
     "title": "Sm\u00e5trold (Puck), Op. 71, no. 3",
     "composer": "Grieg",
     "arranger": "",
@@ -1269,11 +1353,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 2,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 314
   },
   {
-    "id": 277,
     "uilCode": "603-2-39954",
+    "eventName": "Piano Solo",
     "title": "Suite in E major, HWV 430",
     "composer": "Handel",
     "arranger": "",
@@ -1283,11 +1368,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 2,
     "specification": "(play The Harmonious Blacksmith)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 316
   },
   {
-    "id": 276,
     "uilCode": "603-2-39953",
+    "eventName": "Piano Solo",
     "title": "Suite in G minor, HWV 432",
     "composer": "Handel",
     "arranger": "",
@@ -1297,11 +1383,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 2,
     "specification": "(play Passacaille)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 315
   },
   {
-    "id": 236,
     "uilCode": "603-2-18120",
+    "eventName": "Piano Solo",
     "title": "Enchantment",
     "composer": "Hanson",
     "arranger": "",
@@ -1313,11 +1400,12 @@
     "publisherText": "Multiple Publishers;Carl Fischer, Inc.;Any unabridged edition",
     "classLevel": 2,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 86
   },
   {
-    "id": 237,
     "uilCode": "603-2-18121",
+    "eventName": "Piano Solo",
     "title": "Mystic Flute",
     "composer": "Hovhaness",
     "arranger": "",
@@ -1327,11 +1415,12 @@
     "publisherText": "C.F. Peters Corporation",
     "classLevel": 2,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 87
   },
   {
-    "id": 238,
     "uilCode": "603-2-18122",
+    "eventName": "Piano Solo",
     "title": "Twelve Armenian Folk Songs",
     "composer": "Hovhaness",
     "arranger": "",
@@ -1341,11 +1430,12 @@
     "publisherText": "C.F. Peters Corporation",
     "classLevel": 2,
     "specification": "(play two)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 88
   },
   {
-    "id": 239,
     "uilCode": "603-2-18123",
+    "eventName": "Piano Solo",
     "title": "The Giddy Girl",
     "composer": "Ibert",
     "arranger": "",
@@ -1355,11 +1445,12 @@
     "publisherText": "Alphonse Leduc",
     "classLevel": 2,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 89
   },
   {
-    "id": 240,
     "uilCode": "603-2-18124",
+    "eventName": "Piano Solo",
     "title": "The Little White Donkey",
     "composer": "Ibert",
     "arranger": "",
@@ -1369,11 +1460,12 @@
     "publisherText": "Alphonse Leduc",
     "classLevel": 2,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 90
   },
   {
-    "id": 278,
     "uilCode": "603-2-39955",
+    "eventName": "Piano Solo",
     "title": "Four Rondos, Op. 60",
     "composer": "Kabalevsky",
     "arranger": "",
@@ -1383,11 +1475,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 2,
     "specification": "(play one)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 317
   },
   {
-    "id": 241,
     "uilCode": "603-2-18125",
+    "eventName": "Piano Solo",
     "title": "Sonatina in C Op. 13 No. 1",
     "composer": "Kabalevsky",
     "arranger": "",
@@ -1399,11 +1492,12 @@
     "publisherText": "Multiple Publishers;Music Corporation of America;Any unabridged edition",
     "classLevel": 2,
     "specification": "(play two mvts)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 91
   },
   {
-    "id": 242,
     "uilCode": "603-2-18126",
+    "eventName": "Piano Solo",
     "title": "Variations in D major, Op. 40, no. 1",
     "composer": "Kabalevsky",
     "arranger": "",
@@ -1415,11 +1509,12 @@
     "publisherText": "Multiple Publishers;Music Corporation of America;Any unabridged edition",
     "classLevel": 2,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 92
   },
   {
-    "id": 279,
     "uilCode": "603-2-39956",
+    "eventName": "Piano Solo",
     "title": "Variations in F major, Op. 51, no. 1",
     "composer": "Kabalevsky",
     "arranger": "",
@@ -1429,11 +1524,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 2,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 318
   },
   {
-    "id": 243,
     "uilCode": "603-2-18127",
+    "eventName": "Piano Solo",
     "title": "Three Miniatures",
     "composer": "Korte",
     "arranger": "",
@@ -1443,11 +1539,12 @@
     "publisherText": "E.C. Schirmer Music Company",
     "classLevel": 2,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 93
   },
   {
-    "id": 281,
     "uilCode": "603-2-39958",
+    "eventName": "Piano Solo",
     "title": "Sonatina in A minor, Op. 88, no. 3",
     "composer": "Kuhlau",
     "arranger": "",
@@ -1457,11 +1554,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 2,
     "specification": "(play first OR last mvt)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 320
   },
   {
-    "id": 280,
     "uilCode": "603-2-39957",
+    "eventName": "Piano Solo",
     "title": "Sonatinas, Op. 20, nos. 1, 2, 3",
     "composer": "Kuhlau",
     "arranger": "",
@@ -1471,11 +1569,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 2,
     "specification": "(play first OR last mvt of any sonatina)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 319
   },
   {
-    "id": 244,
     "uilCode": "603-2-18128",
+    "eventName": "Piano Solo",
     "title": "La Comparsa (Danzas Afro-Cubanas, no. 6)",
     "composer": "Lecuona",
     "arranger": "",
@@ -1485,11 +1584,12 @@
     "publisherText": "EBM",
     "classLevel": 2,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 94
   },
   {
-    "id": 282,
     "uilCode": "603-2-39959",
+    "eventName": "Piano Solo",
     "title": "Consolations",
     "composer": "Liszt",
     "arranger": "",
@@ -1499,11 +1599,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 2,
     "specification": "(play one)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 321
   },
   {
-    "id": 283,
     "uilCode": "603-2-39960",
+    "eventName": "Piano Solo",
     "title": "Sea Pieces, Op. 55",
     "composer": "MacDowell",
     "arranger": "",
@@ -1513,11 +1614,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 2,
     "specification": "(play any two)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 322
   },
   {
-    "id": 245,
     "uilCode": "603-2-18129",
+    "eventName": "Piano Solo",
     "title": "Woodland Sketches Op. 51",
     "composer": "MacDowell",
     "arranger": "",
@@ -1527,11 +1629,12 @@
     "publisherText": "Boston Music Company",
     "classLevel": 2,
     "specification": "(play two)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 95
   },
   {
-    "id": 246,
     "uilCode": "603-2-18130",
+    "eventName": "Piano Solo",
     "title": "Song Without Words",
     "composer": "Mendelssohn",
     "arranger": "",
@@ -1541,11 +1644,12 @@
     "publisherText": "Carl Fischer, Inc.",
     "classLevel": 2,
     "specification": "(play one EXCEPT Op. 19-No.5; Op. 30-No.4; Op. 38-No.6; Op. 67-No.4)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 96
   },
   {
-    "id": 247,
     "uilCode": "603-2-18131",
+    "eventName": "Piano Solo",
     "title": "Poemetti: 12 Pieces for Children",
     "composer": "Menotti",
     "arranger": "",
@@ -1557,11 +1661,12 @@
     "publisherText": "Multiple Publishers;Ricordi & Company, Inc.;Any unabridged edition",
     "classLevel": 2,
     "specification": "(play two)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 97
   },
   {
-    "id": 248,
     "uilCode": "603-2-18132",
+    "eventName": "Piano Solo",
     "title": "Scenes d' Enfants",
     "composer": "Mompou",
     "arranger": "",
@@ -1571,11 +1676,12 @@
     "publisherText": "Salabert, Inc.",
     "classLevel": 2,
     "specification": "(play two)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 98
   },
   {
-    "id": 284,
     "uilCode": "603-2-39961",
+    "eventName": "Piano Solo",
     "title": "Fantasy in D minor, K. 397",
     "composer": "Mozart",
     "arranger": "",
@@ -1585,11 +1691,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 2,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 323
   },
   {
-    "id": 249,
     "uilCode": "603-2-18133",
+    "eventName": "Piano Solo",
     "title": "Six Viennese Sonatinas, K. 439b",
     "composer": "Mozart",
     "arranger": "",
@@ -1602,11 +1709,12 @@
     "publisherText": "Multiple Publishers;International Music Company;Schott Company;Any unabridged edition",
     "classLevel": 2,
     "specification": "(play two mvts from one sonatina)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 99
   },
   {
-    "id": 250,
     "uilCode": "603-2-18134",
+    "eventName": "Piano Solo",
     "title": "Diversions Op. 23",
     "composer": "Muczynski",
     "arranger": "",
@@ -1616,11 +1724,12 @@
     "publisherText": "G. Schirmer, Inc.",
     "classLevel": 2,
     "specification": "(play two)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 100
   },
   {
-    "id": 251,
     "uilCode": "603-2-18135",
+    "eventName": "Piano Solo",
     "title": "Six Preludes Op. 6",
     "composer": "Muczynski",
     "arranger": "",
@@ -1630,11 +1739,12 @@
     "publisherText": "G. Schirmer, Inc.",
     "classLevel": 2,
     "specification": "(play two)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 101
   },
   {
-    "id": 252,
     "uilCode": "603-2-18136",
+    "eventName": "Piano Solo",
     "title": "Piano Sonatinas: Op. 38, 45, 47, 63, 64, 65",
     "composer": "Persichetti",
     "arranger": "",
@@ -1644,11 +1754,12 @@
     "publisherText": "Elkan-Vogel Company, Inc.",
     "classLevel": 2,
     "specification": "(play all of one sonatina)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 102
   },
   {
-    "id": 253,
     "uilCode": "603-2-18137",
+    "eventName": "Piano Solo",
     "title": "Villageoises",
     "composer": "Poulenc",
     "arranger": "",
@@ -1658,11 +1769,12 @@
     "publisherText": "Salabert, Inc.",
     "classLevel": 2,
     "specification": "(play two)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 103
   },
   {
-    "id": 285,
     "uilCode": "603-2-39962",
+    "eventName": "Piano Solo",
     "title": "Ten Negro Spirituals",
     "composer": "Price",
     "arranger": "",
@@ -1672,11 +1784,12 @@
     "publisherText": "G. Schirmer, Inc.",
     "classLevel": 2,
     "specification": "(play any two)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 324
   },
   {
-    "id": 287,
     "uilCode": "603-2-39964",
+    "eventName": "Piano Solo",
     "title": "Gnossiennes",
     "composer": "Satie",
     "arranger": "",
@@ -1686,11 +1799,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 2,
     "specification": "(play any two)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 326
   },
   {
-    "id": 254,
     "uilCode": "603-2-18138",
+    "eventName": "Piano Solo",
     "title": "Trois Gymnop\u00e9dies",
     "composer": "Satie",
     "arranger": "",
@@ -1702,11 +1816,12 @@
     "publisherText": "Multiple Publishers;Edwin F. Kalmus;Any unabridged edition",
     "classLevel": 2,
     "specification": "(play two)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 104
   },
   {
-    "id": 288,
     "uilCode": "603-2-39965",
+    "eventName": "Piano Solo",
     "title": "Two Scherzi, D. 593",
     "composer": "Schubert",
     "arranger": "",
@@ -1716,11 +1831,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 2,
     "specification": "(play one)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 327
   },
   {
-    "id": 255,
     "uilCode": "603-2-18140",
+    "eventName": "Piano Solo",
     "title": "Scenes of Childhood (Kinderszenen), Op. 15",
     "composer": "Schumann",
     "arranger": "",
@@ -1733,11 +1849,12 @@
     "publisherText": "Multiple Publishers;Carl Fischer, Inc.;Alfred Music Company, Inc.;Any unabridged edition",
     "classLevel": 2,
     "specification": "(play two)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 105
   },
   {
-    "id": 256,
     "uilCode": "603-2-18141",
+    "eventName": "Piano Solo",
     "title": "Lotus Land, Op. 47, no. 1",
     "composer": "Scott",
     "arranger": "",
@@ -1749,11 +1866,12 @@
     "publisherText": "Multiple Publishers;Carl Fischer, Inc.;Schott Company",
     "classLevel": 2,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 106
   },
   {
-    "id": 257,
     "uilCode": "603-2-18142",
+    "eventName": "Piano Solo",
     "title": "Three Fantastic Dances, Op. 5",
     "composer": "Shostakovich",
     "arranger": "",
@@ -1766,11 +1884,12 @@
     "publisherText": "Multiple Publishers;Music Corporation of America;Boosey & Hawkes, Inc.;G. Schirmer, Inc.",
     "classLevel": 2,
     "specification": "(play two dances)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 107
   },
   {
-    "id": 258,
     "uilCode": "603-2-18143",
+    "eventName": "Piano Solo",
     "title": "Sketches in Color",
     "composer": "Starer",
     "arranger": "",
@@ -1780,11 +1899,12 @@
     "publisherText": "Music Corporation of America",
     "classLevel": 2,
     "specification": "(play two sketches)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 108
   },
   {
-    "id": 259,
     "uilCode": "603-2-18144",
+    "eventName": "Piano Solo",
     "title": "Bagatelles, Op. 5",
     "composer": "Tcherepnin",
     "arranger": "",
@@ -1796,11 +1916,12 @@
     "publisherText": "Multiple Publishers;G. Schirmer, Inc.;Any unabridged edition",
     "classLevel": 2,
     "specification": "(play one)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 109
   },
   {
-    "id": 260,
     "uilCode": "603-2-18145",
+    "eventName": "Piano Solo",
     "title": "Sacro Monte (from Danses Gitanes Op. 55 No. 5)",
     "composer": "Turina",
     "arranger": "",
@@ -1810,11 +1931,12 @@
     "publisherText": "Salabert, Inc.",
     "classLevel": 2,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 110
   },
   {
-    "id": 261,
     "uilCode": "603-2-18146",
+    "eventName": "Piano Solo",
     "title": "The Clowns (The Circus, Op. 68, no. 5)",
     "composer": "Turina",
     "arranger": "",
@@ -1824,11 +1946,12 @@
     "publisherText": "Salabert, Inc.",
     "classLevel": 2,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 111
   },
   {
-    "id": 289,
     "uilCode": "603-2-39966",
+    "eventName": "Piano Solo",
     "title": "O Polichinello (A Pr\u00f3le do B\u00e9b\u00e9, no. 1:7)",
     "composer": "Villa-Lobos",
     "arranger": "",
@@ -1838,11 +1961,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 2,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 328
   },
   {
-    "id": 286,
     "uilCode": "603-2-39963",
+    "eventName": "Piano Solo",
     "title": "Piano Literature, Vol. 4",
     "composer": "various",
     "arranger": "Bastien",
@@ -1852,11 +1976,12 @@
     "publisherText": "Neil A. Kjos Music Company [Piano Literature, Vol. 4]",
     "classLevel": 2,
     "specification": "(play Valse m\u00e9lancolique, Op. 2, no. 3)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 325
   },
   {
-    "id": 94,
     "uilCode": "603-1-39823",
+    "eventName": "Piano Solo",
     "title": "Chants d\u2019Espagne, Op. 232",
     "composer": "Albeniz",
     "arranger": "",
@@ -1868,11 +1993,12 @@
     "publisherText": "Multiple Publishers;Henle Publishing;Union Musical Ediciones",
     "classLevel": 1,
     "specification": "(play one mvt)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 5
   },
   {
-    "id": 93,
     "uilCode": "603-1-39822",
+    "eventName": "Piano Solo",
     "title": "Suite Espa\u00f1ola, Op. 47",
     "composer": "Albeniz",
     "arranger": "",
@@ -1884,11 +2010,12 @@
     "publisherText": "Multiple Publishers;International Music Company;Union Musical Ediciones",
     "classLevel": 1,
     "specification": "(play one mvt)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 4
   },
   {
-    "id": 1,
     "uilCode": "603-1-18026",
+    "eventName": "Piano Solo",
     "title": "Capriccio in Bb Major",
     "composer": "Bach",
     "arranger": "",
@@ -1900,11 +2027,12 @@
     "publisherText": "Multiple Publishers;Edwin F. Kalmus;C.F. Peters Corporation",
     "classLevel": 1,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 6
   },
   {
-    "id": 95,
     "uilCode": "603-1-39824",
+    "eventName": "Piano Solo",
     "title": "Capriccio on the Departure of a Beloved Brother, BWV 992",
     "composer": "Bach",
     "arranger": "",
@@ -1914,11 +2042,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 1,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 1
   },
   {
-    "id": 2,
     "uilCode": "603-1-18027",
+    "eventName": "Piano Solo",
     "title": "Fantasy in c minor, BWV 906",
     "composer": "Bach",
     "arranger": "",
@@ -1932,11 +2061,12 @@
     "publisherText": "Multiple Publishers;C.F. Peters Corporation;G. Henle Verlag/USA, Inc.;Edwin F. Kalmus;Any unabridged edition",
     "classLevel": 1,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 7
   },
   {
-    "id": 4,
     "uilCode": "603-1-18029",
+    "eventName": "Piano Solo",
     "title": "Italian Concerto, BWV 971",
     "composer": "Bach",
     "arranger": "",
@@ -1950,11 +2080,12 @@
     "publisherText": "Multiple Publishers;Alfred Music Company, Inc.;Barenreiter/Verlag;Foreign Music Distributors;Any unabridged edition",
     "classLevel": 1,
     "specification": "(play first or last mvt) NMR:(play first and last mvts)",
-    "noMemoryRequired": true
+    "noMemoryRequired": true,
+    "id": 9
   },
   {
-    "id": 3,
     "uilCode": "603-1-18028",
+    "eventName": "Piano Solo",
     "title": "Sinfonias (Three-Part Inventions) BWV 787-801",
     "composer": "Bach",
     "arranger": "",
@@ -1968,11 +2099,12 @@
     "publisherText": "Multiple Publishers;Alfred Music Company, Inc.;Barenreiter/Verlag;Foreign Music Distributors;Any unabridged edition",
     "classLevel": 1,
     "specification": "(play two 3 part inventions)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 8
   },
   {
-    "id": 63,
     "uilCode": "603-1-36057",
+    "eventName": "Piano Solo",
     "title": "Six English Suites, BWV 806-811",
     "composer": "Bach",
     "arranger": "",
@@ -1982,11 +2114,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 1,
     "specification": "(play any Prelude OR two other contrasting mvts from the same suite)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 168
   },
   {
-    "id": 5,
     "uilCode": "603-1-18030",
+    "eventName": "Piano Solo",
     "title": "Six French Suites, BWV 812-817",
     "composer": "Bach",
     "arranger": "",
@@ -2001,11 +2134,12 @@
     "publisherText": "Multiple Publishers;C.F. Peters Corporation;Edwin F. Kalmus;Barenreiter/Verlag;Foreign Music Distributors;Any unabridged edition",
     "classLevel": 1,
     "specification": "(play two contrasting mvts from one suite)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 10
   },
   {
-    "id": 6,
     "uilCode": "603-1-18031",
+    "eventName": "Piano Solo",
     "title": "Six Partitas, BWV 825-830",
     "composer": "Bach",
     "arranger": "",
@@ -2020,11 +2154,12 @@
     "publisherText": "Multiple Publishers;C.F. Peters Corporation;Edwin F. Kalmus;Barenreiter/Verlag;Foreign Music Distributors;Any unabridged edition",
     "classLevel": 1,
     "specification": "(play two contrasting mvts from one partita)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 11
   },
   {
-    "id": 7,
     "uilCode": "603-1-18032",
+    "eventName": "Piano Solo",
     "title": "The Well-Tempered Clavier, Vol. I & II, BWV 846-869, 870-893",
     "composer": "Bach",
     "arranger": "",
@@ -2037,11 +2172,12 @@
     "publisherText": "Multiple Publishers;Belwin, Inc;Edwin F. Kalmus;Any unabridged edition",
     "classLevel": 1,
     "specification": "(play one Prelude & Fugue) (a cappella)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 12
   },
   {
-    "id": 8,
     "uilCode": "603-1-18033",
+    "eventName": "Piano Solo",
     "title": "Excursions",
     "composer": "Barber",
     "arranger": "",
@@ -2051,11 +2187,12 @@
     "publisherText": "G. Schirmer, Inc.",
     "classLevel": 1,
     "specification": "(play one)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 13
   },
   {
-    "id": 9,
     "uilCode": "603-1-18034",
+    "eventName": "Piano Solo",
     "title": "Nocturne",
     "composer": "Barber",
     "arranger": "",
@@ -2065,11 +2202,12 @@
     "publisherText": "G. Schirmer, Inc.",
     "classLevel": 1,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 14
   },
   {
-    "id": 10,
     "uilCode": "603-1-18035",
+    "eventName": "Piano Solo",
     "title": "Allegro Barbaro",
     "composer": "Bartok",
     "arranger": "",
@@ -2081,11 +2219,12 @@
     "publisherText": "Multiple Publishers;Boosey & Hawkes, Inc.;Any unabridged edition",
     "classLevel": 1,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 15
   },
   {
-    "id": 11,
     "uilCode": "603-1-18036",
+    "eventName": "Piano Solo",
     "title": "Mikrokosmos, Vols. V and VI",
     "composer": "Bartok",
     "arranger": "",
@@ -2097,11 +2236,12 @@
     "publisherText": "Multiple Publishers;Boosey & Hawkes, Inc.;Any unabridged edition",
     "classLevel": 1,
     "specification": "(play two from one vol.)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 16
   },
   {
-    "id": 96,
     "uilCode": "603-1-39825",
+    "eventName": "Piano Solo",
     "title": "Sonata (1926)",
     "composer": "Bartok",
     "arranger": "",
@@ -2113,11 +2253,12 @@
     "publisherText": "Multiple Publishers;Boosey & Hawkes, Inc.;Universal Music Company",
     "classLevel": 1,
     "specification": "(play 1st OR 3rd mvt)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 2
   },
   {
-    "id": 12,
     "uilCode": "603-1-18037",
+    "eventName": "Piano Solo",
     "title": "Suite Op. 14",
     "composer": "Bartok",
     "arranger": "",
@@ -2129,11 +2270,12 @@
     "publisherText": "Multiple Publishers;Boosey & Hawkes, Inc.;Any unabridged edition",
     "classLevel": 1,
     "specification": "(play two mvts)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 17
   },
   {
-    "id": 97,
     "uilCode": "603-1-39826",
+    "eventName": "Piano Solo",
     "title": "Four Sketches, Op. 15",
     "composer": "Beach",
     "arranger": "",
@@ -2143,11 +2285,12 @@
     "publisherText": "Dover [Amy Beach: Piano Music]",
     "classLevel": 1,
     "specification": "(play one)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 3
   },
   {
-    "id": 98,
     "uilCode": "603-1-39827",
+    "eventName": "Piano Solo",
     "title": "Hermit Thrush at Morn, Op. 92, No. 2",
     "composer": "Beach",
     "arranger": "",
@@ -2157,11 +2300,12 @@
     "publisherText": "Hal Leonard Music, Inc.",
     "classLevel": 1,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 152
   },
   {
-    "id": 99,
     "uilCode": "603-1-39828",
+    "eventName": "Piano Solo",
     "title": "Scottish Legend, Op. 54",
     "composer": "Beach",
     "arranger": "",
@@ -2171,11 +2315,12 @@
     "publisherText": "[Piano Music of Amy Beach]",
     "classLevel": 1,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 150
   },
   {
-    "id": 100,
     "uilCode": "603-1-39829",
+    "eventName": "Piano Solo",
     "title": "Alla ingharese, Op. 129 (Rage Over a Lost Penny)",
     "composer": "Beethoven",
     "arranger": "",
@@ -2185,11 +2330,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 1,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 154
   },
   {
-    "id": 102,
     "uilCode": "603-1-39831",
+    "eventName": "Piano Solo",
     "title": "Bagatelles, Op. 126",
     "composer": "Beethoven",
     "arranger": "",
@@ -2199,11 +2345,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 1,
     "specification": "(play any two)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 148
   },
   {
-    "id": 103,
     "uilCode": "603-1-39832",
+    "eventName": "Piano Solo",
     "title": "Rondos, Op. 51",
     "composer": "Beethoven",
     "arranger": "",
@@ -2213,11 +2360,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 1,
     "specification": "(play one rondo)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 151
   },
   {
-    "id": 64,
     "uilCode": "603-1-36058",
+    "eventName": "Piano Solo",
     "title": "Sonatas Op 2. No. 1 through Op. 90",
     "composer": "Beethoven",
     "arranger": "",
@@ -2227,11 +2375,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 1,
     "specification": "(Play any first OR last mvt; EXCEPTION Op. 27, No. 2 mvt 1; Op. 49; Op. 79)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 169
   },
   {
-    "id": 101,
     "uilCode": "603-1-39830",
+    "eventName": "Piano Solo",
     "title": "Three Sonatas, WoO 47",
     "composer": "Beethoven",
     "arranger": "",
@@ -2241,11 +2390,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 1,
     "specification": "(play two contrasting mvts from any sonata)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 153
   },
   {
-    "id": 66,
     "uilCode": "603-1-36060",
+    "eventName": "Piano Solo",
     "title": "Variations on God Save the King",
     "composer": "Beethoven",
     "arranger": "",
@@ -2255,11 +2405,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 1,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 170
   },
   {
-    "id": 65,
     "uilCode": "603-1-36059",
+    "eventName": "Piano Solo",
     "title": "Variations on Rule Britannia",
     "composer": "Beethoven",
     "arranger": "",
@@ -2269,11 +2420,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 1,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 18
   },
   {
-    "id": 105,
     "uilCode": "603-1-39834",
+    "eventName": "Piano Solo",
     "title": "Variations on an Original Theme, Op. 34",
     "composer": "Beethoven",
     "arranger": "",
@@ -2283,11 +2435,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 1,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 196
   },
   {
-    "id": 104,
     "uilCode": "603-1-39833",
+    "eventName": "Piano Solo",
     "title": "Variations on the March from The Ruins of Athens, Op. 76",
     "composer": "Beethoven",
     "arranger": "",
@@ -2297,11 +2450,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 1,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 149
   },
   {
-    "id": 106,
     "uilCode": "603-1-39835",
+    "eventName": "Piano Solo",
     "title": "Variations on the Russian Dance from Das Waldm\u00e4dchen, WoO 71",
     "composer": "Beethoven",
     "arranger": "",
@@ -2311,11 +2465,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 1,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 197
   },
   {
-    "id": 107,
     "uilCode": "603-1-39836",
+    "eventName": "Piano Solo",
     "title": "Three Ghost Rags",
     "composer": "Bolcom",
     "arranger": "",
@@ -2327,11 +2482,12 @@
     "publisherText": "Multiple Publishers;Hal Leonard Music, Inc.;Edward B. Marks Music",
     "classLevel": 1,
     "specification": "(play one)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 198
   },
   {
-    "id": 108,
     "uilCode": "603-1-39837",
+    "eventName": "Piano Solo",
     "title": "Troubled Water from Spiritual Suite",
     "composer": "Bonds",
     "arranger": "",
@@ -2341,11 +2497,12 @@
     "publisherText": "Oxford Press [Piano Music of Africa and the African Diaspora, Vol. 4]",
     "classLevel": 1,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 199
   },
   {
-    "id": 13,
     "uilCode": "603-1-18039",
+    "eventName": "Piano Solo",
     "title": "Ballades, Op. 10",
     "composer": "Brahms",
     "arranger": "",
@@ -2357,11 +2514,12 @@
     "publisherText": "Multiple Publishers;Edwin F. Kalmus [Piano Works in Two Volumes];Any unabridged edition",
     "classLevel": 1,
     "specification": "(play one)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 19
   },
   {
-    "id": 14,
     "uilCode": "603-1-18040",
+    "eventName": "Piano Solo",
     "title": "Fantasies, Op. 116",
     "composer": "Brahms",
     "arranger": "",
@@ -2373,11 +2531,12 @@
     "publisherText": "Multiple Publishers;Edwin F. Kalmus [Piano Works in Two Volumes];Any unabridged edition",
     "classLevel": 1,
     "specification": "(play one)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 20
   },
   {
-    "id": 15,
     "uilCode": "603-1-18041",
+    "eventName": "Piano Solo",
     "title": "Piano Pieces, Op. 117",
     "composer": "Brahms",
     "arranger": "",
@@ -2389,11 +2548,12 @@
     "publisherText": "Multiple Publishers;Edwin F. Kalmus [Piano Works in Two Volumes];Any unabridged edition",
     "classLevel": 1,
     "specification": "(play one)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 21
   },
   {
-    "id": 16,
     "uilCode": "603-1-18042",
+    "eventName": "Piano Solo",
     "title": "Piano Pieces, Op. 118",
     "composer": "Brahms",
     "arranger": "",
@@ -2405,11 +2565,12 @@
     "publisherText": "Multiple Publishers;Edwin F. Kalmus [Piano Works in Two Volumes];Any unabridged edition",
     "classLevel": 1,
     "specification": "(play one)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 22
   },
   {
-    "id": 17,
     "uilCode": "603-1-18043",
+    "eventName": "Piano Solo",
     "title": "Piano Pieces, Op. 119",
     "composer": "Brahms",
     "arranger": "",
@@ -2421,11 +2582,12 @@
     "publisherText": "Multiple Publishers;Edwin F. Kalmus [Piano Works in Two Volumes];Any unabridged edition",
     "classLevel": 1,
     "specification": "(play one)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 23
   },
   {
-    "id": 18,
     "uilCode": "603-1-18044",
+    "eventName": "Piano Solo",
     "title": "Piano Pieces, Op. 76",
     "composer": "Brahms",
     "arranger": "",
@@ -2437,11 +2599,12 @@
     "publisherText": "Multiple Publishers;Edwin F. Kalmus [Piano Works in Two Volumes];Any unabridged edition",
     "classLevel": 1,
     "specification": "(play one)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 24
   },
   {
-    "id": 19,
     "uilCode": "603-1-18045",
+    "eventName": "Piano Solo",
     "title": "Rhapsodies, Op. 79",
     "composer": "Brahms",
     "arranger": "",
@@ -2453,11 +2616,12 @@
     "publisherText": "Multiple Publishers;Edwin F. Kalmus [Piano Works in Two Volumes];Any unabridged edition",
     "classLevel": 1,
     "specification": "(play one)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 25
   },
   {
-    "id": 109,
     "uilCode": "603-1-39838",
+    "eventName": "Piano Solo",
     "title": "Scherzo in E-flat minor, Op. 4",
     "composer": "Brahms",
     "arranger": "",
@@ -2467,11 +2631,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 1,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 200
   },
   {
-    "id": 110,
     "uilCode": "603-1-39839",
+    "eventName": "Piano Solo",
     "title": "Automne, Op. 35, no. 2 (\u00c9tude de concert)",
     "composer": "Chaminade",
     "arranger": "",
@@ -2481,11 +2646,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 1,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 201
   },
   {
-    "id": 111,
     "uilCode": "603-1-39840",
+    "eventName": "Piano Solo",
     "title": "La lisonjera (The Flatterer), Op. 50",
     "composer": "Chaminade",
     "arranger": "",
@@ -2495,11 +2661,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 1,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 202
   },
   {
-    "id": 112,
     "uilCode": "603-1-39841",
+    "eventName": "Piano Solo",
     "title": "Tarantelle, Op. 35, no. 6 (\u00c9tude de concert)",
     "composer": "Chaminade",
     "arranger": "",
@@ -2509,11 +2676,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 1,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 203
   },
   {
-    "id": 68,
     "uilCode": "603-1-36062",
+    "eventName": "Piano Solo",
     "title": "24 Preludes, Op. 28",
     "composer": "Chopin",
     "arranger": "",
@@ -2527,11 +2695,12 @@
     "publisherText": "Multiple Publishers;Henle Publishing;Alfred Music Company, Inc.;Vienna Urtext Edition;Any unabridged edition",
     "classLevel": 1,
     "specification": "(play any two) EXCEPTION: 4, 6, 7, 15, 20, 22",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 172
   },
   {
-    "id": 67,
     "uilCode": "603-1-36061",
+    "eventName": "Piano Solo",
     "title": "Ballades, Op. 23, 38, 47, 52",
     "composer": "Chopin",
     "arranger": "",
@@ -2545,11 +2714,12 @@
     "publisherText": "Multiple Publishers;Henle Publishing;Alfred Music Company, Inc.;Vienna Urtext Edition;Any unabridged edition",
     "classLevel": 1,
     "specification": "(play one)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 171
   },
   {
-    "id": 113,
     "uilCode": "603-1-39842",
+    "eventName": "Piano Solo",
     "title": "Barcarolle, Op. 60",
     "composer": "Chopin",
     "arranger": "",
@@ -2559,11 +2729,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 1,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 204
   },
   {
-    "id": 114,
     "uilCode": "603-1-39843",
+    "eventName": "Piano Solo",
     "title": "Berceuse, Op. 57",
     "composer": "Chopin",
     "arranger": "",
@@ -2573,11 +2744,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 1,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 205
   },
   {
-    "id": 115,
     "uilCode": "603-1-39844",
+    "eventName": "Piano Solo",
     "title": "Bol\u00e9ro, Op. 19",
     "composer": "Chopin",
     "arranger": "",
@@ -2587,11 +2759,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 1,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 206
   },
   {
-    "id": 56,
     "uilCode": "603-1-30637",
+    "eventName": "Piano Solo",
     "title": "Four Ballades",
     "composer": "Chopin",
     "arranger": "",
@@ -2601,11 +2774,12 @@
     "publisherText": "C.F. Peters Corporation",
     "classLevel": 1,
     "specification": "(play one)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 161
   },
   {
-    "id": 59,
     "uilCode": "603-1-33071",
+    "eventName": "Piano Solo",
     "title": "Four Scherzo",
     "composer": "Chopin",
     "arranger": "",
@@ -2615,11 +2789,12 @@
     "publisherText": "Dover",
     "classLevel": 1,
     "specification": "(play one)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 165
   },
   {
-    "id": 117,
     "uilCode": "603-1-39846",
+    "eventName": "Piano Solo",
     "title": "Impromptus, Op. 29, 36, 51, 66",
     "composer": "Chopin",
     "arranger": "",
@@ -2629,11 +2804,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 1,
     "specification": "(play one)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 208
   },
   {
-    "id": 20,
     "uilCode": "603-1-18046",
+    "eventName": "Piano Solo",
     "title": "Mazurkas, Op. 6, 7, 17, 24, 33, 50, 59, 63",
     "composer": "Chopin",
     "arranger": "",
@@ -2647,11 +2823,12 @@
     "publisherText": "Multiple Publishers;C.F. Peters Corporation;Chopin Institute Edition;Salabert, Inc.;Any unabridged edition",
     "classLevel": 1,
     "specification": "(Play one EXCEPT Op. 7, No. 1 & 5)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 26
   },
   {
-    "id": 21,
     "uilCode": "603-1-18051",
+    "eventName": "Piano Solo",
     "title": "Nocturnes",
     "composer": "Chopin",
     "arranger": "",
@@ -2664,11 +2841,12 @@
     "publisherText": "Multiple Publishers;C.F. Peters Corporation;Chopin Institute Edition;Salabert, Inc.",
     "classLevel": 1,
     "specification": "(play one)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 27
   },
   {
-    "id": 118,
     "uilCode": "603-1-39847",
+    "eventName": "Piano Solo",
     "title": "Nocturnes",
     "composer": "Chopin",
     "arranger": "",
@@ -2678,11 +2856,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 1,
     "specification": "(play one)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 209
   },
   {
-    "id": 22,
     "uilCode": "603-1-18052",
+    "eventName": "Piano Solo",
     "title": "Polonaises, Op. 26, 40, 44, 61",
     "composer": "Chopin",
     "arranger": "",
@@ -2696,11 +2875,12 @@
     "publisherText": "Multiple Publishers;C.F. Peters Corporation;Chopin Institute Edition;Salabert, Inc.;Any Publisher",
     "classLevel": 1,
     "specification": "(play one)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 28
   },
   {
-    "id": 119,
     "uilCode": "603-1-39848",
+    "eventName": "Piano Solo",
     "title": "Prelude in C-sharp minor, Op. 45",
     "composer": "Chopin",
     "arranger": "",
@@ -2710,11 +2890,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 1,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 210
   },
   {
-    "id": 120,
     "uilCode": "603-1-39849",
+    "eventName": "Piano Solo",
     "title": "Rondo in C minor, Op. 1",
     "composer": "Chopin",
     "arranger": "",
@@ -2724,11 +2905,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 1,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 211
   },
   {
-    "id": 122,
     "uilCode": "603-1-39851",
+    "eventName": "Piano Solo",
     "title": "Rondo in E-flat major, Op. 16",
     "composer": "Chopin",
     "arranger": "",
@@ -2738,11 +2920,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 1,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 213
   },
   {
-    "id": 121,
     "uilCode": "603-1-39850",
+    "eventName": "Piano Solo",
     "title": "Rondo \u00e0 la Mazur, Op. 5",
     "composer": "Chopin",
     "arranger": "",
@@ -2752,11 +2935,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 1,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 212
   },
   {
-    "id": 123,
     "uilCode": "603-1-39852",
+    "eventName": "Piano Solo",
     "title": "Scherzos, Op. 20, 31, 39, 54",
     "composer": "Chopin",
     "arranger": "",
@@ -2766,11 +2950,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 1,
     "specification": "(play one)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 214
   },
   {
-    "id": 23,
     "uilCode": "603-1-18054",
+    "eventName": "Piano Solo",
     "title": "Waltz",
     "composer": "Chopin",
     "arranger": "",
@@ -2780,11 +2965,12 @@
     "publisherText": "Public Domain",
     "classLevel": 1,
     "specification": "(Play one EXCEPT Waltz in A minor, Op. post. BI 150)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 29
   },
   {
-    "id": 116,
     "uilCode": "603-1-39845",
+    "eventName": "Piano Solo",
     "title": "\u00c9tudes, Op. 10, Op. 25",
     "composer": "Chopin",
     "arranger": "",
@@ -2794,11 +2980,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 1,
     "specification": "(play one)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 207
   },
   {
-    "id": 125,
     "uilCode": "603-1-39854",
+    "eventName": "Piano Solo",
     "title": "24 Negro Melodies, Op. 59",
     "composer": "Coleridge-Taylor",
     "arranger": "",
@@ -2808,11 +2995,12 @@
     "publisherText": "Theodore Presser Company",
     "classLevel": 1,
     "specification": "(play one)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 216
   },
   {
-    "id": 124,
     "uilCode": "603-1-39853",
+    "eventName": "Piano Solo",
     "title": "Humoresques, Op. 31",
     "composer": "Coleridge-Taylor",
     "arranger": "",
@@ -2822,11 +3010,12 @@
     "publisherText": "Schott Company",
     "classLevel": 1,
     "specification": "(play one)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 215
   },
   {
-    "id": 126,
     "uilCode": "603-1-39855",
+    "eventName": "Piano Solo",
     "title": "Three-Fours, Op. 71",
     "composer": "Coleridge-Taylor",
     "arranger": "",
@@ -2836,11 +3025,12 @@
     "publisherText": "Schott Company",
     "classLevel": 1,
     "specification": "(play one)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 217
   },
   {
-    "id": 24,
     "uilCode": "603-1-18056",
+    "eventName": "Piano Solo",
     "title": "Four Piano Blues",
     "composer": "Copland",
     "arranger": "",
@@ -2850,11 +3040,12 @@
     "publisherText": "Boosey & Hawkes, Inc.",
     "classLevel": 1,
     "specification": "(play one)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 30
   },
   {
-    "id": 25,
     "uilCode": "603-1-18057",
+    "eventName": "Piano Solo",
     "title": "Scherzo Humoristique, The Cat and the Mouse",
     "composer": "Copland",
     "arranger": "",
@@ -2866,11 +3057,12 @@
     "publisherText": "Multiple Publishers;Boosey & Hawkes, Inc.;Alfred Music Company, Inc.",
     "classLevel": 1,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 31
   },
   {
-    "id": 127,
     "uilCode": "603-1-39856",
+    "eventName": "Piano Solo",
     "title": "Arabesques",
     "composer": "Debussy",
     "arranger": "",
@@ -2880,11 +3072,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 1,
     "specification": "(play one)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 218
   },
   {
-    "id": 26,
     "uilCode": "603-1-18058",
+    "eventName": "Piano Solo",
     "title": "Children\u2019s Corner Suite",
     "composer": "Debussy",
     "arranger": "",
@@ -2897,11 +3090,12 @@
     "publisherText": "Multiple Publishers;C.F. Peters Corporation;Durand;Any unabridged edition",
     "classLevel": 1,
     "specification": "(Play first, third, fourth or last movement\u2014NOT Jimbo\u2019s Lullaby OR The Little Shepherd)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 32
   },
   {
-    "id": 128,
     "uilCode": "603-1-39857",
+    "eventName": "Piano Solo",
     "title": "Danse (Tarentelle styrienne)",
     "composer": "Debussy",
     "arranger": "",
@@ -2911,11 +3105,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 1,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 219
   },
   {
-    "id": 50,
     "uilCode": "603-1-18113",
+    "eventName": "Piano Solo",
     "title": "Deux Arabesques",
     "composer": "Debussy",
     "arranger": "",
@@ -2925,11 +3120,12 @@
     "publisherText": "Durand",
     "classLevel": 1,
     "specification": "(play one)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 80
   },
   {
-    "id": 70,
     "uilCode": "603-1-36064",
+    "eventName": "Piano Solo",
     "title": "Estampes",
     "composer": "Debussy",
     "arranger": "",
@@ -2941,11 +3137,12 @@
     "publisherText": "Multiple Publishers;Dover;Any unabridged edition",
     "classLevel": 1,
     "specification": "(play one mvt)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 174
   },
   {
-    "id": 71,
     "uilCode": "603-1-36065",
+    "eventName": "Piano Solo",
     "title": "Images, Books I and II",
     "composer": "Debussy",
     "arranger": "",
@@ -2957,11 +3154,12 @@
     "publisherText": "Multiple Publishers;Dover;Any unabridged edition",
     "classLevel": 1,
     "specification": "(play one mvt)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 175
   },
   {
-    "id": 130,
     "uilCode": "603-1-39859",
+    "eventName": "Piano Solo",
     "title": "L\u2019isle joyeuse",
     "composer": "Debussy",
     "arranger": "",
@@ -2971,11 +3169,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 1,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 221
   },
   {
-    "id": 69,
     "uilCode": "603-1-36063",
+    "eventName": "Piano Solo",
     "title": "Pour le Piano",
     "composer": "Debussy",
     "arranger": "",
@@ -2987,11 +3186,12 @@
     "publisherText": "Multiple Publishers;Dover;Any unabridged edition",
     "classLevel": 1,
     "specification": "(play one mvt)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 173
   },
   {
-    "id": 27,
     "uilCode": "603-1-18061",
+    "eventName": "Piano Solo",
     "title": "Preludes, Book I and Book II",
     "composer": "Debussy",
     "arranger": "",
@@ -3003,11 +3203,12 @@
     "publisherText": "Multiple Publishers;Durand;Any unabridged edition",
     "classLevel": 1,
     "specification": "(play one Prelude EXCEPT \"Bruyeres\")",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 34
   },
   {
-    "id": 62,
     "uilCode": "603-1-36056",
+    "eventName": "Piano Solo",
     "title": "Suite Bergamasque",
     "composer": "Debussy",
     "arranger": "",
@@ -3019,11 +3220,12 @@
     "publisherText": "Multiple Publishers;Dover;Any unabridged edition",
     "classLevel": 1,
     "specification": "(play one mvt)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 33
   },
   {
-    "id": 129,
     "uilCode": "603-1-39858",
+    "eventName": "Piano Solo",
     "title": "\u00c9tudes",
     "composer": "Debussy",
     "arranger": "",
@@ -3033,11 +3235,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 1,
     "specification": "(play one)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 220
   },
   {
-    "id": 28,
     "uilCode": "603-1-18062",
+    "eventName": "Piano Solo",
     "title": "Four Rhapsodies Op. 11",
     "composer": "Dohnanyi",
     "arranger": "",
@@ -3049,11 +3252,12 @@
     "publisherText": "Multiple Publishers;Edwin F. Kalmus;Alfred Music Company, Inc.",
     "classLevel": 1,
     "specification": "(play one) NMR:(play two)",
-    "noMemoryRequired": true
+    "noMemoryRequired": true,
+    "id": 35
   },
   {
-    "id": 131,
     "uilCode": "603-1-39860",
+    "eventName": "Piano Solo",
     "title": "Three Inventions",
     "composer": "Ewazen",
     "arranger": "",
@@ -3063,11 +3267,12 @@
     "publisherText": "Presser",
     "classLevel": 1,
     "specification": "(play one)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 222
   },
   {
-    "id": 29,
     "uilCode": "603-1-18063",
+    "eventName": "Piano Solo",
     "title": "Three Preludes",
     "composer": "Gershwin",
     "arranger": "",
@@ -3080,11 +3285,12 @@
     "publisherText": "Multiple Publishers;Harms, Inc.;New World Music Corporation;Any unabridged edition",
     "classLevel": 1,
     "specification": "(play two)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 36
   },
   {
-    "id": 132,
     "uilCode": "603-1-39861",
+    "eventName": "Piano Solo",
     "title": "Danzas argentinas, Op. 2",
     "composer": "Ginastera",
     "arranger": "",
@@ -3096,11 +3302,12 @@
     "publisherText": "Multiple Publishers;Boosey & Hawkes, Inc.;Ricordi & Company, Inc.",
     "classLevel": 1,
     "specification": "(play one)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 223
   },
   {
-    "id": 30,
     "uilCode": "603-1-18064",
+    "eventName": "Piano Solo",
     "title": "Rondo on Argentine Children's Folk Tunes",
     "composer": "Ginastera",
     "arranger": "",
@@ -3110,11 +3317,12 @@
     "publisherText": "Boosey & Hawkes, Inc.",
     "classLevel": 1,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 37
   },
   {
-    "id": 133,
     "uilCode": "603-1-39862",
+    "eventName": "Piano Solo",
     "title": "Sonata no. 1, Op 22",
     "composer": "Ginastera",
     "arranger": "",
@@ -3126,11 +3334,12 @@
     "publisherText": "Multiple Publishers;Boosey & Hawkes, Inc.;Hal Leonard Music, Inc.",
     "classLevel": 1,
     "specification": "(play any mvt EXCEPT 3rd)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 224
   },
   {
-    "id": 134,
     "uilCode": "603-1-39863",
+    "eventName": "Piano Solo",
     "title": "L\u2019Alouette (The Lark)",
     "composer": "Glinka",
     "arranger": "Balakirev",
@@ -3143,11 +3352,12 @@
     "publisherText": "Multiple Publishers;Chester Music Ltd.;Henle Publishing;G. Schirmer, Inc.",
     "classLevel": 1,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 225
   },
   {
-    "id": 135,
     "uilCode": "603-1-39864",
+    "eventName": "Piano Solo",
     "title": "Le bananier, Op. 5",
     "composer": "Gottschalk",
     "arranger": "",
@@ -3157,11 +3367,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 1,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 226
   },
   {
-    "id": 137,
     "uilCode": "603-1-39866",
+    "eventName": "Piano Solo",
     "title": "Pasquinade, Op. 59",
     "composer": "Gottschalk",
     "arranger": "",
@@ -3171,11 +3382,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 1,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 228
   },
   {
-    "id": 138,
     "uilCode": "603-1-39867",
+    "eventName": "Piano Solo",
     "title": "Souvenir de Porto Rico, Op. 31",
     "composer": "Gottschalk",
     "arranger": "",
@@ -3185,11 +3397,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 1,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 229
   },
   {
-    "id": 136,
     "uilCode": "603-1-39865",
+    "eventName": "Piano Solo",
     "title": "The Banjo, Op. 15",
     "composer": "Gottschalk",
     "arranger": "",
@@ -3199,11 +3412,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 1,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 227
   },
   {
-    "id": 31,
     "uilCode": "603-1-18065",
+    "eventName": "Piano Solo",
     "title": "Twelve Spanish Dances, Volume 2",
     "composer": "Granados",
     "arranger": "",
@@ -3216,11 +3430,12 @@
     "publisherText": "Multiple Publishers;Edwin F. Kalmus;G. Schirmer, Inc.;Any unabridged edition",
     "classLevel": 1,
     "specification": "(play one)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 38
   },
   {
-    "id": 139,
     "uilCode": "603-1-39868",
+    "eventName": "Piano Solo",
     "title": "Holberg Suite, Op. 40",
     "composer": "Grieg",
     "arranger": "",
@@ -3230,11 +3445,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 1,
     "specification": "(play one mvt)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 230
   },
   {
-    "id": 140,
     "uilCode": "603-1-39869",
+    "eventName": "Piano Solo",
     "title": "March of the Dwarfs, Op. 54, no. 3",
     "composer": "Grieg",
     "arranger": "",
@@ -3244,11 +3460,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 1,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 231
   },
   {
-    "id": 141,
     "uilCode": "603-1-39870",
+    "eventName": "Piano Solo",
     "title": "Sonata in E minor, Op. 7",
     "composer": "Grieg",
     "arranger": "",
@@ -3258,11 +3475,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 1,
     "specification": "(play any mvt EXCEPT 3rd)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 232
   },
   {
-    "id": 142,
     "uilCode": "603-1-39871",
+    "eventName": "Piano Solo",
     "title": "Wedding Day at Troldhaugen, Op. 65, no. 6",
     "composer": "Grieg",
     "arranger": "",
@@ -3272,11 +3490,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 1,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 233
   },
   {
-    "id": 143,
     "uilCode": "603-1-39872",
+    "eventName": "Piano Solo",
     "title": "Fantasy Pieces, Op. 6",
     "composer": "Griffes",
     "arranger": "",
@@ -3286,11 +3505,12 @@
     "publisherText": "G. Schirmer, Inc.",
     "classLevel": 1,
     "specification": "(play one)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 234
   },
   {
-    "id": 144,
     "uilCode": "603-1-39873",
+    "eventName": "Piano Solo",
     "title": "Roman Sketches, Op. 7",
     "composer": "Griffes",
     "arranger": "",
@@ -3302,11 +3522,12 @@
     "publisherText": "Multiple Publishers;Alfred Music Company, Inc.;G. Schirmer, Inc.",
     "classLevel": 1,
     "specification": "(play one)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 235
   },
   {
-    "id": 145,
     "uilCode": "603-1-39874",
+    "eventName": "Piano Solo",
     "title": "American Ballads",
     "composer": "Harris",
     "arranger": "",
@@ -3316,11 +3537,12 @@
     "publisherText": "Carl Fischer, Inc.",
     "classLevel": 1,
     "specification": "(play one)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 236
   },
   {
-    "id": 146,
     "uilCode": "603-1-39875",
+    "eventName": "Piano Solo",
     "title": "Fantasy (Capriccio) in C major, Hob. XVII:4",
     "composer": "Haydn",
     "arranger": "",
@@ -3332,11 +3554,12 @@
     "publisherText": "Multiple Publishers;Henle Publishing;Schott Company",
     "classLevel": 1,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 237
   },
   {
-    "id": 32,
     "uilCode": "603-1-18066",
+    "eventName": "Piano Solo",
     "title": "Piano Sonatas, Hob. 20-52",
     "composer": "Haydn",
     "arranger": "",
@@ -3351,11 +3574,12 @@
     "publisherText": "Multiple Publishers;Carl Fischer, Inc.;C.F. Peters Corporation;G. Henle Verlag/USA, Inc.;Vienna Urtext Edition;Any unabridged edition",
     "classLevel": 1,
     "specification": "(play first or last mvt only from one sonata)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 39
   },
   {
-    "id": 33,
     "uilCode": "603-1-18067",
+    "eventName": "Piano Solo",
     "title": "Sonata II",
     "composer": "Hindemith",
     "arranger": "",
@@ -3365,11 +3589,12 @@
     "publisherText": "Schott Company",
     "classLevel": 1,
     "specification": "(play two mvts) NMR:(play all)",
-    "noMemoryRequired": true
+    "noMemoryRequired": true,
+    "id": 40
   },
   {
-    "id": 147,
     "uilCode": "603-1-39876",
+    "eventName": "Piano Solo",
     "title": "Nora\u2019s Dance",
     "composer": "Holt",
     "arranger": "Downes",
@@ -3379,11 +3604,12 @@
     "publisherText": "Presser",
     "classLevel": 1,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 238
   },
   {
-    "id": 148,
     "uilCode": "603-1-39877",
+    "eventName": "Piano Solo",
     "title": "The Island Spell (from Decorations)",
     "composer": "Ireland",
     "arranger": "",
@@ -3393,11 +3619,12 @@
     "publisherText": "Stainer & Bell",
     "classLevel": 1,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 239
   },
   {
-    "id": 149,
     "uilCode": "603-1-39878",
+    "eventName": "Piano Solo",
     "title": "Complete Rags for Piano",
     "composer": "Joplin",
     "arranger": "",
@@ -3407,11 +3634,12 @@
     "publisherText": "G. Schirmer, Inc. [Complete Rags for Piano]",
     "classLevel": 1,
     "specification": "(play one)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 240
   },
   {
-    "id": 72,
     "uilCode": "603-1-36066",
+    "eventName": "Piano Solo",
     "title": "Sonata No. 3 in F major",
     "composer": "Kabalevsky",
     "arranger": "",
@@ -3421,11 +3649,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 1,
     "specification": "(play first or last mvt)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 176
   },
   {
-    "id": 34,
     "uilCode": "603-1-18068",
+    "eventName": "Piano Solo",
     "title": "Twenty-four Preludes Op. 38",
     "composer": "Kabalevsky",
     "arranger": "",
@@ -3437,11 +3666,12 @@
     "publisherText": "Multiple Publishers;Music Corporation of America;Any unabridged edition",
     "classLevel": 1,
     "specification": "(play two)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 41
   },
   {
-    "id": 150,
     "uilCode": "603-1-39879",
+    "eventName": "Piano Solo",
     "title": "Toccata",
     "composer": "Khachaturian",
     "arranger": "",
@@ -3451,11 +3681,12 @@
     "publisherText": "G. Schirmer, Inc.",
     "classLevel": 1,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 241
   },
   {
-    "id": 151,
     "uilCode": "603-1-39880",
+    "eventName": "Piano Solo",
     "title": "Andalucia Suite (original version)",
     "composer": "Lecuona",
     "arranger": "",
@@ -3465,11 +3696,12 @@
     "publisherText": "Edward B. Marks Music",
     "classLevel": 1,
     "specification": "(play one)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 242
   },
   {
-    "id": 74,
     "uilCode": "603-1-36070",
+    "eventName": "Piano Solo",
     "title": "Complete Nocturnes",
     "composer": "Liebermann",
     "arranger": "",
@@ -3479,11 +3711,12 @@
     "publisherText": "Presser",
     "classLevel": 1,
     "specification": "(play one)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 164
   },
   {
-    "id": 73,
     "uilCode": "603-1-36067",
+    "eventName": "Piano Solo",
     "title": "Gargoyles, Op. 29",
     "composer": "Liebermann",
     "arranger": "",
@@ -3493,11 +3726,12 @@
     "publisherText": "Presser",
     "classLevel": 1,
     "specification": "(play one)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 177
   },
   {
-    "id": 55,
     "uilCode": "603-1-30635",
+    "eventName": "Piano Solo",
     "title": "Annees De Pelerinage",
     "composer": "Liszt",
     "arranger": "",
@@ -3507,11 +3741,12 @@
     "publisherText": "C.F. Peters Corporation",
     "classLevel": 1,
     "specification": "(play one)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 160
   },
   {
-    "id": 152,
     "uilCode": "603-1-39881",
+    "eventName": "Piano Solo",
     "title": "Ann\u00e9es de p\u00e9l\u00e9rinage, all volumes",
     "composer": "Liszt",
     "arranger": "",
@@ -3521,11 +3756,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 1,
     "specification": "(play one)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 243
   },
   {
-    "id": 153,
     "uilCode": "603-1-39882",
+    "eventName": "Piano Solo",
     "title": "Ballade no. 1 in D-flat major",
     "composer": "Liszt",
     "arranger": "",
@@ -3535,11 +3771,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 1,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 244
   },
   {
-    "id": 154,
     "uilCode": "603-1-39883",
+    "eventName": "Piano Solo",
     "title": "Ballade no. 2 in B minor",
     "composer": "Liszt",
     "arranger": "",
@@ -3549,11 +3786,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 1,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 245
   },
   {
-    "id": 76,
     "uilCode": "603-1-36072",
+    "eventName": "Piano Solo",
     "title": "Concert \u00c9tudes: Il Lamento, La Leggierezza and Un Sospiro",
     "composer": "Liszt",
     "arranger": "",
@@ -3563,11 +3801,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 1,
     "specification": "(play one)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 178
   },
   {
-    "id": 75,
     "uilCode": "603-1-36071",
+    "eventName": "Piano Solo",
     "title": "Concert \u00c9tudes: Waldesrauschen and Gnomenreigen",
     "composer": "Liszt",
     "arranger": "",
@@ -3577,11 +3816,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 1,
     "specification": "(play one)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 156
   },
   {
-    "id": 77,
     "uilCode": "603-1-36073",
+    "eventName": "Piano Solo",
     "title": "Grand \u00c9tudes after Paganini",
     "composer": "Liszt",
     "arranger": "",
@@ -3591,11 +3831,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 1,
     "specification": "(play one)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 179
   },
   {
-    "id": 155,
     "uilCode": "603-1-39884",
+    "eventName": "Piano Solo",
     "title": "Harmonies po\u00e9tiques et r\u00e9ligeuses",
     "composer": "Liszt",
     "arranger": "",
@@ -3605,11 +3846,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 1,
     "specification": "(play one)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 246
   },
   {
-    "id": 54,
     "uilCode": "603-1-30634",
+    "eventName": "Piano Solo",
     "title": "Hungarian Rhapsodies",
     "composer": "Liszt",
     "arranger": "",
@@ -3621,11 +3863,12 @@
     "publisherText": "Multiple Publishers;Alfred Music Company, Inc.;Any unabridged edition",
     "classLevel": 1,
     "specification": "(play one Rhapsody)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 159
   },
   {
-    "id": 156,
     "uilCode": "603-1-39885",
+    "eventName": "Piano Solo",
     "title": "Legends",
     "composer": "Liszt",
     "arranger": "",
@@ -3635,11 +3878,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 1,
     "specification": "(play one)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 247
   },
   {
-    "id": 61,
     "uilCode": "603-1-33782",
+    "eventName": "Piano Solo",
     "title": "Liebestr\u00e4ume",
     "composer": "Liszt",
     "arranger": "",
@@ -3649,11 +3893,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 1,
     "specification": "(play one)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 167
   },
   {
-    "id": 78,
     "uilCode": "603-1-36074",
+    "eventName": "Piano Solo",
     "title": "Mephisto Waltz No. 1",
     "composer": "Liszt",
     "arranger": "",
@@ -3663,11 +3908,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 1,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 180
   },
   {
-    "id": 157,
     "uilCode": "603-1-39886",
+    "eventName": "Piano Solo",
     "title": "Polonaise No. 2 in E major",
     "composer": "Liszt",
     "arranger": "",
@@ -3677,11 +3923,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 1,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 248
   },
   {
-    "id": 158,
     "uilCode": "603-1-39887",
+    "eventName": "Piano Solo",
     "title": "Rigoletto Paraphrase",
     "composer": "Liszt",
     "arranger": "",
@@ -3691,11 +3938,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 1,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 249
   },
   {
-    "id": 159,
     "uilCode": "603-1-39888",
+    "eventName": "Piano Solo",
     "title": "Soir\u00e9es de Vienne",
     "composer": "Liszt",
     "arranger": "",
@@ -3705,11 +3953,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 1,
     "specification": "(play one)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 250
   },
   {
-    "id": 160,
     "uilCode": "603-1-39889",
+    "eventName": "Piano Solo",
     "title": "Spanish Rhapsody",
     "composer": "Liszt",
     "arranger": "",
@@ -3719,11 +3968,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 1,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 251
   },
   {
-    "id": 161,
     "uilCode": "603-1-39890",
+    "eventName": "Piano Solo",
     "title": "Transcendental \u00c9tudes (final version)",
     "composer": "Liszt",
     "arranger": "",
@@ -3733,11 +3983,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 1,
     "specification": "(play one)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 252
   },
   {
-    "id": 162,
     "uilCode": "603-1-39891",
+    "eventName": "Piano Solo",
     "title": "Valse oubli\u00e9e No. 1",
     "composer": "Liszt",
     "arranger": "",
@@ -3747,11 +3998,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 1,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 253
   },
   {
-    "id": 35,
     "uilCode": "603-1-18069",
+    "eventName": "Piano Solo",
     "title": "12 Etudes Op. 39",
     "composer": "MacDowell",
     "arranger": "",
@@ -3763,11 +4015,12 @@
     "publisherText": "Multiple Publishers;Boston Music Company;Edwin F. Kalmus",
     "classLevel": 1,
     "specification": "(play two)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 42
   },
   {
-    "id": 163,
     "uilCode": "603-1-39892",
+    "eventName": "Piano Solo",
     "title": "Fireside Tales, Op. 61",
     "composer": "MacDowell",
     "arranger": "",
@@ -3779,11 +4032,12 @@
     "publisherText": "Multiple Publishers;Alfred Music Company, Inc.;Dover",
     "classLevel": 1,
     "specification": "(play one)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 254
   },
   {
-    "id": 79,
     "uilCode": "603-1-36075",
+    "eventName": "Piano Solo",
     "title": "Virtuoso \u00c9tudes, Op. 46",
     "composer": "MacDowell",
     "arranger": "",
@@ -3793,11 +4047,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 1,
     "specification": "(play one)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 181
   },
   {
-    "id": 164,
     "uilCode": "603-1-39893",
+    "eventName": "Piano Solo",
     "title": "Fantasy in F-sharp minor, Op. 28",
     "composer": "Mendelssohn",
     "arranger": "",
@@ -3807,11 +4062,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 1,
     "specification": "(play first OR last mvt)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 255
   },
   {
-    "id": 165,
     "uilCode": "603-1-39894",
+    "eventName": "Piano Solo",
     "title": "Preludes and Fugues, Op. 35",
     "composer": "Mendelssohn",
     "arranger": "",
@@ -3821,11 +4077,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 1,
     "specification": "(play one Prelude AND Fugue pair)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 256
   },
   {
-    "id": 166,
     "uilCode": "603-1-39895",
+    "eventName": "Piano Solo",
     "title": "Rondo capriccioso, Op. 14",
     "composer": "Mendelssohn",
     "arranger": "",
@@ -3835,11 +4092,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 1,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 257
   },
   {
-    "id": 57,
     "uilCode": "603-1-30639",
+    "eventName": "Piano Solo",
     "title": "Scherzo in e minor, Op. 16 #2",
     "composer": "Mendelssohn",
     "arranger": "",
@@ -3851,11 +4109,12 @@
     "publisherText": "Multiple Publishers;Carl Fischer, Inc.;Any unabridged edition",
     "classLevel": 1,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 162
   },
   {
-    "id": 169,
     "uilCode": "603-1-39898",
+    "eventName": "Piano Solo",
     "title": "Song Without Words in A-flat major, Op. 38, no. 6 (Duetto)",
     "composer": "Mendelssohn",
     "arranger": "",
@@ -3865,11 +4124,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 1,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 260
   },
   {
-    "id": 168,
     "uilCode": "603-1-39897",
+    "eventName": "Piano Solo",
     "title": "Song Without Words in B minor, Op. 30, no. 4",
     "composer": "Mendelssohn",
     "arranger": "",
@@ -3879,11 +4139,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 1,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 259
   },
   {
-    "id": 170,
     "uilCode": "603-1-39899",
+    "eventName": "Piano Solo",
     "title": "Song Without Words in C major, Op. 67, no. 4 (Spinning Song)",
     "composer": "Mendelssohn",
     "arranger": "",
@@ -3893,11 +4154,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 1,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 261
   },
   {
-    "id": 167,
     "uilCode": "603-1-39896",
+    "eventName": "Piano Solo",
     "title": "Song Without Words in F-sharp minor, Op. 19, no. 5",
     "composer": "Mendelssohn",
     "arranger": "",
@@ -3907,11 +4169,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 1,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 258
   },
   {
-    "id": 171,
     "uilCode": "603-1-39900",
+    "eventName": "Piano Solo",
     "title": "\u00c9tincelles, Op. 36, no. 6",
     "composer": "Moszkowski",
     "arranger": "",
@@ -3923,11 +4186,12 @@
     "publisherText": "Multiple Publishers;Bosworth Music Company;G. Schirmer, Inc.",
     "classLevel": 1,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 262
   },
   {
-    "id": 172,
     "uilCode": "603-1-39901",
+    "eventName": "Piano Solo",
     "title": "Fantasy in C minor, K. 475",
     "composer": "Mozart",
     "arranger": "",
@@ -3937,11 +4201,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 1,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 263
   },
   {
-    "id": 174,
     "uilCode": "603-1-39903",
+    "eventName": "Piano Solo",
     "title": "Rondo in A minor, K. 511",
     "composer": "Mozart",
     "arranger": "",
@@ -3951,11 +4216,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 1,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 265
   },
   {
-    "id": 173,
     "uilCode": "603-1-39902",
+    "eventName": "Piano Solo",
     "title": "Rondo in D major, K. 485",
     "composer": "Mozart",
     "arranger": "",
@@ -3965,11 +4231,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 1,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 264
   },
   {
-    "id": 36,
     "uilCode": "603-1-18071",
+    "eventName": "Piano Solo",
     "title": "Sonatas",
     "composer": "Mozart",
     "arranger": "",
@@ -3985,11 +4252,12 @@
     "publisherText": "Multiple Publishers;Carl Fischer, Inc.;C.F. Peters Corporation;G. Henle Verlag/USA, Inc.;Barenreiter/Verlag;Foreign Music Distributors;Any unabridged edition",
     "classLevel": 1,
     "specification": "(play first or last mvt of one Sonata, except k.545: play all)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 43
   },
   {
-    "id": 175,
     "uilCode": "603-1-39904",
+    "eventName": "Piano Solo",
     "title": "Variations on Ah, vous dirai-je, Maman, K. 265",
     "composer": "Mozart",
     "arranger": "",
@@ -3999,11 +4267,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 1,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 266
   },
   {
-    "id": 176,
     "uilCode": "603-1-39905",
+    "eventName": "Piano Solo",
     "title": "Variations on Je suis Lindor, K. 354",
     "composer": "Mozart",
     "arranger": "",
@@ -4013,11 +4282,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 1,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 267
   },
   {
-    "id": 37,
     "uilCode": "603-1-18072",
+    "eventName": "Piano Solo",
     "title": "Variations on Salve tu Domine K. 398",
     "composer": "Mozart",
     "arranger": "",
@@ -4027,11 +4297,12 @@
     "publisherText": "C.F. Peters Corporation",
     "classLevel": 1,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 44
   },
   {
-    "id": 177,
     "uilCode": "603-1-39906",
+    "eventName": "Piano Solo",
     "title": "Variations on Unser dummer P\u00f6bel meint, K. 455",
     "composer": "Mozart",
     "arranger": "",
@@ -4041,11 +4312,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 1,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 268
   },
   {
-    "id": 178,
     "uilCode": "603-1-39907",
+    "eventName": "Piano Solo",
     "title": "Variations on a Minuet by Duport, K. 573",
     "composer": "Mozart",
     "arranger": "",
@@ -4055,11 +4327,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 1,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 269
   },
   {
-    "id": 179,
     "uilCode": "603-1-39908",
+    "eventName": "Piano Solo",
     "title": "Desperate Measures: Paganini Variations, Op. 48",
     "composer": "Muczynski",
     "arranger": "",
@@ -4069,11 +4342,12 @@
     "publisherText": "Presser",
     "classLevel": 1,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 270
   },
   {
-    "id": 38,
     "uilCode": "603-1-18073",
+    "eventName": "Piano Solo",
     "title": "Suite Op. 13",
     "composer": "Muczynski",
     "arranger": "",
@@ -4083,11 +4357,12 @@
     "publisherText": "G. Schirmer, Inc.",
     "classLevel": 1,
     "specification": "(play two mvts)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 45
   },
   {
-    "id": 80,
     "uilCode": "603-1-36076",
+    "eventName": "Piano Solo",
     "title": "Legende, Op. 16, No. 1",
     "composer": "Paderewski",
     "arranger": "",
@@ -4097,11 +4372,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 1,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 182
   },
   {
-    "id": 81,
     "uilCode": "603-1-36077",
+    "eventName": "Piano Solo",
     "title": "Nocturne, Op. 16, No. 4",
     "composer": "Paderewski",
     "arranger": "",
@@ -4111,11 +4387,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 1,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 183
   },
   {
-    "id": 83,
     "uilCode": "603-1-36079",
+    "eventName": "Piano Solo",
     "title": "8 Nocturnes",
     "composer": "Poulenc",
     "arranger": "",
@@ -4125,11 +4402,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 1,
     "specification": "(play one nocturne)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 185
   },
   {
-    "id": 52,
     "uilCode": "603-1-30631",
+    "eventName": "Piano Solo",
     "title": "Five Impromptus",
     "composer": "Poulenc",
     "arranger": "",
@@ -4141,11 +4419,12 @@
     "publisherText": "Multiple Publishers;G. Schirmer, Inc.;Any unabridged edition",
     "classLevel": 1,
     "specification": "(play one)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 157
   },
   {
-    "id": 82,
     "uilCode": "603-1-36078",
+    "eventName": "Piano Solo",
     "title": "Intermezzo in A-flat",
     "composer": "Poulenc",
     "arranger": "",
@@ -4155,11 +4434,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 1,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 184
   },
   {
-    "id": 39,
     "uilCode": "603-1-18074",
+    "eventName": "Piano Solo",
     "title": "Movements Perpetuels",
     "composer": "Poulenc",
     "arranger": "",
@@ -4171,11 +4451,12 @@
     "publisherText": "Multiple Publishers;J&W Chester, Ltd.;MMB Music, Inc.",
     "classLevel": 1,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 46
   },
   {
-    "id": 180,
     "uilCode": "603-1-39909",
+    "eventName": "Piano Solo",
     "title": "Novelettes",
     "composer": "Poulenc",
     "arranger": "",
@@ -4185,11 +4466,12 @@
     "publisherText": "Chester Music Ltd.",
     "classLevel": 1,
     "specification": "(play one)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 271
   },
   {
-    "id": 58,
     "uilCode": "603-1-30879",
+    "eventName": "Piano Solo",
     "title": "Three Novelettes",
     "composer": "Poulenc",
     "arranger": "",
@@ -4199,11 +4481,12 @@
     "publisherText": "G. Schirmer, Inc.",
     "classLevel": 1,
     "specification": "(play one)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 163
   },
   {
-    "id": 182,
     "uilCode": "603-1-39911",
+    "eventName": "Piano Solo",
     "title": "Piano Sonata",
     "composer": "Price",
     "arranger": "",
@@ -4213,11 +4496,12 @@
     "publisherText": "G. Schirmer, Inc.",
     "classLevel": 1,
     "specification": "(play one mvt)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 273
   },
   {
-    "id": 183,
     "uilCode": "603-1-39912",
+    "eventName": "Piano Solo",
     "title": "Sketches in Sepia",
     "composer": "Price",
     "arranger": "",
@@ -4227,11 +4511,12 @@
     "publisherText": "G. Schirmer, Inc.",
     "classLevel": 1,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 274
   },
   {
-    "id": 184,
     "uilCode": "603-1-39913",
+    "eventName": "Piano Solo",
     "title": "Summer Moon",
     "composer": "Price",
     "arranger": "",
@@ -4241,11 +4526,12 @@
     "publisherText": "G. Schirmer, Inc.",
     "classLevel": 1,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 275
   },
   {
-    "id": 185,
     "uilCode": "603-1-39914",
+    "eventName": "Piano Solo",
     "title": "Your Hands in Mine",
     "composer": "Price",
     "arranger": "",
@@ -4255,11 +4541,12 @@
     "publisherText": "G. Schirmer, Inc.",
     "classLevel": 1,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 276
   },
   {
-    "id": 40,
     "uilCode": "603-1-18075",
+    "eventName": "Piano Solo",
     "title": "Four Pieces for Piano Op. 4",
     "composer": "Prokofiev",
     "arranger": "",
@@ -4272,11 +4559,12 @@
     "publisherText": "Multiple Publishers;Edwin F. Kalmus;Music Corporation of America;Any unabridged edition",
     "classLevel": 1,
     "specification": "(play one)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 47
   },
   {
-    "id": 186,
     "uilCode": "603-1-39915",
+    "eventName": "Piano Solo",
     "title": "Prelude in C major, Op. 12, no. 7",
     "composer": "Prokofiev",
     "arranger": "",
@@ -4286,11 +4574,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 1,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 277
   },
   {
-    "id": 85,
     "uilCode": "603-1-36081",
+    "eventName": "Piano Solo",
     "title": "Sarcasms, Op. 17",
     "composer": "Prokofiev",
     "arranger": "",
@@ -4300,11 +4589,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 1,
     "specification": "(play two)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 187
   },
   {
-    "id": 84,
     "uilCode": "603-1-36080",
+    "eventName": "Piano Solo",
     "title": "Sonatas",
     "composer": "Prokofiev",
     "arranger": "",
@@ -4314,11 +4604,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 1,
     "specification": "(play all of No. 1 OR No. 3 OR first or last mvt of any other SONATA)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 186
   },
   {
-    "id": 187,
     "uilCode": "603-1-39916",
+    "eventName": "Piano Solo",
     "title": "Visions Fugitives, Op. 22",
     "composer": "Prokofiev",
     "arranger": "",
@@ -4328,11 +4619,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 1,
     "specification": "(play any two)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 278
   },
   {
-    "id": 86,
     "uilCode": "603-1-36082",
+    "eventName": "Piano Solo",
     "title": "Etudes-Tableaus, Op. 33 and 39",
     "composer": "Rachmaninoff",
     "arranger": "",
@@ -4342,11 +4634,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 1,
     "specification": "(play one)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 188
   },
   {
-    "id": 41,
     "uilCode": "603-1-18076",
+    "eventName": "Piano Solo",
     "title": "Humoresque Op. 10",
     "composer": "Rachmaninoff",
     "arranger": "",
@@ -4359,11 +4652,12 @@
     "publisherText": "Multiple Publishers;Carl Fischer, Inc.;Belwin, Inc;Mills Music, Inc.",
     "classLevel": 1,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 48
   },
   {
-    "id": 42,
     "uilCode": "603-1-18077",
+    "eventName": "Piano Solo",
     "title": "Prelude Op. 23",
     "composer": "Rachmaninoff",
     "arranger": "",
@@ -4373,11 +4667,12 @@
     "publisherText": "G. Schirmer, Inc.",
     "classLevel": 1,
     "specification": "(play one)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 49
   },
   {
-    "id": 53,
     "uilCode": "603-1-30632",
+    "eventName": "Piano Solo",
     "title": "Prelude Op. 32",
     "composer": "Rachmaninoff",
     "arranger": "",
@@ -4387,11 +4682,12 @@
     "publisherText": "G. Schirmer, Inc.",
     "classLevel": 1,
     "specification": "(play one)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 158
   },
   {
-    "id": 60,
     "uilCode": "603-1-33781",
+    "eventName": "Piano Solo",
     "title": "Prelude in C sharp minor Op. 3, No. 2",
     "composer": "Rachmaninoff",
     "arranger": "",
@@ -4403,11 +4699,12 @@
     "publisherText": "Multiple Publishers;G. Schirmer, Inc.;G. Schirmer, Inc. [public domain]",
     "classLevel": 1,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 166
   },
   {
-    "id": 188,
     "uilCode": "603-1-39917",
+    "eventName": "Piano Solo",
     "title": "Moments musicaux, Op. 16",
     "composer": "Rachmaninov",
     "arranger": "",
@@ -4417,11 +4714,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 1,
     "specification": "(play one)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 279
   },
   {
-    "id": 189,
     "uilCode": "603-1-39918",
+    "eventName": "Piano Solo",
     "title": "Morceaux de fantaisie, Op. 3",
     "composer": "Rachmaninov",
     "arranger": "",
@@ -4431,11 +4729,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 1,
     "specification": "(play one)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 280
   },
   {
-    "id": 190,
     "uilCode": "603-1-39919",
+    "eventName": "Piano Solo",
     "title": "Morceaux de salon, Op. 10",
     "composer": "Rachmaninov",
     "arranger": "",
@@ -4445,11 +4744,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 1,
     "specification": "(play one)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 281
   },
   {
-    "id": 191,
     "uilCode": "603-1-39920",
+    "eventName": "Piano Solo",
     "title": "Le tombeau de Couperin",
     "composer": "Ravel",
     "arranger": "",
@@ -4459,11 +4759,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 1,
     "specification": "(play one mvt)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 282
   },
   {
-    "id": 87,
     "uilCode": "603-1-36083",
+    "eventName": "Piano Solo",
     "title": "Miroirs",
     "composer": "Ravel",
     "arranger": "",
@@ -4473,11 +4774,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 1,
     "specification": "(play one)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 55
   },
   {
-    "id": 43,
     "uilCode": "603-1-18078",
+    "eventName": "Piano Solo",
     "title": "Sonatine",
     "composer": "Ravel",
     "arranger": "",
@@ -4489,11 +4791,12 @@
     "publisherText": "Multiple Publishers;Durand;Edwin F. Kalmus",
     "classLevel": 1,
     "specification": "(play one mvt)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 50
   },
   {
-    "id": 88,
     "uilCode": "603-1-36084",
+    "eventName": "Piano Solo",
     "title": "Valse nobles et sentimentales",
     "composer": "Ravel",
     "arranger": "",
@@ -4503,11 +4806,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 1,
     "specification": "(play two waltzes)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 54
   },
   {
-    "id": 51,
     "uilCode": "603-1-30047",
+    "eventName": "Piano Solo",
     "title": "Sonata in f minor K. 238",
     "composer": "Scarlatti",
     "arranger": "",
@@ -4517,11 +4821,12 @@
     "publisherText": "G. Schirmer, Inc.",
     "classLevel": 1,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 155
   },
   {
-    "id": 44,
     "uilCode": "603-1-18079",
+    "eventName": "Piano Solo",
     "title": "Sonatas, Vols. I and II",
     "composer": "Scarlatti",
     "arranger": "Kirkpatrick",
@@ -4533,11 +4838,12 @@
     "publisherText": "Multiple Publishers;G. Schirmer, Inc.;Any unabridged edition",
     "classLevel": 1,
     "specification": "(play one Sonata)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 51
   },
   {
-    "id": 192,
     "uilCode": "603-1-39921",
+    "eventName": "Piano Solo",
     "title": "Drei Klavierst\u00fccke (Three Piano Pieces), D. 946",
     "composer": "Schubert",
     "arranger": "",
@@ -4547,11 +4853,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 1,
     "specification": "(play one)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 283
   },
   {
-    "id": 45,
     "uilCode": "603-1-18080",
+    "eventName": "Piano Solo",
     "title": "Impromptus Op. 90 or Op. 142",
     "composer": "Schubert",
     "arranger": "",
@@ -4564,11 +4871,12 @@
     "publisherText": "Multiple Publishers;C.F. Peters Corporation;G. Schirmer, Inc.;Any unabridged edition",
     "classLevel": 1,
     "specification": "(play one mvt)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 52
   },
   {
-    "id": 193,
     "uilCode": "603-1-39922",
+    "eventName": "Piano Solo",
     "title": "Moments musicaux, D. 780",
     "composer": "Schubert",
     "arranger": "",
@@ -4578,11 +4886,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 1,
     "specification": "(play one)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 284
   },
   {
-    "id": 194,
     "uilCode": "603-1-39923",
+    "eventName": "Piano Solo",
     "title": "Sonatas",
     "composer": "Schubert",
     "arranger": "",
@@ -4592,11 +4901,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 1,
     "specification": "(play first OR last mvt of any sonata)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 285
   },
   {
-    "id": 46,
     "uilCode": "603-1-18081",
+    "eventName": "Piano Solo",
     "title": "Arabeske, Op. 18",
     "composer": "Schumann",
     "arranger": "",
@@ -4609,11 +4919,12 @@
     "publisherText": "Multiple Publishers;C.F. Peters Corporation;Edwin F. Kalmus;Any unabridged edition",
     "classLevel": 1,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 53
   },
   {
-    "id": 197,
     "uilCode": "603-1-39926",
+    "eventName": "Piano Solo",
     "title": "Arabeske, Op. 18",
     "composer": "Schumann",
     "arranger": "",
@@ -4623,11 +4934,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 1,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 288
   },
   {
-    "id": 198,
     "uilCode": "603-1-39927",
+    "eventName": "Piano Solo",
     "title": "Blumenstuck, Op. 19",
     "composer": "Schumann",
     "arranger": "",
@@ -4637,11 +4949,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 1,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 289
   },
   {
-    "id": 92,
     "uilCode": "603-1-36088",
+    "eventName": "Piano Solo",
     "title": "Drei Romanzen, Op. 28",
     "composer": "Schumann",
     "arranger": "",
@@ -4654,11 +4967,12 @@
     "publisherText": "Multiple Publishers;Henle Publishing;Dover;Any unabridged edition",
     "classLevel": 1,
     "specification": "(play one)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 192
   },
   {
-    "id": 89,
     "uilCode": "603-1-36085",
+    "eventName": "Piano Solo",
     "title": "Fantasiestucke. Op. 12",
     "composer": "Schumann",
     "arranger": "",
@@ -4671,11 +4985,12 @@
     "publisherText": "Multiple Publishers;Henle Publishing;Dover;Any unabridged edition",
     "classLevel": 1,
     "specification": "(play one)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 189
   },
   {
-    "id": 199,
     "uilCode": "603-1-39928",
+    "eventName": "Piano Solo",
     "title": "Fantasiest\u00fccke, Op. 111",
     "composer": "Schumann",
     "arranger": "",
@@ -4685,11 +5000,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 1,
     "specification": "(play one)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 290
   },
   {
-    "id": 91,
     "uilCode": "603-1-36087",
+    "eventName": "Piano Solo",
     "title": "Nachtst\u00fccke, Op. 23",
     "composer": "Schumann",
     "arranger": "",
@@ -4702,11 +5018,12 @@
     "publisherText": "Multiple Publishers;Henle Publishing;Dover;Any unabridged edition",
     "classLevel": 1,
     "specification": "(play one)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 191
   },
   {
-    "id": 90,
     "uilCode": "603-1-36086",
+    "eventName": "Piano Solo",
     "title": "Novelettes, Op. 21",
     "composer": "Schumann",
     "arranger": "",
@@ -4719,11 +5036,12 @@
     "publisherText": "Multiple Publishers;Henle Publishing;Dover;Any unabridged edition",
     "classLevel": 1,
     "specification": "(play one)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 190
   },
   {
-    "id": 200,
     "uilCode": "603-1-39929",
+    "eventName": "Piano Solo",
     "title": "Waldszenen, Op. 82",
     "composer": "Schumann",
     "arranger": "",
@@ -4733,11 +5051,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 1,
     "specification": "(play any two)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 291
   },
   {
-    "id": 195,
     "uilCode": "603-1-39924",
+    "eventName": "Piano Solo",
     "title": "Pi\u00e8ces fugitives, Op. 15",
     "composer": "Schumann, C",
     "arranger": "",
@@ -4747,11 +5066,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 1,
     "specification": "(play one)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 286
   },
   {
-    "id": 196,
     "uilCode": "603-1-39925",
+    "eventName": "Piano Solo",
     "title": "Soir\u00e9es musicales, Op. 6",
     "composer": "Schumann, C",
     "arranger": "",
@@ -4761,11 +5081,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 1,
     "specification": "(play one)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 287
   },
   {
-    "id": 204,
     "uilCode": "603-1-39933",
+    "eventName": "Piano Solo",
     "title": "Deux Po\u00e8mes, Op. 32",
     "composer": "Scriabin",
     "arranger": "",
@@ -4775,11 +5096,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 1,
     "specification": "(play one)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 295
   },
   {
-    "id": 47,
     "uilCode": "603-1-18085",
+    "eventName": "Piano Solo",
     "title": "Preludes, Op. 11, 13, 15, 16, 17, 22",
     "composer": "Scriabin",
     "arranger": "",
@@ -4791,11 +5113,12 @@
     "publisherText": "Multiple Publishers;G. Schirmer, Inc.;Any unabridged edition",
     "classLevel": 1,
     "specification": "(play two from one opus)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 56
   },
   {
-    "id": 205,
     "uilCode": "603-1-39934",
+    "eventName": "Piano Solo",
     "title": "Vers la flamme, Op. 72",
     "composer": "Scriabin",
     "arranger": "",
@@ -4805,11 +5128,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 1,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 296
   },
   {
-    "id": 201,
     "uilCode": "603-1-39930",
+    "eventName": "Piano Solo",
     "title": "\u00c9tude in C-sharp minor, Op. 2, No. 1",
     "composer": "Scriabin",
     "arranger": "",
@@ -4819,11 +5143,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 1,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 292
   },
   {
-    "id": 203,
     "uilCode": "603-1-39932",
+    "eventName": "Piano Solo",
     "title": "\u00c9tudes, Op. 42",
     "composer": "Scriabin",
     "arranger": "",
@@ -4833,11 +5158,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 1,
     "specification": "(play one)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 294
   },
   {
-    "id": 202,
     "uilCode": "603-1-39931",
+    "eventName": "Piano Solo",
     "title": "\u00c9tudes, Op. 8",
     "composer": "Scriabin",
     "arranger": "",
@@ -4847,11 +5173,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 1,
     "specification": "(play one)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 293
   },
   {
-    "id": 206,
     "uilCode": "603-1-39935",
+    "eventName": "Piano Solo",
     "title": "24 Preludes and Fugues, Op. 87",
     "composer": "Shostakovich",
     "arranger": "",
@@ -4861,11 +5188,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 1,
     "specification": "(play one Prelude AND Fugue pair)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 297
   },
   {
-    "id": 48,
     "uilCode": "603-1-18086",
+    "eventName": "Piano Solo",
     "title": "Twenty-four Preludes, Op. 34",
     "composer": "Shostakovich",
     "arranger": "",
@@ -4877,11 +5205,12 @@
     "publisherText": "Multiple Publishers;Music Corporation of America;Any unabridged edition",
     "classLevel": 1,
     "specification": "(play two)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 57
   },
   {
-    "id": 207,
     "uilCode": "603-1-39936",
+    "eventName": "Piano Solo",
     "title": "Eight Memories in Watercolor",
     "composer": "Tan Dun",
     "arranger": "",
@@ -4891,11 +5220,12 @@
     "publisherText": "G. Schirmer, Inc.",
     "classLevel": 1,
     "specification": "(play any two)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 298
   },
   {
-    "id": 208,
     "uilCode": "603-1-39937",
+    "eventName": "Piano Solo",
     "title": "The Seasons, Op. 37a",
     "composer": "Tchaikovsky",
     "arranger": "",
@@ -4905,11 +5235,12 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 1,
     "specification": "(play one)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 299
   },
   {
-    "id": 49,
     "uilCode": "603-1-18087",
+    "eventName": "Piano Solo",
     "title": "The Juggler Op. 31 No. 3",
     "composer": "Toch",
     "arranger": "",
@@ -4919,11 +5250,12 @@
     "publisherText": "Schott Company",
     "classLevel": 1,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 58
   },
   {
-    "id": 209,
     "uilCode": "603-1-39938",
+    "eventName": "Piano Solo",
     "title": "Variations on a Kentucky Folk Song",
     "composer": "Walker",
     "arranger": "",
@@ -4933,11 +5265,12 @@
     "publisherText": "Keiser Music Publications",
     "classLevel": 1,
     "specification": "",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 300
   },
   {
-    "id": 181,
     "uilCode": "603-1-39910",
+    "eventName": "Piano Solo",
     "title": "Piano Music of Africa and the African Diaspora, Vol. 3",
     "composer": "various",
     "arranger": "",
@@ -4947,6 +5280,7 @@
     "publisherText": "Oxford Press [Piano Music of Africa and the African Diaspora, Vol. 3]",
     "classLevel": 1,
     "specification": "(play Juba Dance OR The Cuckoo)",
-    "noMemoryRequired": false
+    "noMemoryRequired": false,
+    "id": 272
   }
 ]
