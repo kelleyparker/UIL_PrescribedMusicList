@@ -1,0 +1,4849 @@
+[
+  {
+    "uilCode": "230-3-11495",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Baroque Suite",
+    "composer": "Anon. or Trad.",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 3,
+    "specification": "(play one mvt) (fl, ob, cl)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-3-11457",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Coranto",
+    "composer": "Anon. or Trad.",
+    "arranger": "Phillips",
+    "publishers": [
+      "Oxford University Press [Six Short Arrangements for Woodwind Trio]"
+    ],
+    "publisherText": "Oxford University Press [Six Short Arrangements for Woodwind Trio]",
+    "classLevel": 3,
+    "specification": "(fl, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-3-11458",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Old French Song",
+    "composer": "Anon. or Trad.",
+    "arranger": "Phillips",
+    "publishers": [
+      "Oxford University Press [Six Short Arrangements for Woodwind Trio]"
+    ],
+    "publisherText": "Oxford University Press [Six Short Arrangements for Woodwind Trio]",
+    "classLevel": 3,
+    "specification": "(fl, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-3-26429",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Simple Gifts",
+    "composer": "Anon. or Trad.",
+    "arranger": "Halferty",
+    "publishers": [
+      "Kendor Music, Inc."
+    ],
+    "publisherText": "Kendor Music, Inc.",
+    "classLevel": 3,
+    "specification": "(fl, ob, cl)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-3-11502",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Ten Woodwind Trios",
+    "composer": "Anon. or Trad.",
+    "arranger": "Schaeffer",
+    "publishers": [
+      "Pro-Art Publications",
+      "Alfred Music Company, Inc."
+    ],
+    "publisherText": "Pro-Art Publications;Alfred Music Company, Inc.",
+    "classLevel": 3,
+    "specification": "(play one) (any published combination)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-3-11500",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Three American Folk Songs",
+    "composer": "Anon. or Trad.",
+    "arranger": "Koepke",
+    "publishers": [
+      "Rubank, Inc. [Chamber Music for Three Woodwinds, Vol. I]"
+    ],
+    "publisherText": "Rubank, Inc. [Chamber Music for Three Woodwinds, Vol. I]",
+    "classLevel": 3,
+    "specification": "(play all) (fl, ob, cl)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-3-29747",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Adagio (from Toccata in G, BWV 916)",
+    "composer": "Bach",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 3,
+    "specification": "(ob, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-3-29800",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Contapunctus I (from The Art of Fugue BWV 1080)",
+    "composer": "Bach",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 3,
+    "specification": "(fl, ob, cl)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-3-29729",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Contapunctus I (from The Art of the Fugue)",
+    "composer": "Bach",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 3,
+    "specification": "(fl, ob, cl)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-3-29989",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Contrapunctus I (from The Art of the Fugue BWV 1080)",
+    "composer": "Bach",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 3,
+    "specification": "(fl, ob, bn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-3-11447",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "I Call Upon Thy Name, O Jesus",
+    "composer": "Bach",
+    "arranger": "",
+    "publishers": [
+      "Carl Fischer, Inc."
+    ],
+    "publisherText": "Carl Fischer, Inc.",
+    "classLevel": 3,
+    "specification": "(fl, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-3-11448",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Little Bach Suite No. 2",
+    "composer": "Bach",
+    "arranger": "Morsch",
+    "publishers": [
+      "Theodore Presser Company"
+    ],
+    "publisherText": "Theodore Presser Company",
+    "classLevel": 3,
+    "specification": "(play Chorale) (fl, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-3-11449",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Passepied",
+    "composer": "Bach",
+    "arranger": "Voxman",
+    "publishers": [
+      "Rubank, Inc. [Chamber Music for Three Woodwinds, Vol. II]"
+    ],
+    "publisherText": "Rubank, Inc. [Chamber Music for Three Woodwinds, Vol. II]",
+    "classLevel": 3,
+    "specification": "(fl, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-3-11450",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Trio No. 1",
+    "composer": "Bach",
+    "arranger": "Voxman",
+    "publishers": [
+      "Rubank, Inc. [Chamber Music for Three Woodwinds, Vol. II]"
+    ],
+    "publisherText": "Rubank, Inc. [Chamber Music for Three Woodwinds, Vol. II]",
+    "classLevel": 3,
+    "specification": "(fl, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-3-11493",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Scotch Quick-Step",
+    "composer": "Beethoven",
+    "arranger": "Voxman",
+    "publishers": [
+      "Rubank, Inc. [Chamber Music for Three Woodwinds, Vol. I]"
+    ],
+    "publisherText": "Rubank, Inc. [Chamber Music for Three Woodwinds, Vol. I]",
+    "classLevel": 3,
+    "specification": "(fl, ob, cl)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-3-35435",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Turkish March",
+    "composer": "Beethoven",
+    "arranger": "Balent",
+    "publishers": [
+      "Kendor Music, Inc. [Classical FlexTrios for Woodwind Trios]"
+    ],
+    "publisherText": "Kendor Music, Inc. [Classical FlexTrios for Woodwind Trios]",
+    "classLevel": 3,
+    "specification": "(any published combination)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-3-35436",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Two Beethoven Movements",
+    "composer": "Beethoven",
+    "arranger": "Pappas",
+    "publishers": [
+      "JPM Music Publications"
+    ],
+    "publisherText": "JPM Music Publications",
+    "classLevel": 3,
+    "specification": "(cl, alto sax, tenor sax or bass cl)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-3-35437",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Hungarian Dance No. 5",
+    "composer": "Brahms",
+    "arranger": "Balent",
+    "publishers": [
+      "Kendor Music, Inc. [Classical FlexTrios for Woodwind Trios]"
+    ],
+    "publisherText": "Kendor Music, Inc. [Classical FlexTrios for Woodwind Trios]",
+    "classLevel": 3,
+    "specification": "(any published combination)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-3-11494",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Rigaudon and Novelette",
+    "composer": "Chaminade",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 3,
+    "specification": "(fl, ob, cl)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-3-11451",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Scherzo",
+    "composer": "Chedeville",
+    "arranger": "Maganini",
+    "publishers": [
+      "Edition Musicus-New York, Inc."
+    ],
+    "publisherText": "Edition Musicus-New York, Inc.",
+    "classLevel": 3,
+    "specification": "(fl, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-3-35438",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "The White Horse",
+    "composer": "Chilean Folk Song",
+    "arranger": "Pappas",
+    "publishers": [
+      "JPM Music Publications"
+    ],
+    "publisherText": "JPM Music Publications",
+    "classLevel": 3,
+    "specification": "(any published combination)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-3-35447",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Trumpet Voluntary",
+    "composer": "Clark",
+    "arranger": "Balent",
+    "publishers": [
+      "Kendor Music, Inc. [Classical FlexTrios for Woodwind Trios]"
+    ],
+    "publisherText": "Kendor Music, Inc. [Classical FlexTrios for Woodwind Trios]",
+    "classLevel": 3,
+    "specification": "(any published combination)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-3-11452",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Air",
+    "composer": "Couperin",
+    "arranger": "Voxman",
+    "publishers": [
+      "Rubank, Inc. [Chamber Music for Three Woodwinds, Vol. II]"
+    ],
+    "publisherText": "Rubank, Inc. [Chamber Music for Three Woodwinds, Vol. II]",
+    "classLevel": 3,
+    "specification": "(fl, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-3-11496",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Air",
+    "composer": "Faber",
+    "arranger": "Voxman",
+    "publishers": [
+      "Rubank, Inc. [Chamber Music for Three Woodwinds, Vol. I]"
+    ],
+    "publisherText": "Rubank, Inc. [Chamber Music for Three Woodwinds, Vol. I]",
+    "classLevel": 3,
+    "specification": "(fl, ob, cl)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-3-35439",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "May is Coming",
+    "composer": "German Folksong",
+    "arranger": "Pappas",
+    "publishers": [
+      "JPM Music Publications"
+    ],
+    "publisherText": "JPM Music Publications",
+    "classLevel": 3,
+    "specification": "(fl, cl, alto sax)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-3-11497",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Fantasia for Three",
+    "composer": "Gibbons",
+    "arranger": "Clark",
+    "publishers": [
+      "Edition Musicus-New York, Inc."
+    ],
+    "publisherText": "Edition Musicus-New York, Inc.",
+    "classLevel": 3,
+    "specification": "(fl, ob, cl)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-3-35440",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Allegro non troppo",
+    "composer": "Handel",
+    "arranger": "Pappas",
+    "publishers": [
+      "JPM Music Publications"
+    ],
+    "publisherText": "JPM Music Publications",
+    "classLevel": 3,
+    "specification": "(2 fl, cl)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-3-11498",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Ballo",
+    "composer": "Handel",
+    "arranger": "Voxman",
+    "publishers": [
+      "Rubank, Inc. [Chamber Music for Three Woodwinds, Vol. I]"
+    ],
+    "publisherText": "Rubank, Inc. [Chamber Music for Three Woodwinds, Vol. I]",
+    "classLevel": 3,
+    "specification": "(fl, ob, cl)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-3-11453",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Bouree",
+    "composer": "Handel",
+    "arranger": "Christensen",
+    "publishers": [
+      "Kendor Music, Inc."
+    ],
+    "publisherText": "Kendor Music, Inc.",
+    "classLevel": 3,
+    "specification": "(fl, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-3-35441",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Mixed Woodwind Trio No. 1",
+    "composer": "Haspiel",
+    "arranger": "",
+    "publishers": [
+      "JPM Music Publications"
+    ],
+    "publisherText": "JPM Music Publications",
+    "classLevel": 3,
+    "specification": "(fl, fl or ob, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-3-35442",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "The Magic Winds",
+    "composer": "Havely",
+    "arranger": "",
+    "publishers": [
+      "JPM Music Publications"
+    ],
+    "publisherText": "JPM Music Publications",
+    "classLevel": 3,
+    "specification": "(fl, 2 cl)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-3-11454",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Andante",
+    "composer": "Haydn",
+    "arranger": "Voxman",
+    "publishers": [
+      "Rubank, Inc. [Chamber Music for Three Woodwinds, Vol. II]"
+    ],
+    "publisherText": "Rubank, Inc. [Chamber Music for Three Woodwinds, Vol. II]",
+    "classLevel": 3,
+    "specification": "(fl, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-3-35445",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Baryton Trio #4",
+    "composer": "Haydn",
+    "arranger": "Gibson",
+    "publishers": [
+      "JPM Music Publications"
+    ],
+    "publisherText": "JPM Music Publications",
+    "classLevel": 3,
+    "specification": "(play two mvts) (fl, cl, alto sax)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-3-35446",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Bayton Trio No. 7",
+    "composer": "Haydn",
+    "arranger": "Gibson",
+    "publishers": [
+      "JPM Music Publications"
+    ],
+    "publisherText": "JPM Music Publications",
+    "classLevel": 3,
+    "specification": "(fl, fl or ob, cl)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-3-35443",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Haydn Gems",
+    "composer": "Haydn",
+    "arranger": "Conley",
+    "publishers": [
+      "JPM Music Publications"
+    ],
+    "publisherText": "JPM Music Publications",
+    "classLevel": 3,
+    "specification": "(play all) (2 fl, cl)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-3-35444",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Haydn: Trio No. 48",
+    "composer": "Haydn",
+    "arranger": "Gibson",
+    "publishers": [
+      "JPM Music Publications"
+    ],
+    "publisherText": "JPM Music Publications",
+    "classLevel": 3,
+    "specification": "(fl, ob, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-3-11455",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "American Folk Suite",
+    "composer": "Hervig",
+    "arranger": "Voxman",
+    "publishers": [
+      "Rubank, Inc. [Chamber Music for Three Woodwinds, Vol. II]"
+    ],
+    "publisherText": "Rubank, Inc. [Chamber Music for Three Woodwinds, Vol. II]",
+    "classLevel": 3,
+    "specification": "(fl, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-3-11499",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Variations in F",
+    "composer": "Higgins",
+    "arranger": "",
+    "publishers": [
+      "Southern Music Company"
+    ],
+    "publisherText": "Southern Music Company",
+    "classLevel": 3,
+    "specification": "(fl, ob, cl)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-3-11501",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Bourree",
+    "composer": "Krebs",
+    "arranger": "Voxman",
+    "publishers": [
+      "Rubank, Inc. [Chamber Music for Three Woodwinds, Vol. I]"
+    ],
+    "publisherText": "Rubank, Inc. [Chamber Music for Three Woodwinds, Vol. I]",
+    "classLevel": 3,
+    "specification": "(fl, ob, cl)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-3-11456",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Larghetto",
+    "composer": "Kutschau",
+    "arranger": "Voxman",
+    "publishers": [
+      "Rubank, Inc. [Chamber Music for Three Woodwinds, Vol. II]"
+    ],
+    "publisherText": "Rubank, Inc. [Chamber Music for Three Woodwinds, Vol. II]",
+    "classLevel": 3,
+    "specification": "(fl, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-3-35449",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Golden Means",
+    "composer": "Lendt",
+    "arranger": "",
+    "publishers": [
+      "JPM Music Publications"
+    ],
+    "publisherText": "JPM Music Publications",
+    "classLevel": 3,
+    "specification": "(fl, cl, alto sax)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-3-35448",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Riverwood Dance",
+    "composer": "Lendt",
+    "arranger": "",
+    "publishers": [
+      "JPM Music Publications"
+    ],
+    "publisherText": "JPM Music Publications",
+    "classLevel": 3,
+    "specification": "(fl, cl, alto sax)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-3-11541",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "At the Puppet Show",
+    "composer": "McKay",
+    "arranger": "",
+    "publishers": [
+      "C.L. Barnhouse Company"
+    ],
+    "publisherText": "C.L. Barnhouse Company",
+    "classLevel": 3,
+    "specification": "(ob, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-3-35450",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Allegro from Sonatina No. 6",
+    "composer": "Mozart",
+    "arranger": "Pappas",
+    "publishers": [
+      "JPM Music Publications"
+    ],
+    "publisherText": "JPM Music Publications",
+    "classLevel": 3,
+    "specification": "(fl, 2 cl)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-3-35453",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "First Light of Dawn",
+    "composer": "Pappas",
+    "arranger": "",
+    "publishers": [
+      "JPM Music Publications"
+    ],
+    "publisherText": "JPM Music Publications",
+    "classLevel": 3,
+    "specification": "(2 fl, clarinet OR oboe)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-3-35451",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Regal Procession",
+    "composer": "Pappas",
+    "arranger": "",
+    "publishers": [
+      "JPM Music Publications"
+    ],
+    "publisherText": "JPM Music Publications",
+    "classLevel": 3,
+    "specification": "(any published combination)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-3-35452",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Sleep, My Little Baby",
+    "composer": "Pappas",
+    "arranger": "",
+    "publishers": [
+      "JPM Music Publications"
+    ],
+    "publisherText": "JPM Music Publications",
+    "classLevel": 3,
+    "specification": "(2 fl, cl)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-3-12287",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Canon in d minor",
+    "composer": "Reger",
+    "arranger": "Schwadron",
+    "publishers": [
+      "Kendor Music, Inc."
+    ],
+    "publisherText": "Kendor Music, Inc.",
+    "classLevel": 3,
+    "specification": "(fl, b-flat cl, bass cl)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-3-11459",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Menuet",
+    "composer": "Schubert",
+    "arranger": "Voxman",
+    "publishers": [
+      "Rubank, Inc. [Chamber Music for Three Woodwinds, Vol. II]"
+    ],
+    "publisherText": "Rubank, Inc. [Chamber Music for Three Woodwinds, Vol. II]",
+    "classLevel": 3,
+    "specification": "(fl, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-3-35455",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Phantasia",
+    "composer": "Schultz",
+    "arranger": "Gregory",
+    "publishers": [
+      "JW Pepper"
+    ],
+    "publisherText": "JW Pepper",
+    "classLevel": 3,
+    "specification": "(fl, ob, cl)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-3-35454",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Three Madrigals",
+    "composer": "Schultz",
+    "arranger": "Gregory",
+    "publishers": [
+      "JW Pepper"
+    ],
+    "publisherText": "JW Pepper",
+    "classLevel": 3,
+    "specification": "(play two trios) (2 fl, cl)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-3-11542",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Suite",
+    "composer": "Schumann",
+    "arranger": "Seay",
+    "publishers": [
+      "Jack Spratt Music Publishers"
+    ],
+    "publisherText": "Jack Spratt Music Publishers",
+    "classLevel": 3,
+    "specification": "(ob, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-3-11503",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Romance",
+    "composer": "Sperger",
+    "arranger": "Voxman",
+    "publishers": [
+      "Rubank, Inc. [Chamber Music for Three Woodwinds, Vol. I]"
+    ],
+    "publisherText": "Rubank, Inc. [Chamber Music for Three Woodwinds, Vol. I]",
+    "classLevel": 3,
+    "specification": "(fl, ob, cl)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-3-35456",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Countryside Suite",
+    "composer": "Spradling",
+    "arranger": "",
+    "publishers": [
+      "JPM Music Publications"
+    ],
+    "publisherText": "JPM Music Publications",
+    "classLevel": 3,
+    "specification": "(play two mvts) (2 fl, clar OR fl, ob, bsn or bass cl)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-3-35457",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Essercizii musici",
+    "composer": "Telemann",
+    "arranger": "Gregory",
+    "publishers": [
+      "JW Pepper"
+    ],
+    "publisherText": "JW Pepper",
+    "classLevel": 3,
+    "specification": "(play 1st & 2nd mvt OR mvt 3) (fl, ob, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-3-11504",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Waltzing Woodwinds",
+    "composer": "Tustin",
+    "arranger": "",
+    "publishers": [
+      "C.L. Barnhouse Company"
+    ],
+    "publisherText": "C.L. Barnhouse Company",
+    "classLevel": 3,
+    "specification": "(fl, ob, cl)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-3-34176",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Twenty Two Masterworks for Woodwind Trio",
+    "composer": "Various",
+    "arranger": "James",
+    "publishers": [
+      "Shawnee Press"
+    ],
+    "publisherText": "Shawnee Press",
+    "classLevel": 3,
+    "specification": "(play one) (any published combination)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-3-26576",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "E princezinha dancava (And the Little Princess Was Dancing)",
+    "composer": "Villa-Lobos",
+    "arranger": "Schmidt",
+    "publishers": [
+      "Western International Music, Inc."
+    ],
+    "publisherText": "Western International Music, Inc.",
+    "classLevel": 3,
+    "specification": "(fl, cl, hn) or (2 ob, e-hn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-3-11505",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Giga",
+    "composer": "Vivaldi",
+    "arranger": "Maganini",
+    "publishers": [
+      "Edition Musicus-New York, Inc."
+    ],
+    "publisherText": "Edition Musicus-New York, Inc.",
+    "classLevel": 3,
+    "specification": "(fl, ob, cl)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-3-11506",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Music Box",
+    "composer": "Worth",
+    "arranger": "Tustin",
+    "publishers": [
+      "C.L. Barnhouse Company"
+    ],
+    "publisherText": "C.L. Barnhouse Company",
+    "classLevel": 3,
+    "specification": "(fl, ob, cl)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-2-29723",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "15 Sinfonias - Three Part inventions - Invention 13, BWV 799, 1723",
+    "composer": "Bach",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 2,
+    "specification": "(fl, ob, cl)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-2-29713",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "15 Sinfonias -Three Part Inventions- Invention 10, BWV 796, 1723",
+    "composer": "Bach",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 2,
+    "specification": "(fl, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-2-29712",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "15 Sinfonias -Three Part Inventions- Invention 12, BWV 798, 1723",
+    "composer": "Bach",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 2,
+    "specification": "(fl, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-2-29714",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "15 Sinfonias -Three Part Inventions- Invention 6, BWV 792, 1723",
+    "composer": "Bach",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 2,
+    "specification": "(fl, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-2-29739",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Aria (from Cantata 24 - An Undiguised Intention, BWV 24)",
+    "composer": "Bach",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 2,
+    "specification": "(ob, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-2-29721",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Aria (from Cantata 29, BWV 29, 1731)",
+    "composer": "Bach",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 2,
+    "specification": "(fl, ob, cl)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-2-29741",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Aria (from Cantata No. 29, BWV 29, 1731)",
+    "composer": "Bach",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 2,
+    "specification": "(ob, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-2-29722",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Aria (from Cantata No. 36, BWV 36 1726)",
+    "composer": "Bach",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 2,
+    "specification": "(fl, ob, cl)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-2-29724",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Aria (from Cantata No. 36, BWV 36, 1726)",
+    "composer": "Bach",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 2,
+    "specification": "(fl, ob, cl)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-2-29746",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Aria (from Cantata No. 36, BWV 36, 1726)",
+    "composer": "Bach",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 2,
+    "specification": "(ob, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-2-29719",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Aria (from Cantata No. 44, BWV 44, 1724)",
+    "composer": "Bach",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 2,
+    "specification": "(fl, ob, cl)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-2-29740",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Aria (from Cantata No. 9, BWV 9, 1732)",
+    "composer": "Bach",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 2,
+    "specification": "(ob, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-2-11431",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Fifteen Three-Part Inventions",
+    "composer": "Bach",
+    "arranger": "Cochrane",
+    "publishers": [
+      "Cundy-Bettoney Company, Inc."
+    ],
+    "publisherText": "Cundy-Bettoney Company, Inc.",
+    "classLevel": 2,
+    "specification": "(play one mvt) (fl, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-2-11519",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Fifteen Three-Part Inventions",
+    "composer": "Bach",
+    "arranger": "Cochrane",
+    "publishers": [
+      "Cundy-Bettoney Company, Inc."
+    ],
+    "publisherText": "Cundy-Bettoney Company, Inc.",
+    "classLevel": 2,
+    "specification": "(play two) (ob, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-2-12239",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Fuga Canonica",
+    "composer": "Bach",
+    "arranger": "Schwadron",
+    "publishers": [
+      "Western International Music, Inc."
+    ],
+    "publisherText": "Western International Music, Inc.",
+    "classLevel": 2,
+    "specification": "(2 cl, bass cl or bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-2-29726",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Fugue (from Prelude and Fuge in c minor, BWV 546)",
+    "composer": "Bach",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 2,
+    "specification": "(fl, ob, cl)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-2-29745",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Fugue (from Prelude and Fugue from Organ Works, BWV 553)",
+    "composer": "Bach",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 2,
+    "specification": "(ob, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-2-29742",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Fugue (from Prelude and Fugue in G, BWV 550)",
+    "composer": "Bach",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 2,
+    "specification": "(ob, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-2-29744",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Fugue (from Prelude and Fugue in c minor, BWV 537)",
+    "composer": "Bach",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 2,
+    "specification": "(ob, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-2-29743",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Fugue (from Prelude and Fugue, Dorian, BWV 538)",
+    "composer": "Bach",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 2,
+    "specification": "(ob, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-2-29715",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Fugue No. 2 in c minor (from Well Tempered Clavier, BWV 847, 1722)",
+    "composer": "Bach",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 2,
+    "specification": "(fl, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-2-29708",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Fugue in F",
+    "composer": "Bach",
+    "arranger": "Frost",
+    "publishers": [
+      "Great Works Publishing"
+    ],
+    "publisherText": "Great Works Publishing",
+    "classLevel": 2,
+    "specification": "(fl, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-2-29786",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Fugue in F",
+    "composer": "Bach",
+    "arranger": "Frost",
+    "publishers": [
+      "Great Works Publishing"
+    ],
+    "publisherText": "Great Works Publishing",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-2-29799",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Fugue in b minor On a Theme of A. Corelli, BWV 579",
+    "composer": "Bach",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 2,
+    "specification": "(fl, ob, bn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-2-29727",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Fugue in b minor On a Theme of Corelli, BWV 579",
+    "composer": "Bach",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 2,
+    "specification": "(fl, ob, cl)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-2-29730",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Fugues in F",
+    "composer": "Bach",
+    "arranger": "Frost",
+    "publishers": [
+      "Great Works Publishing"
+    ],
+    "publisherText": "Great Works Publishing",
+    "classLevel": 2,
+    "specification": "(ob, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-2-11432",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Little Bach Suite No. 1",
+    "composer": "Bach",
+    "arranger": "Morsch",
+    "publishers": [
+      "Theodore Presser Company"
+    ],
+    "publisherText": "Theodore Presser Company",
+    "classLevel": 2,
+    "specification": "(play two mvts)) (fl, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-2-11433",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Little Bach Suite No. 2",
+    "composer": "Bach",
+    "arranger": "Morsch",
+    "publishers": [
+      "Theodore Presser Company"
+    ],
+    "publisherText": "Theodore Presser Company",
+    "classLevel": 2,
+    "specification": "(play two mvts) (fl, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-2-11434",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Now Awake, We Hear A Voice Cry",
+    "composer": "Bach",
+    "arranger": "Conley",
+    "publishers": [
+      "Kendor Music, Inc."
+    ],
+    "publisherText": "Kendor Music, Inc.",
+    "classLevel": 2,
+    "specification": "(fl, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-2-11520",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Passepied",
+    "composer": "Bach",
+    "arranger": "Voxman",
+    "publishers": [
+      "Rubank, Inc. [Chamber Music for Three Woodwinds, Vol. II]"
+    ],
+    "publisherText": "Rubank, Inc. [Chamber Music for Three Woodwinds, Vol. II]",
+    "classLevel": 2,
+    "specification": "(ob, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-2-11435",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Polonaise",
+    "composer": "Bach",
+    "arranger": "Williams",
+    "publishers": [
+      "Southern Music Company"
+    ],
+    "publisherText": "Southern Music Company",
+    "classLevel": 2,
+    "specification": "(fl, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-2-11521",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Trio No. 1",
+    "composer": "Bach",
+    "arranger": "Voxman",
+    "publishers": [
+      "Rubank, Inc. [Chamber Music for Three Woodwinds, Vol. II]"
+    ],
+    "publisherText": "Rubank, Inc. [Chamber Music for Three Woodwinds, Vol. II]",
+    "classLevel": 2,
+    "specification": "(ob, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-2-11476",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Running Tune, Lullaby and March",
+    "composer": "Baksa",
+    "arranger": "",
+    "publishers": [
+      "Shawnee Press"
+    ],
+    "publisherText": "Shawnee Press",
+    "classLevel": 2,
+    "specification": "(play two) (fl, ob, cl)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-2-11436",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Bagatelle Op. 33 No. 2",
+    "composer": "Beethoven",
+    "arranger": "Elkan",
+    "publishers": [
+      "Henri Elkan"
+    ],
+    "publisherText": "Henri Elkan",
+    "classLevel": 2,
+    "specification": "(fl, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-2-11477",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Menuetto",
+    "composer": "Beethoven",
+    "arranger": "Voxman",
+    "publishers": [
+      "Rubank, Inc. [Chamber Music for Three Woodwinds, Vol. 1]"
+    ],
+    "publisherText": "Rubank, Inc. [Chamber Music for Three Woodwinds, Vol. 1]",
+    "classLevel": 2,
+    "specification": "(fl, ob, cl)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-2-11478",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Trio Op. 87",
+    "composer": "Beethoven",
+    "arranger": "",
+    "publishers": [
+      "EMP"
+    ],
+    "publisherText": "EMP",
+    "classLevel": 2,
+    "specification": "(play Minuet) (fl, ob, cl)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-2-26423",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Czech Suite for Woodwind Trio",
+    "composer": "Blahnik",
+    "arranger": "",
+    "publishers": [
+      "Alliance Publications, Inc."
+    ],
+    "publisherText": "Alliance Publications, Inc.",
+    "classLevel": 2,
+    "specification": "(fl, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-2-11479",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Terzetto",
+    "composer": "Boccherini",
+    "arranger": "Waln",
+    "publishers": [
+      "Neil A. Kjos Music Company"
+    ],
+    "publisherText": "Neil A. Kjos Music Company",
+    "classLevel": 2,
+    "specification": "(fl, ob, cl)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-2-11522",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Trio for Melody Instruments",
+    "composer": "Breydert",
+    "arranger": "",
+    "publishers": [
+      "Associated Music Publishers Inc."
+    ],
+    "publisherText": "Associated Music Publishers Inc.",
+    "classLevel": 2,
+    "specification": "(play mvt 1 or 2) (ob, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-2-11523",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Chamber Sonata Op. 2 No. 2",
+    "composer": "Corelli",
+    "arranger": "Auslender",
+    "publishers": [
+      "Brightstar Music Publishers"
+    ],
+    "publisherText": "Brightstar Music Publishers",
+    "classLevel": 2,
+    "specification": "(play two mvts) (ob, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-2-11437",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Sarabande and Corrente",
+    "composer": "Corelli",
+    "arranger": "Voxman",
+    "publishers": [
+      "Rubank, Inc. [Chamber Music for Three Woodwinds, Vol. II]"
+    ],
+    "publisherText": "Rubank, Inc. [Chamber Music for Three Woodwinds, Vol. II]",
+    "classLevel": 2,
+    "specification": "(fl, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-2-11524",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Sarabande and Corrente",
+    "composer": "Corelli",
+    "arranger": "Voxman",
+    "publishers": [
+      "Hal Leonard Music, Inc. [Chamber Music for Three Woodwinds, Vol. II]"
+    ],
+    "publisherText": "Hal Leonard Music, Inc. [Chamber Music for Three Woodwinds, Vol. II]",
+    "classLevel": 2,
+    "specification": "(ob, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-2-11525",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Air",
+    "composer": "Couperin",
+    "arranger": "Voxman",
+    "publishers": [
+      "Rubank, Inc. [Chamber Music for Three Woodwinds, Vol. II]"
+    ],
+    "publisherText": "Rubank, Inc. [Chamber Music for Three Woodwinds, Vol. II]",
+    "classLevel": 2,
+    "specification": "(ob, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-2-11438",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Les Bacchanales",
+    "composer": "Couperin",
+    "arranger": "Elkan",
+    "publishers": [
+      "Henri Elkan"
+    ],
+    "publisherText": "Henri Elkan",
+    "classLevel": 2,
+    "specification": "(fl, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-2-11526",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Variations for Three Woodwinds",
+    "composer": "De Groot",
+    "arranger": "",
+    "publishers": [
+      "Foreign Music Distributors"
+    ],
+    "publisherText": "Foreign Music Distributors",
+    "classLevel": 2,
+    "specification": "(play Theme & two variations) (ob, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-2-11527",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Two Creole Songs",
+    "composer": "Elliot",
+    "arranger": "",
+    "publishers": [
+      "Southern Music Company"
+    ],
+    "publisherText": "Southern Music Company",
+    "classLevel": 2,
+    "specification": "(play one) (ob, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-2-11511",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Concert Suite",
+    "composer": "Flegier",
+    "arranger": "Voxman",
+    "publishers": [
+      "Rubank, Inc."
+    ],
+    "publisherText": "Rubank, Inc.",
+    "classLevel": 2,
+    "specification": "(play one mvt) (ob, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-2-11480",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Allegro",
+    "composer": "Handel",
+    "arranger": "Voxman",
+    "publishers": [
+      "Rubank, Inc. [Chamber Music for Three Woodwinds, Vol. 1]"
+    ],
+    "publisherText": "Rubank, Inc. [Chamber Music for Three Woodwinds, Vol. 1]",
+    "classLevel": 2,
+    "specification": "(fl, ob, cl)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-2-11439",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Andante",
+    "composer": "Handel",
+    "arranger": "Voxman",
+    "publishers": [
+      "Rubank, Inc. [Chamber Music for Three Woodwinds, Vol. II]"
+    ],
+    "publisherText": "Rubank, Inc. [Chamber Music for Three Woodwinds, Vol. II]",
+    "classLevel": 2,
+    "specification": "(fl, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-2-11528",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Andante",
+    "composer": "Handel",
+    "arranger": "Voxman",
+    "publishers": [
+      "Rubank, Inc. [Chamber Music for Three Woodwinds, Vol. II]"
+    ],
+    "publisherText": "Rubank, Inc. [Chamber Music for Three Woodwinds, Vol. II]",
+    "classLevel": 2,
+    "specification": "(ob, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-2-11529",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Bourree",
+    "composer": "Handel",
+    "arranger": "Christensen",
+    "publishers": [
+      "Kendor Music, Inc."
+    ],
+    "publisherText": "Kendor Music, Inc.",
+    "classLevel": 2,
+    "specification": "(ob, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-2-29748",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Concerto Grosso",
+    "composer": "Handel",
+    "arranger": "Frost",
+    "publishers": [
+      "Great Works Publishing"
+    ],
+    "publisherText": "Great Works Publishing",
+    "classLevel": 2,
+    "specification": "(ob, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-2-29804",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Concerto Grosso",
+    "composer": "Handel",
+    "arranger": "Frost",
+    "publishers": [
+      "Great Works Publishing"
+    ],
+    "publisherText": "Great Works Publishing",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-2-26424",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Concerto Grosso Opus 6, Number 6 in g minor",
+    "composer": "Handel",
+    "arranger": "Frost",
+    "publishers": [
+      "Great Works Publishing"
+    ],
+    "publisherText": "Great Works Publishing",
+    "classLevel": 2,
+    "specification": "(fl, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-2-11530",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Five Trios",
+    "composer": "Handel",
+    "arranger": "Voxman/Block",
+    "publishers": [
+      "Southern Music Company"
+    ],
+    "publisherText": "Southern Music Company",
+    "classLevel": 2,
+    "specification": "(play 1 & 2; or one from 3, 4 or 5) (ob, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-2-12248",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Five Trios",
+    "composer": "Handel",
+    "arranger": "Voxman/Block",
+    "publishers": [
+      "Southern Music Company"
+    ],
+    "publisherText": "Southern Music Company",
+    "classLevel": 2,
+    "specification": "(play two mvts) (2 b-flat cl, bass cl or 2 ob, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-2-35433",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Chasing a Firebird",
+    "composer": "Haspiel",
+    "arranger": "",
+    "publishers": [
+      "JPM Music Publications"
+    ],
+    "publisherText": "JPM Music Publications",
+    "classLevel": 2,
+    "specification": "(fl, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-2-35432",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Trio No. 1 in F Major",
+    "composer": "Haspiel",
+    "arranger": "",
+    "publishers": [
+      "JPM Music Publications"
+    ],
+    "publisherText": "JPM Music Publications",
+    "classLevel": 2,
+    "specification": "(take repeats) (2 fl, cl)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-2-35434",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Trio No. 2 in E-flat Major",
+    "composer": "Haspiel",
+    "arranger": "",
+    "publishers": [
+      "JPM Music Publications"
+    ],
+    "publisherText": "JPM Music Publications",
+    "classLevel": 2,
+    "specification": "(2 fl, alto sax OR fl, ob, alto sax)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-2-11531",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Andante",
+    "composer": "Haydn",
+    "arranger": "Voxman",
+    "publishers": [
+      "Rubank, Inc. [Chamber Music for Three Woodwinds, Vol. II]"
+    ],
+    "publisherText": "Rubank, Inc. [Chamber Music for Three Woodwinds, Vol. II]",
+    "classLevel": 2,
+    "specification": "(ob, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-2-11484",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Andante (from Trio No. 1)",
+    "composer": "Haydn",
+    "arranger": "Leeuwen/Andraud",
+    "publishers": [
+      "Southern Music Company [Eighteen Trios from Classic Masters]"
+    ],
+    "publisherText": "Southern Music Company [Eighteen Trios from Classic Masters]",
+    "classLevel": 2,
+    "specification": "(fl, ob, cl)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-2-11481",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Andante Grazioso",
+    "composer": "Haydn",
+    "arranger": "Voxman",
+    "publishers": [
+      "Rubank, Inc. [Chamber Music for Three Woodwinds, Vol. 1]"
+    ],
+    "publisherText": "Rubank, Inc. [Chamber Music for Three Woodwinds, Vol. 1]",
+    "classLevel": 2,
+    "specification": "(fl, ob, cl)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-2-35431",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Baryton Trio #4",
+    "composer": "Haydn",
+    "arranger": "Gibson",
+    "publishers": [
+      "JPM Music Publications"
+    ],
+    "publisherText": "JPM Music Publications",
+    "classLevel": 2,
+    "specification": "(play all) (fl, cl, alto sax)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-2-12250",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Divertimento",
+    "composer": "Haydn",
+    "arranger": "Merriman",
+    "publishers": [
+      "Southern Music Company"
+    ],
+    "publisherText": "Southern Music Company",
+    "classLevel": 2,
+    "specification": "(2 b-flat cl, bass cl or bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-2-11440",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Finale",
+    "composer": "Haydn",
+    "arranger": "Voxman",
+    "publishers": [
+      "Rubank, Inc. [Chamber Music for Three Woodwinds, Vol. II]"
+    ],
+    "publisherText": "Rubank, Inc. [Chamber Music for Three Woodwinds, Vol. II]",
+    "classLevel": 2,
+    "specification": "(fl, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-2-11532",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Finale",
+    "composer": "Haydn",
+    "arranger": "Voxman",
+    "publishers": [
+      "Rubank, Inc. [Chamber Music for Three Woodwinds, Vol. II]"
+    ],
+    "publisherText": "Rubank, Inc. [Chamber Music for Three Woodwinds, Vol. II]",
+    "classLevel": 2,
+    "specification": "(ob, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-2-35117",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Finale From Trio #107",
+    "composer": "Haydn",
+    "arranger": "Kaisershot",
+    "publishers": [
+      "Kendor Music, Inc."
+    ],
+    "publisherText": "Kendor Music, Inc.",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-2-26426",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Finale from Trio #107",
+    "composer": "Haydn",
+    "arranger": "Kaisershot",
+    "publishers": [
+      "Kendor Music, Inc."
+    ],
+    "publisherText": "Kendor Music, Inc.",
+    "classLevel": 2,
+    "specification": "(fl, ob, cl)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-2-26427",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Finale from Trio #84",
+    "composer": "Haydn",
+    "arranger": "Kaisershot",
+    "publishers": [
+      "Kendor Music, Inc."
+    ],
+    "publisherText": "Kendor Music, Inc.",
+    "classLevel": 2,
+    "specification": "(fl, ob, cl)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-2-26428",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Finale from Trio #90",
+    "composer": "Haydn",
+    "arranger": "Kaisershot",
+    "publishers": [
+      "Kendor Music, Inc."
+    ],
+    "publisherText": "Kendor Music, Inc.",
+    "classLevel": 2,
+    "specification": "(fl, ob, cl)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-2-11482",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Menuetto",
+    "composer": "Haydn",
+    "arranger": "Voxman",
+    "publishers": [
+      "Rubank, Inc. [Chamber Music for Three Woodwinds, Vol. 1]"
+    ],
+    "publisherText": "Rubank, Inc. [Chamber Music for Three Woodwinds, Vol. 1]",
+    "classLevel": 2,
+    "specification": "(fl, ob, cl)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-2-11533",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Menuetto",
+    "composer": "Haydn",
+    "arranger": "Voxman",
+    "publishers": [
+      "Rubank, Inc. [Chamber Music for Three Woodwinds, Vol. II]"
+    ],
+    "publisherText": "Rubank, Inc. [Chamber Music for Three Woodwinds, Vol. II]",
+    "classLevel": 2,
+    "specification": "(ob, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-2-11441",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Minuetto",
+    "composer": "Haydn",
+    "arranger": "Voxman",
+    "publishers": [
+      "Rubank, Inc. [Chamber Music for Three Woodwinds, Vol. II]"
+    ],
+    "publisherText": "Rubank, Inc. [Chamber Music for Three Woodwinds, Vol. II]",
+    "classLevel": 2,
+    "specification": "(fl, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-2-23378",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Presto",
+    "composer": "Haydn",
+    "arranger": "Leeuwen/Andraud",
+    "publishers": [
+      "Southern Music Company [Eighteen Trios from Classic Masters]"
+    ],
+    "publisherText": "Southern Music Company [Eighteen Trios from Classic Masters]",
+    "classLevel": 2,
+    "specification": "(# 12) (w/ repeats) (fl, ob, cl)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-2-11534",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "American Folk Suite",
+    "composer": "Hervig",
+    "arranger": "Voxman",
+    "publishers": [
+      "Rubank, Inc. [Chamber Music for Three Woodwinds, Vol. II]"
+    ],
+    "publisherText": "Rubank, Inc. [Chamber Music for Three Woodwinds, Vol. II]",
+    "classLevel": 2,
+    "specification": "(ob, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-2-11442",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Little Suite",
+    "composer": "Horvit",
+    "arranger": "",
+    "publishers": [
+      "Templeton Publishing Company, Inc."
+    ],
+    "publisherText": "Templeton Publishing Company, Inc.",
+    "classLevel": 2,
+    "specification": "(play any one mvt. Choose from mvt. 1, 3, 4, or 6) (fl, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-2-33777",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Cinq Pieces en Trio",
+    "composer": "Ibert",
+    "arranger": "",
+    "publishers": [
+      "Masters Music Publications",
+      "Masters Music Publications"
+    ],
+    "publisherText": "Masters Music Publications;Masters Music Publications",
+    "classLevel": 2,
+    "specification": "(play one mvt) (ob, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-2-35429",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Frivolity",
+    "composer": "Isca",
+    "arranger": "",
+    "publishers": [
+      "JPM Music Publications"
+    ],
+    "publisherText": "JPM Music Publications",
+    "classLevel": 2,
+    "specification": "(fl, fl or ob, bsn or bass cl)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-2-35428",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Jubilation, Theme and Metamorphosis",
+    "composer": "Isca",
+    "arranger": "",
+    "publishers": [
+      "JPM Music Publications"
+    ],
+    "publisherText": "JPM Music Publications",
+    "classLevel": 2,
+    "specification": "(fl, ob or clar, bsn or bass cl)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-2-35430",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Les Papillons",
+    "composer": "Isca",
+    "arranger": "",
+    "publishers": [
+      "JPM Music Publications"
+    ],
+    "publisherText": "JPM Music Publications",
+    "classLevel": 2,
+    "specification": "(fl, ob or clar, bsn or bass cl)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-2-11483",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Two Dances",
+    "composer": "Koepke",
+    "arranger": "Voxman",
+    "publishers": [
+      "Rubank, Inc. [Chamber Music for Three Woodwinds, Vol. 1]"
+    ],
+    "publisherText": "Rubank, Inc. [Chamber Music for Three Woodwinds, Vol. 1]",
+    "classLevel": 2,
+    "specification": "(fl, ob, cl)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-2-11443",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Divertimento in Bb Op. 12a",
+    "composer": "Kotschau",
+    "arranger": "Voxman",
+    "publishers": [
+      "Rubank, Inc."
+    ],
+    "publisherText": "Rubank, Inc.",
+    "classLevel": 2,
+    "specification": "(play mvt 2 or 3 ) (fl, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-2-11535",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Larghetto",
+    "composer": "Kotschau",
+    "arranger": "Voxman",
+    "publishers": [
+      "Rubank, Inc. [Chamber Music for Three Woodwinds, Vol. II]"
+    ],
+    "publisherText": "Rubank, Inc. [Chamber Music for Three Woodwinds, Vol. II]",
+    "classLevel": 2,
+    "specification": "(ob, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-2-23379",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Musette",
+    "composer": "Le Clair",
+    "arranger": "Leeuwen/Andraud",
+    "publishers": [
+      "Southern Music Company [Eighteen Trios from Classic Masters]"
+    ],
+    "publisherText": "Southern Music Company [Eighteen Trios from Classic Masters]",
+    "classLevel": 2,
+    "specification": "(fl, ob, cl)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-2-35427",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "The Darkend Woods",
+    "composer": "Lendt",
+    "arranger": "",
+    "publishers": [
+      "JPM Music Publications"
+    ],
+    "publisherText": "JPM Music Publications",
+    "classLevel": 2,
+    "specification": "(fl, cl, cl or alto sax)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-2-11536",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Gavotte",
+    "composer": "Martini",
+    "arranger": "Lester",
+    "publishers": [
+      "JTL Publications, G. Scott Music Publishing Co."
+    ],
+    "publisherText": "JTL Publications, G. Scott Music Publishing Co.",
+    "classLevel": 2,
+    "specification": "(ob, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-2-11485",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Trail to Sunny Point",
+    "composer": "McKay",
+    "arranger": "",
+    "publishers": [
+      "C.L. Barnhouse Company"
+    ],
+    "publisherText": "C.L. Barnhouse Company",
+    "classLevel": 2,
+    "specification": "(fl, ob, cl)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-2-11537",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Trail to Sunny Point",
+    "composer": "McKay",
+    "arranger": "",
+    "publishers": [
+      "C.L. Barnhouse Company"
+    ],
+    "publisherText": "C.L. Barnhouse Company",
+    "classLevel": 2,
+    "specification": "(ob, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-2-23380",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Les Moutons, Gavotte Celebre",
+    "composer": "Milhaud",
+    "arranger": "Leeuwen/Andraud",
+    "publishers": [
+      "Southern Music Company [Eighteen Trios from Classic Masters]"
+    ],
+    "publisherText": "Southern Music Company [Eighteen Trios from Classic Masters]",
+    "classLevel": 2,
+    "specification": "(fl, ob, cl)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-2-11486",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Adagio",
+    "composer": "Mozart",
+    "arranger": "Voxman",
+    "publishers": [
+      "Rubank, Inc. [Chamber Music for Three Woodwinds, Vol. 1]"
+    ],
+    "publisherText": "Rubank, Inc. [Chamber Music for Three Woodwinds, Vol. 1]",
+    "classLevel": 2,
+    "specification": "(fl, ob, cl)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-2-23377",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Adagio",
+    "composer": "Mozart",
+    "arranger": "Leeuwen/Andraud",
+    "publishers": [
+      "Southern Music Company [Eighteen Trios from Classic Masters]"
+    ],
+    "publisherText": "Southern Music Company [Eighteen Trios from Classic Masters]",
+    "classLevel": 2,
+    "specification": "(# 10) (fl, ob, cl)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-2-31416",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Adagio and Allegro from Sonatina No. 3",
+    "composer": "Mozart",
+    "arranger": "Pappas",
+    "publishers": [
+      "JPM Music Publications"
+    ],
+    "publisherText": "JPM Music Publications",
+    "classLevel": 2,
+    "specification": "(2 cl, hn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-2-11487",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Larghetto",
+    "composer": "Mozart",
+    "arranger": "Voxman",
+    "publishers": [
+      "Rubank, Inc. [Chamber Music for Three Woodwinds, Vol. 1]"
+    ],
+    "publisherText": "Rubank, Inc. [Chamber Music for Three Woodwinds, Vol. 1]",
+    "classLevel": 2,
+    "specification": "(fl, ob, cl)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-2-11488",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Menuetto",
+    "composer": "Mozart",
+    "arranger": "Voxman",
+    "publishers": [
+      "Rubank, Inc. [Chamber Music for Three Woodwinds, Vol. 1]"
+    ],
+    "publisherText": "Rubank, Inc. [Chamber Music for Three Woodwinds, Vol. 1]",
+    "classLevel": 2,
+    "specification": "(fl, ob, cl)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-2-11444",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Two German Dances",
+    "composer": "Mozart",
+    "arranger": "Voxman",
+    "publishers": [
+      "Rubank, Inc. [Chamber Music for Three Woodwinds, Vol. II]"
+    ],
+    "publisherText": "Rubank, Inc. [Chamber Music for Three Woodwinds, Vol. II]",
+    "classLevel": 2,
+    "specification": "(fl, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-2-11538",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Two German Dances",
+    "composer": "Mozart",
+    "arranger": "Voxman",
+    "publishers": [
+      "Rubank, Inc. [Chamber Music for Three Woodwinds, Vol. II]"
+    ],
+    "publisherText": "Rubank, Inc. [Chamber Music for Three Woodwinds, Vol. II]",
+    "classLevel": 2,
+    "specification": "(ob, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-2-11489",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Arioso",
+    "composer": "Ostransky",
+    "arranger": "Voxman",
+    "publishers": [
+      "Rubank, Inc. [Chamber Music for Three Woodwinds, Vol. 1]"
+    ],
+    "publisherText": "Rubank, Inc. [Chamber Music for Three Woodwinds, Vol. 1]",
+    "classLevel": 2,
+    "specification": "(fl, ob, cl)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-2-11490",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Trio in g minor",
+    "composer": "Ostransky",
+    "arranger": "",
+    "publishers": [
+      "Rubank, Inc."
+    ],
+    "publisherText": "Rubank, Inc.",
+    "classLevel": 2,
+    "specification": "(play one mvt) (fl, ob, cl)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-2-26553",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Three Pieces Op. 65",
+    "composer": "Prokofiev",
+    "arranger": "Schmidt",
+    "publishers": [
+      "Western International Music, Inc."
+    ],
+    "publisherText": "Western International Music, Inc.",
+    "classLevel": 2,
+    "specification": "(cl, bn, hn), (ob, e-hn, bn), or (2 b-flat cl, bass cl)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-2-11445",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Waltz and March",
+    "composer": "Prokofiev",
+    "arranger": "Schmidt",
+    "publishers": [
+      "Western International Music, Inc."
+    ],
+    "publisherText": "Western International Music, Inc.",
+    "classLevel": 2,
+    "specification": "(play one mvt) (fl, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-2-23376",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Rigodon de Dardanus",
+    "composer": "Rameau",
+    "arranger": "Leeuwen/Andraud",
+    "publishers": [
+      "Southern Music Company [Eighteen Trios from Classic Masters]"
+    ],
+    "publisherText": "Southern Music Company [Eighteen Trios from Classic Masters]",
+    "classLevel": 2,
+    "specification": "(fl, ob, cl)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-2-12267",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Barcarolle",
+    "composer": "Scarmolin",
+    "arranger": "",
+    "publishers": [
+      "Ludwig Music Publishing Company"
+    ],
+    "publisherText": "Ludwig Music Publishing Company",
+    "classLevel": 2,
+    "specification": "(2 b-flat cl, bass cl or bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-2-11446",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Preludes",
+    "composer": "Schostakovich",
+    "arranger": "",
+    "publishers": [
+      "Edition Musicus-New York, Inc."
+    ],
+    "publisherText": "Edition Musicus-New York, Inc.",
+    "classLevel": 2,
+    "specification": "(fl, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-2-11539",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Menuet",
+    "composer": "Schubert",
+    "arranger": "Voxman",
+    "publishers": [
+      "Rubank, Inc. [Chamber Music for Three Woodwinds, Vol. II]"
+    ],
+    "publisherText": "Rubank, Inc. [Chamber Music for Three Woodwinds, Vol. II]",
+    "classLevel": 2,
+    "specification": "(ob, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-2-35426",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Three Madrigals",
+    "composer": "Schultz",
+    "arranger": "Gregory",
+    "publishers": [
+      "JW Pepper"
+    ],
+    "publisherText": "JW Pepper",
+    "classLevel": 2,
+    "specification": "(play all) (2 fl, cl)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-2-11540",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Three Miniatures for Three Woodwinds",
+    "composer": "Spratt",
+    "arranger": "",
+    "publishers": [
+      "Jack Spratt Music Publishers"
+    ],
+    "publisherText": "Jack Spratt Music Publishers",
+    "classLevel": 2,
+    "specification": "(ob, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-2-12256",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Twenty Two Masterworks for Woodwind Trio",
+    "composer": "Various",
+    "arranger": "James",
+    "publishers": [
+      "Shawnee Press"
+    ],
+    "publisherText": "Shawnee Press",
+    "classLevel": 2,
+    "specification": "(play two) (any published combination)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-2-11491",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Little Trio",
+    "composer": "von Kreisler",
+    "arranger": "",
+    "publishers": [
+      "Southern Music Company"
+    ],
+    "publisherText": "Southern Music Company",
+    "classLevel": 2,
+    "specification": "(play one mvt) (fl, ob, cl)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-2-11492",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Three Pastels",
+    "composer": "von Kreisler",
+    "arranger": "",
+    "publishers": [
+      "Southern Music Company"
+    ],
+    "publisherText": "Southern Music Company",
+    "classLevel": 2,
+    "specification": "(play # 2 or 3) (fl, ob, cl)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-1-11460",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Divertimento Op. 37",
+    "composer": "Arnold",
+    "arranger": "",
+    "publishers": [
+      "Paterson's Publications"
+    ],
+    "publisherText": "Paterson's Publications",
+    "classLevel": 1,
+    "specification": "(play two mvts) (fl, ob, cl)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-1-33774",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Trio",
+    "composer": "Auric",
+    "arranger": "",
+    "publishers": [
+      "Jeanne Inc."
+    ],
+    "publisherText": "Jeanne Inc.",
+    "classLevel": 1,
+    "specification": "(ob, clar, bsn) (play 1 & 2 OR 2 & 3)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-1-29711",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "15 Sinfonias -Three Part Inventions- Invention 15, BWV 801, 1723",
+    "composer": "Bach",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 1,
+    "specification": "(fl, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-1-29732",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Aria (from Cantata 1 from Wir schoen leuchet der Morgenstem, BWV 1)",
+    "composer": "Bach",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 1,
+    "specification": "(ob, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-1-29709",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Aria (from Cantata 68, BWV 68)",
+    "composer": "Bach",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 1,
+    "specification": "(fl, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-1-29717",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Aria (from Cantata No. 10, BWV 10, 1724)",
+    "composer": "Bach",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 1,
+    "specification": "(fl, ob, cl)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-1-29718",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Aria (from Cantata No. 12, BWV 12, 1714)",
+    "composer": "Bach",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 1,
+    "specification": "(fl, ob, cl)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-1-29731",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Aria (from Cantata No. 12, BWV 12, 1714)",
+    "composer": "Bach",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 1,
+    "specification": "(ob, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-1-11409",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Canonic Fugue",
+    "composer": "Bach",
+    "arranger": "Glasel",
+    "publishers": [
+      "Chamber Music Library"
+    ],
+    "publisherText": "Chamber Music Library",
+    "classLevel": 1,
+    "specification": "(written for ob, cl, bsn - ok to subst fl for ob) (fl, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-1-29733",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Cantata No .99 - What God Doth, That is Rightly Done, BWV 99",
+    "composer": "Bach",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 1,
+    "specification": "(ob, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-1-29720",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Fughetta (from Prelude and Fughetta, BWV 900)",
+    "composer": "Bach",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 1,
+    "specification": "(fl, ob, cl)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-1-29737",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Fugue (from Prelude and Fugue in b minor, BWV 544)",
+    "composer": "Bach",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 1,
+    "specification": "(ob, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-1-29795",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Fugue (from Prelude and Fugue in b minor, BWV 544)",
+    "composer": "Bach",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 1,
+    "specification": "(fl, ob, bn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-1-29710",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Fugue (from Prelude and Fugue in g minor, BWV 535)",
+    "composer": "Bach",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 1,
+    "specification": "(fl, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-1-29738",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Fugue in a minor (from Organ Works, BWV 947)",
+    "composer": "Bach",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 1,
+    "specification": "(ob, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-1-29734",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Jesus My Joy (from Kimberger Organ Chorale Preludes, BWV 713, 1708)",
+    "composer": "Bach",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 1,
+    "specification": "(ob, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-1-29736",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Trio Sonata No. 5 (from Six Trio Sonatas, BWV 529)",
+    "composer": "Bach",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 1,
+    "specification": "(play mvt 3) (ob, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-1-29725",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Trio Sonata No. 5, BWV 529",
+    "composer": "Bach",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 1,
+    "specification": "(play mvt 3) (fl, ob, cl)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-1-29735",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Trio Sonata No. 6 (from Six Trio Sonatas, BWV 530)",
+    "composer": "Bach",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 1,
+    "specification": "(play mvt 3) (ob, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-1-23369",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Two Gavottes",
+    "composer": "Bach",
+    "arranger": "Leeuwen/Andraud",
+    "publishers": [
+      "Southern Music Company [Eighteen Trios from Classic Masters]"
+    ],
+    "publisherText": "Southern Music Company [Eighteen Trios from Classic Masters]",
+    "classLevel": 1,
+    "specification": "(fl, ob, cl)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-1-12196",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Prelude and Fugue",
+    "composer": "Beethoven",
+    "arranger": "Merriman",
+    "publishers": [
+      "Southern Music Company"
+    ],
+    "publisherText": "Southern Music Company",
+    "classLevel": 1,
+    "specification": "(2 b-flat cl, bass cl or bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-1-11461",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Trio Op. 87",
+    "composer": "Beethoven",
+    "arranger": "",
+    "publishers": [
+      "Carl Fischer, Inc."
+    ],
+    "publisherText": "Carl Fischer, Inc.",
+    "classLevel": 1,
+    "specification": "(play mvt 1 or 2) (fl, ob, cl)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-1-12199",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Variations on La ci Darem",
+    "composer": "Beethoven",
+    "arranger": "Merriman",
+    "publishers": [
+      "Southern Music Company"
+    ],
+    "publisherText": "Southern Music Company",
+    "classLevel": 1,
+    "specification": "(2 b-flat cl, bass cl or bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-1-11410",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Variations on the Theme La ci darem la mano",
+    "composer": "Beethoven",
+    "arranger": "",
+    "publishers": [
+      "Musica Rara"
+    ],
+    "publisherText": "Musica Rara",
+    "classLevel": 1,
+    "specification": "(fl, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-1-11462",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Suite",
+    "composer": "Bialosky",
+    "arranger": "",
+    "publishers": [
+      "Pillin Music"
+    ],
+    "publisherText": "Pillin Music",
+    "classLevel": 1,
+    "specification": "(play two mvts) (fl, ob, cl)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-1-11507",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Divertissement",
+    "composer": "Boutry",
+    "arranger": "",
+    "publishers": [
+      "Alphonse Leduc"
+    ],
+    "publisherText": "Alphonse Leduc",
+    "classLevel": 1,
+    "specification": "(play one mvt) (ob, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-1-11411",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Petite Trio",
+    "composer": "Bove",
+    "arranger": "",
+    "publishers": [
+      "Carl Fischer, Inc."
+    ],
+    "publisherText": "Carl Fischer, Inc.",
+    "classLevel": 1,
+    "specification": "(fl, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-1-11508",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Suite Breve en Trio",
+    "composer": "Bozza",
+    "arranger": "",
+    "publishers": [
+      "Alphonse Leduc"
+    ],
+    "publisherText": "Alphonse Leduc",
+    "classLevel": 1,
+    "specification": "(play two mvts) (ob, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-1-34472",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Rustiques",
+    "composer": "Canteloube",
+    "arranger": "",
+    "publishers": [
+      "Paris : Editions de l'Oiseau-lyre"
+    ],
+    "publisherText": "Paris : Editions de l'Oiseau-lyre",
+    "classLevel": 1,
+    "specification": "(ob, clar, bsn) (play one mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-1-11412",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Four Miniatures",
+    "composer": "Cheetham",
+    "arranger": "",
+    "publishers": [
+      "Shawnee Press"
+    ],
+    "publisherText": "Shawnee Press",
+    "classLevel": 1,
+    "specification": "(play mvts 2, 3 & 4) (fl, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-1-11413",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Sonatina",
+    "composer": "Clementi",
+    "arranger": "Elkan",
+    "publishers": [
+      "Henri Elkan"
+    ],
+    "publisherText": "Henri Elkan",
+    "classLevel": 1,
+    "specification": "(omit repeats) (fl, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-1-11509",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Chamber Sonata Op. 2 No. 2",
+    "composer": "Corelli",
+    "arranger": "Auslender",
+    "publishers": [
+      "Brightstar Music Publishers"
+    ],
+    "publisherText": "Brightstar Music Publishers",
+    "classLevel": 1,
+    "specification": "(play all) (ob, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-1-12202",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Chamber Sonata Op. 2 No. 2",
+    "composer": "Corelli",
+    "arranger": "Schmidt",
+    "publishers": [
+      "Western International Music, Inc."
+    ],
+    "publisherText": "Western International Music, Inc.",
+    "classLevel": 1,
+    "specification": "(play mvts 1 & 3, or 1 & 2, or all) (2 b-flat cl, bass cl)/(2 fl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-1-11414",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Les Tourbillons",
+    "composer": "Dandrieu",
+    "arranger": "Seay",
+    "publishers": [
+      "Jack Spratt Music Publishers"
+    ],
+    "publisherText": "Jack Spratt Music Publishers",
+    "classLevel": 1,
+    "specification": "(any published combination)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-1-11510",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Les Tourbillons",
+    "composer": "Dandrieu",
+    "arranger": "Seay",
+    "publishers": [
+      "Jack Spratt Music Publishers"
+    ],
+    "publisherText": "Jack Spratt Music Publishers",
+    "classLevel": 1,
+    "specification": "(ob, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-1-23367",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "La Joyeuse (The Merry Maiden)",
+    "composer": "Daquin",
+    "arranger": "Leeuwen/Andraud",
+    "publishers": [
+      "Southern Music Company [Eighteen Trios from Classic Masters]"
+    ],
+    "publisherText": "Southern Music Company [Eighteen Trios from Classic Masters]",
+    "classLevel": 1,
+    "specification": "(fl, ob, cl)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-1-23374",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Aubade",
+    "composer": "De Wailly",
+    "arranger": "Leeuwen/Andraud/Voxman/",
+    "publishers": [
+      "Southern Music Company [Eighteen Trios from Classic Masters]",
+      "Rubank, Inc."
+    ],
+    "publisherText": "Southern Music Company [Eighteen Trios from Classic Masters];Rubank, Inc.",
+    "classLevel": 1,
+    "specification": "(fl, ob, cl)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-1-11415",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Trios Op. 61",
+    "composer": "Devienne",
+    "arranger": "",
+    "publishers": [
+      "Eulenberg"
+    ],
+    "publisherText": "Eulenberg",
+    "classLevel": 1,
+    "specification": "(play two mvts of one trio) (fl, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-1-34464",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Trio D'Anches for oboe, clarinet, and bassoon",
+    "composer": "Dubois",
+    "arranger": "",
+    "publishers": [
+      "Alphonse Leduc"
+    ],
+    "publisherText": "Alphonse Leduc",
+    "classLevel": 1,
+    "specification": "(ob, clar, bsn) (play one mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-1-11416",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Canzonetta",
+    "composer": "Dussek",
+    "arranger": "Elkan",
+    "publishers": [
+      "Henri Elkan"
+    ],
+    "publisherText": "Henri Elkan",
+    "classLevel": 1,
+    "specification": "(fl, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-1-34467",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Two Creole Songs",
+    "composer": "Elliot",
+    "arranger": "",
+    "publishers": [
+      "Southern Music Company"
+    ],
+    "publisherText": "Southern Music Company",
+    "classLevel": 1,
+    "specification": "(ob, clar, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-1-34616",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Maschere",
+    "composer": "Farkas",
+    "arranger": "",
+    "publishers": [
+      "Hal Leonard Corporation/Editio Musica Budapest"
+    ],
+    "publisherText": "Hal Leonard Corporation/Editio Musica Budapest",
+    "classLevel": 1,
+    "specification": "(ob, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-1-11417",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Concert Suite",
+    "composer": "Flegier",
+    "arranger": "Voxman",
+    "publishers": [
+      "Rubank, Inc."
+    ],
+    "publisherText": "Rubank, Inc.",
+    "classLevel": 1,
+    "specification": "(play two mvts) (fl, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-1-11512",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Divertissement",
+    "composer": "Francaix",
+    "arranger": "",
+    "publishers": [
+      "Schott Company"
+    ],
+    "publisherText": "Schott Company",
+    "classLevel": 1,
+    "specification": "(ob, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-1-11464",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Suite",
+    "composer": "Goeb",
+    "arranger": "",
+    "publishers": [
+      "Peer/Southern Organization"
+    ],
+    "publisherText": "Peer/Southern Organization",
+    "classLevel": 1,
+    "specification": "(play two mvts) (fl, ob, cl)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-1-11465",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Fantasia on Lasst Uns Erfreunen",
+    "composer": "Halferty",
+    "arranger": "",
+    "publishers": [
+      "Kendor Music, Inc."
+    ],
+    "publisherText": "Kendor Music, Inc.",
+    "classLevel": 1,
+    "specification": "(fl, ob, cl)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-1-11418",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Fire Work Music Suite",
+    "composer": "Handel",
+    "arranger": "Elkan",
+    "publishers": [
+      "Henri Elkan"
+    ],
+    "publisherText": "Henri Elkan",
+    "classLevel": 1,
+    "specification": "(play two mvts) (fl, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-1-11419",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Sonata",
+    "composer": "Handel",
+    "arranger": "Williams",
+    "publishers": [
+      "Southern Music Company"
+    ],
+    "publisherText": "Southern Music Company",
+    "classLevel": 1,
+    "specification": "(fl, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-1-11513",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Sonata",
+    "composer": "Handel",
+    "arranger": "Williams",
+    "publishers": [
+      "Southern Music Company"
+    ],
+    "publisherText": "Southern Music Company",
+    "classLevel": 1,
+    "specification": "(ob, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-1-12207",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Sonata in D Major",
+    "composer": "Handel",
+    "arranger": "Coopersmith/LaRue",
+    "publishers": [
+      "Mercury Music Corporation"
+    ],
+    "publisherText": "Mercury Music Corporation",
+    "classLevel": 1,
+    "specification": "(2 b-flat cl, hn) (play mvt 1, plus one other mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-1-34671",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Trio for Flute, Oboe, & Clarinet",
+    "composer": "Harris",
+    "arranger": "",
+    "publishers": [
+      "Queens Temple Publications"
+    ],
+    "publisherText": "Queens Temple Publications",
+    "classLevel": 1,
+    "specification": "(fl, ob, cl) (play four mvts)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-1-34568",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Three Cousins",
+    "composer": "Haspiel",
+    "arranger": "",
+    "publishers": [
+      "JPM Music Publications"
+    ],
+    "publisherText": "JPM Music Publications",
+    "classLevel": 1,
+    "specification": "(fl, cl, alto sax)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-1-23371",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Allegro from Trio No. 1",
+    "composer": "Haydn",
+    "arranger": "Leeuwen/Andraud",
+    "publishers": [
+      "Southern Music Company [Eighteen Trios from Classic Masters]"
+    ],
+    "publisherText": "Southern Music Company [Eighteen Trios from Classic Masters]",
+    "classLevel": 1,
+    "specification": "(fl, ob, cl)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-1-11420",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Four London Trios",
+    "composer": "Haydn",
+    "arranger": "Moyse",
+    "publishers": [
+      "Southern Music Company"
+    ],
+    "publisherText": "Southern Music Company",
+    "classLevel": 1,
+    "specification": "(play two mvts from trio 1 or 3, or all of trio 2 or 4) (fl, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-1-23373",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Presto",
+    "composer": "Haydn",
+    "arranger": "Leeuwen/Andraud",
+    "publishers": [
+      "Southern Music Company [Eighteen Trios from Classic Masters]"
+    ],
+    "publisherText": "Southern Music Company [Eighteen Trios from Classic Masters]",
+    "classLevel": 1,
+    "specification": "(# 13) (w/ repeats) (fl, ob, cl)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-1-23370",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Trio No. 1",
+    "composer": "Haydn",
+    "arranger": "Leeuwen/Andraud",
+    "publishers": [
+      "Southern Music Company [Eighteen Trios from Classic Masters]"
+    ],
+    "publisherText": "Southern Music Company [Eighteen Trios from Classic Masters]",
+    "classLevel": 1,
+    "specification": "(fl, ob, cl)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-1-34466",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Trio No. 1, Op. 30",
+    "composer": "Huguenin",
+    "arranger": "",
+    "publishers": [
+      "Rosewood Publications"
+    ],
+    "publisherText": "Rosewood Publications",
+    "classLevel": 1,
+    "specification": "(ob, clar, bsn) (play two mvts)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-1-33776",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Cinq Pieces en Trio",
+    "composer": "Ibert",
+    "arranger": "",
+    "publishers": [
+      "Masters Music Publications",
+      "Masters Music Publications"
+    ],
+    "publisherText": "Masters Music Publications;Masters Music Publications",
+    "classLevel": 1,
+    "specification": "Play any 3 mvts. (ob, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-1-34465",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Trio",
+    "composer": "Jacob",
+    "arranger": "",
+    "publishers": [
+      "Musica Rara"
+    ],
+    "publisherText": "Musica Rara",
+    "classLevel": 1,
+    "specification": "(ob, clar, bsn) (play two mvts)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-1-11514",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Trio",
+    "composer": "Jongen",
+    "arranger": "",
+    "publishers": [
+      "Southern Music Company"
+    ],
+    "publisherText": "Southern Music Company",
+    "classLevel": 1,
+    "specification": "(play one mvt) (ob, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-1-11466",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Trio",
+    "composer": "Kibbe",
+    "arranger": "",
+    "publishers": [
+      "Shawnee Press"
+    ],
+    "publisherText": "Shawnee Press",
+    "classLevel": 1,
+    "specification": "(play two mvts) (fl, ob, cl)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-1-11421",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Divertimento in Bb Op. 12a",
+    "composer": "Kotschau",
+    "arranger": "Voxman",
+    "publishers": [
+      "Rubank, Inc."
+    ],
+    "publisherText": "Rubank, Inc.",
+    "classLevel": 1,
+    "specification": "(play mvt 1, 4 or 5) (fl, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-1-11467",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Ronde des Lutins",
+    "composer": "Kriens",
+    "arranger": "",
+    "publishers": [
+      "Carl Fischer, Inc."
+    ],
+    "publisherText": "Carl Fischer, Inc.",
+    "classLevel": 1,
+    "specification": "(fl, ob, cl)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-1-11468",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Sonatina Op. 20 No. 1",
+    "composer": "Kuhlau",
+    "arranger": "Tustin",
+    "publishers": [
+      "Jack Spratt Music Publishers"
+    ],
+    "publisherText": "Jack Spratt Music Publishers",
+    "classLevel": 1,
+    "specification": "(fl, ob, cl)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-1-11422",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Trio in F Op. 32",
+    "composer": "Kummer",
+    "arranger": "Voxman",
+    "publishers": [
+      "Rubank, Inc."
+    ],
+    "publisherText": "Rubank, Inc.",
+    "classLevel": 1,
+    "specification": "(fl, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-1-29749",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Suite Pour Trio D'Anches, Opus 47",
+    "composer": "Labey",
+    "arranger": "",
+    "publishers": [
+      "International Music Diffusion"
+    ],
+    "publisherText": "International Music Diffusion",
+    "classLevel": 1,
+    "specification": "(ob, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-1-11515",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Trio",
+    "composer": "Laburda",
+    "arranger": "",
+    "publishers": [
+      "Southern Music Company"
+    ],
+    "publisherText": "Southern Music Company",
+    "classLevel": 1,
+    "specification": "(ob, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-1-11516",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Chamber Music for Three Winds",
+    "composer": "Lee",
+    "arranger": "",
+    "publishers": [
+      "Shawnee Press"
+    ],
+    "publisherText": "Shawnee Press",
+    "classLevel": 1,
+    "specification": "(ob, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-1-23372",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Allegro",
+    "composer": "Lotti",
+    "arranger": "Leeuwen/Andraud",
+    "publishers": [
+      "Southern Music Company [Eighteen Trios from Classic Masters]"
+    ],
+    "publisherText": "Southern Music Company [Eighteen Trios from Classic Masters]",
+    "classLevel": 1,
+    "specification": "(fl, ob, cl)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-1-11423",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Trio",
+    "composer": "Maxwell",
+    "arranger": "",
+    "publishers": [
+      "Western International Music, Inc."
+    ],
+    "publisherText": "Western International Music, Inc.",
+    "classLevel": 1,
+    "specification": "(play one mvt) (fl, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-1-11424",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "12 Bagatelles",
+    "composer": "Mayr",
+    "arranger": "",
+    "publishers": [
+      "Edition Kneusslin Basel"
+    ],
+    "publisherText": "Edition Kneusslin Basel",
+    "classLevel": 1,
+    "specification": "(play three mvts) (fl, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-1-33775",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Pastorale",
+    "composer": "Milhaud",
+    "arranger": "",
+    "publishers": [
+      "Masters Music Publications",
+      "LudwigMasters Publications"
+    ],
+    "publisherText": "Masters Music Publications;LudwigMasters Publications",
+    "classLevel": 1,
+    "specification": "(ob, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-1-23368",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Tambourin",
+    "composer": "Mondonville",
+    "arranger": "Leeuwen/Andraud",
+    "publishers": [
+      "Southern Music Company [Eighteen Trios from Classic Masters]"
+    ],
+    "publisherText": "Southern Music Company [Eighteen Trios from Classic Masters]",
+    "classLevel": 1,
+    "specification": "(fl, ob, cl)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-1-34468",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Brush Strokes",
+    "composer": "Morris",
+    "arranger": "",
+    "publishers": [
+      "TrevCo Music Publishing"
+    ],
+    "publisherText": "TrevCo Music Publishing",
+    "classLevel": 1,
+    "specification": "(fl, ob, bsn) (play two mvts)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-1-34469",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Nik Nak",
+    "composer": "Morris",
+    "arranger": "",
+    "publishers": [
+      "TrevCo Music Publishing"
+    ],
+    "publisherText": "TrevCo Music Publishing",
+    "classLevel": 1,
+    "specification": "(ob, clar, bsn) (play one mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-1-23366",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Adagio",
+    "composer": "Mozart",
+    "arranger": "Leeuwen/Andraud",
+    "publishers": [
+      "Southern Music Company [Eighteen Trios from Classic Masters]"
+    ],
+    "publisherText": "Southern Music Company [Eighteen Trios from Classic Masters]",
+    "classLevel": 1,
+    "specification": "(# 2) (fl, ob, cl)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-1-12220",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Divertimenti Nos. 4 and 5 in Bb",
+    "composer": "Mozart",
+    "arranger": "",
+    "publishers": [
+      "Musica Rara"
+    ],
+    "publisherText": "Musica Rara",
+    "classLevel": 1,
+    "specification": "(play one) (2 b-flat cl, bn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-1-12222",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Divertimento No. 3 in Bb",
+    "composer": "Mozart",
+    "arranger": "",
+    "publishers": [
+      "Musica Rara"
+    ],
+    "publisherText": "Musica Rara",
+    "classLevel": 1,
+    "specification": "(2 b-flat cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-1-11469",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Larghetto",
+    "composer": "Mozart",
+    "arranger": "Leeuwen/Andraud",
+    "publishers": [
+      "Southern Music Company [Eighteen Trios from Classic Masters]"
+    ],
+    "publisherText": "Southern Music Company [Eighteen Trios from Classic Masters]",
+    "classLevel": 1,
+    "specification": "(fl, ob, cl)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-1-11425",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Fragments",
+    "composer": "Muczynski",
+    "arranger": "",
+    "publishers": [
+      "Shawnee Press"
+    ],
+    "publisherText": "Shawnee Press",
+    "classLevel": 1,
+    "specification": "(play two mvts) (fl, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-1-11470",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Trio in g minor",
+    "composer": "Ostransky",
+    "arranger": "",
+    "publishers": [
+      "Rubank, Inc."
+    ],
+    "publisherText": "Rubank, Inc.",
+    "classLevel": 1,
+    "specification": "(play two mvts) (fl, ob, cl)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-1-11426",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Trio Op. 80",
+    "composer": "Peeters",
+    "arranger": "",
+    "publishers": [
+      "C.F. Peters Corporation"
+    ],
+    "publisherText": "C.F. Peters Corporation",
+    "classLevel": 1,
+    "specification": "(fl, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-1-33773",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Bucolique Variee",
+    "composer": "Pierne",
+    "arranger": "",
+    "publishers": [
+      "Editions Costallat"
+    ],
+    "publisherText": "Editions Costallat",
+    "classLevel": 1,
+    "specification": "(ob, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-1-11427",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Three Pieces",
+    "composer": "Piston",
+    "arranger": "",
+    "publishers": [
+      "Associated Music Publishers Inc."
+    ],
+    "publisherText": "Associated Music Publishers Inc.",
+    "classLevel": 1,
+    "specification": "(play two mvts) (fl, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-1-26425",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Allegro Con Brio",
+    "composer": "Robinson",
+    "arranger": "",
+    "publishers": [
+      "RBC Publications"
+    ],
+    "publisherText": "RBC Publications",
+    "classLevel": 1,
+    "specification": "(fl, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-1-11517",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Diversions",
+    "composer": "Schickele",
+    "arranger": "",
+    "publishers": [
+      "Editions Bim"
+    ],
+    "publisherText": "Editions Bim",
+    "classLevel": 1,
+    "specification": "(ob, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-1-11428",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Paris 1987",
+    "composer": "Sung",
+    "arranger": "",
+    "publishers": [
+      "Southern Music Company"
+    ],
+    "publisherText": "Southern Music Company",
+    "classLevel": 1,
+    "specification": "(play mvts 1 & 3) (fl, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-1-34471",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Suite pour Trio d'Anches",
+    "composer": "Tansman",
+    "arranger": "",
+    "publishers": [
+      "Eschig (France)"
+    ],
+    "publisherText": "Eschig (France)",
+    "classLevel": 1,
+    "specification": "(ob, clar, bsn) (play two contrasting mvts)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-1-12235",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Reflections",
+    "composer": "Topliff",
+    "arranger": "",
+    "publishers": [
+      "Theodore Presser Company"
+    ],
+    "publisherText": "Theodore Presser Company",
+    "classLevel": 1,
+    "specification": "(2 b-flat cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-1-11471",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Scherzo",
+    "composer": "Tustin",
+    "arranger": "",
+    "publishers": [
+      "C.L. Barnhouse Company"
+    ],
+    "publisherText": "C.L. Barnhouse Company",
+    "classLevel": 1,
+    "specification": "(fl, ob, cl)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-1-11472",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Tarantella",
+    "composer": "Tustin",
+    "arranger": "",
+    "publishers": [
+      "C.L. Barnhouse Company"
+    ],
+    "publisherText": "C.L. Barnhouse Company",
+    "classLevel": 1,
+    "specification": "(fl, ob, cl)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-1-34470",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Trio",
+    "composer": "Villa-Lobos",
+    "arranger": "",
+    "publishers": [
+      "Eschig (France)"
+    ],
+    "publisherText": "Eschig (France)",
+    "classLevel": 1,
+    "specification": "(ob, clar, bsn) (play one mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-1-11475",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Ballet Dance",
+    "composer": "Walker",
+    "arranger": "",
+    "publishers": [
+      "Barn"
+    ],
+    "publisherText": "Barn",
+    "classLevel": 1,
+    "specification": "(fl, ob, cl)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-1-11430",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Three Pieces for Three Woodwinds",
+    "composer": "Washburn",
+    "arranger": "",
+    "publishers": [
+      "Oxford University Press"
+    ],
+    "publisherText": "Oxford University Press",
+    "classLevel": 1,
+    "specification": "(play two) (fl, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-1-12237",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Three Pieces for Three Woodwinds",
+    "composer": "Washburn",
+    "arranger": "",
+    "publishers": [
+      "Oxford University Press"
+    ],
+    "publisherText": "Oxford University Press",
+    "classLevel": 1,
+    "specification": "(play two mvts) (fl, b-flat cl, bass cl)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-1-23375",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Musette",
+    "composer": "d'Hervelois",
+    "arranger": "Leeuwen/Andraud",
+    "publishers": [
+      "Southern Music Company [Eighteen Trios from Classic Masters]"
+    ],
+    "publisherText": "Southern Music Company [Eighteen Trios from Classic Masters]",
+    "classLevel": 1,
+    "specification": "(fl, ob, cl)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-1-11473",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Little Trio",
+    "composer": "von Kreisler",
+    "arranger": "",
+    "publishers": [
+      "Southern Music Company"
+    ],
+    "publisherText": "Southern Music Company",
+    "classLevel": 1,
+    "specification": "(play 1 & 2 or 2 & 3) (fl, ob, cl)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-1-11474",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Three Pastels",
+    "composer": "von Kreisler",
+    "arranger": "",
+    "publishers": [
+      "Southern Music Company"
+    ],
+    "publisherText": "Southern Music Company",
+    "classLevel": 1,
+    "specification": "(play two mvts) (fl, ob, cl)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-1-11429",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Trio",
+    "composer": "von Kreisler",
+    "arranger": "",
+    "publishers": [
+      "Southern Music Company"
+    ],
+    "publisherText": "Southern Music Company",
+    "classLevel": 1,
+    "specification": "(play one mvt) (fl, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "230-1-11518",
+    "instrumentSlug": "woodwind-trio",
+    "instrumentName": "Woodwind Trios",
+    "eventName": "Woodwind Trio",
+    "title": "Trio",
+    "composer": "von Kreisler",
+    "arranger": "",
+    "publishers": [
+      "Southern Music Company"
+    ],
+    "publisherText": "Southern Music Company",
+    "classLevel": 1,
+    "specification": "(play one mvt) (ob, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  }
+]

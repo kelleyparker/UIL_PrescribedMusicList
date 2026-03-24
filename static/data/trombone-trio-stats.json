@@ -1,0 +1,22 @@
+{
+  "schoolYear": "2025-2026",
+  "instrumentSlug": "trombone-trio",
+  "instrumentName": "Trombone Trios",
+  "songCount": 94,
+  "publisherCount": 95,
+  "noteCount": 1,
+  "databaseRecordCount": 95,
+  "classBreakdown": {
+    "3": 32,
+    "2": 30,
+    "1": 32
+  },
+  "noMemoryRequiredCount": 0,
+  "publicDomainPdfCount": 0,
+  "eventBreakdown": {
+    "Trombone Trio": 94
+  },
+  "notes": {
+    "dataset_audit": "Sourced from https://www.uiltexas.org/pml/ and https://www.uiltexas.org/pml/pml.php. Imported 2026-03-24T22:04:46.439978+00:00."
+  }
+}

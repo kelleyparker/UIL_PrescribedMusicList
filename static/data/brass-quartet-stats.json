@@ -1,0 +1,22 @@
+{
+  "schoolYear": "2025-2026",
+  "instrumentSlug": "brass-quartet",
+  "instrumentName": "Brass Quartets",
+  "songCount": 236,
+  "publisherCount": 236,
+  "noteCount": 1,
+  "databaseRecordCount": 237,
+  "classBreakdown": {
+    "3": 53,
+    "2": 91,
+    "1": 92
+  },
+  "noMemoryRequiredCount": 0,
+  "publicDomainPdfCount": 0,
+  "eventBreakdown": {
+    "Brass Quartet": 236
+  },
+  "notes": {
+    "dataset_audit": "Sourced from https://www.uiltexas.org/pml/ and https://www.uiltexas.org/pml/pml.php. Imported 2026-03-24T22:04:46.471476+00:00."
+  }
+}

@@ -1,6 +1,6 @@
 # UIL Prescribed Music List Solos
 
-This project is a lightweight Python website for browsing UIL Prescribed Music List solo datasets for piano, clarinet family, French horn, saxophone family, trombone, trumpet, tuba, flute, oboe, bassoon, alto saxophone, violin, viola, cello, string bass, euphonium, piccolo, English horn, snare drum, timpani, keyboard percussion, multiple percussion, drum set, and steel pan, with a GitHub Pages deployment and a monthly GitHub Actions sync.
+This project is a lightweight Python website for browsing UIL Prescribed Music List solo and small-ensemble datasets for piano, woodwinds, brass, percussion, and strings, with a GitHub Pages deployment and a monthly GitHub Actions sync.
 
 ## Run locally
 
@@ -39,6 +39,40 @@ Then open `http://127.0.0.1:8000`.
   - `data/uil_multiple_percussion_solos_source.csv`
   - `data/uil_drum_set_solos_source.csv`
   - `data/uil_steel_pan_solos_source.csv`
+  - `data/uil_woodwind_trio_source.csv`
+  - `data/uil_flute_trio_source.csv`
+  - `data/uil_bb_clarinet_trio_source.csv`
+  - `data/uil_mixed_clarinet_trio_source.csv`
+  - `data/uil_woodwind_quartet_source.csv`
+  - `data/uil_flute_quartet_source.csv`
+  - `data/uil_bb_clarinet_quartet_source.csv`
+  - `data/uil_mixed_clarinet_quartet_source.csv`
+  - `data/uil_saxophone_quartet_source.csv`
+  - `data/uil_woodwind_quintet_source.csv`
+  - `data/uil_misc_woodwind_ensemble_source.csv`
+  - `data/uil_double_reed_ensemble_source.csv`
+  - `data/uil_flute_choir_source.csv`
+  - `data/uil_clarinet_choir_source.csv`
+  - `data/uil_misc_saxophone_ensemble_source.csv`
+  - `data/uil_trumpet_trio_source.csv`
+  - `data/uil_trombone_trio_source.csv`
+  - `data/uil_euphonium_baritone_trio_source.csv`
+  - `data/uil_brass_trio_source.csv`
+  - `data/uil_trumpet_quartet_source.csv`
+  - `data/uil_horn_quartet_source.csv`
+  - `data/uil_euphonium_baritone_quartet_source.csv`
+  - `data/uil_brass_quartet_source.csv`
+  - `data/uil_trombone_quartet_source.csv`
+  - `data/uil_tuba_euphonium_quartet_source.csv`
+  - `data/uil_brass_quintet_source.csv`
+  - `data/uil_brass_sextet_source.csv`
+  - `data/uil_six_or_more_brass_source.csv`
+  - `data/uil_trumpet_choir_source.csv`
+  - `data/uil_misc_horn_ensemble_source.csv`
+  - `data/uil_trombone_choir_source.csv`
+  - `data/uil_percussion_ensemble_source.csv`
+  - `data/uil_steel_band_source.csv`
+  - `data/uil_misc_mixed_ensemble_source.csv`
 
 ## Update pipeline
 

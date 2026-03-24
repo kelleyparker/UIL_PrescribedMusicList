@@ -1,0 +1,2630 @@
+[
+  {
+    "uilCode": "277-3-29798",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Bachiana Suite No. 1",
+    "composer": "Bach",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 3,
+    "specification": "5-AATTB (play mvt 3)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-3-35077",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Prelude No. 4",
+    "composer": "Bach",
+    "arranger": "Davies",
+    "publishers": [
+      "Saxtet"
+    ],
+    "publisherText": "Saxtet",
+    "classLevel": 3,
+    "specification": "5-SAA(t)TB",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-3-35071",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Ave Maria",
+    "composer": "Bruckner",
+    "arranger": "Marlatt",
+    "publishers": [
+      "Eighth Note Publications"
+    ],
+    "publisherText": "Eighth Note Publications",
+    "classLevel": 3,
+    "specification": "9-SAAAAATTB",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-3-35082",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Prayer and Alleluia Offertorium: Inveni David",
+    "composer": "Bruckner",
+    "arranger": "Marlatt",
+    "publishers": [
+      "Eighth Note Publications"
+    ],
+    "publisherText": "Eighth Note Publications",
+    "classLevel": 3,
+    "specification": "10-SSAAAATTTB + percussion",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-3-12276",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Sailor's Song",
+    "composer": "Couperin",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 3,
+    "specification": "5-AATTB",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-3-12278",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Five Trios, Vol. III",
+    "composer": "Druschetzky",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 3,
+    "specification": "3-AAT (play Moderato, plus one mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-3-35084",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Waltz",
+    "composer": "Grieg",
+    "arranger": "Stoutamire & Henderson",
+    "publishers": [
+      "Alfred Music Company, Inc. [Trios for All]"
+    ],
+    "publisherText": "Alfred Music Company, Inc. [Trios for All]",
+    "classLevel": 3,
+    "specification": "3-any published combination",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-3-35075",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Simple or What?",
+    "composer": "Gumbley",
+    "arranger": "",
+    "publishers": [
+      "Saxtet"
+    ],
+    "publisherText": "Saxtet",
+    "classLevel": 3,
+    "specification": "6-SAAATB (any published combination)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-3-35488",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Trio No. 1 in Ab Minor",
+    "composer": "Haspiel",
+    "arranger": "",
+    "publishers": [
+      "JPM Music Publications"
+    ],
+    "publisherText": "JPM Music Publications",
+    "classLevel": 3,
+    "specification": "3-AAT",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-3-35489",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Haydn Gems",
+    "composer": "Haydn",
+    "arranger": "Conley",
+    "publishers": [
+      "JPM Music Publications"
+    ],
+    "publisherText": "JPM Music Publications",
+    "classLevel": 3,
+    "specification": "3-AAT",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-3-35085",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Dance",
+    "composer": "Kabalevsky",
+    "arranger": "Stoutamire & Henderson",
+    "publishers": [
+      "Alfred Music Company, Inc. [Trios for All]"
+    ],
+    "publisherText": "Alfred Music Company, Inc. [Trios for All]",
+    "classLevel": 3,
+    "specification": "3-any published combination",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-3-35072",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Crucifixus",
+    "composer": "Lotti",
+    "arranger": "Jolly",
+    "publishers": [
+      "Saxtet"
+    ],
+    "publisherText": "Saxtet",
+    "classLevel": 3,
+    "specification": "8-SSAATTBB (any published combination)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-3-34077",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "The King's Pipes",
+    "composer": "Matthews",
+    "arranger": "",
+    "publishers": [
+      "Wingert/Jones"
+    ],
+    "publisherText": "Wingert/Jones",
+    "classLevel": 3,
+    "specification": "3-AAA or AAT",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-3-35081",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "American Patrol",
+    "composer": "Meacham",
+    "arranger": "Contorno",
+    "publishers": [
+      "Kendor Music, Inc."
+    ],
+    "publisherText": "Kendor Music, Inc.",
+    "classLevel": 3,
+    "specification": "3-AAT",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-3-12285",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Presto (from Div. No. 12)",
+    "composer": "Mozart",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 3,
+    "specification": "3-AAT",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-3-34078",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Three Kanons",
+    "composer": "Mozart",
+    "arranger": "Perks",
+    "publishers": [
+      "BRS Music"
+    ],
+    "publisherText": "BRS Music",
+    "classLevel": 3,
+    "specification": "3-SAA, SAT, SAB, AAA, AAT, or AAB",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-3-34079",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "When Yule-Tide Comes (Nar Jola Kjem)",
+    "composer": "Olsen/Grainger",
+    "arranger": "Griggs",
+    "publishers": [
+      "RBC Publications"
+    ],
+    "publisherText": "RBC Publications",
+    "classLevel": 3,
+    "specification": "3-SAT or AAT",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-3-35491",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Allegro Moderato",
+    "composer": "Pappas",
+    "arranger": "",
+    "publishers": [
+      "JPM Music Publications"
+    ],
+    "publisherText": "JPM Music Publications",
+    "classLevel": 3,
+    "specification": "3-three like saxes",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-3-35490",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Morning's First Light",
+    "composer": "Pappas",
+    "arranger": "",
+    "publishers": [
+      "JPM Music Publications"
+    ],
+    "publisherText": "JPM Music Publications",
+    "classLevel": 3,
+    "specification": "3-three like saxes",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-3-34092",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Trio in b minor",
+    "composer": "Pappas",
+    "arranger": "",
+    "publishers": [
+      "JPM Music Publications"
+    ],
+    "publisherText": "JPM Music Publications",
+    "classLevel": 3,
+    "specification": "3-AAA or TTT",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-3-35078",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Arcadia",
+    "composer": "Penman",
+    "arranger": "",
+    "publishers": [
+      "Saxtet"
+    ],
+    "publisherText": "Saxtet",
+    "classLevel": 3,
+    "specification": "6-S(a)AAA(t)TB",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-3-35076",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Taking Off!",
+    "composer": "Penman",
+    "arranger": "",
+    "publishers": [
+      "Saxtet"
+    ],
+    "publisherText": "Saxtet",
+    "classLevel": 3,
+    "specification": "6-SAAATB (any published combination) (Play one mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-3-12286",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Rigaudon (from Pieces de Clavecin, 1724)",
+    "composer": "Rameau",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 3,
+    "specification": "3-AAT",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-3-35079",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "All Because of You",
+    "composer": "Street",
+    "arranger": "",
+    "publishers": [
+      "Saxtet"
+    ],
+    "publisherText": "Saxtet",
+    "classLevel": 3,
+    "specification": "5-SAATB",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-3-35074",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Avalon Suite",
+    "composer": "Street",
+    "arranger": "",
+    "publishers": [
+      "Saxtet"
+    ],
+    "publisherText": "Saxtet",
+    "classLevel": 3,
+    "specification": "8- SAAATTBB (play one Movement)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-3-35083",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Kamarinskaia",
+    "composer": "Tchaikovsky",
+    "arranger": "Stoutamire & Henderson",
+    "publishers": [
+      "Alfred Music Company, Inc. [Trios for All]"
+    ],
+    "publisherText": "Alfred Music Company, Inc. [Trios for All]",
+    "classLevel": 3,
+    "specification": "3-any published combination",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-3-35073",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Dowd's Favorite",
+    "composer": "Traditional",
+    "arranger": "Crockford",
+    "publishers": [
+      "Saxtet"
+    ],
+    "publisherText": "Saxtet",
+    "classLevel": 3,
+    "specification": "8-SSAATTBB (any published combination)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-3-34081",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Moonrise",
+    "composer": "Walters",
+    "arranger": "",
+    "publishers": [
+      "Rubank, Inc."
+    ],
+    "publisherText": "Rubank, Inc.",
+    "classLevel": 3,
+    "specification": "6-AAATTB",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-3-35080",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "So We Too",
+    "composer": "Wood",
+    "arranger": "",
+    "publishers": [
+      "Saxtet"
+    ],
+    "publisherText": "Saxtet",
+    "classLevel": 3,
+    "specification": "5- S(a)AA(t)TB",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-3-34175",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Twenty Two Masterworks for Saxophone Trio",
+    "composer": "various",
+    "arranger": "James",
+    "publishers": [
+      "Shawnee Press"
+    ],
+    "publisherText": "Shawnee Press",
+    "classLevel": 3,
+    "specification": "(play 1 selection) (any published combination)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-2-29790",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Aria (from Cantata No. 29, BWV 29, 1731)",
+    "composer": "Bach",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 2,
+    "specification": "5-AATTB",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-2-29791",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Aria (from Cantata No. 36, BWV 36, 1726)",
+    "composer": "Bach",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 2,
+    "specification": "5-AATTB",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-2-29789",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Aria (from Cantata No. 44, BWV 44, 1724)",
+    "composer": "Bach",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 2,
+    "specification": "5-AATTB",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-2-29797",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Bachiana Suite No. 1",
+    "composer": "Bach",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 2,
+    "specification": "5-AATTB (play mvt 1, plus mvt 2 or 4)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-2-29788",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Come Savior of the Gentiles- Chorale Prelude for Organ, BWV 661, 1708",
+    "composer": "Bach",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 2,
+    "specification": "5-AATTB",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-2-35060",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Fugue No.9 from the Well-Tempered Clavier BWV 878",
+    "composer": "Bach",
+    "arranger": "Poor",
+    "publishers": [
+      "Eighth Note Publications"
+    ],
+    "publisherText": "Eighth Note Publications",
+    "classLevel": 2,
+    "specification": "5-SAATB",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-2-35063",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Fugue in G minor",
+    "composer": "Bach",
+    "arranger": "Davies",
+    "publishers": [
+      "Saxtet"
+    ],
+    "publisherText": "Saxtet",
+    "classLevel": 2,
+    "specification": "5-SAA(t)TB OR 3-SAT",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-2-35055",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Jesu, Joy of Man's Desiring",
+    "composer": "Bach",
+    "arranger": "Wood",
+    "publishers": [
+      "Saxtet"
+    ],
+    "publisherText": "Saxtet",
+    "classLevel": 2,
+    "specification": "7-S(a)AAATTB",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-2-35046",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Sleepers, Awake!",
+    "composer": "Bach",
+    "arranger": "Bruton",
+    "publishers": [
+      "Saxtet"
+    ],
+    "publisherText": "Saxtet",
+    "classLevel": 2,
+    "specification": "8-SSAATTBB",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-2-12241",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "The Grasshopper's Wedding Saxophone",
+    "composer": "Bartok",
+    "arranger": "Schmidt",
+    "publishers": [
+      "Western International Music, Inc."
+    ],
+    "publisherText": "Western International Music, Inc.",
+    "classLevel": 2,
+    "specification": "3-ATB",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-2-12242",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Vivace",
+    "composer": "Bella",
+    "arranger": "Voxman/Block",
+    "publishers": [
+      "Southern Music Company"
+    ],
+    "publisherText": "Southern Music Company",
+    "classLevel": 2,
+    "specification": "3-AAT",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-2-35047",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Toreador Song",
+    "composer": "Bizet",
+    "arranger": "Tomsett",
+    "publishers": [
+      "Saxtet"
+    ],
+    "publisherText": "Saxtet",
+    "classLevel": 2,
+    "specification": "8-SSAATTBB",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-2-26528",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Czech Suite for Saxophone Trio",
+    "composer": "Blahnik",
+    "arranger": "",
+    "publishers": [
+      "Alliance Publications, Inc."
+    ],
+    "publisherText": "Alliance Publications, Inc.",
+    "classLevel": 2,
+    "specification": "3-AAT",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-2-12243",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Moderato and Allegro",
+    "composer": "Butts",
+    "arranger": "",
+    "publishers": [
+      "Shawnee Press"
+    ],
+    "publisherText": "Shawnee Press",
+    "classLevel": 2,
+    "specification": "3-AAA",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-2-35056",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Celebration Fanfare",
+    "composer": "Byrd",
+    "arranger": "Marlatt",
+    "publishers": [
+      "Eighth Note Publications"
+    ],
+    "publisherText": "Eighth Note Publications",
+    "classLevel": 2,
+    "specification": "6-SAATTB",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-2-35058",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Fantasia No. 3",
+    "composer": "Byrd",
+    "arranger": "Wood",
+    "publishers": [
+      "Saxtet"
+    ],
+    "publisherText": "Saxtet",
+    "classLevel": 2,
+    "specification": "6-SAAATB (any published combination)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-2-35068",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Celebration",
+    "composer": "Coakley",
+    "arranger": "Marlatt",
+    "publishers": [
+      "Eighth Note Publications"
+    ],
+    "publisherText": "Eighth Note Publications",
+    "classLevel": 2,
+    "specification": "10-SAAAATTTBB + percussion",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-2-35051",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Bohemian Dance",
+    "composer": "Debussy",
+    "arranger": "Crockford",
+    "publishers": [
+      "Saxtet"
+    ],
+    "publisherText": "Saxtet",
+    "classLevel": 2,
+    "specification": "8- SSAATTBB (any published combination)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-2-35050",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "The Girl With the Flaxen Hair",
+    "composer": "Debussy",
+    "arranger": "Marlatt",
+    "publishers": [
+      "Eighth Note Publications"
+    ],
+    "publisherText": "Eighth Note Publications",
+    "classLevel": 2,
+    "specification": "8-SAAATTTB (opt. perc)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-2-35052",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Flower Duet from Lakme",
+    "composer": "Delibes",
+    "arranger": "Wood",
+    "publishers": [
+      "Saxtet"
+    ],
+    "publisherText": "Saxtet",
+    "classLevel": 2,
+    "specification": "8- SSAATTBB (any published combination)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-2-12246",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Five Trios, Vol. III",
+    "composer": "Druschetzky",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 2,
+    "specification": "3-AAT (play Moderato, Adagio & Allegro)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-2-35045",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Slavonic Dances No. 8",
+    "composer": "Dvorak",
+    "arranger": "Tomsett",
+    "publishers": [
+      "Saxtet"
+    ],
+    "publisherText": "Saxtet",
+    "classLevel": 2,
+    "specification": "8-SSAATTBB (any published comination)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-2-34069",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Nimrod from Enigma Variations",
+    "composer": "Elgar",
+    "arranger": "Ashley",
+    "publishers": [
+      "Saxtet"
+    ],
+    "publisherText": "Saxtet",
+    "classLevel": 2,
+    "specification": "8-SSAATTBB",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-2-35049",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Canzon Septimi Toni #2",
+    "composer": "Gabrieli",
+    "arranger": "Marlatt",
+    "publishers": [
+      "Eighth Note Publications"
+    ],
+    "publisherText": "Eighth Note Publications",
+    "classLevel": 2,
+    "specification": "8-SSAATTBB",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-2-35067",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Spiritual Variations",
+    "composer": "Graef",
+    "arranger": "",
+    "publishers": [
+      "Advance Music"
+    ],
+    "publisherText": "Advance Music",
+    "classLevel": 2,
+    "specification": "3- any published combination (play one movement)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-2-34070",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Angelus Ad Virginem (The Annunciation Carol)",
+    "composer": "Grainger",
+    "arranger": "Griggs",
+    "publishers": [
+      "RBC Publications"
+    ],
+    "publisherText": "RBC Publications",
+    "classLevel": 2,
+    "specification": "3-SAA",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-2-35062",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Reed Fever",
+    "composer": "Gumbley",
+    "arranger": "",
+    "publishers": [
+      "Saxtet"
+    ],
+    "publisherText": "Saxtet",
+    "classLevel": 2,
+    "specification": "5- S(a)AT(a)TB",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-2-29803",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Two for Three",
+    "composer": "Hall",
+    "arranger": "",
+    "publishers": [
+      "GW`"
+    ],
+    "publisherText": "GW`",
+    "classLevel": 2,
+    "specification": "3-AAA or AAT (play both mvts)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-2-26540",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Pater Noster for Saxophone Choir",
+    "composer": "Handel",
+    "arranger": "Blahnik",
+    "publishers": [
+      "Alliance Publications, Inc."
+    ],
+    "publisherText": "Alliance Publications, Inc.",
+    "classLevel": 2,
+    "specification": "8-AAAATTBB",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-2-35484",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Birdwatchers",
+    "composer": "Haspiel",
+    "arranger": "",
+    "publishers": [
+      "JPM Music Publications"
+    ],
+    "publisherText": "JPM Music Publications",
+    "classLevel": 2,
+    "specification": "3-AAT",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-2-12252",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Menuet and Finale",
+    "composer": "Haydn",
+    "arranger": "Merriman",
+    "publishers": [
+      "C.L. Barnhouse Company"
+    ],
+    "publisherText": "C.L. Barnhouse Company",
+    "classLevel": 2,
+    "specification": "3-AAT",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-2-35059",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Placid",
+    "composer": "Hirsch",
+    "arranger": "",
+    "publishers": [
+      "Hirschmusic Publications"
+    ],
+    "publisherText": "Hirschmusic Publications",
+    "classLevel": 2,
+    "specification": "5-SATTB",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-2-34071",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Andante and Rondo",
+    "composer": "Hook",
+    "arranger": "Gee",
+    "publishers": [
+      "Alfred Music Company, Inc."
+    ],
+    "publisherText": "Alfred Music Company, Inc.",
+    "classLevel": 2,
+    "specification": "3-AAA or AAT",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-2-12254",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Andantino",
+    "composer": "Hook",
+    "arranger": "Voxman/Block",
+    "publishers": [
+      "Southern Music Company"
+    ],
+    "publisherText": "Southern Music Company",
+    "classLevel": 2,
+    "specification": "3-AAT",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-2-35485",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Frivolity",
+    "composer": "Isca",
+    "arranger": "",
+    "publishers": [
+      "JPM Music Publications"
+    ],
+    "publisherText": "JPM Music Publications",
+    "classLevel": 2,
+    "specification": "3-any published combination",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-2-35064",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Tea for Three",
+    "composer": "Levy",
+    "arranger": "",
+    "publishers": [
+      "JW Pepper"
+    ],
+    "publisherText": "JW Pepper",
+    "classLevel": 2,
+    "specification": "3-ATB",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-2-35069",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Concord Fanfare",
+    "composer": "Marlatt",
+    "arranger": "",
+    "publishers": [
+      "Eighth Note Publications"
+    ],
+    "publisherText": "Eighth Note Publications",
+    "classLevel": 2,
+    "specification": "10-SAAAATTTBB + percussion",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-2-12260",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Dance Antique",
+    "composer": "Mason",
+    "arranger": "Gee",
+    "publishers": [
+      "Shawnee Press"
+    ],
+    "publisherText": "Shawnee Press",
+    "classLevel": 2,
+    "specification": "5-SAATB",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-2-35486",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Allegro from Sonatina No. 6",
+    "composer": "Mozart",
+    "arranger": "Pappas",
+    "publishers": [
+      "JPM Music Publications"
+    ],
+    "publisherText": "JPM Music Publications",
+    "classLevel": 2,
+    "specification": "3-ATB",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-2-35066",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Two Fugues",
+    "composer": "Mozart",
+    "arranger": "Wood",
+    "publishers": [
+      "Saxtet"
+    ],
+    "publisherText": "Saxtet",
+    "classLevel": 2,
+    "specification": "3-A(s)T(a)B(bs)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-2-34072",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Peasant Dance",
+    "composer": "Ostransky",
+    "arranger": "",
+    "publishers": [
+      "Hal Leonard/Rubank"
+    ],
+    "publisherText": "Hal Leonard/Rubank",
+    "classLevel": 2,
+    "specification": "3-AAT",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-2-34073",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Three Miniatures",
+    "composer": "Ostransky",
+    "arranger": "",
+    "publishers": [
+      "Hal Leonard/Rubank"
+    ],
+    "publisherText": "Hal Leonard/Rubank",
+    "classLevel": 2,
+    "specification": "3-AAT",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-2-34074",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Three Pieces",
+    "composer": "Ostransky",
+    "arranger": "",
+    "publishers": [
+      "Rubank, Inc."
+    ],
+    "publisherText": "Rubank, Inc.",
+    "classLevel": 2,
+    "specification": "6-AAATTB",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-2-35487",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Moderato e Andantino",
+    "composer": "Pappas",
+    "arranger": "",
+    "publishers": [
+      "JPM Music Publications"
+    ],
+    "publisherText": "JPM Music Publications",
+    "classLevel": 2,
+    "specification": "3-three like saxes",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-2-26548",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Sea Songs",
+    "composer": "Patrick",
+    "arranger": "",
+    "publishers": [
+      "Carl Fischer, Inc."
+    ],
+    "publisherText": "Carl Fischer, Inc.",
+    "classLevel": 2,
+    "specification": "3-ATB",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-2-26549",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Tudor Memories",
+    "composer": "Patrick",
+    "arranger": "",
+    "publishers": [
+      "Carl Fischer, Inc."
+    ],
+    "publisherText": "Carl Fischer, Inc.",
+    "classLevel": 2,
+    "specification": "3-ATB",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-2-26555",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Three Pieces Op. 65",
+    "composer": "Prokofiev",
+    "arranger": "Schmidt",
+    "publishers": [
+      "Western International Music, Inc."
+    ],
+    "publisherText": "Western International Music, Inc.",
+    "classLevel": 2,
+    "specification": "3-STB",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-2-12265",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Menuetto",
+    "composer": "Pugnani",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 2,
+    "specification": "5-AATTB",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-2-26561",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Difference of Opinion",
+    "composer": "Roden",
+    "arranger": "Gee",
+    "publishers": [
+      "Southern Music Publishing Company"
+    ],
+    "publisherText": "Southern Music Publishing Company",
+    "classLevel": 2,
+    "specification": "7-SAAATTB",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-2-26562",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Sinfonia",
+    "composer": "Schmidt",
+    "arranger": "",
+    "publishers": [
+      "Western International Music, Inc."
+    ],
+    "publisherText": "Western International Music, Inc.",
+    "classLevel": 2,
+    "specification": "3-SAB",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-2-34080",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Prelude for Eight",
+    "composer": "Shores",
+    "arranger": "",
+    "publishers": [
+      "RBC Publications"
+    ],
+    "publisherText": "RBC Publications",
+    "classLevel": 2,
+    "specification": "8-AAAATTBB",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-2-34075",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "All in Good Time",
+    "composer": "Street",
+    "arranger": "",
+    "publishers": [
+      "Saxtet"
+    ],
+    "publisherText": "Saxtet",
+    "classLevel": 2,
+    "specification": "7-AAAATTB (optional parts acceptable)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-2-35053",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Avalon Suite",
+    "composer": "Street",
+    "arranger": "",
+    "publishers": [
+      "Saxtet"
+    ],
+    "publisherText": "Saxtet",
+    "classLevel": 2,
+    "specification": "8- SSAATTBB",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-2-35054",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Carnival",
+    "composer": "Street",
+    "arranger": "",
+    "publishers": [
+      "Saxtet"
+    ],
+    "publisherText": "Saxtet",
+    "classLevel": 2,
+    "specification": "7-SAAAT(a)TB",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-2-35061",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Tango",
+    "composer": "Street",
+    "arranger": "",
+    "publishers": [
+      "Saxtet"
+    ],
+    "publisherText": "Saxtet",
+    "classLevel": 2,
+    "specification": "5-SAA(t)TB",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-2-35070",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Skye Boat Song",
+    "composer": "Street/Wood",
+    "arranger": "",
+    "publishers": [
+      "Saxtet"
+    ],
+    "publisherText": "Saxtet",
+    "classLevel": 2,
+    "specification": "10- SSAAATTTBB (any published combination)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-2-26571",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Concerto in G Major",
+    "composer": "Telemann",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 2,
+    "specification": "5-AATTB (play two mvts)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-2-35065",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Sonata VI",
+    "composer": "Telemann",
+    "arranger": "Gregory",
+    "publishers": [
+      "JW Pepper"
+    ],
+    "publisherText": "JW Pepper",
+    "classLevel": 2,
+    "specification": "3-AAT (play all)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-2-35048",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Valse Vanite",
+    "composer": "Wiedoeft",
+    "arranger": "Tomsett",
+    "publishers": [
+      "Saxtet"
+    ],
+    "publisherText": "Saxtet",
+    "classLevel": 2,
+    "specification": "8-SSAATTBB",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-2-35057",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Silver Chalice",
+    "composer": "Wood",
+    "arranger": "",
+    "publishers": [
+      "Saxtet"
+    ],
+    "publisherText": "Saxtet",
+    "classLevel": 2,
+    "specification": "6-SAAATB (any published combination)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-2-34174",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Twenty Two Masterworks for Saxophone Trio",
+    "composer": "various",
+    "arranger": "James",
+    "publishers": [
+      "Shawnee Press"
+    ],
+    "publisherText": "Shawnee Press",
+    "classLevel": 2,
+    "specification": "(play any 2) (any published combination)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-1-29796",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Bachiana Suite No. 1",
+    "composer": "Bach",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 1,
+    "specification": "5-AATTB (play all 4 mvts)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-1-12193",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Fugue in c minor",
+    "composer": "Bach",
+    "arranger": "Schmidt",
+    "publishers": [
+      "Western International Music, Inc."
+    ],
+    "publisherText": "Western International Music, Inc.",
+    "classLevel": 1,
+    "specification": "3-SAB",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-1-34087",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Motette",
+    "composer": "Bach",
+    "arranger": "Gregory",
+    "publishers": [
+      "JW Pepper"
+    ],
+    "publisherText": "JW Pepper",
+    "classLevel": 1,
+    "specification": "8-AAAATTBB",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-1-34088",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Now is the Salvation and the Power",
+    "composer": "Bach",
+    "arranger": "Gregory",
+    "publishers": [
+      "JW Pepper"
+    ],
+    "publisherText": "JW Pepper",
+    "classLevel": 1,
+    "specification": "8-AAAATTBB",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-1-34043",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Allegro from Wind Octet in Eb Major",
+    "composer": "Beethoven",
+    "arranger": "El-Farrah",
+    "publishers": [
+      "Muse Pub (musepub.net)"
+    ],
+    "publisherText": "Muse Pub (musepub.net)",
+    "classLevel": 1,
+    "specification": "8-SSAATTBB",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-1-12198",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Trio Op. 87",
+    "composer": "Beethoven",
+    "arranger": "Teal",
+    "publishers": [
+      "Etoile Music Inc."
+    ],
+    "publisherText": "Etoile Music Inc.",
+    "classLevel": 1,
+    "specification": "3-SAT or ATB (play first or last mvt plus one other mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-1-26529",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Adagio and Allegro for 5 Saxophones",
+    "composer": "Boismortier",
+    "arranger": "Blahnik",
+    "publishers": [
+      "Alliance Publications, Inc."
+    ],
+    "publisherText": "Alliance Publications, Inc.",
+    "classLevel": 1,
+    "specification": "5-SAATB (opt Alto for Sop)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-1-26531",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Notturno",
+    "composer": "Borodin",
+    "arranger": "Schmidt",
+    "publishers": [
+      "Western International Music, Inc."
+    ],
+    "publisherText": "Western International Music, Inc.",
+    "classLevel": 1,
+    "specification": "5-SATTB",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-1-34126",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "What A Friend We Have In Jesus",
+    "composer": "Converse/Scriven",
+    "arranger": "Musella",
+    "publishers": [
+      "RBC Publications"
+    ],
+    "publisherText": "RBC Publications",
+    "classLevel": 1,
+    "specification": "8-Sopranino, SAATTBB (opt. rhythm section)(jazz improv)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-1-34044",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Fughetta",
+    "composer": "Davies",
+    "arranger": "",
+    "publishers": [
+      "Saxtet"
+    ],
+    "publisherText": "Saxtet",
+    "classLevel": 1,
+    "specification": "3-SAT",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-1-34045",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Two Miniatures",
+    "composer": "Davis",
+    "arranger": "",
+    "publishers": [
+      "Saxtet"
+    ],
+    "publisherText": "Saxtet",
+    "classLevel": 1,
+    "specification": "3-ATB",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-1-38554",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "American Quintet",
+    "composer": "Dvorak",
+    "arranger": "Winstead",
+    "publishers": [
+      "Sigma Squared Music Publishing"
+    ],
+    "publisherText": "Sigma Squared Music Publishing",
+    "classLevel": 1,
+    "specification": "SAATB OR SATTB",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-1-34046",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "The Circus Bee",
+    "composer": "Fillmore",
+    "arranger": "Bricault",
+    "publishers": [
+      "BRS Music"
+    ],
+    "publisherText": "BRS Music",
+    "classLevel": 1,
+    "specification": "9-SSAAATTB (opt. Bs, percussion)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-1-12206",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Intrada for Saxophone Sextet",
+    "composer": "Frackenpohl",
+    "arranger": "",
+    "publishers": [
+      "Shawnee Press"
+    ],
+    "publisherText": "Shawnee Press",
+    "classLevel": 1,
+    "specification": "6-SAATBB (opt. Bass sub for 2nd Bari)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-1-34047",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Scherzo for Three Saxophones",
+    "composer": "Frackenpohl",
+    "arranger": "",
+    "publishers": [
+      "Kendor Music, Inc."
+    ],
+    "publisherText": "Kendor Music, Inc.",
+    "classLevel": 1,
+    "specification": "3-SSS, AAA, TTT, or BBB",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-1-26535",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Shepherd's Hey",
+    "composer": "Grainger",
+    "arranger": "Schmidt",
+    "publishers": [
+      "Western International Music, Inc."
+    ],
+    "publisherText": "Western International Music, Inc.",
+    "classLevel": 1,
+    "specification": "5-SAATB",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-1-34048",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Walking Tune",
+    "composer": "Grainger",
+    "arranger": "Bricault",
+    "publishers": [
+      "BRS Music"
+    ],
+    "publisherText": "BRS Music",
+    "classLevel": 1,
+    "specification": "8-SSAATTBB (opt. Bs)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-1-34049",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "E-Type Jig",
+    "composer": "Gumbley",
+    "arranger": "",
+    "publishers": [
+      "Gumbles Publications"
+    ],
+    "publisherText": "Gumbles Publications",
+    "classLevel": 1,
+    "specification": "10-SSAAATTTBB",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-1-34050",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Allemande",
+    "composer": "Handel",
+    "arranger": "Tomsett",
+    "publishers": [
+      "Saxtet"
+    ],
+    "publisherText": "Saxtet",
+    "classLevel": 1,
+    "specification": "3-SAB",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-1-34052",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Octet",
+    "composer": "Hartley",
+    "arranger": "",
+    "publishers": [
+      "Dorn Publishing Co."
+    ],
+    "publisherText": "Dorn Publishing Co.",
+    "classLevel": 1,
+    "specification": "8-SAAATTBBs (play three mvts)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-1-26541",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Trio Concertino",
+    "composer": "Hartley",
+    "arranger": "",
+    "publishers": [
+      "Southern Music Publishing Company"
+    ],
+    "publisherText": "Southern Music Publishing Company",
+    "classLevel": 1,
+    "specification": "3-ATB",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-1-34051",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Trio for Saxophones",
+    "composer": "Hartley",
+    "arranger": "",
+    "publishers": [
+      "Theodore Presser Company"
+    ],
+    "publisherText": "Theodore Presser Company",
+    "classLevel": 1,
+    "specification": "3-ATB (play three mvts)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-1-34082",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Bird of Paradise",
+    "composer": "Haspiel",
+    "arranger": "",
+    "publishers": [
+      "JPM Music Publications"
+    ],
+    "publisherText": "JPM Music Publications",
+    "classLevel": 1,
+    "specification": "5-AATTB",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-1-34084",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Flight into Space",
+    "composer": "Haspiel",
+    "arranger": "",
+    "publishers": [
+      "JPM Music Publications"
+    ],
+    "publisherText": "JPM Music Publications",
+    "classLevel": 1,
+    "specification": "6-AAATTB",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-1-34053",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Jupiter from \"The Planets\"",
+    "composer": "Holst",
+    "arranger": "Cook",
+    "publishers": [
+      "Alun Cook Music"
+    ],
+    "publisherText": "Alun Cook Music",
+    "classLevel": 1,
+    "specification": "8-SSAATTBB (opt. Bs)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-1-12214",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Adagio and Allegretto",
+    "composer": "Hook",
+    "arranger": "Gee",
+    "publishers": [
+      "Southern Music Company"
+    ],
+    "publisherText": "Southern Music Company",
+    "classLevel": 1,
+    "specification": "3-AAA or AAT",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-1-38555",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Maple Leaf Rag",
+    "composer": "Joplin",
+    "arranger": "Winstead",
+    "publishers": [
+      "Sigma Squared Music Publishing"
+    ],
+    "publisherText": "Sigma Squared Music Publishing",
+    "classLevel": 1,
+    "specification": "SAATB",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-1-34091",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Riverwood Dance",
+    "composer": "Lendt",
+    "arranger": "",
+    "publishers": [
+      "JPM Music Publications"
+    ],
+    "publisherText": "JPM Music Publications",
+    "classLevel": 1,
+    "specification": "3-AAT",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-1-34054",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Three Images for Saxophone Octet",
+    "composer": "Love",
+    "arranger": "",
+    "publishers": [
+      "Murphy Music Press"
+    ],
+    "publisherText": "Murphy Music Press",
+    "classLevel": 1,
+    "specification": "8-SSAATTBB (play two mvts)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-1-34055",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Phedre Overture",
+    "composer": "Massanet",
+    "arranger": "Johnson",
+    "publishers": [
+      "Hal Leonard/Rubank"
+    ],
+    "publisherText": "Hal Leonard/Rubank",
+    "classLevel": 1,
+    "specification": "6-AAATTB",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-1-34056",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Sax Circus",
+    "composer": "May",
+    "arranger": "",
+    "publishers": [
+      "Saxtet"
+    ],
+    "publisherText": "Saxtet",
+    "classLevel": 1,
+    "specification": "8-SSAATTBB",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-1-34085",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Full Moon",
+    "composer": "Morris",
+    "arranger": "",
+    "publishers": [
+      "Sandscape Publications"
+    ],
+    "publisherText": "Sandscape Publications",
+    "classLevel": 1,
+    "specification": "5-AATTB",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-1-34086",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Scrumptious",
+    "composer": "Morris",
+    "arranger": "",
+    "publishers": [
+      "Sandscape Publications"
+    ],
+    "publisherText": "Sandscape Publications",
+    "classLevel": 1,
+    "specification": "5-SATTB",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-1-34057",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Allegro from Serenade No. 12",
+    "composer": "Mozart",
+    "arranger": "El-Farrah",
+    "publishers": [
+      "Muse Pub (musepub.net)"
+    ],
+    "publisherText": "Muse Pub (musepub.net)",
+    "classLevel": 1,
+    "specification": "8-SSAATTBB",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-1-35043",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Carols from the Old World",
+    "composer": "Musella",
+    "arranger": "",
+    "publishers": [
+      "RBC Publications"
+    ],
+    "publisherText": "RBC Publications",
+    "classLevel": 1,
+    "specification": "5-SAATB (opt. perc)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-1-34058",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Octet for Saxophones",
+    "composer": "Nagao",
+    "arranger": "",
+    "publishers": [
+      "Brain Co./Bravo Music"
+    ],
+    "publisherText": "Brain Co./Bravo Music",
+    "classLevel": 1,
+    "specification": "8-SSAATTBB (play one mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-1-12224",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Impressions",
+    "composer": "Nash",
+    "arranger": "",
+    "publishers": [
+      "RBC Publications"
+    ],
+    "publisherText": "RBC Publications",
+    "classLevel": 1,
+    "specification": "6-SAATTB",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-1-34083",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "I tene o miei sospiri ( My Sighs Cannot Describe My Feelings)",
+    "composer": "Nenna",
+    "arranger": "Pappas",
+    "publishers": [
+      "JPM Music Publications"
+    ],
+    "publisherText": "JPM Music Publications",
+    "classLevel": 1,
+    "specification": "5-AATTB or SATTB",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-1-34059",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Poem and Dance",
+    "composer": "Ostransky",
+    "arranger": "",
+    "publishers": [
+      "Rubank, Inc."
+    ],
+    "publisherText": "Rubank, Inc.",
+    "classLevel": 1,
+    "specification": "6-AAATTB",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-1-34060",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Three Fugues on the Fourth Tone",
+    "composer": "Pachelbel",
+    "arranger": "Brown",
+    "publishers": [
+      "Western International Music, Inc."
+    ],
+    "publisherText": "Western International Music, Inc.",
+    "classLevel": 1,
+    "specification": "3-ATB",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-1-34090",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Andantino and Allegro",
+    "composer": "Pappas",
+    "arranger": "",
+    "publishers": [
+      "JPM Music Publications"
+    ],
+    "publisherText": "JPM Music Publications",
+    "classLevel": 1,
+    "specification": "3-ATB or AAA or TTT",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-1-26551",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Five for Six - Five Movements for Saxophone Choir",
+    "composer": "Pavel",
+    "arranger": "",
+    "publishers": [
+      "Alliance Publications, Inc."
+    ],
+    "publisherText": "Alliance Publications, Inc.",
+    "classLevel": 1,
+    "specification": "6-SAATTB",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-1-34062",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Sonata No. 4",
+    "composer": "Pergolesi",
+    "arranger": "Schmidt",
+    "publishers": [
+      "Western International Music, Inc."
+    ],
+    "publisherText": "Western International Music, Inc.",
+    "classLevel": 1,
+    "specification": "3-ATB (play two mvts)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-1-26530",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "March (from The Love of Three Oranges)",
+    "composer": "Prokofiev",
+    "arranger": "Schmidt",
+    "publishers": [
+      "Western International Music, Inc."
+    ],
+    "publisherText": "Western International Music, Inc.",
+    "classLevel": 1,
+    "specification": "5-SAATB",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-1-38556",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Adventures of Dreams",
+    "composer": "Rahn",
+    "arranger": "",
+    "publishers": [
+      "Self-Published Music"
+    ],
+    "publisherText": "Self-Published Music",
+    "classLevel": 1,
+    "specification": "SAATB",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-1-26558",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Fugue (from Le Tombeau de Couperin)",
+    "composer": "Ravel",
+    "arranger": "Schmidt",
+    "publishers": [
+      "Western International Music, Inc."
+    ],
+    "publisherText": "Western International Music, Inc.",
+    "classLevel": 1,
+    "specification": "3-SAT",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-1-34065",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Songs of the British Isles",
+    "composer": "Rickards",
+    "arranger": "Wood",
+    "publishers": [
+      "Saxtet"
+    ],
+    "publisherText": "Saxtet",
+    "classLevel": 1,
+    "specification": "7-SAAATTB (play two selections)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-1-12230",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "The Flight of the Bumblebee",
+    "composer": "Rimsky-Korsakov",
+    "arranger": "Schmidt",
+    "publishers": [
+      "Western International Music, Inc."
+    ],
+    "publisherText": "Western International Music, Inc.",
+    "classLevel": 1,
+    "specification": "5-SAATB",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-1-34063",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Witch Hunt",
+    "composer": "Shchultheiss",
+    "arranger": "Wood",
+    "publishers": [
+      "Saxtet"
+    ],
+    "publisherText": "Saxtet",
+    "classLevel": 1,
+    "specification": "8-SSAATTBB",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-1-12234",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Little Gap, Pennsylvania",
+    "composer": "Smith",
+    "arranger": "",
+    "publishers": [
+      "Southern Music Company"
+    ],
+    "publisherText": "Southern Music Company",
+    "classLevel": 1,
+    "specification": "10-SSAAAATTBB",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-1-26567",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Ronde Des Princesses",
+    "composer": "Stravinsky",
+    "arranger": "Schmidt",
+    "publishers": [
+      "Western International Music, Inc."
+    ],
+    "publisherText": "Western International Music, Inc.",
+    "classLevel": 1,
+    "specification": "6-SAATTB",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-1-34064",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Rain Dance",
+    "composer": "Tweed",
+    "arranger": "",
+    "publishers": [
+      "Saxtet"
+    ],
+    "publisherText": "Saxtet",
+    "classLevel": 1,
+    "specification": "7-SAAATTB (sub S, AA, T, B, Bs)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-1-35044",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Man-Mou",
+    "composer": "Wood",
+    "arranger": "",
+    "publishers": [
+      "Saxtet"
+    ],
+    "publisherText": "Saxtet",
+    "classLevel": 1,
+    "specification": "5-SAATB",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-1-34066",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Stemming",
+    "composer": "Wood",
+    "arranger": "",
+    "publishers": [
+      "Saxtet"
+    ],
+    "publisherText": "Saxtet",
+    "classLevel": 1,
+    "specification": "7-SAAATTB",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "277-1-34067",
+    "instrumentSlug": "misc-saxophone-ensemble",
+    "instrumentName": "Miscellaneous Saxophone Ensembles",
+    "eventName": "Miscellaneous Saxophone Ensemble",
+    "title": "Three",
+    "composer": "Woodrow",
+    "arranger": "",
+    "publishers": [
+      "Murphy Music Press"
+    ],
+    "publisherText": "Murphy Music Press",
+    "classLevel": 1,
+    "specification": "3-SAB",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  }
+]

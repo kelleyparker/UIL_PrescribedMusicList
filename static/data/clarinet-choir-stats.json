@@ -1,0 +1,22 @@
+{
+  "schoolYear": "2025-2026",
+  "instrumentSlug": "clarinet-choir",
+  "instrumentName": "Clarinet Choirs",
+  "songCount": 137,
+  "publisherCount": 137,
+  "noteCount": 1,
+  "databaseRecordCount": 138,
+  "classBreakdown": {
+    "3": 24,
+    "2": 31,
+    "1": 82
+  },
+  "noMemoryRequiredCount": 0,
+  "publicDomainPdfCount": 0,
+  "eventBreakdown": {
+    "Clarinet Choir": 137
+  },
+  "notes": {
+    "dataset_audit": "Sourced from https://www.uiltexas.org/pml/ and https://www.uiltexas.org/pml/pml.php. Imported 2026-03-24T22:04:46.421048+00:00."
+  }
+}

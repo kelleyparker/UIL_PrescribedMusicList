@@ -1,0 +1,22 @@
+{
+  "schoolYear": "2025-2026",
+  "instrumentSlug": "mixed-clarinet-trio",
+  "instrumentName": "Mixed Clarinet Trios",
+  "songCount": 43,
+  "publisherCount": 43,
+  "noteCount": 1,
+  "databaseRecordCount": 44,
+  "classBreakdown": {
+    "3": 5,
+    "2": 14,
+    "1": 24
+  },
+  "noMemoryRequiredCount": 0,
+  "publicDomainPdfCount": 0,
+  "eventBreakdown": {
+    "Mixed Clarinet Trio": 43
+  },
+  "notes": {
+    "dataset_audit": "Sourced from https://www.uiltexas.org/pml/ and https://www.uiltexas.org/pml/pml.php. Imported 2026-03-24T22:04:46.348004+00:00."
+  }
+}

@@ -1,0 +1,776 @@
+[
+  {
+    "uilCode": "236-3-12272",
+    "instrumentSlug": "mixed-clarinet-trio",
+    "instrumentName": "Mixed Clarinet Trios",
+    "eventName": "Mixed Clarinet Trio",
+    "title": "Terzetto",
+    "composer": "Bach",
+    "arranger": "Dansby",
+    "publishers": [
+      "Kendor Music, Inc."
+    ],
+    "publisherText": "Kendor Music, Inc.",
+    "classLevel": 3,
+    "specification": "(2 Bb, bass)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "236-3-35745",
+    "instrumentSlug": "mixed-clarinet-trio",
+    "instrumentName": "Mixed Clarinet Trios",
+    "eventName": "Mixed Clarinet Trio",
+    "title": "Three Bach Pieces",
+    "composer": "Bach",
+    "arranger": "Contorno",
+    "publishers": [
+      "Kendor Music, Inc."
+    ],
+    "publisherText": "Kendor Music, Inc.",
+    "classLevel": 3,
+    "specification": "(2 Bb, bass) (play 1st OR 3rd mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "236-3-34841",
+    "instrumentSlug": "mixed-clarinet-trio",
+    "instrumentName": "Mixed Clarinet Trios",
+    "eventName": "Mixed Clarinet Trio",
+    "title": "Little Rondo",
+    "composer": "Bley",
+    "arranger": "",
+    "publishers": [
+      "JPM Music Publications"
+    ],
+    "publisherText": "JPM Music Publications",
+    "classLevel": 3,
+    "specification": "(2 Bb, bass OR Bb, alto, bass)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "236-3-35746",
+    "instrumentSlug": "mixed-clarinet-trio",
+    "instrumentName": "Mixed Clarinet Trios",
+    "eventName": "Mixed Clarinet Trio",
+    "title": "Baryton Trio No. 7 \"Menuet\"",
+    "composer": "Haydn",
+    "arranger": "Gibson",
+    "publishers": [
+      "JPM Music Publications"
+    ],
+    "publisherText": "JPM Music Publications",
+    "classLevel": 3,
+    "specification": "(2 Bb, bass)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "236-3-12284",
+    "instrumentSlug": "mixed-clarinet-trio",
+    "instrumentName": "Mixed Clarinet Trios",
+    "eventName": "Mixed Clarinet Trio",
+    "title": "Minuet and Trio",
+    "composer": "Mozart",
+    "arranger": "Ostling",
+    "publishers": [
+      "Belwin, Inc"
+    ],
+    "publisherText": "Belwin, Inc",
+    "classLevel": 3,
+    "specification": "(Eb, 2 Bb)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "236-2-37258",
+    "instrumentSlug": "mixed-clarinet-trio",
+    "instrumentName": "Mixed Clarinet Trios",
+    "eventName": "Mixed Clarinet Trio",
+    "title": "Jesu Joy of Man's Desiring",
+    "composer": "Bach",
+    "arranger": "Drapkin",
+    "publishers": [
+      "Drapkin Music Publications [Trios for Two Clarinets and Bass Clarinet, Volume 1]"
+    ],
+    "publisherText": "Drapkin Music Publications [Trios for Two Clarinets and Bass Clarinet, Volume 1]",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "236-2-35744",
+    "instrumentSlug": "mixed-clarinet-trio",
+    "instrumentName": "Mixed Clarinet Trios",
+    "eventName": "Mixed Clarinet Trio",
+    "title": "Three Bach Pieces",
+    "composer": "Bach",
+    "arranger": "Contorno",
+    "publishers": [
+      "Kendor Music, Inc."
+    ],
+    "publisherText": "Kendor Music, Inc.",
+    "classLevel": 2,
+    "specification": "(2 Bb, bass) (play two mvts)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "236-2-26437",
+    "instrumentSlug": "mixed-clarinet-trio",
+    "instrumentName": "Mixed Clarinet Trios",
+    "eventName": "Mixed Clarinet Trio",
+    "title": "Wachet auf, ruft uns die Stimme.",
+    "composer": "Bach",
+    "arranger": "Schmidt",
+    "publishers": [
+      "Western International Music, Inc."
+    ],
+    "publisherText": "Western International Music, Inc.",
+    "classLevel": 2,
+    "specification": "(Bb, alto, bass)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "236-2-31414",
+    "instrumentSlug": "mixed-clarinet-trio",
+    "instrumentName": "Mixed Clarinet Trios",
+    "eventName": "Mixed Clarinet Trio",
+    "title": "Three Part Invention",
+    "composer": "Bach, J.S.",
+    "arranger": "Gee",
+    "publishers": [
+      "Kendor Music, Inc."
+    ],
+    "publisherText": "Kendor Music, Inc.",
+    "classLevel": 2,
+    "specification": "(2 Bb, bass)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "236-2-35747",
+    "instrumentSlug": "mixed-clarinet-trio",
+    "instrumentName": "Mixed Clarinet Trios",
+    "eventName": "Mixed Clarinet Trio",
+    "title": "Three Dances",
+    "composer": "Beethoven",
+    "arranger": "Pappas",
+    "publishers": [
+      "JPM Music Publications"
+    ],
+    "publisherText": "JPM Music Publications",
+    "classLevel": 2,
+    "specification": "(2 Bb, bass)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "236-2-35741",
+    "instrumentSlug": "mixed-clarinet-trio",
+    "instrumentName": "Mixed Clarinet Trios",
+    "eventName": "Mixed Clarinet Trio",
+    "title": "Three Baroque Danses",
+    "composer": "Corelli",
+    "arranger": "Pappas",
+    "publishers": [
+      "JPM Music Publications"
+    ],
+    "publisherText": "JPM Music Publications",
+    "classLevel": 2,
+    "specification": "(2 Bb, bass) (play 2nd AND 3rd mvts)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "236-2-12251",
+    "instrumentSlug": "mixed-clarinet-trio",
+    "instrumentName": "Mixed Clarinet Trios",
+    "eventName": "Mixed Clarinet Trio",
+    "title": "Divertimento in Eb",
+    "composer": "Haydn",
+    "arranger": "Voxman",
+    "publishers": [
+      "Rubank, Inc."
+    ],
+    "publisherText": "Rubank, Inc.",
+    "classLevel": 2,
+    "specification": "(2 Bb, bass)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "236-2-37259",
+    "instrumentSlug": "mixed-clarinet-trio",
+    "instrumentName": "Mixed Clarinet Trios",
+    "eventName": "Mixed Clarinet Trio",
+    "title": "First Suite in Eb for Military Band",
+    "composer": "Holst",
+    "arranger": "Drapkin",
+    "publishers": [
+      "Drapkin Music Publications [Trios for Two Clarinets and Bass Clarinet, Volume 1]"
+    ],
+    "publisherText": "Drapkin Music Publications [Trios for Two Clarinets and Bass Clarinet, Volume 1]",
+    "classLevel": 2,
+    "specification": "(play mvt 3)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "236-2-12257",
+    "instrumentSlug": "mixed-clarinet-trio",
+    "instrumentName": "Mixed Clarinet Trios",
+    "eventName": "Mixed Clarinet Trio",
+    "title": "Court Dances",
+    "composer": "Lester",
+    "arranger": "",
+    "publishers": [
+      "JTL Publications, G. Scott Music Publishing Co."
+    ],
+    "publisherText": "JTL Publications, G. Scott Music Publishing Co.",
+    "classLevel": 2,
+    "specification": "(2 Bb, bass) (play Air & Ballet OR Air & Gavotte)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "236-2-35742",
+    "instrumentSlug": "mixed-clarinet-trio",
+    "instrumentName": "Mixed Clarinet Trios",
+    "eventName": "Mixed Clarinet Trio",
+    "title": "Divertimento No. 1",
+    "composer": "Mozart",
+    "arranger": "Gibson",
+    "publishers": [
+      "JPM Music Publications"
+    ],
+    "publisherText": "JPM Music Publications",
+    "classLevel": 2,
+    "specification": "(2 Bb, bass)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "236-2-37260",
+    "instrumentSlug": "mixed-clarinet-trio",
+    "instrumentName": "Mixed Clarinet Trios",
+    "eventName": "Mixed Clarinet Trio",
+    "title": "Divertimento No. 4",
+    "composer": "Mozart",
+    "arranger": "Drapkin",
+    "publishers": [
+      "Drapkin Music Publications [Trios for Two Clarinets and Bass Clarinet, Volume 1]"
+    ],
+    "publisherText": "Drapkin Music Publications [Trios for Two Clarinets and Bass Clarinet, Volume 1]",
+    "classLevel": 2,
+    "specification": "(play 2 mvts)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "236-2-37261",
+    "instrumentSlug": "mixed-clarinet-trio",
+    "instrumentName": "Mixed Clarinet Trios",
+    "eventName": "Mixed Clarinet Trio",
+    "title": "Divertimento No. 5",
+    "composer": "Mozart",
+    "arranger": "Drapkin",
+    "publishers": [
+      "Drapkin Music Publications [Trios for Two Clarinets and Bass Clarinet, Volume 2]"
+    ],
+    "publisherText": "Drapkin Music Publications [Trios for Two Clarinets and Bass Clarinet, Volume 2]",
+    "classLevel": 2,
+    "specification": "(play 2 mvts)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "236-2-34842",
+    "instrumentSlug": "mixed-clarinet-trio",
+    "instrumentName": "Mixed Clarinet Trios",
+    "eventName": "Mixed Clarinet Trio",
+    "title": "Two Dances",
+    "composer": "Pappas",
+    "arranger": "",
+    "publishers": [
+      "JPM Music Publications"
+    ],
+    "publisherText": "JPM Music Publications",
+    "classLevel": 2,
+    "specification": "(2 Bb, bass)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "236-2-11682",
+    "instrumentSlug": "mixed-clarinet-trio",
+    "instrumentName": "Mixed Clarinet Trios",
+    "eventName": "Mixed Clarinet Trio",
+    "title": "Motet Cantate Domino",
+    "composer": "di Lasso",
+    "arranger": "",
+    "publishers": [
+      "Western International Music, Inc."
+    ],
+    "publisherText": "Western International Music, Inc.",
+    "classLevel": 2,
+    "specification": "(2 Bb, bass)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "236-1-12194",
+    "instrumentSlug": "mixed-clarinet-trio",
+    "instrumentName": "Mixed Clarinet Trios",
+    "eventName": "Mixed Clarinet Trio",
+    "title": "J.S. Bach and Sons",
+    "composer": "Bach",
+    "arranger": "Lester",
+    "publishers": [
+      "JTL Publications, G. Scott Music Publishing Co."
+    ],
+    "publisherText": "JTL Publications, G. Scott Music Publishing Co.",
+    "classLevel": 1,
+    "specification": "(2 Bb, bass)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "236-1-37240",
+    "instrumentSlug": "mixed-clarinet-trio",
+    "instrumentName": "Mixed Clarinet Trios",
+    "eventName": "Mixed Clarinet Trio",
+    "title": "Little Fugue in G Minor",
+    "composer": "Bach",
+    "arranger": "Drapkin",
+    "publishers": [
+      "Drapkin Music Publications [Trios for Two Clarinets and Bass Clarinet, Volume 1]"
+    ],
+    "publisherText": "Drapkin Music Publications [Trios for Two Clarinets and Bass Clarinet, Volume 1]",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "236-1-35743",
+    "instrumentSlug": "mixed-clarinet-trio",
+    "instrumentName": "Mixed Clarinet Trios",
+    "eventName": "Mixed Clarinet Trio",
+    "title": "Three Bach Pieces",
+    "composer": "Bach",
+    "arranger": "Contorno",
+    "publishers": [
+      "Kendor Music, Inc."
+    ],
+    "publisherText": "Kendor Music, Inc.",
+    "classLevel": 1,
+    "specification": "(2 Bb, bass)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "236-1-34580",
+    "instrumentSlug": "mixed-clarinet-trio",
+    "instrumentName": "Mixed Clarinet Trios",
+    "eventName": "Mixed Clarinet Trio",
+    "title": "Trio Sonata #1, Mvt. 1 BWV 525",
+    "composer": "Bach",
+    "arranger": "Gregory",
+    "publishers": [
+      "JW Pepper"
+    ],
+    "publisherText": "JW Pepper",
+    "classLevel": 1,
+    "specification": "(2 Bb, bass)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "236-1-37241",
+    "instrumentSlug": "mixed-clarinet-trio",
+    "instrumentName": "Mixed Clarinet Trios",
+    "eventName": "Mixed Clarinet Trio",
+    "title": "March to the Gallows",
+    "composer": "Berlioz",
+    "arranger": "Drapkin",
+    "publishers": [
+      "Drapkin Music Publications [Trios for Two Clarinets and Bass Clarinet, Volume 1]"
+    ],
+    "publisherText": "Drapkin Music Publications [Trios for Two Clarinets and Bass Clarinet, Volume 1]",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "236-1-37251",
+    "instrumentSlug": "mixed-clarinet-trio",
+    "instrumentName": "Mixed Clarinet Trios",
+    "eventName": "Mixed Clarinet Trio",
+    "title": "Military Polonaise",
+    "composer": "Chopin",
+    "arranger": "Drapkin",
+    "publishers": [
+      "Drapkin Music Publications [Trios for Two Clarinets and Bass Clarinet, Volume 2]"
+    ],
+    "publisherText": "Drapkin Music Publications [Trios for Two Clarinets and Bass Clarinet, Volume 2]",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "236-1-34843",
+    "instrumentSlug": "mixed-clarinet-trio",
+    "instrumentName": "Mixed Clarinet Trios",
+    "eventName": "Mixed Clarinet Trio",
+    "title": "Three Baroque Danses",
+    "composer": "Corelli",
+    "arranger": "Pappas",
+    "publishers": [
+      "JPM Music Publications"
+    ],
+    "publisherText": "JPM Music Publications",
+    "classLevel": 1,
+    "specification": "(2 Bb, bass)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "236-1-37242",
+    "instrumentSlug": "mixed-clarinet-trio",
+    "instrumentName": "Mixed Clarinet Trios",
+    "eventName": "Mixed Clarinet Trio",
+    "title": "Fantasia",
+    "composer": "Dowland",
+    "arranger": "Drapkin",
+    "publishers": [
+      "Drapkin Music Publications [Trios for Two Clarinets and Bass Clarinet, Volume 1]"
+    ],
+    "publisherText": "Drapkin Music Publications [Trios for Two Clarinets and Bass Clarinet, Volume 1]",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "236-1-37243",
+    "instrumentSlug": "mixed-clarinet-trio",
+    "instrumentName": "Mixed Clarinet Trios",
+    "eventName": "Mixed Clarinet Trio",
+    "title": "Washington Grays",
+    "composer": "Grafulla",
+    "arranger": "Drapkin",
+    "publishers": [
+      "Drapkin Music Publications [Trios for Two Clarinets and Bass Clarinet, Volume 1]"
+    ],
+    "publisherText": "Drapkin Music Publications [Trios for Two Clarinets and Bass Clarinet, Volume 1]",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "236-1-38496",
+    "instrumentSlug": "mixed-clarinet-trio",
+    "instrumentName": "Mixed Clarinet Trios",
+    "eventName": "Mixed Clarinet Trio",
+    "title": "Trio Sonata",
+    "composer": "Harbison",
+    "arranger": "",
+    "publishers": [
+      "Associated Music Publishers Inc."
+    ],
+    "publisherText": "Associated Music Publishers Inc.",
+    "classLevel": 1,
+    "specification": "(2 Bb, bass)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "236-1-37244",
+    "instrumentSlug": "mixed-clarinet-trio",
+    "instrumentName": "Mixed Clarinet Trios",
+    "eventName": "Mixed Clarinet Trio",
+    "title": "First Suite in Eb for Military Band",
+    "composer": "Holst",
+    "arranger": "Drapkin",
+    "publishers": [
+      "Drapkin Music Publications [Trios for Two Clarinets and Bass Clarinet, Volume 1]"
+    ],
+    "publisherText": "Drapkin Music Publications [Trios for Two Clarinets and Bass Clarinet, Volume 1]",
+    "classLevel": 1,
+    "specification": "(play mvt 1 OR 2)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "236-1-37252",
+    "instrumentSlug": "mixed-clarinet-trio",
+    "instrumentName": "Mixed Clarinet Trios",
+    "eventName": "Mixed Clarinet Trio",
+    "title": "Andante con Moto from Italian Symphony",
+    "composer": "Mendelssohn",
+    "arranger": "Drapkin",
+    "publishers": [
+      "Drapkin Music Publications [Trios for Two Clarinets and Bass Clarinet, Volume 2]"
+    ],
+    "publisherText": "Drapkin Music Publications [Trios for Two Clarinets and Bass Clarinet, Volume 2]",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "236-1-37248",
+    "instrumentSlug": "mixed-clarinet-trio",
+    "instrumentName": "Mixed Clarinet Trios",
+    "eventName": "Mixed Clarinet Trio",
+    "title": "Divertimento No. 1",
+    "composer": "Mozart",
+    "arranger": "Drapkin",
+    "publishers": [
+      "Drapkin Music Publications [Trios for Two Clarinets and Bass Clarinet, Volume 1]"
+    ],
+    "publisherText": "Drapkin Music Publications [Trios for Two Clarinets and Bass Clarinet, Volume 1]",
+    "classLevel": 1,
+    "specification": "(play 1 Menuetto plus 2 mvts)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "236-1-37254",
+    "instrumentSlug": "mixed-clarinet-trio",
+    "instrumentName": "Mixed Clarinet Trios",
+    "eventName": "Mixed Clarinet Trio",
+    "title": "Divertimento No. 3",
+    "composer": "Mozart",
+    "arranger": "Drapkin",
+    "publishers": [
+      "Drapkin Music Publications [Trios for Two Clarinets and Bass Clarinet, Volume 2]"
+    ],
+    "publisherText": "Drapkin Music Publications [Trios for Two Clarinets and Bass Clarinet, Volume 2]",
+    "classLevel": 1,
+    "specification": "(play 2 mvts)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "236-1-37249",
+    "instrumentSlug": "mixed-clarinet-trio",
+    "instrumentName": "Mixed Clarinet Trios",
+    "eventName": "Mixed Clarinet Trio",
+    "title": "Divertimento No. 4",
+    "composer": "Mozart",
+    "arranger": "Drapkin",
+    "publishers": [
+      "Drapkin Music Publications [Trios for Two Clarinets and Bass Clarinet, Volume 1]"
+    ],
+    "publisherText": "Drapkin Music Publications [Trios for Two Clarinets and Bass Clarinet, Volume 1]",
+    "classLevel": 1,
+    "specification": "(play 3 mvts)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "236-1-37255",
+    "instrumentSlug": "mixed-clarinet-trio",
+    "instrumentName": "Mixed Clarinet Trios",
+    "eventName": "Mixed Clarinet Trio",
+    "title": "Divertimento No. 5",
+    "composer": "Mozart",
+    "arranger": "Drapkin",
+    "publishers": [
+      "Drapkin Music Publications [Trios for Two Clarinets and Bass Clarinet, Volume 2]"
+    ],
+    "publisherText": "Drapkin Music Publications [Trios for Two Clarinets and Bass Clarinet, Volume 2]",
+    "classLevel": 1,
+    "specification": "(play 3 mvts)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "236-1-37246",
+    "instrumentSlug": "mixed-clarinet-trio",
+    "instrumentName": "Mixed Clarinet Trios",
+    "eventName": "Mixed Clarinet Trio",
+    "title": "Overture to The Marriage of Figaro",
+    "composer": "Mozart",
+    "arranger": "Drapkin",
+    "publishers": [
+      "Drapkin Music Publications [Trios for Two Clarinets and Bass Clarinet, Volume 1]"
+    ],
+    "publisherText": "Drapkin Music Publications [Trios for Two Clarinets and Bass Clarinet, Volume 1]",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "236-1-37247",
+    "instrumentSlug": "mixed-clarinet-trio",
+    "instrumentName": "Mixed Clarinet Trios",
+    "eventName": "Mixed Clarinet Trio",
+    "title": "Overture to the Abduction from the Seraglio",
+    "composer": "Mozart",
+    "arranger": "Drapkin",
+    "publishers": [
+      "Drapkin Music Publications [Trios for Two Clarinets and Bass Clarinet, Volume 1]"
+    ],
+    "publisherText": "Drapkin Music Publications [Trios for Two Clarinets and Bass Clarinet, Volume 1]",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "236-1-37253",
+    "instrumentSlug": "mixed-clarinet-trio",
+    "instrumentName": "Mixed Clarinet Trios",
+    "eventName": "Mixed Clarinet Trio",
+    "title": "Overture to the Magic Flute",
+    "composer": "Mozart",
+    "arranger": "Drapkin",
+    "publishers": [
+      "Drapkin Music Publications [Trios for Two Clarinets and Bass Clarinet, Volume 2]"
+    ],
+    "publisherText": "Drapkin Music Publications [Trios for Two Clarinets and Bass Clarinet, Volume 2]",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "236-1-37250",
+    "instrumentSlug": "mixed-clarinet-trio",
+    "instrumentName": "Mixed Clarinet Trios",
+    "eventName": "Mixed Clarinet Trio",
+    "title": "Overture to the Barber of Seville",
+    "composer": "Rossini",
+    "arranger": "Drapkin",
+    "publishers": [
+      "Drapkin Music Publications [Trios for Two Clarinets and Bass Clarinet, Volume 1]"
+    ],
+    "publisherText": "Drapkin Music Publications [Trios for Two Clarinets and Bass Clarinet, Volume 1]",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "236-1-26444",
+    "instrumentSlug": "mixed-clarinet-trio",
+    "instrumentName": "Mixed Clarinet Trios",
+    "eventName": "Mixed Clarinet Trio",
+    "title": "Sinfonia",
+    "composer": "Schmidt",
+    "arranger": "",
+    "publishers": [
+      "Western International Music, Inc."
+    ],
+    "publisherText": "Western International Music, Inc.",
+    "classLevel": 1,
+    "specification": "(2 Bb, bass)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "236-1-37257",
+    "instrumentSlug": "mixed-clarinet-trio",
+    "instrumentName": "Mixed Clarinet Trios",
+    "eventName": "Mixed Clarinet Trio",
+    "title": "Finale from Die Fledermaus",
+    "composer": "Strauss",
+    "arranger": "Drapkin",
+    "publishers": [
+      "Drapkin Music Publications [Trios for Two Clarinets and Bass Clarinet, Volume 2]"
+    ],
+    "publisherText": "Drapkin Music Publications [Trios for Two Clarinets and Bass Clarinet, Volume 2]",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "236-1-37256",
+    "instrumentSlug": "mixed-clarinet-trio",
+    "instrumentName": "Mixed Clarinet Trios",
+    "eventName": "Mixed Clarinet Trio",
+    "title": "Overture to Die Fledermaus",
+    "composer": "Strauss",
+    "arranger": "Drapkin",
+    "publishers": [
+      "Drapkin Music Publications [Trios for Two Clarinets and Bass Clarinet, Volume 2]"
+    ],
+    "publisherText": "Drapkin Music Publications [Trios for Two Clarinets and Bass Clarinet, Volume 2]",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "236-1-37245",
+    "instrumentSlug": "mixed-clarinet-trio",
+    "instrumentName": "Mixed Clarinet Trios",
+    "eventName": "Mixed Clarinet Trio",
+    "title": "Under the Double Eagle",
+    "composer": "Wagner",
+    "arranger": "Drapkin",
+    "publishers": [
+      "Drapkin Music Publications [Trios for Two Clarinets and Bass Clarinet, Volume 1]"
+    ],
+    "publisherText": "Drapkin Music Publications [Trios for Two Clarinets and Bass Clarinet, Volume 1]",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  }
+]

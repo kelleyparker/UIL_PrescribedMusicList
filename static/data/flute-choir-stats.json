@@ -1,0 +1,22 @@
+{
+  "schoolYear": "2025-2026",
+  "instrumentSlug": "flute-choir",
+  "instrumentName": "Flute Choirs",
+  "songCount": 144,
+  "publisherCount": 152,
+  "noteCount": 1,
+  "databaseRecordCount": 145,
+  "classBreakdown": {
+    "3": 33,
+    "2": 41,
+    "1": 70
+  },
+  "noMemoryRequiredCount": 0,
+  "publicDomainPdfCount": 0,
+  "eventBreakdown": {
+    "Flute Choir": 144
+  },
+  "notes": {
+    "dataset_audit": "Sourced from https://www.uiltexas.org/pml/ and https://www.uiltexas.org/pml/pml.php. Imported 2026-03-24T22:04:46.414148+00:00."
+  }
+}

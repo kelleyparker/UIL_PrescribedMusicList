@@ -1,0 +1,488 @@
+[
+  {
+    "uilCode": "372-2-36109",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "Allegro from \"Die Bankelsangerlieder",
+    "composer": "Anonymous",
+    "arranger": "Pappas",
+    "publishers": [
+      "JPM Music Publications"
+    ],
+    "publisherText": "JPM Music Publications",
+    "classLevel": 2,
+    "specification": "SEXTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "372-2-36098",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "God Bless America",
+    "composer": "Berlin",
+    "arranger": "Chidester",
+    "publishers": [
+      "www.trumpetensemblemusic.com"
+    ],
+    "publisherText": "www.trumpetensemblemusic.com",
+    "classLevel": 2,
+    "specification": "OCTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "372-2-36099",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "Afferentur Regi",
+    "composer": "Bruckner",
+    "arranger": "",
+    "publishers": [
+      "www.trumpetensemblemusic.com"
+    ],
+    "publisherText": "www.trumpetensemblemusic.com",
+    "classLevel": 2,
+    "specification": "SEPTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "372-2-36100",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "Come Now, Ye Maidens",
+    "composer": "Clement",
+    "arranger": "Pappas",
+    "publishers": [
+      "JPM Music Publications"
+    ],
+    "publisherText": "JPM Music Publications",
+    "classLevel": 2,
+    "specification": "SEXTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "372-2-36101",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "Last Date",
+    "composer": "Cramer",
+    "arranger": "Chidester",
+    "publishers": [
+      "www.trumpetensemblemusic.com"
+    ],
+    "publisherText": "www.trumpetensemblemusic.com",
+    "classLevel": 2,
+    "specification": "SEPTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "372-2-36102",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "Madrigal - Moro lasso al mio duolo",
+    "composer": "Gesualdo",
+    "arranger": "Hickman",
+    "publishers": [
+      "Hickman Music Editions"
+    ],
+    "publisherText": "Hickman Music Editions",
+    "classLevel": 2,
+    "specification": "QUINTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "372-2-14307",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "Madrigal Moro Lasso al mio Duolo",
+    "composer": "Gesualdo",
+    "arranger": "Hickman",
+    "publishers": [
+      "Trigram Music Inc."
+    ],
+    "publisherText": "Trigram Music Inc.",
+    "classLevel": 2,
+    "specification": "QUINTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "372-2-36103",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "Ye Banks and Braes o' Bonnie Doon",
+    "composer": "Grainger",
+    "arranger": "Ford",
+    "publishers": [
+      "Tripolo Press"
+    ],
+    "publisherText": "Tripolo Press",
+    "classLevel": 2,
+    "specification": "SEPTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "372-2-36104",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "Suite for Five Trumpets",
+    "composer": "LoPresti",
+    "arranger": "",
+    "publishers": [
+      "Templeton Publishing Company, Inc."
+    ],
+    "publisherText": "Templeton Publishing Company, Inc.",
+    "classLevel": 2,
+    "specification": "QUINTET (play CHORALE only)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "372-2-36106",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "Wedding March",
+    "composer": "Mendelssohn",
+    "arranger": "Olcott",
+    "publishers": [
+      "Tripolo Press"
+    ],
+    "publisherText": "Tripolo Press",
+    "classLevel": 2,
+    "specification": "QUINTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "372-2-36107",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "Three All Purpose Fanfares",
+    "composer": "Olcott",
+    "arranger": "",
+    "publishers": [
+      "Tripolo Press"
+    ],
+    "publisherText": "Tripolo Press",
+    "classLevel": 2,
+    "specification": "SEXTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "372-2-36108",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "Antiphon for Trumpets",
+    "composer": "Pethel",
+    "arranger": "",
+    "publishers": [
+      "Tripolo Press"
+    ],
+    "publisherText": "Tripolo Press",
+    "classLevel": 2,
+    "specification": "SEXTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "372-2-36110",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "The New Century 2000 A.D",
+    "composer": "Uber",
+    "arranger": "",
+    "publishers": [
+      "Tripolo Press"
+    ],
+    "publisherText": "Tripolo Press",
+    "classLevel": 2,
+    "specification": "SEXTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "372-1-14218",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "Fanfare and Fugue",
+    "composer": "Bach",
+    "arranger": "",
+    "publishers": [
+      "Associated Music Publishers Inc."
+    ],
+    "publisherText": "Associated Music Publishers Inc.",
+    "classLevel": 1,
+    "specification": "QUINTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "372-1-36097",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "If Thou Be Near",
+    "composer": "Bach",
+    "arranger": "",
+    "publishers": [
+      "Tripolo Press"
+    ],
+    "publisherText": "Tripolo Press",
+    "classLevel": 1,
+    "specification": "SEXTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "372-1-36092",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "Os Justi",
+    "composer": "Bruckner",
+    "arranger": "DeGoti",
+    "publishers": [
+      "JPM Music Publications"
+    ],
+    "publisherText": "JPM Music Publications",
+    "classLevel": 1,
+    "specification": "OCTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "372-1-38687",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "METALmorphosis",
+    "composer": "Chambers",
+    "arranger": "",
+    "publishers": [
+      "Aspenwood Music"
+    ],
+    "publisherText": "Aspenwood Music",
+    "classLevel": 1,
+    "specification": "OCTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "372-1-36093",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "Concert Fanfare",
+    "composer": "Ewazen",
+    "arranger": "",
+    "publishers": [
+      "Tripolo Press"
+    ],
+    "publisherText": "Tripolo Press",
+    "classLevel": 1,
+    "specification": "SEXTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "372-1-36094",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "Trumpet Choir No. 1 in G Major",
+    "composer": "Haspiel",
+    "arranger": "",
+    "publishers": [
+      "JPM Music Publications"
+    ],
+    "publisherText": "JPM Music Publications",
+    "classLevel": 1,
+    "specification": "OCTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "372-1-36105",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "Suite for Five Trumpets",
+    "composer": "LoPresti",
+    "arranger": "",
+    "publishers": [
+      "Templeton Publishing Company, Inc."
+    ],
+    "publisherText": "Templeton Publishing Company, Inc.",
+    "classLevel": 1,
+    "specification": "QUINTET (play two mvts)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "372-1-38688",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "Strange Journey",
+    "composer": "Melendez",
+    "arranger": "",
+    "publishers": [
+      "jm1230088@gmail.com"
+    ],
+    "publisherText": "jm1230088@gmail.com",
+    "classLevel": 1,
+    "specification": "SEXTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "372-1-36095",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "Cyclone",
+    "composer": "Morales",
+    "arranger": "",
+    "publishers": [
+      "MoralesMusic.com"
+    ],
+    "publisherText": "MoralesMusic.com",
+    "classLevel": 1,
+    "specification": "QUINTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "372-1-36096",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "Trumpet Clich\u00e9 Souffl\u00e9",
+    "composer": "Patterson",
+    "arranger": "",
+    "publishers": [
+      "assignmentearth@gmail.com"
+    ],
+    "publisherText": "assignmentearth@gmail.com",
+    "classLevel": 1,
+    "specification": "TEN",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "372-1-14457",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "A Greeley Fanfare with Variations",
+    "composer": "Schmidt",
+    "arranger": "",
+    "publishers": [
+      "Western International Music, Inc."
+    ],
+    "publisherText": "Western International Music, Inc.",
+    "classLevel": 1,
+    "specification": "SEXTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "372-1-25390",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "Concerto",
+    "composer": "Telemann",
+    "arranger": "Fabert",
+    "publishers": [
+      "International Music Diffusion"
+    ],
+    "publisherText": "International Music Diffusion",
+    "classLevel": 1,
+    "specification": "QUINTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "372-1-36111",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "Festival Fanfare",
+    "composer": "Turrin",
+    "arranger": "",
+    "publishers": [
+      "jturrin@josephturrin.com"
+    ],
+    "publisherText": "jturrin@josephturrin.com",
+    "classLevel": 1,
+    "specification": "OCTET (opt percussion)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "372-1-36112",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "Labyrinth for Eight Trumpets",
+    "composer": "Turrin",
+    "arranger": "",
+    "publishers": [
+      "jturrin@josephturrin.com"
+    ],
+    "publisherText": "jturrin@josephturrin.com",
+    "classLevel": 1,
+    "specification": "OCTET (flugelhorns opt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  }
+]

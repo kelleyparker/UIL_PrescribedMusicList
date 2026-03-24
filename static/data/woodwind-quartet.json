@@ -1,0 +1,1892 @@
+[
+  {
+    "uilCode": "241-3-12273",
+    "instrumentSlug": "woodwind-quartet",
+    "instrumentName": "Woodwind Quartets",
+    "eventName": "Woodwind Quartet",
+    "title": "Five Easy Pieces",
+    "composer": "Bartok",
+    "arranger": "Schmidt",
+    "publishers": [
+      "Western International Music, Inc."
+    ],
+    "publisherText": "Western International Music, Inc.",
+    "classLevel": 3,
+    "specification": "(play three mvts) (ob, b-flat cl, bsn, hn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "241-3-35471",
+    "instrumentSlug": "woodwind-quartet",
+    "instrumentName": "Woodwind Quartets",
+    "eventName": "Woodwind Quartet",
+    "title": "Turkish March",
+    "composer": "Beethoven",
+    "arranger": "Balent",
+    "publishers": [
+      "Kendor Music, Inc. [Classical FlexQuartets]"
+    ],
+    "publisherText": "Kendor Music, Inc. [Classical FlexQuartets]",
+    "classLevel": 3,
+    "specification": "(any published combination)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "241-3-11742",
+    "instrumentSlug": "woodwind-quartet",
+    "instrumentName": "Woodwind Quartets",
+    "eventName": "Woodwind Quartet",
+    "title": "Three Easy Quartets",
+    "composer": "Brahms",
+    "arranger": "Hunter",
+    "publishers": [
+      "Schott Company"
+    ],
+    "publisherText": "Schott Company",
+    "classLevel": 3,
+    "specification": "(play two) (fl, ob, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "241-3-35463",
+    "instrumentSlug": "woodwind-quartet",
+    "instrumentName": "Woodwind Quartets",
+    "eventName": "Woodwind Quartet",
+    "title": "Two Renaissance Pieces",
+    "composer": "Byrd/Praetorius",
+    "arranger": "Marlatt",
+    "publishers": [
+      "Eighth Note Publications"
+    ],
+    "publisherText": "Eighth Note Publications",
+    "classLevel": 3,
+    "specification": "(play both) (2 fl, 2 cl)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "241-3-35476",
+    "instrumentSlug": "woodwind-quartet",
+    "instrumentName": "Woodwind Quartets",
+    "eventName": "Woodwind Quartet",
+    "title": "So Bheag, Si Mhor",
+    "composer": "Carolan",
+    "arranger": "Haspiel",
+    "publishers": [
+      "JPM Music Publications"
+    ],
+    "publisherText": "JPM Music Publications",
+    "classLevel": 3,
+    "specification": "(any published combination)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "241-3-12274",
+    "instrumentSlug": "woodwind-quartet",
+    "instrumentName": "Woodwind Quartets",
+    "eventName": "Woodwind Quartet",
+    "title": "Summer Sketches",
+    "composer": "Castle",
+    "arranger": "",
+    "publishers": [
+      "Kendor Music, Inc."
+    ],
+    "publisherText": "Kendor Music, Inc.",
+    "classLevel": 3,
+    "specification": "(2 fl, 2 b-flat cl)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "241-3-11743",
+    "instrumentSlug": "woodwind-quartet",
+    "instrumentName": "Woodwind Quartets",
+    "eventName": "Woodwind Quartet",
+    "title": "Scarf Dance",
+    "composer": "Chaminade",
+    "arranger": "Guenther",
+    "publishers": [
+      "Belwin, Inc"
+    ],
+    "publisherText": "Belwin, Inc",
+    "classLevel": 3,
+    "specification": "(fl, ob, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "241-3-12275",
+    "instrumentSlug": "woodwind-quartet",
+    "instrumentName": "Woodwind Quartets",
+    "eventName": "Woodwind Quartet",
+    "title": "Scarf Dance",
+    "composer": "Chaminade",
+    "arranger": "Guenther",
+    "publishers": [
+      "Belwin, Inc"
+    ],
+    "publisherText": "Belwin, Inc",
+    "classLevel": 3,
+    "specification": "(fl, ob, cl, bass cl)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "241-3-26450",
+    "instrumentSlug": "woodwind-quartet",
+    "instrumentName": "Woodwind Quartets",
+    "eventName": "Woodwind Quartet",
+    "title": "Beau Soir",
+    "composer": "Debussy",
+    "arranger": "Schmidt",
+    "publishers": [
+      "Western International Music, Inc."
+    ],
+    "publisherText": "Western International Music, Inc.",
+    "classLevel": 3,
+    "specification": "(fl, ob, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "241-3-26452",
+    "instrumentSlug": "woodwind-quartet",
+    "instrumentName": "Woodwind Quartets",
+    "eventName": "Woodwind Quartet",
+    "title": "Largo and Finale (from the New World Symphony)",
+    "composer": "Dvorak",
+    "arranger": "Blahnik",
+    "publishers": [
+      "Alliance Publications, Inc."
+    ],
+    "publisherText": "Alliance Publications, Inc.",
+    "classLevel": 3,
+    "specification": "(fl, ob, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "241-3-35470",
+    "instrumentSlug": "woodwind-quartet",
+    "instrumentName": "Woodwind Quartets",
+    "eventName": "Woodwind Quartet",
+    "title": "Slavonic Dance",
+    "composer": "Dvorak",
+    "arranger": "Balent",
+    "publishers": [
+      "Kendor Music, Inc. [Classical FlexQuartets]"
+    ],
+    "publisherText": "Kendor Music, Inc. [Classical FlexQuartets]",
+    "classLevel": 3,
+    "specification": "(any published combination)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "241-3-11744",
+    "instrumentSlug": "woodwind-quartet",
+    "instrumentName": "Woodwind Quartets",
+    "eventName": "Woodwind Quartet",
+    "title": "Scherzino",
+    "composer": "Erickson",
+    "arranger": "",
+    "publishers": [
+      "Belwin, Inc"
+    ],
+    "publisherText": "Belwin, Inc",
+    "classLevel": 3,
+    "specification": "(fl, ob, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "241-3-35462",
+    "instrumentSlug": "woodwind-quartet",
+    "instrumentName": "Woodwind Quartets",
+    "eventName": "Woodwind Quartet",
+    "title": "Canzon per sonare #2",
+    "composer": "Gabrieli",
+    "arranger": "Marlatt",
+    "publishers": [
+      "Eighth Note Publications"
+    ],
+    "publisherText": "Eighth Note Publications",
+    "classLevel": 3,
+    "specification": "(2 fl, 2 cl)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "241-3-35464",
+    "instrumentSlug": "woodwind-quartet",
+    "instrumentName": "Woodwind Quartets",
+    "eventName": "Woodwind Quartet",
+    "title": "Adagio from Piano Sonata in D",
+    "composer": "Galuppi",
+    "arranger": "Marlatt",
+    "publishers": [
+      "Eighth Note Publications"
+    ],
+    "publisherText": "Eighth Note Publications",
+    "classLevel": 3,
+    "specification": "(2 fl, 2 cl)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "241-3-35475",
+    "instrumentSlug": "woodwind-quartet",
+    "instrumentName": "Woodwind Quartets",
+    "eventName": "Woodwind Quartet",
+    "title": "Peer Gynt Duplet",
+    "composer": "Grieg",
+    "arranger": "Haspiel",
+    "publishers": [
+      "JPM Music Publications"
+    ],
+    "publisherText": "JPM Music Publications",
+    "classLevel": 3,
+    "specification": "(play one mvt) (any published combination)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "241-3-26453",
+    "instrumentSlug": "woodwind-quartet",
+    "instrumentName": "Woodwind Quartets",
+    "eventName": "Woodwind Quartet",
+    "title": "Almirena's Aria (Lascia ch'io pianga)",
+    "composer": "Handel",
+    "arranger": "Schmidt",
+    "publishers": [
+      "Western International Music, Inc."
+    ],
+    "publisherText": "Western International Music, Inc.",
+    "classLevel": 3,
+    "specification": "(fl, ob, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "241-3-11745",
+    "instrumentSlug": "woodwind-quartet",
+    "instrumentName": "Woodwind Quartets",
+    "eventName": "Woodwind Quartet",
+    "title": "Petite Fugue",
+    "composer": "Handel",
+    "arranger": "Ostling",
+    "publishers": [
+      "Belwin, Inc"
+    ],
+    "publisherText": "Belwin, Inc",
+    "classLevel": 3,
+    "specification": "(fl, ob, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "241-3-35477",
+    "instrumentSlug": "woodwind-quartet",
+    "instrumentName": "Woodwind Quartets",
+    "eventName": "Woodwind Quartet",
+    "title": "Summer Winds",
+    "composer": "Haspiel",
+    "arranger": "",
+    "publishers": [
+      "JPM Music Publications"
+    ],
+    "publisherText": "JPM Music Publications",
+    "classLevel": 3,
+    "specification": "(2 fl, 2 cl)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "241-3-35478",
+    "instrumentSlug": "woodwind-quartet",
+    "instrumentName": "Woodwind Quartets",
+    "eventName": "Woodwind Quartet",
+    "title": "Time To Shine!",
+    "composer": "Havely",
+    "arranger": "",
+    "publishers": [
+      "JPM Music Publications"
+    ],
+    "publisherText": "JPM Music Publications",
+    "classLevel": 3,
+    "specification": "(any published combination)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "241-3-35480",
+    "instrumentSlug": "woodwind-quartet",
+    "instrumentName": "Woodwind Quartets",
+    "eventName": "Woodwind Quartet",
+    "title": "Mozart Allegretto, K. 156",
+    "composer": "Mozart",
+    "arranger": "Pappas",
+    "publishers": [
+      "JPM Music Publications"
+    ],
+    "publisherText": "JPM Music Publications",
+    "classLevel": 3,
+    "specification": "(any published combination)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "241-3-35474",
+    "instrumentSlug": "woodwind-quartet",
+    "instrumentName": "Woodwind Quartets",
+    "eventName": "Woodwind Quartet",
+    "title": "Quartet K. 158",
+    "composer": "Mozart",
+    "arranger": "Gibson",
+    "publishers": [
+      "JPM Music Publications"
+    ],
+    "publisherText": "JPM Music Publications",
+    "classLevel": 3,
+    "specification": "(any published combination)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "241-3-35472",
+    "instrumentSlug": "woodwind-quartet",
+    "instrumentName": "Woodwind Quartets",
+    "eventName": "Woodwind Quartet",
+    "title": "Quartet No. 10, K. 170 Menuet",
+    "composer": "Mozart",
+    "arranger": "Gibson",
+    "publishers": [
+      "JPM Music Publications"
+    ],
+    "publisherText": "JPM Music Publications",
+    "classLevel": 3,
+    "specification": "(fl, cl, alto sax, tenor sax)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "241-3-35473",
+    "instrumentSlug": "woodwind-quartet",
+    "instrumentName": "Woodwind Quartets",
+    "eventName": "Woodwind Quartet",
+    "title": "Quartet No.10, K. 170 Adagio",
+    "composer": "Mozart",
+    "arranger": "Gibson",
+    "publishers": [
+      "Eighth Note Publications"
+    ],
+    "publisherText": "Eighth Note Publications",
+    "classLevel": 3,
+    "specification": "(fl, cl, alto sax, tenor sax)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "241-3-35481",
+    "instrumentSlug": "woodwind-quartet",
+    "instrumentName": "Woodwind Quartets",
+    "eventName": "Woodwind Quartet",
+    "title": "Rondo in F Major",
+    "composer": "Pappas",
+    "arranger": "",
+    "publishers": [
+      "JPM Music Publications"
+    ],
+    "publisherText": "JPM Music Publications",
+    "classLevel": 3,
+    "specification": "(any published combination)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "241-3-35479",
+    "instrumentSlug": "woodwind-quartet",
+    "instrumentName": "Woodwind Quartets",
+    "eventName": "Woodwind Quartet",
+    "title": "Two Folk Songs",
+    "composer": "Pappas",
+    "arranger": "",
+    "publishers": [
+      "JPM Music Publications"
+    ],
+    "publisherText": "JPM Music Publications",
+    "classLevel": 3,
+    "specification": "(play all) (2 fl, 2 cl)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "241-3-35469",
+    "instrumentSlug": "woodwind-quartet",
+    "instrumentName": "Woodwind Quartets",
+    "eventName": "Woodwind Quartet",
+    "title": "Rosamunde",
+    "composer": "Schubert",
+    "arranger": "Balent",
+    "publishers": [
+      "Kendor Music, Inc. [Classical FlexQuartets]"
+    ],
+    "publisherText": "Kendor Music, Inc. [Classical FlexQuartets]",
+    "classLevel": 3,
+    "specification": "(any published combination)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "241-3-26569",
+    "instrumentSlug": "woodwind-quartet",
+    "instrumentName": "Woodwind Quartets",
+    "eventName": "Woodwind Quartet",
+    "title": "The Witch",
+    "composer": "Tchaikowsky",
+    "arranger": "Denwood",
+    "publishers": [
+      "Kendor Music, Inc."
+    ],
+    "publisherText": "Kendor Music, Inc.",
+    "classLevel": 3,
+    "specification": "(fl, 2 b-flat cl, bn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "241-3-35482",
+    "instrumentSlug": "woodwind-quartet",
+    "instrumentName": "Woodwind Quartets",
+    "eventName": "Woodwind Quartet",
+    "title": "Coro, Tutti",
+    "composer": "Telemann",
+    "arranger": "Pappas",
+    "publishers": [
+      "JPM Music Publications"
+    ],
+    "publisherText": "JPM Music Publications",
+    "classLevel": 3,
+    "specification": "(any published combination)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "241-3-11746",
+    "instrumentSlug": "woodwind-quartet",
+    "instrumentName": "Woodwind Quartets",
+    "eventName": "Woodwind Quartet",
+    "title": "Telemann Minuets",
+    "composer": "Telemann",
+    "arranger": "Polnauer",
+    "publishers": [
+      "Elkan-Vogel Company, Inc."
+    ],
+    "publisherText": "Elkan-Vogel Company, Inc.",
+    "classLevel": 3,
+    "specification": "(play one) (fl, ob, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "241-3-35461",
+    "instrumentSlug": "woodwind-quartet",
+    "instrumentName": "Woodwind Quartets",
+    "eventName": "Woodwind Quartet",
+    "title": "Concerto for Lute - Complete",
+    "composer": "Vivaldi",
+    "arranger": "Marlatt",
+    "publishers": [
+      "Eighth Note Publications"
+    ],
+    "publisherText": "Eighth Note Publications",
+    "classLevel": 3,
+    "specification": "(play one mvt )(2 fl, 2 cl)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "241-3-35465",
+    "instrumentSlug": "woodwind-quartet",
+    "instrumentName": "Woodwind Quartets",
+    "eventName": "Woodwind Quartet",
+    "title": "Laudamus Te from Gloria",
+    "composer": "Vivaldi",
+    "arranger": "Marlatt",
+    "publishers": [
+      "Eighth Note Publications"
+    ],
+    "publisherText": "Eighth Note Publications",
+    "classLevel": 3,
+    "specification": "(2 fl, 2 cl)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "241-3-35483",
+    "instrumentSlug": "woodwind-quartet",
+    "instrumentName": "Woodwind Quartets",
+    "eventName": "Woodwind Quartet",
+    "title": "A Traveler's Suite",
+    "composer": "Vogt",
+    "arranger": "",
+    "publishers": [
+      "JPM Music Publications"
+    ],
+    "publisherText": "JPM Music Publications",
+    "classLevel": 3,
+    "specification": "(play all) (fl, cl, alto sax, bari sax)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "241-2-11733",
+    "instrumentSlug": "woodwind-quartet",
+    "instrumentName": "Woodwind Quartets",
+    "eventName": "Woodwind Quartet",
+    "title": "Air (from Suite No. 3)",
+    "composer": "Bach",
+    "arranger": "Schmidt",
+    "publishers": [
+      "Western International Music, Inc."
+    ],
+    "publisherText": "Western International Music, Inc.",
+    "classLevel": 2,
+    "specification": "(fl, ob, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "241-2-29752",
+    "instrumentSlug": "woodwind-quartet",
+    "instrumentName": "Woodwind Quartets",
+    "eventName": "Woodwind Quartet",
+    "title": "Aria (from Cantata No. 43, BWV 43, 1725)",
+    "composer": "Bach",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "241-2-11734",
+    "instrumentSlug": "woodwind-quartet",
+    "instrumentName": "Woodwind Quartets",
+    "eventName": "Woodwind Quartet",
+    "title": "Bourree",
+    "composer": "Bach",
+    "arranger": "Rice/Young",
+    "publishers": [
+      "Alry Publications, Etc. Inc."
+    ],
+    "publisherText": "Alry Publications, Etc. Inc.",
+    "classLevel": 2,
+    "specification": "(fl, ob, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "241-2-29751",
+    "instrumentSlug": "woodwind-quartet",
+    "instrumentName": "Woodwind Quartets",
+    "eventName": "Woodwind Quartet",
+    "title": "Fugue in g minor, BWV 578",
+    "composer": "Bach",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "241-2-35468",
+    "instrumentSlug": "woodwind-quartet",
+    "instrumentName": "Woodwind Quartets",
+    "eventName": "Woodwind Quartet",
+    "title": "Jesu Joy of Man\u2019s Desiring",
+    "composer": "Bach",
+    "arranger": "Marlatt",
+    "publishers": [
+      "Eighth Note Publications"
+    ],
+    "publisherText": "Eighth Note Publications",
+    "classLevel": 2,
+    "specification": "(2 fl, 2 cl)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "241-2-26448",
+    "instrumentSlug": "woodwind-quartet",
+    "instrumentName": "Woodwind Quartets",
+    "eventName": "Woodwind Quartet",
+    "title": "Two Miniatures for Woodwind Quartet",
+    "composer": "Blackwell",
+    "arranger": "Blahnik",
+    "publishers": [
+      "Alliance Publications, Inc."
+    ],
+    "publisherText": "Alliance Publications, Inc.",
+    "classLevel": 2,
+    "specification": "(fl, ob, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "241-2-26449",
+    "instrumentSlug": "woodwind-quartet",
+    "instrumentName": "Woodwind Quartets",
+    "eventName": "Woodwind Quartet",
+    "title": "Dry Bones",
+    "composer": "Buss",
+    "arranger": "",
+    "publishers": [
+      "Brixton Publications"
+    ],
+    "publisherText": "Brixton Publications",
+    "classLevel": 2,
+    "specification": "(fl, ob, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "241-2-26534",
+    "instrumentSlug": "woodwind-quartet",
+    "instrumentName": "Woodwind Quartets",
+    "eventName": "Woodwind Quartet",
+    "title": "Gavotte",
+    "composer": "Dvorak",
+    "arranger": "Denwood",
+    "publishers": [
+      "Kendor Music, Inc."
+    ],
+    "publisherText": "Kendor Music, Inc.",
+    "classLevel": 2,
+    "specification": "(fl, 2 b-flat cl, bn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "241-2-31403",
+    "instrumentSlug": "woodwind-quartet",
+    "instrumentName": "Woodwind Quartets",
+    "eventName": "Woodwind Quartet",
+    "title": "Three Slavonic Dances",
+    "composer": "Dvorak",
+    "arranger": "Blahnik",
+    "publishers": [
+      "Alliance Publications, Inc."
+    ],
+    "publisherText": "Alliance Publications, Inc.",
+    "classLevel": 2,
+    "specification": "(play all)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "241-2-26451",
+    "instrumentSlug": "woodwind-quartet",
+    "instrumentName": "Woodwind Quartets",
+    "eventName": "Woodwind Quartet",
+    "title": "Three Slavonic Danes op.46, no. 1 and 6, op. 72, no. 2",
+    "composer": "Dvorak",
+    "arranger": "Blahnik",
+    "publishers": [
+      "Alliance Publications, Inc."
+    ],
+    "publisherText": "Alliance Publications, Inc.",
+    "classLevel": 2,
+    "specification": "(fl, ob, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "241-2-11735",
+    "instrumentSlug": "woodwind-quartet",
+    "instrumentName": "Woodwind Quartets",
+    "eventName": "Woodwind Quartet",
+    "title": "Ricecare in the Twelfth Mode",
+    "composer": "Gabrieli",
+    "arranger": "Meyer",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 2,
+    "specification": "(fl, ob, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "241-2-35460",
+    "instrumentSlug": "woodwind-quartet",
+    "instrumentName": "Woodwind Quartets",
+    "eventName": "Woodwind Quartet",
+    "title": "Peer Gynt Duplet",
+    "composer": "Grieg",
+    "arranger": "Haspiel",
+    "publishers": [
+      "JPM Music Publications"
+    ],
+    "publisherText": "JPM Music Publications",
+    "classLevel": 2,
+    "specification": "(play all) (fl, b-flat cl, alto sax, tenor sax or bass cl)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "241-2-29753",
+    "instrumentSlug": "woodwind-quartet",
+    "instrumentName": "Woodwind Quartets",
+    "eventName": "Woodwind Quartet",
+    "title": "Two Irish Tunes",
+    "composer": "Hall",
+    "arranger": "",
+    "publishers": [
+      "Great Works Publishing"
+    ],
+    "publisherText": "Great Works Publishing",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "241-2-11736",
+    "instrumentSlug": "woodwind-quartet",
+    "instrumentName": "Woodwind Quartets",
+    "eventName": "Woodwind Quartet",
+    "title": "Andante (from Symphony No. 94, Surprise Symphony)",
+    "composer": "Haydn",
+    "arranger": "Ostling",
+    "publishers": [
+      "Belwin, Inc"
+    ],
+    "publisherText": "Belwin, Inc",
+    "classLevel": 2,
+    "specification": "(fl, ob, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "241-2-11737",
+    "instrumentSlug": "woodwind-quartet",
+    "instrumentName": "Woodwind Quartets",
+    "eventName": "Woodwind Quartet",
+    "title": "Menuet",
+    "composer": "Haydn",
+    "arranger": "Seay",
+    "publishers": [
+      "Jack Spratt Music Publishers"
+    ],
+    "publisherText": "Jack Spratt Music Publishers",
+    "classLevel": 2,
+    "specification": "(fl, ob, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "241-2-12253",
+    "instrumentSlug": "woodwind-quartet",
+    "instrumentName": "Woodwind Quartets",
+    "eventName": "Woodwind Quartet",
+    "title": "Menuetto and Scherzando",
+    "composer": "Haydn",
+    "arranger": "von Kreisler",
+    "publishers": [
+      "Southern Music Company"
+    ],
+    "publisherText": "Southern Music Company",
+    "classLevel": 2,
+    "specification": "(fl, 2 b-flat cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "241-2-11738",
+    "instrumentSlug": "woodwind-quartet",
+    "instrumentName": "Woodwind Quartets",
+    "eventName": "Woodwind Quartet",
+    "title": "November Song",
+    "composer": "Isaacson",
+    "arranger": "",
+    "publishers": [
+      "Alry Publications, Etc. Inc."
+    ],
+    "publisherText": "Alry Publications, Etc. Inc.",
+    "classLevel": 2,
+    "specification": "(fl, ob, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "241-2-26454",
+    "instrumentSlug": "woodwind-quartet",
+    "instrumentName": "Woodwind Quartets",
+    "eventName": "Woodwind Quartet",
+    "title": "Lily Queen Rag",
+    "composer": "Joplin/Hayden",
+    "arranger": "North",
+    "publishers": [
+      "Kendor Music, Inc."
+    ],
+    "publisherText": "Kendor Music, Inc.",
+    "classLevel": 2,
+    "specification": "(fl, ob, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "241-2-26455",
+    "instrumentSlug": "woodwind-quartet",
+    "instrumentName": "Woodwind Quartets",
+    "eventName": "Woodwind Quartet",
+    "title": "Sunflower Rag",
+    "composer": "Joplin/Hayden",
+    "arranger": "North",
+    "publishers": [
+      "Kendor Music, Inc."
+    ],
+    "publisherText": "Kendor Music, Inc.",
+    "classLevel": 2,
+    "specification": "(fl, ob, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "241-2-29754",
+    "instrumentSlug": "woodwind-quartet",
+    "instrumentName": "Woodwind Quartets",
+    "eventName": "Woodwind Quartet",
+    "title": "Divertimento",
+    "composer": "Mozart",
+    "arranger": "Gee",
+    "publishers": [
+      "Kendor Music, Inc."
+    ],
+    "publisherText": "Kendor Music, Inc.",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "241-2-29755",
+    "instrumentSlug": "woodwind-quartet",
+    "instrumentName": "Woodwind Quartets",
+    "eventName": "Woodwind Quartet",
+    "title": "The Damsel and the Dragon - Air and Allegro",
+    "composer": "Myers",
+    "arranger": "",
+    "publishers": [
+      "Grand Mesa Music Publishers"
+    ],
+    "publisherText": "Grand Mesa Music Publishers",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "241-2-26546",
+    "instrumentSlug": "woodwind-quartet",
+    "instrumentName": "Woodwind Quartets",
+    "eventName": "Woodwind Quartet",
+    "title": "Conversation Piece for Woodwind Quartet",
+    "composer": "Niehaus",
+    "arranger": "",
+    "publishers": [
+      "RBC Publications"
+    ],
+    "publisherText": "RBC Publications",
+    "classLevel": 2,
+    "specification": "(2 fl, 2 b-flat cl)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "241-2-11739",
+    "instrumentSlug": "woodwind-quartet",
+    "instrumentName": "Woodwind Quartets",
+    "eventName": "Woodwind Quartet",
+    "title": "Fleeting Moments",
+    "composer": "Prokofiev",
+    "arranger": "",
+    "publishers": [
+      "Carl Fischer, Inc."
+    ],
+    "publisherText": "Carl Fischer, Inc.",
+    "classLevel": 2,
+    "specification": "(play one mvt) (fl, ob, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "241-2-11740",
+    "instrumentSlug": "woodwind-quartet",
+    "instrumentName": "Woodwind Quartets",
+    "eventName": "Woodwind Quartet",
+    "title": "Scarlattiana",
+    "composer": "Scarlatti",
+    "arranger": "Rosenthal",
+    "publishers": [
+      "Western International Music, Inc."
+    ],
+    "publisherText": "Western International Music, Inc.",
+    "classLevel": 2,
+    "specification": "(play two mvts) (fl, ob, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "241-2-26563",
+    "instrumentSlug": "woodwind-quartet",
+    "instrumentName": "Woodwind Quartets",
+    "eventName": "Woodwind Quartet",
+    "title": "Ballet Music I (from Rosamond)",
+    "composer": "Schubert",
+    "arranger": "Schmidt",
+    "publishers": [
+      "Western International Music, Inc."
+    ],
+    "publisherText": "Western International Music, Inc.",
+    "classLevel": 2,
+    "specification": "(ob, cl, hn, bn) (2 ob, e-hn, bn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "241-2-26456",
+    "instrumentSlug": "woodwind-quartet",
+    "instrumentName": "Woodwind Quartets",
+    "eventName": "Woodwind Quartet",
+    "title": "Andante Cantabile",
+    "composer": "Tchaikovsky",
+    "arranger": "",
+    "publishers": [
+      "Western International Music, Inc."
+    ],
+    "publisherText": "Western International Music, Inc.",
+    "classLevel": 2,
+    "specification": "(fl, ob, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "241-2-11741",
+    "instrumentSlug": "woodwind-quartet",
+    "instrumentName": "Woodwind Quartets",
+    "eventName": "Woodwind Quartet",
+    "title": "Telemann Minuets",
+    "composer": "Telemann",
+    "arranger": "Polnauer",
+    "publishers": [
+      "Elkan-Vogel Company, Inc."
+    ],
+    "publisherText": "Elkan-Vogel Company, Inc.",
+    "classLevel": 2,
+    "specification": "(play two) (fl, ob, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "241-2-26574",
+    "instrumentSlug": "woodwind-quartet",
+    "instrumentName": "Woodwind Quartets",
+    "eventName": "Woodwind Quartet",
+    "title": "Three Fairy Tales",
+    "composer": "Villa-Lobos",
+    "arranger": "Schmidt",
+    "publishers": [
+      "Western International Music, Inc."
+    ],
+    "publisherText": "Western International Music, Inc.",
+    "classLevel": 2,
+    "specification": "(ob, cl, hn, bn) or (2 ob, e-hn, bn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "241-2-35459",
+    "instrumentSlug": "woodwind-quartet",
+    "instrumentName": "Woodwind Quartets",
+    "eventName": "Woodwind Quartet",
+    "title": "Concerto for Lute - Complete",
+    "composer": "Vivaldi",
+    "arranger": "Marlatt",
+    "publishers": [
+      "Eighth Note Publications"
+    ],
+    "publisherText": "Eighth Note Publications",
+    "classLevel": 2,
+    "specification": "(play two mvts) (2 fl, 2 cl)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "241-1-35727",
+    "instrumentSlug": "woodwind-quartet",
+    "instrumentName": "Woodwind Quartets",
+    "eventName": "Woodwind Quartet",
+    "title": "Woodwind Quartet",
+    "composer": "Babbitt",
+    "arranger": "",
+    "publishers": [
+      "Associated Music Publishers Inc."
+    ],
+    "publisherText": "Associated Music Publishers Inc.",
+    "classLevel": 1,
+    "specification": "(fl, ob, cl, bsn) (perform Introduction, Finale, and one more section)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "241-1-12192",
+    "instrumentSlug": "woodwind-quartet",
+    "instrumentName": "Woodwind Quartets",
+    "eventName": "Woodwind Quartet",
+    "title": "Contrapunctus XII",
+    "composer": "Bach",
+    "arranger": "Ramm",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 1,
+    "specification": "(fl, ob, cl, hn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "241-1-35725",
+    "instrumentSlug": "woodwind-quartet",
+    "instrumentName": "Woodwind Quartets",
+    "eventName": "Woodwind Quartet",
+    "title": "Jig Fugue BWV 577",
+    "composer": "Bach",
+    "arranger": "Marlatt",
+    "publishers": [
+      "Eighth Note Publications"
+    ],
+    "publisherText": "Eighth Note Publications",
+    "classLevel": 1,
+    "specification": "(any published combination)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "241-1-35466",
+    "instrumentSlug": "woodwind-quartet",
+    "instrumentName": "Woodwind Quartets",
+    "eventName": "Woodwind Quartet",
+    "title": "Little Fugue in G minor",
+    "composer": "Bach",
+    "arranger": "Marlatt",
+    "publishers": [
+      "Eighth Note Publications"
+    ],
+    "publisherText": "Eighth Note Publications",
+    "classLevel": 1,
+    "specification": "(any published combination)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "241-1-11715",
+    "instrumentSlug": "woodwind-quartet",
+    "instrumentName": "Woodwind Quartets",
+    "eventName": "Woodwind Quartet",
+    "title": "Prelude XIV, Vol. 2",
+    "composer": "Bach",
+    "arranger": "Kessler",
+    "publishers": [
+      "Rubank, Inc."
+    ],
+    "publisherText": "Rubank, Inc.",
+    "classLevel": 1,
+    "specification": "(fl, ob, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "241-1-12195",
+    "instrumentSlug": "woodwind-quartet",
+    "instrumentName": "Woodwind Quartets",
+    "eventName": "Woodwind Quartet",
+    "title": "Sarabande and Double (from English Suite No. 6 in d minor)",
+    "composer": "Bach",
+    "arranger": "Reed",
+    "publishers": [
+      "Kendor Music, Inc."
+    ],
+    "publisherText": "Kendor Music, Inc.",
+    "classLevel": 1,
+    "specification": "(ob, 2 b-flat cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "241-1-11716",
+    "instrumentSlug": "woodwind-quartet",
+    "instrumentName": "Woodwind Quartets",
+    "eventName": "Woodwind Quartet",
+    "title": "Contra Dance",
+    "composer": "Beethoven",
+    "arranger": "Hahn",
+    "publishers": [
+      "Fillmore Music House"
+    ],
+    "publisherText": "Fillmore Music House",
+    "classLevel": 1,
+    "specification": "(fl, ob, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "241-1-11717",
+    "instrumentSlug": "woodwind-quartet",
+    "instrumentName": "Woodwind Quartets",
+    "eventName": "Woodwind Quartet",
+    "title": "Quartet in C Major",
+    "composer": "Berger",
+    "arranger": "",
+    "publishers": [
+      "C.F. Peters Corporation"
+    ],
+    "publisherText": "C.F. Peters Corporation",
+    "classLevel": 1,
+    "specification": "(fl, ob, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "241-1-38498",
+    "instrumentSlug": "woodwind-quartet",
+    "instrumentName": "Woodwind Quartets",
+    "eventName": "Woodwind Quartet",
+    "title": "Farandole",
+    "composer": "Bizet",
+    "arranger": "Winstead",
+    "publishers": [
+      "Sigma Squared Music Publishing"
+    ],
+    "publisherText": "Sigma Squared Music Publishing",
+    "classLevel": 1,
+    "specification": "(fl, ob, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "241-1-11718",
+    "instrumentSlug": "woodwind-quartet",
+    "instrumentName": "Woodwind Quartets",
+    "eventName": "Woodwind Quartet",
+    "title": "Homage to D.S.",
+    "composer": "Block",
+    "arranger": "",
+    "publishers": [
+      "Brightstar Music Publishers"
+    ],
+    "publisherText": "Brightstar Music Publishers",
+    "classLevel": 1,
+    "specification": "(fl, ob, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "241-1-35726",
+    "instrumentSlug": "woodwind-quartet",
+    "instrumentName": "Woodwind Quartets",
+    "eventName": "Woodwind Quartet",
+    "title": "Trois Pi\u00e8ces Pour Une Musique De Nuit",
+    "composer": "Bozza",
+    "arranger": "",
+    "publishers": [
+      "Alphonse Leduc"
+    ],
+    "publisherText": "Alphonse Leduc",
+    "classLevel": 1,
+    "specification": "(fl, ob, cl, bsn) (play 2nd mvt OR 1st & 3rd mvts)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "241-1-35728",
+    "instrumentSlug": "woodwind-quartet",
+    "instrumentName": "Woodwind Quartets",
+    "eventName": "Woodwind Quartet",
+    "title": "Divertimenti",
+    "composer": "Bridge",
+    "arranger": "",
+    "publishers": [
+      "Boosey & Hawkes, Inc."
+    ],
+    "publisherText": "Boosey & Hawkes, Inc.",
+    "classLevel": 1,
+    "specification": "(fl, ob, cl, bsn) (play one mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "241-1-35729",
+    "instrumentSlug": "woodwind-quartet",
+    "instrumentName": "Woodwind Quartets",
+    "eventName": "Woodwind Quartet",
+    "title": "8 Etudes & A Fantasy",
+    "composer": "Carter",
+    "arranger": "",
+    "publishers": [
+      "Associated Music Publishers Inc."
+    ],
+    "publisherText": "Associated Music Publishers Inc.",
+    "classLevel": 1,
+    "specification": "(fl, ob, cl, bsn) (play two mvts)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "241-1-11719",
+    "instrumentSlug": "woodwind-quartet",
+    "instrumentName": "Woodwind Quartets",
+    "eventName": "Woodwind Quartet",
+    "title": "Danse Villageoise",
+    "composer": "Chabrier",
+    "arranger": "Schmidt",
+    "publishers": [
+      "Western International Music, Inc."
+    ],
+    "publisherText": "Western International Music, Inc.",
+    "classLevel": 1,
+    "specification": "(fl, ob, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "241-1-11720",
+    "instrumentSlug": "woodwind-quartet",
+    "instrumentName": "Woodwind Quartets",
+    "eventName": "Woodwind Quartet",
+    "title": "Quatuor",
+    "composer": "Francaix",
+    "arranger": "",
+    "publishers": [
+      "Schott Company"
+    ],
+    "publisherText": "Schott Company",
+    "classLevel": 1,
+    "specification": "(play two mvts) (fl, ob, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "241-1-11721",
+    "instrumentSlug": "woodwind-quartet",
+    "instrumentName": "Woodwind Quartets",
+    "eventName": "Woodwind Quartet",
+    "title": "Miniature Procession",
+    "composer": "Gladkovsky",
+    "arranger": "Schmidt",
+    "publishers": [
+      "Western International Music, Inc."
+    ],
+    "publisherText": "Western International Music, Inc.",
+    "classLevel": 1,
+    "specification": "(fl, ob, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "241-1-11722",
+    "instrumentSlug": "woodwind-quartet",
+    "instrumentName": "Woodwind Quartets",
+    "eventName": "Woodwind Quartet",
+    "title": "Quartet Op. 93",
+    "composer": "Goepfart",
+    "arranger": "Andraud",
+    "publishers": [
+      "Southern Music Company"
+    ],
+    "publisherText": "Southern Music Company",
+    "classLevel": 1,
+    "specification": "(play one mvt) (fl, ob, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "241-1-11723",
+    "instrumentSlug": "woodwind-quartet",
+    "instrumentName": "Woodwind Quartets",
+    "eventName": "Woodwind Quartet",
+    "title": "Diversion for Woodwind Quartet",
+    "composer": "Harris",
+    "arranger": "",
+    "publishers": [
+      "Rongwen Bros. Music Company"
+    ],
+    "publisherText": "Rongwen Bros. Music Company",
+    "classLevel": 1,
+    "specification": "(fl, ob, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "241-1-11724",
+    "instrumentSlug": "woodwind-quartet",
+    "instrumentName": "Woodwind Quartets",
+    "eventName": "Woodwind Quartet",
+    "title": "Theme and Variations",
+    "composer": "Haydn",
+    "arranger": "Hahn",
+    "publishers": [
+      "Fillmore Music House"
+    ],
+    "publisherText": "Fillmore Music House",
+    "classLevel": 1,
+    "specification": "(omit one Variation) (fl, ob, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "241-1-11725",
+    "instrumentSlug": "woodwind-quartet",
+    "instrumentName": "Woodwind Quartets",
+    "eventName": "Woodwind Quartet",
+    "title": "Four Old Tunes",
+    "composer": "Jacob",
+    "arranger": "",
+    "publishers": [
+      "Emerson Editions"
+    ],
+    "publisherText": "Emerson Editions",
+    "classLevel": 1,
+    "specification": "(fl, ob, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "241-1-11726",
+    "instrumentSlug": "woodwind-quartet",
+    "instrumentName": "Woodwind Quartets",
+    "eventName": "Woodwind Quartet",
+    "title": "Serenade for Woodwinds",
+    "composer": "Kantor",
+    "arranger": "",
+    "publishers": [
+      "JTL Publications, G. Scott Music Publishing Co."
+    ],
+    "publisherText": "JTL Publications, G. Scott Music Publishing Co.",
+    "classLevel": 1,
+    "specification": "(play two mvts) (fl, ob, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "241-1-12217",
+    "instrumentSlug": "woodwind-quartet",
+    "instrumentName": "Woodwind Quartets",
+    "eventName": "Woodwind Quartet",
+    "title": "Serenade for Unknown Friends",
+    "composer": "Lamb",
+    "arranger": "",
+    "publishers": [
+      "Dorn Publishing Co."
+    ],
+    "publisherText": "Dorn Publishing Co.",
+    "classLevel": 1,
+    "specification": "(ob, cl, t sax, piano)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "241-1-34473",
+    "instrumentSlug": "woodwind-quartet",
+    "instrumentName": "Woodwind Quartets",
+    "eventName": "Woodwind Quartet",
+    "title": "Motion",
+    "composer": "Morris",
+    "arranger": "",
+    "publishers": [
+      "TrevCo Music Publishing"
+    ],
+    "publisherText": "TrevCo Music Publishing",
+    "classLevel": 1,
+    "specification": "(fl, ob, cl, hn, bsn) (play one mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "241-1-11727",
+    "instrumentSlug": "woodwind-quartet",
+    "instrumentName": "Woodwind Quartets",
+    "eventName": "Woodwind Quartet",
+    "title": "Andante in F Major K.616",
+    "composer": "Mozart",
+    "arranger": "Munclinger",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(fl, ob, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "241-1-38497",
+    "instrumentSlug": "woodwind-quartet",
+    "instrumentName": "Woodwind Quartets",
+    "eventName": "Woodwind Quartet",
+    "title": "Andante, K. 616",
+    "composer": "Mozart",
+    "arranger": "Smith",
+    "publishers": [
+      "BRS Music"
+    ],
+    "publisherText": "BRS Music",
+    "classLevel": 1,
+    "specification": "(fl, ob, clar, bassoon or French horn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "241-1-12219",
+    "instrumentSlug": "woodwind-quartet",
+    "instrumentName": "Woodwind Quartets",
+    "eventName": "Woodwind Quartet",
+    "title": "Cassazione",
+    "composer": "Mozart",
+    "arranger": "Andraud",
+    "publishers": [
+      "Southern Music Company"
+    ],
+    "publisherText": "Southern Music Company",
+    "classLevel": 1,
+    "specification": "(ob or fl, cl, hn, bsn) (play first or last mvt plus one other mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "241-1-11728",
+    "instrumentSlug": "woodwind-quartet",
+    "instrumentName": "Woodwind Quartets",
+    "eventName": "Woodwind Quartet",
+    "title": "Divertimento K. 251",
+    "composer": "Mozart",
+    "arranger": "Gee",
+    "publishers": [
+      "Pro-Art Publications"
+    ],
+    "publisherText": "Pro-Art Publications",
+    "classLevel": 1,
+    "specification": "(any published combination)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "241-1-35467",
+    "instrumentSlug": "woodwind-quartet",
+    "instrumentName": "Woodwind Quartets",
+    "eventName": "Woodwind Quartet",
+    "title": "Canon",
+    "composer": "Pachebel",
+    "arranger": "Marlatt",
+    "publishers": [
+      "Eighth Note Publications"
+    ],
+    "publisherText": "Eighth Note Publications",
+    "classLevel": 1,
+    "specification": "(any published combination)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "241-1-11729",
+    "instrumentSlug": "woodwind-quartet",
+    "instrumentName": "Woodwind Quartets",
+    "eventName": "Woodwind Quartet",
+    "title": "Three Show Tunes",
+    "composer": "Parfrey",
+    "arranger": "",
+    "publishers": [
+      "Kendor Music, Inc."
+    ],
+    "publisherText": "Kendor Music, Inc.",
+    "classLevel": 1,
+    "specification": "(play all) (fl, ob, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "241-1-35724",
+    "instrumentSlug": "woodwind-quartet",
+    "instrumentName": "Woodwind Quartets",
+    "eventName": "Woodwind Quartet",
+    "title": "Gran Quartetto",
+    "composer": "Petrini-Zamboni",
+    "arranger": "Ferlazzo",
+    "publishers": [
+      "TrevCo Music Publishing"
+    ],
+    "publisherText": "TrevCo Music Publishing",
+    "classLevel": 1,
+    "specification": "(fl, cl, hn, bsn) (play 1st mvt OR 2nd & 3rd)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "241-1-11730",
+    "instrumentSlug": "woodwind-quartet",
+    "instrumentName": "Woodwind Quartets",
+    "eventName": "Woodwind Quartet",
+    "title": "Fleeting Moments",
+    "composer": "Prokofiev",
+    "arranger": "",
+    "publishers": [
+      "Carl Fischer, Inc."
+    ],
+    "publisherText": "Carl Fischer, Inc.",
+    "classLevel": 1,
+    "specification": "(play both mvts) (fl, ob, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "241-1-12231",
+    "instrumentSlug": "woodwind-quartet",
+    "instrumentName": "Woodwind Quartets",
+    "eventName": "Woodwind Quartet",
+    "title": "Sechs Quartette, Heft I",
+    "composer": "Rossini",
+    "arranger": "",
+    "publishers": [
+      "Schott Company"
+    ],
+    "publisherText": "Schott Company",
+    "classLevel": 1,
+    "specification": "(play first or last mvt of one quartet) (fl, cl, hn, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "241-1-12232",
+    "instrumentSlug": "woodwind-quartet",
+    "instrumentName": "Woodwind Quartets",
+    "eventName": "Woodwind Quartet",
+    "title": "Sechs Quartette, Heft II",
+    "composer": "Rossini",
+    "arranger": "",
+    "publishers": [
+      "Schott Company"
+    ],
+    "publisherText": "Schott Company",
+    "classLevel": 1,
+    "specification": "(play first or last mvt of one quartet) (fl, cl, hn, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "241-1-35723",
+    "instrumentSlug": "woodwind-quartet",
+    "instrumentName": "Woodwind Quartets",
+    "eventName": "Woodwind Quartet",
+    "title": "Sonata No. 6 (b)",
+    "composer": "Rossini",
+    "arranger": "Ferlazzo",
+    "publishers": [
+      "TrevCo Music Publishing"
+    ],
+    "publisherText": "TrevCo Music Publishing",
+    "classLevel": 1,
+    "specification": "(fl, cl, hn, bsn) (play 1st mvt OR 2nd & 3rd)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "241-1-35718",
+    "instrumentSlug": "woodwind-quartet",
+    "instrumentName": "Woodwind Quartets",
+    "eventName": "Woodwind Quartet",
+    "title": "Sonata No.1 in F Major",
+    "composer": "Rossini",
+    "arranger": "Berr/Ferlazzo",
+    "publishers": [
+      "TrevCo Music Publishing"
+    ],
+    "publisherText": "TrevCo Music Publishing",
+    "classLevel": 1,
+    "specification": "(fl, cl, hn, bsn) (play 1st mvt OR 2nd & 3rd)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "241-1-35719",
+    "instrumentSlug": "woodwind-quartet",
+    "instrumentName": "Woodwind Quartets",
+    "eventName": "Woodwind Quartet",
+    "title": "Sonata No.2 in G Major",
+    "composer": "Rossini",
+    "arranger": "Berr/Ferlazzo",
+    "publishers": [
+      "TrevCo Music Publishing"
+    ],
+    "publisherText": "TrevCo Music Publishing",
+    "classLevel": 1,
+    "specification": "(fl, cl, hn, bsn) (play 1st mvt OR 2nd & 3rd)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "241-1-35720",
+    "instrumentSlug": "woodwind-quartet",
+    "instrumentName": "Woodwind Quartets",
+    "eventName": "Woodwind Quartet",
+    "title": "Sonata No.3 in F Major",
+    "composer": "Rossini",
+    "arranger": "Berr/Ferlazzo",
+    "publishers": [
+      "TrevCo Music Publishing"
+    ],
+    "publisherText": "TrevCo Music Publishing",
+    "classLevel": 1,
+    "specification": "(fl, cl, hn, bsn) (play 1st mvt OR 2nd & 3rd)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "241-1-35721",
+    "instrumentSlug": "woodwind-quartet",
+    "instrumentName": "Woodwind Quartets",
+    "eventName": "Woodwind Quartet",
+    "title": "Sonata No.4 in B Flat Major",
+    "composer": "Rossini",
+    "arranger": "Berr/Ferlazzo",
+    "publishers": [
+      "TrevCo Music Publishing"
+    ],
+    "publisherText": "TrevCo Music Publishing",
+    "classLevel": 1,
+    "specification": "(fl, cl, hn, bsn) (play 1st mvt OR 2nd & 3rd)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "241-1-35722",
+    "instrumentSlug": "woodwind-quartet",
+    "instrumentName": "Woodwind Quartets",
+    "eventName": "Woodwind Quartet",
+    "title": "Sonata No.5 in D Major",
+    "composer": "Rossini",
+    "arranger": "Berr/Ferlazzo",
+    "publishers": [
+      "TrevCo Music Publishing"
+    ],
+    "publisherText": "TrevCo Music Publishing",
+    "classLevel": 1,
+    "specification": "(fl, cl, hn, bsn) (play 1st mvt OR 2nd & 3rd)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "241-1-11731",
+    "instrumentSlug": "woodwind-quartet",
+    "instrumentName": "Woodwind Quartets",
+    "eventName": "Woodwind Quartet",
+    "title": "Scarlattiana",
+    "composer": "Scarlatti",
+    "arranger": "Rosenthal",
+    "publishers": [
+      "Western International Music, Inc."
+    ],
+    "publisherText": "Western International Music, Inc.",
+    "classLevel": 1,
+    "specification": "(play all) (fl, ob, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "241-1-34619",
+    "instrumentSlug": "woodwind-quartet",
+    "instrumentName": "Woodwind Quartets",
+    "eventName": "Woodwind Quartet",
+    "title": "Three Movements from the Ballet \"The Seagull\"",
+    "composer": "Shchedrin",
+    "arranger": "Mustonen",
+    "publishers": [
+      "Southern Music Company"
+    ],
+    "publisherText": "Southern Music Company",
+    "classLevel": 1,
+    "specification": "(fl, ob, cl, piano)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "241-1-26566",
+    "instrumentSlug": "woodwind-quartet",
+    "instrumentName": "Woodwind Quartets",
+    "eventName": "Woodwind Quartet",
+    "title": "Pastorale",
+    "composer": "Stravinsky",
+    "arranger": "Schmidt",
+    "publishers": [
+      "Western International Music, Inc."
+    ],
+    "publisherText": "Western International Music, Inc.",
+    "classLevel": 1,
+    "specification": "(ob, cl, hn, bn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "241-1-11732",
+    "instrumentSlug": "woodwind-quartet",
+    "instrumentName": "Woodwind Quartets",
+    "eventName": "Woodwind Quartet",
+    "title": "Novellette",
+    "composer": "Uber",
+    "arranger": "",
+    "publishers": [
+      "Alry Publications, Etc. Inc."
+    ],
+    "publisherText": "Alry Publications, Etc. Inc.",
+    "classLevel": 1,
+    "specification": "(fl, ob, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "241-1-34474",
+    "instrumentSlug": "woodwind-quartet",
+    "instrumentName": "Woodwind Quartets",
+    "eventName": "Woodwind Quartet",
+    "title": "Quartour",
+    "composer": "Villa-Lobos",
+    "arranger": "",
+    "publishers": [
+      "Eschig (France)"
+    ],
+    "publisherText": "Eschig (France)",
+    "classLevel": 1,
+    "specification": "(fl, ob, cl, hn, bsn) (play one mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  }
+]

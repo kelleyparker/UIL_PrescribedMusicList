@@ -1,0 +1,22 @@
+{
+  "schoolYear": "2025-2026",
+  "instrumentSlug": "trumpet-trio",
+  "instrumentName": "Trumpet Trios",
+  "songCount": 92,
+  "publisherCount": 92,
+  "noteCount": 1,
+  "databaseRecordCount": 93,
+  "classBreakdown": {
+    "3": 28,
+    "2": 40,
+    "1": 24
+  },
+  "noMemoryRequiredCount": 0,
+  "publicDomainPdfCount": 0,
+  "eventBreakdown": {
+    "Trumpet Trio": 92
+  },
+  "notes": {
+    "dataset_audit": "Sourced from https://www.uiltexas.org/pml/ and https://www.uiltexas.org/pml/pml.php. Imported 2026-03-24T22:04:46.435778+00:00."
+  }
+}

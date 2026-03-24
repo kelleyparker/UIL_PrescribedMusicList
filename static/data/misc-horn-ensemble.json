@@ -1,0 +1,1170 @@
+[
+  {
+    "uilCode": "373-3-35669",
+    "instrumentSlug": "misc-horn-ensemble",
+    "instrumentName": "Miscellaneous Horn Ensembles",
+    "eventName": "Miscellaneous Horn Ensemble",
+    "title": "Classical FlexTrios",
+    "composer": "various",
+    "arranger": "Balent",
+    "publishers": [
+      "Kendor Music, Inc."
+    ],
+    "publisherText": "Kendor Music, Inc.",
+    "classLevel": 3,
+    "specification": "TRIO (play two trios)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "373-2-13610",
+    "instrumentSlug": "misc-horn-ensemble",
+    "instrumentName": "Miscellaneous Horn Ensembles",
+    "eventName": "Miscellaneous Horn Ensemble",
+    "title": "Suscepit Israel",
+    "composer": "Bach",
+    "arranger": "Schmidt",
+    "publishers": [
+      "Western International Music, Inc."
+    ],
+    "publisherText": "Western International Music, Inc.",
+    "classLevel": 2,
+    "specification": "TRIO",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "373-2-13612",
+    "instrumentSlug": "misc-horn-ensemble",
+    "instrumentName": "Miscellaneous Horn Ensembles",
+    "eventName": "Miscellaneous Horn Ensemble",
+    "title": "Sonata",
+    "composer": "Boismortier",
+    "arranger": "Shaw",
+    "publishers": [
+      "The Hornist's Nest"
+    ],
+    "publisherText": "The Hornist's Nest",
+    "classLevel": 2,
+    "specification": "TRIO (play 1 mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "373-2-14298",
+    "instrumentSlug": "misc-horn-ensemble",
+    "instrumentName": "Miscellaneous Horn Ensembles",
+    "eventName": "Miscellaneous Horn Ensemble",
+    "title": "Singing and Laughing",
+    "composer": "Cherubini",
+    "arranger": "Ramm",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 2,
+    "specification": "QUINTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "373-2-35695",
+    "instrumentSlug": "misc-horn-ensemble",
+    "instrumentName": "Miscellaneous Horn Ensembles",
+    "eventName": "Miscellaneous Horn Ensemble",
+    "title": "Al mormorare de' liquidi cristalli",
+    "composer": "Gastoldi",
+    "arranger": "Friedrich",
+    "publishers": [
+      "KFS Publishing"
+    ],
+    "publisherText": "KFS Publishing",
+    "classLevel": 2,
+    "specification": "SEXTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "373-2-13620",
+    "instrumentSlug": "misc-horn-ensemble",
+    "instrumentName": "Miscellaneous Horn Ensembles",
+    "eventName": "Miscellaneous Horn Ensemble",
+    "title": "Petits Chansons",
+    "composer": "Gretchaninoff",
+    "arranger": "Lester",
+    "publishers": [
+      "JTL Publications, G. Scott Music Publishing Co."
+    ],
+    "publisherText": "JTL Publications, G. Scott Music Publishing Co.",
+    "classLevel": 2,
+    "specification": "TRIO",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "373-2-35677",
+    "instrumentSlug": "misc-horn-ensemble",
+    "instrumentName": "Miscellaneous Horn Ensembles",
+    "eventName": "Miscellaneous Horn Ensemble",
+    "title": "Danse a la Gigue",
+    "composer": "Kaisershot",
+    "arranger": "",
+    "publishers": [
+      "Eighth Note Publications"
+    ],
+    "publisherText": "Eighth Note Publications",
+    "classLevel": 2,
+    "specification": "TRIO",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "373-2-35681",
+    "instrumentSlug": "misc-horn-ensemble",
+    "instrumentName": "Miscellaneous Horn Ensembles",
+    "eventName": "Miscellaneous Horn Ensemble",
+    "title": "Marche Heroique",
+    "composer": "Kaisershot",
+    "arranger": "",
+    "publishers": [
+      "Eighth Note Publications"
+    ],
+    "publisherText": "Eighth Note Publications",
+    "classLevel": 2,
+    "specification": "TRIO",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "373-2-35679",
+    "instrumentSlug": "misc-horn-ensemble",
+    "instrumentName": "Miscellaneous Horn Ensembles",
+    "eventName": "Miscellaneous Horn Ensemble",
+    "title": "Modern Day Madrigal",
+    "composer": "Kaisershot",
+    "arranger": "",
+    "publishers": [
+      "Eighth Note Publications"
+    ],
+    "publisherText": "Eighth Note Publications",
+    "classLevel": 2,
+    "specification": "TRIO",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "373-2-35678",
+    "instrumentSlug": "misc-horn-ensemble",
+    "instrumentName": "Miscellaneous Horn Ensembles",
+    "eventName": "Miscellaneous Horn Ensemble",
+    "title": "Novellette",
+    "composer": "Kaisershot",
+    "arranger": "",
+    "publishers": [
+      "Eighth Note Publications"
+    ],
+    "publisherText": "Eighth Note Publications",
+    "classLevel": 2,
+    "specification": "TRIO",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "373-2-35680",
+    "instrumentSlug": "misc-horn-ensemble",
+    "instrumentName": "Miscellaneous Horn Ensembles",
+    "eventName": "Miscellaneous Horn Ensemble",
+    "title": "Rondeau Gracieuse",
+    "composer": "Kaisershot",
+    "arranger": "",
+    "publishers": [
+      "Eighth Note Publications"
+    ],
+    "publisherText": "Eighth Note Publications",
+    "classLevel": 2,
+    "specification": "TRIO",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "373-2-35671",
+    "instrumentSlug": "misc-horn-ensemble",
+    "instrumentName": "Miscellaneous Horn Ensembles",
+    "eventName": "Miscellaneous Horn Ensemble",
+    "title": "Solemnis Elegiac",
+    "composer": "Kaisershot",
+    "arranger": "",
+    "publishers": [
+      "Eighth Note Publications"
+    ],
+    "publisherText": "Eighth Note Publications",
+    "classLevel": 2,
+    "specification": "TRIO",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "373-2-35672",
+    "instrumentSlug": "misc-horn-ensemble",
+    "instrumentName": "Miscellaneous Horn Ensembles",
+    "eventName": "Miscellaneous Horn Ensemble",
+    "title": "Tableau Royale",
+    "composer": "Kaisershot",
+    "arranger": "",
+    "publishers": [
+      "Eighth Note Publications"
+    ],
+    "publisherText": "Eighth Note Publications",
+    "classLevel": 2,
+    "specification": "TRIO",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "373-2-35673",
+    "instrumentSlug": "misc-horn-ensemble",
+    "instrumentName": "Miscellaneous Horn Ensembles",
+    "eventName": "Miscellaneous Horn Ensemble",
+    "title": "Three and Three Quarters - A Trivial Trifle",
+    "composer": "Kaisershot",
+    "arranger": "",
+    "publishers": [
+      "Eighth Note Publications"
+    ],
+    "publisherText": "Eighth Note Publications",
+    "classLevel": 2,
+    "specification": "TRIO",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "373-2-35682",
+    "instrumentSlug": "misc-horn-ensemble",
+    "instrumentName": "Miscellaneous Horn Ensembles",
+    "eventName": "Miscellaneous Horn Ensemble",
+    "title": "Trios for All Occasions, Vol. 3 Stand Alone",
+    "composer": "Kaisershot",
+    "arranger": "",
+    "publishers": [
+      "Eighth Note Publications [Trios for All Occasions, Vol 3 Stand Alone]"
+    ],
+    "publisherText": "Eighth Note Publications [Trios for All Occasions, Vol 3 Stand Alone]",
+    "classLevel": 2,
+    "specification": "TRIO (play Bagatelle OR Honor and Tribute OR Galop OR Ode Melancholique OR Minor Burns OR Regimental OR Tattered Rag",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "373-2-35674",
+    "instrumentSlug": "misc-horn-ensemble",
+    "instrumentName": "Miscellaneous Horn Ensembles",
+    "eventName": "Miscellaneous Horn Ensemble",
+    "title": "Triplet Trove",
+    "composer": "Kaisershot",
+    "arranger": "",
+    "publishers": [
+      "Eighth Note Publications"
+    ],
+    "publisherText": "Eighth Note Publications",
+    "classLevel": 2,
+    "specification": "TRIO (play two contrasting mvts)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "373-2-29619",
+    "instrumentSlug": "misc-horn-ensemble",
+    "instrumentName": "Miscellaneous Horn Ensembles",
+    "eventName": "Miscellaneous Horn Ensemble",
+    "title": "Two Folk Songs",
+    "composer": "Lafferty",
+    "arranger": "",
+    "publishers": [
+      "Great Works Publishing"
+    ],
+    "publisherText": "Great Works Publishing",
+    "classLevel": 2,
+    "specification": "TRIO",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "373-2-35694",
+    "instrumentSlug": "misc-horn-ensemble",
+    "instrumentName": "Miscellaneous Horn Ensembles",
+    "eventName": "Miscellaneous Horn Ensemble",
+    "title": "Heroes Triumphant",
+    "composer": "Lendt",
+    "arranger": "",
+    "publishers": [
+      "JPM Music Publications"
+    ],
+    "publisherText": "JPM Music Publications",
+    "classLevel": 2,
+    "specification": "TRIO",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "373-2-13624",
+    "instrumentSlug": "misc-horn-ensemble",
+    "instrumentName": "Miscellaneous Horn Ensembles",
+    "eventName": "Miscellaneous Horn Ensemble",
+    "title": "Terzett der Engel",
+    "composer": "Mendelssohn",
+    "arranger": "Rosenthal",
+    "publishers": [
+      "Western International Music, Inc."
+    ],
+    "publisherText": "Western International Music, Inc.",
+    "classLevel": 2,
+    "specification": "TRIO",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "373-2-35675",
+    "instrumentSlug": "misc-horn-ensemble",
+    "instrumentName": "Miscellaneous Horn Ensembles",
+    "eventName": "Miscellaneous Horn Ensemble",
+    "title": "Three Mozart Trios",
+    "composer": "Mozart",
+    "arranger": "Hilfiger",
+    "publishers": [
+      "Eighth Note Publications"
+    ],
+    "publisherText": "Eighth Note Publications",
+    "classLevel": 2,
+    "specification": "TRIO",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "373-2-35693",
+    "instrumentSlug": "misc-horn-ensemble",
+    "instrumentName": "Miscellaneous Horn Ensembles",
+    "eventName": "Miscellaneous Horn Ensemble",
+    "title": "The Coachman",
+    "composer": "Pappas",
+    "arranger": "",
+    "publishers": [
+      "JPM Music Publications"
+    ],
+    "publisherText": "JPM Music Publications",
+    "classLevel": 2,
+    "specification": "TRIO",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "373-2-35692",
+    "instrumentSlug": "misc-horn-ensemble",
+    "instrumentName": "Miscellaneous Horn Ensembles",
+    "eventName": "Miscellaneous Horn Ensemble",
+    "title": "The Hunter's Glen",
+    "composer": "Pappas",
+    "arranger": "",
+    "publishers": [
+      "JPM Music Publications"
+    ],
+    "publisherText": "JPM Music Publications",
+    "classLevel": 2,
+    "specification": "TRIO",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "373-2-35689",
+    "instrumentSlug": "misc-horn-ensemble",
+    "instrumentName": "Miscellaneous Horn Ensembles",
+    "eventName": "Miscellaneous Horn Ensemble",
+    "title": "Trio No. 1",
+    "composer": "Pappas",
+    "arranger": "",
+    "publishers": [
+      "JPM Music Publications"
+    ],
+    "publisherText": "JPM Music Publications",
+    "classLevel": 2,
+    "specification": "TRIO",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "373-2-35690",
+    "instrumentSlug": "misc-horn-ensemble",
+    "instrumentName": "Miscellaneous Horn Ensembles",
+    "eventName": "Miscellaneous Horn Ensemble",
+    "title": "Trio No. 2",
+    "composer": "Pappas",
+    "arranger": "",
+    "publishers": [
+      "JPM Music Publications"
+    ],
+    "publisherText": "JPM Music Publications",
+    "classLevel": 2,
+    "specification": "TRIO",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "373-2-35691",
+    "instrumentSlug": "misc-horn-ensemble",
+    "instrumentName": "Miscellaneous Horn Ensembles",
+    "eventName": "Miscellaneous Horn Ensemble",
+    "title": "Trio No. 3",
+    "composer": "Pappas",
+    "arranger": "",
+    "publishers": [
+      "JPM Music Publications"
+    ],
+    "publisherText": "JPM Music Publications",
+    "classLevel": 2,
+    "specification": "TRIO",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "373-2-34325",
+    "instrumentSlug": "misc-horn-ensemble",
+    "instrumentName": "Miscellaneous Horn Ensembles",
+    "eventName": "Miscellaneous Horn Ensemble",
+    "title": "Sonata No. 4",
+    "composer": "Pergolesi",
+    "arranger": "",
+    "publishers": [
+      "Western International Music, Inc."
+    ],
+    "publisherText": "Western International Music, Inc.",
+    "classLevel": 2,
+    "specification": "TRIO (play one mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "373-2-35676",
+    "instrumentSlug": "misc-horn-ensemble",
+    "instrumentName": "Miscellaneous Horn Ensembles",
+    "eventName": "Miscellaneous Horn Ensemble",
+    "title": "Three Schubert Trios",
+    "composer": "Schubert",
+    "arranger": "Hilfiger",
+    "publishers": [
+      "Eighth Note Publications"
+    ],
+    "publisherText": "Eighth Note Publications",
+    "classLevel": 2,
+    "specification": "TRIO",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "373-2-13626",
+    "instrumentSlug": "misc-horn-ensemble",
+    "instrumentName": "Miscellaneous Horn Ensembles",
+    "eventName": "Miscellaneous Horn Ensemble",
+    "title": "Three Songs",
+    "composer": "Schubert",
+    "arranger": "Voxman/Block",
+    "publishers": [
+      "Southern Music Company"
+    ],
+    "publisherText": "Southern Music Company",
+    "classLevel": 2,
+    "specification": "TRIO (play 1 mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "373-1-34335",
+    "instrumentSlug": "misc-horn-ensemble",
+    "instrumentName": "Miscellaneous Horn Ensembles",
+    "eventName": "Miscellaneous Horn Ensemble",
+    "title": "Hector Held Von Troja",
+    "composer": "Angerer",
+    "arranger": "",
+    "publishers": [
+      "Heavy Brass"
+    ],
+    "publisherText": "Heavy Brass",
+    "classLevel": 1,
+    "specification": "OCTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "373-1-38689",
+    "instrumentSlug": "misc-horn-ensemble",
+    "instrumentName": "Miscellaneous Horn Ensembles",
+    "eventName": "Miscellaneous Horn Ensemble",
+    "title": "Bach for Horn Trio, Volumes 1, 2, & 3",
+    "composer": "Bach",
+    "arranger": "Strohm",
+    "publishers": [
+      "Pete Strohm Music"
+    ],
+    "publisherText": "Pete Strohm Music",
+    "classLevel": 1,
+    "specification": "TRIO (play one mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "373-1-29617",
+    "instrumentSlug": "misc-horn-ensemble",
+    "instrumentName": "Miscellaneous Horn Ensembles",
+    "eventName": "Miscellaneous Horn Ensemble",
+    "title": "Trio Sonata #6 Movement III, BWV 530",
+    "composer": "Bach",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 1,
+    "specification": "TRIO",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "373-1-34336",
+    "instrumentSlug": "misc-horn-ensemble",
+    "instrumentName": "Miscellaneous Horn Ensembles",
+    "eventName": "Miscellaneous Horn Ensemble",
+    "title": "Big Sky Country",
+    "composer": "Baldwin",
+    "arranger": "",
+    "publishers": [
+      "Imagine Music"
+    ],
+    "publisherText": "Imagine Music",
+    "classLevel": 1,
+    "specification": "OCTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "373-1-13593",
+    "instrumentSlug": "misc-horn-ensemble",
+    "instrumentName": "Miscellaneous Horn Ensembles",
+    "eventName": "Miscellaneous Horn Ensemble",
+    "title": "La Chasse",
+    "composer": "Barrows",
+    "arranger": "",
+    "publishers": [
+      "The Hornist's Nest"
+    ],
+    "publisherText": "The Hornist's Nest",
+    "classLevel": 1,
+    "specification": "TRIO",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "373-1-34326",
+    "instrumentSlug": "misc-horn-ensemble",
+    "instrumentName": "Miscellaneous Horn Ensembles",
+    "eventName": "Miscellaneous Horn Ensemble",
+    "title": "Harambee",
+    "composer": "Basler",
+    "arranger": "",
+    "publishers": [
+      "R M Williams Publishing"
+    ],
+    "publisherText": "R M Williams Publishing",
+    "classLevel": 1,
+    "specification": "QUINTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "373-1-34337",
+    "instrumentSlug": "misc-horn-ensemble",
+    "instrumentName": "Miscellaneous Horn Ensembles",
+    "eventName": "Miscellaneous Horn Ensemble",
+    "title": "Three Portraits",
+    "composer": "Bissill",
+    "arranger": "",
+    "publishers": [
+      "Broadbent & Dunn, Ltd"
+    ],
+    "publisherText": "Broadbent & Dunn, Ltd",
+    "classLevel": 1,
+    "specification": "OCTET (play one mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "373-1-13594",
+    "instrumentSlug": "misc-horn-ensemble",
+    "instrumentName": "Miscellaneous Horn Ensembles",
+    "eventName": "Miscellaneous Horn Ensemble",
+    "title": "Sonata",
+    "composer": "Boismortier",
+    "arranger": "Shaw",
+    "publishers": [
+      "The Hornist's Nest"
+    ],
+    "publisherText": "The Hornist's Nest",
+    "classLevel": 1,
+    "specification": "TRIO (play two mvts)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "373-1-34338",
+    "instrumentSlug": "misc-horn-ensemble",
+    "instrumentName": "Miscellaneous Horn Ensembles",
+    "eventName": "Miscellaneous Horn Ensemble",
+    "title": "Euphonies",
+    "composer": "Broughton",
+    "arranger": "",
+    "publishers": [
+      "Black Squirrel Music"
+    ],
+    "publisherText": "Black Squirrel Music",
+    "classLevel": 1,
+    "specification": "OCTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "373-1-34339",
+    "instrumentSlug": "misc-horn-ensemble",
+    "instrumentName": "Miscellaneous Horn Ensembles",
+    "eventName": "Miscellaneous Horn Ensemble",
+    "title": "Os Justi",
+    "composer": "Bruckner",
+    "arranger": "McCracken",
+    "publishers": [
+      "Musicians Publications"
+    ],
+    "publisherText": "Musicians Publications",
+    "classLevel": 1,
+    "specification": "OCTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "373-1-34340",
+    "instrumentSlug": "misc-horn-ensemble",
+    "instrumentName": "Miscellaneous Horn Ensembles",
+    "eventName": "Miscellaneous Horn Ensemble",
+    "title": "Reach for the Skies",
+    "composer": "Dousa",
+    "arranger": "",
+    "publishers": [],
+    "publisherText": "",
+    "classLevel": 1,
+    "specification": "OCTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "373-1-29618",
+    "instrumentSlug": "misc-horn-ensemble",
+    "instrumentName": "Miscellaneous Horn Ensembles",
+    "eventName": "Miscellaneous Horn Ensemble",
+    "title": "Five Trios Vol. 1",
+    "composer": "Druchetzky",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 1,
+    "specification": "TRIO (play mvt 1 and 3 or 4)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "373-1-34341",
+    "instrumentSlug": "misc-horn-ensemble",
+    "instrumentName": "Miscellaneous Horn Ensembles",
+    "eventName": "Miscellaneous Horn Ensemble",
+    "title": "Nimrod, from Enigma Variations, op. 36",
+    "composer": "Elgar",
+    "arranger": "Boaz",
+    "publishers": [
+      "Cimarron Music Press"
+    ],
+    "publisherText": "Cimarron Music Press",
+    "classLevel": 1,
+    "specification": "OCTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "373-1-34342",
+    "instrumentSlug": "misc-horn-ensemble",
+    "instrumentName": "Miscellaneous Horn Ensembles",
+    "eventName": "Miscellaneous Horn Ensemble",
+    "title": "Grand Canyon Octet",
+    "composer": "Ewazen",
+    "arranger": "",
+    "publishers": [
+      "Southern Music Company/ Hal Leonard Corp."
+    ],
+    "publisherText": "Southern Music Company/ Hal Leonard Corp.",
+    "classLevel": 1,
+    "specification": "OCTET (play one mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "373-1-34323",
+    "instrumentSlug": "misc-horn-ensemble",
+    "instrumentName": "Miscellaneous Horn Ensembles",
+    "eventName": "Miscellaneous Horn Ensemble",
+    "title": "12 Trios, Op. 10",
+    "composer": "Frehse",
+    "arranger": "Booker, ed.",
+    "publishers": [
+      "Southern Music Company"
+    ],
+    "publisherText": "Southern Music Company",
+    "classLevel": 1,
+    "specification": "TRIO (play 1 and 4 OR 5 and 7)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "373-1-34343",
+    "instrumentSlug": "misc-horn-ensemble",
+    "instrumentName": "Miscellaneous Horn Ensembles",
+    "eventName": "Miscellaneous Horn Ensemble",
+    "title": "Entry of the Gladiators",
+    "composer": "Fucik",
+    "arranger": "Brown",
+    "publishers": [
+      "SeanBrownMusic"
+    ],
+    "publisherText": "SeanBrownMusic",
+    "classLevel": 1,
+    "specification": "OCTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "373-1-34330",
+    "instrumentSlug": "misc-horn-ensemble",
+    "instrumentName": "Miscellaneous Horn Ensembles",
+    "eventName": "Miscellaneous Horn Ensemble",
+    "title": "Six Pieces from \"The Water Music\"",
+    "composer": "Handel",
+    "arranger": "Martinet",
+    "publishers": [
+      "The Hornist's Nest"
+    ],
+    "publisherText": "The Hornist's Nest",
+    "classLevel": 1,
+    "specification": "SEXTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "373-1-14452",
+    "instrumentSlug": "misc-horn-ensemble",
+    "instrumentName": "Miscellaneous Horn Ensembles",
+    "eventName": "Miscellaneous Horn Ensemble",
+    "title": "Fanfare and Toccata",
+    "composer": "Holcombe",
+    "arranger": "",
+    "publishers": [
+      "Musicians Publications"
+    ],
+    "publisherText": "Musicians Publications",
+    "classLevel": 1,
+    "specification": "TWELVE",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "373-1-34344",
+    "instrumentSlug": "misc-horn-ensemble",
+    "instrumentName": "Miscellaneous Horn Ensembles",
+    "eventName": "Miscellaneous Horn Ensemble",
+    "title": "Hansel & Gretel, Prelude & Chorale",
+    "composer": "Humperdinck",
+    "arranger": "Kirschen",
+    "publishers": [
+      "The Hornist's Nest"
+    ],
+    "publisherText": "The Hornist's Nest",
+    "classLevel": 1,
+    "specification": "OCTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "373-1-34345",
+    "instrumentSlug": "misc-horn-ensemble",
+    "instrumentName": "Miscellaneous Horn Ensembles",
+    "eventName": "Miscellaneous Horn Ensemble",
+    "title": "Concertate",
+    "composer": "Iijima",
+    "arranger": "",
+    "publishers": [
+      "Brain Co./Bravo Music"
+    ],
+    "publisherText": "Brain Co./Bravo Music",
+    "classLevel": 1,
+    "specification": "OCTET (play 1st mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "373-1-34346",
+    "instrumentSlug": "misc-horn-ensemble",
+    "instrumentName": "Miscellaneous Horn Ensembles",
+    "eventName": "Miscellaneous Horn Ensemble",
+    "title": "Campbell Fanfare",
+    "composer": "Jostlein",
+    "arranger": "",
+    "publishers": [
+      "Randall E Faust"
+    ],
+    "publisherText": "Randall E Faust",
+    "classLevel": 1,
+    "specification": "OCTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "373-1-35670",
+    "instrumentSlug": "misc-horn-ensemble",
+    "instrumentName": "Miscellaneous Horn Ensembles",
+    "eventName": "Miscellaneous Horn Ensemble",
+    "title": "Triplet Trove",
+    "composer": "Kaisershot",
+    "arranger": "",
+    "publishers": [
+      "Eighth Note Publications"
+    ],
+    "publisherText": "Eighth Note Publications",
+    "classLevel": 1,
+    "specification": "TRIO",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "373-1-34331",
+    "instrumentSlug": "misc-horn-ensemble",
+    "instrumentName": "Miscellaneous Horn Ensembles",
+    "eventName": "Miscellaneous Horn Ensemble",
+    "title": "Fanfare and Fugue for Six Horns",
+    "composer": "Kerkorian",
+    "arranger": "",
+    "publishers": [
+      "The Hornist's Nest"
+    ],
+    "publisherText": "The Hornist's Nest",
+    "classLevel": 1,
+    "specification": "SEXTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "373-1-34332",
+    "instrumentSlug": "misc-horn-ensemble",
+    "instrumentName": "Miscellaneous Horn Ensembles",
+    "eventName": "Miscellaneous Horn Ensemble",
+    "title": "Mountain Spires",
+    "composer": "Kuo",
+    "arranger": "",
+    "publishers": [
+      "Electric Violin Music"
+    ],
+    "publisherText": "Electric Violin Music",
+    "classLevel": 1,
+    "specification": "SEXTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "373-1-34333",
+    "instrumentSlug": "misc-horn-ensemble",
+    "instrumentName": "Miscellaneous Horn Ensembles",
+    "eventName": "Miscellaneous Horn Ensemble",
+    "title": "Fanfare for Six Horns",
+    "composer": "May",
+    "arranger": "",
+    "publishers": [
+      "William A.R. May"
+    ],
+    "publisherText": "William A.R. May",
+    "classLevel": 1,
+    "specification": "SEXTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "373-1-34347",
+    "instrumentSlug": "misc-horn-ensemble",
+    "instrumentName": "Miscellaneous Horn Ensembles",
+    "eventName": "Miscellaneous Horn Ensemble",
+    "title": "O Rest in the Lord",
+    "composer": "Mendelssohn",
+    "arranger": "Shaw",
+    "publishers": [
+      "The Hornist's Nest"
+    ],
+    "publisherText": "The Hornist's Nest",
+    "classLevel": 1,
+    "specification": "OCTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "373-1-34348",
+    "instrumentSlug": "misc-horn-ensemble",
+    "instrumentName": "Miscellaneous Horn Ensembles",
+    "eventName": "Miscellaneous Horn Ensemble",
+    "title": "Symphony 4 Italian",
+    "composer": "Mendelssohn",
+    "arranger": "Schlecta",
+    "publishers": [
+      "Select-a-Press"
+    ],
+    "publisherText": "Select-a-Press",
+    "classLevel": 1,
+    "specification": "OCTET (play 2nd mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "373-1-38690",
+    "instrumentSlug": "misc-horn-ensemble",
+    "instrumentName": "Miscellaneous Horn Ensembles",
+    "eventName": "Miscellaneous Horn Ensemble",
+    "title": "Mozart for Horn Trio, Volume 1",
+    "composer": "Mozart",
+    "arranger": "Strohm",
+    "publishers": [
+      "Pete Strohm Music"
+    ],
+    "publisherText": "Pete Strohm Music",
+    "classLevel": 1,
+    "specification": "TRIO (play one mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "373-1-34349",
+    "instrumentSlug": "misc-horn-ensemble",
+    "instrumentName": "Miscellaneous Horn Ensembles",
+    "eventName": "Miscellaneous Horn Ensemble",
+    "title": "Rio Grande Octets",
+    "composer": "Musella",
+    "arranger": "",
+    "publishers": [
+      "MKT Music Publications"
+    ],
+    "publisherText": "MKT Music Publications",
+    "classLevel": 1,
+    "specification": "OCTET (play one mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "373-1-13625",
+    "instrumentSlug": "misc-horn-ensemble",
+    "instrumentName": "Miscellaneous Horn Ensembles",
+    "eventName": "Miscellaneous Horn Ensemble",
+    "title": "Sonata No. 4",
+    "composer": "Pergolesi",
+    "arranger": "Rosenthal",
+    "publishers": [
+      "Western International Music, Inc."
+    ],
+    "publisherText": "Western International Music, Inc.",
+    "classLevel": 1,
+    "specification": "TRIO",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "373-1-34334",
+    "instrumentSlug": "misc-horn-ensemble",
+    "instrumentName": "Miscellaneous Horn Ensembles",
+    "eventName": "Miscellaneous Horn Ensemble",
+    "title": "Festival Fanfare",
+    "composer": "Perrini",
+    "arranger": "",
+    "publishers": [
+      "The Hornist's Nest"
+    ],
+    "publisherText": "The Hornist's Nest",
+    "classLevel": 1,
+    "specification": "SEXTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "373-1-13603",
+    "instrumentSlug": "misc-horn-ensemble",
+    "instrumentName": "Miscellaneous Horn Ensembles",
+    "eventName": "Miscellaneous Horn Ensemble",
+    "title": "Six Trios Op. 82",
+    "composer": "Reicha",
+    "arranger": "Frehse/Glasenapp/Chambers",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "TRIO (play two mvts)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "373-1-34327",
+    "instrumentSlug": "misc-horn-ensemble",
+    "instrumentName": "Miscellaneous Horn Ensembles",
+    "eventName": "Miscellaneous Horn Ensemble",
+    "title": "Quipperies Vol. 2",
+    "composer": "Shaw",
+    "arranger": "",
+    "publishers": [
+      "The Hornist's Nest"
+    ],
+    "publisherText": "The Hornist's Nest",
+    "classLevel": 1,
+    "specification": "QUINTET (play two mvts)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "373-1-13607",
+    "instrumentSlug": "misc-horn-ensemble",
+    "instrumentName": "Miscellaneous Horn Ensembles",
+    "eventName": "Miscellaneous Horn Ensemble",
+    "title": "Tripperies",
+    "composer": "Shaw",
+    "arranger": "",
+    "publishers": [
+      "The Hornist's Nest"
+    ],
+    "publisherText": "The Hornist's Nest",
+    "classLevel": 1,
+    "specification": "TRIO (play two mvts)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "373-1-34328",
+    "instrumentSlug": "misc-horn-ensemble",
+    "instrumentName": "Miscellaneous Horn Ensembles",
+    "eventName": "Miscellaneous Horn Ensemble",
+    "title": "Angel Falls",
+    "composer": "Songer",
+    "arranger": "",
+    "publishers": [
+      "The Hornist's Nest"
+    ],
+    "publisherText": "The Hornist's Nest",
+    "classLevel": 1,
+    "specification": "QUINTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "373-1-34329",
+    "instrumentSlug": "misc-horn-ensemble",
+    "instrumentName": "Miscellaneous Horn Ensembles",
+    "eventName": "Miscellaneous Horn Ensemble",
+    "title": "Casbah of Tetouan",
+    "composer": "Turner",
+    "arranger": "",
+    "publishers": [
+      "Phoenix Music Publications"
+    ],
+    "publisherText": "Phoenix Music Publications",
+    "classLevel": 1,
+    "specification": "QUINTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "373-1-34324",
+    "instrumentSlug": "misc-horn-ensemble",
+    "instrumentName": "Miscellaneous Horn Ensembles",
+    "eventName": "Miscellaneous Horn Ensemble",
+    "title": "30 Selected Works for Three Horns",
+    "composer": "various",
+    "arranger": "",
+    "publishers": [
+      "Alfred Music Company, Inc."
+    ],
+    "publisherText": "Alfred Music Company, Inc.",
+    "classLevel": 1,
+    "specification": "TRIO (play 3, 10, 9, and 6 IN THIS ORDER)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  }
+]

@@ -6,108 +6,17 @@ from http.server import SimpleHTTPRequestHandler, ThreadingHTTPServer
 from pathlib import Path
 from urllib.parse import parse_qs, urlparse
 
-from scripts.import_piano_solos import STATIC_DATA_DIR, build_all_from_csv
+from scripts.import_piano_solos import INSTRUMENT_CONFIGS, STATIC_DATA_DIR, build_all_from_csv
 
 
 ROOT = Path(__file__).resolve().parent
 STATIC_DIR = ROOT / "static"
 INSTRUMENT_FILES = {
-    "piano": {
-        "songs": STATIC_DATA_DIR / "piano-solos.json",
-        "stats": STATIC_DATA_DIR / "piano-stats.json",
-    },
-    "clarinet": {
-        "songs": STATIC_DATA_DIR / "clarinet-solos.json",
-        "stats": STATIC_DATA_DIR / "clarinet-stats.json",
-    },
-    "french-horn": {
-        "songs": STATIC_DATA_DIR / "french-horn-solos.json",
-        "stats": STATIC_DATA_DIR / "french-horn-stats.json",
-    },
-    "saxophone": {
-        "songs": STATIC_DATA_DIR / "saxophone-solos.json",
-        "stats": STATIC_DATA_DIR / "saxophone-stats.json",
-    },
-    "trombone": {
-        "songs": STATIC_DATA_DIR / "trombone-solos.json",
-        "stats": STATIC_DATA_DIR / "trombone-stats.json",
-    },
-    "trumpet": {
-        "songs": STATIC_DATA_DIR / "trumpet-solos.json",
-        "stats": STATIC_DATA_DIR / "trumpet-stats.json",
-    },
-    "tuba": {
-        "songs": STATIC_DATA_DIR / "tuba-solos.json",
-        "stats": STATIC_DATA_DIR / "tuba-stats.json",
-    },
-    "flute": {
-        "songs": STATIC_DATA_DIR / "flute-solos.json",
-        "stats": STATIC_DATA_DIR / "flute-stats.json",
-    },
-    "oboe": {
-        "songs": STATIC_DATA_DIR / "oboe-solos.json",
-        "stats": STATIC_DATA_DIR / "oboe-stats.json",
-    },
-    "bassoon": {
-        "songs": STATIC_DATA_DIR / "bassoon-solos.json",
-        "stats": STATIC_DATA_DIR / "bassoon-stats.json",
-    },
-    "alto-saxophone": {
-        "songs": STATIC_DATA_DIR / "alto-saxophone-solos.json",
-        "stats": STATIC_DATA_DIR / "alto-saxophone-stats.json",
-    },
-    "violin": {
-        "songs": STATIC_DATA_DIR / "violin-solos.json",
-        "stats": STATIC_DATA_DIR / "violin-stats.json",
-    },
-    "viola": {
-        "songs": STATIC_DATA_DIR / "viola-solos.json",
-        "stats": STATIC_DATA_DIR / "viola-stats.json",
-    },
-    "cello": {
-        "songs": STATIC_DATA_DIR / "cello-solos.json",
-        "stats": STATIC_DATA_DIR / "cello-stats.json",
-    },
-    "string-bass": {
-        "songs": STATIC_DATA_DIR / "string-bass-solos.json",
-        "stats": STATIC_DATA_DIR / "string-bass-stats.json",
-    },
-    "euphonium": {
-        "songs": STATIC_DATA_DIR / "euphonium-solos.json",
-        "stats": STATIC_DATA_DIR / "euphonium-stats.json",
-    },
-    "piccolo": {
-        "songs": STATIC_DATA_DIR / "piccolo-solos.json",
-        "stats": STATIC_DATA_DIR / "piccolo-stats.json",
-    },
-    "english-horn": {
-        "songs": STATIC_DATA_DIR / "english-horn-solos.json",
-        "stats": STATIC_DATA_DIR / "english-horn-stats.json",
-    },
-    "snare-drum": {
-        "songs": STATIC_DATA_DIR / "snare-drum-solos.json",
-        "stats": STATIC_DATA_DIR / "snare-drum-stats.json",
-    },
-    "timpani": {
-        "songs": STATIC_DATA_DIR / "timpani-solos.json",
-        "stats": STATIC_DATA_DIR / "timpani-stats.json",
-    },
-    "keyboard-percussion": {
-        "songs": STATIC_DATA_DIR / "keyboard-percussion-solos.json",
-        "stats": STATIC_DATA_DIR / "keyboard-percussion-stats.json",
-    },
-    "multiple-percussion": {
-        "songs": STATIC_DATA_DIR / "multiple-percussion-solos.json",
-        "stats": STATIC_DATA_DIR / "multiple-percussion-stats.json",
-    },
-    "drum-set": {
-        "songs": STATIC_DATA_DIR / "drum-set-solos.json",
-        "stats": STATIC_DATA_DIR / "drum-set-stats.json",
-    },
-    "steel-pan": {
-        "songs": STATIC_DATA_DIR / "steel-pan-solos.json",
-        "stats": STATIC_DATA_DIR / "steel-pan-stats.json",
-    },
+    slug: {
+        "songs": config["songs_output"],
+        "stats": config["stats_output"],
+    }
+    for slug, config in INSTRUMENT_CONFIGS.items()
 }
 
 

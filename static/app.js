@@ -255,6 +255,346 @@ const instruments = {
     heroCopy:
       "Browse UIL steel pan solos by class, search titles, composers, and publishers, and review the current steel pan literature list.",
   },
+  "woodwind-trio": {
+    slug: "woodwind-trio",
+    label: "Woodwind Trios",
+    shortLabel: "woodwind trio",
+    songsUrl: "./data/woodwind-trio.json",
+    statsUrl: "./data/woodwind-trio-stats.json",
+    titlePlaceholder: "Try Trio, Rubank, or Ensemble",
+    heroCopy:
+      "Browse UIL woodwind trios, search titles, composers, and publishers, and review the current small-ensemble literature list.",
+  },
+  "flute-trio": {
+    slug: "flute-trio",
+    label: "Flute Trios",
+    shortLabel: "flute trio",
+    songsUrl: "./data/flute-trio.json",
+    statsUrl: "./data/flute-trio-stats.json",
+    titlePlaceholder: "Try Trio, Southern, or Ensemble",
+    heroCopy:
+      "Browse UIL flute trios, search titles, composers, and publishers, and review the current chamber literature list.",
+  },
+  "bb-clarinet-trio": {
+    slug: "bb-clarinet-trio",
+    label: "Bb Clarinet Trios",
+    shortLabel: "Bb clarinet trio",
+    songsUrl: "./data/bb-clarinet-trio.json",
+    statsUrl: "./data/bb-clarinet-trio-stats.json",
+    titlePlaceholder: "Try Trio, Rubank, or Clarinet",
+    heroCopy:
+      "Browse UIL Bb clarinet trios, search titles, composers, and publishers, and review the current clarinet ensemble literature.",
+  },
+  "mixed-clarinet-trio": {
+    slug: "mixed-clarinet-trio",
+    label: "Mixed Clarinet Trios",
+    shortLabel: "mixed clarinet trio",
+    songsUrl: "./data/mixed-clarinet-trio.json",
+    statsUrl: "./data/mixed-clarinet-trio-stats.json",
+    titlePlaceholder: "Try Trio, Clarinet, or Ensemble",
+    heroCopy:
+      "Browse UIL mixed clarinet trios, search titles, composers, and publishers, and review the current clarinet-family chamber literature.",
+  },
+  "woodwind-quartet": {
+    slug: "woodwind-quartet",
+    label: "Woodwind Quartets",
+    shortLabel: "woodwind quartet",
+    songsUrl: "./data/woodwind-quartet.json",
+    statsUrl: "./data/woodwind-quartet-stats.json",
+    titlePlaceholder: "Try Quartet, Ensemble, or Rubank",
+    heroCopy:
+      "Browse UIL woodwind quartets, search titles, composers, and publishers, and review the current chamber literature list.",
+  },
+  "flute-quartet": {
+    slug: "flute-quartet",
+    label: "Flute Quartets",
+    shortLabel: "flute quartet",
+    songsUrl: "./data/flute-quartet.json",
+    statsUrl: "./data/flute-quartet-stats.json",
+    titlePlaceholder: "Try Quartet, Southern, or Flute",
+    heroCopy:
+      "Browse UIL flute quartets, search titles, composers, and publishers, and review the current flute chamber literature.",
+  },
+  "bb-clarinet-quartet": {
+    slug: "bb-clarinet-quartet",
+    label: "Bb Clarinet Quartets",
+    shortLabel: "Bb clarinet quartet",
+    songsUrl: "./data/bb-clarinet-quartet.json",
+    statsUrl: "./data/bb-clarinet-quartet-stats.json",
+    titlePlaceholder: "Try Quartet, Clarinet, or Ensemble",
+    heroCopy:
+      "Browse UIL Bb clarinet quartets, search titles, composers, and publishers, and review the current clarinet chamber literature.",
+  },
+  "mixed-clarinet-quartet": {
+    slug: "mixed-clarinet-quartet",
+    label: "Mixed Clarinet Quartets",
+    shortLabel: "mixed clarinet quartet",
+    songsUrl: "./data/mixed-clarinet-quartet.json",
+    statsUrl: "./data/mixed-clarinet-quartet-stats.json",
+    titlePlaceholder: "Try Quartet, Ensemble, or Clarinet",
+    heroCopy:
+      "Browse UIL mixed clarinet quartets, search titles, composers, and publishers, and review the current clarinet-family ensemble literature.",
+  },
+  "saxophone-quartet": {
+    slug: "saxophone-quartet",
+    label: "Saxophone Quartets",
+    shortLabel: "saxophone quartet",
+    songsUrl: "./data/saxophone-quartet.json",
+    statsUrl: "./data/saxophone-quartet-stats.json",
+    titlePlaceholder: "Try Quartet, Londeix, or Saxophone",
+    heroCopy:
+      "Browse UIL saxophone quartets, search titles, composers, and publishers, and review the current saxophone ensemble literature.",
+  },
+  "woodwind-quintet": {
+    slug: "woodwind-quintet",
+    label: "Woodwind Quintets",
+    shortLabel: "woodwind quintet",
+    songsUrl: "./data/woodwind-quintet.json",
+    statsUrl: "./data/woodwind-quintet-stats.json",
+    titlePlaceholder: "Try Quintet, Ensemble, or Rubank",
+    heroCopy:
+      "Browse UIL woodwind quintets, search titles, composers, and publishers, and review the current chamber literature list.",
+  },
+  "misc-woodwind-ensemble": {
+    slug: "misc-woodwind-ensemble",
+    label: "Miscellaneous Woodwind Ensembles",
+    shortLabel: "woodwind ensemble",
+    songsUrl: "./data/misc-woodwind-ensemble.json",
+    statsUrl: "./data/misc-woodwind-ensemble-stats.json",
+    titlePlaceholder: "Try Ensemble, Woodwind, or Collection",
+    heroCopy:
+      "Browse UIL miscellaneous woodwind ensembles, search titles, composers, and publishers, and review the current chamber literature list.",
+  },
+  "double-reed-ensemble": {
+    slug: "double-reed-ensemble",
+    label: "Double Reed Ensembles",
+    shortLabel: "double reed ensemble",
+    songsUrl: "./data/double-reed-ensemble.json",
+    statsUrl: "./data/double-reed-ensemble-stats.json",
+    titlePlaceholder: "Try Reed, Ensemble, or Oboe",
+    heroCopy:
+      "Browse UIL double reed ensembles, search titles, composers, and publishers, and review the current reed ensemble literature.",
+  },
+  "flute-choir": {
+    slug: "flute-choir",
+    label: "Flute Choirs",
+    shortLabel: "flute choir work",
+    songsUrl: "./data/flute-choir.json",
+    statsUrl: "./data/flute-choir-stats.json",
+    titlePlaceholder: "Try Choir, Flute, or Ensemble",
+    heroCopy:
+      "Browse UIL flute choir literature, search titles, composers, and publishers, and review the current large-flute-ensemble list.",
+  },
+  "clarinet-choir": {
+    slug: "clarinet-choir",
+    label: "Clarinet Choirs",
+    shortLabel: "clarinet choir work",
+    songsUrl: "./data/clarinet-choir.json",
+    statsUrl: "./data/clarinet-choir-stats.json",
+    titlePlaceholder: "Try Choir, Clarinet, or Ensemble",
+    heroCopy:
+      "Browse UIL clarinet choir literature, search titles, composers, and publishers, and review the current clarinet choir list.",
+  },
+  "misc-saxophone-ensemble": {
+    slug: "misc-saxophone-ensemble",
+    label: "Miscellaneous Saxophone Ensembles",
+    shortLabel: "saxophone ensemble",
+    songsUrl: "./data/misc-saxophone-ensemble.json",
+    statsUrl: "./data/misc-saxophone-ensemble-stats.json",
+    titlePlaceholder: "Try Ensemble, Saxophone, or Collection",
+    heroCopy:
+      "Browse UIL miscellaneous saxophone ensembles, search titles, composers, and publishers, and review the current saxophone ensemble list.",
+  },
+  "trumpet-trio": {
+    slug: "trumpet-trio",
+    label: "Trumpet Trios",
+    shortLabel: "trumpet trio",
+    songsUrl: "./data/trumpet-trio.json",
+    statsUrl: "./data/trumpet-trio-stats.json",
+    titlePlaceholder: "Try Trio, Trumpet, or Ensemble",
+    heroCopy:
+      "Browse UIL trumpet trios, search titles, composers, and publishers, and review the current brass chamber literature.",
+  },
+  "trombone-trio": {
+    slug: "trombone-trio",
+    label: "Trombone Trios",
+    shortLabel: "trombone trio",
+    songsUrl: "./data/trombone-trio.json",
+    statsUrl: "./data/trombone-trio-stats.json",
+    titlePlaceholder: "Try Trio, Trombone, or Ensemble",
+    heroCopy:
+      "Browse UIL trombone trios, search titles, composers, and publishers, and review the current low-brass chamber literature.",
+  },
+  "euphonium-baritone-trio": {
+    slug: "euphonium-baritone-trio",
+    label: "Euphonium-Baritone Trios",
+    shortLabel: "euphonium trio",
+    songsUrl: "./data/euphonium-baritone-trio.json",
+    statsUrl: "./data/euphonium-baritone-trio-stats.json",
+    titlePlaceholder: "Try Trio, Baritone, or Ensemble",
+    heroCopy:
+      "Browse UIL euphonium-baritone trios, search titles, composers, and publishers, and review the current low-brass chamber literature.",
+  },
+  "brass-trio": {
+    slug: "brass-trio",
+    label: "Brass Trios",
+    shortLabel: "brass trio",
+    songsUrl: "./data/brass-trio.json",
+    statsUrl: "./data/brass-trio-stats.json",
+    titlePlaceholder: "Try Trio, Brass, or Ensemble",
+    heroCopy:
+      "Browse UIL brass trios, search titles, composers, and publishers, and review the current brass chamber literature.",
+  },
+  "trumpet-quartet": {
+    slug: "trumpet-quartet",
+    label: "Trumpet Quartets",
+    shortLabel: "trumpet quartet",
+    songsUrl: "./data/trumpet-quartet.json",
+    statsUrl: "./data/trumpet-quartet-stats.json",
+    titlePlaceholder: "Try Quartet, Trumpet, or Ensemble",
+    heroCopy:
+      "Browse UIL trumpet quartets, search titles, composers, and publishers, and review the current trumpet ensemble literature.",
+  },
+  "horn-quartet": {
+    slug: "horn-quartet",
+    label: "Horn Quartets",
+    shortLabel: "horn quartet",
+    songsUrl: "./data/horn-quartet.json",
+    statsUrl: "./data/horn-quartet-stats.json",
+    titlePlaceholder: "Try Quartet, Horn, or Ensemble",
+    heroCopy:
+      "Browse UIL horn quartets, search titles, composers, and publishers, and review the current horn ensemble literature.",
+  },
+  "euphonium-baritone-quartet": {
+    slug: "euphonium-baritone-quartet",
+    label: "Euphonium and Baritone Horn Quartets",
+    shortLabel: "euphonium quartet",
+    songsUrl: "./data/euphonium-baritone-quartet.json",
+    statsUrl: "./data/euphonium-baritone-quartet-stats.json",
+    titlePlaceholder: "Try Quartet, Baritone, or Ensemble",
+    heroCopy:
+      "Browse UIL euphonium and baritone horn quartets, search titles, composers, and publishers, and review the current low-brass ensemble literature.",
+  },
+  "brass-quartet": {
+    slug: "brass-quartet",
+    label: "Brass Quartets",
+    shortLabel: "brass quartet",
+    songsUrl: "./data/brass-quartet.json",
+    statsUrl: "./data/brass-quartet-stats.json",
+    titlePlaceholder: "Try Quartet, Brass, or Ensemble",
+    heroCopy:
+      "Browse UIL brass quartets, search titles, composers, and publishers, and review the current brass chamber literature.",
+  },
+  "trombone-quartet": {
+    slug: "trombone-quartet",
+    label: "Trombone Quartets",
+    shortLabel: "trombone quartet",
+    songsUrl: "./data/trombone-quartet.json",
+    statsUrl: "./data/trombone-quartet-stats.json",
+    titlePlaceholder: "Try Quartet, Trombone, or Ensemble",
+    heroCopy:
+      "Browse UIL trombone quartets, search titles, composers, and publishers, and review the current trombone ensemble literature.",
+  },
+  "tuba-euphonium-quartet": {
+    slug: "tuba-euphonium-quartet",
+    label: "Tuba and Euphonium Quartets",
+    shortLabel: "tuba/euphonium quartet",
+    songsUrl: "./data/tuba-euphonium-quartet.json",
+    statsUrl: "./data/tuba-euphonium-quartet-stats.json",
+    titlePlaceholder: "Try Quartet, Tuba, or Euphonium",
+    heroCopy:
+      "Browse UIL tuba and euphonium quartets, search titles, composers, and publishers, and review the current low-brass ensemble literature.",
+  },
+  "brass-quintet": {
+    slug: "brass-quintet",
+    label: "Brass Quintets",
+    shortLabel: "brass quintet",
+    songsUrl: "./data/brass-quintet.json",
+    statsUrl: "./data/brass-quintet-stats.json",
+    titlePlaceholder: "Try Quintet, Brass, or Ensemble",
+    heroCopy:
+      "Browse UIL brass quintets, search titles, composers, and publishers, and review the current brass chamber literature.",
+  },
+  "brass-sextet": {
+    slug: "brass-sextet",
+    label: "Brass Sextets",
+    shortLabel: "brass sextet",
+    songsUrl: "./data/brass-sextet.json",
+    statsUrl: "./data/brass-sextet-stats.json",
+    titlePlaceholder: "Try Sextet, Brass, or Ensemble",
+    heroCopy:
+      "Browse UIL brass sextets, search titles, composers, and publishers, and review the current brass ensemble literature.",
+  },
+  "six-or-more-brass": {
+    slug: "six-or-more-brass",
+    label: "Six or More Brass Ensembles",
+    shortLabel: "brass ensemble",
+    songsUrl: "./data/six-or-more-brass.json",
+    statsUrl: "./data/six-or-more-brass-stats.json",
+    titlePlaceholder: "Try Brass, Ensemble, or Collection",
+    heroCopy:
+      "Browse UIL six-or-more-brass literature, search titles, composers, and publishers, and review the current larger brass ensemble list.",
+  },
+  "trumpet-choir": {
+    slug: "trumpet-choir",
+    label: "Trumpet Choirs",
+    shortLabel: "trumpet choir work",
+    songsUrl: "./data/trumpet-choir.json",
+    statsUrl: "./data/trumpet-choir-stats.json",
+    titlePlaceholder: "Try Choir, Trumpet, or Ensemble",
+    heroCopy:
+      "Browse UIL trumpet choir literature, search titles, composers, and publishers, and review the current trumpet choir list.",
+  },
+  "misc-horn-ensemble": {
+    slug: "misc-horn-ensemble",
+    label: "Miscellaneous Horn Ensembles",
+    shortLabel: "horn ensemble",
+    songsUrl: "./data/misc-horn-ensemble.json",
+    statsUrl: "./data/misc-horn-ensemble-stats.json",
+    titlePlaceholder: "Try Ensemble, Horn, or Collection",
+    heroCopy:
+      "Browse UIL miscellaneous horn ensembles, search titles, composers, and publishers, and review the current horn ensemble literature.",
+  },
+  "trombone-choir": {
+    slug: "trombone-choir",
+    label: "Trombone Choirs",
+    shortLabel: "trombone choir work",
+    songsUrl: "./data/trombone-choir.json",
+    statsUrl: "./data/trombone-choir-stats.json",
+    titlePlaceholder: "Try Choir, Trombone, or Ensemble",
+    heroCopy:
+      "Browse UIL trombone choir literature, search titles, composers, and publishers, and review the current trombone choir list.",
+  },
+  "percussion-ensemble": {
+    slug: "percussion-ensemble",
+    label: "Percussion Ensembles",
+    shortLabel: "percussion ensemble",
+    songsUrl: "./data/percussion-ensemble.json",
+    statsUrl: "./data/percussion-ensemble-stats.json",
+    titlePlaceholder: "Try Ensemble, Percussion, or Collection",
+    heroCopy:
+      "Browse UIL percussion ensembles, search titles, composers, and publishers, and review the current percussion ensemble literature.",
+  },
+  "steel-band": {
+    slug: "steel-band",
+    label: "Steel Bands",
+    shortLabel: "steel band work",
+    songsUrl: "./data/steel-band.json",
+    statsUrl: "./data/steel-band-stats.json",
+    titlePlaceholder: "Try Band, Steel, or Pan",
+    heroCopy:
+      "Browse UIL steel band literature, search titles, composers, and publishers, and review the current steel band list.",
+  },
+  "misc-mixed-ensemble": {
+    slug: "misc-mixed-ensemble",
+    label: "Miscellaneous Mixed Ensembles",
+    shortLabel: "mixed ensemble",
+    songsUrl: "./data/misc-mixed-ensemble.json",
+    statsUrl: "./data/misc-mixed-ensemble-stats.json",
+    titlePlaceholder: "Try Ensemble, Mixed, or Collection",
+    heroCopy:
+      "Browse UIL miscellaneous mixed ensembles, search titles, composers, and publishers, and review the current mixed-instrument literature list.",
+  },
 };
 
 const state = {

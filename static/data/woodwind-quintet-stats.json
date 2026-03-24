@@ -1,0 +1,22 @@
+{
+  "schoolYear": "2025-2026",
+  "instrumentSlug": "woodwind-quintet",
+  "instrumentName": "Woodwind Quintets",
+  "songCount": 219,
+  "publisherCount": 229,
+  "noteCount": 1,
+  "databaseRecordCount": 220,
+  "classBreakdown": {
+    "3": 18,
+    "2": 61,
+    "1": 140
+  },
+  "noMemoryRequiredCount": 0,
+  "publicDomainPdfCount": 0,
+  "eventBreakdown": {
+    "Woodwind Quintet": 219
+  },
+  "notes": {
+    "dataset_audit": "Sourced from https://www.uiltexas.org/pml/ and https://www.uiltexas.org/pml/pml.php. Imported 2026-03-24T22:04:46.380667+00:00."
+  }
+}

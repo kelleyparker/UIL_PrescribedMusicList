@@ -1,0 +1,22 @@
+{
+  "schoolYear": "2025-2026",
+  "instrumentSlug": "steel-band",
+  "instrumentName": "Steel Bands",
+  "songCount": 113,
+  "publisherCount": 117,
+  "noteCount": 1,
+  "databaseRecordCount": 114,
+  "classBreakdown": {
+    "3": 15,
+    "2": 38,
+    "1": 60
+  },
+  "noMemoryRequiredCount": 0,
+  "publicDomainPdfCount": 0,
+  "eventBreakdown": {
+    "Steel Band": 113
+  },
+  "notes": {
+    "dataset_audit": "Sourced from https://www.uiltexas.org/pml/ and https://www.uiltexas.org/pml/pml.php. Imported 2026-03-24T22:04:46.577082+00:00."
+  }
+}

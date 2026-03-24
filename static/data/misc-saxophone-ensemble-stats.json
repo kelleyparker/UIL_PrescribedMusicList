@@ -1,0 +1,22 @@
+{
+  "schoolYear": "2025-2026",
+  "instrumentSlug": "misc-saxophone-ensemble",
+  "instrumentName": "Miscellaneous Saxophone Ensembles",
+  "songCount": 146,
+  "publisherCount": 146,
+  "noteCount": 1,
+  "databaseRecordCount": 147,
+  "classBreakdown": {
+    "3": 30,
+    "2": 61,
+    "1": 55
+  },
+  "noMemoryRequiredCount": 0,
+  "publicDomainPdfCount": 0,
+  "eventBreakdown": {
+    "Miscellaneous Saxophone Ensemble": 146
+  },
+  "notes": {
+    "dataset_audit": "Sourced from https://www.uiltexas.org/pml/ and https://www.uiltexas.org/pml/pml.php. Imported 2026-03-24T22:04:46.429788+00:00."
+  }
+}

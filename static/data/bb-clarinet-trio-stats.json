@@ -1,0 +1,22 @@
+{
+  "schoolYear": "2025-2026",
+  "instrumentSlug": "bb-clarinet-trio",
+  "instrumentName": "Bb Clarinet Trios",
+  "songCount": 141,
+  "publisherCount": 144,
+  "noteCount": 1,
+  "databaseRecordCount": 142,
+  "classBreakdown": {
+    "3": 42,
+    "2": 66,
+    "1": 33
+  },
+  "noMemoryRequiredCount": 0,
+  "publicDomainPdfCount": 0,
+  "eventBreakdown": {
+    "Bb Clarinet Trio": 141
+  },
+  "notes": {
+    "dataset_audit": "Sourced from https://www.uiltexas.org/pml/ and https://www.uiltexas.org/pml/pml.php. Imported 2026-03-24T22:04:46.344279+00:00."
+  }
+}

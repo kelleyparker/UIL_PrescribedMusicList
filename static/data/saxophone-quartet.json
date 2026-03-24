@@ -1,0 +1,4754 @@
+[
+  {
+    "uilCode": "246-3-35035",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Curse of Tortuga",
+    "composer": "Arcari",
+    "arranger": "",
+    "publishers": [
+      "Excelcia"
+    ],
+    "publisherText": "Excelcia",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-3-12052",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Musette (from Anna Magdalena Notebook)",
+    "composer": "Bach",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-3-35034",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "L'Alcenagina",
+    "composer": "Banchieri",
+    "arranger": "Arcari",
+    "publishers": [
+      "Excelcia"
+    ],
+    "publisherText": "Excelcia",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-3-35024",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Prelude from Te Deum",
+    "composer": "Charpentier",
+    "arranger": "Lambrecht",
+    "publishers": [
+      "Eighth Note Publications"
+    ],
+    "publisherText": "Eighth Note Publications",
+    "classLevel": 3,
+    "specification": "(S(a)ATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-3-12053",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Suite",
+    "composer": "Corelli",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 3,
+    "specification": "(play mvts 2 & 3)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-3-12054",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Beau Soir",
+    "composer": "Debussy",
+    "arranger": "Schmidt",
+    "publishers": [
+      "Western International Music, Inc."
+    ],
+    "publisherText": "Western International Music, Inc.",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-3-35037",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Pizzicato Polka",
+    "composer": "Delibes",
+    "arranger": "Balent",
+    "publishers": [
+      "Kendor Music, Inc."
+    ],
+    "publisherText": "Kendor Music, Inc.",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-3-26494",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Largo and Finale (from the New World Symphony)",
+    "composer": "Dvorak",
+    "arranger": "Blahnik",
+    "publishers": [
+      "Alliance Publications, Inc."
+    ],
+    "publisherText": "Alliance Publications, Inc.",
+    "classLevel": 3,
+    "specification": "(al, al, tn br)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-3-35040",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Come Sunday",
+    "composer": "Ellington",
+    "arranger": "Hirsch",
+    "publishers": [
+      "Hirschmusic Publications"
+    ],
+    "publisherText": "Hirschmusic Publications",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-3-35023",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Canzon per Sonare #2",
+    "composer": "Gabrieli",
+    "arranger": "Marlatt",
+    "publishers": [
+      "Eighth Note Publications"
+    ],
+    "publisherText": "Eighth Note Publications",
+    "classLevel": 3,
+    "specification": "(S(a)ATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-3-35041",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Summertime",
+    "composer": "Gershwin",
+    "arranger": "Wilson",
+    "publishers": [
+      "Saxtet"
+    ],
+    "publisherText": "Saxtet",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-3-12055",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Air de Ballet",
+    "composer": "Gluck",
+    "arranger": "Johnson",
+    "publishers": [
+      "Rubank, Inc."
+    ],
+    "publisherText": "Rubank, Inc.",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-3-35038",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "A String of Pearls",
+    "composer": "Gray",
+    "arranger": "Sabina",
+    "publishers": [
+      "Kendor Music, Inc."
+    ],
+    "publisherText": "Kendor Music, Inc.",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-3-12056",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Allegro (from Concerto Grosso Op. 3 No. 4)",
+    "composer": "Handel",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-3-26496",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Almirena's Aria (Lascia ch'io pianga)",
+    "composer": "Handel",
+    "arranger": "Schmidt",
+    "publishers": [
+      "Western International Music, Inc."
+    ],
+    "publisherText": "Western International Music, Inc.",
+    "classLevel": 3,
+    "specification": "(sp, al, tn br)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-3-12059",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "The Children's Prayer (from Hansel and Gretel)",
+    "composer": "Humperdinck",
+    "arranger": "Johnson",
+    "publishers": [
+      "Rubank, Inc."
+    ],
+    "publisherText": "Rubank, Inc.",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-3-12060",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Chanson, To Yonder Lovely Grove",
+    "composer": "Janequin",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-3-35033",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Czech\u2019s in the Mail Polka",
+    "composer": "Kaisershot",
+    "arranger": "",
+    "publishers": [
+      "Eighth Note Publications"
+    ],
+    "publisherText": "Eighth Note Publications",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-3-12061",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Gavotte in Rondeau",
+    "composer": "Lully",
+    "arranger": "Post",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-3-12062",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Madrigal: Madonna mia gentil",
+    "composer": "Marenzio",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-3-35027",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Ripples in the Sand-Inspiration of a Japanese Zen Garden",
+    "composer": "Marlatt",
+    "arranger": "",
+    "publishers": [
+      "Eighth Note Publications"
+    ],
+    "publisherText": "Eighth Note Publications",
+    "classLevel": 3,
+    "specification": "(opt. percussion)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-3-35031",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "The Journey of Invention",
+    "composer": "Marlatt",
+    "arranger": "",
+    "publishers": [
+      "Eighth Note Publications"
+    ],
+    "publisherText": "Eighth Note Publications",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-3-35030",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Last Voyage of Queen Anne\u2019s Revenge",
+    "composer": "Meeboer",
+    "arranger": "",
+    "publishers": [
+      "Eighth Note Publications"
+    ],
+    "publisherText": "Eighth Note Publications",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-3-35032",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Rise of the Ancients",
+    "composer": "Meeboer",
+    "arranger": "",
+    "publishers": [
+      "Eighth Note Publications"
+    ],
+    "publisherText": "Eighth Note Publications",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-3-35026",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "You Must Know",
+    "composer": "Meeboer",
+    "arranger": "",
+    "publishers": [
+      "Eighth Note Publications"
+    ],
+    "publisherText": "Eighth Note Publications",
+    "classLevel": 3,
+    "specification": "(opt. percussion)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-3-12063",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "War March of the Priests (from Athalie)",
+    "composer": "Mendelssohn",
+    "arranger": "Johnson",
+    "publishers": [
+      "Rubank, Inc."
+    ],
+    "publisherText": "Rubank, Inc.",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-3-12064",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Yet Doth the Lord",
+    "composer": "Mendelssohn",
+    "arranger": "Teal/Elijah",
+    "publishers": [
+      "G. Schirmer, Inc. [Ten Saxophone Quartets]"
+    ],
+    "publisherText": "G. Schirmer, Inc. [Ten Saxophone Quartets]",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-3-35029",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Can-Can from Orpheus in the Underworld",
+    "composer": "Offenbach",
+    "arranger": "Marlatt",
+    "publishers": [
+      "Eighth Note Publications"
+    ],
+    "publisherText": "Eighth Note Publications",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-3-12065",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Chanson, La Master Peter",
+    "composer": "Papa",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-3-12066",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Miniature Suite for Saxophone",
+    "composer": "Peterson",
+    "arranger": "",
+    "publishers": [
+      "Kendor Music, Inc."
+    ],
+    "publisherText": "Kendor Music, Inc.",
+    "classLevel": 3,
+    "specification": "(play two)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-3-12068",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Gavotte (from Harpsichord Suite No. 5)",
+    "composer": "Purcell",
+    "arranger": "Vedeski",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-3-12067",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Gavotte and Hornpipe",
+    "composer": "Purcell",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-3-35025",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Blessed Virgin, Rejoice - Bogoroditse Devo, Raduisya",
+    "composer": "Rachmaninoff",
+    "arranger": "Lambrecht",
+    "publishers": [
+      "Eighth Note Publications"
+    ],
+    "publisherText": "Eighth Note Publications",
+    "classLevel": 3,
+    "specification": "(S(a)ATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-3-12069",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Rigaudon (from Pieces de Clavecin)",
+    "composer": "Rameau",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-3-35036",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Eight Marienlieder Op. 61 d",
+    "composer": "Reger",
+    "arranger": "Gregory",
+    "publishers": [
+      "JW Pepper"
+    ],
+    "publisherText": "JW Pepper",
+    "classLevel": 3,
+    "specification": "(play three mvts)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-3-35042",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Hunting Songs Op. 137",
+    "composer": "Schumann",
+    "arranger": "Gregory",
+    "publishers": [
+      "JW Pepper"
+    ],
+    "publisherText": "JW Pepper",
+    "classLevel": 3,
+    "specification": "(play three mvts)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-3-35019",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Romance, Opus 11 No. 2",
+    "composer": "Schumann",
+    "arranger": "Wilson",
+    "publishers": [
+      "Saxtet"
+    ],
+    "publisherText": "Saxtet",
+    "classLevel": 3,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-3-35039",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Tritsch-Tratsch Polka (Op. 214)",
+    "composer": "Strauss",
+    "arranger": "Balent",
+    "publishers": [
+      "Kendor Music, Inc."
+    ],
+    "publisherText": "Kendor Music, Inc.",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-3-35021",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "The Right Time",
+    "composer": "Street",
+    "arranger": "",
+    "publishers": [
+      "Saxtet"
+    ],
+    "publisherText": "Saxtet",
+    "classLevel": 3,
+    "specification": "(S(a)ATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-3-35022",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "When a Knight Won His Spurs",
+    "composer": "Street",
+    "arranger": "",
+    "publishers": [
+      "Saxtet"
+    ],
+    "publisherText": "Saxtet",
+    "classLevel": 3,
+    "specification": "(S(a)ATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-3-12071",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Saxophone Classics",
+    "composer": "Stuart",
+    "arranger": "",
+    "publishers": [
+      "Shawnee Press"
+    ],
+    "publisherText": "Shawnee Press",
+    "classLevel": 3,
+    "specification": "(play one from 1, 2, or 12)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-3-12072",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Menuet and Polonaise (from Suite in a minor)",
+    "composer": "Telemann",
+    "arranger": "Johnson",
+    "publishers": [
+      "Rubank, Inc."
+    ],
+    "publisherText": "Rubank, Inc.",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-3-35028",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Early One Morning",
+    "composer": "Traditional English Folk Song",
+    "arranger": "Marlatt",
+    "publishers": [
+      "Eighth Note Publications"
+    ],
+    "publisherText": "Eighth Note Publications",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-3-12073",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "A Winter's Willow",
+    "composer": "Vaughan Williams",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-3-35020",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "So We Too",
+    "composer": "Wood",
+    "arranger": "",
+    "publishers": [
+      "Saxtet"
+    ],
+    "publisherText": "Saxtet",
+    "classLevel": 3,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-3-26507",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Three German Dances",
+    "composer": "von Weber",
+    "arranger": "Gore",
+    "publishers": [
+      "Harold Gore Publishing Co."
+    ],
+    "publisherText": "Harold Gore Publishing Co.",
+    "classLevel": 3,
+    "specification": "(al, al, tn br)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-34955",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Mirror Images",
+    "composer": "Albert",
+    "arranger": "",
+    "publishers": [
+      "www.adriennealbert.com"
+    ],
+    "publisherText": "www.adriennealbert.com",
+    "classLevel": 2,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-12014",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "The British Grenadiers",
+    "composer": "Anon. or Trad.",
+    "arranger": "Christensen",
+    "publishers": [
+      "Kendor Music, Inc."
+    ],
+    "publisherText": "Kendor Music, Inc.",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-12050",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Three Renaissance Dances",
+    "composer": "Anon. or Trad.",
+    "arranger": "Voxman",
+    "publishers": [
+      "Southern Music Company [First Book of Saxophone Quartets]"
+    ],
+    "publisherText": "Southern Music Company [First Book of Saxophone Quartets]",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-35001",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Air on the G String - Orchestral Suite #3",
+    "composer": "Bach",
+    "arranger": "Marlatt",
+    "publishers": [
+      "Eighth Note Publications"
+    ],
+    "publisherText": "Eighth Note Publications",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-12005",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Fugue No. 5",
+    "composer": "Bach",
+    "arranger": "Stanton",
+    "publishers": [
+      "Harold Gore Publishing Co."
+    ],
+    "publisherText": "Harold Gore Publishing Co.",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-12006",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Fugue No. 7",
+    "composer": "Bach",
+    "arranger": "Gordon",
+    "publishers": [
+      "Kendor Music, Inc."
+    ],
+    "publisherText": "Kendor Music, Inc.",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-34991",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Italian Concerto-Movement I BWV 832",
+    "composer": "Bach",
+    "arranger": "Marlatt",
+    "publishers": [
+      "Eighth Note Publications"
+    ],
+    "publisherText": "Eighth Note Publications",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-35002",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Jesu Joy of Man\u2019s Desiring",
+    "composer": "Bach",
+    "arranger": "Marlatt",
+    "publishers": [
+      "Eighth Note Publications"
+    ],
+    "publisherText": "Eighth Note Publications",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-12007",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Prelude and Fugue No. 2",
+    "composer": "Bach",
+    "arranger": "Carlsten",
+    "publishers": [
+      "C.L. Barnhouse Company"
+    ],
+    "publisherText": "C.L. Barnhouse Company",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-34953",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Prelude and Fugue in C - BWV 846",
+    "composer": "Bach",
+    "arranger": "Pybus",
+    "publishers": [
+      "Eighth Note Publications"
+    ],
+    "publisherText": "Eighth Note Publications",
+    "classLevel": 2,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-12008",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Sarabande and Badinerie",
+    "composer": "Bach",
+    "arranger": "Johnson",
+    "publishers": [
+      "Rubank, Inc."
+    ],
+    "publisherText": "Rubank, Inc.",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-34973",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Romanian Dances",
+    "composer": "Bartok",
+    "arranger": "Wood",
+    "publishers": [
+      "Saxtet"
+    ],
+    "publisherText": "Saxtet",
+    "classLevel": 2,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-34984",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Habanera from Carmen",
+    "composer": "Bizet",
+    "arranger": "Marlatt",
+    "publishers": [
+      "Eighth Note Publications"
+    ],
+    "publisherText": "Eighth Note Publications",
+    "classLevel": 2,
+    "specification": "(S(a)ATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-12012",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Gavotte (from Symphony No. 4)",
+    "composer": "Boyce",
+    "arranger": "Vedeski",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-35009",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Hungarian Dance No. 5",
+    "composer": "Brahms",
+    "arranger": "Balent",
+    "publishers": [
+      "Kendor Music, Inc."
+    ],
+    "publisherText": "Kendor Music, Inc.",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-34981",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Elements",
+    "composer": "Brandon",
+    "arranger": "",
+    "publishers": [
+      "JW Pepper"
+    ],
+    "publisherText": "JW Pepper",
+    "classLevel": 2,
+    "specification": "(S(a)ATB) (play one mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-34952",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "The Earle of Oxford's March",
+    "composer": "Byrd",
+    "arranger": "Marlatt",
+    "publishers": [
+      "Eighth Note Publications"
+    ],
+    "publisherText": "Eighth Note Publications",
+    "classLevel": 2,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-12013",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "The Earle of Oxford's Marche",
+    "composer": "Byrd",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-34957",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Cocek",
+    "composer": "Cirevski",
+    "arranger": "",
+    "publishers": [
+      "www.scoreexchange.com"
+    ],
+    "publisherText": "www.scoreexchange.com",
+    "classLevel": 2,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-34956",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Yeia Mas",
+    "composer": "Cirevski",
+    "arranger": "",
+    "publishers": [
+      "www.scoreexchange.com"
+    ],
+    "publisherText": "www.scoreexchange.com",
+    "classLevel": 2,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-34983",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Celebration",
+    "composer": "Coakley",
+    "arranger": "Marlatt",
+    "publishers": [
+      "Eighth Note Publications"
+    ],
+    "publisherText": "Eighth Note Publications",
+    "classLevel": 2,
+    "specification": "(S(a)ATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-34998",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Donkey Riding",
+    "composer": "Coakley",
+    "arranger": "",
+    "publishers": [
+      "Eighth Note Publications"
+    ],
+    "publisherText": "Eighth Note Publications",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-12015",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Suite",
+    "composer": "Corelli",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 2,
+    "specification": "(play mvts 1 & 2)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-12017",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Americana Suite No. 1",
+    "composer": "Dishinger",
+    "arranger": "",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 2,
+    "specification": "(play two mvts)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-34954",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Happy Scherzo",
+    "composer": "Dishinger",
+    "arranger": "",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 2,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-35003",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Largo from Symphony From the New World",
+    "composer": "Dvorak",
+    "arranger": "Marlatt",
+    "publishers": [
+      "Eighth Note Publications"
+    ],
+    "publisherText": "Eighth Note Publications",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-34975",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Slavonic Dances No. 7",
+    "composer": "Dvorak",
+    "arranger": "Davies",
+    "publishers": [
+      "Saxtet"
+    ],
+    "publisherText": "Saxtet",
+    "classLevel": 2,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-26493",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Three Slavonic Danes op.46, no. 1 and 6, op. 72, no. 2",
+    "composer": "Dvorak",
+    "arranger": "Blahnik",
+    "publishers": [
+      "Alliance Publications, Inc."
+    ],
+    "publisherText": "Alliance Publications, Inc.",
+    "classLevel": 2,
+    "specification": "(al, al, tn br)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-12018",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Gavotte (from Contrasts)",
+    "composer": "Elgar",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-34970",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Nimrod",
+    "composer": "Elgar",
+    "arranger": "Ashley",
+    "publishers": [
+      "Saxtet"
+    ],
+    "publisherText": "Saxtet",
+    "classLevel": 2,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-12019",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Standing in the Need of Prayer",
+    "composer": "Engerbretson",
+    "arranger": "",
+    "publishers": [
+      "Ed Sueta Publications"
+    ],
+    "publisherText": "Ed Sueta Publications",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-34990",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Fair Phyllis I Saw Sitting All Alone",
+    "composer": "Farmer",
+    "arranger": "Marlatt",
+    "publishers": [
+      "Eighth Note Publications"
+    ],
+    "publisherText": "Eighth Note Publications",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-34971",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Pacific Nights",
+    "composer": "Ferer",
+    "arranger": "",
+    "publishers": [
+      "Saxtet"
+    ],
+    "publisherText": "Saxtet",
+    "classLevel": 2,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-34995",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Conversation Piece",
+    "composer": "Frank",
+    "arranger": "",
+    "publishers": [
+      "Kendor Music, Inc."
+    ],
+    "publisherText": "Kendor Music, Inc.",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-34963",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "An American in Paris",
+    "composer": "Gershwin",
+    "arranger": "Wood",
+    "publishers": [
+      "Saxtet"
+    ],
+    "publisherText": "Saxtet",
+    "classLevel": 2,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-35008",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Funeral March Of A Marionette",
+    "composer": "Gounod",
+    "arranger": "Balent",
+    "publishers": [
+      "Kendor Music, Inc."
+    ],
+    "publisherText": "Kendor Music, Inc.",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-26495",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Jota (from Danzas Espanolas)",
+    "composer": "Granados",
+    "arranger": "Gore",
+    "publishers": [
+      "Harold Gore Publishing Co."
+    ],
+    "publisherText": "Harold Gore Publishing Co.",
+    "classLevel": 2,
+    "specification": "(al, al, tn br)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-12020",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Suite",
+    "composer": "Gretchaninoff",
+    "arranger": "Lester",
+    "publishers": [
+      "JTL Publications, G. Scott Music Publishing Co."
+    ],
+    "publisherText": "JTL Publications, G. Scott Music Publishing Co.",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-12021",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "An Der Wiege",
+    "composer": "Grieg",
+    "arranger": "Schmidt",
+    "publishers": [
+      "Western International Music, Inc."
+    ],
+    "publisherText": "Western International Music, Inc.",
+    "classLevel": 2,
+    "specification": "(sp, al, tn, br)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-34964",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Anitra's Dance",
+    "composer": "Grieg",
+    "arranger": "Wood",
+    "publishers": [
+      "Saxtet"
+    ],
+    "publisherText": "Saxtet",
+    "classLevel": 2,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-38519",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Peer Gynt Suite",
+    "composer": "Grieg",
+    "arranger": "Winstead",
+    "publishers": [
+      "Sigma Squared Music Publishing"
+    ],
+    "publisherText": "Sigma Squared Music Publishing",
+    "classLevel": 2,
+    "specification": "(SATB) (play two contrasting mvts)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-34967",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Concerto Grosso",
+    "composer": "Handel",
+    "arranger": "Wood",
+    "publishers": [
+      "Saxtet"
+    ],
+    "publisherText": "Saxtet",
+    "classLevel": 2,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-12022",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Sarabande and Air",
+    "composer": "Handel",
+    "arranger": "Johnson",
+    "publishers": [
+      "Rubank, Inc."
+    ],
+    "publisherText": "Rubank, Inc.",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-12023",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Three Quartets (from Water Music Suite)",
+    "composer": "Handel",
+    "arranger": "Stanton",
+    "publishers": [
+      "Harold Gore Publishing Co."
+    ],
+    "publisherText": "Harold Gore Publishing Co.",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-35011",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Tuxedo Junction",
+    "composer": "Hawkins, Johnson & Dash",
+    "arranger": "Sabina",
+    "publishers": [
+      "Kendor Music, Inc."
+    ],
+    "publisherText": "Kendor Music, Inc.",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-35006",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Andante Cantabile",
+    "composer": "Haydn",
+    "arranger": "Clark",
+    "publishers": [
+      "Excelcia"
+    ],
+    "publisherText": "Excelcia",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-12024",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Finale",
+    "composer": "Haydn",
+    "arranger": "Hervig",
+    "publishers": [
+      "Rubank, Inc."
+    ],
+    "publisherText": "Rubank, Inc.",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-12025",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Little Tarantelle",
+    "composer": "Heller",
+    "arranger": "Lester",
+    "publishers": [
+      "JTL Publications, G. Scott Music Publishing Co."
+    ],
+    "publisherText": "JTL Publications, G. Scott Music Publishing Co.",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-34962",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Folk Dance: Big Ben's Reel",
+    "composer": "Hirsch",
+    "arranger": "",
+    "publishers": [
+      "Hirschmusic Publications"
+    ],
+    "publisherText": "Hirschmusic Publications",
+    "classLevel": 2,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-34985",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Mancini Digs that Mambo",
+    "composer": "Hirsch",
+    "arranger": "",
+    "publishers": [
+      "Hirschmusic Publications"
+    ],
+    "publisherText": "Hirschmusic Publications",
+    "classLevel": 2,
+    "specification": "(S(a)ATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-34987",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Motherless Child",
+    "composer": "Hirsch",
+    "arranger": "",
+    "publishers": [
+      "Hirschmusic Publications"
+    ],
+    "publisherText": "Hirschmusic Publications",
+    "classLevel": 2,
+    "specification": "(S(a)ATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-35012",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Mt. Nittany Mambo",
+    "composer": "Hirsch",
+    "arranger": "",
+    "publishers": [
+      "Hirschmusic Publications"
+    ],
+    "publisherText": "Hirschmusic Publications",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-34986",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Paquito de Habana",
+    "composer": "Hirsch",
+    "arranger": "",
+    "publishers": [
+      "Hirschmusic Publications"
+    ],
+    "publisherText": "Hirschmusic Publications",
+    "classLevel": 2,
+    "specification": "(S(a)ATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-34979",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Sparkle!",
+    "composer": "Hirsch",
+    "arranger": "",
+    "publishers": [
+      "Hirschmusic Publications"
+    ],
+    "publisherText": "Hirschmusic Publications",
+    "classLevel": 2,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-35086",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Dream",
+    "composer": "Houghton",
+    "arranger": "",
+    "publishers": [
+      "RBC Publications"
+    ],
+    "publisherText": "RBC Publications",
+    "classLevel": 2,
+    "specification": "(AATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-12026",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Etude Op. 32 No. 14",
+    "composer": "Jensen",
+    "arranger": "Rubin",
+    "publishers": [
+      "JTL Publications, G. Scott Music Publishing Co."
+    ],
+    "publisherText": "JTL Publications, G. Scott Music Publishing Co.",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-26498",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Easy Winners",
+    "composer": "Joplin",
+    "arranger": "Ackerman",
+    "publishers": [
+      "Northeastern Music Publications"
+    ],
+    "publisherText": "Northeastern Music Publications",
+    "classLevel": 2,
+    "specification": "(four altos or two altos/two tenors)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-12027",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Two Ukrainian Songs",
+    "composer": "Leontovich",
+    "arranger": "Voxman/Block",
+    "publishers": [
+      "Southern Music Company"
+    ],
+    "publisherText": "Southern Music Company",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-34951",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Allegro from the Cello Sonata",
+    "composer": "Marcello",
+    "arranger": "Marlatt",
+    "publishers": [
+      "Eighth Note Publications"
+    ],
+    "publisherText": "Eighth Note Publications",
+    "classLevel": 2,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-34997",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Concord Fanfare",
+    "composer": "Marlatt",
+    "arranger": "",
+    "publishers": [
+      "Eighth Note Publications"
+    ],
+    "publisherText": "Eighth Note Publications",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-34996",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Cotton Candy",
+    "composer": "Marlatt",
+    "arranger": "",
+    "publishers": [
+      "Eighth Note Publications"
+    ],
+    "publisherText": "Eighth Note Publications",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-12028",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Canzona (from Canzoni a 4 Voci)",
+    "composer": "Maschera",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-35000",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Turmoil",
+    "composer": "Meeboer",
+    "arranger": "",
+    "publishers": [
+      "Eighth Note Publications"
+    ],
+    "publisherText": "Eighth Note Publications",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-26499",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Andante, Op. 102 (Songs Without Words)",
+    "composer": "Mendelssohn",
+    "arranger": "Willis",
+    "publishers": [
+      "Harold Gore Publishing Co."
+    ],
+    "publisherText": "Harold Gore Publishing Co.",
+    "classLevel": 2,
+    "specification": "(2-altos, tenor, bari)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-34982",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Procession",
+    "composer": "Michaels",
+    "arranger": "",
+    "publishers": [
+      "Eighth Note Publications"
+    ],
+    "publisherText": "Eighth Note Publications",
+    "classLevel": 2,
+    "specification": "(S(a)ATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-34977",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Three Russian Songs",
+    "composer": "Moulds",
+    "arranger": "Wood",
+    "publishers": [
+      "Saxtet"
+    ],
+    "publisherText": "Saxtet",
+    "classLevel": 2,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-34992",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Alleluia from Exultate Jubilate",
+    "composer": "Mozart",
+    "arranger": "Marlatt",
+    "publishers": [
+      "Eighth Note Publications"
+    ],
+    "publisherText": "Eighth Note Publications",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-12029",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Andante and Menuetto",
+    "composer": "Mozart",
+    "arranger": "Voxman",
+    "publishers": [
+      "Southern Music Company [First Book of Saxophone Quartets]"
+    ],
+    "publisherText": "Southern Music Company [First Book of Saxophone Quartets]",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-12030",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Finale",
+    "composer": "Mozart",
+    "arranger": "Voxman",
+    "publishers": [
+      "Southern Music Company [First Book of Saxophone Quartets]"
+    ],
+    "publisherText": "Southern Music Company [First Book of Saxophone Quartets]",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-34960",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Rondo Alla Turca",
+    "composer": "Mozart",
+    "arranger": "Marlatt",
+    "publishers": [
+      "Eighth Note Publications"
+    ],
+    "publisherText": "Eighth Note Publications",
+    "classLevel": 2,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-34978",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Voi Che Sapete",
+    "composer": "Mozart",
+    "arranger": "Wood",
+    "publishers": [
+      "Saxtet"
+    ],
+    "publisherText": "Saxtet",
+    "classLevel": 2,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-26500",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "The Old Castle",
+    "composer": "Mussorgsky",
+    "arranger": "Pfenninger",
+    "publishers": [
+      "Roncorp Inc."
+    ],
+    "publisherText": "Roncorp Inc.",
+    "classLevel": 2,
+    "specification": "(al, al, tn, br) or (sp, al, tn, br)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-34980",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Alpha, Beta, Alpha",
+    "composer": "Neihaus",
+    "arranger": "",
+    "publishers": [
+      "Kendor Music, Inc."
+    ],
+    "publisherText": "Kendor Music, Inc.",
+    "classLevel": 2,
+    "specification": "(S(a)ATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-12031",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Rondolette",
+    "composer": "Niehaus",
+    "arranger": "",
+    "publishers": [
+      "Kendor Music, Inc."
+    ],
+    "publisherText": "Kendor Music, Inc.",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-12032",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Saxafrass",
+    "composer": "Niehaus",
+    "arranger": "",
+    "publishers": [
+      "Kendor Music, Inc."
+    ],
+    "publisherText": "Kendor Music, Inc.",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-12033",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Two Moods",
+    "composer": "Niehaus",
+    "arranger": "",
+    "publishers": [
+      "RBC Publications"
+    ],
+    "publisherText": "RBC Publications",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-34966",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Canon",
+    "composer": "Pachebel",
+    "arranger": "Wood",
+    "publishers": [
+      "Saxtet"
+    ],
+    "publisherText": "Saxtet",
+    "classLevel": 2,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-12034",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Magnificat I, No. 12",
+    "composer": "Pachelbel",
+    "arranger": "Stanton",
+    "publishers": [
+      "Harold Gore Publishing Co."
+    ],
+    "publisherText": "Harold Gore Publishing Co.",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-12035",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Magnificat III, No. 5",
+    "composer": "Pachelbel",
+    "arranger": "Stanton",
+    "publishers": [
+      "Harold Gore Publishing Co."
+    ],
+    "publisherText": "Harold Gore Publishing Co.",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-12036",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Miniature Suite for Saxophones",
+    "composer": "Peterson",
+    "arranger": "",
+    "publishers": [
+      "Kendor Music, Inc."
+    ],
+    "publisherText": "Kendor Music, Inc.",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-12037",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Chanson d'Autrefois",
+    "composer": "Pierne",
+    "arranger": "",
+    "publishers": [
+      "Alphonse Leduc"
+    ],
+    "publisherText": "Alphonse Leduc",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-12038",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "La Veillee de L'ange Gardien",
+    "composer": "Pierne",
+    "arranger": "",
+    "publishers": [
+      "Alphonse Leduc"
+    ],
+    "publisherText": "Alphonse Leduc",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-35007",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Begin The Beguine",
+    "composer": "Porter",
+    "arranger": "Sabina",
+    "publishers": [
+      "Kendor Music, Inc."
+    ],
+    "publisherText": "Kendor Music, Inc.",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-12039",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Waltz and Scherzo",
+    "composer": "Presser",
+    "arranger": "",
+    "publishers": [
+      "Southern Music Company"
+    ],
+    "publisherText": "Southern Music Company",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-12041",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "A Purcell Suite",
+    "composer": "Purcell",
+    "arranger": "Voxman",
+    "publishers": [
+      "Southern Music Company [First Book of Saxophone Quartets]"
+    ],
+    "publisherText": "Southern Music Company [First Book of Saxophone Quartets]",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-34968",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Gavotte",
+    "composer": "Rameau",
+    "arranger": "Wood",
+    "publishers": [
+      "Saxtet"
+    ],
+    "publisherText": "Saxtet",
+    "classLevel": 2,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-34965",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Bolero",
+    "composer": "Ravel",
+    "arranger": "Wood",
+    "publishers": [
+      "Saxtet"
+    ],
+    "publisherText": "Saxtet",
+    "classLevel": 2,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-34959",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Farewell to Nova Scotia",
+    "composer": "Robb",
+    "arranger": "",
+    "publishers": [
+      "Eighth Note Publications"
+    ],
+    "publisherText": "Eighth Note Publications",
+    "classLevel": 2,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-35004",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "La Cumparsita Tango",
+    "composer": "Rodriguez",
+    "arranger": "Marlatt",
+    "publishers": [
+      "Eighth Note Publications"
+    ],
+    "publisherText": "Eighth Note Publications",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-34969",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Largo al Factotum Della Citta",
+    "composer": "Rossini",
+    "arranger": "Wood",
+    "publishers": [
+      "Saxtet"
+    ],
+    "publisherText": "Saxtet",
+    "classLevel": 2,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-12042",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Gymnopedie No. 1",
+    "composer": "Satie",
+    "arranger": "Greenberg",
+    "publishers": [
+      "Western International Music, Inc."
+    ],
+    "publisherText": "Western International Music, Inc.",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-12043",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Prelude and Fugue",
+    "composer": "Scarlatti",
+    "arranger": "Schmidt",
+    "publishers": [
+      "Western International Music, Inc."
+    ],
+    "publisherText": "Western International Music, Inc.",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-26502",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Three Liturgical Preludes for Saxophone Quartet",
+    "composer": "Schmidt",
+    "arranger": "",
+    "publishers": [
+      "Western International Music, Inc."
+    ],
+    "publisherText": "Western International Music, Inc.",
+    "classLevel": 2,
+    "specification": "(sp, al, tn br)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-26503",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Ballet Music I (from Rosamond)",
+    "composer": "Schubert",
+    "arranger": "Schmidt",
+    "publishers": [
+      "Western International Music, Inc."
+    ],
+    "publisherText": "Western International Music, Inc.",
+    "classLevel": 2,
+    "specification": "(sp, al, tn br)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-31381",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "March Militaire",
+    "composer": "Schubert",
+    "arranger": "Halferty",
+    "publishers": [
+      "Kendor Music, Inc."
+    ],
+    "publisherText": "Kendor Music, Inc.",
+    "classLevel": 2,
+    "specification": "(al, al, tn, br)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-35005",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Five Romances",
+    "composer": "Schumann",
+    "arranger": "Gregory",
+    "publishers": [
+      "JW Pepper"
+    ],
+    "publisherText": "JW Pepper",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-34961",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Five Scriabin Etudes",
+    "composer": "Scriabin",
+    "arranger": "Wolfe",
+    "publishers": [
+      "Neil A. Kjos Music Company"
+    ],
+    "publisherText": "Neil A. Kjos Music Company",
+    "classLevel": 2,
+    "specification": "(SATB) (play two mvts)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-12044",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Suite (from For the Gentlemen)",
+    "composer": "Shaw",
+    "arranger": "Voxman",
+    "publishers": [
+      "Southern Music Company [First Book of Saxophone Quartets]"
+    ],
+    "publisherText": "Southern Music Company [First Book of Saxophone Quartets]",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-12045",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Serenade",
+    "composer": "Skolnik",
+    "arranger": "",
+    "publishers": [
+      "Tenuto Publications"
+    ],
+    "publisherText": "Tenuto Publications",
+    "classLevel": 2,
+    "specification": "(play mvts 1 & 4)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-35014",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Let My People Go",
+    "composer": "Spiritual",
+    "arranger": "Hirsch",
+    "publishers": [
+      "Hirschmusic Publications"
+    ],
+    "publisherText": "Hirschmusic Publications",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-35013",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Wade in the Water",
+    "composer": "Spiritual",
+    "arranger": "Hirsch",
+    "publishers": [
+      "Hirschmusic Publications"
+    ],
+    "publisherText": "Hirschmusic Publications",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-26504",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Pastorale",
+    "composer": "Stravinsky",
+    "arranger": "Schmidt",
+    "publishers": [
+      "Western International Music, Inc."
+    ],
+    "publisherText": "Western International Music, Inc.",
+    "classLevel": 2,
+    "specification": "(sp, al, tn br)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-12046",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Ronde des Princess",
+    "composer": "Stravinsky",
+    "arranger": "Schmidt",
+    "publishers": [
+      "Western International Music, Inc."
+    ],
+    "publisherText": "Western International Music, Inc.",
+    "classLevel": 2,
+    "specification": "(sp, al, tn, br)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-34976",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Tango",
+    "composer": "Street",
+    "arranger": "",
+    "publishers": [
+      "Saxtet"
+    ],
+    "publisherText": "Saxtet",
+    "classLevel": 2,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-12047",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Saxophone Classics",
+    "composer": "Stuart",
+    "arranger": "",
+    "publishers": [
+      "Shawnee Press"
+    ],
+    "publisherText": "Shawnee Press",
+    "classLevel": 2,
+    "specification": "(play one from 3-11 or 13-15)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-34999",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Tango Maria",
+    "composer": "Tarrega",
+    "arranger": "Marlatt",
+    "publishers": [
+      "Eighth Note Publications"
+    ],
+    "publisherText": "Eighth Note Publications",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-35010",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Scherzo (from String Quartet No. 1 In D)",
+    "composer": "Tchaikovsky",
+    "arranger": "Hager",
+    "publishers": [
+      "Kendor Music, Inc."
+    ],
+    "publisherText": "Kendor Music, Inc.",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-34989",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Allegro from the Flute Sonata",
+    "composer": "Telemann",
+    "arranger": "Marlatt",
+    "publishers": [
+      "Eighth Note Publications"
+    ],
+    "publisherText": "Eighth Note Publications",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-35015",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Concerto for Four, #1",
+    "composer": "Telemann",
+    "arranger": "Gregory",
+    "publishers": [
+      "JW Pepper"
+    ],
+    "publisherText": "JW Pepper",
+    "classLevel": 2,
+    "specification": "(AAAA)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-35016",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Concerto for Four, #2",
+    "composer": "Telemann",
+    "arranger": "Gregory",
+    "publishers": [
+      "JW Pepper"
+    ],
+    "publisherText": "JW Pepper",
+    "classLevel": 2,
+    "specification": "(AAAA)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-35017",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Concerto for Four, #3",
+    "composer": "Telemann",
+    "arranger": "Gregory",
+    "publishers": [
+      "JW Pepper"
+    ],
+    "publisherText": "JW Pepper",
+    "classLevel": 2,
+    "specification": "(AAAA)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-35018",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Concerto for Four, #4",
+    "composer": "Telemann",
+    "arranger": "Gregory",
+    "publishers": [
+      "JW Pepper"
+    ],
+    "publisherText": "JW Pepper",
+    "classLevel": 2,
+    "specification": "(AAAA)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-12048",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "March and La Rejouissance",
+    "composer": "Telemann",
+    "arranger": "Voxman",
+    "publishers": [
+      "Southern Music Company [First Book of Saxophone Quartets]"
+    ],
+    "publisherText": "Southern Music Company [First Book of Saxophone Quartets]",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-34988",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Quartet #5",
+    "composer": "Telemann",
+    "arranger": "Gregory",
+    "publishers": [
+      "JW Pepper"
+    ],
+    "publisherText": "JW Pepper",
+    "classLevel": 2,
+    "specification": "(AATT)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-34994",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Emerald Isle",
+    "composer": "Traditional",
+    "arranger": "Conley",
+    "publishers": [
+      "Kendor Music, Inc."
+    ],
+    "publisherText": "Kendor Music, Inc.",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-34993",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Hava Nagila",
+    "composer": "Traditional",
+    "arranger": "Balent",
+    "publishers": [
+      "Kendor Music, Inc."
+    ],
+    "publisherText": "Kendor Music, Inc.",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-34972",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Paradise Circus",
+    "composer": "Tweed",
+    "arranger": "",
+    "publishers": [
+      "Saxtet"
+    ],
+    "publisherText": "Saxtet",
+    "classLevel": 2,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-26506",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Three Fairy Tales",
+    "composer": "Villa-Lobos",
+    "arranger": "Schmidt",
+    "publishers": [
+      "Western International Music, Inc."
+    ],
+    "publisherText": "Western International Music, Inc.",
+    "classLevel": 2,
+    "specification": "(sp, al, tn br)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-34958",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Celtic Suite",
+    "composer": "Whitlock",
+    "arranger": "",
+    "publishers": [
+      "www.scoreexchange.com"
+    ],
+    "publisherText": "www.scoreexchange.com",
+    "classLevel": 2,
+    "specification": "(SATB) (play one mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-34974",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Silver Chalice",
+    "composer": "Wood",
+    "arranger": "",
+    "publishers": [
+      "Saxtet"
+    ],
+    "publisherText": "Saxtet",
+    "classLevel": 2,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-2-12051",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Prelude and Fugue",
+    "composer": "Zachou",
+    "arranger": "Brown",
+    "publishers": [
+      "Western International Music, Inc."
+    ],
+    "publisherText": "Western International Music, Inc.",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-1-38516",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Tico Tico",
+    "composer": "Abreu",
+    "arranger": "May",
+    "publishers": [
+      "Lost Key Music"
+    ],
+    "publisherText": "Lost Key Music",
+    "classLevel": 1,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-1-11960",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Trois Pieces",
+    "composer": "Albeniz",
+    "arranger": "",
+    "publishers": [
+      "Alphonse Leduc"
+    ],
+    "publisherText": "Alphonse Leduc",
+    "classLevel": 1,
+    "specification": "(play two mvts)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-1-38510",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Fantasy Etudes",
+    "composer": "Albright",
+    "arranger": "",
+    "publishers": [
+      "C.F. Peters Corp."
+    ],
+    "publisherText": "C.F. Peters Corp.",
+    "classLevel": 1,
+    "specification": "(SATB) (play one mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-1-34944",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Code Seis",
+    "composer": "Alexander-Duckett",
+    "arranger": "",
+    "publishers": [
+      "crystalalexanderduckett.com"
+    ],
+    "publisherText": "crystalalexanderduckett.com",
+    "classLevel": 1,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-1-34016",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Divertimento for Saxophone Quartet",
+    "composer": "Archer",
+    "arranger": "",
+    "publishers": [
+      "Canadian Music Centre"
+    ],
+    "publisherText": "Canadian Music Centre",
+    "classLevel": 1,
+    "specification": "(SATB) (play two mvts)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-1-11961",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Art of Fugue",
+    "composer": "Bach",
+    "arranger": "Schmidt",
+    "publishers": [
+      "Western International Music, Inc."
+    ],
+    "publisherText": "Western International Music, Inc.",
+    "classLevel": 1,
+    "specification": "(SATB) (Contrapuntus XVIII)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-1-11962",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Chaconne",
+    "composer": "Bach",
+    "arranger": "Charlton",
+    "publishers": [
+      "Shawnee Press"
+    ],
+    "publisherText": "Shawnee Press",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-1-11964",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Prelude (from Partita No. 3)",
+    "composer": "Bach",
+    "arranger": "Charlton",
+    "publishers": [
+      "Shawnee Press"
+    ],
+    "publisherText": "Shawnee Press",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-1-11963",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Prelude and Fugue",
+    "composer": "Bach",
+    "arranger": "Eymann",
+    "publishers": [
+      "Carl Fischer, Inc."
+    ],
+    "publisherText": "Carl Fischer, Inc.",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-1-11966",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Sinfonia No. 3",
+    "composer": "Bach",
+    "arranger": "Voxman",
+    "publishers": [
+      "Rubank, Inc. [Quartet Repertoire]"
+    ],
+    "publisherText": "Rubank, Inc. [Quartet Repertoire]",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-1-11967",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "The Little Organ Fugue in g minor",
+    "composer": "Bach",
+    "arranger": "Stanton",
+    "publishers": [
+      "Western International Music, Inc."
+    ],
+    "publisherText": "Western International Music, Inc.",
+    "classLevel": 1,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-1-31379",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Italian Concerto BWV 832",
+    "composer": "Bach, J.S.",
+    "arranger": "Marlatt",
+    "publishers": [
+      "Eight Note Publications"
+    ],
+    "publisherText": "Eight Note Publications",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-1-11969",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Scherzo for Saxophone Quartet",
+    "composer": "Barker",
+    "arranger": "",
+    "publishers": [
+      "Kendor Music, Inc."
+    ],
+    "publisherText": "Kendor Music, Inc.",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-1-11970",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Voici le Quatour",
+    "composer": "Barker",
+    "arranger": "",
+    "publishers": [
+      "Kendor Music, Inc."
+    ],
+    "publisherText": "Kendor Music, Inc.",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-1-11972",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Saxophone Symphonette",
+    "composer": "Bennett",
+    "arranger": "",
+    "publishers": [
+      "Carl Fischer, Inc."
+    ],
+    "publisherText": "Carl Fischer, Inc.",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-1-38514",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Farandole",
+    "composer": "Bizet",
+    "arranger": "Winstead",
+    "publishers": [
+      "Sigma Squared Music Publishing"
+    ],
+    "publisherText": "Sigma Squared Music Publishing",
+    "classLevel": 1,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-1-34009",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Trois Bagatelles (D'Apres Enrico Bossi)",
+    "composer": "Bossi",
+    "arranger": "Hautvast",
+    "publishers": [
+      "Tierolff Muziekcentrale BV"
+    ],
+    "publisherText": "Tierolff Muziekcentrale BV",
+    "classLevel": 1,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-1-11973",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Andante et Scherzo",
+    "composer": "Bozza",
+    "arranger": "",
+    "publishers": [
+      "Alphonse Leduc"
+    ],
+    "publisherText": "Alphonse Leduc",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-1-34022",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Nuages",
+    "composer": "Bozza",
+    "arranger": "",
+    "publishers": [
+      "Alphonse Leduc"
+    ],
+    "publisherText": "Alphonse Leduc",
+    "classLevel": 1,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-1-34946",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Tintamarre",
+    "composer": "Campo",
+    "arranger": "",
+    "publishers": [
+      "Editions Henry Lemoine"
+    ],
+    "publisherText": "Editions Henry Lemoine",
+    "classLevel": 1,
+    "specification": "(SATB) (play one mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-1-33778",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Night in Ole San Antone",
+    "composer": "Chambers",
+    "arranger": "",
+    "publishers": [
+      "Aspenwood Music"
+    ],
+    "publisherText": "Aspenwood Music",
+    "classLevel": 1,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-1-29758",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Caravan",
+    "composer": "Clerisse",
+    "arranger": "",
+    "publishers": [
+      "Alphonse Leduc"
+    ],
+    "publisherText": "Alphonse Leduc",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-1-29757",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Introduction and Scherzo",
+    "composer": "Clerisse",
+    "arranger": "",
+    "publishers": [
+      "Alphonse Leduc"
+    ],
+    "publisherText": "Alphonse Leduc",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-1-34008",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Three Excerpts from \"Our Town\" and Simple Gifts",
+    "composer": "Copland",
+    "arranger": "Cohen",
+    "publishers": [
+      "Hal Leonard Music, Inc."
+    ],
+    "publisherText": "Hal Leonard Music, Inc.",
+    "classLevel": 1,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-1-34007",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Sailor's Hornpipe",
+    "composer": "Cowell",
+    "arranger": "",
+    "publishers": [
+      "Peermusic Classical"
+    ],
+    "publisherText": "Peermusic Classical",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-1-11976",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Suite for Saxophone Quartet",
+    "composer": "Creston",
+    "arranger": "",
+    "publishers": [
+      "Shawnee Press"
+    ],
+    "publisherText": "Shawnee Press",
+    "classLevel": 1,
+    "specification": "(play mvts 1 & 2 or 1 & 3 or 2 & 4 or 3 & 4)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-1-38509",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Prized Possessions",
+    "composer": "Cuong",
+    "arranger": "",
+    "publishers": [
+      "vietcoungmusic.com"
+    ],
+    "publisherText": "vietcoungmusic.com",
+    "classLevel": 1,
+    "specification": "(SATB) (play one mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-1-38511",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Primavera",
+    "composer": "Davenport",
+    "arranger": "Trentadue",
+    "publishers": [
+      "TUX Peoples Music"
+    ],
+    "publisherText": "TUX Peoples Music",
+    "classLevel": 1,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-1-34018",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Andantino and Vif from Quartet No. 1, Opus 10",
+    "composer": "Debussy",
+    "arranger": "Teal",
+    "publishers": [
+      "Norruth Music, Inc"
+    ],
+    "publisherText": "Norruth Music, Inc",
+    "classLevel": 1,
+    "specification": "(SATB) (play one mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-1-34017",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Arabesque 1",
+    "composer": "Debussy",
+    "arranger": "Bricault",
+    "publishers": [
+      "BRS Music"
+    ],
+    "publisherText": "BRS Music",
+    "classLevel": 1,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-1-29759",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Quartet",
+    "composer": "Desenclos",
+    "arranger": "",
+    "publishers": [
+      "Alphonse Leduc"
+    ],
+    "publisherText": "Alphonse Leduc",
+    "classLevel": 1,
+    "specification": "(play one mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-1-11977",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Quatour",
+    "composer": "Dubois",
+    "arranger": "",
+    "publishers": [
+      "Alphonse Leduc"
+    ],
+    "publisherText": "Alphonse Leduc",
+    "classLevel": 1,
+    "specification": "(play two mvts)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-1-29760",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Variations",
+    "composer": "Dubois",
+    "arranger": "",
+    "publishers": [
+      "Alphonse Leduc"
+    ],
+    "publisherText": "Alphonse Leduc",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-1-11978",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Prelude and Polka",
+    "composer": "Dvorak",
+    "arranger": "Ronkin",
+    "publishers": [
+      "Roncorp Inc."
+    ],
+    "publisherText": "Roncorp Inc.",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-1-34029",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Tango Virtuoso",
+    "composer": "Escaich",
+    "arranger": "",
+    "publishers": [
+      "Gerard Billaudot Edition"
+    ],
+    "publisherText": "Gerard Billaudot Edition",
+    "classLevel": 1,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-1-34010",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Pavane",
+    "composer": "Faure",
+    "arranger": "Schmidt",
+    "publishers": [
+      "Faure/Schmidt-Western International Music"
+    ],
+    "publisherText": "Faure/Schmidt-Western International Music",
+    "classLevel": 1,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-1-34019",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Quartette",
+    "composer": "Florio",
+    "arranger": "",
+    "publishers": [
+      "C.F. Peters Corp."
+    ],
+    "publisherText": "C.F. Peters Corp.",
+    "classLevel": 1,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-1-11979",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Fanfare, Air, and Finale",
+    "composer": "Frackenpohl",
+    "arranger": "",
+    "publishers": [
+      "Shawnee Press"
+    ],
+    "publisherText": "Shawnee Press",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-1-11980",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Sax Lix",
+    "composer": "Frackenpohl",
+    "arranger": "",
+    "publishers": [
+      "Kendor Music, Inc."
+    ],
+    "publisherText": "Kendor Music, Inc.",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-1-11981",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Petit Quatuor",
+    "composer": "Francais",
+    "arranger": "",
+    "publishers": [
+      "Schott Company"
+    ],
+    "publisherText": "Schott Company",
+    "classLevel": 1,
+    "specification": "(play two mvts)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-1-29761",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Fantazia",
+    "composer": "Gibons",
+    "arranger": "Hemke",
+    "publishers": [
+      "Southern Music Company"
+    ],
+    "publisherText": "Southern Music Company",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-1-34023",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Saxophone Quartet",
+    "composer": "Glass",
+    "arranger": "",
+    "publishers": [
+      "Music Sales/Chester Music"
+    ],
+    "publisherText": "Music Sales/Chester Music",
+    "classLevel": 1,
+    "specification": "SATB (play one mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-1-29762",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Quartet",
+    "composer": "Glazunov",
+    "arranger": "",
+    "publishers": [
+      "BeLaieff"
+    ],
+    "publisherText": "BeLaieff",
+    "classLevel": 1,
+    "specification": "(play one mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-1-34034",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Quatuor de Saxophones",
+    "composer": "Gotkovsky",
+    "arranger": "",
+    "publishers": [
+      "Gerard Billaudot Edition"
+    ],
+    "publisherText": "Gerard Billaudot Edition",
+    "classLevel": 1,
+    "specification": "SATB (play one mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-1-38515",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Peer Gynt Suite",
+    "composer": "Grieg",
+    "arranger": "Winstead",
+    "publishers": [
+      "Sigma Squared Music Publishing"
+    ],
+    "publisherText": "Sigma Squared Music Publishing",
+    "classLevel": 1,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-1-11982",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Adagio and Allegro",
+    "composer": "Handel",
+    "arranger": "Hervig",
+    "publishers": [
+      "Rubank, Inc."
+    ],
+    "publisherText": "Rubank, Inc.",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-1-29763",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Arrival of the Queen of Sheba",
+    "composer": "Handel",
+    "arranger": "Foumeau",
+    "publishers": [
+      "Billaudot"
+    ],
+    "publisherText": "Billaudot",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-1-34024",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Polar Vortex",
+    "composer": "Hass",
+    "arranger": "",
+    "publishers": [
+      "Murphy Music Press"
+    ],
+    "publisherText": "Murphy Music Press",
+    "classLevel": 1,
+    "specification": "(SATB) (play one mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-1-34040",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Volcanic Ash",
+    "composer": "Hass",
+    "arranger": "",
+    "publishers": [
+      "Murphy Music Press"
+    ],
+    "publisherText": "Murphy Music Press",
+    "classLevel": 1,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-1-34947",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Cityscapes",
+    "composer": "Hirsch",
+    "arranger": "",
+    "publishers": [
+      "Hirschmusic Publications"
+    ],
+    "publisherText": "Hirschmusic Publications",
+    "classLevel": 1,
+    "specification": "(SATB) (play one mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-1-11984",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Procession of the Sardar",
+    "composer": "Ippolitov-Ivanov",
+    "arranger": "Bonnell",
+    "publishers": [
+      "Schmitt, Hall & McCreary Company"
+    ],
+    "publisherText": "Schmitt, Hall & McCreary Company",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-1-34020",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Ryukyuan Fantasy",
+    "composer": "Ito",
+    "arranger": "",
+    "publishers": [
+      "Brain Co./Bravo Music"
+    ],
+    "publisherText": "Brain Co./Bravo Music",
+    "classLevel": 1,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-1-34021",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Quatuor pour saxophones",
+    "composer": "Jeanjean",
+    "arranger": "",
+    "publishers": [
+      "Editions Salabert"
+    ],
+    "publisherText": "Editions Salabert",
+    "classLevel": 1,
+    "specification": "(SATB) (play two mvts)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-1-26497",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "The Entertainer",
+    "composer": "Joplin",
+    "arranger": "Schanke",
+    "publishers": [
+      "Music Arts Co."
+    ],
+    "publisherText": "Music Arts Co.",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-1-34011",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Heliotrope Bouquet",
+    "composer": "Jopline/Chauvin",
+    "arranger": "Zajac",
+    "publishers": [
+      "Etoile Music Inc."
+    ],
+    "publisherText": "Etoile Music Inc.",
+    "classLevel": 1,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-1-29764",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Introduction and Allegro",
+    "composer": "Kaderavek",
+    "arranger": "",
+    "publishers": [
+      "Presser"
+    ],
+    "publisherText": "Presser",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-1-34035",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Ciudades",
+    "composer": "Lago",
+    "arranger": "",
+    "publishers": [
+      "Willem van Merwijk/Guillermo Lago"
+    ],
+    "publisherText": "Willem van Merwijk/Guillermo Lago",
+    "classLevel": 1,
+    "specification": "(SATB) (play one selection)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-1-29765",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Andante et Scherzetto",
+    "composer": "Lantier",
+    "arranger": "",
+    "publishers": [
+      "Billaudot"
+    ],
+    "publisherText": "Billaudot",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-1-34041",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "In Memoriam",
+    "composer": "Love",
+    "arranger": "",
+    "publishers": [
+      "Murphy Music Press"
+    ],
+    "publisherText": "Murphy Music Press",
+    "classLevel": 1,
+    "specification": "SATB (play one mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-1-34945",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Josquin Microlude",
+    "composer": "Ludwig",
+    "arranger": "",
+    "publishers": [
+      "www.davidludwigmusic.com"
+    ],
+    "publisherText": "www.davidludwigmusic.com",
+    "classLevel": 1,
+    "specification": "(SATB) (play at least 3 mvts)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-1-34014",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Strange Humors",
+    "composer": "Mackey",
+    "arranger": "",
+    "publishers": [
+      "Osti Music"
+    ],
+    "publisherText": "Osti Music",
+    "classLevel": 1,
+    "specification": "(SATB) (opt. djembe)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-1-34036",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Unquiet Spirits",
+    "composer": "Mackey",
+    "arranger": "",
+    "publishers": [
+      "Osti Music"
+    ],
+    "publisherText": "Osti Music",
+    "classLevel": 1,
+    "specification": "(SATB) (play one mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-1-34037",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Mountain Roads",
+    "composer": "Maslanka",
+    "arranger": "",
+    "publishers": [
+      "Carl Fischer, Inc."
+    ],
+    "publisherText": "Carl Fischer, Inc.",
+    "classLevel": 1,
+    "specification": "(SATB) (play one mvt OR mvt 3 plus one other mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-1-34038",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Recitation Book",
+    "composer": "Maslanka",
+    "arranger": "",
+    "publishers": [
+      "Maslanka Press"
+    ],
+    "publisherText": "Maslanka Press",
+    "classLevel": 1,
+    "specification": "(SATB) (play mvt 1 or mvt 5)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-1-34039",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Songs for the Coming Day",
+    "composer": "Maslanka",
+    "arranger": "",
+    "publishers": [
+      "Maslanka Press"
+    ],
+    "publisherText": "Maslanka Press",
+    "classLevel": 1,
+    "specification": "(SATB) (play mvt VIII OR two mvts)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-1-34030",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Black",
+    "composer": "Mellits",
+    "arranger": "",
+    "publishers": [
+      "Dacia Music/Marc Mellits"
+    ],
+    "publisherText": "Dacia Music/Marc Mellits",
+    "classLevel": 1,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-1-38512",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Cairo",
+    "composer": "Mitchell",
+    "arranger": "Trentadue",
+    "publishers": [
+      "TUX Peoples Music"
+    ],
+    "publisherText": "TUX Peoples Music",
+    "classLevel": 1,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-1-34948",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Danza: El que bailo con el Diablo",
+    "composer": "Moulds",
+    "arranger": "",
+    "publishers": [
+      "Saxtet"
+    ],
+    "publisherText": "Saxtet",
+    "classLevel": 1,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-1-11990",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Menuetto and Presto",
+    "composer": "Mozart",
+    "arranger": "Hervig",
+    "publishers": [
+      "Rubank, Inc. [Quartet Repertoire]"
+    ],
+    "publisherText": "Rubank, Inc. [Quartet Repertoire]",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-1-38518",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "In the case of",
+    "composer": "Nakano",
+    "arranger": "",
+    "publishers": [
+      "TUX Peoples Music"
+    ],
+    "publisherText": "TUX Peoples Music",
+    "classLevel": 1,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-1-11992",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Just for Show",
+    "composer": "Niehaus",
+    "arranger": "",
+    "publishers": [
+      "Kendor Music, Inc."
+    ],
+    "publisherText": "Kendor Music, Inc.",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-1-34025",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Songs for Tony",
+    "composer": "Nymen",
+    "arranger": "",
+    "publishers": [
+      "Music Sales/Chester Music"
+    ],
+    "publisherText": "Music Sales/Chester Music",
+    "classLevel": 1,
+    "specification": "(SATB) (play one mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-1-31378",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Canon",
+    "composer": "Pachelbel",
+    "arranger": "Marlatt",
+    "publishers": [
+      "Eight Note Publications"
+    ],
+    "publisherText": "Eight Note Publications",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-1-29766",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Quatuor",
+    "composer": "Pascal",
+    "arranger": "",
+    "publishers": [
+      "Durand"
+    ],
+    "publisherText": "Durand",
+    "classLevel": 1,
+    "specification": "(play two contrasting mvts)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-1-34031",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Drastic Measures",
+    "composer": "Peck",
+    "arranger": "",
+    "publishers": [
+      "Eble Music, Co"
+    ],
+    "publisherText": "Eble Music, Co",
+    "classLevel": 1,
+    "specification": "(SATB) (play one mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-1-34026",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Histoire du Tango",
+    "composer": "Piazzolla",
+    "arranger": "Voirpy",
+    "publishers": [
+      "Editions Henry Lemoine"
+    ],
+    "publisherText": "Editions Henry Lemoine",
+    "classLevel": 1,
+    "specification": "(SATB) (play one mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-1-29767",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Introduction et variations sur une rondo populaire",
+    "composer": "Pierne",
+    "arranger": "",
+    "publishers": [
+      "Alphonse Leduc"
+    ],
+    "publisherText": "Alphonse Leduc",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-1-34027",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Turbo Scramjet",
+    "composer": "Pitts",
+    "arranger": "",
+    "publishers": [
+      "William Pitts Music, Inc. (ASCAP)"
+    ],
+    "publisherText": "William Pitts Music, Inc. (ASCAP)",
+    "classLevel": 1,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-1-11994",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Quartet No. 5",
+    "composer": "Ramsoe",
+    "arranger": "Voxman",
+    "publishers": [
+      "Rubank, Inc."
+    ],
+    "publisherText": "Rubank, Inc.",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-1-11995",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Variations on a Theme by Sweelinck",
+    "composer": "Ricker",
+    "arranger": "",
+    "publishers": [
+      "Kendor Music, Inc."
+    ],
+    "publisherText": "Kendor Music, Inc.",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-1-34032",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Veracruz",
+    "composer": "Riojas",
+    "arranger": "",
+    "publishers": [
+      "Alry Publications, Etc. Inc."
+    ],
+    "publisherText": "Alry Publications, Etc. Inc.",
+    "classLevel": 1,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-1-29768",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Grave et Presto",
+    "composer": "Rivier",
+    "arranger": "",
+    "publishers": [
+      "Billaudot"
+    ],
+    "publisherText": "Billaudot",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-1-34015",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Concert en Quatuor",
+    "composer": "Rueff",
+    "arranger": "",
+    "publishers": [
+      "Alphonse Leduc"
+    ],
+    "publisherText": "Alphonse Leduc",
+    "classLevel": 1,
+    "specification": "(SATB) (play three mvts)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-1-29769",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Sonata No. 44",
+    "composer": "Scarlatti",
+    "arranger": "Hemke",
+    "publishers": [
+      "Southern Music Company"
+    ],
+    "publisherText": "Southern Music Company",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-1-34950",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Witch Hunt",
+    "composer": "Schultheiss",
+    "arranger": "",
+    "publishers": [
+      "Saxtet"
+    ],
+    "publisherText": "Saxtet",
+    "classLevel": 1,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-1-34012",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "A Schumann Bouquet",
+    "composer": "Schumann",
+    "arranger": "Bolcom",
+    "publishers": [
+      "Edward B. Marks Music"
+    ],
+    "publisherText": "Edward B. Marks Music",
+    "classLevel": 1,
+    "specification": "(SATB) (play three mvts)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-1-11998",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Allegro de Concert",
+    "composer": "Singelee",
+    "arranger": "",
+    "publishers": [
+      "Carl Fischer, Inc."
+    ],
+    "publisherText": "Carl Fischer, Inc.",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-1-12000",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Scherzo",
+    "composer": "Stack",
+    "arranger": "",
+    "publishers": [
+      "Southern Music Company"
+    ],
+    "publisherText": "Southern Music Company",
+    "classLevel": 1,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-1-38513",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Mary Shelley",
+    "composer": "Svanoe",
+    "arranger": "",
+    "publishers": [
+      "Swan Maiden Press"
+    ],
+    "publisherText": "Swan Maiden Press",
+    "classLevel": 1,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-1-34013",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Amusement Park Suite",
+    "composer": "Takahashi",
+    "arranger": "",
+    "publishers": [
+      "Brain Co./Bravo Music"
+    ],
+    "publisherText": "Brain Co./Bravo Music",
+    "classLevel": 1,
+    "specification": "(SATB) (play three mvts)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-1-12002",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Concerto in D Major for Saxophone Quartet",
+    "composer": "Telemann",
+    "arranger": "Jacobson",
+    "publishers": [
+      "Roncorp Inc."
+    ],
+    "publisherText": "Roncorp Inc.",
+    "classLevel": 1,
+    "specification": "AAAA or AAAT",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-1-12003",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Overture Baroque (from Suite in a minor)",
+    "composer": "Telemann",
+    "arranger": "Johnson",
+    "publishers": [
+      "Rubank, Inc."
+    ],
+    "publisherText": "Rubank, Inc.",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-1-29770",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Backburner",
+    "composer": "Ticheli",
+    "arranger": "",
+    "publishers": [
+      "Enc"
+    ],
+    "publisherText": "Enc",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-1-34033",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "July",
+    "composer": "Torke",
+    "arranger": "",
+    "publishers": [
+      "William Holab Music"
+    ],
+    "publisherText": "William Holab Music",
+    "classLevel": 1,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-1-12004",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Pollywog's Lake Talk",
+    "composer": "Ulman",
+    "arranger": "",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-1-34949",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Man-Mou",
+    "composer": "Wood",
+    "arranger": "",
+    "publishers": [
+      "Saxtet"
+    ],
+    "publisherText": "Saxtet",
+    "classLevel": 1,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "246-1-34028",
+    "instrumentSlug": "saxophone-quartet",
+    "instrumentName": "Saxophone Quartets",
+    "eventName": "Saxophone Quartet",
+    "title": "Arion's Harp",
+    "composer": "Yagisawa",
+    "arranger": "",
+    "publishers": [
+      "Brain Co./Bravo Music"
+    ],
+    "publisherText": "Brain Co./Bravo Music",
+    "classLevel": 1,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  }
+]

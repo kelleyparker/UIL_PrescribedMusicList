@@ -1,0 +1,22 @@
+{
+  "schoolYear": "2025-2026",
+  "instrumentSlug": "woodwind-trio",
+  "instrumentName": "Woodwind Trios",
+  "songCount": 269,
+  "publisherCount": 274,
+  "noteCount": 1,
+  "databaseRecordCount": 270,
+  "classBreakdown": {
+    "3": 60,
+    "2": 109,
+    "1": 100
+  },
+  "noMemoryRequiredCount": 0,
+  "publicDomainPdfCount": 0,
+  "eventBreakdown": {
+    "Woodwind Trio": 269
+  },
+  "notes": {
+    "dataset_audit": "Sourced from https://www.uiltexas.org/pml/ and https://www.uiltexas.org/pml/pml.php. Imported 2026-03-24T22:04:46.330985+00:00."
+  }
+}

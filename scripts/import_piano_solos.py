@@ -35,6 +35,40 @@ KEYBOARD_PERCUSSION_SOURCE_CSV_PATH = ROOT / "data" / "uil_keyboard_percussion_s
 MULTIPLE_PERCUSSION_SOURCE_CSV_PATH = ROOT / "data" / "uil_multiple_percussion_solos_source.csv"
 DRUM_SET_SOURCE_CSV_PATH = ROOT / "data" / "uil_drum_set_solos_source.csv"
 STEEL_PAN_SOURCE_CSV_PATH = ROOT / "data" / "uil_steel_pan_solos_source.csv"
+WOODWIND_TRIO_SOURCE_CSV_PATH = ROOT / "data" / "uil_woodwind_trio_source.csv"
+FLUTE_TRIO_SOURCE_CSV_PATH = ROOT / "data" / "uil_flute_trio_source.csv"
+BB_CLARINET_TRIO_SOURCE_CSV_PATH = ROOT / "data" / "uil_bb_clarinet_trio_source.csv"
+MIXED_CLARINET_TRIO_SOURCE_CSV_PATH = ROOT / "data" / "uil_mixed_clarinet_trio_source.csv"
+WOODWIND_QUARTET_SOURCE_CSV_PATH = ROOT / "data" / "uil_woodwind_quartet_source.csv"
+FLUTE_QUARTET_SOURCE_CSV_PATH = ROOT / "data" / "uil_flute_quartet_source.csv"
+BB_CLARINET_QUARTET_SOURCE_CSV_PATH = ROOT / "data" / "uil_bb_clarinet_quartet_source.csv"
+MIXED_CLARINET_QUARTET_SOURCE_CSV_PATH = ROOT / "data" / "uil_mixed_clarinet_quartet_source.csv"
+SAXOPHONE_QUARTET_SOURCE_CSV_PATH = ROOT / "data" / "uil_saxophone_quartet_source.csv"
+WOODWIND_QUINTET_SOURCE_CSV_PATH = ROOT / "data" / "uil_woodwind_quintet_source.csv"
+MISC_WOODWIND_ENSEMBLE_SOURCE_CSV_PATH = ROOT / "data" / "uil_misc_woodwind_ensemble_source.csv"
+DOUBLE_REED_ENSEMBLE_SOURCE_CSV_PATH = ROOT / "data" / "uil_double_reed_ensemble_source.csv"
+FLUTE_CHOIR_SOURCE_CSV_PATH = ROOT / "data" / "uil_flute_choir_source.csv"
+CLARINET_CHOIR_SOURCE_CSV_PATH = ROOT / "data" / "uil_clarinet_choir_source.csv"
+MISC_SAXOPHONE_ENSEMBLE_SOURCE_CSV_PATH = ROOT / "data" / "uil_misc_saxophone_ensemble_source.csv"
+TRUMPET_TRIO_SOURCE_CSV_PATH = ROOT / "data" / "uil_trumpet_trio_source.csv"
+TROMBONE_TRIO_SOURCE_CSV_PATH = ROOT / "data" / "uil_trombone_trio_source.csv"
+EUPHONIUM_BARITONE_TRIO_SOURCE_CSV_PATH = ROOT / "data" / "uil_euphonium_baritone_trio_source.csv"
+BRASS_TRIO_SOURCE_CSV_PATH = ROOT / "data" / "uil_brass_trio_source.csv"
+TRUMPET_QUARTET_SOURCE_CSV_PATH = ROOT / "data" / "uil_trumpet_quartet_source.csv"
+HORN_QUARTET_SOURCE_CSV_PATH = ROOT / "data" / "uil_horn_quartet_source.csv"
+EUPHONIUM_BARITONE_QUARTET_SOURCE_CSV_PATH = ROOT / "data" / "uil_euphonium_baritone_quartet_source.csv"
+BRASS_QUARTET_SOURCE_CSV_PATH = ROOT / "data" / "uil_brass_quartet_source.csv"
+TROMBONE_QUARTET_SOURCE_CSV_PATH = ROOT / "data" / "uil_trombone_quartet_source.csv"
+TUBA_EUPHONIUM_QUARTET_SOURCE_CSV_PATH = ROOT / "data" / "uil_tuba_euphonium_quartet_source.csv"
+BRASS_QUINTET_SOURCE_CSV_PATH = ROOT / "data" / "uil_brass_quintet_source.csv"
+BRASS_SEXTET_SOURCE_CSV_PATH = ROOT / "data" / "uil_brass_sextet_source.csv"
+SIX_OR_MORE_BRASS_SOURCE_CSV_PATH = ROOT / "data" / "uil_six_or_more_brass_source.csv"
+TRUMPET_CHOIR_SOURCE_CSV_PATH = ROOT / "data" / "uil_trumpet_choir_source.csv"
+MISC_HORN_ENSEMBLE_SOURCE_CSV_PATH = ROOT / "data" / "uil_misc_horn_ensemble_source.csv"
+TROMBONE_CHOIR_SOURCE_CSV_PATH = ROOT / "data" / "uil_trombone_choir_source.csv"
+PERCUSSION_ENSEMBLE_SOURCE_CSV_PATH = ROOT / "data" / "uil_percussion_ensemble_source.csv"
+STEEL_BAND_SOURCE_CSV_PATH = ROOT / "data" / "uil_steel_band_source.csv"
+MISC_MIXED_ENSEMBLE_SOURCE_CSV_PATH = ROOT / "data" / "uil_misc_mixed_ensemble_source.csv"
 DEFAULT_SCHOOL_YEAR = "2025-2026"
 TAG_PATTERN = re.compile(r"<[^>]+>")
 OPTION_PATTERN = re.compile(r"<option[^>]*>(.*?)</option>", re.IGNORECASE | re.DOTALL)
@@ -243,6 +277,278 @@ INSTRUMENT_CONFIGS = {
         "csv_path": STEEL_PAN_SOURCE_CSV_PATH,
         "songs_output": STATIC_DATA_DIR / "steel-pan-solos.json",
         "stats_output": STATIC_DATA_DIR / "steel-pan-stats.json",
+    },
+    "woodwind-trio": {
+        "event_name": "Woodwind Trio",
+        "event_names": ["Woodwind Trio"],
+        "title": "Woodwind Trios",
+        "csv_path": WOODWIND_TRIO_SOURCE_CSV_PATH,
+        "songs_output": STATIC_DATA_DIR / "woodwind-trio.json",
+        "stats_output": STATIC_DATA_DIR / "woodwind-trio-stats.json",
+    },
+    "flute-trio": {
+        "event_name": "Flute Trio",
+        "event_names": ["Flute Trio"],
+        "title": "Flute Trios",
+        "csv_path": FLUTE_TRIO_SOURCE_CSV_PATH,
+        "songs_output": STATIC_DATA_DIR / "flute-trio.json",
+        "stats_output": STATIC_DATA_DIR / "flute-trio-stats.json",
+    },
+    "bb-clarinet-trio": {
+        "event_name": "Bb Clarinet Trio",
+        "event_names": ["Bb Clarinet Trio"],
+        "title": "Bb Clarinet Trios",
+        "csv_path": BB_CLARINET_TRIO_SOURCE_CSV_PATH,
+        "songs_output": STATIC_DATA_DIR / "bb-clarinet-trio.json",
+        "stats_output": STATIC_DATA_DIR / "bb-clarinet-trio-stats.json",
+    },
+    "mixed-clarinet-trio": {
+        "event_name": "Mixed Clarinet Trio",
+        "event_names": ["Mixed Clarinet Trio"],
+        "title": "Mixed Clarinet Trios",
+        "csv_path": MIXED_CLARINET_TRIO_SOURCE_CSV_PATH,
+        "songs_output": STATIC_DATA_DIR / "mixed-clarinet-trio.json",
+        "stats_output": STATIC_DATA_DIR / "mixed-clarinet-trio-stats.json",
+    },
+    "woodwind-quartet": {
+        "event_name": "Woodwind Quartet",
+        "event_names": ["Woodwind Quartet"],
+        "title": "Woodwind Quartets",
+        "csv_path": WOODWIND_QUARTET_SOURCE_CSV_PATH,
+        "songs_output": STATIC_DATA_DIR / "woodwind-quartet.json",
+        "stats_output": STATIC_DATA_DIR / "woodwind-quartet-stats.json",
+    },
+    "flute-quartet": {
+        "event_name": "Flute Quartet",
+        "event_names": ["Flute Quartet"],
+        "title": "Flute Quartets",
+        "csv_path": FLUTE_QUARTET_SOURCE_CSV_PATH,
+        "songs_output": STATIC_DATA_DIR / "flute-quartet.json",
+        "stats_output": STATIC_DATA_DIR / "flute-quartet-stats.json",
+    },
+    "bb-clarinet-quartet": {
+        "event_name": "Bb Clarinet Quartet",
+        "event_names": ["Bb Clarinet Quartet"],
+        "title": "Bb Clarinet Quartets",
+        "csv_path": BB_CLARINET_QUARTET_SOURCE_CSV_PATH,
+        "songs_output": STATIC_DATA_DIR / "bb-clarinet-quartet.json",
+        "stats_output": STATIC_DATA_DIR / "bb-clarinet-quartet-stats.json",
+    },
+    "mixed-clarinet-quartet": {
+        "event_name": "Mixed Clarinet Quartet",
+        "event_names": ["Mixed Clarinet Quartet"],
+        "title": "Mixed Clarinet Quartets",
+        "csv_path": MIXED_CLARINET_QUARTET_SOURCE_CSV_PATH,
+        "songs_output": STATIC_DATA_DIR / "mixed-clarinet-quartet.json",
+        "stats_output": STATIC_DATA_DIR / "mixed-clarinet-quartet-stats.json",
+    },
+    "saxophone-quartet": {
+        "event_name": "Saxophone Quartet",
+        "event_names": ["Saxophone Quartet"],
+        "title": "Saxophone Quartets",
+        "csv_path": SAXOPHONE_QUARTET_SOURCE_CSV_PATH,
+        "songs_output": STATIC_DATA_DIR / "saxophone-quartet.json",
+        "stats_output": STATIC_DATA_DIR / "saxophone-quartet-stats.json",
+    },
+    "woodwind-quintet": {
+        "event_name": "Woodwind Quintet",
+        "event_names": ["Woodwind Quintet"],
+        "title": "Woodwind Quintets",
+        "csv_path": WOODWIND_QUINTET_SOURCE_CSV_PATH,
+        "songs_output": STATIC_DATA_DIR / "woodwind-quintet.json",
+        "stats_output": STATIC_DATA_DIR / "woodwind-quintet-stats.json",
+    },
+    "misc-woodwind-ensemble": {
+        "event_name": "Miscellaneous Woodwind Ensemble",
+        "event_names": ["Miscellaneous Woodwind Ensemble"],
+        "title": "Miscellaneous Woodwind Ensembles",
+        "csv_path": MISC_WOODWIND_ENSEMBLE_SOURCE_CSV_PATH,
+        "songs_output": STATIC_DATA_DIR / "misc-woodwind-ensemble.json",
+        "stats_output": STATIC_DATA_DIR / "misc-woodwind-ensemble-stats.json",
+    },
+    "double-reed-ensemble": {
+        "event_name": "Double Reed Ensemble",
+        "event_names": ["Double Reed Ensemble"],
+        "title": "Double Reed Ensembles",
+        "csv_path": DOUBLE_REED_ENSEMBLE_SOURCE_CSV_PATH,
+        "songs_output": STATIC_DATA_DIR / "double-reed-ensemble.json",
+        "stats_output": STATIC_DATA_DIR / "double-reed-ensemble-stats.json",
+    },
+    "flute-choir": {
+        "event_name": "Flute Choir",
+        "event_names": ["Flute Choir"],
+        "title": "Flute Choirs",
+        "csv_path": FLUTE_CHOIR_SOURCE_CSV_PATH,
+        "songs_output": STATIC_DATA_DIR / "flute-choir.json",
+        "stats_output": STATIC_DATA_DIR / "flute-choir-stats.json",
+    },
+    "clarinet-choir": {
+        "event_name": "Clarinet Choir",
+        "event_names": ["Clarinet Choir"],
+        "title": "Clarinet Choirs",
+        "csv_path": CLARINET_CHOIR_SOURCE_CSV_PATH,
+        "songs_output": STATIC_DATA_DIR / "clarinet-choir.json",
+        "stats_output": STATIC_DATA_DIR / "clarinet-choir-stats.json",
+    },
+    "misc-saxophone-ensemble": {
+        "event_name": "Miscellaneous Saxophone Ensemble",
+        "event_names": ["Miscellaneous Saxophone Ensemble"],
+        "title": "Miscellaneous Saxophone Ensembles",
+        "csv_path": MISC_SAXOPHONE_ENSEMBLE_SOURCE_CSV_PATH,
+        "songs_output": STATIC_DATA_DIR / "misc-saxophone-ensemble.json",
+        "stats_output": STATIC_DATA_DIR / "misc-saxophone-ensemble-stats.json",
+    },
+    "trumpet-trio": {
+        "event_name": "Trumpet Trio",
+        "event_names": ["Trumpet Trio"],
+        "title": "Trumpet Trios",
+        "csv_path": TRUMPET_TRIO_SOURCE_CSV_PATH,
+        "songs_output": STATIC_DATA_DIR / "trumpet-trio.json",
+        "stats_output": STATIC_DATA_DIR / "trumpet-trio-stats.json",
+    },
+    "trombone-trio": {
+        "event_name": "Trombone Trio",
+        "event_names": ["Trombone Trio"],
+        "title": "Trombone Trios",
+        "csv_path": TROMBONE_TRIO_SOURCE_CSV_PATH,
+        "songs_output": STATIC_DATA_DIR / "trombone-trio.json",
+        "stats_output": STATIC_DATA_DIR / "trombone-trio-stats.json",
+    },
+    "euphonium-baritone-trio": {
+        "event_name": "Euphonium-Baritone Trio",
+        "event_names": ["Euphonium-Baritone Trio"],
+        "title": "Euphonium-Baritone Trios",
+        "csv_path": EUPHONIUM_BARITONE_TRIO_SOURCE_CSV_PATH,
+        "songs_output": STATIC_DATA_DIR / "euphonium-baritone-trio.json",
+        "stats_output": STATIC_DATA_DIR / "euphonium-baritone-trio-stats.json",
+    },
+    "brass-trio": {
+        "event_name": "Brass Trio",
+        "event_names": ["Brass Trio"],
+        "title": "Brass Trios",
+        "csv_path": BRASS_TRIO_SOURCE_CSV_PATH,
+        "songs_output": STATIC_DATA_DIR / "brass-trio.json",
+        "stats_output": STATIC_DATA_DIR / "brass-trio-stats.json",
+    },
+    "trumpet-quartet": {
+        "event_name": "Trumpet Quartet",
+        "event_names": ["Trumpet Quartet"],
+        "title": "Trumpet Quartets",
+        "csv_path": TRUMPET_QUARTET_SOURCE_CSV_PATH,
+        "songs_output": STATIC_DATA_DIR / "trumpet-quartet.json",
+        "stats_output": STATIC_DATA_DIR / "trumpet-quartet-stats.json",
+    },
+    "horn-quartet": {
+        "event_name": "Horn Quartet",
+        "event_names": ["Horn Quartet"],
+        "title": "Horn Quartets",
+        "csv_path": HORN_QUARTET_SOURCE_CSV_PATH,
+        "songs_output": STATIC_DATA_DIR / "horn-quartet.json",
+        "stats_output": STATIC_DATA_DIR / "horn-quartet-stats.json",
+    },
+    "euphonium-baritone-quartet": {
+        "event_name": "Euphonium/Baritone Horn Quartet",
+        "event_names": ["Euphonium/Baritone Horn Quartet"],
+        "title": "Euphonium and Baritone Horn Quartets",
+        "csv_path": EUPHONIUM_BARITONE_QUARTET_SOURCE_CSV_PATH,
+        "songs_output": STATIC_DATA_DIR / "euphonium-baritone-quartet.json",
+        "stats_output": STATIC_DATA_DIR / "euphonium-baritone-quartet-stats.json",
+    },
+    "brass-quartet": {
+        "event_name": "Brass Quartet",
+        "event_names": ["Brass Quartet"],
+        "title": "Brass Quartets",
+        "csv_path": BRASS_QUARTET_SOURCE_CSV_PATH,
+        "songs_output": STATIC_DATA_DIR / "brass-quartet.json",
+        "stats_output": STATIC_DATA_DIR / "brass-quartet-stats.json",
+    },
+    "trombone-quartet": {
+        "event_name": "Trombone Quartet",
+        "event_names": ["Trombone Quartet"],
+        "title": "Trombone Quartets",
+        "csv_path": TROMBONE_QUARTET_SOURCE_CSV_PATH,
+        "songs_output": STATIC_DATA_DIR / "trombone-quartet.json",
+        "stats_output": STATIC_DATA_DIR / "trombone-quartet-stats.json",
+    },
+    "tuba-euphonium-quartet": {
+        "event_name": "Tuba/Euphonium Quartet",
+        "event_names": ["Tuba/Euphonium Quartet"],
+        "title": "Tuba and Euphonium Quartets",
+        "csv_path": TUBA_EUPHONIUM_QUARTET_SOURCE_CSV_PATH,
+        "songs_output": STATIC_DATA_DIR / "tuba-euphonium-quartet.json",
+        "stats_output": STATIC_DATA_DIR / "tuba-euphonium-quartet-stats.json",
+    },
+    "brass-quintet": {
+        "event_name": "Brass Quintet",
+        "event_names": ["Brass Quintet"],
+        "title": "Brass Quintets",
+        "csv_path": BRASS_QUINTET_SOURCE_CSV_PATH,
+        "songs_output": STATIC_DATA_DIR / "brass-quintet.json",
+        "stats_output": STATIC_DATA_DIR / "brass-quintet-stats.json",
+    },
+    "brass-sextet": {
+        "event_name": "Brass Sextet",
+        "event_names": ["Brass Sextet"],
+        "title": "Brass Sextets",
+        "csv_path": BRASS_SEXTET_SOURCE_CSV_PATH,
+        "songs_output": STATIC_DATA_DIR / "brass-sextet.json",
+        "stats_output": STATIC_DATA_DIR / "brass-sextet-stats.json",
+    },
+    "six-or-more-brass": {
+        "event_name": "Six or More Brass",
+        "event_names": ["Six or More Brass"],
+        "title": "Six or More Brass Ensembles",
+        "csv_path": SIX_OR_MORE_BRASS_SOURCE_CSV_PATH,
+        "songs_output": STATIC_DATA_DIR / "six-or-more-brass.json",
+        "stats_output": STATIC_DATA_DIR / "six-or-more-brass-stats.json",
+    },
+    "trumpet-choir": {
+        "event_name": "Trumpet Choir",
+        "event_names": ["Trumpet Choir"],
+        "title": "Trumpet Choirs",
+        "csv_path": TRUMPET_CHOIR_SOURCE_CSV_PATH,
+        "songs_output": STATIC_DATA_DIR / "trumpet-choir.json",
+        "stats_output": STATIC_DATA_DIR / "trumpet-choir-stats.json",
+    },
+    "misc-horn-ensemble": {
+        "event_name": "Miscellaneous Horn Ensemble",
+        "event_names": ["Miscellaneous Horn Ensemble"],
+        "title": "Miscellaneous Horn Ensembles",
+        "csv_path": MISC_HORN_ENSEMBLE_SOURCE_CSV_PATH,
+        "songs_output": STATIC_DATA_DIR / "misc-horn-ensemble.json",
+        "stats_output": STATIC_DATA_DIR / "misc-horn-ensemble-stats.json",
+    },
+    "trombone-choir": {
+        "event_name": "Trombone Choir",
+        "event_names": ["Trombone Choir"],
+        "title": "Trombone Choirs",
+        "csv_path": TROMBONE_CHOIR_SOURCE_CSV_PATH,
+        "songs_output": STATIC_DATA_DIR / "trombone-choir.json",
+        "stats_output": STATIC_DATA_DIR / "trombone-choir-stats.json",
+    },
+    "percussion-ensemble": {
+        "event_name": "Percussion Ensemble",
+        "event_names": ["Percussion Ensemble"],
+        "title": "Percussion Ensembles",
+        "csv_path": PERCUSSION_ENSEMBLE_SOURCE_CSV_PATH,
+        "songs_output": STATIC_DATA_DIR / "percussion-ensemble.json",
+        "stats_output": STATIC_DATA_DIR / "percussion-ensemble-stats.json",
+    },
+    "steel-band": {
+        "event_name": "Steel Band",
+        "event_names": ["Steel Band"],
+        "title": "Steel Bands",
+        "csv_path": STEEL_BAND_SOURCE_CSV_PATH,
+        "songs_output": STATIC_DATA_DIR / "steel-band.json",
+        "stats_output": STATIC_DATA_DIR / "steel-band-stats.json",
+    },
+    "misc-mixed-ensemble": {
+        "event_name": "Miscellaneous Mixed Ensemble",
+        "event_names": ["Miscellaneous Mixed Ensemble"],
+        "title": "Miscellaneous Mixed Ensembles",
+        "csv_path": MISC_MIXED_ENSEMBLE_SOURCE_CSV_PATH,
+        "songs_output": STATIC_DATA_DIR / "misc-mixed-ensemble.json",
+        "stats_output": STATIC_DATA_DIR / "misc-mixed-ensemble-stats.json",
     },
 }
 

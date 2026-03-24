@@ -1,0 +1,22 @@
+{
+  "schoolYear": "2025-2026",
+  "instrumentSlug": "trumpet-quartet",
+  "instrumentName": "Trumpet Quartets",
+  "songCount": 88,
+  "publisherCount": 88,
+  "noteCount": 1,
+  "databaseRecordCount": 89,
+  "classBreakdown": {
+    "3": 30,
+    "2": 33,
+    "1": 25
+  },
+  "noMemoryRequiredCount": 0,
+  "publicDomainPdfCount": 0,
+  "eventBreakdown": {
+    "Trumpet Quartet": 88
+  },
+  "notes": {
+    "dataset_audit": "Sourced from https://www.uiltexas.org/pml/ and https://www.uiltexas.org/pml/pml.php. Imported 2026-03-24T22:04:46.452299+00:00."
+  }
+}

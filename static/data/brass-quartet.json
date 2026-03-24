@@ -1,0 +1,4250 @@
+[
+  {
+    "uilCode": "344-3-13976",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Aura Lee",
+    "composer": "Anon. or Trad.",
+    "arranger": "Christensen/Dunn",
+    "publishers": [
+      "Neil A. Kjos Music Company"
+    ],
+    "publisherText": "Neil A. Kjos Music Company",
+    "classLevel": 3,
+    "specification": "(2 tpt, 2 tbn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-3-13978",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Deep River",
+    "composer": "Anon. or Trad.",
+    "arranger": "Fraker",
+    "publishers": [
+      "C.L. Barnhouse Company"
+    ],
+    "publisherText": "C.L. Barnhouse Company",
+    "classLevel": 3,
+    "specification": "(2 tpt, 2 tbn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-3-14144",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Reformation Chorales",
+    "composer": "Anon. or Trad.",
+    "arranger": "King",
+    "publishers": [
+      "Robert King"
+    ],
+    "publisherText": "Robert King",
+    "classLevel": 3,
+    "specification": "(play two) (2 tpt, tbn, eup)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-3-14132",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Three Sea Shanties",
+    "composer": "Anon. or Trad.",
+    "arranger": "Asher",
+    "publishers": [
+      "J&W Chester, Ltd."
+    ],
+    "publisherText": "J&W Chester, Ltd.",
+    "classLevel": 3,
+    "specification": "(play mvt 1 plus one other mvt) (2 tpt, hn, tbn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-3-14131",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Which is the Properest Day to Sing?",
+    "composer": "Arne",
+    "arranger": "Voxman",
+    "publishers": [
+      "Rubank, Inc. [Ensemble Classics, Book 1]"
+    ],
+    "publisherText": "Rubank, Inc. [Ensemble Classics, Book 1]",
+    "classLevel": 3,
+    "specification": "(2 tpt, hn, tbn or eup)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-3-14133",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Menuet in G (from Anna Magdelena Bach Notebook)",
+    "composer": "Bach",
+    "arranger": "Disinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-3-14134",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Musette",
+    "composer": "Bach",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 3,
+    "specification": "(2 tpt, hn, tbn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-3-13973",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Twenty-Two Chorales",
+    "composer": "Bach",
+    "arranger": "",
+    "publishers": [
+      "Robert King"
+    ],
+    "publisherText": "Robert King",
+    "classLevel": 3,
+    "specification": "(2 tpt, 2 tbn)/(play two)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-3-14135",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Twenty-two Chorales",
+    "composer": "Bach",
+    "arranger": "",
+    "publishers": [
+      "Robert King"
+    ],
+    "publisherText": "Robert King",
+    "classLevel": 3,
+    "specification": "(play two)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-3-13974",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Nature's Praise of God",
+    "composer": "Beethoven",
+    "arranger": "Voxman",
+    "publishers": [
+      "Rubank, Inc. [Ensemble Classics, Book II]"
+    ],
+    "publisherText": "Rubank, Inc. [Ensemble Classics, Book II]",
+    "classLevel": 3,
+    "specification": "(2 tpt, 2 tbn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-3-35713",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Ode To Joy from Symphony No. 9",
+    "composer": "Beethoven",
+    "arranger": "Forbes",
+    "publishers": [
+      "Kendor Music, Inc."
+    ],
+    "publisherText": "Kendor Music, Inc.",
+    "classLevel": 3,
+    "specification": "(2 trumpets, 2 trombones) (opt timpani)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-3-14136",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Peasants' Chorus",
+    "composer": "Borodin",
+    "arranger": "Voxman",
+    "publishers": [
+      "Rubank, Inc. [Ensemble Classics, Book 1]"
+    ],
+    "publisherText": "Rubank, Inc. [Ensemble Classics, Book 1]",
+    "classLevel": 3,
+    "specification": "(2 tpt, hn, tbn or eup)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-3-13975",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "The Hunter",
+    "composer": "Brahms",
+    "arranger": "Voxman",
+    "publishers": [
+      "Rubank, Inc. [Ensemble Classics, Book II]"
+    ],
+    "publisherText": "Rubank, Inc. [Ensemble Classics, Book II]",
+    "classLevel": 3,
+    "specification": "(2 tpt, 2 tbn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-3-38625",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Abendiere in Venedig",
+    "composer": "C Schumann",
+    "arranger": "Chidester",
+    "publishers": [
+      "www.trumpetensemblemusic.com"
+    ],
+    "publisherText": "www.trumpetensemblemusic.com",
+    "classLevel": 3,
+    "specification": "(2 tpt, hn, trb)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-3-35717",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Smile",
+    "composer": "Chaplin",
+    "arranger": "Chidester",
+    "publishers": [
+      "www.trumpetensemblemusic.com"
+    ],
+    "publisherText": "www.trumpetensemblemusic.com",
+    "classLevel": 3,
+    "specification": "(2 trumpets, 2 trombones)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-3-14152",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "La, La Master Peter",
+    "composer": "Clemens non Papa",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 3,
+    "specification": "(2 tpt, hn, tbn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-3-14138",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Rondo Humoreske",
+    "composer": "Dieterich",
+    "arranger": "",
+    "publishers": [
+      "Rubank, Inc. [Program Repertoire for Brass Quartet]"
+    ],
+    "publisherText": "Rubank, Inc. [Program Repertoire for Brass Quartet]",
+    "classLevel": 3,
+    "specification": "(2 tpt, hn, eup or tbn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-3-14139",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "March Pontificale",
+    "composer": "Gounod",
+    "arranger": "Harris",
+    "publishers": [
+      "Ludwig Music Publishing Company"
+    ],
+    "publisherText": "Ludwig Music Publishing Company",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-3-35715",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Norwegian Sailor Song",
+    "composer": "Grieg",
+    "arranger": "Park",
+    "publishers": [
+      "JPM Music Publications"
+    ],
+    "publisherText": "JPM Music Publications",
+    "classLevel": 3,
+    "specification": "(2 trumpets, horn, trombone)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-3-29930",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "March Pontificale",
+    "composer": "Guonod",
+    "arranger": "Harris",
+    "publishers": [
+      "Ludwig Music Publishing Company"
+    ],
+    "publisherText": "Ludwig Music Publishing Company",
+    "classLevel": 3,
+    "specification": "(2 tpt, 2 tbn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-3-14140",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Allegro (from Concerto Grosso Op. 3 No.4)",
+    "composer": "Handel",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 3,
+    "specification": "(2 tpt, hn, tbn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-3-14141",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Rinaldo's Aria",
+    "composer": "Handel",
+    "arranger": "Voxman",
+    "publishers": [
+      "Rubank, Inc. [Ensemble Classics, Book 1]"
+    ],
+    "publisherText": "Rubank, Inc. [Ensemble Classics, Book 1]",
+    "classLevel": 3,
+    "specification": "(2 tpt, hn, tbn or eup)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-3-13979",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "The Spacious Firmament on High",
+    "composer": "Haydn",
+    "arranger": "Voxman",
+    "publishers": [
+      "Rubank, Inc. [Ensemble Classics, Book II]"
+    ],
+    "publisherText": "Rubank, Inc. [Ensemble Classics, Book II]",
+    "classLevel": 3,
+    "specification": "(2 tpt, 2 tbn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-3-14142",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Theme (from Surprise Symphony)",
+    "composer": "Haydn",
+    "arranger": "Schaeffer",
+    "publishers": [
+      "Pro-Art Publications [Concert Classics]"
+    ],
+    "publisherText": "Pro-Art Publications [Concert Classics]",
+    "classLevel": 3,
+    "specification": "(3 tpt, tbn or eup)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-3-14143",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "The Game",
+    "composer": "Kabalevsky",
+    "arranger": "Lester",
+    "publishers": [
+      "JTL Publications, G. Scott Music Publishing Co."
+    ],
+    "publisherText": "JTL Publications, G. Scott Music Publishing Co.",
+    "classLevel": 3,
+    "specification": "(2 tpt, hn, tbn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-3-14145",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Pomp and Panoply",
+    "composer": "Koepke",
+    "arranger": "",
+    "publishers": [
+      "Rubank, Inc. [Program Repertoire for Brass Quartet]"
+    ],
+    "publisherText": "Rubank, Inc. [Program Repertoire for Brass Quartet]",
+    "classLevel": 3,
+    "specification": "(2 tpt, hn, eup or tbn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-3-14146",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Three New England Hymns",
+    "composer": "Law/Billings/Hewitt",
+    "arranger": "",
+    "publishers": [
+      "Robert King"
+    ],
+    "publisherText": "Robert King",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-3-14147",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Folk Song",
+    "composer": "Leontyev",
+    "arranger": "Brown",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 3,
+    "specification": "(3 tbn, tba)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-3-14148",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Madrigal: Madonna Mia Gentil",
+    "composer": "Marenzio",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 3,
+    "specification": "(2 tpt, hn, tbn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-3-14149",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Pageantry",
+    "composer": "McKay",
+    "arranger": "",
+    "publishers": [
+      "C.L. Barnhouse Company"
+    ],
+    "publisherText": "C.L. Barnhouse Company",
+    "classLevel": 3,
+    "specification": "(2 tpt, hn, tbn or eup)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-3-13980",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "In the Forest",
+    "composer": "Mendelssohn",
+    "arranger": "Voxman",
+    "publishers": [
+      "Rubank, Inc. [Ensemble Classics, Book II]"
+    ],
+    "publisherText": "Rubank, Inc. [Ensemble Classics, Book II]",
+    "classLevel": 3,
+    "specification": "(2 tpt, 2 tbn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-3-29934",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Harlech Castle",
+    "composer": "Milford",
+    "arranger": "",
+    "publishers": [
+      "Ludwig Music Publishing Company"
+    ],
+    "publisherText": "Ludwig Music Publishing Company",
+    "classLevel": 3,
+    "specification": "(2 tpt, 2 tbn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-3-29933",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Two Spirituals",
+    "composer": "Milford",
+    "arranger": "",
+    "publishers": [
+      "GWP"
+    ],
+    "publisherText": "GWP",
+    "classLevel": 3,
+    "specification": "(2 tpt, 2 tbn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-3-14150",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Andante and Menuetto",
+    "composer": "Mozart",
+    "arranger": "Cofield",
+    "publishers": [
+      "Rubank, Inc. [Program Repertoire for Brass Quartet]"
+    ],
+    "publisherText": "Rubank, Inc. [Program Repertoire for Brass Quartet]",
+    "classLevel": 3,
+    "specification": "(2 tpt, hn, eup or tbn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-3-38626",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Ave Verum Corpus",
+    "composer": "Mozart",
+    "arranger": "Sabourin",
+    "publishers": [
+      "Cherry Classics"
+    ],
+    "publisherText": "Cherry Classics",
+    "classLevel": 3,
+    "specification": "LOW BRASS QUARTET (any combination of trombones, euphoniums, & tubas)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-3-14151",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "March of the Priests",
+    "composer": "Mozart",
+    "arranger": "Voxman",
+    "publishers": [
+      "Rubank, Inc. [Ensemble Classics, Book 1]"
+    ],
+    "publisherText": "Rubank, Inc. [Ensemble Classics, Book 1]",
+    "classLevel": 3,
+    "specification": "(2 tpt, hn, tbn or eup)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-3-14153",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Prelude and Scherzo",
+    "composer": "Ostransky",
+    "arranger": "",
+    "publishers": [
+      "Rubank, Inc. [Program Repertoire for Brass Quartet]"
+    ],
+    "publisherText": "Rubank, Inc. [Program Repertoire for Brass Quartet]",
+    "classLevel": 3,
+    "specification": "(2 tpt, hn, eup or tbn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-3-35714",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "The Ballad of Amir",
+    "composer": "Pappas",
+    "arranger": "",
+    "publishers": [
+      "JPM Music Publications"
+    ],
+    "publisherText": "JPM Music Publications",
+    "classLevel": 3,
+    "specification": "(horn, trombone, euphonium, tuba)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-3-14154",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Il Est Bel Et Bon",
+    "composer": "Passereau",
+    "arranger": "Reeve",
+    "publishers": [
+      "J&W Chester, Ltd."
+    ],
+    "publisherText": "J&W Chester, Ltd.",
+    "classLevel": 3,
+    "specification": "(2 tpt, hn, tbn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-3-13981",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Bransle Double",
+    "composer": "Praetorius",
+    "arranger": "",
+    "publishers": [
+      "Western International Music, Inc."
+    ],
+    "publisherText": "Western International Music, Inc.",
+    "classLevel": 3,
+    "specification": "(2 tpt, 2 tbn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-3-14155",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Music for Queen Mary II",
+    "composer": "Purcell",
+    "arranger": "",
+    "publishers": [
+      "Robert King"
+    ],
+    "publisherText": "Robert King",
+    "classLevel": 3,
+    "specification": "(tpt, hn or tpt, tbn or hn, eup or tbn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-3-14156",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Rigaudon (from Pieces de Clavecin)",
+    "composer": "Rameau",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 3,
+    "specification": "(2 tpt, hn, tbn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-3-13982",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Alleluia (from The Christmas Oratorio)",
+    "composer": "Saint-Saens",
+    "arranger": "Ostling",
+    "publishers": [
+      "Belwin, Inc"
+    ],
+    "publisherText": "Belwin, Inc",
+    "classLevel": 3,
+    "specification": "(2 tpt, 2 tbn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-3-35716",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Abendfeier in Venedig",
+    "composer": "Schumann",
+    "arranger": "Chidester",
+    "publishers": [
+      "www.trumpetensemblemusic.com"
+    ],
+    "publisherText": "www.trumpetensemblemusic.com",
+    "classLevel": 3,
+    "specification": "(2 trumpets, horn, trombone)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-3-14157",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "The Dream",
+    "composer": "Schumann",
+    "arranger": "Voxman",
+    "publishers": [
+      "Rubank, Inc. [Ensemble Classics, Book 1]"
+    ],
+    "publisherText": "Rubank, Inc. [Ensemble Classics, Book 1]",
+    "classLevel": 3,
+    "specification": "(2 tpt, hn, tbn or eup)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-3-14158",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Fanfare March",
+    "composer": "Shelukov",
+    "arranger": "Beeler",
+    "publishers": [
+      "Rubank, Inc. [Program Repertoire for Brass Quartet]"
+    ],
+    "publisherText": "Rubank, Inc. [Program Repertoire for Brass Quartet]",
+    "classLevel": 3,
+    "specification": "(2 tpt, hn, eup or tbn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-3-14159",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Finlandia",
+    "composer": "Sibelius",
+    "arranger": "Voxman",
+    "publishers": [
+      "Rubank, Inc. [Ensemble Classics, Book 1]"
+    ],
+    "publisherText": "Rubank, Inc. [Ensemble Classics, Book 1]",
+    "classLevel": 3,
+    "specification": "(2 tpt, hn, tbn or eup)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-3-13983",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Brass Suite",
+    "composer": "Solomon",
+    "arranger": "",
+    "publishers": [
+      "Southern Music Company"
+    ],
+    "publisherText": "Southern Music Company",
+    "classLevel": 3,
+    "specification": "(2 tpt, 2 tbn) (play two mvts)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-3-38627",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Fifteen Hymns & Spirtuals",
+    "composer": "Traditional",
+    "arranger": "Ausman",
+    "publishers": [
+      "Cherry Classics"
+    ],
+    "publisherText": "Cherry Classics",
+    "classLevel": 3,
+    "specification": "LOW BRASS QUARTET (any combination of trombones, euphoniums, & tubas) (play two mvts)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-3-14160",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Latinette",
+    "composer": "Walters",
+    "arranger": "",
+    "publishers": [
+      "Rubank, Inc. [Program Repertoire for Brass Quartet]"
+    ],
+    "publisherText": "Rubank, Inc. [Program Repertoire for Brass Quartet]",
+    "classLevel": 3,
+    "specification": "(2 tpt, hn, eup or tbn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-3-14161",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Adagio and Presto",
+    "composer": "Zingarelli",
+    "arranger": "Carlsten",
+    "publishers": [
+      "C.L. Barnhouse Company"
+    ],
+    "publisherText": "C.L. Barnhouse Company",
+    "classLevel": 3,
+    "specification": "(2 tpt, hn, tbn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-3-13977",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Seven Moods and Dances",
+    "composer": "de Haan",
+    "arranger": "",
+    "publishers": [
+      "J&W Chester, Ltd."
+    ],
+    "publisherText": "J&W Chester, Ltd.",
+    "classLevel": 3,
+    "specification": "(2 tpt, 2 tbn)/(play two mvts)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-3-14137",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Seven Moods and Dances",
+    "composer": "de Haan",
+    "arranger": "",
+    "publishers": [
+      "J&W Chester, Ltd."
+    ],
+    "publisherText": "J&W Chester, Ltd.",
+    "classLevel": 3,
+    "specification": "(play two mvts) (2 tpt, hn, tbn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-2-14120",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Irish Airs",
+    "composer": "Anon. or Trad.",
+    "arranger": "Ostling",
+    "publishers": [
+      "Belwin, Inc"
+    ],
+    "publisherText": "Belwin, Inc",
+    "classLevel": 2,
+    "specification": "(2 tpt, tbn or hn, tbn or eup)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-2-14086",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Three Sea Shanties",
+    "composer": "Anon. or Trad.",
+    "arranger": "Asher",
+    "publishers": [
+      "J&W Chester, Ltd."
+    ],
+    "publisherText": "J&W Chester, Ltd.",
+    "classLevel": 2,
+    "specification": "(any published combination) (must be performed as a quartet)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-2-14087",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "A Bach Suite",
+    "composer": "Bach",
+    "arranger": "Benoy",
+    "publishers": [
+      "Oxford University Press"
+    ],
+    "publisherText": "Oxford University Press",
+    "classLevel": 2,
+    "specification": "(tpt, tpt or hn, tbn, tbn or hn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-2-14088",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Before Thy Throne I Now Appear",
+    "composer": "Bach",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 2,
+    "specification": "(2 tpt, hn, tbn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-2-13948",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Bist Du Bei Mir",
+    "composer": "Bach",
+    "arranger": "Fitzgerald",
+    "publishers": [
+      "Theodore Presser Company"
+    ],
+    "publisherText": "Theodore Presser Company",
+    "classLevel": 2,
+    "specification": "(2 tpt, 2 tbn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-2-14089",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Bist Du Bei Mir",
+    "composer": "Bach",
+    "arranger": "Fitzgerald",
+    "publishers": [
+      "Theodore Presser Company"
+    ],
+    "publisherText": "Theodore Presser Company",
+    "classLevel": 2,
+    "specification": "(2 tpt, hn, tbn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-2-38621",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Chorale and Fuge BWV 187",
+    "composer": "Bach",
+    "arranger": "Gregory",
+    "publishers": [
+      "JW Pepper"
+    ],
+    "publisherText": "JW Pepper",
+    "classLevel": 2,
+    "specification": "(2 tpt, 2 trb) (play Chorale)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-2-13950",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Fuga IX",
+    "composer": "Bach",
+    "arranger": "Mehl",
+    "publishers": [
+      "Edition Kunzelman USA"
+    ],
+    "publisherText": "Edition Kunzelman USA",
+    "classLevel": 2,
+    "specification": "(2 tpt, 2 tbn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-2-14090",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Fugue (from The Spirit Helpeth)",
+    "composer": "Bach",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 2,
+    "specification": "(2 tpt, hn, tbn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-2-14091",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Kyrie in F",
+    "composer": "Bach",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 2,
+    "specification": "(2 tpt, hn, tbn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-2-14092",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Motet: Sei Lob und Preis mit Ehren",
+    "composer": "Bach",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 2,
+    "specification": "(2 tpt, hn, tbn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-2-14093",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Sinfonia",
+    "composer": "Banchieri",
+    "arranger": "Maganini",
+    "publishers": [
+      "Carl Fischer, Inc. [Three Original Ensembles for Brass Instruments]"
+    ],
+    "publisherText": "Carl Fischer, Inc. [Three Original Ensembles for Brass Instruments]",
+    "classLevel": 2,
+    "specification": "(2 tpt, hn, tbn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-2-14094",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Chorale in E Major",
+    "composer": "Baxley",
+    "arranger": "",
+    "publishers": [
+      "Clark-Baxley Publications"
+    ],
+    "publisherText": "Clark-Baxley Publications",
+    "classLevel": 2,
+    "specification": "(hn, tbn, eup, tba)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-2-29928",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "12th Street Rag",
+    "composer": "Bowman",
+    "arranger": "Schanke",
+    "publishers": [
+      "Music Arts Co."
+    ],
+    "publisherText": "Music Arts Co.",
+    "classLevel": 2,
+    "specification": "(2 tpt, 2 tbn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-2-14095",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Gavotte (from Symphony No.4)",
+    "composer": "Boyce",
+    "arranger": "Vedeski",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 2,
+    "specification": "(2 tpt, hn, tbn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-2-14096",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Motet I Op. 74 No.1",
+    "composer": "Brahms",
+    "arranger": "Fitzgerald",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 2,
+    "specification": "(2 tpt, hn or tbn, tbn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-2-14097",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Motet II Op. 74 No.2",
+    "composer": "Brahms",
+    "arranger": "Fitzgerald",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 2,
+    "specification": "(2 tpt, hn or tbn, tbn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-2-14098",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Three Songs",
+    "composer": "Brahms",
+    "arranger": "Voxman/Block",
+    "publishers": [
+      "Southern Music Company"
+    ],
+    "publisherText": "Southern Music Company",
+    "classLevel": 2,
+    "specification": "(2 tpt, hn, tbn or eup)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-2-38624",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Twelve Songs",
+    "composer": "Brahms",
+    "arranger": "Sauer",
+    "publishers": [
+      "Cherry Classics"
+    ],
+    "publisherText": "Cherry Classics",
+    "classLevel": 2,
+    "specification": "LOW BRASS QUARTET (any combination of trombones, euphoniums, & tubas) (play four songs)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-2-14099",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Aequale",
+    "composer": "Bruckner",
+    "arranger": "Maganini",
+    "publishers": [
+      "Carl Fischer, Inc. [Three Original Ensembles for Brass Instruments]"
+    ],
+    "publisherText": "Carl Fischer, Inc. [Three Original Ensembles for Brass Instruments]",
+    "classLevel": 2,
+    "specification": "(2 tpt, hn, tbn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-2-13951",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Virga Jesse",
+    "composer": "Bruckner",
+    "arranger": "Guenther",
+    "publishers": [
+      "Southern Music Company"
+    ],
+    "publisherText": "Southern Music Company",
+    "classLevel": 2,
+    "specification": "(2 tpt, 2 tbn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-2-38617",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Orlando",
+    "composer": "Chidester",
+    "arranger": "",
+    "publishers": [
+      "www.trumpetensemblemusic.com"
+    ],
+    "publisherText": "www.trumpetensemblemusic.com",
+    "classLevel": 2,
+    "specification": "(2 tpt, 2 trb)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-2-14100",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Two Pieces",
+    "composer": "Corelli",
+    "arranger": "",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 2,
+    "specification": "(2 tpt, hn, tbn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-2-14130",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Rondeau",
+    "composer": "Couperin",
+    "arranger": "Zabel",
+    "publishers": [
+      "International Music Company [Four French Pieces]"
+    ],
+    "publisherText": "International Music Company [Four French Pieces]",
+    "classLevel": 2,
+    "specification": "(must also play one additional selection from this collection) (2 tpt, hn, tbn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-2-23788",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Rondeau",
+    "composer": "Dandrieu",
+    "arranger": "Zabel",
+    "publishers": [
+      "International Music Company [Four French Pieces]"
+    ],
+    "publisherText": "International Music Company [Four French Pieces]",
+    "classLevel": 2,
+    "specification": "(must also play one additional selection from this collection) (2 tpt, hn, tbn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-2-38616",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "As Torrents In Summer",
+    "composer": "Elgar",
+    "arranger": "Chidester",
+    "publishers": [
+      "www.trumpetensemblemusic.com"
+    ],
+    "publisherText": "www.trumpetensemblemusic.com",
+    "classLevel": 2,
+    "specification": "(2 tpt, 2 trb)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-2-14101",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Gavotte (from Contrast)",
+    "composer": "Elgar",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-2-14102",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "His Humour",
+    "composer": "Farnaby",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 2,
+    "specification": "(2 tpt, hn, tbn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-2-13953",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Toccata",
+    "composer": "Frescobaldi",
+    "arranger": "Schmidt",
+    "publishers": [
+      "Western International Music, Inc."
+    ],
+    "publisherText": "Western International Music, Inc.",
+    "classLevel": 2,
+    "specification": "(2 tpt, 2 tbn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-2-29610",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Canzon Terza",
+    "composer": "Gabrieli",
+    "arranger": "Machan",
+    "publishers": [
+      "Alliance Publications, Inc."
+    ],
+    "publisherText": "Alliance Publications, Inc.",
+    "classLevel": 2,
+    "specification": "(2 tpt, hn, tbn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-2-14103",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Canzona per Sonare No. 1",
+    "composer": "Gabrieli",
+    "arranger": "",
+    "publishers": [
+      "Robert King"
+    ],
+    "publisherText": "Robert King",
+    "classLevel": 2,
+    "specification": "(2 tpt, hn or tbn, eup)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-2-14104",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Canzona per Sonare No. 3",
+    "composer": "Gabrieli",
+    "arranger": "",
+    "publishers": [
+      "Robert King"
+    ],
+    "publisherText": "Robert King",
+    "classLevel": 2,
+    "specification": "(2 tpt, hn or tbn, eup)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-2-14105",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Canzona per Sonare No. 4",
+    "composer": "Gabrieli",
+    "arranger": "",
+    "publishers": [
+      "Robert King"
+    ],
+    "publisherText": "Robert King",
+    "classLevel": 2,
+    "specification": "(2 tpt, hn or tbn, eup)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-2-13954",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Ricercar",
+    "composer": "Gabrieli",
+    "arranger": "Smith",
+    "publishers": [
+      "Edition Musicus-New York, Inc."
+    ],
+    "publisherText": "Edition Musicus-New York, Inc.",
+    "classLevel": 2,
+    "specification": "(2 tpt, 2 tbn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-2-13955",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Ricercar del Duodecimo Tuono",
+    "composer": "Gabrieli",
+    "arranger": "Backhaus",
+    "publishers": [
+      "Trigram Music Inc."
+    ],
+    "publisherText": "Trigram Music Inc.",
+    "classLevel": 2,
+    "specification": "(2 tpt, 2 tbn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-2-13956",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Ricercar del Sesto Tuono",
+    "composer": "Gabrieli",
+    "arranger": "",
+    "publishers": [
+      "Musica Rara"
+    ],
+    "publisherText": "Musica Rara",
+    "classLevel": 2,
+    "specification": "(2 tpt, 2 tbn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-2-14106",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Ricercar for Four Brass Instruments",
+    "composer": "Gabrieli",
+    "arranger": "Smith",
+    "publishers": [
+      "QM-EM"
+    ],
+    "publisherText": "QM-EM",
+    "classLevel": 2,
+    "specification": "(2 tpt, hn, tbn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-2-14107",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "In Modo Religioso Op. 38",
+    "composer": "Glazounov",
+    "arranger": "",
+    "publishers": [
+      "Robert King"
+    ],
+    "publisherText": "Robert King",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-2-13957",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "In Modo Religioso",
+    "composer": "Glazounow",
+    "arranger": "Voxman",
+    "publishers": [
+      "Rubank, Inc."
+    ],
+    "publisherText": "Rubank, Inc.",
+    "classLevel": 2,
+    "specification": "(2 tpt, 2 tbn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-2-14108",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Suite for Brass Quartet",
+    "composer": "Gretchaninoff",
+    "arranger": "Lester",
+    "publishers": [
+      "JTL Publications, G. Scott Music Publishing Co."
+    ],
+    "publisherText": "JTL Publications, G. Scott Music Publishing Co.",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-2-23789",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Gigue",
+    "composer": "Gretry",
+    "arranger": "Zabel",
+    "publishers": [
+      "International Music Company [Four French Pieces]"
+    ],
+    "publisherText": "International Music Company [Four French Pieces]",
+    "classLevel": 2,
+    "specification": "(must also play one additional selection from this collection) (2 tpt, hn, tbn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-2-14109",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Quartet for Brass",
+    "composer": "Haddad",
+    "arranger": "",
+    "publishers": [
+      "Shawnee Press"
+    ],
+    "publisherText": "Shawnee Press",
+    "classLevel": 2,
+    "specification": "(2 tpt, hn, tbn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-2-13958",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Bourree and Minuet",
+    "composer": "Handel",
+    "arranger": "King",
+    "publishers": [
+      "Robert King"
+    ],
+    "publisherText": "Robert King",
+    "classLevel": 2,
+    "specification": "(2 tpt, 2 tbn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-2-14110",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Bourree and Minuet",
+    "composer": "Handel",
+    "arranger": "",
+    "publishers": [
+      "Robert King"
+    ],
+    "publisherText": "Robert King",
+    "classLevel": 2,
+    "specification": "(2 tpt, hn or tbn, tbn or eup)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-2-13959",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "March and Gavotte",
+    "composer": "Handel",
+    "arranger": "King",
+    "publishers": [
+      "Robert King"
+    ],
+    "publisherText": "Robert King",
+    "classLevel": 2,
+    "specification": "(2 tpt, 2 tbn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-2-14111",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "March and Gavotte",
+    "composer": "Handel",
+    "arranger": "King",
+    "publishers": [
+      "Robert King"
+    ],
+    "publisherText": "Robert King",
+    "classLevel": 2,
+    "specification": "(tpt, tpt or hn, tbn or hn, tbn or eup)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-2-14112",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Little Suite",
+    "composer": "Hidas",
+    "arranger": "",
+    "publishers": [
+      "Editio Musica"
+    ],
+    "publisherText": "Editio Musica",
+    "classLevel": 2,
+    "specification": "(play two mvts) (3 tpt, tbn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-2-35709",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Intrada: Almighty King",
+    "composer": "Hilfiger",
+    "arranger": "",
+    "publishers": [
+      "Eighth Note Publications"
+    ],
+    "publisherText": "Eighth Note Publications",
+    "classLevel": 2,
+    "specification": "(2 trumpets, horn, trombone)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-2-35711",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Bayou Bagatelle",
+    "composer": "Isca",
+    "arranger": "",
+    "publishers": [
+      "JPM Music Publications"
+    ],
+    "publisherText": "JPM Music Publications",
+    "classLevel": 2,
+    "specification": "(trumpet, horn, trombone, tuba)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-2-14113",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Chanson: To Yonder Lovely Grove",
+    "composer": "Janequin",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 2,
+    "specification": "(2 tpt, hn, tbn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-2-13960",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "The Game",
+    "composer": "Kabalevsky",
+    "arranger": "Lester",
+    "publishers": [
+      "JTL Publications, G. Scott Music Publishing Co."
+    ],
+    "publisherText": "JTL Publications, G. Scott Music Publishing Co.",
+    "classLevel": 2,
+    "specification": "(2 tpt, 2 tbn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-2-13961",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Two Dances",
+    "composer": "Kabelevsky",
+    "arranger": "Lester",
+    "publishers": [
+      "JTL Publications, G. Scott Music Publishing Co."
+    ],
+    "publisherText": "JTL Publications, G. Scott Music Publishing Co.",
+    "classLevel": 2,
+    "specification": "(2 tpt, 2 tbn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-2-14114",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Miniature for Brass Quartet",
+    "composer": "Lo Presti",
+    "arranger": "",
+    "publishers": [
+      "Shawnee Press"
+    ],
+    "publisherText": "Shawnee Press",
+    "classLevel": 2,
+    "specification": "(2 tpt, hn or eup or tbn, tbn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-2-23787",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Gavotte",
+    "composer": "Lully",
+    "arranger": "Zabel",
+    "publishers": [
+      "International Music Company [Four French Pieces]"
+    ],
+    "publisherText": "International Music Company [Four French Pieces]",
+    "classLevel": 2,
+    "specification": "(must also play one additional selection from this collection) (2 tpt, hn, tbn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-2-14115",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Gavotte in Rondeau",
+    "composer": "Lully",
+    "arranger": "Post",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 2,
+    "specification": "(2 tpt, hn, tbn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-2-14116",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Canzona",
+    "composer": "Maschera",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 2,
+    "specification": "(2 tpt, hn, tbn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-2-13962",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Interlude",
+    "composer": "McKay",
+    "arranger": "",
+    "publishers": [
+      "C.L. Barnhouse Company"
+    ],
+    "publisherText": "C.L. Barnhouse Company",
+    "classLevel": 2,
+    "specification": "(2 tpt, 2 tbn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-2-14117",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Interlude",
+    "composer": "McKay",
+    "arranger": "",
+    "publishers": [
+      "C.L. Barnhouse Company"
+    ],
+    "publisherText": "C.L. Barnhouse Company",
+    "classLevel": 2,
+    "specification": "(tpt, hn, 2 tbn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-2-14118",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Folk Suite",
+    "composer": "Mitchell",
+    "arranger": "",
+    "publishers": [
+      "Rochester Music Publishers"
+    ],
+    "publisherText": "Rochester Music Publishers",
+    "classLevel": 2,
+    "specification": "(play two) (2 tpt, hn, tbn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-2-35707",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Winter Cheer: It's That Time of Year",
+    "composer": "Morris",
+    "arranger": "",
+    "publishers": [
+      "Sandscape Publications"
+    ],
+    "publisherText": "Sandscape Publications",
+    "classLevel": 2,
+    "specification": "(2 trumpets, horn OR trombone, trombone)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-2-13963",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "In the Village",
+    "composer": "Moussorgsky",
+    "arranger": "Lester",
+    "publishers": [
+      "JTL Publications, G. Scott Music Publishing Co."
+    ],
+    "publisherText": "JTL Publications, G. Scott Music Publishing Co.",
+    "classLevel": 2,
+    "specification": "(2 tpt, 2 tbn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-2-14119",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "In the Village",
+    "composer": "Moussorgsky",
+    "arranger": "Lester",
+    "publishers": [
+      "JTL Publications, G. Scott Music Publishing Co."
+    ],
+    "publisherText": "JTL Publications, G. Scott Music Publishing Co.",
+    "classLevel": 2,
+    "specification": "(2 tpt, hn, tbn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-2-38618",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Ave Verum Corpus",
+    "composer": "Mozart",
+    "arranger": "May",
+    "publishers": [
+      "Lost Key Music"
+    ],
+    "publisherText": "Lost Key Music",
+    "classLevel": 2,
+    "specification": "(2 tpt, 2 hn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-2-13964",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Two Magnificats",
+    "composer": "Pachelbel",
+    "arranger": "King",
+    "publishers": [
+      "Robert King"
+    ],
+    "publisherText": "Robert King",
+    "classLevel": 2,
+    "specification": "(2 tpt, 2 tbn)/(play one)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-2-35712",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Chorale and March",
+    "composer": "Pappas",
+    "arranger": "",
+    "publishers": [
+      "JPM Music Publications"
+    ],
+    "publisherText": "JPM Music Publications",
+    "classLevel": 2,
+    "specification": "(any published combination)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-2-14121",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Gavotte and Hornpipe",
+    "composer": "Purcell",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 2,
+    "specification": "(2 tpt, hn, tbn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-2-13965",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Two Trumpet Tunes and Ayre",
+    "composer": "Purcell",
+    "arranger": "Corley",
+    "publishers": [
+      "Robert King"
+    ],
+    "publisherText": "Robert King",
+    "classLevel": 2,
+    "specification": "(2 tpt, 2 tbn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-2-14122",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Two Trumpet Tunes and Ayres",
+    "composer": "Purcell",
+    "arranger": "Corley",
+    "publishers": [
+      "Robert King"
+    ],
+    "publisherText": "Robert King",
+    "classLevel": 2,
+    "specification": "(2 tpt, tbn or hn, eup or tbn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-2-14123",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Little Purcell Suite",
+    "composer": "Purchell",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-2-13966",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Sonata No. 7",
+    "composer": "Reiche",
+    "arranger": "",
+    "publishers": [
+      "Robert King"
+    ],
+    "publisherText": "Robert King",
+    "classLevel": 2,
+    "specification": "(2 tpt, 2 tbn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-2-14124",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Sonata No. 7",
+    "composer": "Reiche",
+    "arranger": "",
+    "publishers": [
+      "Robert King"
+    ],
+    "publisherText": "Robert King",
+    "classLevel": 2,
+    "specification": "(tpt, hn or tpt or tbn, tbn or hn, eup or tbn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-2-13967",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Passacaglia",
+    "composer": "Rossini",
+    "arranger": "Wienandt",
+    "publishers": [
+      "Southern Music Company"
+    ],
+    "publisherText": "Southern Music Company",
+    "classLevel": 2,
+    "specification": "(2 tpt, 2 tbn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-2-29940",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Chorale Prelude",
+    "composer": "Schmutz",
+    "arranger": "",
+    "publishers": [
+      "Ludwig Music Publishing Company"
+    ],
+    "publisherText": "Ludwig Music Publishing Company",
+    "classLevel": 2,
+    "specification": "(2 tpt, 2 tbn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-2-35710",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "6 Renaissance Dances, Vol 1",
+    "composer": "Schultz",
+    "arranger": "Gregory",
+    "publishers": [
+      "JW Pepper"
+    ],
+    "publisherText": "JW Pepper",
+    "classLevel": 2,
+    "specification": "(2 trumpets, horn, trombone) (play two dances)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-2-38619",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Six Renaissance Dances Vol 1",
+    "composer": "Schultz",
+    "arranger": "Gregory",
+    "publishers": [
+      "JW Pepper"
+    ],
+    "publisherText": "JW Pepper",
+    "classLevel": 2,
+    "specification": "(2 tpt, 2 trb) (play any mvt EXCEPT Pavane 32)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-2-38620",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Six Renaissance Dances Vol 2",
+    "composer": "Schultz",
+    "arranger": "Gregory",
+    "publishers": [
+      "JW Pepper"
+    ],
+    "publisherText": "JW Pepper",
+    "classLevel": 2,
+    "specification": "(2 tpt, 2 trb) (PLAY any mvt EXCEPT Galliard 45)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-2-13968",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Schumannesque",
+    "composer": "Schumann",
+    "arranger": "Lester",
+    "publishers": [
+      "JTL Publications, G. Scott Music Publishing Co."
+    ],
+    "publisherText": "JTL Publications, G. Scott Music Publishing Co.",
+    "classLevel": 2,
+    "specification": "(2 tpt, 2 tbn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-2-14125",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Schumannesque",
+    "composer": "Schumann",
+    "arranger": "Lester",
+    "publishers": [
+      "JTL Publications, G. Scott Music Publishing Co."
+    ],
+    "publisherText": "JTL Publications, G. Scott Music Publishing Co.",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-2-38622",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Semper Fidelis",
+    "composer": "Sousa",
+    "arranger": "Sabourin",
+    "publishers": [
+      "Cherry Classics"
+    ],
+    "publisherText": "Cherry Classics",
+    "classLevel": 2,
+    "specification": "LOW BRASS QUARTET (any combination of trombones, euphoniums, & tubas)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-2-38623",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Washington Post March",
+    "composer": "Sousa",
+    "arranger": "Sabourin",
+    "publishers": [
+      "Cherry Classics"
+    ],
+    "publisherText": "Cherry Classics",
+    "classLevel": 2,
+    "specification": "LOW BRASS QUARTET (any combination of trombones, euphoniums, & tubas)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-2-13969",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "A Joyous Prelude",
+    "composer": "Spears",
+    "arranger": "",
+    "publishers": [
+      "Southern Music Company"
+    ],
+    "publisherText": "Southern Music Company",
+    "classLevel": 2,
+    "specification": "(2 tpt, 2 tbn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-2-13970",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Three Dances",
+    "composer": "Susato",
+    "arranger": "King",
+    "publishers": [
+      "Robert King"
+    ],
+    "publisherText": "Robert King",
+    "classLevel": 2,
+    "specification": "(2 tpt, 2 tbn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-2-14126",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Three Dances",
+    "composer": "Susato",
+    "arranger": "",
+    "publishers": [
+      "Robert King"
+    ],
+    "publisherText": "Robert King",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-2-14127",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Humoresque",
+    "composer": "Tchaikovsky",
+    "arranger": "Fitzgerald",
+    "publishers": [
+      "Theodore Presser Company"
+    ],
+    "publisherText": "Theodore Presser Company",
+    "classLevel": 2,
+    "specification": "(2 tpt, hn, tbn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-2-31367",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Green Bushes",
+    "composer": "Traditional",
+    "arranger": "Gallagher",
+    "publishers": [
+      "Northeastern Music Publications"
+    ],
+    "publisherText": "Northeastern Music Publications",
+    "classLevel": 2,
+    "specification": "(2 tpt, 2 tbn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-2-14128",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Promenade",
+    "composer": "Vasconi",
+    "arranger": "",
+    "publishers": [
+      "Southern Music Company"
+    ],
+    "publisherText": "Southern Music Company",
+    "classLevel": 2,
+    "specification": "(2 tpt, eup or tbn, tba)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-2-35708",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Clear Wells Spring Not",
+    "composer": "Weelkes",
+    "arranger": "Chidester",
+    "publishers": [
+      "www.trumpetensemblemusic.com"
+    ],
+    "publisherText": "www.trumpetensemblemusic.com",
+    "classLevel": 2,
+    "specification": "(2 trumpets, horn, trombone)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-2-13971",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Prelude and Rondo",
+    "composer": "Whear",
+    "arranger": "",
+    "publishers": [
+      "C.L. Barnhouse Company"
+    ],
+    "publisherText": "C.L. Barnhouse Company",
+    "classLevel": 2,
+    "specification": "(2 tpt, 2 tbn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-2-14129",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Prelude and Rondo",
+    "composer": "Whear",
+    "arranger": "",
+    "publishers": [
+      "C.L. Barnhouse Company"
+    ],
+    "publisherText": "C.L. Barnhouse Company",
+    "classLevel": 2,
+    "specification": "(2 tpt, tbn, eup)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-2-13972",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Brass Quartet No. 1",
+    "composer": "Whitney",
+    "arranger": "",
+    "publishers": [
+      "Carl Fischer, Inc."
+    ],
+    "publisherText": "Carl Fischer, Inc.",
+    "classLevel": 2,
+    "specification": "(2 tpt, 2 tbn)/(play mvt 2)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-2-13952",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Chanson and Madrigal",
+    "composer": "di Lasso",
+    "arranger": "Houseknecht",
+    "publishers": [
+      "Southern Music Company"
+    ],
+    "publisherText": "Southern Music Company",
+    "classLevel": 2,
+    "specification": "(2 tpt, 2 tbn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-1-14064",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Divertimento",
+    "composer": "Addison",
+    "arranger": "",
+    "publishers": [
+      "Joseph Williams, Ltd."
+    ],
+    "publisherText": "Joseph Williams, Ltd.",
+    "classLevel": 1,
+    "specification": "(play two mvts) (2 tpt, hn, tbn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-1-13938",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Music of the Middle Ages",
+    "composer": "Anon. or Trad.",
+    "arranger": "Maganini",
+    "publishers": [
+      "Qunito Maganini"
+    ],
+    "publisherText": "Qunito Maganini",
+    "classLevel": 1,
+    "specification": "(2 tpt, 2 tbn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-1-34681",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Priere from La Muette de Portici",
+    "composer": "Auber",
+    "arranger": "Hekker",
+    "publishers": [
+      "Tierolff Muziekcentrale"
+    ],
+    "publisherText": "Tierolff Muziekcentrale",
+    "classLevel": 1,
+    "specification": "(2 tpt, hn, trb)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-1-34675",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Air on the G String",
+    "composer": "Bach",
+    "arranger": "Terrett",
+    "publishers": [
+      "Cherry Classics"
+    ],
+    "publisherText": "Cherry Classics",
+    "classLevel": 1,
+    "specification": "(2 tpt, trb, tuba)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-1-34676",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Chorale and Chorus, BWV 120",
+    "composer": "Bach",
+    "arranger": "Gregory",
+    "publishers": [
+      "JW Pepper"
+    ],
+    "publisherText": "JW Pepper",
+    "classLevel": 1,
+    "specification": "(2 tpt, 2 trb)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-1-38614",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Chorale and Fuge BWV 187",
+    "composer": "Bach",
+    "arranger": "Gregory",
+    "publishers": [
+      "JW Pepper"
+    ],
+    "publisherText": "JW Pepper",
+    "classLevel": 1,
+    "specification": "(2 tpt, 2 trb)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-1-34702",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Chorale and Fugue. BWV 108",
+    "composer": "Bach",
+    "arranger": "Gregory",
+    "publishers": [
+      "JW Pepper"
+    ],
+    "publisherText": "JW Pepper",
+    "classLevel": 1,
+    "specification": "(2 tpt, 2 trb)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-1-34700",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Chorale and Fugue. BWV 4",
+    "composer": "Bach",
+    "arranger": "Gregory",
+    "publishers": [
+      "JW Pepper"
+    ],
+    "publisherText": "JW Pepper",
+    "classLevel": 1,
+    "specification": "(tpt, hn, 2 trb)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-1-34701",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Chorale and Fugue. BWV 40",
+    "composer": "Bach",
+    "arranger": "Gregory",
+    "publishers": [
+      "JW Pepper"
+    ],
+    "publisherText": "JW Pepper",
+    "classLevel": 1,
+    "specification": "(2 tpt, hn, trb)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-1-13924",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Fuga V",
+    "composer": "Bach",
+    "arranger": "Mehl",
+    "publishers": [
+      "Edition Kunzelman USA"
+    ],
+    "publisherText": "Edition Kunzelman USA",
+    "classLevel": 1,
+    "specification": "(2 tpt, 2 tbn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-1-13925",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Fugue in Db",
+    "composer": "Bach",
+    "arranger": "Taylor",
+    "publishers": [
+      "Fillmore Music House"
+    ],
+    "publisherText": "Fillmore Music House",
+    "classLevel": 1,
+    "specification": "(2 tpt, 2 tbn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-1-13926",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Fugue in g minor",
+    "composer": "Bach",
+    "arranger": "Taylor",
+    "publishers": [
+      "Fillmore Music House"
+    ],
+    "publisherText": "Fillmore Music House",
+    "classLevel": 1,
+    "specification": "(2 tpt, 2 tbn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-1-38615",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Prelude & Fugue in G Minor",
+    "composer": "Bach",
+    "arranger": "Sabourin",
+    "publishers": [
+      "Cherry Classics"
+    ],
+    "publisherText": "Cherry Classics",
+    "classLevel": 1,
+    "specification": "LOW BRASS QUARTET (any combination of trombones, euphoniums, & tubas)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-1-14065",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Two Bach Fugues",
+    "composer": "Bach",
+    "arranger": "Tueber",
+    "publishers": [
+      "Shawnee Press"
+    ],
+    "publisherText": "Shawnee Press",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-1-31368",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Little Fugue",
+    "composer": "Bach, J.S.",
+    "arranger": "Marlatt",
+    "publishers": [
+      "Eight Note Publications"
+    ],
+    "publisherText": "Eight Note Publications",
+    "classLevel": 1,
+    "specification": "(2 trumpets, horn, trombone)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-1-14066",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Canzon: La Pomponazza and Canzon: La Rustica",
+    "composer": "Banchieri",
+    "arranger": "Fitzgerald",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 1,
+    "specification": "(play both) (2 tpt, hn, tbn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-1-13927",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Two Fantasias",
+    "composer": "Banchieri",
+    "arranger": "King",
+    "publishers": [
+      "Robert King"
+    ],
+    "publisherText": "Robert King",
+    "classLevel": 1,
+    "specification": "(2 tpt, 2 tbn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-1-14067",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Suite",
+    "composer": "Bergsma",
+    "arranger": "",
+    "publishers": [
+      "Carl Fischer, Inc."
+    ],
+    "publisherText": "Carl Fischer, Inc.",
+    "classLevel": 1,
+    "specification": "(play mvts 1 & 2) (2 tpt, eup, tbn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-1-13928",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Chorus of the Jugglers (from Benvenuto Cellini)",
+    "composer": "Berlioz",
+    "arranger": "Ostrander",
+    "publishers": [
+      "Edition Musicus-New York, Inc."
+    ],
+    "publisherText": "Edition Musicus-New York, Inc.",
+    "classLevel": 1,
+    "specification": "(2 tpt, 2 tbn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-1-34686",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Quartet for Winds",
+    "composer": "Blaauw",
+    "arranger": "",
+    "publishers": [
+      "Tierolff Muziekcentrale"
+    ],
+    "publisherText": "Tierolff Muziekcentrale",
+    "classLevel": 1,
+    "specification": "(2 tpt, hn, trb)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-1-34687",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Souvenirs from La Dame Blanche",
+    "composer": "Boieldieu",
+    "arranger": "Hekker",
+    "publishers": [
+      "Tierolff Muziekcentrale"
+    ],
+    "publisherText": "Tierolff Muziekcentrale",
+    "classLevel": 1,
+    "specification": "(2 tpt, hn, trb)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-1-14068",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Trois Pieces",
+    "composer": "Bozza",
+    "arranger": "",
+    "publishers": [
+      "Alphonse Leduc"
+    ],
+    "publisherText": "Alphonse Leduc",
+    "classLevel": 1,
+    "specification": "(2 tpt hn, tbn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-1-14069",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Rowland",
+    "composer": "Byrd",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 1,
+    "specification": "(2 tpt, hn, tbn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-1-13929",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Sellinger's Round",
+    "composer": "Byrd",
+    "arranger": "Weinberg",
+    "publishers": [
+      "Southern Music Company"
+    ],
+    "publisherText": "Southern Music Company",
+    "classLevel": 1,
+    "specification": "(2 tpt, 2 tbn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-1-34674",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Dance Moods",
+    "composer": "Clark",
+    "arranger": "",
+    "publishers": [
+      "JPM Music Publications"
+    ],
+    "publisherText": "JPM Music Publications",
+    "classLevel": 1,
+    "specification": "(2 hn, trb OR euph, tuba)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-1-34688",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Theme and Variations for Low Brass Quartet",
+    "composer": "Clark",
+    "arranger": "",
+    "publishers": [
+      "JPM Music Publications"
+    ],
+    "publisherText": "JPM Music Publications",
+    "classLevel": 1,
+    "specification": "(any instrumentation listed) (must be performed as a quartet)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-1-34690",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Spain",
+    "composer": "Corea",
+    "arranger": "Agioritis",
+    "publishers": [
+      "SMP Press"
+    ],
+    "publisherText": "SMP Press",
+    "classLevel": 1,
+    "specification": "(any published combination) (must be performed as a quartet)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-1-14085",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Rondeau",
+    "composer": "Couperin",
+    "arranger": "Zabel",
+    "publishers": [
+      "International Music Company [Four French Pieces]"
+    ],
+    "publisherText": "International Music Company [Four French Pieces]",
+    "classLevel": 1,
+    "specification": "(must also play the three other pieces from this collection) (2 tpt, hn, tbn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-1-23785",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Rondeau",
+    "composer": "Dandrieu",
+    "arranger": "Zabel",
+    "publishers": [
+      "International Music Company [Four French Pieces]"
+    ],
+    "publisherText": "International Music Company [Four French Pieces]",
+    "classLevel": 1,
+    "specification": "(must also play the three other pieces from this collection) (2 tpt, hn, tbn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-1-34707",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Waiting Game",
+    "composer": "Davis",
+    "arranger": "",
+    "publishers": [
+      "Hip-Bone Music"
+    ],
+    "publisherText": "Hip-Bone Music",
+    "classLevel": 1,
+    "specification": "(2 tpt, 2 trb)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-1-13930",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Partita",
+    "composer": "Dittersdorf",
+    "arranger": "Koch",
+    "publishers": [
+      "Barenreiter/Verlag"
+    ],
+    "publisherText": "Barenreiter/Verlag",
+    "classLevel": 1,
+    "specification": "(2 tpt, 2 tbn)/(play mvts 1,2, & 4)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-1-14070",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Quartet for Brass",
+    "composer": "Fine",
+    "arranger": "",
+    "publishers": [
+      "Gunmar Music Inc."
+    ],
+    "publisherText": "Gunmar Music Inc.",
+    "classLevel": 1,
+    "specification": "(play mvt 1 plus one other mvt) (2 tpt, hn, bass tbn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-1-13932",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Quartet for Brass Instruments",
+    "composer": "Frackenpohl",
+    "arranger": "",
+    "publishers": [
+      "Robert King"
+    ],
+    "publisherText": "Robert King",
+    "classLevel": 1,
+    "specification": "(2 tpt, 2 tbn)/(play two mvts)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-1-34685",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Panis Angelicus",
+    "composer": "Franck",
+    "arranger": "Lemarc",
+    "publishers": [
+      "Tierolff Muziekcentrale"
+    ],
+    "publisherText": "Tierolff Muziekcentrale",
+    "classLevel": 1,
+    "specification": "(2 tpt, hn, trb)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-1-29609",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Canzon Quarta a 4 for Brass Quartet",
+    "composer": "Frescobaldi",
+    "arranger": "Smith",
+    "publishers": [
+      "Lug"
+    ],
+    "publisherText": "Lug",
+    "classLevel": 1,
+    "specification": "(2 tpt, hn, tbn or 2 tpt, 2 tbn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-1-13933",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Canzon Seconda",
+    "composer": "Frescobaldi",
+    "arranger": "Smith",
+    "publishers": [
+      "C.L. Barnhouse Company"
+    ],
+    "publisherText": "C.L. Barnhouse Company",
+    "classLevel": 1,
+    "specification": "(2 tpt, 2 tbn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-1-34698",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Canzon per Sonare #4",
+    "composer": "Gabrieli",
+    "arranger": "Marlatt",
+    "publishers": [
+      "Eighth Note Publications"
+    ],
+    "publisherText": "Eighth Note Publications",
+    "classLevel": 1,
+    "specification": "(2 tpt, hn, trb)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-1-34697",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Canzona",
+    "composer": "Gabrieli",
+    "arranger": "Sweete",
+    "publishers": [
+      "Eighth Note Publications"
+    ],
+    "publisherText": "Eighth Note Publications",
+    "classLevel": 1,
+    "specification": "(2 tpt, trb OR hn, trb)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-1-14071",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Canzona Per Sonare No. 2",
+    "composer": "Gabrieli",
+    "arranger": "",
+    "publishers": [
+      "Robert King"
+    ],
+    "publisherText": "Robert King",
+    "classLevel": 1,
+    "specification": "(2 tpt, hn, tbn or 2 tpt, 2 eup)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-1-13934",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Canzoni 1 and 2",
+    "composer": "Gabrielli",
+    "arranger": "",
+    "publishers": [
+      "Musica Rara"
+    ],
+    "publisherText": "Musica Rara",
+    "classLevel": 1,
+    "specification": "(2 tpt, 2 tbn)/(play one)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-1-14072",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Cornet Voluntary",
+    "composer": "Gibbons",
+    "arranger": "Clark",
+    "publishers": [
+      "Edition Musicus-New York, Inc."
+    ],
+    "publisherText": "Edition Musicus-New York, Inc.",
+    "classLevel": 1,
+    "specification": "(3 tpt, eup)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-1-23786",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Gigue",
+    "composer": "Gretry",
+    "arranger": "Zabel",
+    "publishers": [
+      "International Music Company [Four French Pieces]"
+    ],
+    "publisherText": "International Music Company [Four French Pieces]",
+    "classLevel": 1,
+    "specification": "(must also play the three other pieces from this collection) (2 tpt, hn, tbn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-1-34691",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Linus & Lucy Quartet",
+    "composer": "Guaraldi",
+    "arranger": "Dotterer",
+    "publishers": [
+      "SMP Press"
+    ],
+    "publisherText": "SMP Press",
+    "classLevel": 1,
+    "specification": "(2 tpt, hn OR trb, trb)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-1-13935",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Toccata",
+    "composer": "Haines",
+    "arranger": "",
+    "publishers": [
+      "Robert King"
+    ],
+    "publisherText": "Robert King",
+    "classLevel": 1,
+    "specification": "(2 tpt, 2 tbn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-1-14073",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Toccata",
+    "composer": "Haines",
+    "arranger": "",
+    "publishers": [
+      "Robert King"
+    ],
+    "publisherText": "Robert King",
+    "classLevel": 1,
+    "specification": "(2 tpt, tbn or hn, tbn or eup)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-1-34678",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Chorale from St. John Passion",
+    "composer": "Handel",
+    "arranger": "Evertse",
+    "publishers": [
+      "Tierolff Muziekcentrale"
+    ],
+    "publisherText": "Tierolff Muziekcentrale",
+    "classLevel": 1,
+    "specification": "(2 tpt, hn, trb)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-1-29931",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Christmas Music Vol. 1 And the Glory of the Lord, But Who May Abide the Day of His Coming",
+    "composer": "Handel",
+    "arranger": "Bastable",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(2 tpt, 2 tbn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-1-34703",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "O Praise the Lord With One Consent from Chandos Anthem #9",
+    "composer": "Handel",
+    "arranger": "Gregory",
+    "publishers": [
+      "JW Pepper"
+    ],
+    "publisherText": "JW Pepper",
+    "classLevel": 1,
+    "specification": "(2 tpt, 2 trb)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-1-14074",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Sonata No. V",
+    "composer": "Handel",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 1,
+    "specification": "(play mvts 2, 3, & 4)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-1-34684",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Meister - Perlen",
+    "composer": "Haydn/Mozart",
+    "arranger": "Hautvast",
+    "publishers": [
+      "Tierolff Muziekcentrale"
+    ],
+    "publisherText": "Tierolff Muziekcentrale",
+    "classLevel": 1,
+    "specification": "(2 tpt, hn, trb)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-1-14075",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Little Suite",
+    "composer": "Hidas",
+    "arranger": "",
+    "publishers": [
+      "Editio Musica"
+    ],
+    "publisherText": "Editio Musica",
+    "classLevel": 1,
+    "specification": "(play three mvts) (3 tpt, tbn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-1-13936",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Morgenmusik",
+    "composer": "Hindemith",
+    "arranger": "",
+    "publishers": [
+      "Schott Company"
+    ],
+    "publisherText": "Schott Company",
+    "classLevel": 1,
+    "specification": "(2 tpt, 2 tbn)/(play all)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-1-14076",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Sharagan and Fugue",
+    "composer": "Hovhaness",
+    "arranger": "",
+    "publishers": [
+      "Robert King"
+    ],
+    "publisherText": "Robert King",
+    "classLevel": 1,
+    "specification": "(2 tpt, hn, eup or tba)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-1-14077",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Maple Leaf Rag",
+    "composer": "Joplin",
+    "arranger": "Werden",
+    "publishers": [
+      "Cimarron Music Press/Whaling Publications"
+    ],
+    "publisherText": "Cimarron Music Press/Whaling Publications",
+    "classLevel": 1,
+    "specification": "(2 trpt, horn, euph/bar)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-1-34699",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Brass Quartet",
+    "composer": "Kay",
+    "arranger": "",
+    "publishers": [
+      "Hal Leonard Music, Inc."
+    ],
+    "publisherText": "Hal Leonard Music, Inc.",
+    "classLevel": 1,
+    "specification": "(2 tpt, trb, bs. trb) (play 1st & 2nd mvts OR 3rd mvt alone)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-1-14078",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Quartet",
+    "composer": "Keller",
+    "arranger": "",
+    "publishers": [
+      "Robert King"
+    ],
+    "publisherText": "Robert King",
+    "classLevel": 1,
+    "specification": "(2 tpt, hn, tbn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-1-14079",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Chaconne in d minor",
+    "composer": "Long",
+    "arranger": "",
+    "publishers": [
+      "Rubank, Inc."
+    ],
+    "publisherText": "Rubank, Inc.",
+    "classLevel": 1,
+    "specification": "(2 tpt, hn, tbn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-1-23784",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Gavotte",
+    "composer": "Lully",
+    "arranger": "Zabel",
+    "publishers": [
+      "International Music Company [Four French Pieces]"
+    ],
+    "publisherText": "International Music Company [Four French Pieces]",
+    "classLevel": 1,
+    "specification": "(must also play the three other pieces from this collection) (2 tpt, hn, tbn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-1-13939",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Canzona",
+    "composer": "Maschera",
+    "arranger": "Lotzenhiser",
+    "publishers": [
+      "Carl Fischer, Inc."
+    ],
+    "publisherText": "Carl Fischer, Inc.",
+    "classLevel": 1,
+    "specification": "(2 tpt, 2 tbn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-1-13940",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Pastiche",
+    "composer": "Miller",
+    "arranger": "",
+    "publishers": [
+      "Southern Music Company"
+    ],
+    "publisherText": "Southern Music Company",
+    "classLevel": 1,
+    "specification": "(2 tpt, 2 tbn)/(play mvts 1 & 6, plus two other mvts)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-1-34677",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Adagio and Allegro, KV 594",
+    "composer": "Mozart",
+    "arranger": "Richards",
+    "publishers": [
+      "Tierolff Muziekcentrale"
+    ],
+    "publisherText": "Tierolff Muziekcentrale",
+    "classLevel": 1,
+    "specification": "(2 tpt, hn OR trb, euph OR tuba)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-1-13941",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Fugue",
+    "composer": "Mozart",
+    "arranger": "King",
+    "publishers": [
+      "Robert King"
+    ],
+    "publisherText": "Robert King",
+    "classLevel": 1,
+    "specification": "(2 tpt, 2 tbn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-1-29921",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Twinkle, Twinkle Little Star",
+    "composer": "Mozart",
+    "arranger": "Doughty",
+    "publishers": [
+      "Cimarron Music Press"
+    ],
+    "publisherText": "Cimarron Music Press",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-1-34672",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Fanfare and Fiebre (Excitement)",
+    "composer": "Nash",
+    "arranger": "",
+    "publishers": [
+      "Dorabet Music Co."
+    ],
+    "publisherText": "Dorabet Music Co.",
+    "classLevel": 1,
+    "specification": "(2 tpt, 2 trb)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-1-29935",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Mood Swing",
+    "composer": "Niehaus",
+    "arranger": "",
+    "publishers": [
+      "Kendor Music, Inc."
+    ],
+    "publisherText": "Kendor Music, Inc.",
+    "classLevel": 1,
+    "specification": "(2 tpt, 2 tbn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-1-29936",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Sculptures in Brass",
+    "composer": "Niehaus",
+    "arranger": "",
+    "publishers": [
+      "Kendor Music, Inc."
+    ],
+    "publisherText": "Kendor Music, Inc.",
+    "classLevel": 1,
+    "specification": "(2 tpt, 2 tbn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-1-13942",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "When the Saints Go Marching In",
+    "composer": "Niehaus",
+    "arranger": "",
+    "publishers": [
+      "Kendor Music, Inc."
+    ],
+    "publisherText": "Kendor Music, Inc.",
+    "classLevel": 1,
+    "specification": "(2 tpt, 2 tbn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-1-34682",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Intermezzo",
+    "composer": "Nutten",
+    "arranger": "",
+    "publishers": [
+      "Tierolff Muziekcentrale"
+    ],
+    "publisherText": "Tierolff Muziekcentrale",
+    "classLevel": 1,
+    "specification": "(2 tpt, hn, trb)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-1-34673",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "A Palestrina Triptych",
+    "composer": "Palestrina",
+    "arranger": "Pappas",
+    "publishers": [
+      "JPM Music Publications"
+    ],
+    "publisherText": "JPM Music Publications",
+    "classLevel": 1,
+    "specification": "(tpt, tpt OR hn, trb OR euph, euph OR tuba)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-1-34679",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Christe Eleison",
+    "composer": "Palestrina",
+    "arranger": "Andre Lemarc",
+    "publishers": [
+      "Tierolff Muziekcentrale"
+    ],
+    "publisherText": "Tierolff Muziekcentrale",
+    "classLevel": 1,
+    "specification": "(2 tpt, hn, trb)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-1-34706",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Pueri Hebraeorum",
+    "composer": "Palestrina",
+    "arranger": "Evertse",
+    "publishers": [
+      "Tierolff Muziekcentrale"
+    ],
+    "publisherText": "Tierolff Muziekcentrale",
+    "classLevel": 1,
+    "specification": "(2 tpt, hn, trb)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-1-34693",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Sanctus and Benedictus",
+    "composer": "Palestrina",
+    "arranger": "Marlatt",
+    "publishers": [
+      "Eighth Note Publications"
+    ],
+    "publisherText": "Eighth Note Publications",
+    "classLevel": 1,
+    "specification": "(any published combination) (must be performed as a quartet)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-1-34705",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Ramsoe Quartet No 1",
+    "composer": "Ramsoe",
+    "arranger": "Mowers",
+    "publishers": [
+      "SMP Press"
+    ],
+    "publisherText": "SMP Press",
+    "classLevel": 1,
+    "specification": "(2 tpt, hn, bs. trb OR tuba) (play 1st OR 4th mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-1-34689",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Ramsoe Quartet No. 2",
+    "composer": "Ramsoe",
+    "arranger": "Mowers",
+    "publishers": [
+      "SMP Press"
+    ],
+    "publisherText": "SMP Press",
+    "classLevel": 1,
+    "specification": "(2 tpt, hn, bs. trb OR tuba) (play 1st OR 3rd mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-1-34680",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Fugue on a well known theme by G F Handel",
+    "composer": "Reiche",
+    "arranger": "Lemarc",
+    "publishers": [
+      "Tierolff Muziekcentrale"
+    ],
+    "publisherText": "Tierolff Muziekcentrale",
+    "classLevel": 1,
+    "specification": "(2 tpt, hn, trb)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-1-13943",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Suite for Brass Quartet",
+    "composer": "Sanders",
+    "arranger": "",
+    "publishers": [
+      "Robert King"
+    ],
+    "publisherText": "Robert King",
+    "classLevel": 1,
+    "specification": "(2 tpt, 2 tbn)/(play mvt 1 & 3)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-1-29939",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Fanfare",
+    "composer": "Scarmolin",
+    "arranger": "",
+    "publishers": [
+      "Ludwig Music Publishing Company"
+    ],
+    "publisherText": "Ludwig Music Publishing Company",
+    "classLevel": 1,
+    "specification": "(2 tpt, 2 tbn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-1-13944",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Three Pieces for Brass Quartet",
+    "composer": "Schumann",
+    "arranger": "Frackenpohl",
+    "publishers": [
+      "Kendor Music, Inc."
+    ],
+    "publisherText": "Kendor Music, Inc.",
+    "classLevel": 1,
+    "specification": "(2 tpt, 2 tbn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-1-34694",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Ode Joyeuse",
+    "composer": "Schutz",
+    "arranger": "Hart",
+    "publishers": [
+      "Eighth Note Publications"
+    ],
+    "publisherText": "Eighth Note Publications",
+    "classLevel": 1,
+    "specification": "(any published combination) (must be performed as a quartet)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-1-13945",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Quatuor",
+    "composer": "Simon",
+    "arranger": "",
+    "publishers": [
+      "Robert King"
+    ],
+    "publisherText": "Robert King",
+    "classLevel": 1,
+    "specification": "(2 tpt, 2 tbn)/(play mvt 1 or 4, plus one other mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-1-14080",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Quatuor",
+    "composer": "Simon",
+    "arranger": "",
+    "publishers": [
+      "Robert King"
+    ],
+    "publisherText": "Robert King",
+    "classLevel": 1,
+    "specification": "(2 tpt, hn, tbn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-1-34695",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "A Little Song and Dance",
+    "composer": "Sweete",
+    "arranger": "",
+    "publishers": [
+      "Eighth Note Publications"
+    ],
+    "publisherText": "Eighth Note Publications",
+    "classLevel": 1,
+    "specification": "(2 tpt, hn, trb)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-1-34696",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "English Madrigal Suite",
+    "composer": "Various",
+    "arranger": "Sweete",
+    "publishers": [
+      "Eighth Note Publications"
+    ],
+    "publisherText": "Eighth Note Publications",
+    "classLevel": 1,
+    "specification": "(2 tpt, hn, trb) (play three mvts)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-1-34692",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "The 1500s in Brass",
+    "composer": "Various",
+    "arranger": "Coakley",
+    "publishers": [
+      "Eighth Note Publications"
+    ],
+    "publisherText": "Eighth Note Publications",
+    "classLevel": 1,
+    "specification": "(any published combination) (must be performed as a quartet) (play 1, 4, & 5 OR 2, 3, & 6)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-1-14081",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Echoes of Olde",
+    "composer": "Vasconi",
+    "arranger": "",
+    "publishers": [
+      "Southern Music Company"
+    ],
+    "publisherText": "Southern Music Company",
+    "classLevel": 1,
+    "specification": "(2 tpt, eup or tbn, tba)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-1-14082",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Images",
+    "composer": "Vasconi",
+    "arranger": "",
+    "publishers": [
+      "Southern Music Company"
+    ],
+    "publisherText": "Southern Music Company",
+    "classLevel": 1,
+    "specification": "(play mvts 2 & 3) (2 tpt, tbn, tba)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-1-14083",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Sonata da Camera",
+    "composer": "Vivaldi",
+    "arranger": "Maganini",
+    "publishers": [
+      "Edition Musicus-New York, Inc."
+    ],
+    "publisherText": "Edition Musicus-New York, Inc.",
+    "classLevel": 1,
+    "specification": "(2 tpt, hn, tbn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-1-34704",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "What a Wonderful World",
+    "composer": "Weiss & Thiele",
+    "arranger": "Graf",
+    "publishers": [
+      "SMP Press"
+    ],
+    "publisherText": "SMP Press",
+    "classLevel": 1,
+    "specification": "(any published combination) (must be performed as a quartet)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-1-13946",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "March, Chorale, and Fugue",
+    "composer": "Werle",
+    "arranger": "",
+    "publishers": [
+      "Edition Musicus-New York, Inc."
+    ],
+    "publisherText": "Edition Musicus-New York, Inc.",
+    "classLevel": 1,
+    "specification": "(2 tpt, 2 tbn) (omit March)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-1-13947",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Brass Quartet No. 1",
+    "composer": "Whitney",
+    "arranger": "",
+    "publishers": [
+      "Carl Fischer, Inc."
+    ],
+    "publisherText": "Carl Fischer, Inc.",
+    "classLevel": 1,
+    "specification": "(2 tpt, 2 tbn)/(play mvt 1 or 3)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-1-14084",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Brass Quartet No. 1",
+    "composer": "Whitney",
+    "arranger": "",
+    "publishers": [
+      "Carl Fischer, Inc."
+    ],
+    "publisherText": "Carl Fischer, Inc.",
+    "classLevel": 1,
+    "specification": "(play mvt 1 or 3) (2 tpt, hn or tbn, eup)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "344-1-34683",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Prelude et Chorale",
+    "composer": "Zagwijn",
+    "arranger": "",
+    "publishers": [
+      "Tierolff Muziekcentrale"
+    ],
+    "publisherText": "Tierolff Muziekcentrale",
+    "classLevel": 1,
+    "specification": "(2 tpt, hn, trb)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  }
+]

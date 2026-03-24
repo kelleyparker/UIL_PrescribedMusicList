@@ -13,32 +13,8 @@ if str(SCRIPT_DIR) not in sys.path:
     sys.path.insert(0, str(SCRIPT_DIR))
 
 from import_piano_solos import (
-    ALTO_SAXOPHONE_SOURCE_CSV_PATH,
-    BASSOON_SOURCE_CSV_PATH,
-    CELLO_SOURCE_CSV_PATH,
-    CLARINET_SOURCE_CSV_PATH,
-    DRUM_SET_SOURCE_CSV_PATH,
-    ENGLISH_HORN_SOURCE_CSV_PATH,
-    EUPHONIUM_SOURCE_CSV_PATH,
-    FRENCH_HORN_SOURCE_CSV_PATH,
-    FLUTE_SOURCE_CSV_PATH,
     INSTRUMENT_CONFIGS,
-    KEYBOARD_PERCUSSION_SOURCE_CSV_PATH,
-    MULTIPLE_PERCUSSION_SOURCE_CSV_PATH,
-    OBOE_SOURCE_CSV_PATH,
-    PICCOLO_SOURCE_CSV_PATH,
     PianoSoloRow,
-    SAXOPHONE_SOURCE_CSV_PATH,
-    SNARE_DRUM_SOURCE_CSV_PATH,
-    SOURCE_CSV_PATH,
-    STEEL_PAN_SOURCE_CSV_PATH,
-    STRING_BASS_SOURCE_CSV_PATH,
-    TIMPANI_SOURCE_CSV_PATH,
-    TROMBONE_SOURCE_CSV_PATH,
-    TRUMPET_SOURCE_CSV_PATH,
-    TUBA_SOURCE_CSV_PATH,
-    VIOLA_SOURCE_CSV_PATH,
-    VIOLIN_SOURCE_CSV_PATH,
     build_outputs,
 )
 from public_domain_links import enrich_public_domain_links, load_cache, song_key
@@ -48,32 +24,7 @@ ROOT = Path(__file__).resolve().parents[1]
 UIL_HOME = "https://www.uiltexas.org/pml/"
 UIL_DATA = "https://www.uiltexas.org/pml/pml.php"
 YEAR_PATTERN = re.compile(r"(20\d{2}-20\d{2})\s+Prescribed Music List")
-CSV_PATHS = {
-    "piano": SOURCE_CSV_PATH,
-    "clarinet": CLARINET_SOURCE_CSV_PATH,
-    "french-horn": FRENCH_HORN_SOURCE_CSV_PATH,
-    "saxophone": SAXOPHONE_SOURCE_CSV_PATH,
-    "trombone": TROMBONE_SOURCE_CSV_PATH,
-    "trumpet": TRUMPET_SOURCE_CSV_PATH,
-    "tuba": TUBA_SOURCE_CSV_PATH,
-    "flute": FLUTE_SOURCE_CSV_PATH,
-    "oboe": OBOE_SOURCE_CSV_PATH,
-    "bassoon": BASSOON_SOURCE_CSV_PATH,
-    "alto-saxophone": ALTO_SAXOPHONE_SOURCE_CSV_PATH,
-    "violin": VIOLIN_SOURCE_CSV_PATH,
-    "viola": VIOLA_SOURCE_CSV_PATH,
-    "cello": CELLO_SOURCE_CSV_PATH,
-    "string-bass": STRING_BASS_SOURCE_CSV_PATH,
-    "euphonium": EUPHONIUM_SOURCE_CSV_PATH,
-    "piccolo": PICCOLO_SOURCE_CSV_PATH,
-    "english-horn": ENGLISH_HORN_SOURCE_CSV_PATH,
-    "snare-drum": SNARE_DRUM_SOURCE_CSV_PATH,
-    "timpani": TIMPANI_SOURCE_CSV_PATH,
-    "keyboard-percussion": KEYBOARD_PERCUSSION_SOURCE_CSV_PATH,
-    "multiple-percussion": MULTIPLE_PERCUSSION_SOURCE_CSV_PATH,
-    "drum-set": DRUM_SET_SOURCE_CSV_PATH,
-    "steel-pan": STEEL_PAN_SOURCE_CSV_PATH,
-}
+CSV_PATHS = {slug: config["csv_path"] for slug, config in INSTRUMENT_CONFIGS.items()}
 CLARINET_LINKS_CACHE_PATH = ROOT / "data" / "clarinet_public_domain_links.json"
 TRUMPET_LINKS_CACHE_PATH = ROOT / "data" / "trumpet_public_domain_links.json"
 
@@ -162,38 +113,23 @@ def main() -> int:
     }
 
     public_domain_links_by_instrument = {
-        "piano": {
-            row.code: cached
-            for row in rows_by_instrument["piano"]
-            if (cached := load_cache().get(song_key(row)))
-        },
-        "clarinet": load_clarinet_links(rows_by_instrument["clarinet"]),
-        "french-horn": enrich_public_domain_links(rows_by_instrument["french-horn"]),
-        "trumpet": enrich_public_domain_links(
-            rows_by_instrument["trumpet"],
-            cache_path=TRUMPET_LINKS_CACHE_PATH,
-        ),
-        "saxophone": {},
-        "trombone": {},
-        "tuba": {},
-        "flute": {},
-        "oboe": {},
-        "bassoon": {},
-        "alto-saxophone": {},
-        "violin": {},
-        "viola": {},
-        "cello": {},
-        "string-bass": {},
-        "euphonium": {},
-        "piccolo": {},
-        "english-horn": {},
-        "snare-drum": {},
-        "timpani": {},
-        "keyboard-percussion": {},
-        "multiple-percussion": {},
-        "drum-set": {},
-        "steel-pan": {},
+        instrument_slug: {} for instrument_slug in INSTRUMENT_CONFIGS
     }
+    public_domain_links_by_instrument["piano"] = {
+        row.code: cached
+        for row in rows_by_instrument["piano"]
+        if (cached := load_cache().get(song_key(row)))
+    }
+    public_domain_links_by_instrument["clarinet"] = load_clarinet_links(
+        rows_by_instrument["clarinet"]
+    )
+    public_domain_links_by_instrument["french-horn"] = enrich_public_domain_links(
+        rows_by_instrument["french-horn"]
+    )
+    public_domain_links_by_instrument["trumpet"] = enrich_public_domain_links(
+        rows_by_instrument["trumpet"],
+        cache_path=TRUMPET_LINKS_CACHE_PATH,
+    )
 
     stats_by_instrument = {}
     for instrument_slug, rows in rows_by_instrument.items():
