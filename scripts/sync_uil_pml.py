@@ -2,8 +2,10 @@ from __future__ import annotations
 
 import json
 import re
+import subprocess
 import sys
 import urllib.request
+import urllib.error
 from pathlib import Path
 
 SCRIPT_DIR = Path(__file__).resolve().parent
@@ -12,10 +14,13 @@ if str(SCRIPT_DIR) not in sys.path:
 
 from import_piano_solos import (
     FRENCH_HORN_SOURCE_CSV_PATH,
-    SOURCE_CSV_PATH,
     INSTRUMENT_CONFIGS,
     PianoSoloRow,
+    SAXOPHONE_SOURCE_CSV_PATH,
+    SOURCE_CSV_PATH,
+    TROMBONE_SOURCE_CSV_PATH,
     TRUMPET_SOURCE_CSV_PATH,
+    TUBA_SOURCE_CSV_PATH,
     build_outputs,
 )
 from public_domain_links import enrich_public_domain_links
@@ -28,9 +33,21 @@ YEAR_PATTERN = re.compile(r"(20\d{2}-20\d{2})\s+Prescribed Music List")
 CSV_PATHS = {
     "piano": SOURCE_CSV_PATH,
     "french-horn": FRENCH_HORN_SOURCE_CSV_PATH,
+    "saxophone": SAXOPHONE_SOURCE_CSV_PATH,
+    "trombone": TROMBONE_SOURCE_CSV_PATH,
     "trumpet": TRUMPET_SOURCE_CSV_PATH,
+    "tuba": TUBA_SOURCE_CSV_PATH,
 }
 TRUMPET_LINKS_CACHE_PATH = ROOT / "data" / "trumpet_public_domain_links.json"
+
+def fetch_with_curl(url: str) -> str:
+    result = subprocess.run(
+        ["curl", "-fsSL", "-A", "UIL-PML-Sync/1.0", url],
+        check=True,
+        capture_output=True,
+        text=True,
+    )
+    return result.stdout
 
 
 def fetch_text(url: str) -> str:
@@ -38,8 +55,11 @@ def fetch_text(url: str) -> str:
         url,
         headers={"User-Agent": "UIL-PML-Sync/1.0"},
     )
-    with urllib.request.urlopen(request) as response:
-        return response.read().decode("utf-8", "ignore")
+    try:
+        with urllib.request.urlopen(request) as response:
+            return response.read().decode("utf-8", "ignore")
+    except urllib.error.URLError:
+        return fetch_with_curl(url)
 
 
 def fetch_json(url: str) -> dict:
@@ -47,8 +67,11 @@ def fetch_json(url: str) -> dict:
         url,
         headers={"User-Agent": "UIL-PML-Sync/1.0"},
     )
-    with urllib.request.urlopen(request) as response:
-        return json.load(response)
+    try:
+        with urllib.request.urlopen(request) as response:
+            return json.load(response)
+    except urllib.error.URLError:
+        return json.loads(fetch_with_curl(url))
 
 
 def detect_school_year(homepage_html: str) -> str:
@@ -58,12 +81,13 @@ def detect_school_year(homepage_html: str) -> str:
     return match.group(1)
 
 
-def fetch_rows_for_event(event_name: str) -> list[PianoSoloRow]:
+def fetch_rows_for_events(event_names: list[str]) -> list[PianoSoloRow]:
     payload = fetch_json(UIL_DATA)
     rows = []
+    allowed_event_names = {name.strip() for name in event_names}
     for entry in payload["pml"]:
         normalized = [(value or "") if not isinstance(value, str) else value for value in entry]
-        if len(normalized) < 8 or normalized[1].strip() != event_name:
+        if len(normalized) < 8 or normalized[1].strip() not in allowed_event_names:
             continue
         rows.append(
             PianoSoloRow(
@@ -85,7 +109,9 @@ def main() -> int:
     school_year = detect_school_year(homepage_html)
 
     rows_by_instrument = {
-        instrument_slug: fetch_rows_for_event(config["event_name"])
+        instrument_slug: fetch_rows_for_events(
+            config.get("event_names", [config["event_name"]])
+        )
         for instrument_slug, config in INSTRUMENT_CONFIGS.items()
     }
 
@@ -96,6 +122,9 @@ def main() -> int:
             rows_by_instrument["trumpet"],
             cache_path=TRUMPET_LINKS_CACHE_PATH,
         ),
+        "saxophone": {},
+        "trombone": {},
+        "tuba": {},
     }
 
     stats_by_instrument = {}

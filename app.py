@@ -20,9 +20,25 @@ INSTRUMENT_FILES = {
         "songs": STATIC_DATA_DIR / "french-horn-solos.json",
         "stats": STATIC_DATA_DIR / "french-horn-stats.json",
     },
+    "saxophone": {
+        "songs": STATIC_DATA_DIR / "saxophone-solos.json",
+        "stats": STATIC_DATA_DIR / "saxophone-stats.json",
+    },
+    "trombone": {
+        "songs": STATIC_DATA_DIR / "trombone-solos.json",
+        "stats": STATIC_DATA_DIR / "trombone-stats.json",
+    },
     "trumpet": {
         "songs": STATIC_DATA_DIR / "trumpet-solos.json",
         "stats": STATIC_DATA_DIR / "trumpet-stats.json",
+    },
+    "tuba": {
+        "songs": STATIC_DATA_DIR / "tuba-solos.json",
+        "stats": STATIC_DATA_DIR / "tuba-stats.json",
+    },
+    "clarinet": {
+        "songs": STATIC_DATA_DIR / "clarinet-solos.json",
+        "stats": STATIC_DATA_DIR / "clarinet-stats.json",
     },
 }
 

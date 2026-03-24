@@ -1,0 +1,22 @@
+{
+  "schoolYear": "2025-2026",
+  "instrumentSlug": "tuba",
+  "instrumentName": "Tuba Solos",
+  "songCount": 160,
+  "publisherCount": 164,
+  "noteCount": 1,
+  "databaseRecordCount": 161,
+  "classBreakdown": {
+    "3": 38,
+    "2": 52,
+    "1": 70
+  },
+  "noMemoryRequiredCount": 7,
+  "publicDomainPdfCount": 0,
+  "eventBreakdown": {
+    "Tuba Solo": 160
+  },
+  "notes": {
+    "dataset_audit": "Sourced from https://www.uiltexas.org/pml/ and https://www.uiltexas.org/pml/pml.php. Imported 2026-03-24T17:48:38.355547+00:00."
+  }
+}

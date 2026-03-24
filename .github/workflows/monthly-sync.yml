@@ -49,13 +49,22 @@ jobs:
             data/trumpet_public_domain_links.json \
             data/uil_piano_solos_source.csv \
             data/uil_french_horn_solos_source.csv \
+            data/uil_saxophone_solos_source.csv \
+            data/uil_trombone_solos_source.csv \
             data/uil_trumpet_solos_source.csv \
+            data/uil_tuba_solos_source.csv \
             static/data/piano-solos.json \
             static/data/piano-stats.json \
             static/data/french-horn-solos.json \
             static/data/french-horn-stats.json \
+            static/data/saxophone-solos.json \
+            static/data/saxophone-stats.json \
+            static/data/trombone-solos.json \
+            static/data/trombone-stats.json \
             static/data/trumpet-solos.json \
             static/data/trumpet-stats.json \
+            static/data/tuba-solos.json \
+            static/data/tuba-stats.json \
             static/data/stats.json
           git commit -m "Sync UIL solo datasets for ${YEAR}"
           git push

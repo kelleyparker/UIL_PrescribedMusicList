@@ -13,7 +13,10 @@ ROOT = Path(__file__).resolve().parents[1]
 STATIC_DATA_DIR = ROOT / "static" / "data"
 SOURCE_CSV_PATH = ROOT / "data" / "uil_piano_solos_source.csv"
 FRENCH_HORN_SOURCE_CSV_PATH = ROOT / "data" / "uil_french_horn_solos_source.csv"
+SAXOPHONE_SOURCE_CSV_PATH = ROOT / "data" / "uil_saxophone_solos_source.csv"
+TROMBONE_SOURCE_CSV_PATH = ROOT / "data" / "uil_trombone_solos_source.csv"
 TRUMPET_SOURCE_CSV_PATH = ROOT / "data" / "uil_trumpet_solos_source.csv"
+TUBA_SOURCE_CSV_PATH = ROOT / "data" / "uil_tuba_solos_source.csv"
 DEFAULT_SCHOOL_YEAR = "2025-2026"
 TAG_PATTERN = re.compile(r"<[^>]+>")
 OPTION_PATTERN = re.compile(r"<option[^>]*>(.*?)</option>", re.IGNORECASE | re.DOTALL)
@@ -21,6 +24,7 @@ OPTION_PATTERN = re.compile(r"<option[^>]*>(.*?)</option>", re.IGNORECASE | re.D
 INSTRUMENT_CONFIGS = {
     "piano": {
         "event_name": "Piano Solo",
+        "event_names": ["Piano Solo"],
         "title": "Piano Solos",
         "csv_path": SOURCE_CSV_PATH,
         "songs_output": STATIC_DATA_DIR / "piano-solos.json",
@@ -29,17 +33,48 @@ INSTRUMENT_CONFIGS = {
     },
     "french-horn": {
         "event_name": "French Horn Solo",
+        "event_names": ["French Horn Solo"],
         "title": "French Horn Solos",
         "csv_path": FRENCH_HORN_SOURCE_CSV_PATH,
         "songs_output": STATIC_DATA_DIR / "french-horn-solos.json",
         "stats_output": STATIC_DATA_DIR / "french-horn-stats.json",
     },
+    "saxophone": {
+        "event_name": "Alto Saxophone Solo",
+        "event_names": [
+            "Soprano Saxophone Solo",
+            "Alto Saxophone Solo",
+            "Tenor Saxophone Solo",
+            "Baritone Saxophone Solo",
+        ],
+        "title": "Saxophone Family Solos",
+        "csv_path": SAXOPHONE_SOURCE_CSV_PATH,
+        "songs_output": STATIC_DATA_DIR / "saxophone-solos.json",
+        "stats_output": STATIC_DATA_DIR / "saxophone-stats.json",
+    },
+    "trombone": {
+        "event_name": "Tenor Trombone Solo",
+        "event_names": ["Tenor Trombone Solo", "Bass Trombone Solo"],
+        "title": "Trombone Solos",
+        "csv_path": TROMBONE_SOURCE_CSV_PATH,
+        "songs_output": STATIC_DATA_DIR / "trombone-solos.json",
+        "stats_output": STATIC_DATA_DIR / "trombone-stats.json",
+    },
     "trumpet": {
         "event_name": "Cornet/Trumpet Solo",
+        "event_names": ["Cornet/Trumpet Solo"],
         "title": "Trumpet Solos",
         "csv_path": TRUMPET_SOURCE_CSV_PATH,
         "songs_output": STATIC_DATA_DIR / "trumpet-solos.json",
         "stats_output": STATIC_DATA_DIR / "trumpet-stats.json",
+    },
+    "tuba": {
+        "event_name": "Tuba Solo",
+        "event_names": ["Tuba Solo"],
+        "title": "Tuba Solos",
+        "csv_path": TUBA_SOURCE_CSV_PATH,
+        "songs_output": STATIC_DATA_DIR / "tuba-solos.json",
+        "stats_output": STATIC_DATA_DIR / "tuba-stats.json",
     },
 }
 
@@ -220,6 +255,10 @@ def build_outputs(
         "publicDomainPdfCount": sum(
             bool(song["publicDomainPdfUrl"]) for song in songs_payload
         ),
+        "eventBreakdown": {
+            event_name: sum(song["eventName"] == event_name for song in songs_payload)
+            for event_name in sorted({song["eventName"] for song in songs_payload})
+        },
         "notes": {key: value for key, value in note_rows},
     }
 

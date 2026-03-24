@@ -1,0 +1,23 @@
+{
+  "schoolYear": "2025-2026",
+  "instrumentSlug": "trombone",
+  "instrumentName": "Trombone Solos",
+  "songCount": 397,
+  "publisherCount": 414,
+  "noteCount": 1,
+  "databaseRecordCount": 398,
+  "classBreakdown": {
+    "3": 83,
+    "2": 72,
+    "1": 242
+  },
+  "noMemoryRequiredCount": 21,
+  "publicDomainPdfCount": 0,
+  "eventBreakdown": {
+    "Bass Trombone Solo": 96,
+    "Tenor Trombone Solo": 301
+  },
+  "notes": {
+    "dataset_audit": "Sourced from https://www.uiltexas.org/pml/ and https://www.uiltexas.org/pml/pml.php. Imported 2026-03-24T17:48:38.339326+00:00."
+  }
+}

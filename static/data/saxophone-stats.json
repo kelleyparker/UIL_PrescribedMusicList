@@ -1,0 +1,25 @@
+{
+  "schoolYear": "2025-2026",
+  "instrumentSlug": "saxophone",
+  "instrumentName": "Saxophone Family Solos",
+  "songCount": 515,
+  "publisherCount": 519,
+  "noteCount": 1,
+  "databaseRecordCount": 516,
+  "classBreakdown": {
+    "3": 96,
+    "2": 165,
+    "1": 254
+  },
+  "noMemoryRequiredCount": 12,
+  "publicDomainPdfCount": 0,
+  "eventBreakdown": {
+    "Alto Saxophone Solo": 251,
+    "Baritone Saxophone Solo": 81,
+    "Soprano Saxophone Solo": 35,
+    "Tenor Saxophone Solo": 148
+  },
+  "notes": {
+    "dataset_audit": "Sourced from https://www.uiltexas.org/pml/ and https://www.uiltexas.org/pml/pml.php. Imported 2026-03-24T17:48:38.319376+00:00."
+  }
+}

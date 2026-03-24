@@ -1,6 +1,6 @@
 # UIL Prescribed Music List Solos
 
-This project is a lightweight Python website for browsing UIL Prescribed Music List solo datasets, with a GitHub Pages deployment and a monthly GitHub Actions sync.
+This project is a lightweight Python website for browsing UIL Prescribed Music List solo datasets for piano, clarinet family, French horn, saxophone family, trombone, trumpet, and tuba, with a GitHub Pages deployment and a monthly GitHub Actions sync.
 
 ## Run locally
 
@@ -16,8 +16,12 @@ Then open `http://127.0.0.1:8000`.
 - UIL data feed: `https://www.uiltexas.org/pml/pml.php`
 - Local source snapshots:
   - `data/uil_piano_solos_source.csv`
+  - `data/uil_clarinet_solos_source.csv`
   - `data/uil_french_horn_solos_source.csv`
+  - `data/uil_saxophone_solos_source.csv`
+  - `data/uil_trombone_solos_source.csv`
   - `data/uil_trumpet_solos_source.csv`
+  - `data/uil_tuba_solos_source.csv`
 
 ## Update pipeline
 

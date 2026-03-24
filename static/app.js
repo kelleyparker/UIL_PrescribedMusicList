@@ -45,6 +45,36 @@ const instruments = {
     heroCopy:
       "Browse UIL French horn solos by class, search titles, composers, and publishers, and open verified public-domain sheet music where it is available.",
   },
+  saxophone: {
+    slug: "saxophone",
+    label: "Saxophone Family Solos",
+    shortLabel: "saxophone solo",
+    songsUrl: "./data/saxophone-solos.json",
+    statsUrl: "./data/saxophone-stats.json",
+    titlePlaceholder: "Try Creston, Sonata, or Rubank",
+    heroCopy:
+      "Browse UIL saxophone-family solos, including soprano, alto, tenor, and baritone saxophone events, then filter by class or No Memory Required and search titles, composers, and publishers.",
+  },
+  trombone: {
+    slug: "trombone",
+    label: "Trombone Solos",
+    shortLabel: "trombone solo",
+    songsUrl: "./data/trombone-solos.json",
+    statsUrl: "./data/trombone-stats.json",
+    titlePlaceholder: "Try Rimsky, Concertino, or Voxman",
+    heroCopy:
+      "Browse UIL trombone solos across tenor and bass trombone events, then filter by class or No Memory Required and search titles, composers, and publishers.",
+  },
+  tuba: {
+    slug: "tuba",
+    label: "Tuba Solos",
+    shortLabel: "tuba solo",
+    songsUrl: "./data/tuba-solos.json",
+    statsUrl: "./data/tuba-stats.json",
+    titlePlaceholder: "Try Vaughan, Suite, or Encore",
+    heroCopy:
+      "Browse UIL tuba solos by class, search titles, composers, and publishers, and quickly scan No Memory Required repertoire.",
+  },
 };
 
 const state = {
