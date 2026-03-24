@@ -23,6 +23,12 @@ Then open `http://127.0.0.1:8000`.
 - `.github/workflows/monthly-sync.yml` runs that sync on the first day of each month and commits changes only when the UIL data changes.
 - `.github/workflows/pages.yml` republishes the static site to GitHub Pages after pushes to `main`.
 
+## AI handoff
+
+- Read `README.md` and `AI_CONTEXT.md` at the start of a new AI session before making repo changes.
+- If you switch to a different AI app or a new thread, carry over `AI_CONTEXT.md` so the next assistant has the current project constraints, workflow, and documentation expectations.
+- When meaningful work changes the UI, architecture, deployment flow, dataset coverage, or product behavior, update `AI_CONTEXT.md` and `README.md` before the final push if either doc is no longer accurate.
+
 ## Dataset notes
 
 - `scripts/import_piano_solos.py` rebuilds the static JSON outputs from normalized UIL solo rows.
