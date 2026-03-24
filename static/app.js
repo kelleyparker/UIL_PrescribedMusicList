@@ -11,7 +11,8 @@ const nmrCount = document.getElementById("nmr-count");
 const pdfCount = document.getElementById("pdf-count");
 const themeSelect = document.getElementById("theme-select");
 const filterButtons = [...document.querySelectorAll(".filter-chip")];
-const instrumentButtons = [...document.querySelectorAll(".instrument-chip")];
+const instrumentSections = document.getElementById("instrument-sections");
+let instrumentButtons = [];
 const cardTemplate = document.getElementById("song-card-template");
 
 const instruments = {
@@ -831,6 +832,134 @@ const instruments = {
   },
 };
 
+const instrumentDivisions = [
+  {
+    slug: "band",
+    label: "Band",
+    helper: "Band solos, percussion events, and chamber or large ensembles from the UIL band list.",
+    instruments: [
+      "piano",
+      "clarinet",
+      "french-horn",
+      "saxophone",
+      "trombone",
+      "tuba",
+      "trumpet",
+      "flute",
+      "oboe",
+      "bassoon",
+      "alto-saxophone",
+      "euphonium",
+      "piccolo",
+      "english-horn",
+      "snare-drum",
+      "timpani",
+      "keyboard-percussion",
+      "multiple-percussion",
+      "drum-set",
+      "steel-pan",
+      "woodwind-trio",
+      "flute-trio",
+      "bb-clarinet-trio",
+      "mixed-clarinet-trio",
+      "woodwind-quartet",
+      "flute-quartet",
+      "bb-clarinet-quartet",
+      "mixed-clarinet-quartet",
+      "saxophone-quartet",
+      "woodwind-quintet",
+      "misc-woodwind-ensemble",
+      "double-reed-ensemble",
+      "flute-choir",
+      "clarinet-choir",
+      "misc-saxophone-ensemble",
+      "trumpet-trio",
+      "trombone-trio",
+      "euphonium-baritone-trio",
+      "brass-trio",
+      "trumpet-quartet",
+      "horn-quartet",
+      "euphonium-baritone-quartet",
+      "brass-quartet",
+      "trombone-quartet",
+      "tuba-euphonium-quartet",
+      "brass-quintet",
+      "brass-sextet",
+      "six-or-more-brass",
+      "trumpet-choir",
+      "misc-horn-ensemble",
+      "trombone-choir",
+      "percussion-ensemble",
+      "steel-band",
+      "misc-mixed-ensemble",
+    ],
+  },
+  {
+    slug: "orchestra",
+    label: "Orchestra",
+    helper: "String, guitar, harp, trio, quartet, quintet, and full-orchestra literature from UIL orchestra events.",
+    instruments: [
+      "violin",
+      "viola",
+      "cello",
+      "string-bass",
+      "acoustical-guitar",
+      "piano-trio",
+      "violin-trio",
+      "string-trio",
+      "misc-string-trio",
+      "guitar-trio",
+      "violin-quartets",
+      "string-quartet",
+      "misc-string-quartet",
+      "guitar-quartet",
+      "string-quintet",
+      "misc-string-quintet",
+      "misc-string-ensemble",
+      "misc-guitar-ensemble",
+      "cello-choir",
+      "harp",
+      "harp-ensemble",
+      "full-orchestra",
+      "string-orchestra",
+    ],
+  },
+  {
+    slug: "choir",
+    label: "Choir",
+    helper: "Vocal solo, small ensemble, and chorus literature from the UIL choir list.",
+    instruments: [
+      "vocal",
+      "treble-small-ensemble",
+      "tenor-bass-small-ensemble",
+      "madrigal",
+      "mixed-chorus",
+      "tenor-bass-chorus",
+      "treble-chorus",
+    ],
+  },
+];
+
+const instrumentChipLabelOverrides = {
+  clarinet: "Clarinet Family",
+  saxophone: "Saxophone Family",
+  "bb-clarinet-trio": "Bb Clarinet Trio",
+  "bb-clarinet-quartet": "Bb Clarinet Quartet",
+  "misc-woodwind-ensemble": "Misc Woodwind Ensemble",
+  "misc-saxophone-ensemble": "Misc Sax Ensemble",
+  "euphonium-baritone-trio": "Euph/Baritone Trio",
+  "euphonium-baritone-quartet": "Euph/Baritone Quartet",
+  "tuba-euphonium-quartet": "Tuba/Euph Quartet",
+  "six-or-more-brass": "Six+ Brass",
+  "misc-horn-ensemble": "Misc Horn Ensemble",
+  "misc-mixed-ensemble": "Misc Mixed Ensemble",
+  "misc-string-trio": "Misc String Trio",
+  "misc-string-quartet": "Misc String Quartet",
+  "misc-string-quintet": "Misc String Quintet",
+  "misc-string-ensemble": "Misc String Ensemble",
+  "misc-guitar-ensemble": "Misc Guitar Ensemble",
+};
+
 const state = {
   activeInstrument: "piano",
   activeFilter: "all",
@@ -1283,6 +1412,97 @@ function updateSummary(songs) {
   resultSummary.textContent = `Showing ${songs.length} ${instrument.shortLabel} titles for ${filterLabel}${searchLabel}.`;
 }
 
+function getInstrumentChipLabel(slug) {
+  if (instrumentChipLabelOverrides[slug]) {
+    return instrumentChipLabelOverrides[slug];
+  }
+
+  const instrument = instruments[slug];
+  if (!instrument) {
+    return slug;
+  }
+
+  return instrument.label
+    .replace(/ Solos?$/, "")
+    .replace(/ Trios$/, " Trio")
+    .replace(/ Quartets$/, " Quartet")
+    .replace(/ Quintets$/, " Quintet")
+    .replace(/ Sextets$/, " Sextet")
+    .replace(/ Ensembles$/, " Ensemble")
+    .replace(/ Choirs$/, " Choir")
+    .replace(/^Miscellaneous /, "Misc ");
+}
+
+function getDivisionForInstrument(instrumentSlug) {
+  return (
+    instrumentDivisions.find((division) => division.instruments.includes(instrumentSlug)) ||
+    instrumentDivisions[0]
+  );
+}
+
+function syncOpenDivision(instrumentSlug) {
+  if (!instrumentSections) {
+    return;
+  }
+
+  const activeDivision = getDivisionForInstrument(instrumentSlug);
+  [...instrumentSections.querySelectorAll(".instrument-section")].forEach((section) => {
+    section.open = section.dataset.division === activeDivision.slug;
+  });
+}
+
+function renderInstrumentSections() {
+  if (!instrumentSections) {
+    return;
+  }
+
+  instrumentSections.innerHTML = "";
+
+  instrumentDivisions.forEach((division) => {
+    const section = document.createElement("details");
+    section.className = "instrument-section";
+    section.dataset.division = division.slug;
+    section.open = division.slug === getDivisionForInstrument(state.activeInstrument).slug;
+
+    const summary = document.createElement("summary");
+
+    const titleWrap = document.createElement("div");
+    titleWrap.className = "instrument-section-title";
+    const title = document.createElement("strong");
+    title.textContent = division.label;
+    const helper = document.createElement("span");
+    helper.textContent = division.helper;
+    titleWrap.append(title, helper);
+
+    const count = document.createElement("span");
+    count.className = "instrument-section-count";
+    count.textContent = `${division.instruments.length} filters`;
+
+    const body = document.createElement("div");
+    body.className = "instrument-section-body";
+
+    const group = document.createElement("div");
+    group.className = "instrument-group";
+    group.setAttribute("aria-label", `${division.label} filters`);
+
+    division.instruments.forEach((instrumentSlug) => {
+      const button = document.createElement("button");
+      button.type = "button";
+      button.className = "instrument-chip";
+      button.dataset.instrument = instrumentSlug;
+      button.textContent = getInstrumentChipLabel(instrumentSlug);
+      group.appendChild(button);
+    });
+
+    body.appendChild(group);
+    summary.append(titleWrap, count);
+    section.append(summary, body);
+    instrumentSections.appendChild(section);
+  });
+
+  instrumentButtons = [...instrumentSections.querySelectorAll(".instrument-chip")];
+}
+
 async function refreshSongs() {
   const songs = getFilteredSongs();
   renderSongs(songs);
@@ -1309,6 +1529,7 @@ function applyActiveInstrument(nextInstrument) {
   filterButtons.forEach((button) => {
     button.classList.toggle("is-active", button.dataset.filter === "all");
   });
+  syncOpenDivision(nextInstrument);
   localStorage.setItem("uil-pml-instrument", nextInstrument);
 }
 
@@ -1324,7 +1545,9 @@ async function init() {
   const savedTheme = localStorage.getItem("uil-pml-theme") || "midnight-lone-star";
   const savedInstrument =
     localStorage.getItem("uil-pml-instrument") || state.activeInstrument;
-  applyActiveInstrument(savedInstrument in instruments ? savedInstrument : "piano");
+  state.activeInstrument = savedInstrument in instruments ? savedInstrument : "piano";
+  renderInstrumentSections();
+  applyActiveInstrument(state.activeInstrument);
   themeSelect.value = savedTheme;
   setTheme(savedTheme);
 
@@ -1334,21 +1557,41 @@ async function init() {
   themeSelect.addEventListener("change", handleThemeChange);
   themeSelect.addEventListener("input", handleThemeChange);
 
-  instrumentButtons.forEach((button) => {
-    button.addEventListener("click", async () => {
-      applyActiveInstrument(button.dataset.instrument);
-      await loadDataset(state.activeInstrument);
-      updateInstrumentLabels(state.stats);
-      songCount.textContent = state.stats.songCount;
-      databaseRecordCount.textContent = state.stats.databaseRecordCount;
-      classBreakdown.textContent = `Class 3: ${state.stats.classBreakdown["3"]} | Class 2: ${state.stats.classBreakdown["2"]} | Class 1: ${state.stats.classBreakdown["1"]}`;
-      nmrCount.textContent = state.stats.noMemoryRequiredCount;
-      pdfCount.textContent = state.stats.publicDomainPdfCount;
-      datasetNote.textContent = state.stats.notes.dataset_audit;
-      await refreshSongs();
-      setTheme(themeSelect.value);
-    });
+  instrumentSections?.addEventListener("click", async (event) => {
+    const button = event.target.closest(".instrument-chip");
+    if (!button || button.dataset.instrument === state.activeInstrument) {
+      return;
+    }
+
+    applyActiveInstrument(button.dataset.instrument);
+    await loadDataset(state.activeInstrument);
+    updateInstrumentLabels(state.stats);
+    songCount.textContent = state.stats.songCount;
+    databaseRecordCount.textContent = state.stats.databaseRecordCount;
+    classBreakdown.textContent = `Class 3: ${state.stats.classBreakdown["3"]} | Class 2: ${state.stats.classBreakdown["2"]} | Class 1: ${state.stats.classBreakdown["1"]}`;
+    nmrCount.textContent = state.stats.noMemoryRequiredCount;
+    pdfCount.textContent = state.stats.publicDomainPdfCount;
+    datasetNote.textContent = state.stats.notes.dataset_audit;
+    await refreshSongs();
+    setTheme(themeSelect.value);
   });
+
+  instrumentSections?.addEventListener(
+    "toggle",
+    (event) => {
+      const section = event.target;
+      if (!(section instanceof HTMLDetailsElement) || !section.open) {
+        return;
+      }
+
+      [...instrumentSections.querySelectorAll(".instrument-section")].forEach((other) => {
+        if (other !== section) {
+          other.open = false;
+        }
+      });
+    },
+    true,
+  );
 
   await loadDataset(state.activeInstrument);
   const stats = state.stats;
