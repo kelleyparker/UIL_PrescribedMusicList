@@ -1,9 +1,11 @@
 {
   "schoolYear": "2025-2026",
+  "instrumentSlug": "clarinet",
+  "instrumentName": "Clarinet Family Solos",
   "songCount": 520,
   "publisherCount": 583,
-  "noteCount": 2,
-  "databaseRecordCount": 522,
+  "noteCount": 1,
+  "databaseRecordCount": 521,
   "classBreakdown": {
     "3": 117,
     "2": 189,
@@ -19,7 +21,6 @@
     "Eb Clarinet Solo": 30
   },
   "notes": {
-    "source_song_count": "520",
-    "dataset_audit": "Sourced from https://www.uiltexas.org/pml/ and https://www.uiltexas.org/pml/pml.php. Imported 2026-03-24T13:47:56.048082+00:00."
+    "dataset_audit": "Sourced from https://www.uiltexas.org/pml/ and https://www.uiltexas.org/pml/pml.php. Imported 2026-03-24T21:41:03.459950+00:00."
   }
 }

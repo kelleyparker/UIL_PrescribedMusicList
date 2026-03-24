@@ -12,11 +12,16 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 STATIC_DATA_DIR = ROOT / "static" / "data"
 SOURCE_CSV_PATH = ROOT / "data" / "uil_piano_solos_source.csv"
+CLARINET_SOURCE_CSV_PATH = ROOT / "data" / "uil_clarinet_solos_source.csv"
 FRENCH_HORN_SOURCE_CSV_PATH = ROOT / "data" / "uil_french_horn_solos_source.csv"
 SAXOPHONE_SOURCE_CSV_PATH = ROOT / "data" / "uil_saxophone_solos_source.csv"
 TROMBONE_SOURCE_CSV_PATH = ROOT / "data" / "uil_trombone_solos_source.csv"
 TRUMPET_SOURCE_CSV_PATH = ROOT / "data" / "uil_trumpet_solos_source.csv"
 TUBA_SOURCE_CSV_PATH = ROOT / "data" / "uil_tuba_solos_source.csv"
+FLUTE_SOURCE_CSV_PATH = ROOT / "data" / "uil_flute_solos_source.csv"
+OBOE_SOURCE_CSV_PATH = ROOT / "data" / "uil_oboe_solos_source.csv"
+BASSOON_SOURCE_CSV_PATH = ROOT / "data" / "uil_bassoon_solos_source.csv"
+ALTO_SAXOPHONE_SOURCE_CSV_PATH = ROOT / "data" / "uil_alto_saxophone_solos_source.csv"
 DEFAULT_SCHOOL_YEAR = "2025-2026"
 TAG_PATTERN = re.compile(r"<[^>]+>")
 OPTION_PATTERN = re.compile(r"<option[^>]*>(.*?)</option>", re.IGNORECASE | re.DOTALL)
@@ -30,6 +35,20 @@ INSTRUMENT_CONFIGS = {
         "songs_output": STATIC_DATA_DIR / "piano-solos.json",
         "stats_output": STATIC_DATA_DIR / "piano-stats.json",
         "legacy_stats_output": STATIC_DATA_DIR / "stats.json",
+    },
+    "clarinet": {
+        "event_name": "Bb Clarinet Solo",
+        "event_names": [
+            "Bb Clarinet Solo",
+            "Bass Clarinet Solo",
+            "Alto Clarinet Solo",
+            "Eb Clarinet Solo",
+            "Contra Bass Clarinet Solo",
+        ],
+        "title": "Clarinet Family Solos",
+        "csv_path": CLARINET_SOURCE_CSV_PATH,
+        "songs_output": STATIC_DATA_DIR / "clarinet-solos.json",
+        "stats_output": STATIC_DATA_DIR / "clarinet-stats.json",
     },
     "french-horn": {
         "event_name": "French Horn Solo",
@@ -76,6 +95,38 @@ INSTRUMENT_CONFIGS = {
         "songs_output": STATIC_DATA_DIR / "tuba-solos.json",
         "stats_output": STATIC_DATA_DIR / "tuba-stats.json",
     },
+    "flute": {
+        "event_name": "Flute Solo",
+        "event_names": ["Flute Solo"],
+        "title": "Flute Solos",
+        "csv_path": FLUTE_SOURCE_CSV_PATH,
+        "songs_output": STATIC_DATA_DIR / "flute-solos.json",
+        "stats_output": STATIC_DATA_DIR / "flute-stats.json",
+    },
+    "oboe": {
+        "event_name": "Oboe Solo",
+        "event_names": ["Oboe Solo"],
+        "title": "Oboe Solos",
+        "csv_path": OBOE_SOURCE_CSV_PATH,
+        "songs_output": STATIC_DATA_DIR / "oboe-solos.json",
+        "stats_output": STATIC_DATA_DIR / "oboe-stats.json",
+    },
+    "bassoon": {
+        "event_name": "Bassoon Solo",
+        "event_names": ["Bassoon Solo"],
+        "title": "Bassoon Solos",
+        "csv_path": BASSOON_SOURCE_CSV_PATH,
+        "songs_output": STATIC_DATA_DIR / "bassoon-solos.json",
+        "stats_output": STATIC_DATA_DIR / "bassoon-stats.json",
+    },
+    "alto-saxophone": {
+        "event_name": "Alto Saxophone Solo",
+        "event_names": ["Alto Saxophone Solo"],
+        "title": "Alto Saxophone Solos",
+        "csv_path": ALTO_SAXOPHONE_SOURCE_CSV_PATH,
+        "songs_output": STATIC_DATA_DIR / "alto-saxophone-solos.json",
+        "stats_output": STATIC_DATA_DIR / "alto-saxophone-stats.json",
+    },
 }
 
 
@@ -119,7 +170,8 @@ def clean_text(value: str) -> str:
 def instrument_slug_for_event(event_name: str) -> str:
     normalized = clean_text(event_name).lower()
     for slug, config in INSTRUMENT_CONFIGS.items():
-        if normalized == config["event_name"].lower():
+        event_names = config.get("event_names", [config["event_name"]])
+        if normalized in {name.lower() for name in event_names}:
             return slug
     slug = normalized.replace("&", "and").replace("/", " ")
     slug = re.sub(r"[^a-z0-9]+", "-", slug).strip("-")

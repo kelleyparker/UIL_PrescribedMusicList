@@ -1,0 +1,22 @@
+{
+  "schoolYear": "2025-2026",
+  "instrumentSlug": "flute",
+  "instrumentName": "Flute Solos",
+  "songCount": 463,
+  "publisherCount": 523,
+  "noteCount": 1,
+  "databaseRecordCount": 464,
+  "classBreakdown": {
+    "3": 122,
+    "2": 107,
+    "1": 234
+  },
+  "noMemoryRequiredCount": 21,
+  "publicDomainPdfCount": 0,
+  "eventBreakdown": {
+    "Flute Solo": 463
+  },
+  "notes": {
+    "dataset_audit": "Sourced from https://www.uiltexas.org/pml/ and https://www.uiltexas.org/pml/pml.php. Imported 2026-03-24T21:41:03.498360+00:00."
+  }
+}

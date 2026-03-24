@@ -1,0 +1,22 @@
+{
+  "schoolYear": "2025-2026",
+  "instrumentSlug": "alto-saxophone",
+  "instrumentName": "Alto Saxophone Solos",
+  "songCount": 251,
+  "publisherCount": 253,
+  "noteCount": 1,
+  "databaseRecordCount": 252,
+  "classBreakdown": {
+    "3": 40,
+    "2": 85,
+    "1": 126
+  },
+  "noMemoryRequiredCount": 6,
+  "publicDomainPdfCount": 0,
+  "eventBreakdown": {
+    "Alto Saxophone Solo": 251
+  },
+  "notes": {
+    "dataset_audit": "Sourced from https://www.uiltexas.org/pml/ and https://www.uiltexas.org/pml/pml.php. Imported 2026-03-24T21:41:03.516308+00:00."
+  }
+}

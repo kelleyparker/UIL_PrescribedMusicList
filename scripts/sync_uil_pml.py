@@ -13,8 +13,13 @@ if str(SCRIPT_DIR) not in sys.path:
     sys.path.insert(0, str(SCRIPT_DIR))
 
 from import_piano_solos import (
+    ALTO_SAXOPHONE_SOURCE_CSV_PATH,
+    BASSOON_SOURCE_CSV_PATH,
+    CLARINET_SOURCE_CSV_PATH,
     FRENCH_HORN_SOURCE_CSV_PATH,
+    FLUTE_SOURCE_CSV_PATH,
     INSTRUMENT_CONFIGS,
+    OBOE_SOURCE_CSV_PATH,
     PianoSoloRow,
     SAXOPHONE_SOURCE_CSV_PATH,
     SOURCE_CSV_PATH,
@@ -23,7 +28,7 @@ from import_piano_solos import (
     TUBA_SOURCE_CSV_PATH,
     build_outputs,
 )
-from public_domain_links import enrich_public_domain_links
+from public_domain_links import enrich_public_domain_links, load_cache, song_key
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -32,12 +37,18 @@ UIL_DATA = "https://www.uiltexas.org/pml/pml.php"
 YEAR_PATTERN = re.compile(r"(20\d{2}-20\d{2})\s+Prescribed Music List")
 CSV_PATHS = {
     "piano": SOURCE_CSV_PATH,
+    "clarinet": CLARINET_SOURCE_CSV_PATH,
     "french-horn": FRENCH_HORN_SOURCE_CSV_PATH,
     "saxophone": SAXOPHONE_SOURCE_CSV_PATH,
     "trombone": TROMBONE_SOURCE_CSV_PATH,
     "trumpet": TRUMPET_SOURCE_CSV_PATH,
     "tuba": TUBA_SOURCE_CSV_PATH,
+    "flute": FLUTE_SOURCE_CSV_PATH,
+    "oboe": OBOE_SOURCE_CSV_PATH,
+    "bassoon": BASSOON_SOURCE_CSV_PATH,
+    "alto-saxophone": ALTO_SAXOPHONE_SOURCE_CSV_PATH,
 }
+CLARINET_LINKS_CACHE_PATH = ROOT / "data" / "clarinet_public_domain_links.json"
 TRUMPET_LINKS_CACHE_PATH = ROOT / "data" / "trumpet_public_domain_links.json"
 
 def fetch_with_curl(url: str) -> str:
@@ -104,6 +115,15 @@ def fetch_rows_for_events(event_names: list[str]) -> list[PianoSoloRow]:
     return rows
 
 
+def load_clarinet_links(rows: list[PianoSoloRow]) -> dict[str, dict]:
+    cache = load_cache(CLARINET_LINKS_CACHE_PATH)
+    return {
+        row.code: cache[f"{row.event_name}::{row.composer}::{row.title}"]
+        for row in rows
+        if f"{row.event_name}::{row.composer}::{row.title}" in cache
+    }
+
+
 def main() -> int:
     homepage_html = fetch_text(UIL_HOME)
     school_year = detect_school_year(homepage_html)
@@ -116,7 +136,12 @@ def main() -> int:
     }
 
     public_domain_links_by_instrument = {
-        "piano": {},
+        "piano": {
+            row.code: cached
+            for row in rows_by_instrument["piano"]
+            if (cached := load_cache().get(song_key(row)))
+        },
+        "clarinet": load_clarinet_links(rows_by_instrument["clarinet"]),
         "french-horn": enrich_public_domain_links(rows_by_instrument["french-horn"]),
         "trumpet": enrich_public_domain_links(
             rows_by_instrument["trumpet"],
@@ -125,6 +150,10 @@ def main() -> int:
         "saxophone": {},
         "trombone": {},
         "tuba": {},
+        "flute": {},
+        "oboe": {},
+        "bassoon": {},
+        "alto-saxophone": {},
     }
 
     stats_by_instrument = {}

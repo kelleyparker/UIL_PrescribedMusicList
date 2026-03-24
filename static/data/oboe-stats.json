@@ -1,0 +1,22 @@
+{
+  "schoolYear": "2025-2026",
+  "instrumentSlug": "oboe",
+  "instrumentName": "Oboe Solos",
+  "songCount": 196,
+  "publisherCount": 200,
+  "noteCount": 1,
+  "databaseRecordCount": 197,
+  "classBreakdown": {
+    "3": 47,
+    "2": 70,
+    "1": 79
+  },
+  "noMemoryRequiredCount": 6,
+  "publicDomainPdfCount": 0,
+  "eventBreakdown": {
+    "Oboe Solo": 196
+  },
+  "notes": {
+    "dataset_audit": "Sourced from https://www.uiltexas.org/pml/ and https://www.uiltexas.org/pml/pml.php. Imported 2026-03-24T21:41:03.505238+00:00."
+  }
+}

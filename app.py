@@ -16,6 +16,10 @@ INSTRUMENT_FILES = {
         "songs": STATIC_DATA_DIR / "piano-solos.json",
         "stats": STATIC_DATA_DIR / "piano-stats.json",
     },
+    "clarinet": {
+        "songs": STATIC_DATA_DIR / "clarinet-solos.json",
+        "stats": STATIC_DATA_DIR / "clarinet-stats.json",
+    },
     "french-horn": {
         "songs": STATIC_DATA_DIR / "french-horn-solos.json",
         "stats": STATIC_DATA_DIR / "french-horn-stats.json",
@@ -36,9 +40,21 @@ INSTRUMENT_FILES = {
         "songs": STATIC_DATA_DIR / "tuba-solos.json",
         "stats": STATIC_DATA_DIR / "tuba-stats.json",
     },
-    "clarinet": {
-        "songs": STATIC_DATA_DIR / "clarinet-solos.json",
-        "stats": STATIC_DATA_DIR / "clarinet-stats.json",
+    "flute": {
+        "songs": STATIC_DATA_DIR / "flute-solos.json",
+        "stats": STATIC_DATA_DIR / "flute-stats.json",
+    },
+    "oboe": {
+        "songs": STATIC_DATA_DIR / "oboe-solos.json",
+        "stats": STATIC_DATA_DIR / "oboe-stats.json",
+    },
+    "bassoon": {
+        "songs": STATIC_DATA_DIR / "bassoon-solos.json",
+        "stats": STATIC_DATA_DIR / "bassoon-stats.json",
+    },
+    "alto-saxophone": {
+        "songs": STATIC_DATA_DIR / "alto-saxophone-solos.json",
+        "stats": STATIC_DATA_DIR / "alto-saxophone-stats.json",
     },
 }
 

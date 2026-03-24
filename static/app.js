@@ -75,6 +75,56 @@ const instruments = {
     heroCopy:
       "Browse UIL tuba solos by class, search titles, composers, and publishers, and quickly scan No Memory Required repertoire.",
   },
+  trumpet: {
+    slug: "trumpet",
+    label: "Trumpet Solos",
+    shortLabel: "trumpet solo",
+    songsUrl: "./data/trumpet-solos.json",
+    statsUrl: "./data/trumpet-stats.json",
+    titlePlaceholder: "Try Arban, Concerto, or Rubank",
+    heroCopy:
+      "Browse UIL cornet and trumpet solos by class, search titles, composers, and publishers, and open verified public-domain sheet music where it is available.",
+  },
+  flute: {
+    slug: "flute",
+    label: "Flute Solos",
+    shortLabel: "flute solo",
+    songsUrl: "./data/flute-solos.json",
+    statsUrl: "./data/flute-stats.json",
+    titlePlaceholder: "Try Chaminade, Sonata, or Southern",
+    heroCopy:
+      "Browse UIL flute solos by class, search titles, composers, and publishers, and open verified public-domain sheet music where it is available.",
+  },
+  oboe: {
+    slug: "oboe",
+    label: "Oboe Solos",
+    shortLabel: "oboe solo",
+    songsUrl: "./data/oboe-solos.json",
+    statsUrl: "./data/oboe-stats.json",
+    titlePlaceholder: "Try Handel, Sonata, or Belwin",
+    heroCopy:
+      "Browse UIL oboe solos by class, search titles, composers, and publishers, and open verified public-domain sheet music where it is available.",
+  },
+  bassoon: {
+    slug: "bassoon",
+    label: "Bassoon Solos",
+    shortLabel: "bassoon solo",
+    songsUrl: "./data/bassoon-solos.json",
+    statsUrl: "./data/bassoon-stats.json",
+    titlePlaceholder: "Try Telemann, Suite, or Schirmer",
+    heroCopy:
+      "Browse UIL bassoon solos by class, search titles, composers, and publishers, and open verified public-domain sheet music where it is available.",
+  },
+  "alto-saxophone": {
+    slug: "alto-saxophone",
+    label: "Alto Saxophone Solos",
+    shortLabel: "alto saxophone solo",
+    songsUrl: "./data/alto-saxophone-solos.json",
+    statsUrl: "./data/alto-saxophone-stats.json",
+    titlePlaceholder: "Try Creston, Sonata, or Leduc",
+    heroCopy:
+      "Browse UIL alto saxophone solos by class, search titles, composers, and publishers, and open verified public-domain sheet music where it is available.",
+  },
 };
 
 const state = {
