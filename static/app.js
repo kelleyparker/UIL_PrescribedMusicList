@@ -838,7 +838,6 @@ const instrumentDivisions = [
     label: "Band",
     helper: "Band solos, percussion events, and chamber or large ensembles from the UIL band list.",
     instruments: [
-      "piano",
       "clarinet",
       "french-horn",
       "saxophone",
@@ -899,6 +898,7 @@ const instrumentDivisions = [
     label: "Orchestra",
     helper: "String, guitar, harp, trio, quartet, quintet, and full-orchestra literature from UIL orchestra events.",
     instruments: [
+      "piano",
       "violin",
       "viola",
       "cello",
