@@ -955,6 +955,11 @@ window.__uilSetTheme = (themeName) => {
   setTheme(themeName);
 };
 
+function buildAffiliateHeroCopy(label) {
+  const normalizedLabel = label.charAt(0).toLowerCase() + label.slice(1);
+  return `Browse UIL ${normalizedLabel} by class, search titles, composers, and publishers. Any sheet music links provided are affiliate links.`;
+}
+
 async function loadDataset(instrumentSlug) {
   const instrument = instruments[instrumentSlug] || instruments.piano;
   const [statsResponse, songsResponse] = await Promise.all([
@@ -1077,7 +1082,7 @@ function updateInstrumentLabels(stats) {
   const instrument = instruments[state.activeInstrument] || instruments.piano;
   document.title = `UIL ${instrument.label} ${stats.schoolYear}`;
   heroTitle.textContent = `${stats.schoolYear} ${instrument.label}`;
-  heroCopy.textContent = instrument.heroCopy;
+  heroCopy.textContent = buildAffiliateHeroCopy(instrument.label);
   searchInput.placeholder = instrument.titlePlaceholder;
 }
 
