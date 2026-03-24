@@ -15,7 +15,9 @@ if str(SCRIPT_DIR) not in sys.path:
 from import_piano_solos import (
     ALTO_SAXOPHONE_SOURCE_CSV_PATH,
     BASSOON_SOURCE_CSV_PATH,
+    CELLO_SOURCE_CSV_PATH,
     CLARINET_SOURCE_CSV_PATH,
+    EUPHONIUM_SOURCE_CSV_PATH,
     FRENCH_HORN_SOURCE_CSV_PATH,
     FLUTE_SOURCE_CSV_PATH,
     INSTRUMENT_CONFIGS,
@@ -23,9 +25,12 @@ from import_piano_solos import (
     PianoSoloRow,
     SAXOPHONE_SOURCE_CSV_PATH,
     SOURCE_CSV_PATH,
+    STRING_BASS_SOURCE_CSV_PATH,
     TROMBONE_SOURCE_CSV_PATH,
     TRUMPET_SOURCE_CSV_PATH,
     TUBA_SOURCE_CSV_PATH,
+    VIOLA_SOURCE_CSV_PATH,
+    VIOLIN_SOURCE_CSV_PATH,
     build_outputs,
 )
 from public_domain_links import enrich_public_domain_links, load_cache, song_key
@@ -47,6 +52,11 @@ CSV_PATHS = {
     "oboe": OBOE_SOURCE_CSV_PATH,
     "bassoon": BASSOON_SOURCE_CSV_PATH,
     "alto-saxophone": ALTO_SAXOPHONE_SOURCE_CSV_PATH,
+    "violin": VIOLIN_SOURCE_CSV_PATH,
+    "viola": VIOLA_SOURCE_CSV_PATH,
+    "cello": CELLO_SOURCE_CSV_PATH,
+    "string-bass": STRING_BASS_SOURCE_CSV_PATH,
+    "euphonium": EUPHONIUM_SOURCE_CSV_PATH,
 }
 CLARINET_LINKS_CACHE_PATH = ROOT / "data" / "clarinet_public_domain_links.json"
 TRUMPET_LINKS_CACHE_PATH = ROOT / "data" / "trumpet_public_domain_links.json"
@@ -154,6 +164,11 @@ def main() -> int:
         "oboe": {},
         "bassoon": {},
         "alto-saxophone": {},
+        "violin": {},
+        "viola": {},
+        "cello": {},
+        "string-bass": {},
+        "euphonium": {},
     }
 
     stats_by_instrument = {}

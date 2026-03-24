@@ -1,0 +1,22 @@
+{
+  "schoolYear": "2025-2026",
+  "instrumentSlug": "cello",
+  "instrumentName": "Cello Solos",
+  "songCount": 487,
+  "publisherCount": 589,
+  "noteCount": 1,
+  "databaseRecordCount": 488,
+  "classBreakdown": {
+    "3": 99,
+    "2": 158,
+    "1": 230
+  },
+  "noMemoryRequiredCount": 15,
+  "publicDomainPdfCount": 0,
+  "eventBreakdown": {
+    "Cello Solo": 487
+  },
+  "notes": {
+    "dataset_audit": "Sourced from https://www.uiltexas.org/pml/ and https://www.uiltexas.org/pml/pml.php. Imported 2026-03-24T21:43:57.032373+00:00."
+  }
+}

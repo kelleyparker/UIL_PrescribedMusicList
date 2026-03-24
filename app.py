@@ -56,6 +56,26 @@ INSTRUMENT_FILES = {
         "songs": STATIC_DATA_DIR / "alto-saxophone-solos.json",
         "stats": STATIC_DATA_DIR / "alto-saxophone-stats.json",
     },
+    "violin": {
+        "songs": STATIC_DATA_DIR / "violin-solos.json",
+        "stats": STATIC_DATA_DIR / "violin-stats.json",
+    },
+    "viola": {
+        "songs": STATIC_DATA_DIR / "viola-solos.json",
+        "stats": STATIC_DATA_DIR / "viola-stats.json",
+    },
+    "cello": {
+        "songs": STATIC_DATA_DIR / "cello-solos.json",
+        "stats": STATIC_DATA_DIR / "cello-stats.json",
+    },
+    "string-bass": {
+        "songs": STATIC_DATA_DIR / "string-bass-solos.json",
+        "stats": STATIC_DATA_DIR / "string-bass-stats.json",
+    },
+    "euphonium": {
+        "songs": STATIC_DATA_DIR / "euphonium-solos.json",
+        "stats": STATIC_DATA_DIR / "euphonium-stats.json",
+    },
 }
 
 

@@ -22,6 +22,11 @@ FLUTE_SOURCE_CSV_PATH = ROOT / "data" / "uil_flute_solos_source.csv"
 OBOE_SOURCE_CSV_PATH = ROOT / "data" / "uil_oboe_solos_source.csv"
 BASSOON_SOURCE_CSV_PATH = ROOT / "data" / "uil_bassoon_solos_source.csv"
 ALTO_SAXOPHONE_SOURCE_CSV_PATH = ROOT / "data" / "uil_alto_saxophone_solos_source.csv"
+VIOLIN_SOURCE_CSV_PATH = ROOT / "data" / "uil_violin_solos_source.csv"
+VIOLA_SOURCE_CSV_PATH = ROOT / "data" / "uil_viola_solos_source.csv"
+CELLO_SOURCE_CSV_PATH = ROOT / "data" / "uil_cello_solos_source.csv"
+STRING_BASS_SOURCE_CSV_PATH = ROOT / "data" / "uil_string_bass_solos_source.csv"
+EUPHONIUM_SOURCE_CSV_PATH = ROOT / "data" / "uil_euphonium_solos_source.csv"
 DEFAULT_SCHOOL_YEAR = "2025-2026"
 TAG_PATTERN = re.compile(r"<[^>]+>")
 OPTION_PATTERN = re.compile(r"<option[^>]*>(.*?)</option>", re.IGNORECASE | re.DOTALL)
@@ -126,6 +131,46 @@ INSTRUMENT_CONFIGS = {
         "csv_path": ALTO_SAXOPHONE_SOURCE_CSV_PATH,
         "songs_output": STATIC_DATA_DIR / "alto-saxophone-solos.json",
         "stats_output": STATIC_DATA_DIR / "alto-saxophone-stats.json",
+    },
+    "violin": {
+        "event_name": "Violin Solo",
+        "event_names": ["Violin Solo"],
+        "title": "Violin Solos",
+        "csv_path": VIOLIN_SOURCE_CSV_PATH,
+        "songs_output": STATIC_DATA_DIR / "violin-solos.json",
+        "stats_output": STATIC_DATA_DIR / "violin-stats.json",
+    },
+    "viola": {
+        "event_name": "Viola Solo",
+        "event_names": ["Viola Solo"],
+        "title": "Viola Solos",
+        "csv_path": VIOLA_SOURCE_CSV_PATH,
+        "songs_output": STATIC_DATA_DIR / "viola-solos.json",
+        "stats_output": STATIC_DATA_DIR / "viola-stats.json",
+    },
+    "cello": {
+        "event_name": "Cello Solo",
+        "event_names": ["Cello Solo"],
+        "title": "Cello Solos",
+        "csv_path": CELLO_SOURCE_CSV_PATH,
+        "songs_output": STATIC_DATA_DIR / "cello-solos.json",
+        "stats_output": STATIC_DATA_DIR / "cello-stats.json",
+    },
+    "string-bass": {
+        "event_name": "String Bass Solo",
+        "event_names": ["String Bass Solo"],
+        "title": "String Bass Solos",
+        "csv_path": STRING_BASS_SOURCE_CSV_PATH,
+        "songs_output": STATIC_DATA_DIR / "string-bass-solos.json",
+        "stats_output": STATIC_DATA_DIR / "string-bass-stats.json",
+    },
+    "euphonium": {
+        "event_name": "Euphonium/Baritone Horn Solo",
+        "event_names": ["Euphonium/Baritone Horn Solo"],
+        "title": "Euphonium and Baritone Horn Solos",
+        "csv_path": EUPHONIUM_SOURCE_CSV_PATH,
+        "songs_output": STATIC_DATA_DIR / "euphonium-solos.json",
+        "stats_output": STATIC_DATA_DIR / "euphonium-stats.json",
     },
 }
 

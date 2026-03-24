@@ -125,6 +125,56 @@ const instruments = {
     heroCopy:
       "Browse UIL alto saxophone solos by class, search titles, composers, and publishers, and open verified public-domain sheet music where it is available.",
   },
+  violin: {
+    slug: "violin",
+    label: "Violin Solos",
+    shortLabel: "violin solo",
+    songsUrl: "./data/violin-solos.json",
+    statsUrl: "./data/violin-stats.json",
+    titlePlaceholder: "Try Accolay, Concerto, or Suzuki",
+    heroCopy:
+      "Browse UIL violin solos by class, search titles, composers, and publishers, and quickly scan the current string repertoire.",
+  },
+  viola: {
+    slug: "viola",
+    label: "Viola Solos",
+    shortLabel: "viola solo",
+    songsUrl: "./data/viola-solos.json",
+    statsUrl: "./data/viola-stats.json",
+    titlePlaceholder: "Try Telemann, Sonata, or Schirmer",
+    heroCopy:
+      "Browse UIL viola solos by class, search titles, composers, and publishers, and explore the current string literature list.",
+  },
+  cello: {
+    slug: "cello",
+    label: "Cello Solos",
+    shortLabel: "cello solo",
+    songsUrl: "./data/cello-solos.json",
+    statsUrl: "./data/cello-stats.json",
+    titlePlaceholder: "Try Goltermann, Sonata, or Rubank",
+    heroCopy:
+      "Browse UIL cello solos by class, search titles, composers, and publishers, and filter quickly through the current solo list.",
+  },
+  "string-bass": {
+    slug: "string-bass",
+    label: "String Bass Solos",
+    shortLabel: "string bass solo",
+    songsUrl: "./data/string-bass-solos.json",
+    statsUrl: "./data/string-bass-stats.json",
+    titlePlaceholder: "Try Capuzzi, Sonata, or Ludwig",
+    heroCopy:
+      "Browse UIL string bass solos by class, search titles, composers, and publishers, and review the current orchestral string repertoire.",
+  },
+  euphonium: {
+    slug: "euphonium",
+    label: "Euphonium and Baritone Horn Solos",
+    shortLabel: "euphonium solo",
+    songsUrl: "./data/euphonium-solos.json",
+    statsUrl: "./data/euphonium-stats.json",
+    titlePlaceholder: "Try Barat, Suite, or Encore",
+    heroCopy:
+      "Browse UIL euphonium and baritone horn solos by class, search titles, composers, and publishers, and review the current low-brass literature list.",
+  },
 };
 
 const state = {
