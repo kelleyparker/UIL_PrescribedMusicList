@@ -1,0 +1,22 @@
+{
+  "schoolYear": "2025-2026",
+  "instrumentSlug": "misc-string-quartet",
+  "instrumentName": "Miscellaneous String Quartets",
+  "songCount": 182,
+  "publisherCount": 184,
+  "noteCount": 1,
+  "databaseRecordCount": 183,
+  "classBreakdown": {
+    "3": 29,
+    "2": 79,
+    "1": 74
+  },
+  "noMemoryRequiredCount": 0,
+  "publicDomainPdfCount": 0,
+  "eventBreakdown": {
+    "Miscellaneous String Quartet": 182
+  },
+  "notes": {
+    "dataset_audit": "Sourced from https://www.uiltexas.org/pml/ and https://www.uiltexas.org/pml/pml.php. Imported 2026-03-24T22:13:49.513481+00:00."
+  }
+}

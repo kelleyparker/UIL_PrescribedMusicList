@@ -1,0 +1,22 @@
+{
+  "schoolYear": "2025-2026",
+  "instrumentSlug": "string-quintet",
+  "instrumentName": "String Quintets",
+  "songCount": 394,
+  "publisherCount": 411,
+  "noteCount": 1,
+  "databaseRecordCount": 395,
+  "classBreakdown": {
+    "3": 166,
+    "2": 127,
+    "1": 101
+  },
+  "noMemoryRequiredCount": 0,
+  "publicDomainPdfCount": 0,
+  "eventBreakdown": {
+    "String Quintet": 394
+  },
+  "notes": {
+    "dataset_audit": "Sourced from https://www.uiltexas.org/pml/ and https://www.uiltexas.org/pml/pml.php. Imported 2026-03-24T22:13:49.534271+00:00."
+  }
+}

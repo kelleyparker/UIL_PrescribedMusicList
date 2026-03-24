@@ -1,0 +1,254 @@
+[
+  {
+    "uilCode": "470-3-17861",
+    "instrumentSlug": "cello-choir",
+    "instrumentName": "Cello Choirs",
+    "eventName": "Cello Choir",
+    "title": "Three Bach Cello Transcriptions",
+    "composer": "Bach",
+    "arranger": "Mathews",
+    "publishers": [
+      "Ludwig Music Publishing Company [Three Bach Cello Transcriptions]"
+    ],
+    "publisherText": "Ludwig Music Publishing Company [Three Bach Cello Transcriptions]",
+    "classLevel": 3,
+    "specification": "QUINTET (play Minuet No. 1)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "470-2-17842",
+    "instrumentSlug": "cello-choir",
+    "instrumentName": "Cello Choirs",
+    "eventName": "Cello Choir",
+    "title": "Three Bach Cello Transcriptions",
+    "composer": "Bach",
+    "arranger": "Mathews",
+    "publishers": [
+      "Ludwig Music Publishing Company [Three Bach Cello Transcriptions]"
+    ],
+    "publisherText": "Ludwig Music Publishing Company [Three Bach Cello Transcriptions]",
+    "classLevel": 2,
+    "specification": "QUINTET (play Sicut Locutus Est OR Jesu, Joy of Man's Desiring)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "470-2-17843",
+    "instrumentSlug": "cello-choir",
+    "instrumentName": "Cello Choirs",
+    "eventName": "Cello Choir",
+    "title": "Minuet, No. 3",
+    "composer": "Boccherini",
+    "arranger": "",
+    "publishers": [
+      "Stainer & Bell"
+    ],
+    "publisherText": "Stainer & Bell",
+    "classLevel": 2,
+    "specification": "QUINTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "470-1-17814",
+    "instrumentSlug": "cello-choir",
+    "instrumentName": "Cello Choirs",
+    "eventName": "Cello Choir",
+    "title": "Brandenburg Concerto No. 6",
+    "composer": "Bach",
+    "arranger": "",
+    "publishers": [
+      "Simrock"
+    ],
+    "publisherText": "Simrock",
+    "classLevel": 1,
+    "specification": "QUINTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "470-1-17816",
+    "instrumentSlug": "cello-choir",
+    "instrumentName": "Cello Choirs",
+    "eventName": "Cello Choir",
+    "title": "Fugue for Six Cellos",
+    "composer": "Bunting",
+    "arranger": "",
+    "publishers": [
+      "Oxford University Press"
+    ],
+    "publisherText": "Oxford University Press",
+    "classLevel": 1,
+    "specification": "SEXTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "470-1-17818",
+    "instrumentSlug": "cello-choir",
+    "instrumentName": "Cello Choirs",
+    "eventName": "Cello Choir",
+    "title": "Six Canciones Populares Espanolas",
+    "composer": "De Falla",
+    "arranger": "Kunzelmann",
+    "publishers": [
+      "C.F. Peters Corporation"
+    ],
+    "publisherText": "C.F. Peters Corporation",
+    "classLevel": 1,
+    "specification": "SEXTET (play one)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "470-1-17819",
+    "instrumentSlug": "cello-choir",
+    "instrumentName": "Cello Choirs",
+    "eventName": "Cello Choir",
+    "title": "Silent Woods Op. 68",
+    "composer": "Dvorak",
+    "arranger": "",
+    "publishers": [
+      "Simrock"
+    ],
+    "publisherText": "Simrock",
+    "classLevel": 1,
+    "specification": "QUINTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "470-1-17820",
+    "instrumentSlug": "cello-choir",
+    "instrumentName": "Cello Choirs",
+    "eventName": "Cello Choir",
+    "title": "Libera Me",
+    "composer": "Faure",
+    "arranger": "Mooney",
+    "publishers": [
+      "National Cello Institute"
+    ],
+    "publisherText": "National Cello Institute",
+    "classLevel": 1,
+    "specification": "NONET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "470-1-17821",
+    "instrumentSlug": "cello-choir",
+    "instrumentName": "Cello Choirs",
+    "eventName": "Cello Choir",
+    "title": "Pie Jesu",
+    "composer": "Faure",
+    "arranger": "Mooney",
+    "publishers": [
+      "National Cello Institute"
+    ],
+    "publisherText": "National Cello Institute",
+    "classLevel": 1,
+    "specification": "NONET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "470-1-17824",
+    "instrumentSlug": "cello-choir",
+    "instrumentName": "Cello Choirs",
+    "eventName": "Cello Choir",
+    "title": "Holberg Suite",
+    "composer": "Grieg",
+    "arranger": "Kunzelmann",
+    "publishers": [
+      "Luck's Music Library"
+    ],
+    "publisherText": "Luck's Music Library",
+    "classLevel": 1,
+    "specification": "SEXTET (play one)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "470-1-39655",
+    "instrumentSlug": "cello-choir",
+    "instrumentName": "Cello Choirs",
+    "eventName": "Cello Choir",
+    "title": "Sarabande from Holberg Suite",
+    "composer": "Grieg",
+    "arranger": "Berdine",
+    "publishers": [
+      "Latham Music Enterprises"
+    ],
+    "publisherText": "Latham Music Enterprises",
+    "classLevel": 1,
+    "specification": "QUINTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "470-1-17830",
+    "instrumentSlug": "cello-choir",
+    "instrumentName": "Cello Choirs",
+    "eventName": "Cello Choir",
+    "title": "The Old Castle",
+    "composer": "Moussorgsky",
+    "arranger": "Mooney",
+    "publishers": [
+      "National Cello Institute"
+    ],
+    "publisherText": "National Cello Institute",
+    "classLevel": 1,
+    "specification": "SEXTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "470-1-17831",
+    "instrumentSlug": "cello-choir",
+    "instrumentName": "Cello Choirs",
+    "eventName": "Cello Choir",
+    "title": "Adagio for five Celli K. 411",
+    "composer": "Mozart",
+    "arranger": "Conable",
+    "publishers": [
+      "Latham Music Enterprises"
+    ],
+    "publisherText": "Latham Music Enterprises",
+    "classLevel": 1,
+    "specification": "QUINTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "470-1-28720",
+    "instrumentSlug": "cello-choir",
+    "instrumentName": "Cello Choirs",
+    "eventName": "Cello Choir",
+    "title": "Hoy Mondongo",
+    "composer": "O'Brien",
+    "arranger": "",
+    "publishers": [
+      "Latham Music Enterprises"
+    ],
+    "publisherText": "Latham Music Enterprises",
+    "classLevel": 1,
+    "specification": "SEXTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  }
+]

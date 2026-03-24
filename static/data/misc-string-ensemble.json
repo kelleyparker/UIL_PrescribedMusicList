@@ -1,0 +1,4678 @@
+[
+  {
+    "uilCode": "460-3-28681",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Eight Folksong Duets for Two Violins",
+    "composer": "Anon. or Trad.",
+    "arranger": "Tomanek",
+    "publishers": [
+      "Alliance Publications, Inc."
+    ],
+    "publisherText": "Alliance Publications, Inc.",
+    "classLevel": 3,
+    "specification": "(play one of #1 through #5)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-3-39652",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "12 Duets",
+    "composer": "Aponte",
+    "arranger": "",
+    "publishers": [
+      "Self-Published Music"
+    ],
+    "publisherText": "Self-Published Music",
+    "classLevel": 3,
+    "specification": "(2 vlns) (play one mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-3-28723",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Beautiful Music for Two String Instruments, Vol. 2",
+    "composer": "Applebaum",
+    "arranger": "",
+    "publishers": [
+      "Belwin, Inc"
+    ],
+    "publisherText": "Belwin, Inc",
+    "classLevel": 3,
+    "specification": "play one",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-3-28726",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Chamber Music for Two String Instruments",
+    "composer": "Applebaum",
+    "arranger": "",
+    "publishers": [
+      "Belwin, Inc"
+    ],
+    "publisherText": "Belwin, Inc",
+    "classLevel": 3,
+    "specification": "play one",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-3-17859",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Minuet in G",
+    "composer": "Bach",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 3,
+    "specification": "(three OR four part CELLO)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-3-17863",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Musette",
+    "composer": "Bach",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press [Anna Magdalena Bach Notebook]"
+    ],
+    "publisherText": "Medici Music Press [Anna Magdalena Bach Notebook]",
+    "classLevel": 3,
+    "specification": "(three OR four part CELLO)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-3-28728",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "First Position Cello Duos",
+    "composer": "Burswold",
+    "arranger": "",
+    "publishers": [
+      "Latham Music Enterprises"
+    ],
+    "publisherText": "Latham Music Enterprises",
+    "classLevel": 3,
+    "specification": "play one",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-3-40070",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Miniatures 2",
+    "composer": "Kanga",
+    "arranger": "",
+    "publishers": [
+      "ALAW"
+    ],
+    "publisherText": "ALAW",
+    "classLevel": 3,
+    "specification": "(violin OR flute OR oboe & harp) (play one mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-3-29223",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Duets for Strings",
+    "composer": "Various",
+    "arranger": "Applebaum",
+    "publishers": [
+      "Belwin, Inc"
+    ],
+    "publisherText": "Belwin, Inc",
+    "classLevel": 3,
+    "specification": "(play any mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-3-29224",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Duets for Strings, Book 2",
+    "composer": "Various",
+    "arranger": "Applebaum",
+    "publishers": [
+      "Belwin, Inc"
+    ],
+    "publisherText": "Belwin, Inc",
+    "classLevel": 3,
+    "specification": "(play any mvt) (2 basses)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-3-37752",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "20 Progressive Bass Ensembles VOLUME 1",
+    "composer": "various",
+    "arranger": "Wyrick",
+    "publishers": [
+      "inezwyrick.com [20 Progressive Bass Ensembles VOLUME 1]"
+    ],
+    "publisherText": "inezwyrick.com [20 Progressive Bass Ensembles VOLUME 1]",
+    "classLevel": 3,
+    "specification": "(2 basses) (play Quagga)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-3-39651",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Classical Duets",
+    "composer": "various",
+    "arranger": "Parrish",
+    "publishers": [
+      "Carl Fischer, Inc. [Classical Duets]"
+    ],
+    "publisherText": "Carl Fischer, Inc. [Classical Duets]",
+    "classLevel": 3,
+    "specification": "(2 violas) (play any one of the first FOUR duets)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-3-39650",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Easy Concert Duets",
+    "composer": "various",
+    "arranger": "Griesinger",
+    "publishers": [
+      "Carl Fischer, Inc. [Easy Concert Duets]"
+    ],
+    "publisherText": "Carl Fischer, Inc. [Easy Concert Duets]",
+    "classLevel": 3,
+    "specification": "(2 violins OR 2 violas) (play one)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-3-37751",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Progressive Repertoire Vol. 2",
+    "composer": "various",
+    "arranger": "Vance",
+    "publishers": [
+      "Carl Fischer, Inc. [Progressive Repertoire Vol. 2]"
+    ],
+    "publisherText": "Carl Fischer, Inc. [Progressive Repertoire Vol. 2]",
+    "classLevel": 3,
+    "specification": "(2 basses) (play Minuet in D OR Old French Song OR Rigaudon OR Chorus from Judas Maccabaeus OR Musette)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-2-40066",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Algues",
+    "composer": "Andres",
+    "arranger": "",
+    "publishers": [
+      "Gerard Billaudot Edition"
+    ],
+    "publisherText": "Gerard Billaudot Edition",
+    "classLevel": 2,
+    "specification": "(violin OR flute OR oboe & harp) (play two mvts)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-2-32024",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "12 Duets",
+    "composer": "Anon. or Trad.",
+    "arranger": "Sankey",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 2,
+    "specification": "(play 'Aria' (Telemann))(2 basses)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-2-28724",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Beautiful Music for Two String Instruments, Vol. 3",
+    "composer": "Applebaum",
+    "arranger": "",
+    "publishers": [
+      "Belwin, Inc"
+    ],
+    "publisherText": "Belwin, Inc",
+    "classLevel": 2,
+    "specification": "(play one-excluding #8, 9, 12, 13, 19, 21)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-2-28725",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Beautiful Music for Two String Instruments, Vol. 4",
+    "composer": "Applebaum",
+    "arranger": "",
+    "publishers": [
+      "Belwin, Inc"
+    ],
+    "publisherText": "Belwin, Inc",
+    "classLevel": 2,
+    "specification": "play one (excluding #5, 17)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-2-28743",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Twenty Duets for Violin and Cello",
+    "composer": "Bach",
+    "arranger": "",
+    "publishers": [
+      "Boosey & Hawkes, Inc."
+    ],
+    "publisherText": "Boosey & Hawkes, Inc.",
+    "classLevel": 2,
+    "specification": "play one",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-2-28748",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "18 Duos",
+    "composer": "Bartok",
+    "arranger": "Kurtz",
+    "publishers": [
+      "Boosey & Hawkes, Inc."
+    ],
+    "publisherText": "Boosey & Hawkes, Inc.",
+    "classLevel": 2,
+    "specification": "play two (2 vlc)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-2-28745",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "44 Duets Vol. 1 (No. 1-25)",
+    "composer": "Bartok",
+    "arranger": "",
+    "publishers": [
+      "Boosey & Hawkes, Inc."
+    ],
+    "publisherText": "Boosey & Hawkes, Inc.",
+    "classLevel": 2,
+    "specification": "play two (2 vln)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-2-28747",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "44 Duets, Vol. 1 (No. 1-25)",
+    "composer": "Bartok",
+    "arranger": "Primrose",
+    "publishers": [
+      "Boosey & Hawkes, Inc."
+    ],
+    "publisherText": "Boosey & Hawkes, Inc.",
+    "classLevel": 2,
+    "specification": "play two (2 vla)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-2-28746",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "44 Duets, Vol. 2 ( No. 26-44)",
+    "composer": "Bartok",
+    "arranger": "",
+    "publishers": [
+      "Boosey & Hawkes, Inc."
+    ],
+    "publisherText": "Boosey & Hawkes, Inc.",
+    "classLevel": 2,
+    "specification": "play one (2 vln)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-2-28679",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Concert Duets for Violincello Duo",
+    "composer": "Belcke",
+    "arranger": "Blahnik",
+    "publishers": [
+      "Alliance Publications, Inc."
+    ],
+    "publisherText": "Alliance Publications, Inc.",
+    "classLevel": 2,
+    "specification": "(play one)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-2-28744",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Three Duets for Violin and Violoncello",
+    "composer": "Brevel",
+    "arranger": "",
+    "publishers": [
+      "B&V"
+    ],
+    "publisherText": "B&V",
+    "classLevel": 2,
+    "specification": "(play one mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-2-28735",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Five Duos for Viola and Cello",
+    "composer": "Burswold",
+    "arranger": "Latham",
+    "publishers": [
+      "Latham Music Enterprises"
+    ],
+    "publisherText": "Latham Music Enterprises",
+    "classLevel": 2,
+    "specification": "play one",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-2-28739",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Six Violin Duets",
+    "composer": "Burswold",
+    "arranger": "Latham",
+    "publishers": [
+      "Latham Music Enterprises"
+    ],
+    "publisherText": "Latham Music Enterprises",
+    "classLevel": 2,
+    "specification": "play one",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-2-28730",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Duos for Double Bass, Vol. 1",
+    "composer": "Frost",
+    "arranger": "",
+    "publishers": [
+      "Latham Music Enterprises"
+    ],
+    "publisherText": "Latham Music Enterprises",
+    "classLevel": 2,
+    "specification": "play one",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-2-28752",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Eight Duets, Op. 39",
+    "composer": "Gliere",
+    "arranger": "",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 2,
+    "specification": "play one (vln, vlc)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-2-28755",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Ten Duets, Op. 53, Vol. 2",
+    "composer": "Gliere",
+    "arranger": "",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 2,
+    "specification": "play one",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-2-25630",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Nine Duets from Concerti Grossi, Op. 6",
+    "composer": "Handel",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 2,
+    "specification": "(play two contrasting mvts) (vln, vla)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-2-25661",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Six Duets, Op. 60 , Book II",
+    "composer": "Lee",
+    "arranger": "Schluz/Solow",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 2,
+    "specification": "play one mvt) (2 vlc)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-2-25660",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Six Duets, Op. 60, Book I",
+    "composer": "Lee",
+    "arranger": "Schulz/Solow",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 2,
+    "specification": "(play one mvt) (2 vlc)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-2-40067",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Serenade No. 10",
+    "composer": "Persichetti",
+    "arranger": "",
+    "publishers": [
+      "Elkan-Vogel Company, Inc."
+    ],
+    "publisherText": "Elkan-Vogel Company, Inc.",
+    "classLevel": 2,
+    "specification": "(violin OR flute & harp) (play one mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-2-25685",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Sonata No. 9 (\"The Golden Sonata\") in F Major",
+    "composer": "Purcell",
+    "arranger": "",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 2,
+    "specification": "(play all, omit vlc) (2 vla)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-2-25686",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Sonata No. 9 (\"The Golden Sonata\") in F Major",
+    "composer": "Purcell",
+    "arranger": "",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 2,
+    "specification": "(play all, omit vlc) (2 vln)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-2-40068",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Piece en forme de habanera",
+    "composer": "Ravel",
+    "arranger": "Salzedo",
+    "publishers": [
+      "Lyra Music Company"
+    ],
+    "publisherText": "Lyra Music Company",
+    "classLevel": 2,
+    "specification": "(violin OR flute OR oboe & harp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-2-28718",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Andante and Allegro",
+    "composer": "Telemann",
+    "arranger": "",
+    "publishers": [
+      "RBC Publications"
+    ],
+    "publisherText": "RBC Publications",
+    "classLevel": 2,
+    "specification": "(three basses & harp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-2-28759",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Concerto in G Major",
+    "composer": "Telemann",
+    "arranger": "",
+    "publishers": [
+      "Summy/Birchard"
+    ],
+    "publisherText": "Summy/Birchard",
+    "classLevel": 2,
+    "specification": "(Suzuki Bk. 4, play 1, 2, or 4) (2 vla)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-2-40069",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Promenade \u00e0 l\u2019Automne (original OR lever version)",
+    "composer": "Tournier",
+    "arranger": "",
+    "publishers": [
+      "Lyra Music Company",
+      "CSHR Productions",
+      "Public Domain"
+    ],
+    "publisherText": "Lyra Music Company;CSHR Productions;Public Domain",
+    "classLevel": 2,
+    "specification": "(violin OR cello & harp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-2-28737",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Advanced Viola Duets",
+    "composer": "Various",
+    "arranger": "Latham",
+    "publishers": [
+      "Latham Music Enterprises"
+    ],
+    "publisherText": "Latham Music Enterprises",
+    "classLevel": 2,
+    "specification": "(play one)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-2-28732",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Classic Duos for Violin and Cello",
+    "composer": "Various",
+    "arranger": "Latham",
+    "publishers": [
+      "Latham Music Enterprises"
+    ],
+    "publisherText": "Latham Music Enterprises",
+    "classLevel": 2,
+    "specification": "(play one)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-2-29221",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Duets for Strings, Book 3",
+    "composer": "Various",
+    "arranger": "Applebaum",
+    "publishers": [
+      "Belwin, Inc"
+    ],
+    "publisherText": "Belwin, Inc",
+    "classLevel": 2,
+    "specification": "(play one) (2 basses)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-2-28680",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Duos for Double Bass, Vol. 2",
+    "composer": "Various",
+    "arranger": "Frost",
+    "publishers": [
+      "Latham Music Enterprises"
+    ],
+    "publisherText": "Latham Music Enterprises",
+    "classLevel": 2,
+    "specification": "(play one)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-2-28729",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Fifteen Cello Duets",
+    "composer": "Various",
+    "arranger": "Latham",
+    "publishers": [
+      "Latham Music Enterprises"
+    ],
+    "publisherText": "Latham Music Enterprises",
+    "classLevel": 2,
+    "specification": "(play one)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-2-28682",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Fifteen Duets for Viola and Cello",
+    "composer": "Various",
+    "arranger": "Latham",
+    "publishers": [
+      "Latham Music Enterprises"
+    ],
+    "publisherText": "Latham Music Enterprises",
+    "classLevel": 2,
+    "specification": "(play one of #6 through #15)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-2-28733",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Fifteen Duets for Violin and Cello",
+    "composer": "Various",
+    "arranger": "Latham",
+    "publishers": [
+      "Latham Music Enterprises"
+    ],
+    "publisherText": "Latham Music Enterprises",
+    "classLevel": 2,
+    "specification": "(play one)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-2-28734",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Fifteen Duets for Violin and Viola",
+    "composer": "Various",
+    "arranger": "Latham",
+    "publishers": [
+      "Latham Music Enterprises"
+    ],
+    "publisherText": "Latham Music Enterprises",
+    "classLevel": 2,
+    "specification": "(play one)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-2-28736",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Fifteen Viola Duets",
+    "composer": "Various",
+    "arranger": "Latham",
+    "publishers": [
+      "Latham Music Enterprises"
+    ],
+    "publisherText": "Latham Music Enterprises",
+    "classLevel": 2,
+    "specification": "(play one)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-2-28738",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Fifteen Violin Duets",
+    "composer": "Various",
+    "arranger": "Latham",
+    "publishers": [
+      "Latham Music Enterprises"
+    ],
+    "publisherText": "Latham Music Enterprises",
+    "classLevel": 2,
+    "specification": "(play one)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-2-28761",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Concerto in Bb Major",
+    "composer": "Vivaldi",
+    "arranger": "",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 2,
+    "specification": "play one mvt (vln, vlc)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-2-28719",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Adagio and Allegro for 5 Violins",
+    "composer": "de Boismortier",
+    "arranger": "",
+    "publishers": [
+      "Alliance Publications, Inc."
+    ],
+    "publisherText": "Alliance Publications, Inc.",
+    "classLevel": 2,
+    "specification": "(play all)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-2-37745",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "20 Progressive Bass Ensembles VOLUME 1",
+    "composer": "various",
+    "arranger": "Wyrick",
+    "publishers": [
+      "inezwyrick.com [20 Progressive Bass Ensembles VOLUME 1]"
+    ],
+    "publisherText": "inezwyrick.com [20 Progressive Bass Ensembles VOLUME 1]",
+    "classLevel": 2,
+    "specification": "(2 basses) (play Allegro Animato)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-2-37748",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "20 Progressive Bass Ensembles VOLUME 3",
+    "composer": "various",
+    "arranger": "Wyrick",
+    "publishers": [
+      "inezwyrick.com [20 Progressive Bass Ensembles VOLUME 3]"
+    ],
+    "publisherText": "inezwyrick.com [20 Progressive Bass Ensembles VOLUME 3]",
+    "classLevel": 2,
+    "specification": "(2 basses) (play Finger Sonata - 2 contrasting mvts)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-2-37750",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "20 Progressive Bass Ensembles VOLUME 4",
+    "composer": "various",
+    "arranger": "Wyrick",
+    "publishers": [
+      "inezwyrick.com [20 Progressive Bass Ensembles VOLUME 4]"
+    ],
+    "publisherText": "inezwyrick.com [20 Progressive Bass Ensembles VOLUME 4]",
+    "classLevel": 2,
+    "specification": "(2 basses) (play Canon for 2 Bass Violins OR Duetto Suites - play three mvts)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-2-39649",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Classical Duets",
+    "composer": "various",
+    "arranger": "Parrish",
+    "publishers": [
+      "Carl Fischer, Inc. [Classical Duets]"
+    ],
+    "publisherText": "Carl Fischer, Inc. [Classical Duets]",
+    "classLevel": 2,
+    "specification": "(2 violas) (play any one EXCEPT the first FOUR duets)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-2-37747",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Classical and Modern Duets",
+    "composer": "various",
+    "arranger": "Zimmerman",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 2,
+    "specification": "(2 basses) (play ONE duet)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-2-37746",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Mixed Level Ensembles Vol 1",
+    "composer": "various",
+    "arranger": "Wyrick",
+    "publishers": [
+      "inezwyrick.com [Mixed Level Ensembles Vol 1]"
+    ],
+    "publisherText": "inezwyrick.com [Mixed Level Ensembles Vol 1]",
+    "classLevel": 2,
+    "specification": "(2 basses) (play 2 18th Century Minuets)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-2-37749",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Progressive Repertoire Vol. 2",
+    "composer": "various",
+    "arranger": "Vance",
+    "publishers": [
+      "Carl Fischer, Inc. [Progressive Repertoire Vol. 2]"
+    ],
+    "publisherText": "Carl Fischer, Inc. [Progressive Repertoire Vol. 2]",
+    "classLevel": 2,
+    "specification": "(2 basses) (play Minuet in D Major OR Impertinence OR Minuet in G)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-37608",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Tarantella from \u201cIncidental Suite\u201d",
+    "composer": "",
+    "arranger": "Villani",
+    "publishers": [
+      "Claude T. Smith Publications"
+    ],
+    "publisherText": "Claude T. Smith Publications",
+    "classLevel": 1,
+    "specification": "(four violins, 2 violas, 2 cellos, 1 bass) (ONLY TAMBOURINE may be used)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-37735",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Seven Double Bass Duets",
+    "composer": "Anderson",
+    "arranger": "",
+    "publishers": [
+      "RGM"
+    ],
+    "publisherText": "RGM",
+    "classLevel": 1,
+    "specification": "(2 basses) (play one duet)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25571",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "12 Duets",
+    "composer": "Anon. or Trad.",
+    "arranger": "Sankey",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(play one mvt, except Aria(Telemann)) (2 basses)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-37734",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Adagio and Presto with Basso Continuo",
+    "composer": "Antoniotti",
+    "arranger": "",
+    "publishers": [
+      "Carl Fischer, Inc. [Progressive Repertoire Vol. 3]"
+    ],
+    "publisherText": "Carl Fischer, Inc. [Progressive Repertoire Vol. 3]",
+    "classLevel": 1,
+    "specification": "(2 basses)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25575",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Brandenburg Concerto No. 6 in Bb Major, S.1051",
+    "composer": "Bach",
+    "arranger": "Held",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(play one mvt) (2 vla)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25576",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Concerto in d minor, S.1043",
+    "composer": "Bach",
+    "arranger": "Mensch",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(play one mvt) (2 basses)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25577",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Contrapunctus",
+    "composer": "Bach",
+    "arranger": "Davis",
+    "publishers": [
+      "Western International Music, Inc."
+    ],
+    "publisherText": "Western International Music, Inc.",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25578",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Double Concerto in d minor",
+    "composer": "Bach",
+    "arranger": "",
+    "publishers": [
+      "C.F. Peters Corporation",
+      "International Music Company"
+    ],
+    "publisherText": "C.F. Peters Corporation;International Music Company",
+    "classLevel": 1,
+    "specification": "(play one mvt) (2 vln)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-28750",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Double Concerto in d minor, Mvt. 1",
+    "composer": "Bach",
+    "arranger": "",
+    "publishers": [
+      "Summy/Birchard"
+    ],
+    "publisherText": "Summy/Birchard",
+    "classLevel": 1,
+    "specification": "(suzuki vln bk 5 & suzuki vla bk 6) (vln, vla)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25579",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Four Duets",
+    "composer": "Bach",
+    "arranger": "Stutschewsky",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(play mvt 2, 3 or 4) (vln, vlc)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-28765",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Six Duets, Vol. 1",
+    "composer": "Bach",
+    "arranger": "",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(play one mvt) (2 vln)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25574",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Six Duets, Vol. II",
+    "composer": "Bach",
+    "arranger": "Friedrich",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(play one mvt) (2 vln)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25585",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Sonata in Bb Major",
+    "composer": "Bach",
+    "arranger": "Seiffert",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(play one mvt, omit vlc part) (2 vln) (accomp required)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25581",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Sonata in C Major",
+    "composer": "Bach",
+    "arranger": "Lidstrom",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(play one mvt) (2 vln)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25582",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Sonata in C Major, S.1037",
+    "composer": "Bach",
+    "arranger": "David",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(play Adagio or fuga or giga) (2 vln) (accomp required)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25583",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Sonata in G Major",
+    "composer": "Bach",
+    "arranger": "",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(play one mvt) (2 vln) (accomp required)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25584",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Sonata in G Major, S.1038",
+    "composer": "Bach",
+    "arranger": "Hermann",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(play two contrasting mvts) (2 vln) (accomp required)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25586",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Three Duets /",
+    "composer": "Bach",
+    "arranger": "Altermark-Vieland",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(play one mvt) (2 vla)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25587",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Three Duos",
+    "composer": "Bach",
+    "arranger": "Haas",
+    "publishers": [
+      "Highgate Press"
+    ],
+    "publisherText": "Highgate Press",
+    "classLevel": 1,
+    "specification": "(no1, play one mvt) (# 2 & 3, play mvt 1 or mvts 2 & 3) (2 vla)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25573",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Trio in Bb Major",
+    "composer": "Bach",
+    "arranger": "Landshoff",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(play one mvt) (2 vn & piano) (omit cello ad lib)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-33086",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Concerto in d minor",
+    "composer": "Bach, J.S.",
+    "arranger": "",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(two double basses)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25590",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Duet No. 4 in G Major",
+    "composer": "Barriere",
+    "arranger": "Lyman",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(play one mvt) (vln, vla)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25591",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Sonata in G Major",
+    "composer": "Barriere",
+    "arranger": "Stutch",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(play one mvt) (2 vlc)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25592",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Forty-Four Duets",
+    "composer": "Bartok",
+    "arranger": "Primrose",
+    "publishers": [
+      "Boosey & Hawkes, Inc."
+    ],
+    "publisherText": "Boosey & Hawkes, Inc.",
+    "classLevel": 1,
+    "specification": "(choose two from nos 36,37,38,39,40,41,42,44) (2 vla)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-40061",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Romanian Folk Dances",
+    "composer": "Bartok",
+    "arranger": "Pollauf/Skoraczewski",
+    "publishers": [
+      "Lyon & Healy Publications"
+    ],
+    "publisherText": "Lyon & Healy Publications",
+    "classLevel": 1,
+    "specification": "(cello & harp) (play two mvts)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25593",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Duet with Two Obbligato Eyeglasses",
+    "composer": "Beethoven",
+    "arranger": "Proto",
+    "publishers": [
+      "Liben Music Publishers"
+    ],
+    "publisherText": "Liben Music Publishers",
+    "classLevel": 1,
+    "specification": "(play one mvt) (vla, bass)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25594",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Duet with Two Obbligato Eyeglasses",
+    "composer": "Beethoven",
+    "arranger": "Amadeus/Hass",
+    "publishers": [
+      "Amadeus Verlag"
+    ],
+    "publisherText": "Amadeus Verlag",
+    "classLevel": 1,
+    "specification": "(play one mvt) (vla, vlc)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25595",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Duet with Two Obbligato Eyeglasses",
+    "composer": "Beethoven",
+    "arranger": "Proto",
+    "publishers": [
+      "Liben Music Publishers"
+    ],
+    "publisherText": "Liben Music Publishers",
+    "classLevel": 1,
+    "specification": "(play one mvt) (vln, bass)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25596",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Three Duets",
+    "composer": "Beethoven",
+    "arranger": "",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(# 1, play two contrasting mvts, # 2, play two contrasting mvts, # 3, play mvt 1 or play variations w/ the Allegro Assai ending, vln, vla)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25597",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Three Duos",
+    "composer": "Beethoven",
+    "arranger": "",
+    "publishers": [
+      "Liben Music Publishers"
+    ],
+    "publisherText": "Liben Music Publishers",
+    "classLevel": 1,
+    "specification": "play any of the following:/(# 1, play mvt 1 or mvts 2 & 3), (# 2, play mvt 1 or mvts 2 & 3), (# 3, play mvt 1) (vla, bass) (POP)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25598",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Three Duos",
+    "composer": "Beethoven",
+    "arranger": "",
+    "publishers": [
+      "Liben Music Publishers"
+    ],
+    "publisherText": "Liben Music Publishers",
+    "classLevel": 1,
+    "specification": "play any of the following:/(# 1, play mvt 1 or mvts 2 & 3), (# 2, play mvt 1 or mvts 2 & 3), (# 3, play mvt 1) (vln, bass)(POP)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25599",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Six Fugues, G. 73",
+    "composer": "Boccherini",
+    "arranger": "",
+    "publishers": [
+      "G. Zanibon [Six Fugues for Two Cellos]"
+    ],
+    "publisherText": "G. Zanibon [Six Fugues for Two Cellos]",
+    "classLevel": 1,
+    "specification": "(play one) (2 vlc)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25600",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Sonata in C Major",
+    "composer": "Boccherini",
+    "arranger": "Bazelaire",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(play one mvt) (2 vlc)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25601",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Sonata in Eb",
+    "composer": "Boccherini",
+    "arranger": "Stutch",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(play one mvt) (2 vlc)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25602",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Two Duets, Op. 5",
+    "composer": "Boccherini",
+    "arranger": "",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(play Andante or Allegro Assai or Allegro Giusto or Rondo) (2 vln)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25603",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Divertimento No. 1",
+    "composer": "Borghi",
+    "arranger": "",
+    "publishers": [
+      "Music Sales Corp. [From the collection Violin Duets]"
+    ],
+    "publisherText": "Music Sales Corp. [From the collection Violin Duets]",
+    "classLevel": 1,
+    "specification": "(2 vln)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25604",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Concerto in A Major",
+    "composer": "Bottesini",
+    "arranger": "Mensch",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(play one mvt) (2 basses)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-37738",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Gran Duetto 1",
+    "composer": "Bottesini",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 1,
+    "specification": "(2 basses) (play one mvt) (alternate keys/tunings acceptable)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-37739",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Gran Duetto 2",
+    "composer": "Bottesini",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 1,
+    "specification": "(2 basses) (play one mvt) (alternate keys/tunings acceptable)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-37740",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Gran Duetto 3",
+    "composer": "Bottesini",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 1,
+    "specification": "(2 basses) (play one mvt) (alternate keys/tunings acceptable)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-37737",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Grand Duo Concertante",
+    "composer": "Bottesini",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 1,
+    "specification": "(2 basses) (play one mvt) (alternate keys/tunings acceptable)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25605",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Passione Amorosa",
+    "composer": "Bottesini",
+    "arranger": "Sankey",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(play one mvt) (2 basses)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-28751",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Concerto in a minor, Op. 102",
+    "composer": "Brahms",
+    "arranger": "Francescatti-Fournier",
+    "publishers": [
+      "International Music Company",
+      "Edwin F. Kalmus",
+      "Pet."
+    ],
+    "publisherText": "International Music Company;Edwin F. Kalmus;Pet.",
+    "classLevel": 1,
+    "specification": "(play one mvt) (vln, vlc)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-17807",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Quintet in f minor Op. 34",
+    "composer": "Brahms",
+    "arranger": "",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(play one mvt) (2 vln, vla, vlc, & piano)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-39647",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "String Sextet No. 1 in Bb Major, Op. 18",
+    "composer": "Brahms",
+    "arranger": "Scelba",
+    "publishers": [
+      "Silvertrust Edition"
+    ],
+    "publisherText": "Silvertrust Edition",
+    "classLevel": 1,
+    "specification": "(SEXTET - 2 vlns, 2 vla cello, bass) (play one mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25606",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Duet No. 3 in D Major",
+    "composer": "Breval",
+    "arranger": "Ridder",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(play mvt 1, or 2 & 3) (vln, vlc)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-41247",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Quintet in g minor",
+    "composer": "Bruch",
+    "arranger": "",
+    "publishers": [
+      "Edition Gamma"
+    ],
+    "publisherText": "Edition Gamma",
+    "classLevel": 1,
+    "specification": "(2 vln, vla, vlc, & piano) (play one mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25607",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Six Concertante Duos, Op. Post.",
+    "composer": "Bruni",
+    "arranger": "",
+    "publishers": [
+      "International Music Company [Vol. I and Vol. II]"
+    ],
+    "publisherText": "International Music Company [Vol. I and Vol. II]",
+    "classLevel": 1,
+    "specification": "(play one mvt of any the following: 1,2,3,4,or 6) (# 5, play mvts 1 & 2 or mvt 3) (vln, vla)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25608",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Six Duets, Op. 34",
+    "composer": "Bruni",
+    "arranger": "Hermann",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(play one duet) (2 vln)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25610",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Grotesque",
+    "composer": "Clarke",
+    "arranger": "",
+    "publishers": [
+      "Oxford University Press [Two Pieces for Viola and Cello, No 2]"
+    ],
+    "publisherText": "Oxford University Press [Two Pieces for Viola and Cello, No 2]",
+    "classLevel": 1,
+    "specification": "(vla, vlc)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25611",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Grotesque",
+    "composer": "Clarke",
+    "arranger": "",
+    "publishers": [
+      "Oxford University Press [Two Pieces for Violin and Cello, No 2]"
+    ],
+    "publisherText": "Oxford University Press [Two Pieces for Violin and Cello, No 2]",
+    "classLevel": 1,
+    "specification": "(vln, vlc)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25612",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "12 Sonatas, Op. 1, Vol. I",
+    "composer": "Corelli",
+    "arranger": "Woehl",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(play one entire Sonata, omit vlc) (2 vln)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25613",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "12 Sonatas, Op. 1, Vol. II",
+    "composer": "Corelli",
+    "arranger": "Woehl",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(play one entire Sonata, omit vlc) (2 vln)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25614",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Six Chamber Sonatas, Op. 4",
+    "composer": "Corelli",
+    "arranger": "Sitt",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(play one entire Sonata) (2 vln)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25615",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "La Voluptueuse",
+    "composer": "Couperin",
+    "arranger": "Hussonmorel",
+    "publishers": [
+      "International Music Company [from Album of Classical Pieces]"
+    ],
+    "publisherText": "International Music Company [from Album of Classical Pieces]",
+    "classLevel": 1,
+    "specification": "(vln, vla)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-17486",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Two Aquarelles",
+    "composer": "Delius",
+    "arranger": "Fenby",
+    "publishers": [
+      "Boosey & Hawkes, Inc."
+    ],
+    "publisherText": "Boosey & Hawkes, Inc.",
+    "classLevel": 1,
+    "specification": "(play both) (rental only)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-29216",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Sinfonia Concertante",
+    "composer": "Dittersdorf",
+    "arranger": "Sankey",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(play one mvt)(vla, bass, piano)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25618",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "12 Duets, Op. 63",
+    "composer": "Dotzauer",
+    "arranger": "Schroeder",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(play two contrasting mvts) (2 vlc)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-28760",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Duet in G Major, Op. 4 No. 2",
+    "composer": "Dotzauer",
+    "arranger": "",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(play 1st mvt or Adagio & Andantino avec variations) (vln, vlc)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25619",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Three Sonatas, Op. 103",
+    "composer": "Dotzauer",
+    "arranger": "Schroeder",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(# 2, play mvt 1 or mvt 3) (# 3, play one mvt) (2 vlc)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-17809",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Quintet in A Major Op. 81",
+    "composer": "Dvorak",
+    "arranger": "",
+    "publishers": [
+      "Barenreiter/Verlag",
+      "International Music Company"
+    ],
+    "publisherText": "Barenreiter/Verlag;International Music Company",
+    "classLevel": 1,
+    "specification": "(play one mvt) (2 vln, vla, vlc, & piano)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-41248",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Quintet in A Major, Op. 5",
+    "composer": "Dvorak",
+    "arranger": "",
+    "publishers": [
+      "Barenreiter/Verlag"
+    ],
+    "publisherText": "Barenreiter/Verlag",
+    "classLevel": 1,
+    "specification": "(2 vln, vla, vlc, & piano) (play one mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-41249",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Quintet in a minor, Op. 84",
+    "composer": "Elgar",
+    "arranger": "",
+    "publishers": [
+      "Novello Publications Inc."
+    ],
+    "publisherText": "Novello Publications Inc.",
+    "classLevel": 1,
+    "specification": "(2 vln, vla, vlc, & piano) (play one mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-40063",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Sicilienne",
+    "composer": "Faure",
+    "arranger": "Owens",
+    "publishers": [
+      "Lyra Music Company"
+    ],
+    "publisherText": "Lyra Music Company",
+    "classLevel": 1,
+    "specification": "(violin OR flute OR oboe & harp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25620",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Allegro and Rondo, No. 1",
+    "composer": "Fodor",
+    "arranger": "",
+    "publishers": [
+      "Music Sales Corp. [From the collection Violin Duets]"
+    ],
+    "publisherText": "Music Sales Corp. [From the collection Violin Duets]",
+    "classLevel": 1,
+    "specification": "(play one mvt) (2 vln)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25621",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Allegro and Rondo, No. 2",
+    "composer": "Fodor",
+    "arranger": "",
+    "publishers": [
+      "Music Sales Corp. [From the collection Violin Duets]"
+    ],
+    "publisherText": "Music Sales Corp. [From the collection Violin Duets]",
+    "classLevel": 1,
+    "specification": "(play one mvt) (2 vln)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25622",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Rondo",
+    "composer": "Fodor",
+    "arranger": "",
+    "publishers": [
+      "Music Sales Corp. [From the collection Violin Duets]"
+    ],
+    "publisherText": "Music Sales Corp. [From the collection Violin Duets]",
+    "classLevel": 1,
+    "specification": "(2 vln)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-28731",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Duos for Double Bass, Vol. 2",
+    "composer": "Frost",
+    "arranger": "",
+    "publishers": [
+      "Latham Music Enterprises"
+    ],
+    "publisherText": "Latham Music Enterprises",
+    "classLevel": 1,
+    "specification": "play one",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25623",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "12 Duets, Op. 60",
+    "composer": "Fuchs",
+    "arranger": "",
+    "publishers": [
+      "Amadeus Verlag"
+    ],
+    "publisherText": "Amadeus Verlag",
+    "classLevel": 1,
+    "specification": "(play any two duets) (vln, vla)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25624",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Duo for Violin and Viola",
+    "composer": "Genzmer",
+    "arranger": "",
+    "publishers": [
+      "Ries & Erl"
+    ],
+    "publisherText": "Ries & Erl",
+    "classLevel": 1,
+    "specification": "(play one mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25625",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Divertimento",
+    "composer": "Gerster",
+    "arranger": "",
+    "publishers": [
+      "Schott Company"
+    ],
+    "publisherText": "Schott Company",
+    "classLevel": 1,
+    "specification": "(play one mvt) (vln, vla)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-17496",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Concerto Grosso",
+    "composer": "Giannini",
+    "arranger": "",
+    "publishers": [
+      "Elkan-Vogel Company, Inc."
+    ],
+    "publisherText": "Elkan-Vogel Company, Inc.",
+    "classLevel": 1,
+    "specification": "(play first or last mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-40064",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Intaglio",
+    "composer": "Gist",
+    "arranger": "",
+    "publishers": [
+      "Lyon & Healy Publications"
+    ],
+    "publisherText": "Lyon & Healy Publications",
+    "classLevel": 1,
+    "specification": "(viola OR cello & harp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-28753",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "EIght Duets, Op. 39",
+    "composer": "Gliere",
+    "arranger": "",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "play two (vln, vlc)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-37742",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Suite for Vln/Vla and Dbl. Bass",
+    "composer": "Gliere",
+    "arranger": "",
+    "publishers": [
+      "Liben Music Publishers"
+    ],
+    "publisherText": "Liben Music Publishers",
+    "classLevel": 1,
+    "specification": "(violin OR viola & bass) (play two mvts)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25626",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Ten Duets, Op. 53, Vol. 1",
+    "composer": "Gliere",
+    "arranger": "",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(play one duet) (2 vlc)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25627",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Ten Duets, Op. 53, Vol. 2",
+    "composer": "Gliere",
+    "arranger": "",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(play 6,7,8,or 10) (2 vlc)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25628",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Adagio in G Major",
+    "composer": "Grimm",
+    "arranger": "",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(2 vlc)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-39646",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Divertimento for Violin and Viola",
+    "composer": "Hailstork",
+    "arranger": "",
+    "publishers": [
+      "Theodore Presser Company"
+    ],
+    "publisherText": "Theodore Presser Company",
+    "classLevel": 1,
+    "specification": "(violin/viola duet) (play two contrasting mvts)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25629",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Courante",
+    "composer": "Handel",
+    "arranger": "Hussonmorel",
+    "publishers": [
+      "International Music Company [from Album of Classical Pieces]"
+    ],
+    "publisherText": "International Music Company [from Album of Classical Pieces]",
+    "classLevel": 1,
+    "specification": "(vln, vla)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25631",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Passacaglia",
+    "composer": "Handel",
+    "arranger": "Halvorsen",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(vln, vlc)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-28756",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Passacaglia",
+    "composer": "Handel",
+    "arranger": "Halvorsen",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "vln & vla",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25632",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Sarabande con Variazioni",
+    "composer": "Handel",
+    "arranger": "Halvorsen",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(vln, vla)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25642",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Sonata (Trio Sonata No 16) in g minor, Op. 2, No. 8",
+    "composer": "Handel",
+    "arranger": "Beyer",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(play one mvt) (2 vlc)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-37736",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Sonata (Trio Sonata No 16) in g minor, Op. 2, No. 8",
+    "composer": "Handel",
+    "arranger": "Mensch",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(2 basses) (play one mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25633",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Sonata in Bb Major, Op. 2, No. 4",
+    "composer": "Handel",
+    "arranger": "Sitt",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(play Andante, Adagio & Allegro, or Largetto, Adagio & Allegro) (2 vln)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25635",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Sonata in E Major, Op. 2, No. 9",
+    "composer": "Handel",
+    "arranger": "Sitt",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(play two contrasting mvts) (2 vln)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25636",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Sonata in F Major, Op. 2, No. 3",
+    "composer": "Handel",
+    "arranger": "Klengel",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(play two contrasting mvts if performing mvt 2, must also play the Adagio ending) (2 vln)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25637",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Sonata in F Major, Op. 2, No. 5",
+    "composer": "Handel",
+    "arranger": "Krause",
+    "publishers": [
+      "International Music Company",
+      "Barenreiter/Verlag",
+      "Foreign Music Distributors"
+    ],
+    "publisherText": "International Music Company;Barenreiter/Verlag;Foreign Music Distributors",
+    "classLevel": 1,
+    "specification": "(play all, omit vlc) (2 vln)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25634",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Sonata in c minor, Op. 2, No. 1",
+    "composer": "Handel",
+    "arranger": "",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(play the Largo or Andante & Allegro) (2 vln)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25638",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Sonata in g minor, Op. 2, No. 6",
+    "composer": "Handel",
+    "arranger": "",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(play two contrasting mvts) (2 vln)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25639",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Sonata in g minor, Op. 2, No. 7",
+    "composer": "Handel",
+    "arranger": "Sitt",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(play two contrasting mvts) (2 vln)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25640",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Sonata in g minor, Op. 2, No. 8",
+    "composer": "Handel",
+    "arranger": "Mensch",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(play one mvt) (2 basses)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25641",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Sonata in g minor, Op. 2, No. 8",
+    "composer": "Handel",
+    "arranger": "Barth",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(play contrasting mvts) (2 vla)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25643",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Duet in D Major, Hob. VI : D I",
+    "composer": "Haydn",
+    "arranger": "",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(play mvt 2 or 3) (vln, vlc)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-28676",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Sechs Sonaten fur Violine und Viola, Hob. VI:1-6",
+    "composer": "Haydn",
+    "arranger": "",
+    "publishers": [
+      "GHV"
+    ],
+    "publisherText": "GHV",
+    "classLevel": 1,
+    "specification": "(play one complete Sonata)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25644",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Sonatina Brevis, Op. 66",
+    "composer": "Hess",
+    "arranger": "",
+    "publishers": [
+      "Breitkopf & Hartel, Sales Department"
+    ],
+    "publisherText": "Breitkopf & Hartel, Sales Department",
+    "classLevel": 1,
+    "specification": "(play one mvt) (2 vln)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25645",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Hindemith Duett",
+    "composer": "Hindemith",
+    "arranger": "",
+    "publishers": [
+      "Schott Company"
+    ],
+    "publisherText": "Schott Company",
+    "classLevel": 1,
+    "specification": "(vla, vlc)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25646",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Duet in C Major",
+    "composer": "Hoffmeister",
+    "arranger": "Stutch",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(play one mvt) (vln, vlc)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25647",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Duet in G Major",
+    "composer": "Hoffmeister",
+    "arranger": "Primrose",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(play one mvt) (vln, vla)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25648",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Duetto Primo",
+    "composer": "Hoffmeister",
+    "arranger": "Sherman",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 1,
+    "specification": "(play two contrasting mvts) (vln, vla)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25649",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Duetto Secondo",
+    "composer": "Hoffmeister",
+    "arranger": "Sherman",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 1,
+    "specification": "(play two contrasting mvts) (vln, vla)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25650",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Duetto Sesto",
+    "composer": "Hoffmeister",
+    "arranger": "Sherman",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 1,
+    "specification": "(play two contrasting mvts) (vln, vla)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-28757",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Sonatine",
+    "composer": "Honegger",
+    "arranger": "",
+    "publishers": [
+      "Salabert"
+    ],
+    "publisherText": "Salabert",
+    "classLevel": 1,
+    "specification": "(vln & vlc)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-17514",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Armenian Rhapsody No. 3",
+    "composer": "Hovhaness",
+    "arranger": "",
+    "publishers": [
+      "C.F. Peters Corporation"
+    ],
+    "publisherText": "C.F. Peters Corporation",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-40062",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Entr\u2019act",
+    "composer": "Ibert",
+    "arranger": "",
+    "publishers": [
+      "Alphonse Leduc"
+    ],
+    "publisherText": "Alphonse Leduc",
+    "classLevel": 1,
+    "specification": "(violin OR flute & harp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25652",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Prelude, Passacaglia and Fugue",
+    "composer": "Jacob",
+    "arranger": "Gordon",
+    "publishers": [
+      "Joseph Williams, Ltd."
+    ],
+    "publisherText": "Joseph Williams, Ltd.",
+    "classLevel": 1,
+    "specification": "(play one mvt) (vln, vla)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25653",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Six Progressive Duos, Op. 46",
+    "composer": "Jansa",
+    "arranger": "",
+    "publishers": [
+      "Carl Fischer, Inc."
+    ],
+    "publisherText": "Carl Fischer, Inc.",
+    "classLevel": 1,
+    "specification": "(play mvt 1 or mvt 2 & 3 of nos 1, 2, 3, 4, or 5, or play one mvt of # 6) (2 vln)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25654",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Three Duets, Op. 70",
+    "composer": "Jansa",
+    "arranger": "Hermann",
+    "publishers": [
+      "International Music Company",
+      "Masters Music Publications"
+    ],
+    "publisherText": "International Music Company;Masters Music Publications",
+    "classLevel": 1,
+    "specification": "(play one mvt) (vln, vla)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25655",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Two Duets, Op. 208",
+    "composer": "Kalliwoda",
+    "arranger": "",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(duet 2: play Pastorale Andantino & Allegro Moderato or Allegretto Grazioso or Scherzo) (vln, vla)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25656",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Two Duets, Op. 208",
+    "composer": "Kalliwoda",
+    "arranger": "",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(duet 1, play one mvt) (vln, vla)/",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25657",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Duo, Op. 7",
+    "composer": "Kodaly",
+    "arranger": "",
+    "publishers": [
+      "Universal Music Company"
+    ],
+    "publisherText": "Universal Music Company",
+    "classLevel": 1,
+    "specification": "(play one mvt) (vln, vlc)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25658",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "12 Duets, Op. 105",
+    "composer": "Kummer",
+    "arranger": "",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(play two mvts) (2 vlc)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25659",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Three Duets, Op. 22",
+    "composer": "Kummer",
+    "arranger": "Klengel",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(play one mvt) (2 vlc)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-28740",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Duet No. 1 in G Major, Op. 125",
+    "composer": "Lee",
+    "arranger": "",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "play one mvt",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-28741",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Duet No. 2 in D Major, Op 125",
+    "composer": "Lee",
+    "arranger": "",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "play one mvt",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-28742",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Duet No. 3 in Bb Major, Op 125",
+    "composer": "Lee",
+    "arranger": "",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "play one mvt",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25662",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Three Duets, Op. 38",
+    "composer": "Lee",
+    "arranger": "",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(play one mvt) (2 vlc)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25663",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Three Duets, Op. 39",
+    "composer": "Lee",
+    "arranger": "Guignard",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(play one mvt) (2 vlc)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-39645",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Two Pieces",
+    "composer": "Liebermann",
+    "arranger": "",
+    "publishers": [
+      "Theodore Presser Company"
+    ],
+    "publisherText": "Theodore Presser Company",
+    "classLevel": 1,
+    "specification": "(violin/viola duet) (play one mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25664",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Sonata in D Major",
+    "composer": "Loeillet De Gant",
+    "arranger": "Vieland",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(play two contrasting mvts) (2 vln)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25665",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Sonata in D Major",
+    "composer": "Loeillet De Gant",
+    "arranger": "Vieland",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(play two contrasting mvts) (vln, vla)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25666",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Sonata in G Major",
+    "composer": "Loeillet De Gant",
+    "arranger": "Beon",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(play two contrasting mvts) (2 vln)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25667",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Sonata in G Major",
+    "composer": "Loeillet De Gant",
+    "arranger": "Beon",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(play two contrasting mvts) (vln, vla)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-39648",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Six Duets for Two Violins, Op. 5",
+    "composer": "Lombardini-Sirmen",
+    "arranger": "",
+    "publishers": [
+      "New Muses Project"
+    ],
+    "publisherText": "New Muses Project",
+    "classLevel": 1,
+    "specification": "(2 vlns) (play No. 6)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25668",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Three Madrigals",
+    "composer": "Martinu",
+    "arranger": "",
+    "publishers": [
+      "Boosey & Hawkes, Inc."
+    ],
+    "publisherText": "Boosey & Hawkes, Inc.",
+    "classLevel": 1,
+    "specification": "(play one mvt) (vln, vla)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-29243",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Meditation from Thais",
+    "composer": "Massenet",
+    "arranger": "Salzedo",
+    "publishers": [
+      "Lyra Music Company"
+    ],
+    "publisherText": "Lyra Music Company",
+    "classLevel": 1,
+    "specification": "(violin & harp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25669",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Three Duets, Op. 71",
+    "composer": "Mazas",
+    "arranger": "",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(# 1, play Introduction & Allegro non troppo, including Grazioso section, or play Allegretto & Piu Allegro) (2 vla)/",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25670",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Three Duets, Op. 71",
+    "composer": "Mazas",
+    "arranger": "",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(# 2, play mvt 1 or mvts 2 or 4) (2 vla)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25671",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Three Duets, Op. 71",
+    "composer": "Mazas",
+    "arranger": "",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(# 3, play one mvt) (2 vla)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-37609",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "The Key",
+    "composer": "Morris",
+    "arranger": "",
+    "publishers": [
+      "Sandscape Publications"
+    ],
+    "publisherText": "Sandscape Publications",
+    "classLevel": 1,
+    "specification": "(viola, percussion) (play 2 mvts)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25672",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Concertone in C Major, K.190 (K.166b)",
+    "composer": "Mozart",
+    "arranger": "David",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(play one mvt) (2 vln)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25673",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Duet (after the Piano Sonata in A Major), K.331",
+    "composer": "Mozart",
+    "arranger": "",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(play one mvt) (2 vln)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25674",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Sonata (DUO) in Bb Major, K.196c (K.292)",
+    "composer": "Mozart",
+    "arranger": "Werner",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(play Allegro or Rondo) (2 vlc)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25675",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Symphonie Concertante in Eb, K.364",
+    "composer": "Mozart",
+    "arranger": "Krane",
+    "publishers": [
+      "C.F. Peters Corporation",
+      "G. Schirmer, Inc.",
+      "Barenreiter/Verlag",
+      "Foreign Music Distributors"
+    ],
+    "publisherText": "C.F. Peters Corporation;G. Schirmer, Inc.;Barenreiter/Verlag;Foreign Music Distributors",
+    "classLevel": 1,
+    "specification": "(play one mvt) (vln, vla)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25676",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Two Duets, K.423 and 424",
+    "composer": "Mozart",
+    "arranger": "",
+    "publishers": [
+      "International Music Company",
+      "Barenreiter/Verlag",
+      "Foreign Music Distributors"
+    ],
+    "publisherText": "International Music Company;Barenreiter/Verlag;Foreign Music Distributors",
+    "classLevel": 1,
+    "specification": "(k423, play one mvt) (k424 play mvt 2, 3, or 4) (vln, vla)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25677",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Three Duets, Op. 10",
+    "composer": "Neubaur",
+    "arranger": "Altmann",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(play one mvt) (vln, vla)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-28717",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Five for Six 5 Movements for Strings",
+    "composer": "Pavel",
+    "arranger": "",
+    "publishers": [
+      "Alliance Publications, Inc."
+    ],
+    "publisherText": "Alliance Publications, Inc.",
+    "classLevel": 1,
+    "specification": "(play two) (2 vln, 2 vla, vlc, bass)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25678",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Serenade in D Major",
+    "composer": "Piatti",
+    "arranger": "",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(play all) (2 vlc)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25679",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Duo Concertant, Op. 16",
+    "composer": "Pichl",
+    "arranger": "Von Ulrich Druner",
+    "publishers": [
+      "C.F. Peters Corporation"
+    ],
+    "publisherText": "C.F. Peters Corporation",
+    "classLevel": 1,
+    "specification": "(play mvt 2 or mvt 3) (vla, vlc)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-28763",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Six Duets, Op. 8",
+    "composer": "Pleyel",
+    "arranger": "",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(play one mvt) (2 vla)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25680",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Theme and Variations",
+    "composer": "Pleyel",
+    "arranger": "",
+    "publishers": [
+      "Bote & Bock"
+    ],
+    "publisherText": "Bote & Bock",
+    "classLevel": 1,
+    "specification": "(vlc, bass)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25681",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Three Duets, Op. 44",
+    "composer": "Pleyel",
+    "arranger": "Gingold",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(play one mvt) (vln, vla)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25682",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Three Duets, Op. 69",
+    "composer": "Pleyel",
+    "arranger": "",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(play one mvt) (vln, vla)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25683",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Suite, Op. 16",
+    "composer": "Popper",
+    "arranger": "",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(play one mvt) (2 vlc)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25684",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Tempo di Marcia, Op. 16a (2 cellos)",
+    "composer": "Popper",
+    "arranger": "",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(play all)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-28675",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Six Sonatas for Two Violins, Op. 4",
+    "composer": "Pugnani",
+    "arranger": "Kaufman",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(play one entire Sonata)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-40065",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Pavane Pour Une Infante Defunte",
+    "composer": "Ravel",
+    "arranger": "Owens",
+    "publishers": [
+      "Lyra Music Company"
+    ],
+    "publisherText": "Lyra Music Company",
+    "classLevel": 1,
+    "specification": "(violin OR flute & harp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-28758",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Sonate",
+    "composer": "Ravel",
+    "arranger": "",
+    "publishers": [
+      "Masters Music Publications"
+    ],
+    "publisherText": "Masters Music Publications",
+    "classLevel": 1,
+    "specification": "play one mvt (vln, vlc)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25687",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Duo Concertante, Op. 4, No. 2",
+    "composer": "Rolla",
+    "arranger": "",
+    "publishers": [
+      "Kunzelmann"
+    ],
+    "publisherText": "Kunzelmann",
+    "classLevel": 1,
+    "specification": "(vln, vla)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25688",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Grand Duo, Op. 36, No. 1",
+    "composer": "Romberg",
+    "arranger": "Stutch",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(play Largo & Allegro or Menuetto or trio & Menuetto or Adagio or Finale) (2 vlc)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25689",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Sonata, Op. 43, No. 1",
+    "composer": "Romberg",
+    "arranger": "Zimmermann",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(play one mvt) (2 basses)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-28677",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Duetto for Cello and String Bass (or Two Cellos)",
+    "composer": "Rossini",
+    "arranger": "Stutch",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "play one",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25690",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Duo",
+    "composer": "Rossini",
+    "arranger": "",
+    "publishers": [
+      "Yorke"
+    ],
+    "publisherText": "Yorke",
+    "classLevel": 1,
+    "specification": "(vln, vlc)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25691",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Three Rags for Violin and Viola",
+    "composer": "Ryden",
+    "arranger": "",
+    "publishers": [
+      "Masters Music Publications"
+    ],
+    "publisherText": "Masters Music Publications",
+    "classLevel": 1,
+    "specification": "(play one)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25692",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Le Cygne",
+    "composer": "Saint-Saens",
+    "arranger": "Salzedo",
+    "publishers": [
+      "Lyra Music Company"
+    ],
+    "publisherText": "Lyra Music Company",
+    "classLevel": 1,
+    "specification": "(cello & harp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-41250",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Quintet in a minor, Op. 14",
+    "composer": "Saint-Saens",
+    "arranger": "",
+    "publishers": [
+      "Public Domain"
+    ],
+    "publisherText": "Public Domain",
+    "classLevel": 1,
+    "specification": "(2 vln, vla, vlc, & piano) (play one mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-29240",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Romance, Op. 37",
+    "composer": "Saint-Saens",
+    "arranger": "Whitcup",
+    "publishers": [
+      "Salvi"
+    ],
+    "publisherText": "Salvi",
+    "classLevel": 1,
+    "specification": "(violin & harp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25694",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Sonata in Eb Major, Op. 1, No. 3",
+    "composer": "Sammartini",
+    "arranger": "",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(play mvt 1 or mvt 2 & 3, omit vlc) (2 vln)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25695",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Navarra (Danza Espagnole), Op. 33",
+    "composer": "Sarasate",
+    "arranger": "",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(play one mvt) (2 vln)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-41251",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Piano Quintet in E flat Major, Op. 44",
+    "composer": "Schumann",
+    "arranger": "",
+    "publishers": [
+      "C.F. Peters Corporation"
+    ],
+    "publisherText": "C.F. Peters Corporation",
+    "classLevel": 1,
+    "specification": "(2 vln, vla, vlc, & piano) (play one mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-41252",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Piano Quintet, Op. 57",
+    "composer": "Shostakovich",
+    "arranger": "",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(2 vln, vla, vlc, & piano) (play one mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25696",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Six Duets, Op. 150 and 153, Vol. II",
+    "composer": "Spohr",
+    "arranger": "",
+    "publishers": [
+      "Edwin F. Kalmus"
+    ],
+    "publisherText": "Edwin F. Kalmus",
+    "classLevel": 1,
+    "specification": "(play one mvt) (2 vln)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25697",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Six Duets, Op. 67 and 148, Vol. I",
+    "composer": "Spohr",
+    "arranger": "",
+    "publishers": [
+      "Edwin F. Kalmus"
+    ],
+    "publisherText": "Edwin F. Kalmus",
+    "classLevel": 1,
+    "specification": "(play one mvt) (2 vln)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25698",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Sonata Concertante, Op. 114",
+    "composer": "Spohr",
+    "arranger": "",
+    "publishers": [
+      "International Music Company [for Harp and Violin]"
+    ],
+    "publisherText": "International Music Company [for Harp and Violin]",
+    "classLevel": 1,
+    "specification": "(violin & harp) (play one mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25699",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Sonata Concertante, Op. 115",
+    "composer": "Spohr",
+    "arranger": "",
+    "publishers": [
+      "International Music Company [for Harp (or Piano) and Violin]"
+    ],
+    "publisherText": "International Music Company [for Harp (or Piano) and Violin]",
+    "classLevel": 1,
+    "specification": "(violin & harp OR piano) (play one mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25700",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Duetto No. 1 in C Major",
+    "composer": "Stamitz, C",
+    "arranger": "",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(play mvt 1 or 3) (vln, vla)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25701",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Duetto No. 2 in A Major, Op. 12",
+    "composer": "Stamitz, C",
+    "arranger": "",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(play mvt 1 or mvt 3) (vln, vla)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25702",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Six Duets, Op. 19 /",
+    "composer": "Stamitz, C",
+    "arranger": "",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "play any of the following: (# 1, play one mvt) (# 2, play mvt 1 or mvt 2 & 3) (# 3, play mvts 1 & 2 or mvt 3) (# 4, play 1 mvt) (# 5, play mvts 1 & 3 or mvt 2) (# 6, play mvt 1 /or mvts 2 & 3) (vln, vlc)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25703",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Three Trios",
+    "composer": "Tartini",
+    "arranger": "Puente",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(play one trio) (2 vln)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25704",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Six Canonic Sonatas",
+    "composer": "Telemann",
+    "arranger": "Sankey",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(play two contrasting mvts) (2 basses)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25705",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Six Canonic Sonatas",
+    "composer": "Telemann",
+    "arranger": "Starker",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(play two contrasting mvts) (2 vlc)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25706",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Six Canonic Sonatas",
+    "composer": "Telemann",
+    "arranger": "Davis",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(play two contrasting mvts) (2 vla)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25707",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Six Canonic Sonatas",
+    "composer": "Telemann",
+    "arranger": "Herrmann",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(play two contrasting mvts) (2 vln)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-28762",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Six Canonic Sonatas",
+    "composer": "Telemann",
+    "arranger": "",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "play two contrasting mvts (2 vla)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25708",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Sonata in a minor",
+    "composer": "Telemann",
+    "arranger": "",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(play two contrasting mvts, omit vlc) ( 2 vln)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25709",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Sonata in c minor",
+    "composer": "Telemann",
+    "arranger": "",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(play two contrasting mvts, omit vlc) (2 vln)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25710",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Trio in Eb Major, Op. 1, No. 3",
+    "composer": "Telemann",
+    "arranger": "Riemann",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(play two contrasting mvts, omit vlc) (2 vln)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25711",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Concerto, Op. 8",
+    "composer": "Torelli",
+    "arranger": "Jensen",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(play two contrasting mvts) (2 vln)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-28673",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Canzonetta from Violin Concerto No. 35",
+    "composer": "Tschaikowsky",
+    "arranger": "Oistrakh-Kranz",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(vln, guitar)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-29218",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "12 Duets for Two String Basses",
+    "composer": "Various",
+    "arranger": "Sankey",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(play any mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-28727",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Advanced Cello Duets",
+    "composer": "Various",
+    "arranger": "",
+    "publishers": [
+      "Latham Music Enterprises"
+    ],
+    "publisherText": "Latham Music Enterprises",
+    "classLevel": 1,
+    "specification": "(play one)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25712",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Sonata in c minor, Op. 1",
+    "composer": "Veracini",
+    "arranger": "Jensen",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(play all) (2 vln)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25713",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Duo for Violino and Alto",
+    "composer": "Villa-Lobos",
+    "arranger": "",
+    "publishers": [
+      "Mercury Music Corporation"
+    ],
+    "publisherText": "Mercury Music Corporation",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25715",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Concerto in Bb Major, Op. 9, No. 9, RV 530 (from La Centra)",
+    "composer": "Vivaldi",
+    "arranger": "Kaufman",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(play one mvt) (two vln)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25717",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Concerto in D Major, RV 512",
+    "composer": "Vivaldi",
+    "arranger": "Gingold",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(play mvt 1 or 3) (2 vln)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25718",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Concerto in D Major, RV 513",
+    "composer": "Vivaldi",
+    "arranger": "Kaufman",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(play mvt 1 or 3) (2 vln)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-28678",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Concerto in D Major, RV 513 for Two Violins and Piano",
+    "composer": "Vivaldi",
+    "arranger": "Kaufman",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "play one or three",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-28764",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Concerto in a minor, F.I., n. 177 (RV 522)",
+    "composer": "Vivaldi",
+    "arranger": "",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(play one mvt) (2 vln)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25714",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Concerto in a minor, Op. 3, No. 8",
+    "composer": "Vivaldi",
+    "arranger": "Vene",
+    "publishers": [
+      "Ricordi & Company, Inc."
+    ],
+    "publisherText": "Ricordi & Company, Inc.",
+    "classLevel": 1,
+    "specification": "(play mvt 1 or 3) (2 vln)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25716",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Concerto in c minor, RV 509",
+    "composer": "Vivaldi",
+    "arranger": "Gingold",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(play mvt 1 or 3) (2 vln)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25719",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Concerto in g minor, RV 517",
+    "composer": "Vivaldi",
+    "arranger": "Gingold",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(play mvt 1 or 3) (2 vln)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25720",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Concerto in g minor, RV 531",
+    "composer": "Vivaldi",
+    "arranger": "Ghenini-Starker",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(play mvt 1 or 3) (2 vlc)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25721",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Sonata in e minor, F.XIII, n18",
+    "composer": "Vivaldi",
+    "arranger": "Moffat",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(play all, omit vlc) (2 vln)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25722",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Duet No. 3, Op. 30",
+    "composer": "Werner",
+    "arranger": "",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(play one mvt) (2 vlc)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25616",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Lied, Op. 19",
+    "composer": "d'Indy",
+    "arranger": "",
+    "publishers": [
+      "International Music Company [for Viola and Piano]"
+    ],
+    "publisherText": "International Music Company [for Viola and Piano]",
+    "classLevel": 1,
+    "specification": "vla & piano",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-25617",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Three Sonatas, Nos. 10-12, Op. 8",
+    "composer": "de Fesch",
+    "arranger": "Stutch",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(play two contrasting mvts) (2 vlc)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-37733",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "20 Progressive Bass Ensembles VOLUME 1",
+    "composer": "various",
+    "arranger": "Wyrick",
+    "publishers": [
+      "inezwyrick.com [20 Progressive Bass Ensembles VOLUME 1]"
+    ],
+    "publisherText": "inezwyrick.com [20 Progressive Bass Ensembles VOLUME 1]",
+    "classLevel": 1,
+    "specification": "BASS QUARTET or QUINTET (play Joshua Fought the Battle of Jerico)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-37741",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Classical and Modern Duets",
+    "composer": "various",
+    "arranger": "Zimmerman",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(2 basses) (play TWO of the following: 9, 10, 11, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, OR 24)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "460-1-37732",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Mixed Level Ensembles Vol 5",
+    "composer": "various",
+    "arranger": "Wyrick",
+    "publishers": [
+      "inezwyrick.com [Mixed Level Ensembles Vol 5]"
+    ],
+    "publisherText": "inezwyrick.com [Mixed Level Ensembles Vol 5]",
+    "classLevel": 1,
+    "specification": "BASS OCTET (play Holberg Suite - one mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  }
+]

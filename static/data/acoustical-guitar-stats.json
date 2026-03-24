@@ -1,0 +1,22 @@
+{
+  "schoolYear": "2025-2026",
+  "instrumentSlug": "acoustical-guitar",
+  "instrumentName": "Acoustical Guitar Solos",
+  "songCount": 287,
+  "publisherCount": 312,
+  "noteCount": 1,
+  "databaseRecordCount": 288,
+  "classBreakdown": {
+    "3": 50,
+    "2": 62,
+    "1": 175
+  },
+  "noMemoryRequiredCount": 0,
+  "publicDomainPdfCount": 0,
+  "eventBreakdown": {
+    "Acoustical Guitar Solo": 287
+  },
+  "notes": {
+    "dataset_audit": "Sourced from https://www.uiltexas.org/pml/ and https://www.uiltexas.org/pml/pml.php. Imported 2026-03-24T22:13:49.460626+00:00."
+  }
+}

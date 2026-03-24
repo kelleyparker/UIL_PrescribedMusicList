@@ -1,0 +1,22 @@
+{
+  "schoolYear": "2025-2026",
+  "instrumentSlug": "misc-string-trio",
+  "instrumentName": "Miscellaneous String Trios",
+  "songCount": 143,
+  "publisherCount": 144,
+  "noteCount": 1,
+  "databaseRecordCount": 144,
+  "classBreakdown": {
+    "3": 35,
+    "2": 65,
+    "1": 43
+  },
+  "noMemoryRequiredCount": 0,
+  "publicDomainPdfCount": 0,
+  "eventBreakdown": {
+    "Miscellaneous String Trio": 143
+  },
+  "notes": {
+    "dataset_audit": "Sourced from https://www.uiltexas.org/pml/ and https://www.uiltexas.org/pml/pml.php. Imported 2026-03-24T22:13:49.485546+00:00."
+  }
+}

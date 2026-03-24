@@ -1,0 +1,2201 @@
+[
+  {
+    "uilCode": "441-3-24492",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "Marching Song",
+    "composer": "Ambrosio",
+    "arranger": "Auer/Saenger",
+    "publishers": [
+      "Carl Fischer, Inc. [First Ensemble Folio, Book 1]"
+    ],
+    "publisherText": "Carl Fischer, Inc. [First Ensemble Folio, Book 1]",
+    "classLevel": 3,
+    "specification": "(piano opt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-3-24525",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "Angels We Have Heard on High",
+    "composer": "Anon. or Trad.",
+    "arranger": "Kuhn",
+    "publishers": [
+      "Belwin, Inc [For-4-Violins Quartet Album Vol. 2]"
+    ],
+    "publisherText": "Belwin, Inc [For-4-Violins Quartet Album Vol. 2]",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-3-24526",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "Appalachian Folk Song",
+    "composer": "Anon. or Trad.",
+    "arranger": "Kuhn",
+    "publishers": [
+      "Belwin, Inc [For-4-Violins Quartet Album Vol. 2]"
+    ],
+    "publisherText": "Belwin, Inc [For-4-Violins Quartet Album Vol. 2]",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-3-17246",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "Country Gardens",
+    "composer": "Anon. or Trad.",
+    "arranger": "Isaac",
+    "publishers": [
+      "Belwin, Inc [Strings in Recital]"
+    ],
+    "publisherText": "Belwin, Inc [Strings in Recital]",
+    "classLevel": 3,
+    "specification": "(play one; requires piano accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-3-17255",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "Folk Songs and Dances",
+    "composer": "Anon. or Trad.",
+    "arranger": "Sontag",
+    "publishers": [
+      "Sam Fox Publishing Company"
+    ],
+    "publisherText": "Sam Fox Publishing Company",
+    "classLevel": 3,
+    "specification": "(play two) (requires piano accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-3-24527",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "Hornpipe",
+    "composer": "Anon. or Trad.",
+    "arranger": "Kuhn",
+    "publishers": [
+      "Belwin, Inc [For-4-Violins Quartet Album Vol. 2]"
+    ],
+    "publisherText": "Belwin, Inc [For-4-Violins Quartet Album Vol. 2]",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-3-17247",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "Jenny Lind Polka",
+    "composer": "Anon. or Trad.",
+    "arranger": "Isaac",
+    "publishers": [
+      "Belwin, Inc [Strings in Recital]"
+    ],
+    "publisherText": "Belwin, Inc [Strings in Recital]",
+    "classLevel": 3,
+    "specification": "(play one; requires piano accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-3-24518",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "La Fiera de Mast' Andrea",
+    "composer": "Anon. or Trad.",
+    "arranger": "Auer/Saenger",
+    "publishers": [
+      "Carl Fischer, Inc. [Romantic Concert Folio, Book 4]"
+    ],
+    "publisherText": "Carl Fischer, Inc. [Romantic Concert Folio, Book 4]",
+    "classLevel": 3,
+    "specification": "(piano opt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-3-24528",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "O Santissima",
+    "composer": "Anon. or Trad.",
+    "arranger": "Kuhn",
+    "publishers": [
+      "Belwin, Inc [For-4-Violins Quartet Album Vol. 2]"
+    ],
+    "publisherText": "Belwin, Inc [For-4-Violins Quartet Album Vol. 2]",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-3-17248",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "Pleyel's Hymn",
+    "composer": "Anon. or Trad.",
+    "arranger": "Kuhn",
+    "publishers": [
+      "Belwin, Inc [For-4-Violins Quartet Album Vol. 1]"
+    ],
+    "publisherText": "Belwin, Inc [For-4-Violins Quartet Album Vol. 1]",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-3-24477",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "Slumber Song",
+    "composer": "Anon. or Trad.",
+    "arranger": "Auer/Saenger",
+    "publishers": [
+      "Carl Fischer, Inc. [Classic Repertoire, Book 5]"
+    ],
+    "publisherText": "Carl Fischer, Inc. [Classic Repertoire, Book 5]",
+    "classLevel": 3,
+    "specification": "(piano opt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-3-24507",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "Two French Folk Tunes",
+    "composer": "Anon. or Trad.",
+    "arranger": "Auer/Saenger",
+    "publishers": [
+      "Carl Fischer, Inc. [Old Time Songs and Dances, Book 3]"
+    ],
+    "publisherText": "Carl Fischer, Inc. [Old Time Songs and Dances, Book 3]",
+    "classLevel": 3,
+    "specification": "(must also play one additional selection from this collection) (piano opt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-3-24508",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "Two Old Christmas Songs",
+    "composer": "Anon. or Trad.",
+    "arranger": "Auer/Saenger",
+    "publishers": [
+      "Carl Fischer, Inc. [Old Time Songs and Dances, Book 3]"
+    ],
+    "publisherText": "Carl Fischer, Inc. [Old Time Songs and Dances, Book 3]",
+    "classLevel": 3,
+    "specification": "(must also play one additional selection from this collection) (piano opt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-3-24529",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "Vinton's Hornpipe",
+    "composer": "Anon. or Trad.",
+    "arranger": "Kuhn",
+    "publishers": [
+      "Belwin, Inc [For-4-Violins Quartet Album Vol. 2]"
+    ],
+    "publisherText": "Belwin, Inc [For-4-Violins Quartet Album Vol. 2]",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-3-24498",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "A Polish Folk-Tune Dance",
+    "composer": "Auer",
+    "arranger": "",
+    "publishers": [
+      "Carl Fischer, Inc. [First Ensemble Folio, Book 1]"
+    ],
+    "publisherText": "Carl Fischer, Inc. [First Ensemble Folio, Book 1]",
+    "classLevel": 3,
+    "specification": "(piano opt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-3-24497",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "A Russian Folk-Song",
+    "composer": "Auer",
+    "arranger": "",
+    "publishers": [
+      "Carl Fischer, Inc. [First Ensemble Folio, Book 1]"
+    ],
+    "publisherText": "Carl Fischer, Inc. [First Ensemble Folio, Book 1]",
+    "classLevel": 3,
+    "specification": "(piano opt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-3-24523",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "Bouree",
+    "composer": "Bach",
+    "arranger": "Kuhn",
+    "publishers": [
+      "Belwin, Inc [For-4-Violins Quartet Album Vol. 2]"
+    ],
+    "publisherText": "Belwin, Inc [For-4-Violins Quartet Album Vol. 2]",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-3-24532",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "Bourree",
+    "composer": "Bach",
+    "arranger": "Wettlaufer",
+    "publishers": [
+      "Boosey & Hawkes, Inc. [Fiddlers Four Book 2]"
+    ],
+    "publisherText": "Boosey & Hawkes, Inc. [Fiddlers Four Book 2]",
+    "classLevel": 3,
+    "specification": "(in score form)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-3-17242",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "Menuet in G",
+    "composer": "Bach",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press [Anna Magdalena Bach Notebook]"
+    ],
+    "publisherText": "Medici Music Press [Anna Magdalena Bach Notebook]",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-3-17240",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "Minuet",
+    "composer": "Bach",
+    "arranger": "Auer/Saenger",
+    "publishers": [
+      "Carl Fischer, Inc. [Old Time Songs and Dances, Book 3]"
+    ],
+    "publisherText": "Carl Fischer, Inc. [Old Time Songs and Dances, Book 3]",
+    "classLevel": 3,
+    "specification": "(must also play one additional selection from this collection) (piano opt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-3-17243",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "Musette",
+    "composer": "Bach",
+    "arranger": "Dishinger/Auer/Saenger",
+    "publishers": [
+      "Medici Music Press [Anna Magdalena Bach Notebook]",
+      "Carl Fischer, Inc. [First Ensemble Folio, Book 1]"
+    ],
+    "publisherText": "Medici Music Press [Anna Magdalena Bach Notebook];Carl Fischer, Inc. [First Ensemble Folio, Book 1]",
+    "classLevel": 3,
+    "specification": "(piano opt for CF version)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-3-24513",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "Polonaise",
+    "composer": "Bach",
+    "arranger": "Auer/Saenger",
+    "publishers": [
+      "Carl Fischer, Inc. [Romantic Concert Folio, Book 4]"
+    ],
+    "publisherText": "Carl Fischer, Inc. [Romantic Concert Folio, Book 4]",
+    "classLevel": 3,
+    "specification": "(piano opt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-3-24511",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "Theme (from Op. 26)",
+    "composer": "Beethoven",
+    "arranger": "Auer/Saenger",
+    "publishers": [
+      "Carl Fischer, Inc. [Romantic Concert Folio, Book 4]"
+    ],
+    "publisherText": "Carl Fischer, Inc. [Romantic Concert Folio, Book 4]",
+    "classLevel": 3,
+    "specification": "(piano opt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-3-24506",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "Rondino",
+    "composer": "Beethoven/Kreisler",
+    "arranger": "Auer/Saenger",
+    "publishers": [
+      "Carl Fischer, Inc. [Old Time Songs and Dances, Book 3]"
+    ],
+    "publisherText": "Carl Fischer, Inc. [Old Time Songs and Dances, Book 3]",
+    "classLevel": 3,
+    "specification": "(must also play one additional selection from this collection) (piano opt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-3-24515",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "Sarabande",
+    "composer": "Bohm",
+    "arranger": "Auer/Saenger",
+    "publishers": [
+      "Carl Fischer, Inc. [Romantic Concert Folio, Book 4]"
+    ],
+    "publisherText": "Carl Fischer, Inc. [Romantic Concert Folio, Book 4]",
+    "classLevel": 3,
+    "specification": "(piano opt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-3-24533",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "Theme (from the Violin Concerto)",
+    "composer": "Brahms",
+    "arranger": "Wettlaufer",
+    "publishers": [
+      "Boosey & Hawkes, Inc. [Fiddlers Four Book 2]"
+    ],
+    "publisherText": "Boosey & Hawkes, Inc. [Fiddlers Four Book 2]",
+    "classLevel": 3,
+    "specification": "(in score form)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-3-17257",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "Theme (from Violin Concerto)",
+    "composer": "Bruch",
+    "arranger": "Wettlaufer",
+    "publishers": [
+      "Boosey & Hawkes, Inc. [Fiddlers Four Book 1]"
+    ],
+    "publisherText": "Boosey & Hawkes, Inc. [Fiddlers Four Book 1]",
+    "classLevel": 3,
+    "specification": "(in score form)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-3-17241",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "Intermezzo Joyeuse",
+    "composer": "Dont",
+    "arranger": "Auer/Saenger",
+    "publishers": [
+      "Carl Fischer, Inc. [Romantic Concert Folio, Book 4]"
+    ],
+    "publisherText": "Carl Fischer, Inc. [Romantic Concert Folio, Book 4]",
+    "classLevel": 3,
+    "specification": "(piano opt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-3-24504",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "Will-o-the-Wisp",
+    "composer": "Dont",
+    "arranger": "Auer/Saenger",
+    "publishers": [
+      "Carl Fischer, Inc. [Old Time Songs and Dances, Book 3]"
+    ],
+    "publisherText": "Carl Fischer, Inc. [Old Time Songs and Dances, Book 3]",
+    "classLevel": 3,
+    "specification": "(must also play one additional selection from this collection) (piano opt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-3-24524",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "Panis Angelicus",
+    "composer": "Franck",
+    "arranger": "Kuhn",
+    "publishers": [
+      "Belwin, Inc [For-4-Violins Quartet Album Vol. 2]"
+    ],
+    "publisherText": "Belwin, Inc [For-4-Violins Quartet Album Vol. 2]",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-3-17244",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "Amaryllis",
+    "composer": "Ghys",
+    "arranger": "Ambrosio",
+    "publishers": [
+      "Carl Fischer, Inc."
+    ],
+    "publisherText": "Carl Fischer, Inc.",
+    "classLevel": 3,
+    "specification": "(requires piano accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-3-24522",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "March",
+    "composer": "Gluck",
+    "arranger": "Kuhn",
+    "publishers": [
+      "Belwin, Inc [For-4-Violins Quartet Album Vol. 1]"
+    ],
+    "publisherText": "Belwin, Inc [For-4-Violins Quartet Album Vol. 1]",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-3-24502",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "Musette",
+    "composer": "Gluck",
+    "arranger": "Auer/Saenger",
+    "publishers": [
+      "Carl Fischer, Inc. [Old Time Songs and Dances, Book 3]"
+    ],
+    "publisherText": "Carl Fischer, Inc. [Old Time Songs and Dances, Book 3]",
+    "classLevel": 3,
+    "specification": "(must also play one additional selection from this collection) (piano opt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-3-17245",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "Gavotte",
+    "composer": "Gossec",
+    "arranger": "Saenger/Kuhn",
+    "publishers": [
+      "Belwin, Inc",
+      "Carl Fischer, Inc.",
+      "Warner Bros. Music Publications Inc. [For-4-Violins Quartet Album Vol. 1]"
+    ],
+    "publisherText": "Belwin, Inc;Carl Fischer, Inc.;Warner Bros. Music Publications Inc. [For-4-Violins Quartet Album Vol. 1]",
+    "classLevel": 3,
+    "specification": "(CF requires piano accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-3-24476",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "Watchman's Song",
+    "composer": "Grieg",
+    "arranger": "Auer/Saenger",
+    "publishers": [
+      "Carl Fischer, Inc. [Classic Repertoire, Book 5]"
+    ],
+    "publisherText": "Carl Fischer, Inc. [Classic Repertoire, Book 5]",
+    "classLevel": 3,
+    "specification": "(piano opt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-3-24519",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "Bouree",
+    "composer": "Handel",
+    "arranger": "Kuhn",
+    "publishers": [
+      "Belwin, Inc [For-4-Violins Quartet Album Vol. 1]"
+    ],
+    "publisherText": "Belwin, Inc [For-4-Violins Quartet Album Vol. 1]",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-3-24491",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "Air (from The Creation)",
+    "composer": "Haydn",
+    "arranger": "Watters/Pyle",
+    "publishers": [
+      "Mills Music, Inc. [A Book of Violin Quartets]"
+    ],
+    "publisherText": "Mills Music, Inc. [A Book of Violin Quartets]",
+    "classLevel": 3,
+    "specification": "(piano opt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-3-24475",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "Arietta",
+    "composer": "Haydn",
+    "arranger": "Auer/Saenger",
+    "publishers": [
+      "Carl Fischer, Inc. [Classic Repertoire, Book 5]"
+    ],
+    "publisherText": "Carl Fischer, Inc. [Classic Repertoire, Book 5]",
+    "classLevel": 3,
+    "specification": "(piano opt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-3-24510",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "Fairy Tale",
+    "composer": "Komzak",
+    "arranger": "Auer/Saenger",
+    "publishers": [
+      "Carl Fischer, Inc. [Romantic Concert Folio, Book 4]"
+    ],
+    "publisherText": "Carl Fischer, Inc. [Romantic Concert Folio, Book 4]",
+    "classLevel": 3,
+    "specification": "(piano opt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-3-24517",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "Caprice Viennois",
+    "composer": "Kreisler",
+    "arranger": "Auer/Saenger",
+    "publishers": [
+      "Carl Fischer, Inc. [Romantic Concert Folio, Book 4]"
+    ],
+    "publisherText": "Carl Fischer, Inc. [Romantic Concert Folio, Book 4]",
+    "classLevel": 3,
+    "specification": "(piano opt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-3-17249",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "Lullaby Op. 10 No. 1",
+    "composer": "Lachmund",
+    "arranger": "",
+    "publishers": [
+      "Carl Fischer, Inc."
+    ],
+    "publisherText": "Carl Fischer, Inc.",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-3-24531",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "On Wings of Song",
+    "composer": "Mendelssohn",
+    "arranger": "Wettlaufer",
+    "publishers": [
+      "Boosey & Hawkes, Inc. [Fiddlers Four Book 2]"
+    ],
+    "publisherText": "Boosey & Hawkes, Inc. [Fiddlers Four Book 2]",
+    "classLevel": 3,
+    "specification": "(in score form)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-3-24516",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "Play-Time Memories",
+    "composer": "Mendelssohn",
+    "arranger": "Fritsche/Auer/Saenger",
+    "publishers": [
+      "Carl Fischer, Inc. [Romantic Concert Folio, Book 4]"
+    ],
+    "publisherText": "Carl Fischer, Inc. [Romantic Concert Folio, Book 4]",
+    "classLevel": 3,
+    "specification": "(piano opt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-3-24530",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "Theme (from Violin Concerto)",
+    "composer": "Mendelssohn",
+    "arranger": "Wettlaufer",
+    "publishers": [
+      "Boosey & Hawkes, Inc. [Fiddlers Four Book 1]"
+    ],
+    "publisherText": "Boosey & Hawkes, Inc. [Fiddlers Four Book 1]",
+    "classLevel": 3,
+    "specification": "(in score form)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-3-24503",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "Ave Verum",
+    "composer": "Mozart",
+    "arranger": "Auer/Saenger",
+    "publishers": [
+      "Carl Fischer, Inc. [Old Time Songs and Dances, Book 3]"
+    ],
+    "publisherText": "Carl Fischer, Inc. [Old Time Songs and Dances, Book 3]",
+    "classLevel": 3,
+    "specification": "(must also play one additional selection from this collection) (piano opt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-3-24514",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "Intermezzo-Pizzicato",
+    "composer": "Neury",
+    "arranger": "Auer/Saenger",
+    "publishers": [
+      "Carl Fischer, Inc. [Romantic Concert Folio, Book 4]"
+    ],
+    "publisherText": "Carl Fischer, Inc. [Romantic Concert Folio, Book 4]",
+    "classLevel": 3,
+    "specification": "(piano opt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-3-17250",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "Hope March",
+    "composer": "Papini",
+    "arranger": "",
+    "publishers": [
+      "Carl Fischer, Inc."
+    ],
+    "publisherText": "Carl Fischer, Inc.",
+    "classLevel": 3,
+    "specification": "(requires piano accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-3-17251",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "Gavotte (from Harpsichord Suite No. 5)",
+    "composer": "Purcell",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-3-24490",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "In the Market Place",
+    "composer": "Pyle",
+    "arranger": "Watters/Pyle",
+    "publishers": [
+      "Mills Music, Inc. [A Book of Violin Quartets]"
+    ],
+    "publisherText": "Mills Music, Inc. [A Book of Violin Quartets]",
+    "classLevel": 3,
+    "specification": "(piano opt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-3-17252",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "Rigaudon (from Pieces de Clavecin, 1724)",
+    "composer": "Rameau",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-3-24496",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "An Old-Time Minuet",
+    "composer": "Saenger",
+    "arranger": "",
+    "publishers": [
+      "Carl Fischer, Inc. [First Ensemble Folio, Book 1]"
+    ],
+    "publisherText": "Carl Fischer, Inc. [First Ensemble Folio, Book 1]",
+    "classLevel": 3,
+    "specification": "(piano opt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-3-24509",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "Intermezzo Espagnole",
+    "composer": "Saenger",
+    "arranger": "",
+    "publishers": [
+      "Carl Fischer, Inc. [Old Time Songs and Dances, Book 3]"
+    ],
+    "publisherText": "Carl Fischer, Inc. [Old Time Songs and Dances, Book 3]",
+    "classLevel": 3,
+    "specification": "(must also play one additional selection from this collection) (piano opt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-3-24500",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "Little Sleepy Head",
+    "composer": "Saenger",
+    "arranger": "",
+    "publishers": [
+      "Carl Fischer, Inc. [First Ensemble Folio, Book 1]"
+    ],
+    "publisherText": "Carl Fischer, Inc. [First Ensemble Folio, Book 1]",
+    "classLevel": 3,
+    "specification": "(piano opt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-3-24499",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "Mazurka",
+    "composer": "Saenger",
+    "arranger": "",
+    "publishers": [
+      "Carl Fischer, Inc. [First Ensemble Folio, Book 1]"
+    ],
+    "publisherText": "Carl Fischer, Inc. [First Ensemble Folio, Book 1]",
+    "classLevel": 3,
+    "specification": "(piano opt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-3-24495",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "The Little Senorita",
+    "composer": "Saenger",
+    "arranger": "",
+    "publishers": [
+      "Carl Fischer, Inc. [First Ensemble Folio, Book 1]"
+    ],
+    "publisherText": "Carl Fischer, Inc. [First Ensemble Folio, Book 1]",
+    "classLevel": 3,
+    "specification": "(piano opt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-3-24494",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "The Mountain Maid",
+    "composer": "Saenger",
+    "arranger": "",
+    "publishers": [
+      "Carl Fischer, Inc. [First Ensemble Folio, Book 1]"
+    ],
+    "publisherText": "Carl Fischer, Inc. [First Ensemble Folio, Book 1]",
+    "classLevel": 3,
+    "specification": "(piano opt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-3-24505",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "Hunter's Song",
+    "composer": "Schumann",
+    "arranger": "Auer/Saenger",
+    "publishers": [
+      "Carl Fischer, Inc. [Old Time Songs and Dances, Book 3]"
+    ],
+    "publisherText": "Carl Fischer, Inc. [Old Time Songs and Dances, Book 3]",
+    "classLevel": 3,
+    "specification": "(must also play one additional selection from this collection) (piano opt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-3-17253",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "Gavotte Moderne",
+    "composer": "Severn",
+    "arranger": "",
+    "publishers": [
+      "Carl Fischer, Inc."
+    ],
+    "publisherText": "Carl Fischer, Inc.",
+    "classLevel": 3,
+    "specification": "(requires piano accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-3-17254",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "The Swan Boats (from In Central Park)",
+    "composer": "Severn",
+    "arranger": "",
+    "publishers": [
+      "Carl Fischer, Inc."
+    ],
+    "publisherText": "Carl Fischer, Inc.",
+    "classLevel": 3,
+    "specification": "(requires piano accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-3-24520",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "Chanson Triste",
+    "composer": "Tchaikovsky",
+    "arranger": "Kuhn",
+    "publishers": [
+      "Belwin, Inc [For-4-Violins Quartet Album Vol. 1]"
+    ],
+    "publisherText": "Belwin, Inc [For-4-Violins Quartet Album Vol. 1]",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-3-24512",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "March of the Wooden Soldiers",
+    "composer": "Tchaikovsky",
+    "arranger": "Auer/Saenger",
+    "publishers": [
+      "Carl Fischer, Inc. [Romantic Concert Folio, Book 4]"
+    ],
+    "publisherText": "Carl Fischer, Inc. [Romantic Concert Folio, Book 4]",
+    "classLevel": 3,
+    "specification": "(piano opt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-3-24501",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "Morning Prayer",
+    "composer": "Tchaikovsky",
+    "arranger": "Auer/Saenger",
+    "publishers": [
+      "Carl Fischer, Inc. [Old Time Songs and Dances, Book 3]"
+    ],
+    "publisherText": "Carl Fischer, Inc. [Old Time Songs and Dances, Book 3]",
+    "classLevel": 3,
+    "specification": "(must also play one additional selection from this collection) (piano opt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-3-28707",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "English Madrigal Suite I",
+    "composer": "Various",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 3,
+    "specification": "(play one)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-3-24489",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "Evening Song",
+    "composer": "Watters",
+    "arranger": "Watters/Pyle",
+    "publishers": [
+      "Mills Music, Inc. [A Book of Violin Quartets]"
+    ],
+    "publisherText": "Mills Music, Inc. [A Book of Violin Quartets]",
+    "classLevel": 3,
+    "specification": "(piano opt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-3-24493",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "Processional March",
+    "composer": "de Berton",
+    "arranger": "Auer/Saenger",
+    "publishers": [
+      "Carl Fischer, Inc. [First Ensemble Folio, Book 1]"
+    ],
+    "publisherText": "Carl Fischer, Inc. [First Ensemble Folio, Book 1]",
+    "classLevel": 3,
+    "specification": "(piano opt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-3-37602",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "Classical Flex Quartets",
+    "composer": "various",
+    "arranger": "Balent",
+    "publishers": [
+      "Kendor Music, Inc. [Classical FlexQuartets]"
+    ],
+    "publisherText": "Kendor Music, Inc. [Classical FlexQuartets]",
+    "classLevel": 3,
+    "specification": "(play one)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-3-37603",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "Highland/Etling Violin Quartet Series",
+    "composer": "various",
+    "arranger": "Sanfilippo",
+    "publishers": [
+      "Alfred Music Company, Inc. [Highland/Etling Violin Quartet Series Books 1 - 5]"
+    ],
+    "publisherText": "Alfred Music Company, Inc. [Highland/Etling Violin Quartet Series Books 1 - 5]",
+    "classLevel": 3,
+    "specification": "(play one song from a volume)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-3-37604",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "Latham Violin Quartets, Volumes 1 - 4",
+    "composer": "various",
+    "arranger": "Levenson",
+    "publishers": [
+      "Latham Music Enterprises [Latham Violin Quartets, Volumes 1 - 4]"
+    ],
+    "publisherText": "Latham Music Enterprises [Latham Violin Quartets, Volumes 1 - 4]",
+    "classLevel": 3,
+    "specification": "(play one song from a volume)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-2-17214",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "Rendezvous",
+    "composer": "Aletter",
+    "arranger": "Isaac",
+    "publishers": [
+      "Belwin, Inc [Strings in Recital]"
+    ],
+    "publisherText": "Belwin, Inc [Strings in Recital]",
+    "classLevel": 2,
+    "specification": "(requires piano accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-2-24484",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "Two Finnish Folk-Songs",
+    "composer": "Anon. or Trad.",
+    "arranger": "Auer/Saenger",
+    "publishers": [
+      "Carl Fischer, Inc. [Musical Masterpieces, Book 6]"
+    ],
+    "publisherText": "Carl Fischer, Inc. [Musical Masterpieces, Book 6]",
+    "classLevel": 2,
+    "specification": "(piano opt)(POP)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-2-17217",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "Bourree",
+    "composer": "Bach",
+    "arranger": "Isaac",
+    "publishers": [
+      "Belwin, Inc [Strings in Recital]"
+    ],
+    "publisherText": "Belwin, Inc [Strings in Recital]",
+    "classLevel": 2,
+    "specification": "(requires piano accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-2-17218",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "Jesu, Joy of Man's Desiring",
+    "composer": "Bach",
+    "arranger": "Thurston",
+    "publishers": [
+      "Southern Music Company"
+    ],
+    "publisherText": "Southern Music Company",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-2-17219",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "My Heart Ever Faithful",
+    "composer": "Bach",
+    "arranger": "Isaac",
+    "publishers": [
+      "Belwin, Inc [Strings in Recital]"
+    ],
+    "publisherText": "Belwin, Inc [Strings in Recital]",
+    "classLevel": 2,
+    "specification": "(requires piano accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-2-17220",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "Allegretto (from Symphony No. 7)",
+    "composer": "Beethoven",
+    "arranger": "Clemens",
+    "publishers": [
+      "Concord Music Publishing Company"
+    ],
+    "publisherText": "Concord Music Publishing Company",
+    "classLevel": 2,
+    "specification": "(requires piano accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-2-24478",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "Menuet",
+    "composer": "Beethoven",
+    "arranger": "Auer/Saenger",
+    "publishers": [
+      "Carl Fischer, Inc. [Musical Masterpieces, Book 6]"
+    ],
+    "publisherText": "Carl Fischer, Inc. [Musical Masterpieces, Book 6]",
+    "classLevel": 2,
+    "specification": "(piano opt)(POP)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-2-24483",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "Contre-Dances",
+    "composer": "Beethoven/Seiss",
+    "arranger": "Auer/Saenger",
+    "publishers": [
+      "Carl Fischer, Inc. [Musical Masterpieces, Book 6]"
+    ],
+    "publisherText": "Carl Fischer, Inc. [Musical Masterpieces, Book 6]",
+    "classLevel": 2,
+    "specification": "(piano opt)(POP)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-2-17221",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "La Zingana, Danse Hongroise",
+    "composer": "Bohm",
+    "arranger": "Saenger",
+    "publishers": [
+      "Carl Fischer, Inc."
+    ],
+    "publisherText": "Carl Fischer, Inc.",
+    "classLevel": 2,
+    "specification": "(requires piano accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-2-17222",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "Allegretto Grazioso (from Symphony No. 2)",
+    "composer": "Brahms",
+    "arranger": "Clemens",
+    "publishers": [
+      "Concord Music Publishing Company"
+    ],
+    "publisherText": "Concord Music Publishing Company",
+    "classLevel": 2,
+    "specification": "(piano opt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-2-37606",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "Ah! Vous dirai-je, maman!",
+    "composer": "Dancla",
+    "arranger": "",
+    "publishers": [
+      "IMSLP"
+    ],
+    "publisherText": "IMSLP",
+    "classLevel": 2,
+    "specification": "(play Introduction, Theme, & one variation OR Finale plus one variation)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-2-17223",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "Air Varie",
+    "composer": "Dancla",
+    "arranger": "Harris",
+    "publishers": [
+      "Carl Fischer, Inc."
+    ],
+    "publisherText": "Carl Fischer, Inc.",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-2-17224",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "La Spagnola",
+    "composer": "Di Chiara",
+    "arranger": "Isaac",
+    "publishers": [
+      "Belwin, Inc [Strings in Recital]"
+    ],
+    "publisherText": "Belwin, Inc [Strings in Recital]",
+    "classLevel": 2,
+    "specification": "(requires piano accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-2-24479",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "Air Melodieux",
+    "composer": "Dont",
+    "arranger": "Auer/Saenger",
+    "publishers": [
+      "Carl Fischer, Inc. [Musical Masterpieces, Book 6]"
+    ],
+    "publisherText": "Carl Fischer, Inc. [Musical Masterpieces, Book 6]",
+    "classLevel": 2,
+    "specification": "(piano opt)(POP)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-2-17225",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "Larghetto",
+    "composer": "Dont",
+    "arranger": "",
+    "publishers": [
+      "Carl Fischer, Inc."
+    ],
+    "publisherText": "Carl Fischer, Inc.",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-2-17226",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "Erotikon",
+    "composer": "Grieg",
+    "arranger": "Isaac",
+    "publishers": [
+      "Belwin, Inc [Strings in Recital]"
+    ],
+    "publisherText": "Belwin, Inc [Strings in Recital]",
+    "classLevel": 2,
+    "specification": "(requires piano accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-2-17227",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "Norwegian Dance Op. 35 No. 2",
+    "composer": "Grieg",
+    "arranger": "Ambrosio",
+    "publishers": [
+      "Carl Fischer, Inc."
+    ],
+    "publisherText": "Carl Fischer, Inc.",
+    "classLevel": 2,
+    "specification": "(requires piano accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-2-17228",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "Allegro (from Concerto Grosso Op. 3 No. 4)",
+    "composer": "Handel",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-2-17237",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "Finale (from A String Quartet)",
+    "composer": "Haydn",
+    "arranger": "Watters/Pyle",
+    "publishers": [
+      "Mills Music, Inc. [A Book of Violin Quartets]"
+    ],
+    "publisherText": "Mills Music, Inc. [A Book of Violin Quartets]",
+    "classLevel": 2,
+    "specification": "(piano opt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-2-24485",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "Serenade",
+    "composer": "Haydn",
+    "arranger": "Watters/Pyle",
+    "publishers": [
+      "Mills Music, Inc. [A Book of Violin Quartets]"
+    ],
+    "publisherText": "Mills Music, Inc. [A Book of Violin Quartets]",
+    "classLevel": 2,
+    "specification": "(piano opt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-2-17229",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "Gypsy Love Song",
+    "composer": "Herbert",
+    "arranger": "Isaac",
+    "publishers": [
+      "Belwin, Inc [Strings in Recital]"
+    ],
+    "publisherText": "Belwin, Inc [Strings in Recital]",
+    "classLevel": 2,
+    "specification": "(requires piano accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-2-17215",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "A la Gavotte",
+    "composer": "Karganoff",
+    "arranger": "Auer/Saenger",
+    "publishers": [
+      "Carl Fischer, Inc. [Classic Repertoire, Book 5]"
+    ],
+    "publisherText": "Carl Fischer, Inc. [Classic Repertoire, Book 5]",
+    "classLevel": 2,
+    "specification": "(piano opt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-2-17230",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "Gavotte in Rondeau",
+    "composer": "Lully",
+    "arranger": "Post",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-2-37607",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "Ninos Op. 3",
+    "composer": "Masy",
+    "arranger": "",
+    "publishers": [
+      "Jean Eudes Masy"
+    ],
+    "publisherText": "Jean Eudes Masy",
+    "classLevel": 2,
+    "specification": "(play one mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-2-24474",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "Hopak",
+    "composer": "Moussorgsky",
+    "arranger": "Auer/Saenger",
+    "publishers": [
+      "Carl Fischer, Inc. [Classic Repertoire, Book 5]"
+    ],
+    "publisherText": "Carl Fischer, Inc. [Classic Repertoire, Book 5]",
+    "classLevel": 2,
+    "specification": "(piano opt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-2-24486",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "Air (from Don Giovanni)",
+    "composer": "Mozart",
+    "arranger": "Watters/Pyle",
+    "publishers": [
+      "Mills Music, Inc. [A Book of Violin Quartets]"
+    ],
+    "publisherText": "Mills Music, Inc. [A Book of Violin Quartets]",
+    "classLevel": 2,
+    "specification": "(piano opt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-2-17231",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "Allegro Vivace (from Jupiter Symphony)",
+    "composer": "Mozart",
+    "arranger": "Clemens",
+    "publishers": [
+      "Concord Music Publishing Company"
+    ],
+    "publisherText": "Concord Music Publishing Company",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-2-24488",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "March (from The Marriage of Figaro)",
+    "composer": "Mozart",
+    "arranger": "Watters/Pyle",
+    "publishers": [
+      "Mills Music, Inc. [A Book of Violin Quartets]"
+    ],
+    "publisherText": "Mills Music, Inc. [A Book of Violin Quartets]",
+    "classLevel": 2,
+    "specification": "(piano opt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-2-17232",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "Canon",
+    "composer": "Pachelbel",
+    "arranger": "Ephross",
+    "publishers": [
+      "Southern Music Company"
+    ],
+    "publisherText": "Southern Music Company",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-2-17233",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "Gavotte and Hornpipe",
+    "composer": "Purcell",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-2-17036",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "Pavane",
+    "composer": "Ravel",
+    "arranger": "Gearhart/Green",
+    "publishers": [
+      "Shawnee Press [Fiddle Sessions]"
+    ],
+    "publisherText": "Shawnee Press [Fiddle Sessions]",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-2-24473",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "Scherzo",
+    "composer": "Schubert",
+    "arranger": "Auer/Saenger",
+    "publishers": [
+      "Carl Fischer, Inc. [Classic Repertoire, Book 5]"
+    ],
+    "publisherText": "Carl Fischer, Inc. [Classic Repertoire, Book 5]",
+    "classLevel": 2,
+    "specification": "(piano opt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-2-17216",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "Song of Spring",
+    "composer": "Schumann",
+    "arranger": "Auer/Saenger",
+    "publishers": [
+      "Carl Fischer, Inc. [Musical Masterpieces, Book 6]"
+    ],
+    "publisherText": "Carl Fischer, Inc. [Musical Masterpieces, Book 6]",
+    "classLevel": 2,
+    "specification": "(piano opt)(POP)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-2-17234",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "Dreams of Vienna",
+    "composer": "Strauss",
+    "arranger": "Isaac",
+    "publishers": [
+      "Belwin, Inc [Strings in Recital]"
+    ],
+    "publisherText": "Belwin, Inc [Strings in Recital]",
+    "classLevel": 2,
+    "specification": "(requires piano accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-2-17235",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "Concerto in C Major",
+    "composer": "Telemann",
+    "arranger": "Gingold",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 2,
+    "specification": "(play two contrasting mvts)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-2-17236",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "Winter's Willow",
+    "composer": "Vaughan Williams",
+    "arranger": "",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-2-24487",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "Sarabanda Seriosa",
+    "composer": "Vivaldi",
+    "arranger": "Watters/Pyle",
+    "publishers": [
+      "Mills Music, Inc. [A Book of Violin Quartets]"
+    ],
+    "publisherText": "Mills Music, Inc. [A Book of Violin Quartets]",
+    "classLevel": 2,
+    "specification": "(piano opt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-2-24481",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "Pavane and Choral",
+    "composer": "Wachs",
+    "arranger": "Auer/Saenger",
+    "publishers": [
+      "Carl Fischer, Inc. [Musical Masterpieces, Book 6]"
+    ],
+    "publisherText": "Carl Fischer, Inc. [Musical Masterpieces, Book 6]",
+    "classLevel": 2,
+    "specification": "(piano opt)(POP)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-2-24480",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "Romance and Tambourine",
+    "composer": "Weckerlin",
+    "arranger": "Auer/Saenger",
+    "publishers": [
+      "Carl Fischer, Inc. [Musical Masterpieces, Book 6]"
+    ],
+    "publisherText": "Carl Fischer, Inc. [Musical Masterpieces, Book 6]",
+    "classLevel": 2,
+    "specification": "(piano opt)(POP)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-2-24482",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "Gavotte and Musette",
+    "composer": "von Wilm",
+    "arranger": "Auer/Saenger",
+    "publishers": [
+      "Carl Fischer, Inc. [Musical Masterpieces, Book 6]"
+    ],
+    "publisherText": "Carl Fischer, Inc. [Musical Masterpieces, Book 6]",
+    "classLevel": 2,
+    "specification": "(piano opt)(POP)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-1-39635",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "Sonata for 4 Violins",
+    "composer": "Aponte",
+    "arranger": "",
+    "publishers": [
+      "Self-Published Music"
+    ],
+    "publisherText": "Self-Published Music",
+    "classLevel": 1,
+    "specification": "(play mvts 1 & 2 OR 2 & 3)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-1-37598",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "Die 4 Violinisten",
+    "composer": "Bortniansky",
+    "arranger": "",
+    "publishers": [
+      "Heft"
+    ],
+    "publisherText": "Heft",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-1-37605",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "La Reunion Op. 203",
+    "composer": "Dancla",
+    "arranger": "",
+    "publishers": [
+      "IMSLP"
+    ],
+    "publisherText": "IMSLP",
+    "classLevel": 1,
+    "specification": "(play one mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-1-17209",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "Three Pieces Op. 178",
+    "composer": "Dancla",
+    "arranger": "Saenger",
+    "publishers": [
+      "Carl Fischer, Inc."
+    ],
+    "publisherText": "Carl Fischer, Inc.",
+    "classLevel": 1,
+    "specification": "(play one)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-1-37599",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "Consort No. 1",
+    "composer": "Derecskei",
+    "arranger": "",
+    "publishers": [
+      "Andras Derecskei"
+    ],
+    "publisherText": "Andras Derecskei",
+    "classLevel": 1,
+    "specification": "(play 1st OR 4th mvt. PLUS one more)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-1-24472",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "Morning Mood (from Peer Gynt Suite)",
+    "composer": "Grieg",
+    "arranger": "Auer/Saenger",
+    "publishers": [
+      "Carl Fischer, Inc. [Musical Masterpieces, Book 6]"
+    ],
+    "publisherText": "Carl Fischer, Inc. [Musical Masterpieces, Book 6]",
+    "classLevel": 1,
+    "specification": "(piano opt)(POP)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-1-37600",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "Violin Quartet Op. 98",
+    "composer": "Hofmann",
+    "arranger": "",
+    "publishers": [
+      "Fountayne Editions"
+    ],
+    "publisherText": "Fountayne Editions",
+    "classLevel": 1,
+    "specification": "(play 1st mvt PLUS one more)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-1-17208",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "Minuet and Gavotte (from Pagliacci)",
+    "composer": "Leoncavallo",
+    "arranger": "Auer/Saenger",
+    "publishers": [
+      "Carl Fischer, Inc. [Musical Masterpieces, Book 6]"
+    ],
+    "publisherText": "Carl Fischer, Inc. [Musical Masterpieces, Book 6]",
+    "classLevel": 1,
+    "specification": "(piano opt)(POP)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-1-37601",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "Suite for 4 Violins Op. 58",
+    "composer": "Sochting",
+    "arranger": "",
+    "publishers": [
+      "Arthur P. Schmidt"
+    ],
+    "publisherText": "Arthur P. Schmidt",
+    "classLevel": 1,
+    "specification": "(play 1st OR 4th mvt. PLUS one more)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-1-37597",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "Berceuse",
+    "composer": "Stravinsky",
+    "arranger": "Gearhart & Green",
+    "publishers": [
+      "Shawnee Press"
+    ],
+    "publisherText": "Shawnee Press",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-1-17210",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "Concerto in D for 4 Violins",
+    "composer": "Telemann",
+    "arranger": "Engel",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(play 2 contrasting mvts)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-1-17211",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "Concerto in G for 4 Violins",
+    "composer": "Telemann",
+    "arranger": "",
+    "publishers": [
+      "Amadeus Verlag"
+    ],
+    "publisherText": "Amadeus Verlag",
+    "classLevel": 1,
+    "specification": "(play 2 contrasting mvts)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-1-17213",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "Concerto in Bb",
+    "composer": "Vivaldi",
+    "arranger": "Ochlewski",
+    "publishers": [
+      "Polish Music Publications"
+    ],
+    "publisherText": "Polish Music Publications",
+    "classLevel": 1,
+    "specification": "(play first or last mvt) (requires piano accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "441-1-17212",
+    "instrumentSlug": "violin-quartets",
+    "instrumentName": "Violin Quartets",
+    "eventName": "Violin Quartets",
+    "title": "Concerto in b minor for 4 Violins",
+    "composer": "Vivaldi",
+    "arranger": "Bouvet/Gingold",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(play mvt 1 or 3) (requires piano accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  }
+]

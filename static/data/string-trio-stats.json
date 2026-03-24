@@ -1,0 +1,22 @@
+{
+  "schoolYear": "2025-2026",
+  "instrumentSlug": "string-trio",
+  "instrumentName": "String Trios",
+  "songCount": 82,
+  "publisherCount": 85,
+  "noteCount": 1,
+  "databaseRecordCount": 83,
+  "classBreakdown": {
+    "3": 17,
+    "2": 39,
+    "1": 26
+  },
+  "noMemoryRequiredCount": 0,
+  "publicDomainPdfCount": 0,
+  "eventBreakdown": {
+    "String Trio": 82
+  },
+  "notes": {
+    "dataset_audit": "Sourced from https://www.uiltexas.org/pml/ and https://www.uiltexas.org/pml/pml.php. Imported 2026-03-24T22:13:49.480357+00:00."
+  }
+}

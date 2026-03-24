@@ -1,0 +1,4721 @@
+[
+  {
+    "uilCode": "179-3-27456",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Dindirin, dindirin",
+    "composer": "Anon. or Trad.",
+    "arranger": "Bartlett",
+    "publishers": [
+      "Faber Music, Ltd. [The King's Singers' Madrigals, Volume 1]",
+      "Hal Leonard Music, Inc. [The King's Singers European Renaissance]",
+      "Oxford University Press [Madrigals and Partsongs]"
+    ],
+    "publisherText": "Faber Music, Ltd. [The King's Singers' Madrigals, Volume 1];Hal Leonard Music, Inc. [The King's Singers European Renaissance];Oxford University Press [Madrigals and Partsongs]",
+    "classLevel": 3,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-3-20937",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "How Merrily We Live",
+    "composer": "Anon. or Trad.",
+    "arranger": "Moore",
+    "publishers": [
+      "Hal Leonard Music, Inc."
+    ],
+    "publisherText": "Hal Leonard Music, Inc.",
+    "classLevel": 3,
+    "specification": "(SAB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-3-27458",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Otro tal misacantano",
+    "composer": "Anon. or Trad.",
+    "arranger": "King's Singers",
+    "publishers": [
+      "Hal Leonard Music, Inc. [The King's Singers European Renaissance]"
+    ],
+    "publisherText": "Hal Leonard Music, Inc. [The King's Singers European Renaissance]",
+    "classLevel": 3,
+    "specification": "(SAB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-3-27459",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Vitrum nostrum gloriosum",
+    "composer": "Anon. or Trad.",
+    "arranger": "Bartlett",
+    "publishers": [
+      "Faber Music, Ltd. [The King's Singers' Madrigals, Volume 1]"
+    ],
+    "publisherText": "Faber Music, Ltd. [The King's Singers' Madrigals, Volume 1]",
+    "classLevel": 3,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-3-27460",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Wir zogen in das Feld",
+    "composer": "Anon. or Trad.",
+    "arranger": "Bartlett",
+    "publishers": [
+      "Faber Music, Ltd. [The King's Singers' Madrigals, Volume 1]"
+    ],
+    "publisherText": "Faber Music, Ltd. [The King's Singers' Madrigals, Volume 1]",
+    "classLevel": 3,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-3-20895",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Now Spring In All Her Glory",
+    "composer": "Arkadelt",
+    "arranger": "",
+    "publishers": [
+      "Belwin, Inc [Six Easy Madrigals]",
+      "Warner Bros. Music Publications Inc.",
+      "Mills Music, Inc."
+    ],
+    "publisherText": "Belwin, Inc [Six Easy Madrigals];Warner Bros. Music Publications Inc.;Mills Music, Inc.",
+    "classLevel": 3,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-3-27461",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Of All The Birds That I Do Know",
+    "composer": "Bartlet",
+    "arranger": "Bartlett",
+    "publishers": [
+      "Faber Music, Ltd. [The King's Singers' Madrigals, Volume 1]",
+      "Oxford University Press [Madrigals and Partsongs]"
+    ],
+    "publisherText": "Faber Music, Ltd. [The King's Singers' Madrigals, Volume 1];Oxford University Press [Madrigals and Partsongs]",
+    "classLevel": 3,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-3-20896",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Your Shining Eyes",
+    "composer": "Bateson",
+    "arranger": "",
+    "publishers": [
+      "Galaxy Music Corporation [Invitation to Madrigals, Book 1]"
+    ],
+    "publisherText": "Galaxy Music Corporation [Invitation to Madrigals, Book 1]",
+    "classLevel": 3,
+    "specification": "(SAB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-3-20898",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "While the Bright Sun",
+    "composer": "Byrd",
+    "arranger": "",
+    "publishers": [
+      "Belwin, Inc [Six Easy Madrigals]",
+      "Warner Bros. Music Publications Inc.",
+      "Mills Music, Inc."
+    ],
+    "publisherText": "Belwin, Inc [Six Easy Madrigals];Warner Bros. Music Publications Inc.;Mills Music, Inc.",
+    "classLevel": 3,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-3-20899",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Non e Tempo",
+    "composer": "Cara",
+    "arranger": "",
+    "publishers": [
+      "European American"
+    ],
+    "publisherText": "European American",
+    "classLevel": 3,
+    "specification": "(SATB) (English or Italian) (sing one verse)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-3-20900",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Dear Love, Be Not Unkind",
+    "composer": "Dering",
+    "arranger": "",
+    "publishers": [
+      "Galaxy Music Corporation [Invitation to Madrigals, Book 2]"
+    ],
+    "publisherText": "Galaxy Music Corporation [Invitation to Madrigals, Book 2]",
+    "classLevel": 3,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-3-20913",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Fine Knacks for Ladies",
+    "composer": "Dowland",
+    "arranger": "McCray",
+    "publishers": [
+      "Faber Music, Ltd. [The King's Singers' Madrigals, Volume 1]",
+      "Galaxy Music Corporation [Garland of Dowland, A]",
+      "Stainer & Bell"
+    ],
+    "publisherText": "Faber Music, Ltd. [The King's Singers' Madrigals, Volume 1];Galaxy Music Corporation [Garland of Dowland, A];Stainer & Bell",
+    "classLevel": 3,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-3-20918",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Wilt Thou Unkind",
+    "composer": "Dowland",
+    "arranger": "",
+    "publishers": [
+      "Galaxy Music Corporation [Invitation to Madrigals, Book 2]"
+    ],
+    "publisherText": "Galaxy Music Corporation [Invitation to Madrigals, Book 2]",
+    "classLevel": 3,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-3-20920",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Follow Me, Sweet Love",
+    "composer": "East",
+    "arranger": "",
+    "publishers": [
+      "Galaxy Music Corporation [Invitation to Madrigals, Book 1]"
+    ],
+    "publisherText": "Galaxy Music Corporation [Invitation to Madrigals, Book 1]",
+    "classLevel": 3,
+    "specification": "(SAB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-3-20922",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Since First I Saw Your Face",
+    "composer": "Ford",
+    "arranger": "",
+    "publishers": [
+      "Galaxy Music Corporation [Invitation to Madrigals, Book 2]",
+      "Belwin, Inc",
+      "Warner Bros. Music Publications Inc. [Six Easy Madrigals]",
+      "Oxford University Press [Madrigals and Partsongs]"
+    ],
+    "publisherText": "Galaxy Music Corporation [Invitation to Madrigals, Book 2];Belwin, Inc;Warner Bros. Music Publications Inc. [Six Easy Madrigals];Oxford University Press [Madrigals and Partsongs]",
+    "classLevel": 3,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-3-20924",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Kommt, ihr G'Spielen",
+    "composer": "Franck",
+    "arranger": "",
+    "publishers": [
+      "J&W Chester, Ltd. [Chester Book of Madrigals, The, Book 4 (The Seasons)]"
+    ],
+    "publisherText": "J&W Chester, Ltd. [Chester Book of Madrigals, The, Book 4 (The Seasons)]",
+    "classLevel": 3,
+    "specification": "(SATB) (German)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-3-20928",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "15 Balletti, Set III",
+    "composer": "Gastoldi",
+    "arranger": "",
+    "publishers": [
+      "C.F. Peters Corporation",
+      "Boosey & Hawkes, Inc."
+    ],
+    "publisherText": "C.F. Peters Corporation;Boosey & Hawkes, Inc.",
+    "classLevel": 3,
+    "specification": "(SSATB) (Italian) (sing one)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-3-20925",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Amor vittorioso",
+    "composer": "Gastoldi",
+    "arranger": "Leininger",
+    "publishers": [
+      "G. Schirmer, Inc. [European Madrigals]",
+      "Alliance Music Publications"
+    ],
+    "publisherText": "G. Schirmer, Inc. [European Madrigals];Alliance Music Publications",
+    "classLevel": 3,
+    "specification": "(SSATB) (Italian)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-3-20930",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "This Sweet and Lovely Siren",
+    "composer": "Gastoldi",
+    "arranger": "Greyson",
+    "publishers": [
+      "Bourne, Co."
+    ],
+    "publisherText": "Bourne, Co.",
+    "classLevel": 3,
+    "specification": "(SSATB) (English or Italian)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-3-20931",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Vezzosette Ninfe",
+    "composer": "Gastoldi",
+    "arranger": "",
+    "publishers": [
+      "G. Schirmer, Inc. [European Madrigals]"
+    ],
+    "publisherText": "G. Schirmer, Inc. [European Madrigals]",
+    "classLevel": 3,
+    "specification": "(SSATB) (Italian)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-3-27465",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Drop, Drop, Slow Tears",
+    "composer": "Gibbons",
+    "arranger": "King's Singers",
+    "publishers": [
+      "Hal Leonard Music, Inc. [King's Singers English Renaissance Vol 1]"
+    ],
+    "publisherText": "Hal Leonard Music, Inc. [King's Singers English Renaissance Vol 1]",
+    "classLevel": 3,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-3-20932",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Sail the Waters, Beautiful Julieta",
+    "composer": "Haberlen",
+    "arranger": "",
+    "publishers": [
+      "Neil A. Kjos Music Company"
+    ],
+    "publisherText": "Neil A. Kjos Music Company",
+    "classLevel": 3,
+    "specification": "(SATB) (English or French)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-3-20933",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "With Love My Heart is Ringing",
+    "composer": "Hassler",
+    "arranger": "",
+    "publishers": [
+      "Carl Fischer, Inc."
+    ],
+    "publisherText": "Carl Fischer, Inc.",
+    "classLevel": 3,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-3-34236",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Tenebrae factae sunt",
+    "composer": "Haydn",
+    "arranger": "ed. Gibb",
+    "publishers": [
+      "CPDL"
+    ],
+    "publisherText": "CPDL",
+    "classLevel": 3,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-3-20934",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Farewell, Dear Love",
+    "composer": "Jones",
+    "arranger": "",
+    "publishers": [
+      "Galaxy Music Corporation [Invitation to Madrigals, Book 2]"
+    ],
+    "publisherText": "Galaxy Music Corporation [Invitation to Madrigals, Book 2]",
+    "classLevel": 3,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-3-34234",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Alleluia Madrigal",
+    "composer": "Moore",
+    "arranger": "",
+    "publishers": [
+      "Alfred Music Company, Inc."
+    ],
+    "publisherText": "Alfred Music Company, Inc.",
+    "classLevel": 3,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-3-20938",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "O Fly Not Love",
+    "composer": "Morley",
+    "arranger": "",
+    "publishers": [
+      "Galaxy Music Corporation [Invitation to Madrigals, Book 1]"
+    ],
+    "publisherText": "Galaxy Music Corporation [Invitation to Madrigals, Book 1]",
+    "classLevel": 3,
+    "specification": "(SAB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-3-20939",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Sing We and Chant It",
+    "composer": "Morley",
+    "arranger": "Robinson",
+    "publishers": [
+      "Alfred Music Company, Inc."
+    ],
+    "publisherText": "Alfred Music Company, Inc.",
+    "classLevel": 3,
+    "specification": "(SAB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-3-20940",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Springtime Mantleth Every Bough",
+    "composer": "Morley",
+    "arranger": "",
+    "publishers": [
+      "Galaxy Music Corporation [Invitation to Madrigals, Book 1]"
+    ],
+    "publisherText": "Galaxy Music Corporation [Invitation to Madrigals, Book 1]",
+    "classLevel": 3,
+    "specification": "(SAB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-3-27466",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "On This Day Join The Singing",
+    "composer": "Nanino",
+    "arranger": "Liebergen",
+    "publishers": [
+      "BriLee Music"
+    ],
+    "publisherText": "BriLee Music",
+    "classLevel": 3,
+    "specification": "(SAB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-3-20944",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "In These Delightful Pleasant Groves",
+    "composer": "Purcell",
+    "arranger": "Robinson",
+    "publishers": [
+      "Alfred Music Company, Inc."
+    ],
+    "publisherText": "Alfred Music Company, Inc.",
+    "classLevel": 3,
+    "specification": "(SATB or SAB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-3-27467",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "The Three Ravens",
+    "composer": "Ravenscroft",
+    "arranger": "King's Singers",
+    "publishers": [
+      "Hal Leonard Music, Inc. [king'singers English Renaissance, Volume 1]"
+    ],
+    "publisherText": "Hal Leonard Music, Inc. [king'singers English Renaissance, Volume 1]",
+    "classLevel": 3,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-3-20949",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Fa Una Canzona",
+    "composer": "Vecchi",
+    "arranger": "Greyson",
+    "publishers": [
+      "Bourne, Co."
+    ],
+    "publisherText": "Bourne, Co.",
+    "classLevel": 3,
+    "specification": "(SATB) (Italian)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-3-20950",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "So Well I Know Who's Happy",
+    "composer": "Vecchi",
+    "arranger": "",
+    "publishers": [
+      "E.C. Schirmer Music Company [A Cappella Singer, The]"
+    ],
+    "publisherText": "E.C. Schirmer Music Company [A Cappella Singer, The]",
+    "classLevel": 3,
+    "specification": "(SATB) (also published separately)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-3-20951",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Five Madrigals for Three Voices",
+    "composer": "Weelkes",
+    "arranger": "",
+    "publishers": [
+      "Broude Brothers [Five Madrigals for Three Voices]"
+    ],
+    "publisherText": "Broude Brothers [Five Madrigals for Three Voices]",
+    "classLevel": 3,
+    "specification": "(SSB or SAB) (sing one madrigal)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-3-20952",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "In Pride of May",
+    "composer": "Weelkes",
+    "arranger": "",
+    "publishers": [
+      "G. Schirmer, Inc. [European Madrigals]"
+    ],
+    "publisherText": "G. Schirmer, Inc. [European Madrigals]",
+    "classLevel": 3,
+    "specification": "(SSATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-3-20954",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Though My Carriage Be But Careless",
+    "composer": "Weelkes",
+    "arranger": "",
+    "publishers": [
+      "Galaxy Music Corporation [Invitation to Madrigals, Book 1]"
+    ],
+    "publisherText": "Galaxy Music Corporation [Invitation to Madrigals, Book 1]",
+    "classLevel": 3,
+    "specification": "(SAB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-3-20955",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Tomorrow is the Marriage Day",
+    "composer": "Weelkes",
+    "arranger": "",
+    "publishers": [
+      "Galaxy Music Corporation [Invitation to Madrigals, Book 1]"
+    ],
+    "publisherText": "Galaxy Music Corporation [Invitation to Madrigals, Book 1]",
+    "classLevel": 3,
+    "specification": "(SAB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-3-20956",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "I Have Ere This Time",
+    "composer": "Whythorne",
+    "arranger": "",
+    "publishers": [
+      "Galaxy Music Corporation [Invitation to Madrigals, Book 2]"
+    ],
+    "publisherText": "Galaxy Music Corporation [Invitation to Madrigals, Book 2]",
+    "classLevel": 3,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-3-20957",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "He Who Hath Joy in Music",
+    "composer": "Widmann",
+    "arranger": "Greyson",
+    "publishers": [
+      "Bourne, Co."
+    ],
+    "publisherText": "Bourne, Co.",
+    "classLevel": 3,
+    "specification": "(SATB) (English or German)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-3-20958",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "O Music, Loveliest Art",
+    "composer": "Widmann",
+    "arranger": "",
+    "publishers": [
+      "Carl Fischer, Inc."
+    ],
+    "publisherText": "Carl Fischer, Inc.",
+    "classLevel": 3,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-3-20959",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Lady, When I Behold The Roses",
+    "composer": "Wilbye",
+    "arranger": "",
+    "publishers": [
+      "National Music Publishers, Inc."
+    ],
+    "publisherText": "National Music Publishers, Inc.",
+    "classLevel": 3,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-3-20960",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Ye Restless Thoughts",
+    "composer": "Wilbye",
+    "arranger": "",
+    "publishers": [
+      "Galaxy Music Corporation [Invitation to Madrigals, Book 1]"
+    ],
+    "publisherText": "Galaxy Music Corporation [Invitation to Madrigals, Book 1]",
+    "classLevel": 3,
+    "specification": "(SAB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-3-27462",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Cucu, cucu!",
+    "composer": "del Encina",
+    "arranger": "Bartlett",
+    "publishers": [
+      "Faber Music, Ltd. [The King's Singers' Madrigals,Volume 1]"
+    ],
+    "publisherText": "Faber Music, Ltd. [The King's Singers' Madrigals,Volume 1]",
+    "classLevel": 3,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-3-27463",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Fatal la parte",
+    "composer": "del Encina",
+    "arranger": "Bartlett",
+    "publishers": [
+      "Faber Music, Ltd. [The King's Singers' Madrigals,Volume 1]"
+    ],
+    "publisherText": "Faber Music, Ltd. [The King's Singers' Madrigals,Volume 1]",
+    "classLevel": 3,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-3-20902",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Ah, Could My Eyes Behold Thee",
+    "composer": "di Lasso",
+    "arranger": "",
+    "publishers": [
+      "E.C. Schirmer Music Company [A Cappella Singer, The]"
+    ],
+    "publisherText": "E.C. Schirmer Music Company [A Cappella Singer, The]",
+    "classLevel": 3,
+    "specification": "(SATB) (English or Italian) (also published separately)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-3-34235",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Du fond de ma pensee",
+    "composer": "di Lasso",
+    "arranger": "ed. Imre",
+    "publishers": [
+      "CPDL"
+    ],
+    "publisherText": "CPDL",
+    "classLevel": 3,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-3-20906",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "O Bella Fusa",
+    "composer": "di Lasso",
+    "arranger": "Klein",
+    "publishers": [
+      "G. Schirmer, Inc."
+    ],
+    "publisherText": "G. Schirmer, Inc.",
+    "classLevel": 3,
+    "specification": "(SATB) (Italian)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-3-23783",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "O Eyes Of My Beloved",
+    "composer": "di Lasso",
+    "arranger": "",
+    "publishers": [
+      "E.C. Schirmer Music Company [A Cappella Singer, The]"
+    ],
+    "publisherText": "E.C. Schirmer Music Company [A Cappella Singer, The]",
+    "classLevel": 3,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-3-20908",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "S'io fusse ciaul",
+    "composer": "di Lasso",
+    "arranger": "Klein",
+    "publishers": [
+      "G. Schirmer, Inc."
+    ],
+    "publisherText": "G. Schirmer, Inc.",
+    "classLevel": 3,
+    "specification": "(SATB) (Italian)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-3-20909",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Tutto lo di mi dici, canta",
+    "composer": "di Lasso",
+    "arranger": "Klein",
+    "publishers": [
+      "G. Schirmer, Inc."
+    ],
+    "publisherText": "G. Schirmer, Inc.",
+    "classLevel": 3,
+    "specification": "(SATB) (Italian)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-2-20798",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "In Memory of Alexander",
+    "composer": "Anchieta",
+    "arranger": "",
+    "publishers": [
+      "Harold Flammer, Inc. [Renaissance to Baroque, Vol. 5]",
+      "Shawnee Press"
+    ],
+    "publisherText": "Harold Flammer, Inc. [Renaissance to Baroque, Vol. 5];Shawnee Press",
+    "classLevel": 2,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-2-27435",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Alla cazza",
+    "composer": "Anon. or Trad.",
+    "arranger": "Bartlett",
+    "publishers": [
+      "Faber Music, Ltd. [The King's Singers' Madrigals, Volume 1]"
+    ],
+    "publisherText": "Faber Music, Ltd. [The King's Singers' Madrigals, Volume 1]",
+    "classLevel": 2,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-2-20799",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Pase El Agoa, Ma Julieta",
+    "composer": "Anon. or Trad.",
+    "arranger": "",
+    "publishers": [
+      "J&W Chester, Ltd. [Chester Book of Madrigals, The, Book 3 (Desirable Women)]"
+    ],
+    "publisherText": "J&W Chester, Ltd. [Chester Book of Madrigals, The, Book 3 (Desirable Women)]",
+    "classLevel": 2,
+    "specification": "(SATB) (Spanish)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-2-34230",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Ay! Linda Amiga",
+    "composer": "Anonymous",
+    "arranger": "ed. Leininger",
+    "publishers": [
+      "Alliance Music Publications"
+    ],
+    "publisherText": "Alliance Music Publications",
+    "classLevel": 2,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-2-20801",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Phyllis, Farewell",
+    "composer": "Bateson",
+    "arranger": "",
+    "publishers": [
+      "Galaxy Music Corporation [Invitation to Madrigals, Book Two]",
+      "Penguin Books"
+    ],
+    "publisherText": "Galaxy Music Corporation [Invitation to Madrigals, Book Two];Penguin Books",
+    "classLevel": 2,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-2-27436",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "O Sleep, Fond Fancy",
+    "composer": "Bennet",
+    "arranger": "Greyson",
+    "publishers": [
+      "Bourne, Co."
+    ],
+    "publisherText": "Bourne, Co.",
+    "classLevel": 2,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-2-20803",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "The Elves' Dance",
+    "composer": "Bennet",
+    "arranger": "",
+    "publishers": [
+      "J&W Chester, Ltd. [Chester Book of Madrigals, The, Book 5 (Singing and Dancing)]"
+    ],
+    "publisherText": "J&W Chester, Ltd. [Chester Book of Madrigals, The, Book 5 (Singing and Dancing)]",
+    "classLevel": 2,
+    "specification": "(SSAB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-2-20804",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Eyes So Clear, So Calm, So Tender",
+    "composer": "Brudieu",
+    "arranger": "",
+    "publishers": [
+      "Harold Flammer, Inc. [Renaissance to Baroque, Vol. 5]",
+      "Shawnee Press"
+    ],
+    "publisherText": "Harold Flammer, Inc. [Renaissance to Baroque, Vol. 5];Shawnee Press",
+    "classLevel": 2,
+    "specification": "(SSAT)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-2-20805",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Upon a Summer's Day",
+    "composer": "Byrd",
+    "arranger": "",
+    "publishers": [
+      "Galaxy Music Corporation [Invitation to Madrigals, Book One]"
+    ],
+    "publisherText": "Galaxy Music Corporation [Invitation to Madrigals, Book One]",
+    "classLevel": 2,
+    "specification": "(SAB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-2-20806",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Wounded I Am",
+    "composer": "Byrd",
+    "arranger": "",
+    "publishers": [
+      "Galaxy Music Corporation [Invitation to Madrigals, Book Two]"
+    ],
+    "publisherText": "Galaxy Music Corporation [Invitation to Madrigals, Book Two]",
+    "classLevel": 2,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-2-20807",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Mentre il Cuculo",
+    "composer": "Caimo",
+    "arranger": "Swann",
+    "publishers": [
+      "Plymouth Music Company"
+    ],
+    "publisherText": "Plymouth Music Company",
+    "classLevel": 2,
+    "specification": "(SATB) (Italian)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-2-20808",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Ie Ne I'o Se Dire",
+    "composer": "Certon",
+    "arranger": "Greyson",
+    "publishers": [
+      "Bourne, Co."
+    ],
+    "publisherText": "Bourne, Co.",
+    "classLevel": 2,
+    "specification": "(SATB) (French)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-2-20809",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Je Le Vous Dirai!",
+    "composer": "Certon",
+    "arranger": "Leavitt",
+    "publishers": [
+      "Hal Leonard Music, Inc."
+    ],
+    "publisherText": "Hal Leonard Music, Inc.",
+    "classLevel": 2,
+    "specification": "(SATB) (French)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-2-20810",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Je Ne L'ose Dire (La la la, je ne l'ose dire)",
+    "composer": "Certon",
+    "arranger": "",
+    "publishers": [
+      "Faber Music, Ltd. [The King's Singers' Madrigals, Volume 1]",
+      "Hal Leonard Music, Inc. [The King's Singers European Renaissance]"
+    ],
+    "publisherText": "Faber Music, Ltd. [The King's Singers' Madrigals, Volume 1];Hal Leonard Music, Inc. [The King's Singers European Renaissance]",
+    "classLevel": 2,
+    "specification": "(SATB) (French)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-2-27439",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Parmi di star",
+    "composer": "Cornet",
+    "arranger": "King's Singers",
+    "publishers": [
+      "Hal Leonard Music, Inc. [The King's Singers European Renaissance]"
+    ],
+    "publisherText": "Hal Leonard Music, Inc. [The King's Singers European Renaissance]",
+    "classLevel": 2,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-2-20819",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "All Ye Who Music Love",
+    "composer": "Donato",
+    "arranger": "",
+    "publishers": [
+      "Belwin, Inc",
+      "Mills Music, Inc. [Six Easy Madrigals]"
+    ],
+    "publisherText": "Belwin, Inc;Mills Music, Inc. [Six Easy Madrigals]",
+    "classLevel": 2,
+    "specification": "(SATB or SAB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-2-20820",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Chi La Gagliardo",
+    "composer": "Donato",
+    "arranger": "Klein",
+    "publishers": [
+      "G. Schirmer, Inc."
+    ],
+    "publisherText": "G. Schirmer, Inc.",
+    "classLevel": 2,
+    "specification": "(SATB) (Italian)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-2-31624",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Come, Heavy Sleep",
+    "composer": "Dowland",
+    "arranger": "Bartlett",
+    "publishers": [
+      "Oxford University Press [Madrigals and Partsongs]"
+    ],
+    "publisherText": "Oxford University Press [Madrigals and Partsongs]",
+    "classLevel": 2,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-2-20822",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Say Love",
+    "composer": "Dowland",
+    "arranger": "McCray",
+    "publishers": [
+      "Shawnee Press"
+    ],
+    "publisherText": "Shawnee Press",
+    "classLevel": 2,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-2-20823",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Weep You No More, Sad Fountains",
+    "composer": "Dowland",
+    "arranger": "",
+    "publishers": [
+      "Harold Flammer, Inc. [Renaissance to Baroque, Vol. 3]",
+      "Oxford University Press [Madrigals and Partsongs]",
+      "Shawnee Press"
+    ],
+    "publisherText": "Harold Flammer, Inc. [Renaissance to Baroque, Vol. 3];Oxford University Press [Madrigals and Partsongs];Shawnee Press",
+    "classLevel": 2,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-2-20824",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Mas Vale Trocar",
+    "composer": "Encina",
+    "arranger": "",
+    "publishers": [
+      "J&W Chester, Ltd. [Chester Book of Madrigals, The, Book 2 (Love and Marriage)]"
+    ],
+    "publisherText": "J&W Chester, Ltd. [Chester Book of Madrigals, The, Book 2 (Love and Marriage)]",
+    "classLevel": 2,
+    "specification": "(SATB) (Spanish)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-2-20825",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "My Best Beloved, He Loves Thee",
+    "composer": "Enrrique",
+    "arranger": "",
+    "publishers": [
+      "Harold Flammer, Inc. [Renaissance to Baroque, Vol. 5]",
+      "Shawnee Press"
+    ],
+    "publisherText": "Harold Flammer, Inc. [Renaissance to Baroque, Vol. 5];Shawnee Press",
+    "classLevel": 2,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-2-20826",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Clamabat Autem Mulier",
+    "composer": "Escobar",
+    "arranger": "",
+    "publishers": [
+      "Harold Flammer, Inc. [Renaissance to Baroque, Vol. 5]",
+      "Shawnee Press"
+    ],
+    "publisherText": "Harold Flammer, Inc. [Renaissance to Baroque, Vol. 5];Shawnee Press",
+    "classLevel": 2,
+    "specification": "(SATB) (Latin)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-2-20827",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Say Not Farewell",
+    "composer": "Escobar",
+    "arranger": "Knight",
+    "publishers": [
+      "Carl Fischer, Inc."
+    ],
+    "publisherText": "Carl Fischer, Inc.",
+    "classLevel": 2,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-2-20828",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Pearce Did Dance",
+    "composer": "Farnaby",
+    "arranger": "",
+    "publishers": [
+      "Galaxy Music Corporation [Invitation to Madrigals, Book Two]"
+    ],
+    "publisherText": "Galaxy Music Corporation [Invitation to Madrigals, Book Two]",
+    "classLevel": 2,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-2-27443",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Amor vittorioso (Tutti venite armati)",
+    "composer": "Gastoldi",
+    "arranger": "Bartlett",
+    "publishers": [
+      "Faber Music, Ltd. [The King's Singers' Madrigals, Volume 2]"
+    ],
+    "publisherText": "Faber Music, Ltd. [The King's Singers' Madrigals, Volume 2]",
+    "classLevel": 2,
+    "specification": "(SSATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-2-20829",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Il ballerino",
+    "composer": "Gastoldi",
+    "arranger": "",
+    "publishers": [
+      "J&W Chester, Ltd. [Chester Book of Madrigals, The, Book 5 (Singing and Dancing)]"
+    ],
+    "publisherText": "J&W Chester, Ltd. [Chester Book of Madrigals, The, Book 5 (Singing and Dancing)]",
+    "classLevel": 2,
+    "specification": "(SSB, SSA or TTB) (Italian)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-2-20830",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Green and Flowery Meadow",
+    "composer": "Guerrero",
+    "arranger": "",
+    "publishers": [
+      "Harold Flammer, Inc. [Renaissance to Baroque, Vol. 5]",
+      "Shawnee Press"
+    ],
+    "publisherText": "Harold Flammer, Inc. [Renaissance to Baroque, Vol. 5];Shawnee Press",
+    "classLevel": 2,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-2-27444",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Ach, weh des Leiden",
+    "composer": "Hassler",
+    "arranger": "Bartlett",
+    "publishers": [
+      "Faber Music, Ltd. [The King's Singers' Madrigals, Volume 2]",
+      "Oxford University Press [Madrigals and Partsongs]"
+    ],
+    "publisherText": "Faber Music, Ltd. [The King's Singers' Madrigals, Volume 2];Oxford University Press [Madrigals and Partsongs]",
+    "classLevel": 2,
+    "specification": "(SSATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-2-20833",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Fair Maid, Thy Charm and Loveliness",
+    "composer": "Hassler",
+    "arranger": "Greyson",
+    "publishers": [
+      "Bourne, Co."
+    ],
+    "publisherText": "Bourne, Co.",
+    "classLevel": 2,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-2-20835",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Farewell, My Love",
+    "composer": "Hirt",
+    "arranger": "",
+    "publishers": [
+      "Carl Fischer, Inc."
+    ],
+    "publisherText": "Carl Fischer, Inc.",
+    "classLevel": 2,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-2-27445",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Innsbruck, ich mus dich lassen",
+    "composer": "Isaac",
+    "arranger": "King's Singers",
+    "publishers": [
+      "Hal Leonard Music, Inc. [The King's Singers European Renaissance]"
+    ],
+    "publisherText": "Hal Leonard Music, Inc. [The King's Singers European Renaissance]",
+    "classLevel": 2,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-2-20836",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Ce Moys de May",
+    "composer": "Janequin",
+    "arranger": "Contino",
+    "publishers": [
+      "G. Schirmer, Inc. [European Madrigals]",
+      "Roger Dean Publishing Company",
+      "Lorenz Corporation"
+    ],
+    "publisherText": "G. Schirmer, Inc. [European Madrigals];Roger Dean Publishing Company;Lorenz Corporation",
+    "classLevel": 2,
+    "specification": "(SATB) (French)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-2-20837",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "The Lovely Game, What Fun to Play",
+    "composer": "Janequin",
+    "arranger": "Klein",
+    "publishers": [
+      "G. Schirmer, Inc."
+    ],
+    "publisherText": "G. Schirmer, Inc.",
+    "classLevel": 2,
+    "specification": "(SATB) (English or French)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-2-20839",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Je ne fus Jamais se Aise",
+    "composer": "Jannequin",
+    "arranger": "Hall",
+    "publishers": [
+      "National Music Publishers, Inc."
+    ],
+    "publisherText": "National Music Publishers, Inc.",
+    "classLevel": 2,
+    "specification": "(SATB) (French)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-2-20841",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Sauter, danser",
+    "composer": "Lassus",
+    "arranger": "",
+    "publishers": [
+      "J&W Chester, Ltd. [Chester Book of Madrigals, The, Book 5 (Singing and Dancing)]"
+    ],
+    "publisherText": "J&W Chester, Ltd. [Chester Book of Madrigals, The, Book 5 (Singing and Dancing)]",
+    "classLevel": 2,
+    "specification": "(SATB) (French)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-2-20842",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Tutto lo di",
+    "composer": "Lassus",
+    "arranger": "",
+    "publishers": [
+      "J&W Chester, Ltd. [Chester Book of Madrigals, The, Book 5 (Singing and Dancing)]"
+    ],
+    "publisherText": "J&W Chester, Ltd. [Chester Book of Madrigals, The, Book 5 (Singing and Dancing)]",
+    "classLevel": 2,
+    "specification": "(SATB) (Italian)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-2-20843",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Love Me Truly",
+    "composer": "LeFevre",
+    "arranger": "Knight",
+    "publishers": [
+      "Carl Fischer, Inc."
+    ],
+    "publisherText": "Carl Fischer, Inc.",
+    "classLevel": 2,
+    "specification": "(SATB) (English or French)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-2-27446",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Lirum bililirum",
+    "composer": "Mantovano",
+    "arranger": "Bartlett",
+    "publishers": [
+      "Faber Music, Ltd. [The King's Singers' Madrigals, Volume 1]"
+    ],
+    "publisherText": "Faber Music, Ltd. [The King's Singers' Madrigals, Volume 1]",
+    "classLevel": 2,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-2-20845",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "And the Green Grass Grew",
+    "composer": "Moore",
+    "arranger": "",
+    "publishers": [
+      "Alfred Music Company, Inc."
+    ],
+    "publisherText": "Alfred Music Company, Inc.",
+    "classLevel": 2,
+    "specification": "(SAB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-2-27448",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Let The Song Go 'Round",
+    "composer": "Moore",
+    "arranger": "",
+    "publishers": [
+      "BriLee Music"
+    ],
+    "publisherText": "BriLee Music",
+    "classLevel": 2,
+    "specification": "(SAB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-2-34231",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Let the Song Begin",
+    "composer": "Moore",
+    "arranger": "",
+    "publishers": [
+      "Alfred Music Company, Inc."
+    ],
+    "publisherText": "Alfred Music Company, Inc.",
+    "classLevel": 2,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-2-20846",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "April Is In My Mistress' Face",
+    "composer": "Morley",
+    "arranger": "Leavitt",
+    "publishers": [
+      "Penguin Books [Penguin Book of English Madrigals for Four Voices, The]",
+      "Oxford University Press [Oxford Book of English Madrigals, The]",
+      "E.C. Schirmer Music Company [A Cappella Singer, The]",
+      "J&W Chester, Ltd. [Chester Book of Madrigals, The, Book 4 (The Seasons)]",
+      "Galaxy Music Corporation [Invitation to Madrigals, Book 2]"
+    ],
+    "publisherText": "Penguin Books [Penguin Book of English Madrigals for Four Voices, The];Oxford University Press [Oxford Book of English Madrigals, The];E.C. Schirmer Music Company [A Cappella Singer, The];J&W Chester, Ltd. [Chester Book of Madrigals, The, Book 4 (The Seasons)];Galaxy Music Corporation [Invitation to Madrigals, Book 2]",
+    "classLevel": 2,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-2-20850",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Do You Not Know?",
+    "composer": "Morley",
+    "arranger": "",
+    "publishers": [
+      "Galaxy Music Corporation [Invitation to Madrigals, Book One]"
+    ],
+    "publisherText": "Galaxy Music Corporation [Invitation to Madrigals, Book One]",
+    "classLevel": 2,
+    "specification": "(SAB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-2-27450",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "O Grief Ev'n On the Bud",
+    "composer": "Morley",
+    "arranger": "Bartlett",
+    "publishers": [
+      "Faber Music, Ltd. [The King's Singers' Madrigals, Volume 2]"
+    ],
+    "publisherText": "Faber Music, Ltd. [The King's Singers' Madrigals, Volume 2]",
+    "classLevel": 2,
+    "specification": "(SATTB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-2-20853",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "O Sleep Fond Fancy",
+    "composer": "Morley",
+    "arranger": "",
+    "publishers": [
+      "Galaxy Music Corporation [Invitation to Madrigals, Book One]"
+    ],
+    "publisherText": "Galaxy Music Corporation [Invitation to Madrigals, Book One]",
+    "classLevel": 2,
+    "specification": "(SAB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-2-20854",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Say, Gentle Nymphs",
+    "composer": "Morley",
+    "arranger": "",
+    "publishers": [
+      "Penguin Books [Penguin Book of English Madrigals for Four Voices, The]",
+      "Galaxy Music Corporation [Invitation to Madrigals, Book Two]"
+    ],
+    "publisherText": "Penguin Books [Penguin Book of English Madrigals for Four Voices, The];Galaxy Music Corporation [Invitation to Madrigals, Book Two]",
+    "classLevel": 2,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-2-20856",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Sing We and Chant It",
+    "composer": "Morley",
+    "arranger": "",
+    "publishers": [
+      "Oxford University Press [Oxford Book of English Madrigals, The]",
+      "J&W Chester, Ltd. [Chester Book of Madrigals, The, Book 5 (Singing and Dancing)]"
+    ],
+    "publisherText": "Oxford University Press [Oxford Book of English Madrigals, The];J&W Chester, Ltd. [Chester Book of Madrigals, The, Book 5 (Singing and Dancing)]",
+    "classLevel": 2,
+    "specification": "(SSATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-2-20858",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Springtime Mantleth Every Bough",
+    "composer": "Morley",
+    "arranger": "",
+    "publishers": [
+      "J&W Chester, Ltd. [Chester Book of Madrigals, The, Book 4 (The Seasons)]"
+    ],
+    "publisherText": "J&W Chester, Ltd. [Chester Book of Madrigals, The, Book 4 (The Seasons)]",
+    "classLevel": 2,
+    "specification": "(SAB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-2-20859",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Though Philomela Lost Her Love",
+    "composer": "Morley",
+    "arranger": "",
+    "publishers": [
+      "Galaxy Music Corporation [Invitation to Madrigals, Book One]"
+    ],
+    "publisherText": "Galaxy Music Corporation [Invitation to Madrigals, Book One]",
+    "classLevel": 2,
+    "specification": "(SAB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-2-20860",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "As I Went A-Walking",
+    "composer": "Mundy",
+    "arranger": "",
+    "publishers": [
+      "Galaxy Music Corporation [Invitation to Madrigals, Book One]"
+    ],
+    "publisherText": "Galaxy Music Corporation [Invitation to Madrigals, Book One]",
+    "classLevel": 2,
+    "specification": "(SAB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-2-27452",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Heigh Ho! 'Chill Go To Plough No More",
+    "composer": "Mundy",
+    "arranger": "Bartlett",
+    "publishers": [
+      "Faber Music, Ltd. [The King's Singers' Madrigals, Volume 1]"
+    ],
+    "publisherText": "Faber Music, Ltd. [The King's Singers' Madrigals, Volume 1]",
+    "classLevel": 2,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-2-20861",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Donde Hay",
+    "composer": "Page",
+    "arranger": "",
+    "publishers": [
+      "Fostco Music Press",
+      "Hal Leonard Music, Inc.",
+      "Shawnee Press"
+    ],
+    "publisherText": "Fostco Music Press;Hal Leonard Music, Inc.;Shawnee Press",
+    "classLevel": 2,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-2-20863",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "O Music Sweet",
+    "composer": "Peuerl",
+    "arranger": "Knight",
+    "publishers": [
+      "Carl Fischer, Inc."
+    ],
+    "publisherText": "Carl Fischer, Inc.",
+    "classLevel": 2,
+    "specification": "(SSATB) (English or German)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-2-20864",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Amyntas With His Phyllis Fair",
+    "composer": "Pilkington",
+    "arranger": "",
+    "publishers": [
+      "Penguin Books [Penguin Book of English Madrigals for Four Voices, The]",
+      "Galaxy Music Corporation [Invitation to Madrigals, Book Two]"
+    ],
+    "publisherText": "Penguin Books [Penguin Book of English Madrigals for Four Voices, The];Galaxy Music Corporation [Invitation to Madrigals, Book Two]",
+    "classLevel": 2,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-2-31634",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Rest, Sweet Nymphs",
+    "composer": "Pilkington",
+    "arranger": "Bartlett",
+    "publishers": [
+      "Oxford University Press [Madrigals and Partsongs]"
+    ],
+    "publisherText": "Oxford University Press [Madrigals and Partsongs]",
+    "classLevel": 2,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-2-20866",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Der Winter Ist Ein Strenger Gast",
+    "composer": "Praetorius",
+    "arranger": "",
+    "publishers": [
+      "J&W Chester, Ltd. [Chester Book of Madrigals, The, Book 4 (The Seasons)]"
+    ],
+    "publisherText": "J&W Chester, Ltd. [Chester Book of Madrigals, The, Book 4 (The Seasons)]",
+    "classLevel": 2,
+    "specification": "(SATB) (German)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-2-20867",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Herzlich Tut",
+    "composer": "Praetorius",
+    "arranger": "",
+    "publishers": [
+      "J&W Chester, Ltd. [Chester Book of Madrigals, The, Book 4 (The Seasons)]"
+    ],
+    "publisherText": "J&W Chester, Ltd. [Chester Book of Madrigals, The, Book 4 (The Seasons)]",
+    "classLevel": 2,
+    "specification": "(SATB) (German) (sing two verses)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-2-20868",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Nach Gruner Farb Mein Herz Verlangt",
+    "composer": "Praetorius",
+    "arranger": "Richter",
+    "publishers": [
+      "Schott Company"
+    ],
+    "publisherText": "Schott Company",
+    "classLevel": 2,
+    "specification": "(SATB) (German)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-2-20870",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "In These Delightful, Pleasant Groves",
+    "composer": "Purcell",
+    "arranger": "",
+    "publishers": [
+      "E.C. Schirmer Music Company [A Cappella Singer, The]"
+    ],
+    "publisherText": "E.C. Schirmer Music Company [A Cappella Singer, The]",
+    "classLevel": 2,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-2-20871",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "The Satyrs' Dance",
+    "composer": "Ravenscroft",
+    "arranger": "",
+    "publishers": [
+      "J&W Chester, Ltd. [Chester Book of Madrigals, The, Book 5 (Singing and Dancing)]"
+    ],
+    "publisherText": "J&W Chester, Ltd. [Chester Book of Madrigals, The, Book 5 (Singing and Dancing)]",
+    "classLevel": 2,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-2-31633",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Ancor che col partire",
+    "composer": "Rore",
+    "arranger": "Bartlett",
+    "publishers": [
+      "Oxford University Press [Madrigals and Partsongs]"
+    ],
+    "publisherText": "Oxford University Press [Madrigals and Partsongs]",
+    "classLevel": 2,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-2-34232",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Elohim Hashivenu",
+    "composer": "Rossi",
+    "arranger": "ed. Rottlander",
+    "publishers": [
+      "CPDL"
+    ],
+    "publisherText": "CPDL",
+    "classLevel": 2,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-2-20872",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Ein Hennlein Weiss",
+    "composer": "Scandello",
+    "arranger": "Greyson",
+    "publishers": [
+      "Bourne, Co."
+    ],
+    "publisherText": "Bourne, Co.",
+    "classLevel": 2,
+    "specification": "(SATB) (German)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-2-20873",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Vorria che tu cantass'",
+    "composer": "Scandello",
+    "arranger": "",
+    "publishers": [
+      "J&W Chester, Ltd. [Chester Book of Madrigals, The, Book 5 (Singing and Dancing)]"
+    ],
+    "publisherText": "J&W Chester, Ltd. [Chester Book of Madrigals, The, Book 5 (Singing and Dancing)]",
+    "classLevel": 2,
+    "specification": "(SATB) (Italian)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-2-27453",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Ach Elslein, liebes Elselein",
+    "composer": "Senfl",
+    "arranger": "Bartlett",
+    "publishers": [
+      "Faber Music, Ltd. [The King's Singers' Madrigals, Volume 1]",
+      "Oxford University Press [Madrigals and Partsongs]"
+    ],
+    "publisherText": "Faber Music, Ltd. [The King's Singers' Madrigals, Volume 1];Oxford University Press [Madrigals and Partsongs]",
+    "classLevel": 2,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-2-20874",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "J'ay fait pour vous cent mille pas",
+    "composer": "Sermisy",
+    "arranger": "Cazeaux",
+    "publishers": [
+      "Tetra Music Corporation"
+    ],
+    "publisherText": "Tetra Music Corporation",
+    "classLevel": 2,
+    "specification": "(SATB) (English or French)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-2-25069",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Two Chansons",
+    "composer": "Sermisy",
+    "arranger": "",
+    "publishers": [
+      "Broude Brothers"
+    ],
+    "publisherText": "Broude Brothers",
+    "classLevel": 2,
+    "specification": "(SATB) (English or French) (sing one)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-2-20875",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Aupres de ma Blonde",
+    "composer": "Shaw",
+    "arranger": "Parker",
+    "publishers": [
+      "Lawson-Gould Music Publishing Company"
+    ],
+    "publisherText": "Lawson-Gould Music Publishing Company",
+    "classLevel": 2,
+    "specification": "(SSATTBB) (French)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-2-27454",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "If Ye Love Me",
+    "composer": "Tallis",
+    "arranger": "King's Singers",
+    "publishers": [
+      "Hal Leonard Music, Inc. [king'singers English Renaissance, Volume 1]"
+    ],
+    "publisherText": "Hal Leonard Music, Inc. [king'singers English Renaissance, Volume 1]",
+    "classLevel": 2,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-2-34233",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "O Lord, in Thee is all my trust",
+    "composer": "Tallis",
+    "arranger": "ed. Kelecom",
+    "publishers": [
+      "CPDL"
+    ],
+    "publisherText": "CPDL",
+    "classLevel": 2,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-2-20877",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "To Woodland Glades I Must Faire",
+    "composer": "Tessier",
+    "arranger": "",
+    "publishers": [
+      "E.C. Schirmer Music Company [A Cappella Singer, The]"
+    ],
+    "publisherText": "E.C. Schirmer Music Company [A Cappella Singer, The]",
+    "classLevel": 2,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-2-20878",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "How Great Delight",
+    "composer": "Tomkins",
+    "arranger": "",
+    "publishers": [
+      "Galaxy Music Corporation [Invitation to Madrigals, Book One]"
+    ],
+    "publisherText": "Galaxy Music Corporation [Invitation to Madrigals, Book One]",
+    "classLevel": 2,
+    "specification": "(SAB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-2-20881",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "All at Once Well Met Fair Ladies",
+    "composer": "Weelkes",
+    "arranger": "Hall",
+    "publishers": [
+      "National Music Publishers, Inc."
+    ],
+    "publisherText": "National Music Publishers, Inc.",
+    "classLevel": 2,
+    "specification": "(SSATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-2-20882",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Cease Sorrow Now",
+    "composer": "Weelkes",
+    "arranger": "",
+    "publishers": [
+      "Galaxy Music Corporation [Invitation to Madrigals, Book One]"
+    ],
+    "publisherText": "Galaxy Music Corporation [Invitation to Madrigals, Book One]",
+    "classLevel": 2,
+    "specification": "(SAB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-2-20883",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Grace My Lovely One, Fair Beauties",
+    "composer": "Weelkes",
+    "arranger": "",
+    "publishers": [
+      "E.C. Schirmer Music Company [A Cappella Singer, The]"
+    ],
+    "publisherText": "E.C. Schirmer Music Company [A Cappella Singer, The]",
+    "classLevel": 2,
+    "specification": "(SSATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-2-20885",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Hark, All Ye Lovely Saints",
+    "composer": "Weelkes",
+    "arranger": "",
+    "publishers": [
+      "Oxford University Press [Oxford Book of English Madrigals, The]",
+      "G. Schirmer, Inc. [European Madrigals]"
+    ],
+    "publisherText": "Oxford University Press [Oxford Book of English Madrigals, The];G. Schirmer, Inc. [European Madrigals]",
+    "classLevel": 2,
+    "specification": "(SSATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-2-20886",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Late in My Rash Accounting",
+    "composer": "Weelkes",
+    "arranger": "",
+    "publishers": [
+      "Galaxy Music Corporation [Invitation to Madrigals, Book One]"
+    ],
+    "publisherText": "Galaxy Music Corporation [Invitation to Madrigals, Book One]",
+    "classLevel": 2,
+    "specification": "(SAB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-2-20887",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Now Every Tree",
+    "composer": "Weelkes",
+    "arranger": "",
+    "publishers": [
+      "Galaxy Music Corporation [Invitation to Madrigals, Book Two]"
+    ],
+    "publisherText": "Galaxy Music Corporation [Invitation to Madrigals, Book Two]",
+    "classLevel": 2,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-2-20888",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Since Robin Hood",
+    "composer": "Weelkes",
+    "arranger": "Carl",
+    "publishers": [
+      "Oxford University Press [Oxford Book of English Madrigals, The]",
+      "National Music Publishers, Inc."
+    ],
+    "publisherText": "Oxford University Press [Oxford Book of English Madrigals, The];National Music Publishers, Inc.",
+    "classLevel": 2,
+    "specification": "(SAB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-2-20889",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "As Fair as Morn",
+    "composer": "Wilbye",
+    "arranger": "Haberlen",
+    "publishers": [
+      "Fostco Music Press",
+      "Hal Leonard Music, Inc.",
+      "Shawnee Press"
+    ],
+    "publisherText": "Fostco Music Press;Hal Leonard Music, Inc.;Shawnee Press",
+    "classLevel": 2,
+    "specification": "(SAB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-2-20891",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Thus Saith My Cloris Bright",
+    "composer": "Wilbye",
+    "arranger": "Randolph",
+    "publishers": [
+      "Penguin Books [Penguin Book of English Madrigals for Four Voices, The]",
+      "Lawson-Gould Music Publishing Company"
+    ],
+    "publisherText": "Penguin Books [Penguin Book of English Madrigals for Four Voices, The];Lawson-Gould Music Publishing Company",
+    "classLevel": 2,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-2-20892",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Laughing So Heartily",
+    "composer": "Willaert",
+    "arranger": "Greyson",
+    "publishers": [
+      "Bourne, Co."
+    ],
+    "publisherText": "Bourne, Co.",
+    "classLevel": 2,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-2-20893",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Sweet Phyllis, Stay",
+    "composer": "Youll",
+    "arranger": "",
+    "publishers": [
+      "Galaxy Music Corporation [Invitation to Madrigals, Book One]"
+    ],
+    "publisherText": "Galaxy Music Corporation [Invitation to Madrigals, Book One]",
+    "classLevel": 2,
+    "specification": "(SAB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-2-20811",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "De Vosotros E' Mansilla",
+    "composer": "d'Espinosa",
+    "arranger": "",
+    "publishers": [
+      "Harold Flammer, Inc. [Renaissance to Baroque, Vol. 5]",
+      "Shawnee Press"
+    ],
+    "publisherText": "Harold Flammer, Inc. [Renaissance to Baroque, Vol. 5];Shawnee Press",
+    "classLevel": 2,
+    "specification": "(SATB) (Spanish)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-2-27440",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Matona, mia cara",
+    "composer": "de Lassus",
+    "arranger": "Bartlett",
+    "publishers": [
+      "Faber Music, Ltd. [The King's Singers' Madrigals,Volume 1]"
+    ],
+    "publisherText": "Faber Music, Ltd. [The King's Singers' Madrigals,Volume 1]",
+    "classLevel": 2,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-2-27441",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Or si rallegri il cielo",
+    "composer": "de Wert",
+    "arranger": "Bartlett",
+    "publishers": [
+      "Faber Music, Ltd. [The King's Singers' Madrigals, Volume 2]"
+    ],
+    "publisherText": "Faber Music, Ltd. [The King's Singers' Madrigals, Volume 2]",
+    "classLevel": 2,
+    "specification": "(SAATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-2-20812",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "The Cricket (El Grillo)",
+    "composer": "des Pres",
+    "arranger": "Payson",
+    "publishers": [
+      "Frank Music Corporation",
+      "Hal Leonard Music, Inc."
+    ],
+    "publisherText": "Frank Music Corporation;Hal Leonard Music, Inc.",
+    "classLevel": 2,
+    "specification": "(SATB) (Spanish)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-2-20813",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "I Know A Young Maiden Wondrous Fair",
+    "composer": "di Lasso",
+    "arranger": "",
+    "publishers": [
+      "E.C. Schirmer Music Company [A Cappella Singer, The]"
+    ],
+    "publisherText": "E.C. Schirmer Music Company [A Cappella Singer, The]",
+    "classLevel": 2,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-2-20816",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Matona, Lovely Maiden",
+    "composer": "di Lasso",
+    "arranger": "",
+    "publishers": [
+      "E.C. Schirmer Music Company [A Cappella Singer, The]"
+    ],
+    "publisherText": "E.C. Schirmer Music Company [A Cappella Singer, The]",
+    "classLevel": 2,
+    "specification": "(SATB) (English or Italian)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-2-20817",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "My Heart Doth Beg You'll Not Forget",
+    "composer": "di Lasso",
+    "arranger": "",
+    "publishers": [
+      "E.C. Schirmer Music Company [A Cappella Singer, The]"
+    ],
+    "publisherText": "E.C. Schirmer Music Company [A Cappella Singer, The]",
+    "classLevel": 2,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-2-20818",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Welcome Sweet May",
+    "composer": "di Lasso",
+    "arranger": "Knight",
+    "publishers": [
+      "Carl Fischer, Inc."
+    ],
+    "publisherText": "Carl Fischer, Inc.",
+    "classLevel": 2,
+    "specification": "(SATB) (English or German)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-2-27455",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "So trinken wir alle",
+    "composer": "von Bruck",
+    "arranger": "Bartlett",
+    "publishers": [
+      "Faber Music, Ltd. [The King's Singers' Madrigals, Volume 2]"
+    ],
+    "publisherText": "Faber Music, Ltd. [The King's Singers' Madrigals, Volume 2]",
+    "classLevel": 2,
+    "specification": "(SSATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-1-34241",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Open the Window, Noah",
+    "composer": "Althouse",
+    "arranger": "",
+    "publishers": [
+      "Alfred Music Company, Inc."
+    ],
+    "publisherText": "Alfred Music Company, Inc.",
+    "classLevel": 1,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-1-34223",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Cantate Domino",
+    "composer": "Anerio",
+    "arranger": "Leininger",
+    "publishers": [
+      "Alliance Music Publications"
+    ],
+    "publisherText": "Alliance Music Publications",
+    "classLevel": 1,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-1-20652",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Mon Coeur Se Recommande A Vous",
+    "composer": "Anon. or Trad.",
+    "arranger": "",
+    "publishers": [
+      "J&W Chester, Ltd. [Chester Book of Madrigals, The, Book 2 (Love and Marriage)]"
+    ],
+    "publisherText": "J&W Chester, Ltd. [Chester Book of Madrigals, The, Book 2 (Love and Marriage)]",
+    "classLevel": 1,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-1-20653",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Il Bianco e Dolce Cigno",
+    "composer": "Arcadelt",
+    "arranger": "",
+    "publishers": [
+      "Faber Music, Ltd. [The King's Singers' Madrigals, Volume 1]",
+      "Hal Leonard Music, Inc. [The King's Singers European Renaissance]",
+      "J&W Chester, Ltd. [Chester Book of Madrigals, The, Book 1 (Animal Kingdom)]"
+    ],
+    "publisherText": "Faber Music, Ltd. [The King's Singers' Madrigals, Volume 1];Hal Leonard Music, Inc. [The King's Singers European Renaissance];J&W Chester, Ltd. [Chester Book of Madrigals, The, Book 1 (Animal Kingdom)]",
+    "classLevel": 1,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-1-20654",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "L'Alma Mia Donna E Bella",
+    "composer": "Arcadelt",
+    "arranger": "Hall",
+    "publishers": [
+      "National Music Publishers, Inc."
+    ],
+    "publisherText": "National Music Publishers, Inc.",
+    "classLevel": 1,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-1-20655",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Margot Labourez Les Vignes",
+    "composer": "Arcadelt",
+    "arranger": "",
+    "publishers": [
+      "Faber Music, Ltd. [The King's Singers' Madrigals, Volume 1]",
+      "J&W Chester, Ltd. [Chester Book of Madrigals, The, Book 3 (Desirable Women)]"
+    ],
+    "publisherText": "Faber Music, Ltd. [The King's Singers' Madrigals, Volume 1];J&W Chester, Ltd. [Chester Book of Madrigals, The, Book 3 (Desirable Women)]",
+    "classLevel": 1,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-1-20658",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Ad Un Dolce Usignolo",
+    "composer": "Banchieri",
+    "arranger": "Hall",
+    "publishers": [
+      "National Music Publishers, Inc."
+    ],
+    "publisherText": "National Music Publishers, Inc.",
+    "classLevel": 1,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-1-20659",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Contrapunto Bestiale",
+    "composer": "Banchieri",
+    "arranger": "",
+    "publishers": [
+      "Faber Music, Ltd. [The King's Singers' Madrigals, Volume 2]",
+      "J&W Chester, Ltd. [Chester Book of Madrigals, The, Book 1 (Animal Kingdom)]"
+    ],
+    "publisherText": "Faber Music, Ltd. [The King's Singers' Madrigals, Volume 2];J&W Chester, Ltd. [Chester Book of Madrigals, The, Book 1 (Animal Kingdom)]",
+    "classLevel": 1,
+    "specification": "(SSATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-1-20660",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Counterpoint Of The Animals (Contrapunto bestiale alla mente)",
+    "composer": "Banchieri",
+    "arranger": "Greyson",
+    "publishers": [
+      "Bourne, Co."
+    ],
+    "publisherText": "Bourne, Co.",
+    "classLevel": 1,
+    "specification": "(SSATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-1-27398",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "All Creatures Now Are Merry Minded",
+    "composer": "Bennet",
+    "arranger": "King's Singers",
+    "publishers": [
+      "Hal Leonard Music, Inc. [king'singers English Renaissance, Volume 1]",
+      "Oxford University Press [Madrigals and Partsongs]"
+    ],
+    "publisherText": "Hal Leonard Music, Inc. [king'singers English Renaissance, Volume 1];Oxford University Press [Madrigals and Partsongs]",
+    "classLevel": 1,
+    "specification": "(five-part mixed)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-1-20663",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "All Creatures Now Small",
+    "composer": "Bennet",
+    "arranger": "",
+    "publishers": [
+      "Oxford University Press [Oxford Book of English Madrigals, The]"
+    ],
+    "publisherText": "Oxford University Press [Oxford Book of English Madrigals, The]",
+    "classLevel": 1,
+    "specification": "(SSATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-1-20664",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Weep O Mine Eyes",
+    "composer": "Bennet",
+    "arranger": "",
+    "publishers": [
+      "Penguin Books [Penguin Book of English Madrigals for Four Voices, The]",
+      "Oxford University Press [Oxford Book of English Madrigals, The]",
+      "G. Schirmer, Inc. [Invitation to Madrigals, Book Two]",
+      "Hal Leonard Music, Inc. [king'singers English Renaissance, Volume 1]"
+    ],
+    "publisherText": "Penguin Books [Penguin Book of English Madrigals for Four Voices, The];Oxford University Press [Oxford Book of English Madrigals, The];G. Schirmer, Inc. [Invitation to Madrigals, Book Two];Hal Leonard Music, Inc. [king'singers English Renaissance, Volume 1]",
+    "classLevel": 1,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-1-20667",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Let Go, Why Do You Stay Me?",
+    "composer": "Bennett",
+    "arranger": "",
+    "publishers": [
+      "E.C. Schirmer Music Company [A Cappella Singer, The]"
+    ],
+    "publisherText": "E.C. Schirmer Music Company [A Cappella Singer, The]",
+    "classLevel": 1,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-1-31621",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "The Evening Primrose",
+    "composer": "Britten",
+    "arranger": "Bartlett",
+    "publishers": [
+      "Oxford University Press [Madrigals and Partsongs]"
+    ],
+    "publisherText": "Oxford University Press [Madrigals and Partsongs]",
+    "classLevel": 1,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-1-20671",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Three Contemporary Madrigals",
+    "composer": "Butler",
+    "arranger": "",
+    "publishers": [
+      "Hope Publishing Company"
+    ],
+    "publisherText": "Hope Publishing Company",
+    "classLevel": 1,
+    "specification": "(SATB) (sing one madrigal)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-1-20672",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Alles Was Ihr Tut",
+    "composer": "Buxtehude",
+    "arranger": "",
+    "publishers": [
+      "Harold Flammer, Inc. [Renaissance to Baroque, Vol. 4]",
+      "Shawnee Press"
+    ],
+    "publisherText": "Harold Flammer, Inc. [Renaissance to Baroque, Vol. 4];Shawnee Press",
+    "classLevel": 1,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-1-27400",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Sing Joyfully",
+    "composer": "Byrd",
+    "arranger": "King's Singers",
+    "publishers": [
+      "Hal Leonard Music, Inc. [king'singers English Renaissance, Volume 1]"
+    ],
+    "publisherText": "Hal Leonard Music, Inc. [king'singers English Renaissance, Volume 1]",
+    "classLevel": 1,
+    "specification": "(SSATTB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-1-20674",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Though Amaryllis Dance",
+    "composer": "Byrd",
+    "arranger": "Deller",
+    "publishers": [
+      "Oxford University Press [Oxford Book of English Madrigals, The]"
+    ],
+    "publisherText": "Oxford University Press [Oxford Book of English Madrigals, The]",
+    "classLevel": 1,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-1-34228",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Magi videntes stellam",
+    "composer": "Clemens non Papa",
+    "arranger": "ed. Marble",
+    "publishers": [
+      "CPDL"
+    ],
+    "publisherText": "CPDL",
+    "classLevel": 1,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-1-31622",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "So Weich und Warm",
+    "composer": "Cornelius",
+    "arranger": "Bartlett",
+    "publishers": [
+      "Oxford University Press [Madrigals and Partsongs]"
+    ],
+    "publisherText": "Oxford University Press [Madrigals and Partsongs]",
+    "classLevel": 1,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-1-20676",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Radiant Stars, Above the Mountains Glowing",
+    "composer": "Cui",
+    "arranger": "",
+    "publishers": [
+      "E.C. Schirmer Music Company [A Cappella Singer, The]"
+    ],
+    "publisherText": "E.C. Schirmer Music Company [A Cappella Singer, The]",
+    "classLevel": 1,
+    "specification": "(SSATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-1-31623",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Trois chansons de Charles d'Orleans",
+    "composer": "Debussy",
+    "arranger": "Bartlett",
+    "publishers": [
+      "Oxford University Press [Madrigals and Partsongs]"
+    ],
+    "publisherText": "Oxford University Press [Madrigals and Partsongs]",
+    "classLevel": 1,
+    "specification": "(1st & 3rd mvt SATB/2nd mvt solo plus ATTB) (sing one)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-1-20679",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Lieblich ich horte singen",
+    "composer": "Demantius",
+    "arranger": "",
+    "publishers": [
+      "J&W Chester, Ltd. [Chester Book of Madrigals, The, Book 5 (Singing and Dancing)]"
+    ],
+    "publisherText": "J&W Chester, Ltd. [Chester Book of Madrigals, The, Book 5 (Singing and Dancing)]",
+    "classLevel": 1,
+    "specification": "(SSATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-1-20691",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "So Have I Seen A Silver Swan",
+    "composer": "Diemer",
+    "arranger": "",
+    "publishers": [
+      "Gemini Press, Inc."
+    ],
+    "publisherText": "Gemini Press, Inc.",
+    "classLevel": 1,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-1-20692",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Chi la gagliarda",
+    "composer": "Donato",
+    "arranger": "",
+    "publishers": [
+      "J&W Chester, Ltd. [Chester Book of Madrigals, The, Book 5 (Singing and Dancing)]"
+    ],
+    "publisherText": "J&W Chester, Ltd. [Chester Book of Madrigals, The, Book 5 (Singing and Dancing)]",
+    "classLevel": 1,
+    "specification": "(SATB) (Italian) (sing one verse)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-1-31625",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Can She Excuse My Wrongs",
+    "composer": "Dowland",
+    "arranger": "Bartlett",
+    "publishers": [
+      "Oxford University Press [Madrigals and Partsongs]"
+    ],
+    "publisherText": "Oxford University Press [Madrigals and Partsongs]",
+    "classLevel": 1,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-1-20699",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Fair Phyllis",
+    "composer": "Farmer",
+    "arranger": "",
+    "publishers": [
+      "Faber Music, Ltd. [The King's Singers' Madrigals, Volume 1]",
+      "Penguin Books [Penguin Book of English Madrigals for Four Voices, The]",
+      "Oxford University Press [Oxford Book of English Madrigals, The]",
+      "G. Schirmer, Inc. [Invitation to Madrigals, Book Two]",
+      "J&W Chester, Ltd. [Chester Book of Madrigals, The, Book 3 (Desirable Women)]"
+    ],
+    "publisherText": "Faber Music, Ltd. [The King's Singers' Madrigals, Volume 1];Penguin Books [Penguin Book of English Madrigals for Four Voices, The];Oxford University Press [Oxford Book of English Madrigals, The];G. Schirmer, Inc. [Invitation to Madrigals, Book Two];J&W Chester, Ltd. [Chester Book of Madrigals, The, Book 3 (Desirable Women)]",
+    "classLevel": 1,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-1-20703",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "O Stay Sweet Love",
+    "composer": "Farmer",
+    "arranger": "Kerman",
+    "publishers": [
+      "Theodore Presser Company"
+    ],
+    "publisherText": "Theodore Presser Company",
+    "classLevel": 1,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-1-20704",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Ein fauler Baum",
+    "composer": "Franck",
+    "arranger": "Richter",
+    "publishers": [
+      "Schott Company"
+    ],
+    "publisherText": "Schott Company",
+    "classLevel": 1,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-1-20707",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "My Bonnie Lass She Smileth",
+    "composer": "German",
+    "arranger": "",
+    "publishers": [
+      "Novello Publications Inc."
+    ],
+    "publisherText": "Novello Publications Inc.",
+    "classLevel": 1,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-1-20710",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Coletta",
+    "composer": "Gevaert",
+    "arranger": "",
+    "publishers": [
+      "E.C. Schirmer Music Company [A Cappella Singer, The]"
+    ],
+    "publisherText": "E.C. Schirmer Music Company [A Cappella Singer, The]",
+    "classLevel": 1,
+    "specification": "(SATBB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-1-31626",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Ah, Dear Heart",
+    "composer": "Gibbons",
+    "arranger": "Bartlett",
+    "publishers": [
+      "Oxford University Press [Madrigals and Partsongs]"
+    ],
+    "publisherText": "Oxford University Press [Madrigals and Partsongs]",
+    "classLevel": 1,
+    "specification": "(SAATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-1-20711",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "The Silver Swan",
+    "composer": "Gibbons",
+    "arranger": "",
+    "publishers": [
+      "Faber Music, Ltd. [The King's Singers' Madrigals, Volume 2]",
+      "Oxford University Press [Oxford Book of English Madrigals, The]",
+      "Hal Leonard Music, Inc. [king'singers English Renaissance, Volume 1]",
+      "E.C. Schirmer Music Company [A Cappella Singer, The]",
+      "Hinshaw Music Inc."
+    ],
+    "publisherText": "Faber Music, Ltd. [The King's Singers' Madrigals, Volume 2];Oxford University Press [Oxford Book of English Madrigals, The];Hal Leonard Music, Inc. [king'singers English Renaissance, Volume 1];E.C. Schirmer Music Company [A Cappella Singer, The];Hinshaw Music Inc.",
+    "classLevel": 1,
+    "specification": "(five-part mixed)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-1-31627",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "What Is Our Life?",
+    "composer": "Gibbons",
+    "arranger": "",
+    "publishers": [
+      "Oxford University Press [Madrigals and Partsongs]"
+    ],
+    "publisherText": "Oxford University Press [Madrigals and Partsongs]",
+    "classLevel": 1,
+    "specification": "(SATTB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-1-20714",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "You Defy Me, Beloved Foe",
+    "composer": "Giovanelli",
+    "arranger": "",
+    "publishers": [
+      "E.C. Schirmer Music Company [A Cappella Singer, The]"
+    ],
+    "publisherText": "E.C. Schirmer Music Company [A Cappella Singer, The]",
+    "classLevel": 1,
+    "specification": "(SSATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-1-27408",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Triste Depart",
+    "composer": "Gombert",
+    "arranger": "Bartlett",
+    "publishers": [
+      "Hal Leonard Music, Inc. [The King's Singers European Renaissance]",
+      "Faber Music, Ltd. [The King's Singers' Madrigals, Volume 2]"
+    ],
+    "publisherText": "Hal Leonard Music, Inc. [The King's Singers European Renaissance];Faber Music, Ltd. [The King's Singers' Madrigals, Volume 2]",
+    "classLevel": 1,
+    "specification": "(SATTB or SSATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-1-20716",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Come Away Sweet Love",
+    "composer": "Greaves",
+    "arranger": "",
+    "publishers": [
+      "Oxford University Press [Oxford Book of English Madrigals, The]"
+    ],
+    "publisherText": "Oxford University Press [Oxford Book of English Madrigals, The]",
+    "classLevel": 1,
+    "specification": "(SSATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-1-20717",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Sweet Nymphs That Trip Along",
+    "composer": "Greaves",
+    "arranger": "Ehret",
+    "publishers": [
+      "Walton Music Corporation"
+    ],
+    "publisherText": "Walton Music Corporation",
+    "classLevel": 1,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-1-20720",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Nun fanget an ein guts Liedlein",
+    "composer": "Hassler",
+    "arranger": "",
+    "publishers": [
+      "J&W Chester, Ltd. [Chester Book of Madrigals, The, Book 5 (Singing and Dancing)]"
+    ],
+    "publisherText": "J&W Chester, Ltd. [Chester Book of Madrigals, The, Book 5 (Singing and Dancing)]",
+    "classLevel": 1,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-1-20721",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Tanzen und Springen",
+    "composer": "Hassler",
+    "arranger": "",
+    "publishers": [
+      "Hal Leonard Music, Inc. [The King's Singers European Renaissance]",
+      "Faber Music, Ltd. [The King's Singers' Madrigals, Volume 2]",
+      "J&W Chester, Ltd. [Chester Book of Madrigals, The, Book 5 (Singing and Dancing)]",
+      "Oxford University Press [Madrigals and Partsongs]"
+    ],
+    "publisherText": "Hal Leonard Music, Inc. [The King's Singers European Renaissance];Faber Music, Ltd. [The King's Singers' Madrigals, Volume 2];J&W Chester, Ltd. [Chester Book of Madrigals, The, Book 5 (Singing and Dancing)];Oxford University Press [Madrigals and Partsongs]",
+    "classLevel": 1,
+    "specification": "(SSATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-1-34229",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Vita de la Mia Vita",
+    "composer": "Hawley",
+    "arranger": "",
+    "publishers": [
+      "Hinshaw Music Inc."
+    ],
+    "publisherText": "Hinshaw Music Inc.",
+    "classLevel": 1,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-1-20722",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Vergangen Ist Mir Gluck und Heyl",
+    "composer": "Issak",
+    "arranger": "",
+    "publishers": [
+      "Harold Flammer, Inc. [Renaissance to Baroque, Vol. 4]"
+    ],
+    "publisherText": "Harold Flammer, Inc. [Renaissance to Baroque, Vol. 4]",
+    "classLevel": 1,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-1-27412",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Au joli jeu",
+    "composer": "Janequin",
+    "arranger": "Bartlett",
+    "publishers": [
+      "Faber Music, Ltd. [The King's Singers' Madrigals, Volume 1]",
+      "Hal Leonard Music, Inc. [The King's Singers European Renaissance]"
+    ],
+    "publisherText": "Faber Music, Ltd. [The King's Singers' Madrigals, Volume 1];Hal Leonard Music, Inc. [The King's Singers European Renaissance]",
+    "classLevel": 1,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-1-20723",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "A Ce Joli Mois",
+    "composer": "Jannequin",
+    "arranger": "",
+    "publishers": [
+      "J&W Chester, Ltd. [Chester Book of Madrigals, The, Book 4 (The Seasons)]"
+    ],
+    "publisherText": "J&W Chester, Ltd. [Chester Book of Madrigals, The, Book 4 (The Seasons)]",
+    "classLevel": 1,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-1-20724",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Sweet, Come Away",
+    "composer": "Jones",
+    "arranger": "Curtis",
+    "publishers": [
+      "National Music Publishers, Inc."
+    ],
+    "publisherText": "National Music Publishers, Inc.",
+    "classLevel": 1,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-1-20725",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Alas, What Hope of Speeding",
+    "composer": "Kirbye",
+    "arranger": "Hall",
+    "publishers": [
+      "National Music Publishers, Inc."
+    ],
+    "publisherText": "National Music Publishers, Inc.",
+    "classLevel": 1,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-1-20726",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Sweet Love, O Cease Thy Flying",
+    "composer": "Kirbye",
+    "arranger": "Hall",
+    "publishers": [
+      "National Music Publishers, Inc."
+    ],
+    "publisherText": "National Music Publishers, Inc.",
+    "classLevel": 1,
+    "specification": "(SAB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-1-20727",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Chanter je veux",
+    "composer": "Lassus",
+    "arranger": "",
+    "publishers": [
+      "J&W Chester, Ltd. [Chester Book of Madrigals, The, Book 5 (Singing and Dancing)]"
+    ],
+    "publisherText": "J&W Chester, Ltd. [Chester Book of Madrigals, The, Book 5 (Singing and Dancing)]",
+    "classLevel": 1,
+    "specification": "(SSATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-1-31629",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "La nuit froide et sombre",
+    "composer": "Lassus",
+    "arranger": "Bartlett",
+    "publishers": [
+      "Oxford University Press [Madrigals and Partsongs]"
+    ],
+    "publisherText": "Oxford University Press [Madrigals and Partsongs]",
+    "classLevel": 1,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-1-34227",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Amor, Io Sento L'alma",
+    "composer": "Lauridsen",
+    "arranger": "",
+    "publishers": [
+      "Southern Music Company"
+    ],
+    "publisherText": "Southern Music Company",
+    "classLevel": 1,
+    "specification": "(SATB) (divisi)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-1-20728",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Revecy Venir du Printans",
+    "composer": "Le Jeune",
+    "arranger": "Engel",
+    "publishers": [
+      "Harold Flammer, Inc.",
+      "Shawnee Press"
+    ],
+    "publisherText": "Harold Flammer, Inc.;Shawnee Press",
+    "classLevel": 1,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-1-31630",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Revoici venir du printemps",
+    "composer": "Le Jeune",
+    "arranger": "Bartlett",
+    "publishers": [
+      "J&W Chester, Ltd. [Chester Book of Madrigals, The, Book 4 (The Seasons)]",
+      "Oxford University Press [Madrigals and Partsongs]"
+    ],
+    "publisherText": "J&W Chester, Ltd. [Chester Book of Madrigals, The, Book 4 (The Seasons)];Oxford University Press [Madrigals and Partsongs]",
+    "classLevel": 1,
+    "specification": "(SAATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-1-27415",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Un gentil amoureux",
+    "composer": "Le Jeune",
+    "arranger": "Bartlett",
+    "publishers": [
+      "Faber Music, Ltd. [The King's Singers' Madrigals, Volume 1]"
+    ],
+    "publisherText": "Faber Music, Ltd. [The King's Singers' Madrigals, Volume 1]",
+    "classLevel": 1,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-1-27416",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Cantava la piu vaga pastorella (Sweet Singing Amarillis)",
+    "composer": "Marenzio",
+    "arranger": "Richter",
+    "publishers": [
+      "Tetra Music Corporation"
+    ],
+    "publisherText": "Tetra Music Corporation",
+    "classLevel": 1,
+    "specification": "(SSATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-1-20732",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Io piango",
+    "composer": "Marenzio",
+    "arranger": "Knight",
+    "publishers": [
+      "G. Schirmer, Inc. [European Madrigals]",
+      "Carl Fischer, Inc."
+    ],
+    "publisherText": "G. Schirmer, Inc. [European Madrigals];Carl Fischer, Inc.",
+    "classLevel": 1,
+    "specification": "(SATTB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-1-31631",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Scaldava il sol",
+    "composer": "Marenzio",
+    "arranger": "Bartlett",
+    "publishers": [
+      "Oxford University Press [Madrigals and Partsongs]"
+    ],
+    "publisherText": "Oxford University Press [Madrigals and Partsongs]",
+    "classLevel": 1,
+    "specification": "(SSATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-1-31632",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "O Mirtillo, Mirtillo, anima mia",
+    "composer": "Monteverdi",
+    "arranger": "Bartlett",
+    "publishers": [
+      "Oxford University Press [Madrigals and Partsongs]"
+    ],
+    "publisherText": "Oxford University Press [Madrigals and Partsongs]",
+    "classLevel": 1,
+    "specification": "(SATTB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-1-27418",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Zefiro torna e'l bel tempo rimena",
+    "composer": "Monteverdi",
+    "arranger": "",
+    "publishers": [
+      "Faber Music, Ltd. [The King's Singers' Madrigals, Volume 2]"
+    ],
+    "publisherText": "Faber Music, Ltd. [The King's Singers' Madrigals, Volume 2]",
+    "classLevel": 1,
+    "specification": "(SSATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-1-34226",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Mentre io miravo fiso",
+    "composer": "Montiverdi",
+    "arranger": "ed. Carpentier",
+    "publishers": [
+      "CPDL"
+    ],
+    "publisherText": "CPDL",
+    "classLevel": 1,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-1-20740",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Dainty, Fine, Sweet Nymph",
+    "composer": "Morley",
+    "arranger": "",
+    "publishers": [
+      "E.C. Schirmer Music Company [A Cappella Singer, The]"
+    ],
+    "publisherText": "E.C. Schirmer Music Company [A Cappella Singer, The]",
+    "classLevel": 1,
+    "specification": "(SATTB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-1-20741",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Fire, Fire (Fyre, Fyre)",
+    "composer": "Morley",
+    "arranger": "",
+    "publishers": [
+      "Oxford University Press [Oxford Book of English Madrigals, The]",
+      "Hal Leonard Music, Inc. [king'singers English Renaissance, Volume 1]",
+      "G. Schirmer, Inc. [European Madrigals]"
+    ],
+    "publisherText": "Oxford University Press [Oxford Book of English Madrigals, The];Hal Leonard Music, Inc. [king'singers English Renaissance, Volume 1];G. Schirmer, Inc. [European Madrigals]",
+    "classLevel": 1,
+    "specification": "(SSATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-1-20743",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "I Love, Alas, I Love Thee",
+    "composer": "Morley",
+    "arranger": "",
+    "publishers": [
+      "Hal Leonard Music, Inc. [The King's Singers European Renaissance]",
+      "Frank Music Corporation [Madrigals of the Renaissance]"
+    ],
+    "publisherText": "Hal Leonard Music, Inc. [The King's Singers European Renaissance];Frank Music Corporation [Madrigals of the Renaissance]",
+    "classLevel": 1,
+    "specification": "(SATBB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-1-20744",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "It Was a Lover and His Lass",
+    "composer": "Morley",
+    "arranger": "",
+    "publishers": [
+      "G. Schirmer, Inc. [European Madrigals]"
+    ],
+    "publisherText": "G. Schirmer, Inc. [European Madrigals]",
+    "classLevel": 1,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-1-20746",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "My Bonny Lass",
+    "composer": "Morley",
+    "arranger": "",
+    "publishers": [
+      "E.C. Schirmer Music Company [A Cappella Singer, The]",
+      "Oxford University Press [Madrigals and Partsongs]",
+      "Oxford Press [Oxford Book of English Madrigals]"
+    ],
+    "publisherText": "E.C. Schirmer Music Company [A Cappella Singer, The];Oxford University Press [Madrigals and Partsongs];Oxford Press [Oxford Book of English Madrigals]",
+    "classLevel": 1,
+    "specification": "(SATTB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-1-27422",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "My Bonny Lass She Smileth",
+    "composer": "Morley",
+    "arranger": "Bartlett",
+    "publishers": [
+      "Oxford University Press"
+    ],
+    "publisherText": "Oxford University Press",
+    "classLevel": 1,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-1-33323",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "My Bonny Lass She Smileth",
+    "composer": "Morley",
+    "arranger": "Leavitt",
+    "publishers": [
+      "Hal Leonard Music, Inc."
+    ],
+    "publisherText": "Hal Leonard Music, Inc.",
+    "classLevel": 1,
+    "specification": "(SSATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-1-20748",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Now is the Month of Maying",
+    "composer": "Morley",
+    "arranger": "",
+    "publishers": [
+      "Faber Music, Ltd. [The King's Singers' Madrigals, Volume 2]",
+      "E.C. Schirmer Music Company [A Cappella Singer, The]",
+      "J&W Chester, Ltd. [Chester Book of Madrigals, The, Book 4 (The Seasons)]",
+      "Hinshaw Music Inc."
+    ],
+    "publisherText": "Faber Music, Ltd. [The King's Singers' Madrigals, Volume 2];E.C. Schirmer Music Company [A Cappella Singer, The];J&W Chester, Ltd. [Chester Book of Madrigals, The, Book 4 (The Seasons)];Hinshaw Music Inc.",
+    "classLevel": 1,
+    "specification": "(SATTB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-1-34225",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Now is the Month of Maying!",
+    "composer": "Morley",
+    "arranger": "Shaw",
+    "publishers": [
+      "Alfred Music Company, Inc."
+    ],
+    "publisherText": "Alfred Music Company, Inc.",
+    "classLevel": 1,
+    "specification": "(SATB) (percussion)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-1-20749",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Said I That Amaryllis",
+    "composer": "Morley",
+    "arranger": "",
+    "publishers": [
+      "J&W Chester, Ltd. [Chester Book of Madrigals, The, Book 3 (Desirable Women)]"
+    ],
+    "publisherText": "J&W Chester, Ltd. [Chester Book of Madrigals, The, Book 3 (Desirable Women)]",
+    "classLevel": 1,
+    "specification": "(SSATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-1-20750",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Shoot, False Love, I Care Not",
+    "composer": "Morley",
+    "arranger": "",
+    "publishers": [
+      "E.C. Schirmer Music Company [A Cappella Singer, The]"
+    ],
+    "publisherText": "E.C. Schirmer Music Company [A Cappella Singer, The]",
+    "classLevel": 1,
+    "specification": "(SSATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-1-20751",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Since My Tears and Lamenting",
+    "composer": "Morley",
+    "arranger": "",
+    "publishers": [
+      "Galaxy Music Corporation [Invitation to Madrigals, Book 2]"
+    ],
+    "publisherText": "Galaxy Music Corporation [Invitation to Madrigals, Book 2]",
+    "classLevel": 1,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-1-20752",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Sing We and Chant It",
+    "composer": "Morley",
+    "arranger": "",
+    "publishers": [
+      "E.C. Schirmer Music Company [A Cappella Singer, The]"
+    ],
+    "publisherText": "E.C. Schirmer Music Company [A Cappella Singer, The]",
+    "classLevel": 1,
+    "specification": "(SSATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-1-34224",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Oy Es Dia De Placer",
+    "composer": "Pascual",
+    "arranger": "Noblett",
+    "publishers": [
+      "Walton Music Corporation"
+    ],
+    "publisherText": "Walton Music Corporation",
+    "classLevel": 1,
+    "specification": "(SATB) (percussion)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-1-20756",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Il Est Bel et Bon",
+    "composer": "Passereau",
+    "arranger": "",
+    "publishers": [
+      "Faber Music, Ltd. [The King's Singers' Madrigals, Volume 1]",
+      "Salabert, Inc.",
+      "J&W Chester, Ltd. [Chester Book of Madrigals, The, Book 1 (Animal Kingdom)]",
+      "Oxford University Press [Madrigals and Partsongs]"
+    ],
+    "publisherText": "Faber Music, Ltd. [The King's Singers' Madrigals, Volume 1];Salabert, Inc.;J&W Chester, Ltd. [Chester Book of Madrigals, The, Book 1 (Animal Kingdom)];Oxford University Press [Madrigals and Partsongs]",
+    "classLevel": 1,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-1-20757",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Pourquoi donc ne fringuerons-nous",
+    "composer": "Passereau",
+    "arranger": "",
+    "publishers": [
+      "J&W Chester, Ltd. [Chester Book of Madrigals, The, Book 5 (Singing and Dancing)]"
+    ],
+    "publisherText": "J&W Chester, Ltd. [Chester Book of Madrigals, The, Book 5 (Singing and Dancing)]",
+    "classLevel": 1,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-1-20758",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Frolich zu seyn",
+    "composer": "Peuerl",
+    "arranger": "Greyson",
+    "publishers": [
+      "Bourne, Co."
+    ],
+    "publisherText": "Bourne, Co.",
+    "classLevel": 1,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-1-27425",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Sing We, Dance We on the Green",
+    "composer": "Pilkington",
+    "arranger": "Bausano",
+    "publishers": [
+      "J&W Chester, Ltd. [Chester Book of Madrigals, The, Book 5 (Singing and Dancing)]"
+    ],
+    "publisherText": "J&W Chester, Ltd. [Chester Book of Madrigals, The, Book 5 (Singing and Dancing)]",
+    "classLevel": 1,
+    "specification": "(SSATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-1-20763",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "In These Delightful Pleasant Groves",
+    "composer": "Purcell",
+    "arranger": "Collins",
+    "publishers": [
+      "Hinshaw Music Inc."
+    ],
+    "publisherText": "Hinshaw Music Inc.",
+    "classLevel": 1,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-1-31635",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Douce memoire",
+    "composer": "Sandrin",
+    "arranger": "Bartlett",
+    "publishers": [
+      "Oxford University Press [Madrigals and Partsongs]"
+    ],
+    "publisherText": "Oxford University Press [Madrigals and Partsongs]",
+    "classLevel": 1,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-1-20768",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Soll Denn So Mein Herz",
+    "composer": "Schein",
+    "arranger": "",
+    "publishers": [
+      "Harold Flammer, Inc. [Renaissance to Baroque, Vol. 4]",
+      "Shawnee Press"
+    ],
+    "publisherText": "Harold Flammer, Inc. [Renaissance to Baroque, Vol. 4];Shawnee Press",
+    "classLevel": 1,
+    "specification": "(SSATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-1-20769",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Mit Lust Tret ich an diesen Tanz (With Joy I Dance All Down the Line)",
+    "composer": "Senfl",
+    "arranger": "",
+    "publishers": [
+      "G. Schirmer, Inc. [European Madrigals]"
+    ],
+    "publisherText": "G. Schirmer, Inc. [European Madrigals]",
+    "classLevel": 1,
+    "specification": "(SSATBB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-1-31637",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Heraclitus",
+    "composer": "Stanford",
+    "arranger": "Bartlett",
+    "publishers": [
+      "Oxford University Press [Madrigals and Partsongs]"
+    ],
+    "publisherText": "Oxford University Press [Madrigals and Partsongs]",
+    "classLevel": 1,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-1-31636",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "The Blue Bird",
+    "composer": "Stanford",
+    "arranger": "Bartlett",
+    "publishers": [
+      "Oxford University Press [Madrigals and Partsongs]"
+    ],
+    "publisherText": "Oxford University Press [Madrigals and Partsongs]",
+    "classLevel": 1,
+    "specification": "(SAATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-1-20773",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Au joli bois",
+    "composer": "Tessier",
+    "arranger": "Knight",
+    "publishers": [
+      "Carl Fischer, Inc."
+    ],
+    "publisherText": "Carl Fischer, Inc.",
+    "classLevel": 1,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-1-20775",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "See, See the Shepherds' Queen",
+    "composer": "Tomkins",
+    "arranger": "Deller",
+    "publishers": [
+      "Oxford University Press [Oxford Book of English Madrigals, The]"
+    ],
+    "publisherText": "Oxford University Press [Oxford Book of English Madrigals, The]",
+    "classLevel": 1,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-1-27426",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Too Much I Once Lamented",
+    "composer": "Tomkins",
+    "arranger": "",
+    "publishers": [
+      "Faber Music, Ltd. [The King's Singers' Madrigals, Volume 2]"
+    ],
+    "publisherText": "Faber Music, Ltd. [The King's Singers' Madrigals, Volume 2]",
+    "classLevel": 1,
+    "specification": "(SSATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-1-27427",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Two Renaissance Madrigal Laments",
+    "composer": "Tudino",
+    "arranger": "Kivell",
+    "publishers": [
+      "E.C. Schirmer Music Company"
+    ],
+    "publisherText": "E.C. Schirmer Music Company",
+    "classLevel": 1,
+    "specification": "(SATB) (sing one madrigal)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-1-27430",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Gentil senora mia",
+    "composer": "Vasquez",
+    "arranger": "Bartlett",
+    "publishers": [
+      "Faber Music, Ltd. [The King's Singers' Madrigals, Volume 2]"
+    ],
+    "publisherText": "Faber Music, Ltd. [The King's Singers' Madrigals, Volume 2]",
+    "classLevel": 1,
+    "specification": "(SATTB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-1-20776",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "De los alamos vengo, madre",
+    "composer": "Vaszuez",
+    "arranger": "Nin-Culmell",
+    "publishers": [
+      "Faber Music, Ltd. [The King's Singers' Madrigals, Volume 1]",
+      "Broude Brothers"
+    ],
+    "publisherText": "Faber Music, Ltd. [The King's Singers' Madrigals, Volume 1];Broude Brothers",
+    "classLevel": 1,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-1-20777",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Ah Sweet, Whose Beauty",
+    "composer": "Vauter",
+    "arranger": "McCarthy",
+    "publishers": [
+      "Bourne, Co."
+    ],
+    "publisherText": "Bourne, Co.",
+    "classLevel": 1,
+    "specification": "(SSATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-1-20779",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Mother, I Will Have A Husband",
+    "composer": "Vautor",
+    "arranger": "",
+    "publishers": [
+      "Oxford University Press [Oxford Book of English Madrigals, The]",
+      "Harold Flammer, Inc. [Renaissance to Baroque, Vol. 3]",
+      "Shawnee Press"
+    ],
+    "publisherText": "Oxford University Press [Oxford Book of English Madrigals, The];Harold Flammer, Inc. [Renaissance to Baroque, Vol. 3];Shawnee Press",
+    "classLevel": 1,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-1-20780",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Sweet Suffolk Owl",
+    "composer": "Vautor",
+    "arranger": "",
+    "publishers": [
+      "Oxford University Press [Oxford Book of English Madrigals, The]",
+      "Oxford University Press [Madrigals and Partsongs]"
+    ],
+    "publisherText": "Oxford University Press [Oxford Book of English Madrigals, The];Oxford University Press [Madrigals and Partsongs]",
+    "classLevel": 1,
+    "specification": "(SSATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-1-20781",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "The White and Gentle Swan (Il bianco e dolce cigno)",
+    "composer": "Vecchi",
+    "arranger": "Knight",
+    "publishers": [
+      "Carl Fischer, Inc."
+    ],
+    "publisherText": "Carl Fischer, Inc.",
+    "classLevel": 1,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-1-20782",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "One Smiling Summer Morning",
+    "composer": "Verdelot",
+    "arranger": "",
+    "publishers": [
+      "E.C. Schirmer Music Company [A Cappella Singer, The]"
+    ],
+    "publisherText": "E.C. Schirmer Music Company [A Cappella Singer, The]",
+    "classLevel": 1,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-1-27431",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "As Vesta Was From Latmos Hill Descending",
+    "composer": "Weelkes",
+    "arranger": "King's Singers",
+    "publishers": [
+      "Hal Leonard Music, Inc. [king'singers English Renaissance, Volume 1]"
+    ],
+    "publisherText": "Hal Leonard Music, Inc. [king'singers English Renaissance, Volume 1]",
+    "classLevel": 1,
+    "specification": "(SSATTB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-1-20783",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "I Love and Have My Love Regarded",
+    "composer": "Weelkes",
+    "arranger": "Haberlen",
+    "publishers": [
+      "Neil A. Kjos Music Company"
+    ],
+    "publisherText": "Neil A. Kjos Music Company",
+    "classLevel": 1,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-1-20784",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Lady Your Eye My Love Enforced",
+    "composer": "Weelkes",
+    "arranger": "",
+    "publishers": [
+      "E.C. Schirmer Music Company [A Cappella Singer, The]"
+    ],
+    "publisherText": "E.C. Schirmer Music Company [A Cappella Singer, The]",
+    "classLevel": 1,
+    "specification": "(SSATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-1-20785",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "O Care, Thou Wilt Despatch Me",
+    "composer": "Weelkes",
+    "arranger": "",
+    "publishers": [
+      "Oxford University Press [Oxford Book of English Madrigals, The]"
+    ],
+    "publisherText": "Oxford University Press [Oxford Book of English Madrigals, The]",
+    "classLevel": 1,
+    "specification": "(SSATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-1-20786",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "The Nightingale, the Organ of Delight",
+    "composer": "Weelkes",
+    "arranger": "Carl",
+    "publishers": [
+      "National Music Publishers, Inc."
+    ],
+    "publisherText": "National Music Publishers, Inc.",
+    "classLevel": 1,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-1-20787",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Wohlauf, ihr Gaste",
+    "composer": "Widmann",
+    "arranger": "",
+    "publishers": [
+      "G. Schirmer, Inc. [European Madrigals]"
+    ],
+    "publisherText": "G. Schirmer, Inc. [European Madrigals]",
+    "classLevel": 1,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-1-20788",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Adieu, Sweet Amarillis",
+    "composer": "Wilbye",
+    "arranger": "",
+    "publishers": [
+      "Faber Music, Ltd. [The King's Singers' Madrigals, Volume 1]",
+      "Penguin Books [Penguin Book of English Madrigals for Four Voices, The]",
+      "Oxford University Press [Oxford Book of English Madrigals, The]",
+      "E.C. Schirmer Music Company [A Cappella Singer, The]",
+      "J&W Chester, Ltd. [Chester Book of Madrigals, The, Book 3 (Desirable Women)]",
+      "Galaxy Music Corporation [Invitation to Madrigals, Book 2]"
+    ],
+    "publisherText": "Faber Music, Ltd. [The King's Singers' Madrigals, Volume 1];Penguin Books [Penguin Book of English Madrigals for Four Voices, The];Oxford University Press [Oxford Book of English Madrigals, The];E.C. Schirmer Music Company [A Cappella Singer, The];J&W Chester, Ltd. [Chester Book of Madrigals, The, Book 3 (Desirable Women)];Galaxy Music Corporation [Invitation to Madrigals, Book 2]",
+    "classLevel": 1,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-1-27433",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Draw On, Sweet Night",
+    "composer": "Wilbye",
+    "arranger": "Bartlett",
+    "publishers": [
+      "Oxford University Press [Madrigals and Partsongs]"
+    ],
+    "publisherText": "Oxford University Press [Madrigals and Partsongs]",
+    "classLevel": 1,
+    "specification": "(SSATTB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-1-20793",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Flora Gave Me Fairest Flowers",
+    "composer": "Wilbye",
+    "arranger": "",
+    "publishers": [
+      "Frank Music Corporation [Madrigals of the Renaissance]",
+      "E.C. Schirmer Music Company [A Cappella Singer, The]",
+      "Hal Leonard Music, Inc. [Madrigals of the Renaissance]"
+    ],
+    "publisherText": "Frank Music Corporation [Madrigals of the Renaissance];E.C. Schirmer Music Company [A Cappella Singer, The];Hal Leonard Music, Inc. [Madrigals of the Renaissance]",
+    "classLevel": 1,
+    "specification": "(SSATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-1-20796",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Sweet Honey-Sucking Bees",
+    "composer": "Wilbye",
+    "arranger": "",
+    "publishers": [
+      "Oxford University Press [Oxford Book of English Madrigals, The]"
+    ],
+    "publisherText": "Oxford University Press [Oxford Book of English Madrigals, The]",
+    "classLevel": 1,
+    "specification": "(SSATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-1-20797",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Madonn' io non lo so perche lo fai",
+    "composer": "Willaert",
+    "arranger": "Hall",
+    "publishers": [
+      "National Music Publishers, Inc."
+    ],
+    "publisherText": "National Music Publishers, Inc.",
+    "classLevel": 1,
+    "specification": "(SATB) (Italian) (NO instruments)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-1-27401",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Bon jour; et puis quelles nouvelles?",
+    "composer": "de Lassus",
+    "arranger": "Bartlett",
+    "publishers": [
+      "Faber Music, Ltd. [The King's Singers' Madrigals, Volume 2]"
+    ],
+    "publisherText": "Faber Music, Ltd. [The King's Singers' Madrigals, Volume 2]",
+    "classLevel": 1,
+    "specification": "(SATTB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-1-27402",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Chi chilichi",
+    "composer": "de Lassus",
+    "arranger": "King's Singers/Bartlett",
+    "publishers": [
+      "Hal Leonard Music, Inc. [The King's Singers European Renaissance]",
+      "Oxford University Press [Madrigals and Partsongs]"
+    ],
+    "publisherText": "Hal Leonard Music, Inc. [The King's Singers European Renaissance];Oxford University Press [Madrigals and Partsongs]",
+    "classLevel": 1,
+    "specification": "(SSATBB or SSATTB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-1-27403",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Valle, che de' lamenti miei se' piena",
+    "composer": "de Wert",
+    "arranger": "Bartlett",
+    "publishers": [
+      "Faber Music, Ltd. [The King's Singers' Madrigals, Volume 2]"
+    ],
+    "publisherText": "Faber Music, Ltd. [The King's Singers' Madrigals, Volume 2]",
+    "classLevel": 1,
+    "specification": "(SATTB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-1-27404",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Vezzosi Augelli (Pretty Birds)",
+    "composer": "de Wert",
+    "arranger": "",
+    "publishers": [
+      "National Music Publishers, Inc."
+    ],
+    "publisherText": "National Music Publishers, Inc.",
+    "classLevel": 1,
+    "specification": "(SSATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-1-31628",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Mille Regrets",
+    "composer": "des Pres",
+    "arranger": "Bartlett",
+    "publishers": [
+      "Oxford University Press [Madrigals and Partsongs]"
+    ],
+    "publisherText": "Oxford University Press [Madrigals and Partsongs]",
+    "classLevel": 1,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-1-20682",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Bon jour mon coeur",
+    "composer": "di Lasso",
+    "arranger": "",
+    "publishers": [
+      "G. Schirmer, Inc. [European Madrigals]"
+    ],
+    "publisherText": "G. Schirmer, Inc. [European Madrigals]",
+    "classLevel": 1,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-1-20684",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "Flee, O Flee From Love's Desire",
+    "composer": "di Lasso",
+    "arranger": "Hirt",
+    "publishers": [
+      "Hinshaw Music Inc."
+    ],
+    "publisherText": "Hinshaw Music Inc.",
+    "classLevel": 1,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "179-1-20688",
+    "instrumentSlug": "madrigal",
+    "instrumentName": "Madrigals",
+    "eventName": "Madrigal",
+    "title": "The Big Fat Goose (Audite Nova!)",
+    "composer": "di Lasso",
+    "arranger": "Mason",
+    "publishers": [
+      "Walton Music Corporation"
+    ],
+    "publisherText": "Walton Music Corporation",
+    "classLevel": 1,
+    "specification": "(SATB)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  }
+]

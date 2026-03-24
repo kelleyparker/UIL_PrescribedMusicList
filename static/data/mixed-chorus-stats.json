@@ -1,0 +1,22 @@
+{
+  "schoolYear": "2025-2026",
+  "instrumentSlug": "mixed-chorus",
+  "instrumentName": "Mixed Choruses",
+  "songCount": 1646,
+  "publisherCount": 1729,
+  "noteCount": 1,
+  "databaseRecordCount": 1647,
+  "classBreakdown": {
+    "3": 346,
+    "2": 192,
+    "1": 69
+  },
+  "noMemoryRequiredCount": 0,
+  "publicDomainPdfCount": 0,
+  "eventBreakdown": {
+    "Mixed Chorus": 1646
+  },
+  "notes": {
+    "dataset_audit": "Sourced from https://www.uiltexas.org/pml/ and https://www.uiltexas.org/pml/pml.php. Imported 2026-03-24T22:13:49.802165+00:00."
+  }
+}

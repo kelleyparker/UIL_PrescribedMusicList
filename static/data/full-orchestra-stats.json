@@ -1,0 +1,22 @@
+{
+  "schoolYear": "2025-2026",
+  "instrumentSlug": "full-orchestra",
+  "instrumentName": "Full Orchestra",
+  "songCount": 727,
+  "publisherCount": 904,
+  "noteCount": 1,
+  "databaseRecordCount": 728,
+  "classBreakdown": {
+    "3": 133,
+    "2": 123,
+    "1": 48
+  },
+  "noMemoryRequiredCount": 0,
+  "publicDomainPdfCount": 0,
+  "eventBreakdown": {
+    "Full Orchestra": 727
+  },
+  "notes": {
+    "dataset_audit": "Sourced from https://www.uiltexas.org/pml/ and https://www.uiltexas.org/pml/pml.php. Imported 2026-03-24T22:13:49.589352+00:00."
+  }
+}

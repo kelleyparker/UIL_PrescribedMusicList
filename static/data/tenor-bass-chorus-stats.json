@@ -1,0 +1,22 @@
+{
+  "schoolYear": "2025-2026",
+  "instrumentSlug": "tenor-bass-chorus",
+  "instrumentName": "Tenor-Bass Choruses",
+  "songCount": 892,
+  "publisherCount": 926,
+  "noteCount": 1,
+  "databaseRecordCount": 893,
+  "classBreakdown": {
+    "3": 225,
+    "2": 195,
+    "1": 77
+  },
+  "noMemoryRequiredCount": 0,
+  "publicDomainPdfCount": 0,
+  "eventBreakdown": {
+    "Tenor-Bass Chorus": 892
+  },
+  "notes": {
+    "dataset_audit": "Sourced from https://www.uiltexas.org/pml/ and https://www.uiltexas.org/pml/pml.php. Imported 2026-03-24T22:13:49.859764+00:00."
+  }
+}

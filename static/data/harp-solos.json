@@ -1,0 +1,2966 @@
+[
+  {
+    "uilCode": "602-3-40019",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Asters",
+    "composer": "Andres",
+    "arranger": "",
+    "publishers": [
+      "Alphonse Leduc"
+    ],
+    "publisherText": "Alphonse Leduc",
+    "classLevel": 3,
+    "specification": "(play two mvts)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-3-17985",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Charades",
+    "composer": "Andres",
+    "arranger": "",
+    "publishers": [
+      "Alphonse Leduc"
+    ],
+    "publisherText": "Alphonse Leduc",
+    "classLevel": 3,
+    "specification": "(play any two of mvts from 1 - 6)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-3-40020",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Contes Vagues",
+    "composer": "Andres",
+    "arranger": "",
+    "publishers": [
+      "Alphonse Leduc"
+    ],
+    "publisherText": "Alphonse Leduc",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-3-17986",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Marelles Book II",
+    "composer": "Andres",
+    "arranger": "",
+    "publishers": [
+      "Alphonse Leduc"
+    ],
+    "publisherText": "Alphonse Leduc",
+    "classLevel": 3,
+    "specification": "(play No. 7 & 8; or 10 & 12)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-3-40021",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Ribambelle",
+    "composer": "Andres",
+    "arranger": "",
+    "publishers": [
+      "Alphonse Leduc"
+    ],
+    "publisherText": "Alphonse Leduc",
+    "classLevel": 3,
+    "specification": "(play any mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-3-17994",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Thirty Little Classics for the Harp",
+    "composer": "Anon. or Trad.",
+    "arranger": "Dilling",
+    "publishers": [
+      "Oliver Ditson Company"
+    ],
+    "publisherText": "Oliver Ditson Company",
+    "classLevel": 3,
+    "specification": "(play one)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-3-17987",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Six Chorales",
+    "composer": "Bach",
+    "arranger": "Thompson",
+    "publishers": [
+      "Salvi"
+    ],
+    "publisherText": "Salvi",
+    "classLevel": 3,
+    "specification": "(play one)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-3-25730",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Fiesta for solo harp",
+    "composer": "Barber",
+    "arranger": "",
+    "publishers": [
+      "Vanderbilt",
+      "Lyrical Light Harp Publications"
+    ],
+    "publisherText": "Vanderbilt;Lyrical Light Harp Publications",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-3-17990",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Scottish Harpist Level 1",
+    "composer": "Curcio",
+    "arranger": "",
+    "publishers": [
+      "stephaniecurciopublications.com [Scottish Harpist Level 1]"
+    ],
+    "publisherText": "stephaniecurciopublications.com [Scottish Harpist Level 1]",
+    "classLevel": 3,
+    "specification": "(play My Love is Like a Red Red Rose OR Robin Adair OR Skye Boat Song OR The Blue Bells of Scotland)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-3-40023",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Stage One Solos",
+    "composer": "Curcio",
+    "arranger": "",
+    "publishers": [
+      "stephaniecurciopublications.com [Stage One Solos]"
+    ],
+    "publisherText": "stephaniecurciopublications.com [Stage One Solos]",
+    "classLevel": 3,
+    "specification": "(play Fairy Lullaby OR Pentatonic Tune)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-3-17995",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Nocturne (from Trois Pieces Faciles)",
+    "composer": "Grandjany",
+    "arranger": "",
+    "publishers": [
+      "Lyra",
+      "Alphonse Leduc"
+    ],
+    "publisherText": "Lyra;Alphonse Leduc",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-3-17996",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Reverie (from Trois Pieces Faciles)",
+    "composer": "Grandjany",
+    "arranger": "",
+    "publishers": [
+      "Lyra",
+      "Alphonse Leduc"
+    ],
+    "publisherText": "Lyra;Alphonse Leduc",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-3-17946",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Gram's Lullaby",
+    "composer": "Gustavson",
+    "arranger": "",
+    "publishers": [
+      "Gustavson Music Publications"
+    ],
+    "publisherText": "Gustavson Music Publications",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-3-17997",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "The Magic Road",
+    "composer": "Gustavson",
+    "arranger": "",
+    "publishers": [
+      "Salvi Publications [The Magic Road]"
+    ],
+    "publisherText": "Salvi Publications [The Magic Road]",
+    "classLevel": 3,
+    "specification": "TITLE CHANGE & SPECS: (play any one EXCEPT A Moorish Garden)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-3-18004",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Petite Berceuse pour harpe, Op. 11",
+    "composer": "Hasselmans",
+    "arranger": "",
+    "publishers": [
+      "Lyra Music Company",
+      "Alphonse Leduc",
+      "Public Domain"
+    ],
+    "publisherText": "Lyra Music Company;Alphonse Leduc;Public Domain",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-3-18006",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "The Royale Harpist",
+    "composer": "Honey",
+    "arranger": "",
+    "publishers": [
+      "afghanpressmusic.com [The Royale Harpist]"
+    ],
+    "publisherText": "afghanpressmusic.com [The Royale Harpist]",
+    "classLevel": 3,
+    "specification": "(play Branle d'Escosse OR Branle de Cheveaux OR Cantiga OR L'Espagnoletta)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-3-18014",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Early English Pieces",
+    "composer": "Lawrence",
+    "arranger": "",
+    "publishers": [
+      "Lyra Music Company"
+    ],
+    "publisherText": "Lyra Music Company",
+    "classLevel": 3,
+    "specification": "(play one)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-3-18015",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Early French Pieces",
+    "composer": "Lawrence",
+    "arranger": "",
+    "publishers": [
+      "Lyra Music Company"
+    ],
+    "publisherText": "Lyra Music Company",
+    "classLevel": 3,
+    "specification": "(play one)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-3-18016",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Graded Recital Pieces, Vol. 1",
+    "composer": "McDonald",
+    "arranger": "Wood",
+    "publishers": [
+      "M. Whitmark & Sons [Graded Recital Pieces Vol I]"
+    ],
+    "publisherText": "M. Whitmark & Sons [Graded Recital Pieces Vol I]",
+    "classLevel": 3,
+    "specification": "(play Concert Etude OR Moonlight)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-3-18019",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Irish Songs",
+    "composer": "Murphy",
+    "arranger": "",
+    "publishers": [
+      "Lyra Music Company [Irish Songs]"
+    ],
+    "publisherText": "Lyra Music Company [Irish Songs]",
+    "classLevel": 3,
+    "specification": "(play Harvest Hornpipe OR Window Smasher Jig OR Gramanhree OR The Lark in the Clear Air)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-3-40027",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Grand\u2019M\u00e8re Raconte Une Histoire",
+    "composer": "Renie",
+    "arranger": "",
+    "publishers": [
+      "Alphonse Leduc"
+    ],
+    "publisherText": "Alphonse Leduc",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-3-18023",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "The Little Harp's Delight",
+    "composer": "Soule",
+    "arranger": "",
+    "publishers": [
+      "Lyra Music Company [The Little Harp's Delight]"
+    ],
+    "publisherText": "Lyra Music Company [The Little Harp's Delight]",
+    "classLevel": 3,
+    "specification": "(play English Song OR Folk Dance OR Sailors' Dance)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-3-17988",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Early German Pieces",
+    "composer": "various",
+    "arranger": "Lawrence",
+    "publishers": [
+      "Lyra Music Company [Early German Pieces]"
+    ],
+    "publisherText": "Lyra Music Company [Early German Pieces]",
+    "classLevel": 3,
+    "specification": "(play Song OR German Dance in D OR Country Waltz OR Minuet)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-3-40024",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "First Harp Book",
+    "composer": "various",
+    "arranger": "Paret",
+    "publishers": [
+      "G. Schirmer, Inc."
+    ],
+    "publisherText": "G. Schirmer, Inc.",
+    "classLevel": 3,
+    "specification": "(play The Jolly Peasant OR The Foggy Dew OR Rondo)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-3-40025",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Harp Solos Graded Recital Pieces, Vol. 1",
+    "composer": "various",
+    "arranger": "",
+    "publishers": [
+      "Music Works Harp Editions [Harp Solos Graded Recital Pieces Vol. 1]"
+    ],
+    "publisherText": "Music Works Harp Editions [Harp Solos Graded Recital Pieces Vol. 1]",
+    "classLevel": 3,
+    "specification": "(play Little Prelude OR Reverie OR Stars OR Chorale)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-3-40026",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Les Plaisirs de la Harpe, Vol. 1",
+    "composer": "various",
+    "arranger": "G\u00e9liot",
+    "publishers": [
+      "Henry Lemoine [Les Plaisirs de la Harpe Vol. 1]"
+    ],
+    "publisherText": "Henry Lemoine [Les Plaisirs de la Harpe Vol. 1]",
+    "classLevel": 3,
+    "specification": "(play Romance Without Words (Bois Solitaire) OR Les Tierces)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-3-40022",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Suzuki Harp School, Vol. 1",
+    "composer": "various",
+    "arranger": "",
+    "publishers": [
+      "Alfred Music Company, Inc. [Suzuki Harp School Vol. 1]"
+    ],
+    "publisherText": "Alfred Music Company, Inc. [Suzuki Harp School Vol. 1]",
+    "classLevel": 3,
+    "specification": "(play Chant Arabe OR Musette OR Little Playmates OR Andante OR Crickets\u2019 Song OR Gigue)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-2-39997",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Aquatintes",
+    "composer": "Andres",
+    "arranger": "",
+    "publishers": [
+      "Alphonse Leduc"
+    ],
+    "publisherText": "Alphonse Leduc",
+    "classLevel": 2,
+    "specification": "(play any mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-2-17925",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Automates",
+    "composer": "Andres",
+    "arranger": "",
+    "publishers": [
+      "Alphonse Leduc"
+    ],
+    "publisherText": "Alphonse Leduc",
+    "classLevel": 2,
+    "specification": "(play any two mvts)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-2-39998",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Epices 1er Cahier (Volume 1)",
+    "composer": "Andres",
+    "arranger": "",
+    "publishers": [
+      "Alphonse Leduc"
+    ],
+    "publisherText": "Alphonse Leduc",
+    "classLevel": 2,
+    "specification": "(play Muscade OR Vanille OR Pistache OR Paprika)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-2-39999",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Epices 2e Cahier (Volume 2)",
+    "composer": "Andres",
+    "arranger": "",
+    "publishers": [
+      "Alphonse Leduc"
+    ],
+    "publisherText": "Alphonse Leduc",
+    "classLevel": 2,
+    "specification": "(play Safran OR Cannelle OR Kola OR Gingembre)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-2-17926",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "La Gimblette",
+    "composer": "Andres",
+    "arranger": "",
+    "publishers": [
+      "Editions Musicales Hortensia"
+    ],
+    "publisherText": "Editions Musicales Hortensia",
+    "classLevel": 2,
+    "specification": "(play Theme & var 1, 4, 5, 6, 8, final)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-2-40000",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Les Petits Pas",
+    "composer": "Andres",
+    "arranger": "",
+    "publishers": [
+      "Henry Lemoine"
+    ],
+    "publisherText": "Henry Lemoine",
+    "classLevel": 2,
+    "specification": "(play two mvts)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-2-17983",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "18th Century Music",
+    "composer": "Anon. or Trad.",
+    "arranger": "Thompson",
+    "publishers": [
+      "Franco Colombo"
+    ],
+    "publisherText": "Franco Colombo",
+    "classLevel": 2,
+    "specification": "(play No. 1 or 3)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-2-17980",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Annie Laurie",
+    "composer": "Anon. or Trad.",
+    "arranger": "Salzedo",
+    "publishers": [
+      "Carl Fischer, Inc."
+    ],
+    "publisherText": "Carl Fischer, Inc.",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-2-17958",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Anthology of Music for the Harp",
+    "composer": "Anon. or Trad.",
+    "arranger": "Owen",
+    "publishers": [
+      "Lyra Music Company [Anthology of Music for the Harp]"
+    ],
+    "publisherText": "Lyra Music Company [Anthology of Music for the Harp]",
+    "classLevel": 2,
+    "specification": "(play Galop OR Shepherd Playing His Pipe OR Theme (from Sonata XVI) OR To A Wild Rose OR Waltz)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-2-17931",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Classics for Troubador",
+    "composer": "Anon. or Trad.",
+    "arranger": "Chertok",
+    "publishers": [
+      "Salvi"
+    ],
+    "publisherText": "Salvi",
+    "classLevel": 2,
+    "specification": "(play one)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-2-40002",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Second Harp Book",
+    "composer": "Bach",
+    "arranger": "Paret",
+    "publishers": [
+      "Lyra Music Company [Second Harp Book]"
+    ],
+    "publisherText": "Lyra Music Company [Second Harp Book]",
+    "classLevel": 2,
+    "specification": "(play Prelude OR Sarabande)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-2-17927",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Solfeggietto",
+    "composer": "Bach",
+    "arranger": "Miller",
+    "publishers": [
+      "Carl Fischer, Inc."
+    ],
+    "publisherText": "Carl Fischer, Inc.",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-2-17928",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Harp of the Western Wind from \u201cWindmill Sketches",
+    "composer": "Barber",
+    "arranger": "",
+    "publishers": [
+      "Vanderbilt"
+    ],
+    "publisherText": "Vanderbilt",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-2-25727",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "The River",
+    "composer": "Barber",
+    "arranger": "",
+    "publishers": [
+      "Vanderbilt",
+      "Lyrical Light Harp Publications"
+    ],
+    "publisherText": "Vanderbilt;Lyrical Light Harp Publications",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-2-17930",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Rigaudon",
+    "composer": "Campra",
+    "arranger": "Owens",
+    "publishers": [
+      "Lyra Music Company"
+    ],
+    "publisherText": "Lyra Music Company",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-2-40004",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Promenade a Marly",
+    "composer": "Challan",
+    "arranger": "",
+    "publishers": [
+      "Alphonse Leduc",
+      "Alfred Music Company, Inc. [Suzuki Harp School Vol. 3]"
+    ],
+    "publisherText": "Alphonse Leduc;Alfred Music Company, Inc. [Suzuki Harp School Vol. 3]",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-2-17932",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Prelude in c minor",
+    "composer": "Chopin",
+    "arranger": "Miller",
+    "publishers": [
+      "Carl Fischer, Inc."
+    ],
+    "publisherText": "Carl Fischer, Inc.",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-2-17884",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Sarabande from the \u201cQuatrieme Concert Royal\u201d",
+    "composer": "Couperin",
+    "arranger": "Salzedo",
+    "publishers": [
+      "Lyra Music Company",
+      "G. Schirmer, Inc."
+    ],
+    "publisherText": "Lyra Music Company;G. Schirmer, Inc.",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-2-17934",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Scottish Harpist Level 2",
+    "composer": "Curcio",
+    "arranger": "",
+    "publishers": [
+      "stephaniecurciopublications.com [Scottish Harpist Level 2]"
+    ],
+    "publisherText": "stephaniecurciopublications.com [Scottish Harpist Level 2]",
+    "classLevel": 2,
+    "specification": "(play McCleod's Quickstep OR Petronella)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-2-17936",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Variations on Simple Gifts",
+    "composer": "Curcio",
+    "arranger": "",
+    "publishers": [
+      "stephaniecurciopublications.com"
+    ],
+    "publisherText": "stephaniecurciopublications.com",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-2-17937",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Bagatelles for Harp",
+    "composer": "Dello Joio",
+    "arranger": "",
+    "publishers": [
+      "Marks Music Corporation"
+    ],
+    "publisherText": "Marks Music Corporation",
+    "classLevel": 2,
+    "specification": "(play one)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-2-17892",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Windy Nights",
+    "composer": "Forst",
+    "arranger": "",
+    "publishers": [
+      "Lyra Music Company"
+    ],
+    "publisherText": "Lyra Music Company",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-2-40005",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Etude No. 4 in F Major",
+    "composer": "Godefroid",
+    "arranger": "",
+    "publishers": [
+      "Alfred Music Company, Inc. [Suzuki Harp School Vol. 4]",
+      "Music Works Harp Editions [Harp Olympics Stage IV]",
+      "Public Domain"
+    ],
+    "publisherText": "Alfred Music Company, Inc. [Suzuki Harp School Vol. 4];Music Works Harp Editions [Harp Olympics Stage IV];Public Domain",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-2-40006",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Romance Without Words (Bois Solitaire)",
+    "composer": "Godefroid",
+    "arranger": "",
+    "publishers": [
+      "Music Works Harp Editions"
+    ],
+    "publisherText": "Music Works Harp Editions",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-2-17949",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Spanish Music for the Harp Vol. 3",
+    "composer": "Granados",
+    "arranger": "McDonald/Wood",
+    "publishers": [
+      "Music Works Harp Editions [Spanish Music for the Harp Vol. 3]"
+    ],
+    "publisherText": "Music Works Harp Editions [Spanish Music for the Harp Vol. 3]",
+    "classLevel": 2,
+    "specification": "(play No. 2 Oriental OR No. 6 Jota)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-2-17939",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Automne",
+    "composer": "Grandjany",
+    "arranger": "",
+    "publishers": [
+      "Durand"
+    ],
+    "publisherText": "Durand",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-2-17940",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Barcarolle (from Trois Pieces Faciiles)",
+    "composer": "Grandjany",
+    "arranger": "",
+    "publishers": [
+      "Lyra Music Company"
+    ],
+    "publisherText": "Lyra Music Company",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-2-17941",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Noel Provencal Op. 24",
+    "composer": "Grandjany",
+    "arranger": "",
+    "publishers": [
+      "Lyra Music Company"
+    ],
+    "publisherText": "Lyra Music Company",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-2-40007",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Petite Suite Classique",
+    "composer": "Grandjany",
+    "arranger": "",
+    "publishers": [
+      "Carl Fischer, Inc."
+    ],
+    "publisherText": "Carl Fischer, Inc.",
+    "classLevel": 2,
+    "specification": "(play Siciliana)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-2-17943",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Preludes",
+    "composer": "Grandjany",
+    "arranger": "",
+    "publishers": [
+      "Salabert, Inc."
+    ],
+    "publisherText": "Salabert, Inc.",
+    "classLevel": 2,
+    "specification": "(play one)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-2-17944",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Short Pieces (from the Masters)",
+    "composer": "Grandjany",
+    "arranger": "",
+    "publishers": [
+      "Carl Fischer, Inc."
+    ],
+    "publisherText": "Carl Fischer, Inc.",
+    "classLevel": 2,
+    "specification": "(play 2 & 3)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-2-17896",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Great Day",
+    "composer": "Gustavson",
+    "arranger": "",
+    "publishers": [
+      "Gustavson Music Publications"
+    ],
+    "publisherText": "Gustavson Music Publications",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-2-17999",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Love Song",
+    "composer": "Gustavson",
+    "arranger": "",
+    "publishers": [
+      "Gustavson Music Publications [Songs Without Words]"
+    ],
+    "publisherText": "Gustavson Music Publications [Songs Without Words]",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-2-17945",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "The Magic Road",
+    "composer": "Gustavson",
+    "arranger": "",
+    "publishers": [
+      "Salvi Publications [The Magic Road]"
+    ],
+    "publisherText": "Salvi Publications [The Magic Road]",
+    "classLevel": 2,
+    "specification": "(play A Moorish Garden)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-2-17947",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "When Janie Smiles",
+    "composer": "Gustavson",
+    "arranger": "",
+    "publishers": [
+      "NG [Twilight Waltzes]"
+    ],
+    "publisherText": "NG [Twilight Waltzes]",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-2-40008",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Au monast\u00e9re, Op. 29",
+    "composer": "Hasselmans",
+    "arranger": "",
+    "publishers": [
+      "Lyra Music Company",
+      "Public Domain"
+    ],
+    "publisherText": "Lyra Music Company;Public Domain",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-2-40009",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Feuilles d\u2019automne (trois improvisations faciles)",
+    "composer": "Hasselmans",
+    "arranger": "",
+    "publishers": [
+      "Durand",
+      "Public Domain"
+    ],
+    "publisherText": "Durand;Public Domain",
+    "classLevel": 2,
+    "specification": "(play one improvisation)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-2-40010",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Les Plaisirs de la Harpe, Vol. 3",
+    "composer": "Hasselmans",
+    "arranger": "",
+    "publishers": [
+      "Henry Lemoine [Les Plaisirs de la Harpe Vol. 3]"
+    ],
+    "publisherText": "Henry Lemoine [Les Plaisirs de la Harpe Vol. 3]",
+    "classLevel": 2,
+    "specification": "(play Prelude, Op. 52)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-2-40014",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Les Plaisirs de la Harpe, Vol. 3",
+    "composer": "Hasselmans",
+    "arranger": "",
+    "publishers": [
+      "Henry Lemoine [Les Plaisirs de la Harpe Vol. 3]"
+    ],
+    "publisherText": "Henry Lemoine [Les Plaisirs de la Harpe Vol. 3]",
+    "classLevel": 2,
+    "specification": "(play Petite Chasse)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-2-17948",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Trois Petites Bluettes, Op. 28",
+    "composer": "Hasselmans",
+    "arranger": "",
+    "publishers": [
+      "Alphonse Leduc",
+      "Lyra Music Company",
+      "Public Domain"
+    ],
+    "publisherText": "Alphonse Leduc;Lyra Music Company;Public Domain",
+    "classLevel": 2,
+    "specification": "(play two)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-2-40012",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "The Nightingale",
+    "composer": "Henson-Conant",
+    "arranger": "",
+    "publishers": [
+      "Golden Cage Music"
+    ],
+    "publisherText": "Golden Cage Music",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-2-40013",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Harp Solos Graded Recital Pieces, Vol. 4",
+    "composer": "McDonald",
+    "arranger": "",
+    "publishers": [
+      "Music Works Harp Editions [Harp Solos Graded Recital Pieces Vol. 4]"
+    ],
+    "publisherText": "Music Works Harp Editions [Harp Solos Graded Recital Pieces Vol. 4]",
+    "classLevel": 2,
+    "specification": "(play Toccata (Sabre Dance) OR Two Guitars)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-2-17955",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Medieval to Modern Volume I",
+    "composer": "Milligan",
+    "arranger": "",
+    "publishers": [
+      "Lyon & Healy Publications [Medieval to Modern Volume I]"
+    ],
+    "publisherText": "Lyon & Healy Publications [Medieval to Modern Volume I]",
+    "classLevel": 2,
+    "specification": "(play Lai et Rotrouenge OR Minuet)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-2-17953",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Medieval to Modern, Volume II",
+    "composer": "Milligan",
+    "arranger": "",
+    "publishers": [
+      "Lyon & Healy Publications [Medieval to Modern, Volume II]"
+    ],
+    "publisherText": "Lyon & Healy Publications [Medieval to Modern, Volume II]",
+    "classLevel": 2,
+    "specification": "(play Greensleeves OR Three Welsh Traditional Airs)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-2-17963",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Two Chaconnes by Johann Pachelbel",
+    "composer": "Pachelbel",
+    "arranger": "Barber",
+    "publishers": [
+      "Vanderbilt [Two Chaconnes by Johann Pachelbel]",
+      "Lyrical Light Harp Publications"
+    ],
+    "publisherText": "Vanderbilt [Two Chaconnes by Johann Pachelbel];Lyrical Light Harp Publications",
+    "classLevel": 2,
+    "specification": "(play one)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-2-17965",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "The Hunt Is Up",
+    "composer": "Paret",
+    "arranger": "",
+    "publishers": [
+      "Composers Press, Inc., Opus Music"
+    ],
+    "publisherText": "Composers Press, Inc., Opus Music",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-2-17966",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Chanson de Guillot-Martin",
+    "composer": "Perilhou",
+    "arranger": "Miller",
+    "publishers": [
+      "Carl Fischer, Inc."
+    ],
+    "publisherText": "Carl Fischer, Inc.",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-2-17967",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Estrellita",
+    "composer": "Ponce",
+    "arranger": "Cambern",
+    "publishers": [
+      "Carl Fischer, Inc.",
+      "Lyra Music Company"
+    ],
+    "publisherText": "Carl Fischer, Inc.;Lyra Music Company",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-2-17968",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "The Crystal Spring",
+    "composer": "Pool",
+    "arranger": "",
+    "publishers": [
+      "Roberton Publications [The Crystal Spring]"
+    ],
+    "publisherText": "Roberton Publications [The Crystal Spring]",
+    "classLevel": 2,
+    "specification": "(play My Boy Willie OR The Crystal Spring OR The Seeds of Love OR The Sweet Primeroses)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-2-17972",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Danses pour la Dauphine",
+    "composer": "Pratt",
+    "arranger": "",
+    "publishers": [
+      "L&H [The Little Fountain]"
+    ],
+    "publisherText": "L&H [The Little Fountain]",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-2-17973",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Ground in F",
+    "composer": "Purcell",
+    "arranger": "Thompson",
+    "publishers": [
+      "Salvi"
+    ],
+    "publisherText": "Salvi",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-2-17974",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Purcell for the Harp",
+    "composer": "Purcell",
+    "arranger": "Owens",
+    "publishers": [
+      "G. Schirmer, Inc. [Purcell for the Harp]"
+    ],
+    "publisherText": "G. Schirmer, Inc. [Purcell for the Harp]",
+    "classLevel": 2,
+    "specification": "(play Minuet in G and Rigadoon)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-2-17977",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Feuillets d\u2019Album",
+    "composer": "Renie",
+    "arranger": "",
+    "publishers": [
+      "Henry Lemoine [Feuillets d\u2019Album]"
+    ],
+    "publisherText": "Henry Lemoine [Feuillets d\u2019Album]",
+    "classLevel": 2,
+    "specification": "(play Angelus OR Esquisse)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-2-40015",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Six Pi\u00e8ces Br\u00e8ves",
+    "composer": "Renie",
+    "arranger": "",
+    "publishers": [
+      "Alphonse Leduc"
+    ],
+    "publisherText": "Alphonse Leduc",
+    "classLevel": 2,
+    "specification": "(play two mvts)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-2-40016",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Valse Isabel for Solo Harp, Op. 16",
+    "composer": "Rogers",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-2-40017",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Preludes Intimes",
+    "composer": "Salzedo",
+    "arranger": "",
+    "publishers": [
+      "Boosey & Hawkes, Inc."
+    ],
+    "publisherText": "Boosey & Hawkes, Inc.",
+    "classLevel": 2,
+    "specification": "(play any mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-2-17979",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Suite of Eight Dances",
+    "composer": "Salzedo",
+    "arranger": "",
+    "publishers": [
+      "Lyra Music Company",
+      "Lyon & Healy Publications"
+    ],
+    "publisherText": "Lyra Music Company;Lyon & Healy Publications",
+    "classLevel": 2,
+    "specification": "(play Tango OR Seguidilla)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-2-17942",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Piece Ancienne",
+    "composer": "Sammartini",
+    "arranger": "Grandjany",
+    "publishers": [
+      "Lyra Music Company"
+    ],
+    "publisherText": "Lyra Music Company",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-2-17981",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Melody",
+    "composer": "Schumann",
+    "arranger": "Miller",
+    "publishers": [
+      "Carl Fischer, Inc."
+    ],
+    "publisherText": "Carl Fischer, Inc.",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-2-40018",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Berceuse - Petite Piece Breve et Facile",
+    "composer": "Tournier",
+    "arranger": "",
+    "publishers": [
+      "Max Eschig",
+      "Lyra Music Company"
+    ],
+    "publisherText": "Max Eschig;Lyra Music Company",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-2-17922",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Quatre Preludes, 0p.16",
+    "composer": "Tournier",
+    "arranger": "",
+    "publishers": [
+      "Alphonse Leduc",
+      "Public Domain"
+    ],
+    "publisherText": "Alphonse Leduc;Public Domain",
+    "classLevel": 2,
+    "specification": "(pay any two mvts)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-2-17951",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Harp Solos Graded Recital Pieces, Vol. 2",
+    "composer": "Wood",
+    "arranger": "",
+    "publishers": [
+      "Music Works Harp Editions [Harp Solos Graded Recital Pieces Vol. 2]"
+    ],
+    "publisherText": "Music Works Harp Editions [Harp Solos Graded Recital Pieces Vol. 2]",
+    "classLevel": 2,
+    "specification": "(play Processional OR Ballade OR Serenade)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-2-17929",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Solos for the Harp Player",
+    "composer": "various",
+    "arranger": "Lawrence",
+    "publishers": [
+      "G. Schirmer, Inc. [Solos for the Harp Player]"
+    ],
+    "publisherText": "G. Schirmer, Inc. [Solos for the Harp Player]",
+    "classLevel": 2,
+    "specification": "(play Fuga OR Gavotte OR Berceuse OR Rigaudon OR Tambourin)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-2-40011",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Suzuki Harp School, Vol. 2",
+    "composer": "various",
+    "arranger": "",
+    "publishers": [
+      "Alfred Music Company, Inc. [Suzuki Harp School Vol. 2]"
+    ],
+    "publisherText": "Alfred Music Company, Inc. [Suzuki Harp School Vol. 2]",
+    "classLevel": 2,
+    "specification": "(play Allegro OR Rustic Dance OR Glissando Waltz OR Petite Etude)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-2-40001",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Yolanda Kondonassis Collection",
+    "composer": "various",
+    "arranger": "Kondonassis",
+    "publishers": [
+      "Carl Fischer, Inc. [Yolanda Kondonassis Collection]"
+    ],
+    "publisherText": "Carl Fischer, Inc. [Yolanda Kondonassis Collection]",
+    "classLevel": 2,
+    "specification": "(play Prelude No.1 in C Major)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-1-39977",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Partitas Nos. 1-3, BWV 825-827",
+    "composer": "",
+    "arranger": "Rayan-Forero",
+    "publishers": [
+      "Lyon & Healy Publications"
+    ],
+    "publisherText": "Lyon & Healy Publications",
+    "classLevel": 1,
+    "specification": "(play ONE from Partita No. 1: Praeludium OR Allemande OR Sarabande OR Giga)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-1-39973",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Absidioles",
+    "composer": "Andres",
+    "arranger": "",
+    "publishers": [
+      "Durand"
+    ],
+    "publisherText": "Durand",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-1-39974",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Duke",
+    "composer": "Andres",
+    "arranger": "",
+    "publishers": [
+      "Alphonse Leduc"
+    ],
+    "publisherText": "Alphonse Leduc",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-1-39975",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Sweet Blues",
+    "composer": "Andres",
+    "arranger": "",
+    "publishers": [
+      "Alphonse Leduc"
+    ],
+    "publisherText": "Alphonse Leduc",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-1-17877",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Bourree from Partita I",
+    "composer": "Bach",
+    "arranger": "Salzedo",
+    "publishers": [
+      "Lyra Music Company"
+    ],
+    "publisherText": "Lyra Music Company",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-1-17876",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Etudes for Harp",
+    "composer": "Bach",
+    "arranger": "Grandjany",
+    "publishers": [
+      "Carl Fischer, Inc. [Etudes for Harp]"
+    ],
+    "publisherText": "Carl Fischer, Inc. [Etudes for Harp]",
+    "classLevel": 1,
+    "specification": "(play Andante OR Saranbande)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-1-17878",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Piece en Sol",
+    "composer": "Bach",
+    "arranger": "Renie",
+    "publishers": [
+      "Lyra"
+    ],
+    "publisherText": "Lyra",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-1-40003",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Variations on a Swiss Air",
+    "composer": "Beethoven",
+    "arranger": "Zabaleta",
+    "publishers": [
+      "Schott Company"
+    ],
+    "publisherText": "Schott Company",
+    "classLevel": 1,
+    "specification": "(OPTIONAL repeats)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-1-39976",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Sonata",
+    "composer": "Benda",
+    "arranger": "Dulova",
+    "publishers": [
+      "Salvi Publications"
+    ],
+    "publisherText": "Salvi Publications",
+    "classLevel": 1,
+    "specification": "(play 1st mvt with NO repeats)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-1-17881",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Pedals on Vacation",
+    "composer": "Braun",
+    "arranger": "",
+    "publishers": [
+      "Lyra"
+    ],
+    "publisherText": "Lyra",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-1-17882",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Interlude",
+    "composer": "Britten",
+    "arranger": "",
+    "publishers": [
+      "Boosey & Hawkes, Inc. [Ceremony of Carols, A]"
+    ],
+    "publisherText": "Boosey & Hawkes, Inc. [Ceremony of Carols, A]",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-1-30985",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Divertissement A La Francaise",
+    "composer": "Caplet",
+    "arranger": "",
+    "publishers": [
+      "Durand"
+    ],
+    "publisherText": "Durand",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-1-39978",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Around the Clock",
+    "composer": "Chertok",
+    "arranger": "",
+    "publishers": [
+      "Salvi Publications"
+    ],
+    "publisherText": "Salvi Publications",
+    "classLevel": 1,
+    "specification": "(play any mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-1-30623",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Danses Sacree et Profane",
+    "composer": "Debussy",
+    "arranger": "Renie",
+    "publishers": [
+      "Public Domain",
+      "Durand",
+      "Lyra Music Company"
+    ],
+    "publisherText": "Public Domain;Durand;Lyra Music Company",
+    "classLevel": 1,
+    "specification": "(play Sacree OR Profane)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-1-17886",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "En Bateau",
+    "composer": "Debussy",
+    "arranger": "Renie",
+    "publishers": [
+      "Durand"
+    ],
+    "publisherText": "Durand",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-1-39980",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "First Arabesque",
+    "composer": "Debussy",
+    "arranger": "Renie",
+    "publishers": [
+      "Lyra Music Company"
+    ],
+    "publisherText": "Lyra Music Company",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-1-17887",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "La Fille aux Cheveaux de Lin",
+    "composer": "Debussy",
+    "arranger": "Salzedo",
+    "publishers": [
+      "Lyra"
+    ],
+    "publisherText": "Lyra",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-1-39981",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Second Arabesque",
+    "composer": "Debussy",
+    "arranger": "Renie",
+    "publishers": [
+      "Lyra Music Company"
+    ],
+    "publisherText": "Lyra Music Company",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-1-17888",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Bagatelles",
+    "composer": "Dello Joio",
+    "arranger": "",
+    "publishers": [
+      "Marks Music Corporation"
+    ],
+    "publisherText": "Marks Music Corporation",
+    "classLevel": 1,
+    "specification": "(play two)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-1-17889",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Concerto for Harp",
+    "composer": "Dittersdorf",
+    "arranger": "",
+    "publishers": [
+      "Salvi"
+    ],
+    "publisherText": "Salvi",
+    "classLevel": 1,
+    "specification": "(play one mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-1-17890",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Harp solo (from Lucia di Lammermoor)",
+    "composer": "Donizetti",
+    "arranger": "Salzedo",
+    "publishers": [
+      "Lyra"
+    ],
+    "publisherText": "Lyra",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-1-17891",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Six Sonatinas",
+    "composer": "Dussek",
+    "arranger": "Lawrence & Owens",
+    "publishers": [
+      "Lyra Music Company"
+    ],
+    "publisherText": "Lyra Music Company",
+    "classLevel": 1,
+    "specification": "(play No. 1, 2, OR 3)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-1-32464",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Sonata in c minor",
+    "composer": "Dussek",
+    "arranger": "",
+    "publishers": [
+      "Public Domain"
+    ],
+    "publisherText": "Public Domain",
+    "classLevel": 1,
+    "specification": "Play mvts 1 or 3",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-1-30625",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Aria in the Classic Style for Harp and Organ",
+    "composer": "Grandjany",
+    "arranger": "",
+    "publishers": [
+      "Hal Leonard Music, Inc."
+    ],
+    "publisherText": "Hal Leonard Music, Inc.",
+    "classLevel": 1,
+    "specification": "(organ NOT required) (a cappella)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-1-17893",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Children at Play Op. 16",
+    "composer": "Grandjany",
+    "arranger": "",
+    "publishers": [
+      "Durand"
+    ],
+    "publisherText": "Durand",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-1-39982",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Children\u2019s Hour Suite, Op. 25",
+    "composer": "Grandjany",
+    "arranger": "",
+    "publishers": [
+      "Carl Fischer, Inc.",
+      "G. Schirmer, Inc."
+    ],
+    "publisherText": "Carl Fischer, Inc.;G. Schirmer, Inc.",
+    "classLevel": 1,
+    "specification": "(play 2nd & 3rd mvts)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-1-39983",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Colorado Trail",
+    "composer": "Grandjany",
+    "arranger": "",
+    "publishers": [
+      "Lyra Music Company"
+    ],
+    "publisherText": "Lyra Music Company",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-1-17894",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Deux Chansons Populaires Fran\u00e7aises",
+    "composer": "Grandjany",
+    "arranger": "",
+    "publishers": [
+      "Durand",
+      "Lyra Music Company",
+      "Masters Music Publications"
+    ],
+    "publisherText": "Durand;Lyra Music Company;Masters Music Publications",
+    "classLevel": 1,
+    "specification": "(play one)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-1-17902",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Fantaisie pour harpe sur un theme de J. Haydn",
+    "composer": "Grandjany",
+    "arranger": "",
+    "publishers": [
+      "Alphonse Leduc"
+    ],
+    "publisherText": "Alphonse Leduc",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-1-17897",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Concerto in Bb",
+    "composer": "Handel",
+    "arranger": "",
+    "publishers": [
+      "Elkan-Vogel Company, Inc.",
+      "G. Schirmer, Inc.",
+      "Durand",
+      "Lyra",
+      "Salvi",
+      "Byron-Douglas Publishing Company"
+    ],
+    "publisherText": "Elkan-Vogel Company, Inc.;G. Schirmer, Inc.;Durand;Lyra;Salvi;Byron-Douglas Publishing Company",
+    "classLevel": 1,
+    "specification": "(play one mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-1-17898",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Harmonious Blacksmith",
+    "composer": "Handel",
+    "arranger": "Salzedo",
+    "publishers": [
+      "Lyra"
+    ],
+    "publisherText": "Lyra",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-1-17899",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Passacaille",
+    "composer": "Handel",
+    "arranger": "Beon",
+    "publishers": [
+      "Alphonse Leduc"
+    ],
+    "publisherText": "Alphonse Leduc",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-1-32463",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Chanson de Mai",
+    "composer": "Hasselmans",
+    "arranger": "",
+    "publishers": [
+      "Public Domain"
+    ],
+    "publisherText": "Public Domain",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-1-17900",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Gitana, Op. 21",
+    "composer": "Hasselmans",
+    "arranger": "",
+    "publishers": [
+      "Durand",
+      "Public Domain"
+    ],
+    "publisherText": "Durand;Public Domain",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-1-17901",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Gondoliera 2e barcarolle pour la harpe, Op. 39",
+    "composer": "Hasselmans",
+    "arranger": "",
+    "publishers": [
+      "Durand",
+      "Lyra Music Company",
+      "Public Domain"
+    ],
+    "publisherText": "Durand;Lyra Music Company;Public Domain",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-1-32461",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "La Source",
+    "composer": "Hasselmans",
+    "arranger": "",
+    "publishers": [
+      "Public Domain"
+    ],
+    "publisherText": "Public Domain",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-1-39984",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Petite Valse, Op. 25",
+    "composer": "Hasselmans",
+    "arranger": "",
+    "publishers": [
+      "Gerard Billaudot Edition",
+      "Public Domain"
+    ],
+    "publisherText": "Gerard Billaudot Edition;Public Domain",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-1-17903",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Theme and Variations",
+    "composer": "Haydn",
+    "arranger": "Salzedo",
+    "publishers": [
+      "Carl Fischer, Inc."
+    ],
+    "publisherText": "Carl Fischer, Inc.",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-1-39985",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Nataliana for Solo Harp (2nd Edition)",
+    "composer": "Henson-Conant",
+    "arranger": "",
+    "publishers": [
+      "hipharp.com"
+    ],
+    "publisherText": "hipharp.com",
+    "classLevel": 1,
+    "specification": "(play in either key)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-1-39986",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Sonata for Harp",
+    "composer": "Hindemith",
+    "arranger": "",
+    "publishers": [
+      "Schott Company"
+    ],
+    "publisherText": "Schott Company",
+    "classLevel": 1,
+    "specification": "(play 1st OR 2nd mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-1-39987",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Dragonflies for Solo Harp",
+    "composer": "Horstman",
+    "arranger": "",
+    "publishers": [
+      "Cindy Horstman Music"
+    ],
+    "publisherText": "Cindy Horstman Music",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-1-17904",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Sonata Op. 127",
+    "composer": "Hovhaness",
+    "arranger": "",
+    "publishers": [
+      "C.F. Peters Corporation",
+      "Wise Music Group"
+    ],
+    "publisherText": "C.F. Peters Corporation;Wise Music Group",
+    "classLevel": 1,
+    "specification": "(play one mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-1-17905",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Granada",
+    "composer": "Lara",
+    "arranger": "Elster",
+    "publishers": [
+      "Peer/Southern Organization"
+    ],
+    "publisherText": "Peer/Southern Organization",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-1-17906",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Malaguena",
+    "composer": "Lecuona",
+    "arranger": "Grandjany",
+    "publishers": [
+      "Marks Music Corporation"
+    ],
+    "publisherText": "Marks Music Corporation",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-1-39988",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Sonatina for Harp",
+    "composer": "Natra",
+    "arranger": "",
+    "publishers": [
+      "Israel Music Institute"
+    ],
+    "publisherText": "Israel Music Institute",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-1-17910",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Canon in D",
+    "composer": "Pachelbel",
+    "arranger": "McDonald",
+    "publishers": [
+      "M. Whitmark & Sons"
+    ],
+    "publisherText": "M. Whitmark & Sons",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-1-17911",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Sonata in c minor",
+    "composer": "Pescetti",
+    "arranger": "Salzedo",
+    "publishers": [
+      "Lyra Music Company"
+    ],
+    "publisherText": "Lyra Music Company",
+    "classLevel": 1,
+    "specification": "(play one mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-1-30626",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Impromptu-Caprice, Op. 9",
+    "composer": "Pierne",
+    "arranger": "",
+    "publishers": [
+      "Alphonse Leduc",
+      "Lyra Music Company",
+      "Public Domain"
+    ],
+    "publisherText": "Alphonse Leduc;Lyra Music Company;Public Domain",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-1-17913",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Prelude in C Op. 12 No. 7",
+    "composer": "Prokofieff",
+    "arranger": "Salzedo/Lawrence",
+    "publishers": [
+      "Lyra"
+    ],
+    "publisherText": "Lyra",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-1-17914",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Purcell for the Harp",
+    "composer": "Purcell",
+    "arranger": "Owens",
+    "publishers": [
+      "G. Schirmer, Inc. [Purcell for the Harp]"
+    ],
+    "publisherText": "G. Schirmer, Inc. [Purcell for the Harp]",
+    "classLevel": 1,
+    "specification": "(play Hornpipe and Alamande)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-1-30624",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Impromptu",
+    "composer": "Reinhold",
+    "arranger": "Hainen",
+    "publishers": [
+      "Vanderbilt"
+    ],
+    "publisherText": "Vanderbilt",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-1-17915",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Siciliana (da un pezzo di liuto del sec. VXI)",
+    "composer": "Respighi",
+    "arranger": "Grandjany",
+    "publishers": [
+      "Ricordi & Company, Inc."
+    ],
+    "publisherText": "Ricordi & Company, Inc.",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-1-39989",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Concert Fantasy on \u201cPajaro Campana\u201d",
+    "composer": "Riveros",
+    "arranger": "",
+    "publishers": [
+      "Lyon & Healy Publications"
+    ],
+    "publisherText": "Lyon & Healy Publications",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-1-17916",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Sarabanda e Toccata",
+    "composer": "Rota",
+    "arranger": "",
+    "publishers": [
+      "Ricordi & Company, Inc."
+    ],
+    "publisherText": "Ricordi & Company, Inc.",
+    "classLevel": 1,
+    "specification": "(play Sarabande OR Toccata)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-1-31091",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Fantasie for Harp Op. 95",
+    "composer": "Saint-Saens",
+    "arranger": "",
+    "publishers": [
+      "Durand"
+    ],
+    "publisherText": "Durand",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-1-25725",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Chanson dans la Nuit",
+    "composer": "Salzedo",
+    "arranger": "Lawrence",
+    "publishers": [
+      "G. Schirmer, Inc. [from Method for the Harp]",
+      "Alfred Music Company, Inc. [Suzuki Harp School Vol. 5]",
+      "Lyra Music Company"
+    ],
+    "publisherText": "G. Schirmer, Inc. [from Method for the Harp];Alfred Music Company, Inc. [Suzuki Harp School Vol. 5];Lyra Music Company",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-1-39991",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Five Preludes for Harp Alone",
+    "composer": "Salzedo",
+    "arranger": "",
+    "publishers": [
+      "Carl Fischer, Inc. [The Carlos Salzedo Collection]",
+      "Lyra Music Company"
+    ],
+    "publisherText": "Carl Fischer, Inc. [The Carlos Salzedo Collection];Lyra Music Company",
+    "classLevel": 1,
+    "specification": "(play one prelude)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-1-39990",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "La Desirade",
+    "composer": "Salzedo",
+    "arranger": "Lawrence",
+    "publishers": [
+      "G. Schirmer, Inc. [Method for the Harp]"
+    ],
+    "publisherText": "G. Schirmer, Inc. [Method for the Harp]",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-1-17917",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Suite of Eight Dances",
+    "composer": "Salzedo",
+    "arranger": "",
+    "publishers": [
+      "Lyra Music Company",
+      "Lyon & Healy Publications"
+    ],
+    "publisherText": "Lyra Music Company;Lyon & Healy Publications",
+    "classLevel": 1,
+    "specification": "(play Gavotte OR Polka OR Bolero OR Menuet OR Rhumba OR Siciliana)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-1-39992",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "The Minstrel\u2019s Adieu to His Native Land",
+    "composer": "Thomas",
+    "arranger": "",
+    "publishers": [
+      "Lyon & Healy Publications",
+      "Salvi Publications",
+      "Public Domain"
+    ],
+    "publisherText": "Lyon & Healy Publications;Salvi Publications;Public Domain",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-1-32460",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Au Matin",
+    "composer": "Tournier",
+    "arranger": "",
+    "publishers": [
+      "Public Domain"
+    ],
+    "publisherText": "Public Domain",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-1-32462",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Berceuse Russe, Op. 40",
+    "composer": "Tournier",
+    "arranger": "",
+    "publishers": [
+      "Lyra Music Company",
+      "Alfred Music Company, Inc. [Suzuki Harp School Vol. 5]",
+      "Public Domain"
+    ],
+    "publisherText": "Lyra Music Company;Alfred Music Company, Inc. [Suzuki Harp School Vol. 5];Public Domain",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-1-39994",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Jazz Band, Op. 33",
+    "composer": "Tournier",
+    "arranger": "",
+    "publishers": [
+      "Lyra Music Company",
+      "Public Domain"
+    ],
+    "publisherText": "Lyra Music Company;Public Domain",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-1-17921",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Lolita la danseuse from \u201cImages Suite No 1, Op. 29\u201d",
+    "composer": "Tournier",
+    "arranger": "",
+    "publishers": [
+      "Public Domain",
+      "Henry Lemoine",
+      "Carl Fischer, Inc. [Marcel Tournier 10 Pieces for Solo Harp]"
+    ],
+    "publisherText": "Public Domain;Henry Lemoine;Carl Fischer, Inc. [Marcel Tournier 10 Pieces for Solo Harp]",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-1-39993",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Marcel Tournier 10 Pieces for Solo Harp",
+    "composer": "Tournier",
+    "arranger": "",
+    "publishers": [
+      "Carl Fischer, Inc. [Marcel Tournier 10 Pieces for Solo Harp]"
+    ],
+    "publisherText": "Carl Fischer, Inc. [Marcel Tournier 10 Pieces for Solo Harp]",
+    "classLevel": 1,
+    "specification": "(play Clair de lune sure l\u2019\u00e9tang du Park from \u201cImages Suite No. 1, Op. 29\u201d OR Vers la source dans le bois)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-1-39995",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Petite Suite for Harp",
+    "composer": "Watkins",
+    "arranger": "",
+    "publishers": [
+      "United Music Publishers Ltd."
+    ],
+    "publisherText": "United Music Publishers Ltd.",
+    "classLevel": 1,
+    "specification": "(play any mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-1-39996",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Essence of Ruby",
+    "composer": "Younger",
+    "arranger": "",
+    "publishers": [
+      "brandeeyounger.com"
+    ],
+    "publisherText": "brandeeyounger.com",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-1-17924",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "La Source, Op. 23",
+    "composer": "Zabel",
+    "arranger": "",
+    "publishers": [
+      "Lyra Music Company",
+      "Salvi"
+    ],
+    "publisherText": "Lyra Music Company;Salvi",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-1-17880",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Solos for the Harp Player",
+    "composer": "various",
+    "arranger": "Lawrence",
+    "publishers": [
+      "G. Schirmer, Inc. [Solos for the Harp Player]"
+    ],
+    "publisherText": "G. Schirmer, Inc. [Solos for the Harp Player]",
+    "classLevel": 1,
+    "specification": "(play Siciliano OR Giga OR First Arabesque)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "602-1-39979",
+    "instrumentSlug": "harp",
+    "instrumentName": "Harp Solos",
+    "eventName": "Harp Solo",
+    "title": "Yolanda Kondonassis Collection",
+    "composer": "various",
+    "arranger": "Kondonassis",
+    "publishers": [
+      "Carl Fischer, Inc. [Yolanda Kondonassis Collection]"
+    ],
+    "publisherText": "Carl Fischer, Inc. [Yolanda Kondonassis Collection]",
+    "classLevel": 1,
+    "specification": "(play Valse Romantic OR Claire de lune OR Quando men vo (Musetta\u2019s Waltz))",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  }
+]

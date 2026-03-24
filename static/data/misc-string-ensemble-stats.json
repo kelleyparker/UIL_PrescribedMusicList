@@ -1,0 +1,22 @@
+{
+  "schoolYear": "2025-2026",
+  "instrumentSlug": "misc-string-ensemble",
+  "instrumentName": "Miscellaneous String Ensembles",
+  "songCount": 259,
+  "publisherCount": 273,
+  "noteCount": 1,
+  "databaseRecordCount": 260,
+  "classBreakdown": {
+    "3": 14,
+    "2": 45,
+    "1": 200
+  },
+  "noMemoryRequiredCount": 0,
+  "publicDomainPdfCount": 0,
+  "eventBreakdown": {
+    "Miscellaneous String Ensemble": 259
+  },
+  "notes": {
+    "dataset_audit": "Sourced from https://www.uiltexas.org/pml/ and https://www.uiltexas.org/pml/pml.php. Imported 2026-03-24T22:13:49.551931+00:00."
+  }
+}

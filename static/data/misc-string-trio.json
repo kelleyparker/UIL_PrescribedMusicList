@@ -1,0 +1,2577 @@
+[
+  {
+    "uilCode": "433-3-17164",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "Festival Fancies",
+    "composer": "Anon. or Trad.",
+    "arranger": "Adams",
+    "publishers": [
+      "Chappell Music Company"
+    ],
+    "publisherText": "Chappell Music Company",
+    "classLevel": 3,
+    "specification": "(play two) (2 vln, vlc)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-3-17180",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "Twelve Old English Songs, Part Two",
+    "composer": "Anon. or Trad.",
+    "arranger": "Twinn",
+    "publishers": [
+      "Oxford University Press"
+    ],
+    "publisherText": "Oxford University Press",
+    "classLevel": 3,
+    "specification": "(2 vln, vlc) (accomp opt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-3-37623",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "Fugue from Prelude and Fugue in G Minor",
+    "composer": "Bach",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 3,
+    "specification": "(2 vln, va OR 2 vln, cello OR vln, vla, cello)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-3-17166",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "Menuet in G",
+    "composer": "Bach",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press [Anna Magdalena Bach Notebook]"
+    ],
+    "publisherText": "Medici Music Press [Anna Magdalena Bach Notebook]",
+    "classLevel": 3,
+    "specification": "(3 vla OR 2 vln, vla OR 2 vln, cello)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-3-17167",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "Musette",
+    "composer": "Bach",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press [Anna Magdalena Bach Notebook]"
+    ],
+    "publisherText": "Medici Music Press [Anna Magdalena Bach Notebook]",
+    "classLevel": 3,
+    "specification": "(2 vln, vlc) (2 vln, vla) (3 vla)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-3-37628",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "St. Catherine Rigaudon",
+    "composer": "Barrett",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 3,
+    "specification": "(2 vln, va OR 2 vln, cello OR vln, vla, cello)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-3-17864",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "Ensembles for Cello",
+    "composer": "Beethoven",
+    "arranger": "Suzuki",
+    "publishers": [
+      "Stainer & Bell [Ensembles for Cello]"
+    ],
+    "publisherText": "Stainer & Bell [Ensembles for Cello]",
+    "classLevel": 3,
+    "specification": "(cello trio) (play Minuet in G No. 5)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-3-37621",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "Corrente and Allamanda from Sonata No. 1",
+    "composer": "Corelli",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 3,
+    "specification": "(2 vln, vla OR 2 vln, cello)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-3-17169",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "Les Bacchanales",
+    "composer": "Couperin",
+    "arranger": "Elkan",
+    "publishers": [
+      "Henri Elkan"
+    ],
+    "publisherText": "Henri Elkan",
+    "classLevel": 3,
+    "specification": "(2 vln, vlc)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-3-28706",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "Chorale and Fughetta for 2 Violins and Cello",
+    "composer": "Gajdos",
+    "arranger": "",
+    "publishers": [
+      "Alliance Publications, Inc."
+    ],
+    "publisherText": "Alliance Publications, Inc.",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-3-37625",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "Menuet from Concerto Grosso, Op. 6, No. 5",
+    "composer": "Handel",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 3,
+    "specification": "(2 vln, va OR 2 vln, cello OR vln, vla, cello)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-3-17171",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "12 German Dances",
+    "composer": "Haydn",
+    "arranger": "",
+    "publishers": [
+      "Edwin F. Kalmus"
+    ],
+    "publisherText": "Edwin F. Kalmus",
+    "classLevel": 3,
+    "specification": "(play two from # 1, 3-7, 9-12) (2 vln, vlc)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-3-37622",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "Dancing Song from 8 Russian Folksongs",
+    "composer": "Liadov",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 3,
+    "specification": "(vln, vla, cello OR 2 vln, vla OR 2 vln, cello)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-3-17867",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "Twelve Trios",
+    "composer": "Matz",
+    "arranger": "",
+    "publishers": [
+      "Dominis Music (dist. by Shar Music Products Co.)"
+    ],
+    "publisherText": "Dominis Music (dist. by Shar Music Products Co.)",
+    "classLevel": 3,
+    "specification": "(cello trio) (play two)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-3-37626",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "Presto from Divertimento No. 12",
+    "composer": "Mozart",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 3,
+    "specification": "(2 vln, va OR 2 vln, cello OR vln, vla, cello)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-3-37627",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "Rondo from Divertimento No. 11",
+    "composer": "Mozart",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 3,
+    "specification": "(2 vln, va OR 2 vln, cello OR vln, vla, cello)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-3-17172",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "4 Trios",
+    "composer": "Purcell",
+    "arranger": "",
+    "publishers": [
+      "Schott Company"
+    ],
+    "publisherText": "Schott Company",
+    "classLevel": 3,
+    "specification": "(play one trio) (2 vln, vlc)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-3-17869",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "Gavotte",
+    "composer": "Purcell",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 3,
+    "specification": "(cello trio)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-3-17173",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "Gavotte (from Harpsichord Suite No. 5)",
+    "composer": "Purcell",
+    "arranger": "Dishinger/Vedeski",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 3,
+    "specification": "(2 vln, vlc) (3 vla) (2 vln, vla)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-3-37624",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "Marche from Suite No. 5",
+    "composer": "Purcell",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 3,
+    "specification": "(2 vln, vla OR 2 vln, cello)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-3-17176",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "Canonic Etudes for 2 and 3 Violas",
+    "composer": "Racusen",
+    "arranger": "",
+    "publishers": [
+      "Shawnee Press"
+    ],
+    "publisherText": "Shawnee Press",
+    "classLevel": 3,
+    "specification": "(play two from # 1, 2, 4-6, 8-10, 12-16, 20, 21, 23, 25-36)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-3-17177",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "Rigaudon (from Pieces de Clavecin, 1724)",
+    "composer": "Rameau",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 3,
+    "specification": "(2 vln vlc)( 2 vln, vla) (3 vla)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-3-17871",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "Rigaudon (from Pieces de Clavecin, 1724)",
+    "composer": "Rameau",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 3,
+    "specification": "(cello trio)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-3-17179",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "Six Minuets (from Sept fois sept en un)",
+    "composer": "Telemann",
+    "arranger": "Polnauer",
+    "publishers": [
+      "Carl Fischer, Inc."
+    ],
+    "publisherText": "Carl Fischer, Inc.",
+    "classLevel": 3,
+    "specification": "(play two) (2 vln, vla)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-3-17181",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "Go Tell Aunt Rhody",
+    "composer": "Vance",
+    "arranger": "",
+    "publishers": [
+      "The Bass Project, c/o Slava Publishing [The Bass Project Ensembles]"
+    ],
+    "publisherText": "The Bass Project, c/o Slava Publishing [The Bass Project Ensembles]",
+    "classLevel": 3,
+    "specification": "(3 basses)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-3-17182",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "The Music Box",
+    "composer": "Vance",
+    "arranger": "",
+    "publishers": [
+      "The Bass Project, c/o Slava Publishing [The Bass Project Ensembles]"
+    ],
+    "publisherText": "The Bass Project, c/o Slava Publishing [The Bass Project Ensembles]",
+    "classLevel": 3,
+    "specification": "(3 basses)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-3-37693",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "20 Progressive Bass Ensembles VOLUME 1",
+    "composer": "various",
+    "arranger": "Wyrick",
+    "publishers": [
+      "inezwyrick.com [20 Progressive Bass Ensembles VOLUME 1]"
+    ],
+    "publisherText": "inezwyrick.com [20 Progressive Bass Ensembles VOLUME 1]",
+    "classLevel": 3,
+    "specification": "BASS TRIO (play Pizzicato Madness OR Welsh Folk Song OR The Yellow Rose of Texas)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-3-37694",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "20 Progressive Bass Ensembles VOLUME 2",
+    "composer": "various",
+    "arranger": "Wyrick",
+    "publishers": [
+      "inezwyrick.com [20 Progressive Bass Ensembles VOLUME 2]"
+    ],
+    "publisherText": "inezwyrick.com [20 Progressive Bass Ensembles VOLUME 2]",
+    "classLevel": 3,
+    "specification": "BASS TRIO (play The Flyswatter Song OR Swing Set OR Bass Minuet)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-3-37695",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "20 Progressive Bass Ensembles VOLUME 4",
+    "composer": "various",
+    "arranger": "Wyrick",
+    "publishers": [
+      "inezwyrick.com [20 Progressive Bass Ensembles VOLUME 4]"
+    ],
+    "publisherText": "inezwyrick.com [20 Progressive Bass Ensembles VOLUME 4]",
+    "classLevel": 3,
+    "specification": "BASS TRIO (play Presto Pizzicato)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-3-37629",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "Adaptable Trios",
+    "composer": "various",
+    "arranger": "Arcari/Putnam/Traietta",
+    "publishers": [
+      "Excelcia [Adaptable Trios]"
+    ],
+    "publisherText": "Excelcia [Adaptable Trios]",
+    "classLevel": 3,
+    "specification": "(any published string combination) (choose one from Shenandoah OR German Dance-Schubert OR The Imp OR Ash Grove OR Contradanse OR Waltz-Schubert OR Wait Just a Minuet OR Musette-Bach OR German Dance-Beethoven OR Volta)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-3-37630",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "Compatible Trios for Strings",
+    "composer": "various",
+    "arranger": "Clark/Gazda",
+    "publishers": [
+      "Carl Fischer, Inc. [Compatible Trios for Strings]"
+    ],
+    "publisherText": "Carl Fischer, Inc. [Compatible Trios for Strings]",
+    "classLevel": 3,
+    "specification": "(any published string combination) (choose one from German Dance OR Bagatelle OR Largo OR Le Landon OR Scarborough Fair OR Les Moissonneurs OR The Mill OR Arioso OR Loch Lomond OR Home on the Range OR Pastorale OR Fable OR Russian Folksong OR Dance-Bach Soldiers March OR Wild Rose)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-3-37696",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "Mixed Level Ensembles Vol 1",
+    "composer": "various",
+    "arranger": "Wyrick",
+    "publishers": [
+      "inezwyrick.com [Mixed Level Ensembles Vol 1]"
+    ],
+    "publisherText": "inezwyrick.com [Mixed Level Ensembles Vol 1]",
+    "classLevel": 3,
+    "specification": "BASS TRIO (play Norwegian Dance OR Two German Dances)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-3-37697",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "Progressive Repertoire Vol. 1",
+    "composer": "various",
+    "arranger": "Vance & Constanzi",
+    "publishers": [
+      "Carl Fischer, Inc. [Progressive Repertoire Vol. 1]"
+    ],
+    "publisherText": "Carl Fischer, Inc. [Progressive Repertoire Vol. 1]",
+    "classLevel": 3,
+    "specification": "BASS TRIO (play Solo from Symphony No. 1)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-3-37631",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "Progressive Trios",
+    "composer": "various",
+    "arranger": "Gazda",
+    "publishers": [
+      "Carl Fischer, Inc. [Progressive Trios]"
+    ],
+    "publisherText": "Carl Fischer, Inc. [Progressive Trios]",
+    "classLevel": 3,
+    "specification": "(any published string combination) (choose one from Rigadoon OR Black Forest Waltz OR Thanksgiving Hymn OR Flow Gently OR Sweet Betsy OR Blue Bells OR Drill Ye OR O Come Little Children OR English Folk Songs OR Pat-a-Pan OR Mistys Way OR Menuetto OR Comet Race)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-3-17866",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "Ten Cello Trios",
+    "composer": "various",
+    "arranger": "Latham",
+    "publishers": [
+      "Latham Music Enterprises [Ten Cello Trios]"
+    ],
+    "publisherText": "Latham Music Enterprises [Ten Cello Trios]",
+    "classLevel": 3,
+    "specification": "(cello trio) (play Minuet (from Dance Suite No. 4 in a minor) OR Minuet (from French Suite No. 1))",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-2-24434",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "Adagio",
+    "composer": "Abel",
+    "arranger": "Hoeckner",
+    "publishers": [
+      "Simrock [The String Trio]"
+    ],
+    "publisherText": "Simrock [The String Trio]",
+    "classLevel": 2,
+    "specification": "(2 vln, vlc)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-2-17149",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "Menuett",
+    "composer": "Abel",
+    "arranger": "Hoeckner",
+    "publishers": [
+      "Simrock [The String Trio]"
+    ],
+    "publisherText": "Simrock [The String Trio]",
+    "classLevel": 2,
+    "specification": "(2 vln, vlc)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-2-17848",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "Fugues for Cello Trio",
+    "composer": "Anon. or Trad.",
+    "arranger": "Latham",
+    "publishers": [
+      "Latham Music Enterprises"
+    ],
+    "publisherText": "Latham Music Enterprises",
+    "classLevel": 2,
+    "specification": "(cello trio) (play one)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-2-17140",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "Six Diversions",
+    "composer": "Anon. or Trad.",
+    "arranger": "Bye",
+    "publishers": [
+      "Boosey & Hawkes, Inc."
+    ],
+    "publisherText": "Boosey & Hawkes, Inc.",
+    "classLevel": 2,
+    "specification": "(play two) (3 vlc)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-2-17132",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "15 Terzetti",
+    "composer": "Bach",
+    "arranger": "",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 2,
+    "specification": "(play two) (2 vln, vla)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-2-37615",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "3rd Movement (Allegro) from Trio Sonata in C Major",
+    "composer": "Bach",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 2,
+    "specification": "(2 vln, vla OR 3 vla OR 3 cello)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-2-28419",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "Adagio (from Toccata in G, BWV 916)",
+    "composer": "Bach",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 2,
+    "specification": "(2 vln, vlc) (2 vln, vla)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-2-17838",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "Allegro Moderato Trio No. 10",
+    "composer": "Bach",
+    "arranger": "",
+    "publishers": [
+      "Stainer & Bell"
+    ],
+    "publisherText": "Stainer & Bell",
+    "classLevel": 2,
+    "specification": "(cello trio)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-2-28413",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "Aria (from Cantata No. 12, BWV 12-1 1714; Weeping, Wailing, Grieving, Fearing)",
+    "composer": "Bach",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 2,
+    "specification": "(2 vln, vlc)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-2-28415",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "Aria (from Cantata No. 20, BWV 20, 1724; Eternity, Thou Thundrous Word)",
+    "composer": "Bach",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 2,
+    "specification": "(2 vln, vlc) (2 vln, vla)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-2-28417",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "Aria (from Cantata No. 36, BWV 36-1, 1726; O Fire Everlasting-Fountain of Love)",
+    "composer": "Bach",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 2,
+    "specification": "(2 vln, vla)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-2-28412",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "Aria (from Cantata No. 44, BWV 44 1724; In Banishment They Will Cast You)",
+    "composer": "Bach",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 2,
+    "specification": "(2 vln, vla)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-2-28699",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "Contrapunctus I (from the Art of the Fugue BWV 1080)",
+    "composer": "Bach",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 2,
+    "specification": "(2 vln, vlc) (2 vln, vla)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-2-28421",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "Dearest Jesus We are Here, BWV 731, Chorale Prelude",
+    "composer": "Bach",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 2,
+    "specification": "(2 vln, vlc) (2 vln, vla)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-2-28701",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "Fugue (from Prelude and Fugue BWV 538; Dorian)",
+    "composer": "Bach",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 2,
+    "specification": "(2 vln, vlc) (2 vln, vla)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-2-28703",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "Fugue (from Prelude and Fugue in f minor BWV 534)",
+    "composer": "Bach",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 2,
+    "specification": "(2 vln, vlc) (2 vln, vla)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-2-28698",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "Fugue (from Prelude and Fugue, BWV 536)",
+    "composer": "Bach",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 2,
+    "specification": "(2 vln, vlc)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-2-37613",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "Fugue from Prelude and Fugue in F Minor",
+    "composer": "Bach",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 2,
+    "specification": "(2 vln, vla OR 2 vln, cello OR vln, vla, cello)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-2-17133",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "Little Bach Suite No. 1",
+    "composer": "Bach",
+    "arranger": "Morsch",
+    "publishers": [
+      "Theodore Presser Company"
+    ],
+    "publisherText": "Theodore Presser Company",
+    "classLevel": 2,
+    "specification": "(play two mvts) (2 vln, vlc)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-2-17135",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "Bagatelle Op. 33 No. 2",
+    "composer": "Beethoven",
+    "arranger": "Elkan",
+    "publishers": [
+      "Henri Elkan"
+    ],
+    "publisherText": "Henri Elkan",
+    "classLevel": 2,
+    "specification": "(2 vln, vlc)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-2-17136",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "Terzetto Op. 54 No. 3",
+    "composer": "Boccherini",
+    "arranger": "",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 2,
+    "specification": "(play one mvt) (2 vln, vlc)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-2-17137",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "Gavotte (from Symphony No. 4)",
+    "composer": "Boyce",
+    "arranger": "Vedeski",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 2,
+    "specification": "((2 vln, vlc)(2 vln, vla)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-2-37616",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "Earle of Oxford's Marche",
+    "composer": "Byrd",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 2,
+    "specification": "(vln, vla, cello OR 2 vln, vla OR 2 vln, cello OR 3 vla OR 3 cello)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-2-37617",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "Fugue in A Minor",
+    "composer": "Cernohorsky",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 2,
+    "specification": "(vln, vla, cello OR 2 vln, vla OR 2 vln, cello OR 3 vla OR 3 cello)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-2-17142",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "Triolet",
+    "composer": "DeLamarter",
+    "arranger": "",
+    "publishers": [
+      "Mills Music, Inc."
+    ],
+    "publisherText": "Mills Music, Inc.",
+    "classLevel": 2,
+    "specification": "(2 vln, vla)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-2-37614",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "2 Menuets in F from 7 Miscellaneous Pieces",
+    "composer": "Handel",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 2,
+    "specification": "(vln, vla, cello OR 2 vln,vla)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-2-17144",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "Allegro (from Concerto Grosso Op. 3 No. 4)",
+    "composer": "Handel",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 2,
+    "specification": "(2 vln, vlc)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-2-37612",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "Blessed is the People, from Chandos Anthem No. 7",
+    "composer": "Handel",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 2,
+    "specification": "(2 vln, vla OR 2 vln, cello OR vln, vla, cello)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-2-17145",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "Fire Work Music Suite",
+    "composer": "Handel",
+    "arranger": "Elkan",
+    "publishers": [
+      "Henri Elkan"
+    ],
+    "publisherText": "Henri Elkan",
+    "classLevel": 2,
+    "specification": "(play two) (2 vln, vlc)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-2-17146",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "Fugue (from Sonata No. 2)",
+    "composer": "Handel",
+    "arranger": "Elkan",
+    "publishers": [
+      "Henri Elkan"
+    ],
+    "publisherText": "Henri Elkan",
+    "classLevel": 2,
+    "specification": "(2 vln, vlc)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-2-17147",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "Little Handel Suite",
+    "composer": "Handel",
+    "arranger": "Morsch",
+    "publishers": [
+      "Theodore Presser Company"
+    ],
+    "publisherText": "Theodore Presser Company",
+    "classLevel": 2,
+    "specification": "(play two) (2 vln, vlc)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-2-17148",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "Sarabande",
+    "composer": "Handel",
+    "arranger": "Krane",
+    "publishers": [
+      "Jack Spratt Music Publishers"
+    ],
+    "publisherText": "Jack Spratt Music Publishers",
+    "classLevel": 2,
+    "specification": "(3 vlc)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-2-37700",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "Invocation for Double Bass Trio",
+    "composer": "Heyes",
+    "arranger": "",
+    "publishers": [
+      "recitalmusic.net"
+    ],
+    "publisherText": "recitalmusic.net",
+    "classLevel": 2,
+    "specification": "BASS TRIO",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-2-17373",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "Acht Kanons",
+    "composer": "Hindemith",
+    "arranger": "",
+    "publishers": [
+      "B. Schott's Sohne, Mainz"
+    ],
+    "publisherText": "B. Schott's Sohne, Mainz",
+    "classLevel": 2,
+    "specification": "(play two) (3 vlns) or (2 vlns, vla)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-2-17150",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "Three Varieties for Violas",
+    "composer": "Jacobson",
+    "arranger": "",
+    "publishers": [
+      "Mills Music, Inc."
+    ],
+    "publisherText": "Mills Music, Inc.",
+    "classLevel": 2,
+    "specification": "(play two) (3 vla)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-2-17151",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "Notturno No. 2",
+    "composer": "Kammell",
+    "arranger": "Eades/Thompson",
+    "publishers": [
+      "Chappell Music Company"
+    ],
+    "publisherText": "Chappell Music Company",
+    "classLevel": 2,
+    "specification": "(play two mvts) (2 vln w/ piano or vlc)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-2-17152",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "The Flat Consort For My Cousin Kemble",
+    "composer": "Locke",
+    "arranger": "Tatton",
+    "publishers": [
+      "Rarities for Strings Publications, Bel-Eden House"
+    ],
+    "publisherText": "Rarities for Strings Publications, Bel-Eden House",
+    "classLevel": 2,
+    "specification": "(play one complete fantazie) (three vln)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-2-17154",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "Gavotte in Rondeau",
+    "composer": "Lully",
+    "arranger": "Post",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 2,
+    "specification": "(vln, vla, vlc OR 2 vln, vlc OR 3 vla)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-2-17155",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "Adagio (from Sonatina No. 5)",
+    "composer": "Mozart",
+    "arranger": "Elkan",
+    "publishers": [
+      "Henri Elkan"
+    ],
+    "publisherText": "Henri Elkan",
+    "classLevel": 2,
+    "specification": "(2 vln, vlc)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-2-17156",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "Alleluja (from Exsultate, Jubilate)",
+    "composer": "Mozart",
+    "arranger": "Elkan",
+    "publishers": [
+      "Henri Elkan"
+    ],
+    "publisherText": "Henri Elkan",
+    "classLevel": 2,
+    "specification": "(2 vln, vlc)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-2-24432",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "Menuett",
+    "composer": "Mozart",
+    "arranger": "Hoeckner",
+    "publishers": [
+      "Simrock [The String Trio]"
+    ],
+    "publisherText": "Simrock [The String Trio]",
+    "classLevel": 2,
+    "specification": "(2 vln, vlc)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-2-24435",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "German Dance with Trio (from The Coppersmith)",
+    "composer": "Pechatschek",
+    "arranger": "Hoeckner",
+    "publishers": [
+      "Simrock [The String Trio]"
+    ],
+    "publisherText": "Simrock [The String Trio]",
+    "classLevel": 2,
+    "specification": "(2 vln, vlc)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-2-24431",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "Pastorella",
+    "composer": "Pichl",
+    "arranger": "Hoeckner",
+    "publishers": [
+      "Simrock [The String Trio]"
+    ],
+    "publisherText": "Simrock [The String Trio]",
+    "classLevel": 2,
+    "specification": "(2 vln, vlc)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-2-17157",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "Gavotte and Hornpipe",
+    "composer": "Purcell",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 2,
+    "specification": "(vln, vla, vlc OR 2 vln, vla OR 2 vln, vlc OR 3 vla OR 3 vlc)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-2-17851",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "Gavotte and Hornpipe",
+    "composer": "Purcell",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 2,
+    "specification": "(cello trio)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-2-17160",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "Fantasy on a Double Quodlibet",
+    "composer": "Serley",
+    "arranger": "",
+    "publishers": [
+      "Southern Music Publishing Company"
+    ],
+    "publisherText": "Southern Music Publishing Company",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-2-24430",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "Menuett",
+    "composer": "Stamitz, C",
+    "arranger": "Hoeckner",
+    "publishers": [
+      "Simrock [The String Trio]"
+    ],
+    "publisherText": "Simrock [The String Trio]",
+    "classLevel": 2,
+    "specification": "(2 vln, vlc)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-2-17852",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "Aria da chiesa",
+    "composer": "Stradella",
+    "arranger": "",
+    "publishers": [
+      "Salabert, Inc."
+    ],
+    "publisherText": "Salabert, Inc.",
+    "classLevel": 2,
+    "specification": "(cello trio)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-2-17161",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "Two Trio Sonatas in D Major",
+    "composer": "Tartini",
+    "arranger": "",
+    "publishers": [
+      "Edition Musicus-New York, Inc."
+    ],
+    "publisherText": "Edition Musicus-New York, Inc.",
+    "classLevel": 2,
+    "specification": "(play one mvt) (2 vln, vlc, or vla)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-2-17854",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "Old French Song",
+    "composer": "Tchaikovsky",
+    "arranger": "Mooney",
+    "publishers": [
+      "National Cello Institute"
+    ],
+    "publisherText": "National Cello Institute",
+    "classLevel": 2,
+    "specification": "(cello trio)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-2-17162",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "Six Trios for Two Violins and Cello with Basso Continuo, Vol. 1",
+    "composer": "Telemann",
+    "arranger": "",
+    "publishers": [
+      "Barenreiter/Verlag"
+    ],
+    "publisherText": "Barenreiter/Verlag",
+    "classLevel": 2,
+    "specification": "(unaccomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-2-17857",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "Divertimento",
+    "composer": "Ticciati",
+    "arranger": "",
+    "publishers": [
+      "Hinrichsen Edition"
+    ],
+    "publisherText": "Hinrichsen Edition",
+    "classLevel": 2,
+    "specification": "(cello trio) (play mvt 1)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-2-24433",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "Menuett Grazioso",
+    "composer": "Toeschi",
+    "arranger": "Hoeckner",
+    "publishers": [
+      "Simrock [The String Trio]"
+    ],
+    "publisherText": "Simrock [The String Trio]",
+    "classLevel": 2,
+    "specification": "(2 vln, vlc)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-2-24436",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "String Trio",
+    "composer": "Toeschi",
+    "arranger": "Hoeckner",
+    "publishers": [
+      "Simrock [The String Trio]"
+    ],
+    "publisherText": "Simrock [The String Trio]",
+    "classLevel": 2,
+    "specification": "(2 vln, vlc)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-2-37701",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "20 Progressive Bass Ensembles VOLUME 1",
+    "composer": "various",
+    "arranger": "Wyrick",
+    "publishers": [
+      "inezwyrick.com [20 Progressive Bass Ensembles VOLUME 1]"
+    ],
+    "publisherText": "inezwyrick.com [20 Progressive Bass Ensembles VOLUME 1]",
+    "classLevel": 2,
+    "specification": "BASS TRIO (play Palace Processional)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-2-37702",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "20 Progressive Bass Ensembles VOLUME 2",
+    "composer": "various",
+    "arranger": "Wyrick",
+    "publishers": [
+      "inezwyrick.com [20 Progressive Bass Ensembles VOLUME 2]"
+    ],
+    "publisherText": "inezwyrick.com [20 Progressive Bass Ensembles VOLUME 2]",
+    "classLevel": 2,
+    "specification": "BASS TRIO (play Two 17th Century Chorales)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-2-37703",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "20 Progressive Bass Ensembles VOLUME 3",
+    "composer": "various",
+    "arranger": "Wyrick",
+    "publishers": [
+      "inezwyrick.com [20 Progressive Bass Ensembles VOLUME 3]"
+    ],
+    "publisherText": "inezwyrick.com [20 Progressive Bass Ensembles VOLUME 3]",
+    "classLevel": 2,
+    "specification": "BASS TRIO (play Gurlitt Pizzicato Suite)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-2-37618",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "Adaptable Trios",
+    "composer": "various",
+    "arranger": "Arcari/Putnam/Traietta",
+    "publishers": [
+      "Excelcia [Adaptable Trios]"
+    ],
+    "publisherText": "Excelcia [Adaptable Trios]",
+    "classLevel": 2,
+    "specification": "(any published string combination) (choose one from Funiculi OR Valse Noble OR Fanfare OR Hercules OR Pathetique OR Flamingos OR Sailors Song OR My Country OR March from Aida OR Sunayama OR Minuet-Beethoven OR Alla Hornpipe OR Pastorale OR Rondo OR St. Amtnony Chorale)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-2-37619",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "Compatible Trios for Strings",
+    "composer": "various",
+    "arranger": "Clark/Gazda",
+    "publishers": [
+      "Carl Fischer, Inc. [Compatible Trios for Strings]"
+    ],
+    "publisherText": "Carl Fischer, Inc. [Compatible Trios for Strings]",
+    "classLevel": 2,
+    "specification": "(any published string combination) (choose one from Gigue OR Auld Lang Syne OR Elfin Dance OR Carnival Scene OR Quadrille OR German Dance-Beethoven OR Nutcracker March OR Harvest Moon OR Minuet-Haydn OR Mexican Hat Dance OR Tarantella OR Hungarian Dance OR Irish Washerwoman)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-2-37704",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "Mixed Level Ensembles Vol 1",
+    "composer": "various",
+    "arranger": "Wyrick",
+    "publishers": [
+      "inezwyrick.com [Mixed Level Ensembles Vol 1]"
+    ],
+    "publisherText": "inezwyrick.com [Mixed Level Ensembles Vol 1]",
+    "classLevel": 2,
+    "specification": "BASS TRIO (play Alexander March)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-2-37705",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "Mixed Level Ensembles Vol 2",
+    "composer": "various",
+    "arranger": "Wyrick",
+    "publishers": [
+      "inezwyrick.com [Mixed Level Ensembles Vol 2]"
+    ],
+    "publisherText": "inezwyrick.com [Mixed Level Ensembles Vol 2]",
+    "classLevel": 2,
+    "specification": "BASS TRIO (play Last night I dreamed I was eating cotton candy)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-2-37706",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "Mixed Level Ensembles Vol 5",
+    "composer": "various",
+    "arranger": "Wyrick",
+    "publishers": [
+      "inezwyrick.com [Mixed Level Ensembles Vol 5]"
+    ],
+    "publisherText": "inezwyrick.com [Mixed Level Ensembles Vol 5]",
+    "classLevel": 2,
+    "specification": "BASS TRIO (play The Bunny Hops a Night Train)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-2-37620",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "Progressive Trios",
+    "composer": "various",
+    "arranger": "Gazda",
+    "publishers": [
+      "Carl Fischer, Inc. [Progressive Trios]"
+    ],
+    "publisherText": "Carl Fischer, Inc. [Progressive Trios]",
+    "classLevel": 2,
+    "specification": "(any published string combination) (choose one from Passapied OR English Folk Songs-both OR Prelude & Minuet OR La Raspa OR Caro mio ben OR Siciliana OR Aida Grand March OR Blessed Spirits Dance OR Bridal Chorus OR Serenade Badine OR Tango OR Scherzo)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-2-17849",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "Ten Cello Trios",
+    "composer": "various",
+    "arranger": "Latham",
+    "publishers": [
+      "Latham Music Enterprises [Ten Cello Trios]"
+    ],
+    "publisherText": "Latham Music Enterprises [Ten Cello Trios]",
+    "classLevel": 2,
+    "specification": "(play any one EXCEPT Minuet (from Dance Suite No. 4 in a minor) OR Minuet (from French Suite No. 1))",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-2-37611",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "Trios and Quartets for Double Basses, Volume I - IV",
+    "composer": "various",
+    "arranger": "Zimmerman",
+    "publishers": [
+      "University of Miami Music Publication [Trios and Quartets for Double Basses, Volumes I - IV]"
+    ],
+    "publisherText": "University of Miami Music Publication [Trios and Quartets for Double Basses, Volumes I - IV]",
+    "classLevel": 2,
+    "specification": "(play one trio)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-1-17828",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "Fugues for Cello Trio",
+    "composer": "Anon. or Trad.",
+    "arranger": "Latham",
+    "publishers": [
+      "Latham Music Enterprises"
+    ],
+    "publisherText": "Latham Music Enterprises",
+    "classLevel": 1,
+    "specification": "(cello trio) (play two)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-1-17102",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "15 Terzetti",
+    "composer": "Bach",
+    "arranger": "",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(play three) (2 vln, vla)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-1-28408",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "Fugue (from Sonata in C from Clavier Works, BWV 966)",
+    "composer": "Bach",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 1,
+    "specification": "(2 vln, vlc) (2 vln, vla)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-1-28410",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "Fugue No. 3 in C (from Well Tempered Clavier, Book 1, BWV 848)",
+    "composer": "Bach",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 1,
+    "specification": "(2 vln, vlc) (2 vln, vla)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-1-28696",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "Trio Sonata No. 5, Mvt. III (from Six Trio Sonatas BWV 529)",
+    "composer": "Bach",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 1,
+    "specification": "(2 vln, vlc)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-1-28697",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "Trio Sonata No. 6, Mvt. III (from Six Trio Sonatas BWV 530)",
+    "composer": "Bach",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 1,
+    "specification": "(2 vln, vla)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-1-17105",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "Trio Op. 87",
+    "composer": "Beethoven",
+    "arranger": "",
+    "publishers": [
+      "Bosworth Music Company"
+    ],
+    "publisherText": "Bosworth Music Company",
+    "classLevel": 1,
+    "specification": "(play one mvt except Minuet) (2 vln, vla)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-1-17815",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "Trio in C Major",
+    "composer": "Beethoven",
+    "arranger": "Prell",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(cello trio) (play 1st mvt OR 4th mvt PLUS 2nd OR 3rd)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-1-17106",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "6 Trios Op. 9",
+    "composer": "Boccherini",
+    "arranger": "",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(play one mvt) (2 vln, vlc)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-1-28695",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "Trio No. 1 in B Major, Op. 8",
+    "composer": "Brahms",
+    "arranger": "American Chamber Trio",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(play one mvt) (vln, vlc, piano)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-1-28694",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "Trio No. 3 in c minor, Op. 101",
+    "composer": "Brahms",
+    "arranger": "American Chamber Trio",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(play one mvt) (vln, vlc, piano)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-1-17109",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "Sonatina Op. 36, No. 3",
+    "composer": "Clementi",
+    "arranger": "Elkan",
+    "publishers": [
+      "Henri Elkan"
+    ],
+    "publisherText": "Henri Elkan",
+    "classLevel": 1,
+    "specification": "(2 vln, vlc)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-1-28693",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "Dumka",
+    "composer": "Dvorak",
+    "arranger": "Gajdos",
+    "publishers": [
+      "Alliance Publications, Inc."
+    ],
+    "publisherText": "Alliance Publications, Inc.",
+    "classLevel": 1,
+    "specification": "(3 basses or 3 vlc)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-1-39634",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "Largo from Symphony No. 9 \"From the New World\"",
+    "composer": "Dvorak",
+    "arranger": "Gajdos",
+    "publishers": [
+      "recitalmusic.net"
+    ],
+    "publisherText": "recitalmusic.net",
+    "classLevel": 1,
+    "specification": "BASS TRIO",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-1-28689",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "Terzetto in C Major, Op. 74",
+    "composer": "Dvorak",
+    "arranger": "Seraphin Trio",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(play one mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-1-25540",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "Sonata",
+    "composer": "Gabrieli",
+    "arranger": "",
+    "publishers": [
+      "International Music Company [(two violins, viola)]"
+    ],
+    "publisherText": "International Music Company [(two violins, viola)]",
+    "classLevel": 1,
+    "specification": "(omit vlc, piano required)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-1-17110",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "Rigaudon Op. 40 No. 5",
+    "composer": "Grieg",
+    "arranger": "Elkan",
+    "publishers": [
+      "Henri Elkan"
+    ],
+    "publisherText": "Henri Elkan",
+    "classLevel": 1,
+    "specification": "(2 vln, vlc)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-1-17111",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "Adagio (from Organ Concerto Op. 7 No. 4)",
+    "composer": "Handel",
+    "arranger": "Krane",
+    "publishers": [
+      "Jack Spratt Music Publishers"
+    ],
+    "publisherText": "Jack Spratt Music Publishers",
+    "classLevel": 1,
+    "specification": "(3 vlc)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-1-25541",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "Grave and Fugue",
+    "composer": "Handel",
+    "arranger": "Ronchini",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(play one) (3 vlc)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-1-25724",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "Grave and Fugue",
+    "composer": "Handel",
+    "arranger": "Ronchini",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(cello trio)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-1-17112",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "Sonata Quinta in g minor",
+    "composer": "Handel",
+    "arranger": "Pochon",
+    "publishers": [
+      "Carl Fischer, Inc."
+    ],
+    "publisherText": "Carl Fischer, Inc.",
+    "classLevel": 1,
+    "specification": "(play one mvt as indicated by roman numerals) (2 vln, vlc)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-1-17113",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "12 Easy Trios, Vol. 1 and 2",
+    "composer": "Haydn",
+    "arranger": "",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(play one complete trio) (2 vln, vla)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-1-17114",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "6 Trios",
+    "composer": "Haydn",
+    "arranger": "",
+    "publishers": [
+      "Schott Company"
+    ],
+    "publisherText": "Schott Company",
+    "classLevel": 1,
+    "specification": "(play one complete trio) (2 vln, vlc)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-1-17115",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "Divertimento No. 17 in B flat Major, Hob. V:18",
+    "composer": "Haydn",
+    "arranger": "",
+    "publishers": [
+      "Ludwig Doblinger"
+    ],
+    "publisherText": "Ludwig Doblinger",
+    "classLevel": 1,
+    "specification": "(play mvt 1 or 3) (2 vln, vlc)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-1-17116",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "Divertimento No. 21 in D Major, Hob. V:21",
+    "composer": "Haydn",
+    "arranger": "",
+    "publishers": [
+      "Ludwig Doblinger"
+    ],
+    "publisherText": "Ludwig Doblinger",
+    "classLevel": 1,
+    "specification": "(play all) (2 vln, vlc)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-1-17117",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "Divertimento No. 25 in C Major, Hob V:C3",
+    "composer": "Haydn",
+    "arranger": "",
+    "publishers": [
+      "Ludwig Doblinger"
+    ],
+    "publisherText": "Ludwig Doblinger",
+    "classLevel": 1,
+    "specification": "(play mvt 1 or 3) (2 vln, vlc)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-1-17118",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "Divertimento No. 29 in C Major, Hob V:C4",
+    "composer": "Haydn",
+    "arranger": "",
+    "publishers": [
+      "Ludwig Doblinger"
+    ],
+    "publisherText": "Ludwig Doblinger",
+    "classLevel": 1,
+    "specification": "(play mvt 1 or mvts 2 & 3) (2 vln, vlc)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-1-17119",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "Divertimento No. 30 in C Major, Hob V:C5",
+    "composer": "Haydn",
+    "arranger": "",
+    "publishers": [
+      "Ludwig Doblinger"
+    ],
+    "publisherText": "Ludwig Doblinger",
+    "classLevel": 1,
+    "specification": "(play mvt 1, 2 or 3) (2 vln, vlc)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-1-17120",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "Divertimento No. 33 in G Major, Hob V:G3",
+    "composer": "Haydn",
+    "arranger": "",
+    "publishers": [
+      "Ludwig Doblinger"
+    ],
+    "publisherText": "Ludwig Doblinger",
+    "classLevel": 1,
+    "specification": "(play all) (2 vln, vlc)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-1-37717",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "Serenity: A Meditation for Sara",
+    "composer": "Heyes",
+    "arranger": "",
+    "publishers": [
+      "recitalmusic.net"
+    ],
+    "publisherText": "recitalmusic.net",
+    "classLevel": 1,
+    "specification": "BASS TRIO",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-1-17121",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "Three Burlesques for Basses",
+    "composer": "Jacobson",
+    "arranger": "",
+    "publishers": [
+      "Mills Music, Inc."
+    ],
+    "publisherText": "Mills Music, Inc.",
+    "classLevel": 1,
+    "specification": "(play two) (3 basses)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-1-17122",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "Three Conversations for Cellos",
+    "composer": "Jacobson",
+    "arranger": "",
+    "publishers": [
+      "Mills Music, Inc."
+    ],
+    "publisherText": "Mills Music, Inc.",
+    "classLevel": 1,
+    "specification": "(play two mvts) (3 vlc)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-1-17123",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "Serenade Op. 12",
+    "composer": "Kodaly",
+    "arranger": "",
+    "publishers": [
+      "Universal Editions"
+    ],
+    "publisherText": "Universal Editions",
+    "classLevel": 1,
+    "specification": "(play one mvt) (2 vln, vla)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-1-17124",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "Notturno",
+    "composer": "Mozart",
+    "arranger": "Krane",
+    "publishers": [
+      "Jack Spratt Music Publishers"
+    ],
+    "publisherText": "Jack Spratt Music Publishers",
+    "classLevel": 1,
+    "specification": "(3 vlc)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-1-17125",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "Symphonie Concertante in Eb K. 364",
+    "composer": "Mozart",
+    "arranger": "Hermann",
+    "publishers": [
+      "C.F. Peters Corporation",
+      "G. Schirmer, Inc."
+    ],
+    "publisherText": "C.F. Peters Corporation;G. Schirmer, Inc.",
+    "classLevel": 1,
+    "specification": "(play one mvt) (vln, vla, piano)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-1-17834",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "Requiem Op. 66",
+    "composer": "Popper",
+    "arranger": "",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(cello trio) (requires piano)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-1-17126",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "Orchestra Trio in C Major Op. 1 No. 1",
+    "composer": "Stamitz",
+    "arranger": "",
+    "publishers": [
+      "Edwin F. Kalmus"
+    ],
+    "publisherText": "Edwin F. Kalmus",
+    "classLevel": 1,
+    "specification": "(2 vln, vlc)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-1-17127",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "2 Sonatas",
+    "composer": "Tartini",
+    "arranger": "",
+    "publishers": [
+      "Edwin F. Kalmus"
+    ],
+    "publisherText": "Edwin F. Kalmus",
+    "classLevel": 1,
+    "specification": "(play one Sonata) (2 vln, vlc)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-1-17129",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "Serenade Op. 25",
+    "composer": "Toch",
+    "arranger": "",
+    "publishers": [
+      "Delkas"
+    ],
+    "publisherText": "Delkas",
+    "classLevel": 1,
+    "specification": "(2 vln, vla)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-1-17130",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "Concerto in a minor Op. 3 No. 8",
+    "composer": "Vivaldi",
+    "arranger": "Vene",
+    "publishers": [
+      "Ricordi & Company, Inc."
+    ],
+    "publisherText": "Ricordi & Company, Inc.",
+    "classLevel": 1,
+    "specification": "(play mvt 1 or 3) (2 vln, piano)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-1-37715",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "20 Progressive Bass Ensembles VOLUME 1",
+    "composer": "various",
+    "arranger": "Wyrick",
+    "publishers": [
+      "inezwyrick.com [20 Progressive Bass Ensembles VOLUME 1]"
+    ],
+    "publisherText": "inezwyrick.com [20 Progressive Bass Ensembles VOLUME 1]",
+    "classLevel": 1,
+    "specification": "BASS TRIO (play Dance of the Shepherdesses)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-1-37716",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "20 Progressive Bass Ensembles VOLUME 3",
+    "composer": "various",
+    "arranger": "Wyrick",
+    "publishers": [
+      "inezwyrick.com [20 Progressive Bass Ensembles VOLUME 3]"
+    ],
+    "publisherText": "inezwyrick.com [20 Progressive Bass Ensembles VOLUME 3]",
+    "classLevel": 1,
+    "specification": "BASS TRIO (play Manzanillo (Danza Mexicano))",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "433-1-37610",
+    "instrumentSlug": "misc-string-trio",
+    "instrumentName": "Miscellaneous String Trios",
+    "eventName": "Miscellaneous String Trio",
+    "title": "Trios and Quartets for Double Basses, Volumes I - IV",
+    "composer": "various",
+    "arranger": "Zimmerman",
+    "publishers": [
+      "University of Miami Music Publication [Trios and Quartets for Double Basses, Volumes I - IV]"
+    ],
+    "publisherText": "University of Miami Music Publication [Trios and Quartets for Double Basses, Volumes I - IV]",
+    "classLevel": 1,
+    "specification": "(play any two trios)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  }
+]

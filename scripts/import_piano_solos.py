@@ -69,6 +69,32 @@ TROMBONE_CHOIR_SOURCE_CSV_PATH = ROOT / "data" / "uil_trombone_choir_source.csv"
 PERCUSSION_ENSEMBLE_SOURCE_CSV_PATH = ROOT / "data" / "uil_percussion_ensemble_source.csv"
 STEEL_BAND_SOURCE_CSV_PATH = ROOT / "data" / "uil_steel_band_source.csv"
 MISC_MIXED_ENSEMBLE_SOURCE_CSV_PATH = ROOT / "data" / "uil_misc_mixed_ensemble_source.csv"
+ACOUSTICAL_GUITAR_SOURCE_CSV_PATH = ROOT / "data" / "uil_acoustical_guitar_solos_source.csv"
+PIANO_TRIO_SOURCE_CSV_PATH = ROOT / "data" / "uil_piano_trio_source.csv"
+VIOLIN_TRIO_SOURCE_CSV_PATH = ROOT / "data" / "uil_violin_trio_source.csv"
+STRING_TRIO_SOURCE_CSV_PATH = ROOT / "data" / "uil_string_trio_source.csv"
+MISC_STRING_TRIO_SOURCE_CSV_PATH = ROOT / "data" / "uil_misc_string_trio_source.csv"
+GUITAR_TRIO_SOURCE_CSV_PATH = ROOT / "data" / "uil_guitar_trio_source.csv"
+VIOLIN_QUARTETS_SOURCE_CSV_PATH = ROOT / "data" / "uil_violin_quartets_source.csv"
+STRING_QUARTET_SOURCE_CSV_PATH = ROOT / "data" / "uil_string_quartet_source.csv"
+MISC_STRING_QUARTET_SOURCE_CSV_PATH = ROOT / "data" / "uil_misc_string_quartet_source.csv"
+GUITAR_QUARTET_SOURCE_CSV_PATH = ROOT / "data" / "uil_guitar_quartet_source.csv"
+STRING_QUINTET_SOURCE_CSV_PATH = ROOT / "data" / "uil_string_quintet_source.csv"
+MISC_STRING_QUINTET_SOURCE_CSV_PATH = ROOT / "data" / "uil_misc_string_quintet_source.csv"
+MISC_STRING_ENSEMBLE_SOURCE_CSV_PATH = ROOT / "data" / "uil_misc_string_ensemble_source.csv"
+MISC_GUITAR_ENSEMBLE_SOURCE_CSV_PATH = ROOT / "data" / "uil_misc_guitar_ensemble_source.csv"
+CELLO_CHOIR_SOURCE_CSV_PATH = ROOT / "data" / "uil_cello_choir_source.csv"
+HARP_SOURCE_CSV_PATH = ROOT / "data" / "uil_harp_solos_source.csv"
+HARP_ENSEMBLE_SOURCE_CSV_PATH = ROOT / "data" / "uil_harp_ensemble_source.csv"
+FULL_ORCHESTRA_SOURCE_CSV_PATH = ROOT / "data" / "uil_full_orchestra_source.csv"
+STRING_ORCHESTRA_SOURCE_CSV_PATH = ROOT / "data" / "uil_string_orchestra_source.csv"
+VOCAL_SOURCE_CSV_PATH = ROOT / "data" / "uil_vocal_solos_source.csv"
+TREBLE_SMALL_ENSEMBLE_SOURCE_CSV_PATH = ROOT / "data" / "uil_treble_small_ensemble_source.csv"
+TENOR_BASS_SMALL_ENSEMBLE_SOURCE_CSV_PATH = ROOT / "data" / "uil_tenor_bass_small_ensemble_source.csv"
+MADRIGAL_SOURCE_CSV_PATH = ROOT / "data" / "uil_madrigal_source.csv"
+MIXED_CHORUS_SOURCE_CSV_PATH = ROOT / "data" / "uil_mixed_chorus_source.csv"
+TENOR_BASS_CHORUS_SOURCE_CSV_PATH = ROOT / "data" / "uil_tenor_bass_chorus_source.csv"
+TREBLE_CHORUS_SOURCE_CSV_PATH = ROOT / "data" / "uil_treble_chorus_source.csv"
 DEFAULT_SCHOOL_YEAR = "2025-2026"
 TAG_PATTERN = re.compile(r"<[^>]+>")
 OPTION_PATTERN = re.compile(r"<option[^>]*>(.*?)</option>", re.IGNORECASE | re.DOTALL)
@@ -549,6 +575,214 @@ INSTRUMENT_CONFIGS = {
         "csv_path": MISC_MIXED_ENSEMBLE_SOURCE_CSV_PATH,
         "songs_output": STATIC_DATA_DIR / "misc-mixed-ensemble.json",
         "stats_output": STATIC_DATA_DIR / "misc-mixed-ensemble-stats.json",
+    },
+    "acoustical-guitar": {
+        "event_name": "Acoustical Guitar Solo",
+        "event_names": ["Acoustical Guitar Solo"],
+        "title": "Acoustical Guitar Solos",
+        "csv_path": ACOUSTICAL_GUITAR_SOURCE_CSV_PATH,
+        "songs_output": STATIC_DATA_DIR / "acoustical-guitar-solos.json",
+        "stats_output": STATIC_DATA_DIR / "acoustical-guitar-stats.json",
+    },
+    "piano-trio": {
+        "event_name": "Piano Trio",
+        "event_names": ["Piano Trio"],
+        "title": "Piano Trios",
+        "csv_path": PIANO_TRIO_SOURCE_CSV_PATH,
+        "songs_output": STATIC_DATA_DIR / "piano-trio.json",
+        "stats_output": STATIC_DATA_DIR / "piano-trio-stats.json",
+    },
+    "violin-trio": {
+        "event_name": "Violin Trio",
+        "event_names": ["Violin Trio"],
+        "title": "Violin Trios",
+        "csv_path": VIOLIN_TRIO_SOURCE_CSV_PATH,
+        "songs_output": STATIC_DATA_DIR / "violin-trio.json",
+        "stats_output": STATIC_DATA_DIR / "violin-trio-stats.json",
+    },
+    "string-trio": {
+        "event_name": "String Trio",
+        "event_names": ["String Trio"],
+        "title": "String Trios",
+        "csv_path": STRING_TRIO_SOURCE_CSV_PATH,
+        "songs_output": STATIC_DATA_DIR / "string-trio.json",
+        "stats_output": STATIC_DATA_DIR / "string-trio-stats.json",
+    },
+    "misc-string-trio": {
+        "event_name": "Miscellaneous String Trio",
+        "event_names": ["Miscellaneous String Trio"],
+        "title": "Miscellaneous String Trios",
+        "csv_path": MISC_STRING_TRIO_SOURCE_CSV_PATH,
+        "songs_output": STATIC_DATA_DIR / "misc-string-trio.json",
+        "stats_output": STATIC_DATA_DIR / "misc-string-trio-stats.json",
+    },
+    "guitar-trio": {
+        "event_name": "Guitar Trio",
+        "event_names": ["Guitar Trio"],
+        "title": "Guitar Trios",
+        "csv_path": GUITAR_TRIO_SOURCE_CSV_PATH,
+        "songs_output": STATIC_DATA_DIR / "guitar-trio.json",
+        "stats_output": STATIC_DATA_DIR / "guitar-trio-stats.json",
+    },
+    "violin-quartets": {
+        "event_name": "Violin Quartets",
+        "event_names": ["Violin Quartets"],
+        "title": "Violin Quartets",
+        "csv_path": VIOLIN_QUARTETS_SOURCE_CSV_PATH,
+        "songs_output": STATIC_DATA_DIR / "violin-quartets.json",
+        "stats_output": STATIC_DATA_DIR / "violin-quartets-stats.json",
+    },
+    "string-quartet": {
+        "event_name": "String Quartet",
+        "event_names": ["String Quartet"],
+        "title": "String Quartets",
+        "csv_path": STRING_QUARTET_SOURCE_CSV_PATH,
+        "songs_output": STATIC_DATA_DIR / "string-quartet.json",
+        "stats_output": STATIC_DATA_DIR / "string-quartet-stats.json",
+    },
+    "misc-string-quartet": {
+        "event_name": "Miscellaneous String Quartet",
+        "event_names": ["Miscellaneous String Quartet"],
+        "title": "Miscellaneous String Quartets",
+        "csv_path": MISC_STRING_QUARTET_SOURCE_CSV_PATH,
+        "songs_output": STATIC_DATA_DIR / "misc-string-quartet.json",
+        "stats_output": STATIC_DATA_DIR / "misc-string-quartet-stats.json",
+    },
+    "guitar-quartet": {
+        "event_name": "Guitar Quartet",
+        "event_names": ["Guitar Quartet"],
+        "title": "Guitar Quartets",
+        "csv_path": GUITAR_QUARTET_SOURCE_CSV_PATH,
+        "songs_output": STATIC_DATA_DIR / "guitar-quartet.json",
+        "stats_output": STATIC_DATA_DIR / "guitar-quartet-stats.json",
+    },
+    "string-quintet": {
+        "event_name": "String Quintet",
+        "event_names": ["String Quintet"],
+        "title": "String Quintets",
+        "csv_path": STRING_QUINTET_SOURCE_CSV_PATH,
+        "songs_output": STATIC_DATA_DIR / "string-quintet.json",
+        "stats_output": STATIC_DATA_DIR / "string-quintet-stats.json",
+    },
+    "misc-string-quintet": {
+        "event_name": "Miscellaneous String Quintet",
+        "event_names": ["Miscellaneous String Quintet"],
+        "title": "Miscellaneous String Quintets",
+        "csv_path": MISC_STRING_QUINTET_SOURCE_CSV_PATH,
+        "songs_output": STATIC_DATA_DIR / "misc-string-quintet.json",
+        "stats_output": STATIC_DATA_DIR / "misc-string-quintet-stats.json",
+    },
+    "misc-string-ensemble": {
+        "event_name": "Miscellaneous String Ensemble",
+        "event_names": ["Miscellaneous String Ensemble"],
+        "title": "Miscellaneous String Ensembles",
+        "csv_path": MISC_STRING_ENSEMBLE_SOURCE_CSV_PATH,
+        "songs_output": STATIC_DATA_DIR / "misc-string-ensemble.json",
+        "stats_output": STATIC_DATA_DIR / "misc-string-ensemble-stats.json",
+    },
+    "misc-guitar-ensemble": {
+        "event_name": "Miscellaneous Guitar Ensemble",
+        "event_names": ["Miscellaneous Guitar Ensemble"],
+        "title": "Miscellaneous Guitar Ensembles",
+        "csv_path": MISC_GUITAR_ENSEMBLE_SOURCE_CSV_PATH,
+        "songs_output": STATIC_DATA_DIR / "misc-guitar-ensemble.json",
+        "stats_output": STATIC_DATA_DIR / "misc-guitar-ensemble-stats.json",
+    },
+    "cello-choir": {
+        "event_name": "Cello Choir",
+        "event_names": ["Cello Choir"],
+        "title": "Cello Choirs",
+        "csv_path": CELLO_CHOIR_SOURCE_CSV_PATH,
+        "songs_output": STATIC_DATA_DIR / "cello-choir.json",
+        "stats_output": STATIC_DATA_DIR / "cello-choir-stats.json",
+    },
+    "harp": {
+        "event_name": "Harp Solo",
+        "event_names": ["Harp Solo"],
+        "title": "Harp Solos",
+        "csv_path": HARP_SOURCE_CSV_PATH,
+        "songs_output": STATIC_DATA_DIR / "harp-solos.json",
+        "stats_output": STATIC_DATA_DIR / "harp-stats.json",
+    },
+    "harp-ensemble": {
+        "event_name": "Harp Ensemble",
+        "event_names": ["Harp Ensemble"],
+        "title": "Harp Ensembles",
+        "csv_path": HARP_ENSEMBLE_SOURCE_CSV_PATH,
+        "songs_output": STATIC_DATA_DIR / "harp-ensemble.json",
+        "stats_output": STATIC_DATA_DIR / "harp-ensemble-stats.json",
+    },
+    "full-orchestra": {
+        "event_name": "Full Orchestra",
+        "event_names": ["Full Orchestra"],
+        "title": "Full Orchestra",
+        "csv_path": FULL_ORCHESTRA_SOURCE_CSV_PATH,
+        "songs_output": STATIC_DATA_DIR / "full-orchestra.json",
+        "stats_output": STATIC_DATA_DIR / "full-orchestra-stats.json",
+    },
+    "string-orchestra": {
+        "event_name": "String Orchestra",
+        "event_names": ["String Orchestra"],
+        "title": "String Orchestra",
+        "csv_path": STRING_ORCHESTRA_SOURCE_CSV_PATH,
+        "songs_output": STATIC_DATA_DIR / "string-orchestra.json",
+        "stats_output": STATIC_DATA_DIR / "string-orchestra-stats.json",
+    },
+    "vocal": {
+        "event_name": "Vocal Solo",
+        "event_names": ["Vocal Solo"],
+        "title": "Vocal Solos",
+        "csv_path": VOCAL_SOURCE_CSV_PATH,
+        "songs_output": STATIC_DATA_DIR / "vocal-solos.json",
+        "stats_output": STATIC_DATA_DIR / "vocal-stats.json",
+    },
+    "treble-small-ensemble": {
+        "event_name": "Treble Small Ensemble",
+        "event_names": ["Treble Small Ensemble"],
+        "title": "Treble Small Ensembles",
+        "csv_path": TREBLE_SMALL_ENSEMBLE_SOURCE_CSV_PATH,
+        "songs_output": STATIC_DATA_DIR / "treble-small-ensemble.json",
+        "stats_output": STATIC_DATA_DIR / "treble-small-ensemble-stats.json",
+    },
+    "tenor-bass-small-ensemble": {
+        "event_name": "Tenor-Bass Small Ensemble",
+        "event_names": ["Tenor-Bass Small Ensemble"],
+        "title": "Tenor-Bass Small Ensembles",
+        "csv_path": TENOR_BASS_SMALL_ENSEMBLE_SOURCE_CSV_PATH,
+        "songs_output": STATIC_DATA_DIR / "tenor-bass-small-ensemble.json",
+        "stats_output": STATIC_DATA_DIR / "tenor-bass-small-ensemble-stats.json",
+    },
+    "madrigal": {
+        "event_name": "Madrigal",
+        "event_names": ["Madrigal"],
+        "title": "Madrigals",
+        "csv_path": MADRIGAL_SOURCE_CSV_PATH,
+        "songs_output": STATIC_DATA_DIR / "madrigal.json",
+        "stats_output": STATIC_DATA_DIR / "madrigal-stats.json",
+    },
+    "mixed-chorus": {
+        "event_name": "Mixed Chorus",
+        "event_names": ["Mixed Chorus"],
+        "title": "Mixed Choruses",
+        "csv_path": MIXED_CHORUS_SOURCE_CSV_PATH,
+        "songs_output": STATIC_DATA_DIR / "mixed-chorus.json",
+        "stats_output": STATIC_DATA_DIR / "mixed-chorus-stats.json",
+    },
+    "tenor-bass-chorus": {
+        "event_name": "Tenor-Bass Chorus",
+        "event_names": ["Tenor-Bass Chorus"],
+        "title": "Tenor-Bass Choruses",
+        "csv_path": TENOR_BASS_CHORUS_SOURCE_CSV_PATH,
+        "songs_output": STATIC_DATA_DIR / "tenor-bass-chorus.json",
+        "stats_output": STATIC_DATA_DIR / "tenor-bass-chorus-stats.json",
+    },
+    "treble-chorus": {
+        "event_name": "Treble Chorus",
+        "event_names": ["Treble Chorus"],
+        "title": "Treble Choruses",
+        "csv_path": TREBLE_CHORUS_SOURCE_CSV_PATH,
+        "songs_output": STATIC_DATA_DIR / "treble-chorus.json",
+        "stats_output": STATIC_DATA_DIR / "treble-chorus-stats.json",
     },
 }
 

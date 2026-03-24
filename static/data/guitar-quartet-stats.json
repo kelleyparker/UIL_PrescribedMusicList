@@ -1,0 +1,22 @@
+{
+  "schoolYear": "2025-2026",
+  "instrumentSlug": "guitar-quartet",
+  "instrumentName": "Guitar Quartets",
+  "songCount": 166,
+  "publisherCount": 166,
+  "noteCount": 1,
+  "databaseRecordCount": 167,
+  "classBreakdown": {
+    "3": 19,
+    "2": 46,
+    "1": 101
+  },
+  "noMemoryRequiredCount": 0,
+  "publicDomainPdfCount": 0,
+  "eventBreakdown": {
+    "Guitar Quartet": 166
+  },
+  "notes": {
+    "dataset_audit": "Sourced from https://www.uiltexas.org/pml/ and https://www.uiltexas.org/pml/pml.php. Imported 2026-03-24T22:13:49.521868+00:00."
+  }
+}

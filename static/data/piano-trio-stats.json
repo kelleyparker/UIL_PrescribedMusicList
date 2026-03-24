@@ -1,0 +1,22 @@
+{
+  "schoolYear": "2025-2026",
+  "instrumentSlug": "piano-trio",
+  "instrumentName": "Piano Trios",
+  "songCount": 131,
+  "publisherCount": 148,
+  "noteCount": 1,
+  "databaseRecordCount": 132,
+  "classBreakdown": {
+    "3": 65,
+    "2": 46,
+    "1": 20
+  },
+  "noMemoryRequiredCount": 0,
+  "publicDomainPdfCount": 0,
+  "eventBreakdown": {
+    "Piano Trio": 131
+  },
+  "notes": {
+    "dataset_audit": "Sourced from https://www.uiltexas.org/pml/ and https://www.uiltexas.org/pml/pml.php. Imported 2026-03-24T22:13:49.469973+00:00."
+  }
+}

@@ -1,0 +1,1623 @@
+[
+  {
+    "uilCode": "431-3-17052",
+    "instrumentSlug": "violin-trio",
+    "instrumentName": "Violin Trios",
+    "eventName": "Violin Trio",
+    "title": "Five Tunes for Three Violins",
+    "composer": "Anon. or Trad.",
+    "arranger": "Horrocks",
+    "publishers": [
+      "Oxford University Press"
+    ],
+    "publisherText": "Oxford University Press",
+    "classLevel": 3,
+    "specification": "(play one) (requires piano accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "431-3-17045",
+    "instrumentSlug": "violin-trio",
+    "instrumentName": "Violin Trios",
+    "eventName": "Violin Trio",
+    "title": "Trios for Violins - 2 Volumes",
+    "composer": "Anon. or Trad.",
+    "arranger": "Bryan",
+    "publishers": [
+      "Chappell Music Company"
+    ],
+    "publisherText": "Chappell Music Company",
+    "classLevel": 3,
+    "specification": "(play two)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "431-3-24370",
+    "instrumentSlug": "violin-trio",
+    "instrumentName": "Violin Trios",
+    "eventName": "Violin Trio",
+    "title": "Chorale",
+    "composer": "Bach",
+    "arranger": "Bradley",
+    "publishers": [
+      "Oxford University Press [Three-Part Tunes Book II]"
+    ],
+    "publisherText": "Oxford University Press [Three-Part Tunes Book II]",
+    "classLevel": 3,
+    "specification": "(unaccomp) (must also play one additional selection from this collection)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "431-3-17040",
+    "instrumentSlug": "violin-trio",
+    "instrumentName": "Violin Trios",
+    "eventName": "Violin Trio",
+    "title": "Menuet in G",
+    "composer": "Bach",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press [Anna Magdalena Bach Notebook]"
+    ],
+    "publisherText": "Medici Music Press [Anna Magdalena Bach Notebook]",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "431-3-17041",
+    "instrumentSlug": "violin-trio",
+    "instrumentName": "Violin Trios",
+    "eventName": "Violin Trio",
+    "title": "Musette",
+    "composer": "Bach",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press [Anna Magdalena Bach Notebook]"
+    ],
+    "publisherText": "Medici Music Press [Anna Magdalena Bach Notebook]",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "431-3-24358",
+    "instrumentSlug": "violin-trio",
+    "instrumentName": "Violin Trios",
+    "eventName": "Violin Trio",
+    "title": "Musette",
+    "composer": "Bach",
+    "arranger": "Bradley",
+    "publishers": [
+      "Oxford University Press [Three-Part Tunes Book I]"
+    ],
+    "publisherText": "Oxford University Press [Three-Part Tunes Book I]",
+    "classLevel": 3,
+    "specification": "(unaccomp) (must also play one additional selection from this collection)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "431-3-17042",
+    "instrumentSlug": "violin-trio",
+    "instrumentName": "Violin Trios",
+    "eventName": "Violin Trio",
+    "title": "Trio-Cosmos, Trio No. 3",
+    "composer": "Badings",
+    "arranger": "",
+    "publishers": [
+      "B. Schott's Sohne, Mainz"
+    ],
+    "publisherText": "B. Schott's Sohne, Mainz",
+    "classLevel": 3,
+    "specification": "(play one)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "431-3-24366",
+    "instrumentSlug": "violin-trio",
+    "instrumentName": "Violin Trios",
+    "eventName": "Violin Trio",
+    "title": "Allegretto",
+    "composer": "Beethoven",
+    "arranger": "Bradley",
+    "publishers": [
+      "Oxford University Press [Three-Part Tunes Book II]"
+    ],
+    "publisherText": "Oxford University Press [Three-Part Tunes Book II]",
+    "classLevel": 3,
+    "specification": "(unaccomp) (must also play one additional selection from this collection)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "431-3-24359",
+    "instrumentSlug": "violin-trio",
+    "instrumentName": "Violin Trios",
+    "eventName": "Violin Trio",
+    "title": "Sonatina",
+    "composer": "Beethoven",
+    "arranger": "Bradley",
+    "publishers": [
+      "Oxford University Press [Three-Part Tunes Book I]"
+    ],
+    "publisherText": "Oxford University Press [Three-Part Tunes Book I]",
+    "classLevel": 3,
+    "specification": "(unaccomp) (must also play one additional selection from this collection)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "431-3-24381",
+    "instrumentSlug": "violin-trio",
+    "instrumentName": "Violin Trios",
+    "eventName": "Violin Trio",
+    "title": "Andantino",
+    "composer": "Boieldieu",
+    "arranger": "Wehrmann",
+    "publishers": [
+      "G. Schirmer, Inc. [Fiddlers Three]"
+    ],
+    "publisherText": "G. Schirmer, Inc. [Fiddlers Three]",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "431-3-17043",
+    "instrumentSlug": "violin-trio",
+    "instrumentName": "Violin Trios",
+    "eventName": "Violin Trio",
+    "title": "Gavotte (from Symphony No. 4)",
+    "composer": "Boyce",
+    "arranger": "Vedeski",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "431-3-24362",
+    "instrumentSlug": "violin-trio",
+    "instrumentName": "Violin Trios",
+    "eventName": "Violin Trio",
+    "title": "St. Anthony Chorale",
+    "composer": "Brahms/Haydn",
+    "arranger": "Bradley",
+    "publishers": [
+      "Oxford University Press [Three-Part Tunes Book I]"
+    ],
+    "publisherText": "Oxford University Press [Three-Part Tunes Book I]",
+    "classLevel": 3,
+    "specification": "(unaccomp) (must also play one additional selection from this collection)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "431-3-17046",
+    "instrumentSlug": "violin-trio",
+    "instrumentName": "Violin Trios",
+    "eventName": "Violin Trio",
+    "title": "A Dance Measure",
+    "composer": "Carse",
+    "arranger": "",
+    "publishers": [
+      "Augener (London) [King Cole's Fiddle Book, Part 2]"
+    ],
+    "publisherText": "Augener (London) [King Cole's Fiddle Book, Part 2]",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "431-3-24377",
+    "instrumentSlug": "violin-trio",
+    "instrumentName": "Violin Trios",
+    "eventName": "Violin Trio",
+    "title": "Andantino",
+    "composer": "Carse",
+    "arranger": "",
+    "publishers": [
+      "Augener (London) [King Cole's Fiddle Book, Part 2]"
+    ],
+    "publisherText": "Augener (London) [King Cole's Fiddle Book, Part 2]",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "431-3-24374",
+    "instrumentSlug": "violin-trio",
+    "instrumentName": "Violin Trios",
+    "eventName": "Violin Trio",
+    "title": "Country Dance",
+    "composer": "Carse",
+    "arranger": "",
+    "publishers": [
+      "Augener (London) [King Cole's Fiddle Book, Part 2]"
+    ],
+    "publisherText": "Augener (London) [King Cole's Fiddle Book, Part 2]",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "431-3-24378",
+    "instrumentSlug": "violin-trio",
+    "instrumentName": "Violin Trios",
+    "eventName": "Violin Trio",
+    "title": "Elegy",
+    "composer": "Carse",
+    "arranger": "",
+    "publishers": [
+      "Augener (London) [King Cole's Fiddle Book, Part 2]"
+    ],
+    "publisherText": "Augener (London) [King Cole's Fiddle Book, Part 2]",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "431-3-24379",
+    "instrumentSlug": "violin-trio",
+    "instrumentName": "Violin Trios",
+    "eventName": "Violin Trio",
+    "title": "Reverie",
+    "composer": "Carse",
+    "arranger": "",
+    "publishers": [
+      "Augener (London) [King Cole's Fiddle Book, Part 2]"
+    ],
+    "publisherText": "Augener (London) [King Cole's Fiddle Book, Part 2]",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "431-3-24375",
+    "instrumentSlug": "violin-trio",
+    "instrumentName": "Violin Trios",
+    "eventName": "Violin Trio",
+    "title": "Robin Adair",
+    "composer": "Carse",
+    "arranger": "",
+    "publishers": [
+      "Augener (London) [King Cole's Fiddle Book, Part 2]"
+    ],
+    "publisherText": "Augener (London) [King Cole's Fiddle Book, Part 2]",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "431-3-24376",
+    "instrumentSlug": "violin-trio",
+    "instrumentName": "Violin Trios",
+    "eventName": "Violin Trio",
+    "title": "Rondino",
+    "composer": "Carse",
+    "arranger": "",
+    "publishers": [
+      "Augener (London) [King Cole's Fiddle Book, Part 2]"
+    ],
+    "publisherText": "Augener (London) [King Cole's Fiddle Book, Part 2]",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "431-3-17061",
+    "instrumentSlug": "violin-trio",
+    "instrumentName": "Violin Trios",
+    "eventName": "Violin Trio",
+    "title": "Pastorale",
+    "composer": "Corelli",
+    "arranger": "Wehrmann",
+    "publishers": [
+      "G. Schirmer, Inc. [Fiddlers Three]"
+    ],
+    "publisherText": "G. Schirmer, Inc. [Fiddlers Three]",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "431-3-17047",
+    "instrumentSlug": "violin-trio",
+    "instrumentName": "Violin Trios",
+    "eventName": "Violin Trio",
+    "title": "Suite No. 1",
+    "composer": "Donington",
+    "arranger": "",
+    "publishers": [
+      "Galaxy Music Corporation",
+      "Mills Music, Inc."
+    ],
+    "publisherText": "Galaxy Music Corporation;Mills Music, Inc.",
+    "classLevel": 3,
+    "specification": "(play two mvts)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "431-3-17048",
+    "instrumentSlug": "violin-trio",
+    "instrumentName": "Violin Trios",
+    "eventName": "Violin Trio",
+    "title": "Amaryllis",
+    "composer": "Ghys",
+    "arranger": "Harris",
+    "publishers": [
+      "Ludwig Music Publishing Company"
+    ],
+    "publisherText": "Ludwig Music Publishing Company",
+    "classLevel": 3,
+    "specification": "(requires piano accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "431-3-24357",
+    "instrumentSlug": "violin-trio",
+    "instrumentName": "Violin Trios",
+    "eventName": "Violin Trio",
+    "title": "Dance of the Blessed Spirits",
+    "composer": "Gluck",
+    "arranger": "Bradley",
+    "publishers": [
+      "Oxford University Press [Three-Part Tunes Book I]"
+    ],
+    "publisherText": "Oxford University Press [Three-Part Tunes Book I]",
+    "classLevel": 3,
+    "specification": "(unaccomp) (must also play one additional selection from this collection)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "431-3-24383",
+    "instrumentSlug": "violin-trio",
+    "instrumentName": "Violin Trios",
+    "eventName": "Violin Trio",
+    "title": "Andantino",
+    "composer": "Godard",
+    "arranger": "Wehrmann",
+    "publishers": [
+      "G. Schirmer, Inc. [Fiddlers Three]"
+    ],
+    "publisherText": "G. Schirmer, Inc. [Fiddlers Three]",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "431-3-17049",
+    "instrumentSlug": "violin-trio",
+    "instrumentName": "Violin Trios",
+    "eventName": "Violin Trio",
+    "title": "Lift Thine Eyes",
+    "composer": "Grearhart",
+    "arranger": "Green",
+    "publishers": [
+      "Shawnee Press [Fiddle Sessions]"
+    ],
+    "publisherText": "Shawnee Press [Fiddle Sessions]",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "431-3-17050",
+    "instrumentSlug": "violin-trio",
+    "instrumentName": "Violin Trios",
+    "eventName": "Violin Trio",
+    "title": "Madrigal",
+    "composer": "Grearhart",
+    "arranger": "Green",
+    "publishers": [
+      "Shawnee Press [Fiddle Sessions]"
+    ],
+    "publisherText": "Shawnee Press [Fiddle Sessions]",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "431-3-24373",
+    "instrumentSlug": "violin-trio",
+    "instrumentName": "Violin Trios",
+    "eventName": "Violin Trio",
+    "title": "Air",
+    "composer": "Handel",
+    "arranger": "Bradley",
+    "publishers": [
+      "Oxford University Press [Three-Part Tunes Book II]"
+    ],
+    "publisherText": "Oxford University Press [Three-Part Tunes Book II]",
+    "classLevel": 3,
+    "specification": "(unaccomp) (must also play one additional selection from this collection)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "431-3-24355",
+    "instrumentSlug": "violin-trio",
+    "instrumentName": "Violin Trios",
+    "eventName": "Violin Trio",
+    "title": "Allegro",
+    "composer": "Handel",
+    "arranger": "Bradley",
+    "publishers": [
+      "Oxford University Press [Three-Part Tunes Book I]"
+    ],
+    "publisherText": "Oxford University Press [Three-Part Tunes Book I]",
+    "classLevel": 3,
+    "specification": "(unaccomp) (must also play one additional selection from this collection)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "431-3-17051",
+    "instrumentSlug": "violin-trio",
+    "instrumentName": "Violin Trios",
+    "eventName": "Violin Trio",
+    "title": "Allegro (from Concerto Grosso Op. 3 No. 4)",
+    "composer": "Handel",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "431-3-24371",
+    "instrumentSlug": "violin-trio",
+    "instrumentName": "Violin Trios",
+    "eventName": "Violin Trio",
+    "title": "Minuet",
+    "composer": "Handel",
+    "arranger": "Bradley",
+    "publishers": [
+      "Oxford University Press [Three-Part Tunes Book II]"
+    ],
+    "publisherText": "Oxford University Press [Three-Part Tunes Book II]",
+    "classLevel": 3,
+    "specification": "(unaccomp) (must also play one additional selection from this collection)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "431-3-24385",
+    "instrumentSlug": "violin-trio",
+    "instrumentName": "Violin Trios",
+    "eventName": "Violin Trio",
+    "title": "Pastorale",
+    "composer": "Handel",
+    "arranger": "Wehrmann",
+    "publishers": [
+      "G. Schirmer, Inc. [Fiddlers Three]"
+    ],
+    "publisherText": "G. Schirmer, Inc. [Fiddlers Three]",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "431-3-24389",
+    "instrumentSlug": "violin-trio",
+    "instrumentName": "Violin Trios",
+    "eventName": "Violin Trio",
+    "title": "Allegretto",
+    "composer": "Hansel",
+    "arranger": "Wehrmann",
+    "publishers": [
+      "G. Schirmer, Inc. [Fiddlers Three]"
+    ],
+    "publisherText": "G. Schirmer, Inc. [Fiddlers Three]",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "431-3-24388",
+    "instrumentSlug": "violin-trio",
+    "instrumentName": "Violin Trios",
+    "eventName": "Violin Trio",
+    "title": "Andante",
+    "composer": "Hansel",
+    "arranger": "Wehrmann",
+    "publishers": [
+      "G. Schirmer, Inc. [Fiddlers Three]"
+    ],
+    "publisherText": "G. Schirmer, Inc. [Fiddlers Three]",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "431-3-24368",
+    "instrumentSlug": "violin-trio",
+    "instrumentName": "Violin Trios",
+    "eventName": "Violin Trio",
+    "title": "Emperor's Hymn",
+    "composer": "Haydn",
+    "arranger": "Bradley",
+    "publishers": [
+      "Oxford University Press [Three-Part Tunes Book II]"
+    ],
+    "publisherText": "Oxford University Press [Three-Part Tunes Book II]",
+    "classLevel": 3,
+    "specification": "(unaccomp) (must also play one additional selection from this collection)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "431-3-24369",
+    "instrumentSlug": "violin-trio",
+    "instrumentName": "Violin Trios",
+    "eventName": "Violin Trio",
+    "title": "Serenade",
+    "composer": "Haydn",
+    "arranger": "Bradley",
+    "publishers": [
+      "Oxford University Press [Three-Part Tunes Book II]"
+    ],
+    "publisherText": "Oxford University Press [Three-Part Tunes Book II]",
+    "classLevel": 3,
+    "specification": "(unaccomp) (must also play one additional selection from this collection)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "431-3-17053",
+    "instrumentSlug": "violin-trio",
+    "instrumentName": "Violin Trios",
+    "eventName": "Violin Trio",
+    "title": "Star of the East",
+    "composer": "Kennedy",
+    "arranger": "Harris",
+    "publishers": [
+      "Ludwig Music Publishing Company"
+    ],
+    "publisherText": "Ludwig Music Publishing Company",
+    "classLevel": 3,
+    "specification": "(requires piano accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "431-3-17054",
+    "instrumentSlug": "violin-trio",
+    "instrumentName": "Violin Trios",
+    "eventName": "Violin Trio",
+    "title": "Gavotte in Rondeau",
+    "composer": "Lully",
+    "arranger": "Post",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "431-3-24361",
+    "instrumentSlug": "violin-trio",
+    "instrumentName": "Violin Trios",
+    "eventName": "Violin Trio",
+    "title": "Lift Thine Eyes",
+    "composer": "Mendelssohn",
+    "arranger": "Bradley",
+    "publishers": [
+      "Oxford University Press [Three-Part Tunes Book I]"
+    ],
+    "publisherText": "Oxford University Press [Three-Part Tunes Book I]",
+    "classLevel": 3,
+    "specification": "(unaccomp) (must also play one additional selection from this collection)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "431-3-24387",
+    "instrumentSlug": "violin-trio",
+    "instrumentName": "Violin Trios",
+    "eventName": "Violin Trio",
+    "title": "Andante",
+    "composer": "Mozart",
+    "arranger": "Wehrmann",
+    "publishers": [
+      "G. Schirmer, Inc. [Fiddlers Three]"
+    ],
+    "publisherText": "G. Schirmer, Inc. [Fiddlers Three]",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "431-3-24363",
+    "instrumentSlug": "violin-trio",
+    "instrumentName": "Violin Trios",
+    "eventName": "Violin Trio",
+    "title": "Sonata Theme",
+    "composer": "Mozart",
+    "arranger": "Bradley",
+    "publishers": [
+      "Oxford University Press [Three-Part Tunes Book I]"
+    ],
+    "publisherText": "Oxford University Press [Three-Part Tunes Book I]",
+    "classLevel": 3,
+    "specification": "(unaccomp) (must also play one additional selection from this collection)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "431-3-24372",
+    "instrumentSlug": "violin-trio",
+    "instrumentName": "Violin Trios",
+    "eventName": "Violin Trio",
+    "title": "Trio",
+    "composer": "Mozart",
+    "arranger": "Bradley",
+    "publishers": [
+      "Oxford University Press [Three-Part Tunes Book II]"
+    ],
+    "publisherText": "Oxford University Press [Three-Part Tunes Book II]",
+    "classLevel": 3,
+    "specification": "(unaccomp) (must also play one additional selection from this collection)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "431-3-24382",
+    "instrumentSlug": "violin-trio",
+    "instrumentName": "Violin Trios",
+    "eventName": "Violin Trio",
+    "title": "Andante",
+    "composer": "Paradies",
+    "arranger": "Wehrmann",
+    "publishers": [
+      "G. Schirmer, Inc. [Fiddlers Three]"
+    ],
+    "publisherText": "G. Schirmer, Inc. [Fiddlers Three]",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "431-3-24386",
+    "instrumentSlug": "violin-trio",
+    "instrumentName": "Violin Trios",
+    "eventName": "Violin Trio",
+    "title": "Siciliana",
+    "composer": "Pergolesi",
+    "arranger": "Wehrmann",
+    "publishers": [
+      "G. Schirmer, Inc. [Fiddlers Three]"
+    ],
+    "publisherText": "G. Schirmer, Inc. [Fiddlers Three]",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "431-3-17056",
+    "instrumentSlug": "violin-trio",
+    "instrumentName": "Violin Trios",
+    "eventName": "Violin Trio",
+    "title": "Gavotte (from Harpsichord Suite No. 5)",
+    "composer": "Purcell",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "431-3-17055",
+    "instrumentSlug": "violin-trio",
+    "instrumentName": "Violin Trios",
+    "eventName": "Violin Trio",
+    "title": "Gavotte and Hornpipe",
+    "composer": "Purcell",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "431-3-24365",
+    "instrumentSlug": "violin-trio",
+    "instrumentName": "Violin Trios",
+    "eventName": "Violin Trio",
+    "title": "Rondeau",
+    "composer": "Purcell",
+    "arranger": "Bradley",
+    "publishers": [
+      "Oxford University Press [Three-Part Tunes Book II]"
+    ],
+    "publisherText": "Oxford University Press [Three-Part Tunes Book II]",
+    "classLevel": 3,
+    "specification": "(unaccomp) (must also play one additional selection from this collection)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "431-3-17057",
+    "instrumentSlug": "violin-trio",
+    "instrumentName": "Violin Trios",
+    "eventName": "Violin Trio",
+    "title": "Canonic Etudes for 2 and 3 Violins",
+    "composer": "Racusen",
+    "arranger": "",
+    "publishers": [
+      "Shawnee Press"
+    ],
+    "publisherText": "Shawnee Press",
+    "classLevel": 3,
+    "specification": "(play two from # 1, 2, 4-6, 8-10, 12-16, 20, 21, 23, 25-36)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "431-3-24384",
+    "instrumentSlug": "violin-trio",
+    "instrumentName": "Violin Trios",
+    "eventName": "Violin Trio",
+    "title": "Menuet",
+    "composer": "Rameau",
+    "arranger": "Wehrmann",
+    "publishers": [
+      "G. Schirmer, Inc. [Fiddlers Three]"
+    ],
+    "publisherText": "G. Schirmer, Inc. [Fiddlers Three]",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "431-3-17058",
+    "instrumentSlug": "violin-trio",
+    "instrumentName": "Violin Trios",
+    "eventName": "Violin Trio",
+    "title": "Rigaudon (from Pieces de Clavecin), 1724",
+    "composer": "Rameau",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "431-3-39560",
+    "instrumentSlug": "violin-trio",
+    "instrumentName": "Violin Trios",
+    "eventName": "Violin Trio",
+    "title": "The Glittering Caves",
+    "composer": "Rhodes",
+    "arranger": "",
+    "publishers": [
+      "Jennie Rhodes Music"
+    ],
+    "publisherText": "Jennie Rhodes Music",
+    "classLevel": 3,
+    "specification": "(piano accomp REQUIRED)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "431-3-17059",
+    "instrumentSlug": "violin-trio",
+    "instrumentName": "Violin Trios",
+    "eventName": "Violin Trio",
+    "title": "Ricercare on an Old English Melody",
+    "composer": "Schalk",
+    "arranger": "",
+    "publishers": [
+      "Concordia Publishing House"
+    ],
+    "publisherText": "Concordia Publishing House",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "431-3-37582",
+    "instrumentSlug": "violin-trio",
+    "instrumentName": "Violin Trios",
+    "eventName": "Violin Trio",
+    "title": "Trio in G",
+    "composer": "Schradieck",
+    "arranger": "Whistler & Hummel",
+    "publishers": [
+      "Rubank, Inc. [First Trio Album]"
+    ],
+    "publisherText": "Rubank, Inc. [First Trio Album]",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "431-3-24367",
+    "instrumentSlug": "violin-trio",
+    "instrumentName": "Violin Trios",
+    "eventName": "Violin Trio",
+    "title": "Entr'acte (from Rosamunde)",
+    "composer": "Schubert",
+    "arranger": "Bradley",
+    "publishers": [
+      "Oxford University Press [Three-Part Tunes Book II]"
+    ],
+    "publisherText": "Oxford University Press [Three-Part Tunes Book II]",
+    "classLevel": 3,
+    "specification": "(unaccomp) (must also play one additional selection from this collection)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "431-3-24360",
+    "instrumentSlug": "violin-trio",
+    "instrumentName": "Violin Trios",
+    "eventName": "Violin Trio",
+    "title": "Trio",
+    "composer": "Schubert",
+    "arranger": "Bradley",
+    "publishers": [
+      "Oxford University Press [Three-Part Tunes Book I]"
+    ],
+    "publisherText": "Oxford University Press [Three-Part Tunes Book I]",
+    "classLevel": 3,
+    "specification": "(unaccomp) (must also play one additional selection from this collection)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "431-3-24364",
+    "instrumentSlug": "violin-trio",
+    "instrumentName": "Violin Trios",
+    "eventName": "Violin Trio",
+    "title": "Melodie",
+    "composer": "Schumann",
+    "arranger": "Bradley",
+    "publishers": [
+      "Oxford University Press [Three-Part Tunes Book II]"
+    ],
+    "publisherText": "Oxford University Press [Three-Part Tunes Book II]",
+    "classLevel": 3,
+    "specification": "(unaccomp) (must also play one additional selection from this collection)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "431-3-17044",
+    "instrumentSlug": "violin-trio",
+    "instrumentName": "Violin Trios",
+    "eventName": "Violin Trio",
+    "title": "Reaping Song",
+    "composer": "Schumann",
+    "arranger": "Bradley",
+    "publishers": [
+      "Oxford University Press [Three-Part Tunes Book I]"
+    ],
+    "publisherText": "Oxford University Press [Three-Part Tunes Book I]",
+    "classLevel": 3,
+    "specification": "(unaccomp) (must also play one additional selection from this collection)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "431-3-17060",
+    "instrumentSlug": "violin-trio",
+    "instrumentName": "Violin Trios",
+    "eventName": "Violin Trio",
+    "title": "Advent Music 2",
+    "composer": "Thomas",
+    "arranger": "",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 3,
+    "specification": "(play mvt 3)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "431-3-37581",
+    "instrumentSlug": "violin-trio",
+    "instrumentName": "Violin Trios",
+    "eventName": "Violin Trio",
+    "title": "Trio Lyrique",
+    "composer": "de Beriot",
+    "arranger": "Whistler & Hummel",
+    "publishers": [
+      "Rubank, Inc. [First Trio Album]"
+    ],
+    "publisherText": "Rubank, Inc. [First Trio Album]",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "431-3-37580",
+    "instrumentSlug": "violin-trio",
+    "instrumentName": "Violin Trios",
+    "eventName": "Violin Trio",
+    "title": "Trio in C",
+    "composer": "de Beriot",
+    "arranger": "Whistler & Hummel",
+    "publishers": [
+      "Rubank, Inc. [First Trio Album]"
+    ],
+    "publisherText": "Rubank, Inc. [First Trio Album]",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "431-2-17026",
+    "instrumentSlug": "violin-trio",
+    "instrumentName": "Violin Trios",
+    "eventName": "Violin Trio",
+    "title": "Canons and Rounds",
+    "composer": "Anon. or Trad.",
+    "arranger": "Berlinski",
+    "publishers": [
+      "Weaner/Levant Publications"
+    ],
+    "publisherText": "Weaner/Levant Publications",
+    "classLevel": 2,
+    "specification": "(play two 3 part selections)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "431-2-17023",
+    "instrumentSlug": "violin-trio",
+    "instrumentName": "Violin Trios",
+    "eventName": "Violin Trio",
+    "title": "Trio-Cosmos, Trio No. 7",
+    "composer": "Badings",
+    "arranger": "",
+    "publishers": [
+      "B. Schott's Sohne, Mainz"
+    ],
+    "publisherText": "B. Schott's Sohne, Mainz",
+    "classLevel": 2,
+    "specification": "(play one mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "431-2-17024",
+    "instrumentSlug": "violin-trio",
+    "instrumentName": "Violin Trios",
+    "eventName": "Violin Trio",
+    "title": "Trio-Cosmos, Trio No. 8",
+    "composer": "Badings",
+    "arranger": "",
+    "publishers": [
+      "B. Schott's Sohne, Mainz"
+    ],
+    "publisherText": "B. Schott's Sohne, Mainz",
+    "classLevel": 2,
+    "specification": "(play one mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "431-2-17025",
+    "instrumentSlug": "violin-trio",
+    "instrumentName": "Violin Trios",
+    "eventName": "Violin Trio",
+    "title": "Trio-Cosmos, Trio No. 9",
+    "composer": "Badings",
+    "arranger": "",
+    "publishers": [
+      "B. Schott's Sohne, Mainz"
+    ],
+    "publisherText": "B. Schott's Sohne, Mainz",
+    "classLevel": 2,
+    "specification": "(play one mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "431-2-17027",
+    "instrumentSlug": "violin-trio",
+    "instrumentName": "Violin Trios",
+    "eventName": "Violin Trio",
+    "title": "Gigue",
+    "composer": "Corelli",
+    "arranger": "Maganini",
+    "publishers": [
+      "Edition Musicus-New York, Inc."
+    ],
+    "publisherText": "Edition Musicus-New York, Inc.",
+    "classLevel": 2,
+    "specification": "(requires piano accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "431-2-17028",
+    "instrumentSlug": "violin-trio",
+    "instrumentName": "Violin Trios",
+    "eventName": "Violin Trio",
+    "title": "Bon Vivant",
+    "composer": "Dont",
+    "arranger": "Barnes",
+    "publishers": [
+      "Ludwig Music Publishing Company"
+    ],
+    "publisherText": "Ludwig Music Publishing Company",
+    "classLevel": 2,
+    "specification": "(etude # 24) (requires piano accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "431-2-39552",
+    "instrumentSlug": "violin-trio",
+    "instrumentName": "Violin Trios",
+    "eventName": "Violin Trio",
+    "title": "The Traveling Song",
+    "composer": "Glinka",
+    "arranger": "Rhodes",
+    "publishers": [
+      "Jennie Rhodes Music"
+    ],
+    "publisherText": "Jennie Rhodes Music",
+    "classLevel": 2,
+    "specification": "(piano accomp REQUIRED)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "431-2-17029",
+    "instrumentSlug": "violin-trio",
+    "instrumentName": "Violin Trios",
+    "eventName": "Violin Trio",
+    "title": "Suite in F",
+    "composer": "Graupner",
+    "arranger": "",
+    "publishers": [
+      "C.F. Peters Corporation"
+    ],
+    "publisherText": "C.F. Peters Corporation",
+    "classLevel": 2,
+    "specification": "(play Overture or two short mvts)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "431-2-17030",
+    "instrumentSlug": "violin-trio",
+    "instrumentName": "Violin Trios",
+    "eventName": "Violin Trio",
+    "title": "Fugue",
+    "composer": "Haydn",
+    "arranger": "Gearhart/Green",
+    "publishers": [
+      "Shawnee Press [Fiddle Sessions]"
+    ],
+    "publisherText": "Shawnee Press [Fiddle Sessions]",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "431-2-17031",
+    "instrumentSlug": "violin-trio",
+    "instrumentName": "Violin Trios",
+    "eventName": "Violin Trio",
+    "title": "Sonatinas",
+    "composer": "Hook",
+    "arranger": "Curwin",
+    "publishers": [
+      "Chappell Music Company"
+    ],
+    "publisherText": "Chappell Music Company",
+    "classLevel": 2,
+    "specification": "(play one)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "431-2-17032",
+    "instrumentSlug": "violin-trio",
+    "instrumentName": "Violin Trios",
+    "eventName": "Violin Trio",
+    "title": "Three Visions for Violins",
+    "composer": "Jacobson",
+    "arranger": "",
+    "publishers": [
+      "Mills Music, Inc."
+    ],
+    "publisherText": "Mills Music, Inc.",
+    "classLevel": 2,
+    "specification": "(play two)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "431-2-28685",
+    "instrumentSlug": "violin-trio",
+    "instrumentName": "Violin Trios",
+    "eventName": "Violin Trio",
+    "title": "Terzetto in G for Three Violins",
+    "composer": "Laburda",
+    "arranger": "",
+    "publishers": [
+      "Alliance Publications, Inc."
+    ],
+    "publisherText": "Alliance Publications, Inc.",
+    "classLevel": 2,
+    "specification": "(play one)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "431-2-17033",
+    "instrumentSlug": "violin-trio",
+    "instrumentName": "Violin Trios",
+    "eventName": "Violin Trio",
+    "title": "Aria",
+    "composer": "Locatelli",
+    "arranger": "Forst",
+    "publishers": [
+      "Edition Musicus-New York, Inc."
+    ],
+    "publisherText": "Edition Musicus-New York, Inc.",
+    "classLevel": 2,
+    "specification": "(requires piano accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "431-2-17034",
+    "instrumentSlug": "violin-trio",
+    "instrumentName": "Violin Trios",
+    "eventName": "Violin Trio",
+    "title": "Milady's Fan",
+    "composer": "Maganini",
+    "arranger": "",
+    "publishers": [
+      "Edition Musicus-New York, Inc."
+    ],
+    "publisherText": "Edition Musicus-New York, Inc.",
+    "classLevel": 2,
+    "specification": "(requires piano accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "431-2-17035",
+    "instrumentSlug": "violin-trio",
+    "instrumentName": "Violin Trios",
+    "eventName": "Violin Trio",
+    "title": "Rigadoon",
+    "composer": "Quantz",
+    "arranger": "Gearhart/Green",
+    "publishers": [
+      "Shawnee Press [Fiddle Sessions]"
+    ],
+    "publisherText": "Shawnee Press [Fiddle Sessions]",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "431-2-39553",
+    "instrumentSlug": "violin-trio",
+    "instrumentName": "Violin Trios",
+    "eventName": "Violin Trio",
+    "title": "The Moldau",
+    "composer": "Smetana",
+    "arranger": "Rhodes",
+    "publishers": [
+      "Jennie Rhodes Music"
+    ],
+    "publisherText": "Jennie Rhodes Music",
+    "classLevel": 2,
+    "specification": "(piano accomp REQUIRED)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "431-2-17039",
+    "instrumentSlug": "violin-trio",
+    "instrumentName": "Violin Trios",
+    "eventName": "Violin Trio",
+    "title": "Polka",
+    "composer": "Tchaikovsky",
+    "arranger": "Gearhart/Green",
+    "publishers": [
+      "Shawnee Press [Fiddle Sessions]"
+    ],
+    "publisherText": "Shawnee Press [Fiddle Sessions]",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "431-2-17037",
+    "instrumentSlug": "violin-trio",
+    "instrumentName": "Violin Trios",
+    "eventName": "Violin Trio",
+    "title": "Suite",
+    "composer": "Telemann",
+    "arranger": "Lyman",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 2,
+    "specification": "(play two mvts)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "431-2-17038",
+    "instrumentSlug": "violin-trio",
+    "instrumentName": "Violin Trios",
+    "eventName": "Violin Trio",
+    "title": "Advent Music 2",
+    "composer": "Thomas",
+    "arranger": "",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 2,
+    "specification": "(play mvt 1 or 2)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "431-2-39628",
+    "instrumentSlug": "violin-trio",
+    "instrumentName": "Violin Trios",
+    "eventName": "Violin Trio",
+    "title": "Compatible String Ensembles: Classical Trios",
+    "composer": "various",
+    "arranger": "Parrish",
+    "publishers": [
+      "Carl Fischer, Inc. [Compatible String Ensembles: Classical Trios]"
+    ],
+    "publisherText": "Carl Fischer, Inc. [Compatible String Ensembles: Classical Trios]",
+    "classLevel": 2,
+    "specification": "(play one trio)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "431-1-28684",
+    "instrumentSlug": "violin-trio",
+    "instrumentName": "Violin Trios",
+    "eventName": "Violin Trio",
+    "title": "Trio Sonata No. 5, Mvt. III (from Six Trio Sonatas, BWV 529)",
+    "composer": "Bach",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "431-1-28683",
+    "instrumentSlug": "violin-trio",
+    "instrumentName": "Violin Trios",
+    "eventName": "Violin Trio",
+    "title": "Trio Sonata No. 6, Mvt. III (from Six Trio Sonatas, BWV 530)",
+    "composer": "Bach",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "431-1-17018",
+    "instrumentSlug": "violin-trio",
+    "instrumentName": "Violin Trios",
+    "eventName": "Violin Trio",
+    "title": "Trio-Cosmos, Trio No. 13",
+    "composer": "Badings",
+    "arranger": "",
+    "publishers": [
+      "B. Schott's Sohne, Mainz"
+    ],
+    "publisherText": "B. Schott's Sohne, Mainz",
+    "classLevel": 1,
+    "specification": "(play one mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "431-1-39539",
+    "instrumentSlug": "violin-trio",
+    "instrumentName": "Violin Trios",
+    "eventName": "Violin Trio",
+    "title": "Les Toreadors",
+    "composer": "Bizet",
+    "arranger": "Rhodes",
+    "publishers": [
+      "Jennie Rhodes Music"
+    ],
+    "publisherText": "Jennie Rhodes Music",
+    "classLevel": 1,
+    "specification": "(piano accomp REQUIRED)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "431-1-25537",
+    "instrumentSlug": "violin-trio",
+    "instrumentName": "Violin Trios",
+    "eventName": "Violin Trio",
+    "title": "Sonata a tre",
+    "composer": "Fux",
+    "arranger": "",
+    "publishers": [
+      "Schott Company [Antiqua Eine Sammlung Alter Musik]"
+    ],
+    "publisherText": "Schott Company [Antiqua Eine Sammlung Alter Musik]",
+    "classLevel": 1,
+    "specification": "(play two contrasting mvts)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "431-1-25538",
+    "instrumentSlug": "violin-trio",
+    "instrumentName": "Violin Trios",
+    "eventName": "Violin Trio",
+    "title": "Sonata",
+    "composer": "Gabrieli",
+    "arranger": "",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(omit vlc, piano required)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "431-1-39540",
+    "instrumentSlug": "violin-trio",
+    "instrumentName": "Violin Trios",
+    "eventName": "Violin Trio",
+    "title": "In the Hall of the Mountain King",
+    "composer": "Grieg",
+    "arranger": "Rhodes",
+    "publishers": [
+      "Jennie Rhodes Music"
+    ],
+    "publisherText": "Jennie Rhodes Music",
+    "classLevel": 1,
+    "specification": "(piano accomp REQUIRED)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "431-1-17019",
+    "instrumentSlug": "violin-trio",
+    "instrumentName": "Violin Trios",
+    "eventName": "Violin Trio",
+    "title": "Hopak",
+    "composer": "Moussorgsky",
+    "arranger": "Gearhart/Green",
+    "publishers": [
+      "Shawnee Press [Fiddle Sessions]"
+    ],
+    "publisherText": "Shawnee Press [Fiddle Sessions]",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "431-1-17020",
+    "instrumentSlug": "violin-trio",
+    "instrumentName": "Violin Trios",
+    "eventName": "Violin Trio",
+    "title": "Adagio, Minuet and Rondo K. 356",
+    "composer": "Mozart",
+    "arranger": "",
+    "publishers": [
+      "C.F. Peters Corporation"
+    ],
+    "publisherText": "C.F. Peters Corporation",
+    "classLevel": 1,
+    "specification": "(play one)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "431-1-17021",
+    "instrumentSlug": "violin-trio",
+    "instrumentName": "Violin Trios",
+    "eventName": "Violin Trio",
+    "title": "Suite",
+    "composer": "Telemann",
+    "arranger": "Lyman",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(play three mvts)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "431-1-17022",
+    "instrumentSlug": "violin-trio",
+    "instrumentName": "Violin Trios",
+    "eventName": "Violin Trio",
+    "title": "Concerto for 3 Violins, Op. 23, #1 RV 551",
+    "composer": "Vivaldi",
+    "arranger": "Gingold",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(play one mvt) (requires piano accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  }
+]

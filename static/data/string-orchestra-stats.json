@@ -1,0 +1,22 @@
+{
+  "schoolYear": "2025-2026",
+  "instrumentSlug": "string-orchestra",
+  "instrumentName": "String Orchestra",
+  "songCount": 1476,
+  "publisherCount": 1530,
+  "noteCount": 1,
+  "databaseRecordCount": 1477,
+  "classBreakdown": {
+    "3": 450,
+    "2": 339,
+    "1": 169
+  },
+  "noMemoryRequiredCount": 0,
+  "publicDomainPdfCount": 0,
+  "eventBreakdown": {
+    "String Orchestra": 1476
+  },
+  "notes": {
+    "dataset_audit": "Sourced from https://www.uiltexas.org/pml/ and https://www.uiltexas.org/pml/pml.php. Imported 2026-03-24T22:13:49.639901+00:00."
+  }
+}

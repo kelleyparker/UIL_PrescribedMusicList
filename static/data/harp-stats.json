@@ -1,0 +1,22 @@
+{
+  "schoolYear": "2025-2026",
+  "instrumentSlug": "harp",
+  "instrumentName": "Harp Solos",
+  "songCount": 162,
+  "publisherCount": 210,
+  "noteCount": 1,
+  "databaseRecordCount": 163,
+  "classBreakdown": {
+    "3": 27,
+    "2": 65,
+    "1": 70
+  },
+  "noMemoryRequiredCount": 0,
+  "publicDomainPdfCount": 0,
+  "eventBreakdown": {
+    "Harp Solo": 162
+  },
+  "notes": {
+    "dataset_audit": "Sourced from https://www.uiltexas.org/pml/ and https://www.uiltexas.org/pml/pml.php. Imported 2026-03-24T22:13:49.566215+00:00."
+  }
+}

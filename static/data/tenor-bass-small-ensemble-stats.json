@@ -1,0 +1,22 @@
+{
+  "schoolYear": "2025-2026",
+  "instrumentSlug": "tenor-bass-small-ensemble",
+  "instrumentName": "Tenor-Bass Small Ensembles",
+  "songCount": 96,
+  "publisherCount": 105,
+  "noteCount": 1,
+  "databaseRecordCount": 97,
+  "classBreakdown": {
+    "3": 25,
+    "2": 34,
+    "1": 37
+  },
+  "noMemoryRequiredCount": 0,
+  "publicDomainPdfCount": 0,
+  "eventBreakdown": {
+    "Tenor-Bass Small Ensemble": 96
+  },
+  "notes": {
+    "dataset_audit": "Sourced from https://www.uiltexas.org/pml/ and https://www.uiltexas.org/pml/pml.php. Imported 2026-03-24T22:13:49.757886+00:00."
+  }
+}

@@ -1,0 +1,461 @@
+[
+  {
+    "uilCode": "451-3-17801",
+    "instrumentSlug": "misc-string-quintet",
+    "instrumentName": "Miscellaneous String Quintets",
+    "eventName": "Miscellaneous String Quintet",
+    "title": "Innsbruck, Ich Muss dich Lassen",
+    "composer": "Hollander",
+    "arranger": "",
+    "publishers": [
+      "Music Corporation of America"
+    ],
+    "publisherText": "Music Corporation of America",
+    "classLevel": 3,
+    "specification": "(for five melody inst)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "451-3-17802",
+    "instrumentSlug": "misc-string-quintet",
+    "instrumentName": "Miscellaneous String Quintets",
+    "eventName": "Miscellaneous String Quintet",
+    "title": "Canzone",
+    "composer": "Schein",
+    "arranger": "",
+    "publishers": [
+      "Music Corporation of America"
+    ],
+    "publisherText": "Music Corporation of America",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "451-3-37726",
+    "instrumentSlug": "misc-string-quintet",
+    "instrumentName": "Miscellaneous String Quintets",
+    "eventName": "Miscellaneous String Quintet",
+    "title": "Eight Short Elizabethan Dance Tunes",
+    "composer": "various",
+    "arranger": "Fellowes",
+    "publishers": [
+      "Stainer & Bell [Eight Short Elizabethan Dance Tunes]"
+    ],
+    "publisherText": "Stainer & Bell [Eight Short Elizabethan Dance Tunes]",
+    "classLevel": 3,
+    "specification": "(play one) (any published combination)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "451-2-17798",
+    "instrumentSlug": "misc-string-quintet",
+    "instrumentName": "Miscellaneous String Quintets",
+    "eventName": "Miscellaneous String Quintet",
+    "title": "Lachrimae or Seven Tears",
+    "composer": "Dowland",
+    "arranger": "Warlock",
+    "publishers": [
+      "Oxford University Press"
+    ],
+    "publisherText": "Oxford University Press",
+    "classLevel": 2,
+    "specification": "(play two; 2 vln, vla, 2 vlc)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "451-2-37713",
+    "instrumentSlug": "misc-string-quintet",
+    "instrumentName": "Miscellaneous String Quintets",
+    "eventName": "Miscellaneous String Quintet",
+    "title": "20 Progressive Bass Ensembles VOLUME 1",
+    "composer": "various",
+    "arranger": "Wyrick",
+    "publishers": [
+      "inezwyrick.com [20 Progressive Bass Ensembles VOLUME 1]"
+    ],
+    "publisherText": "inezwyrick.com [20 Progressive Bass Ensembles VOLUME 1]",
+    "classLevel": 2,
+    "specification": "BASS QUINTET (play Bassman Boogie)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "451-2-37714",
+    "instrumentSlug": "misc-string-quintet",
+    "instrumentName": "Miscellaneous String Quintets",
+    "eventName": "Miscellaneous String Quintet",
+    "title": "20 Progressive Bass Ensembles VOLUME 4",
+    "composer": "various",
+    "arranger": "Wyrick",
+    "publishers": [
+      "inezwyrick.com [20 Progressive Bass Ensembles VOLUME 4]"
+    ],
+    "publisherText": "inezwyrick.com [20 Progressive Bass Ensembles VOLUME 4]",
+    "classLevel": 2,
+    "specification": "BASS QUINTET (play Waltz Moderato)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "451-1-17787",
+    "instrumentSlug": "misc-string-quintet",
+    "instrumentName": "Miscellaneous String Quintets",
+    "eventName": "Miscellaneous String Quintet",
+    "title": "Quintets Op. 4, 29, and 104, Complete Edition",
+    "composer": "Beethoven",
+    "arranger": "",
+    "publishers": [
+      "C.F. Peters Corporation"
+    ],
+    "publisherText": "C.F. Peters Corporation",
+    "classLevel": 1,
+    "specification": "(play one mvt) (2 vln, 2 vla, vlc)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "451-1-25566",
+    "instrumentSlug": "misc-string-quintet",
+    "instrumentName": "Miscellaneous String Quintets",
+    "eventName": "Miscellaneous String Quintet",
+    "title": "Quintets, Op. 60, Nos. 1,2,3,6",
+    "composer": "Boccherini",
+    "arranger": "",
+    "publishers": [
+      "Foreign Music Distributors"
+    ],
+    "publisherText": "Foreign Music Distributors",
+    "classLevel": 1,
+    "specification": "(play one mvt) (2 vln, 2 vla, 1 vlc)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "451-1-25567",
+    "instrumentSlug": "misc-string-quintet",
+    "instrumentName": "Miscellaneous String Quintets",
+    "eventName": "Miscellaneous String Quintet",
+    "title": "Quintets, Op. 62, Nos. 2,4",
+    "composer": "Boccherini",
+    "arranger": "",
+    "publishers": [
+      "Foreign Music Distributors"
+    ],
+    "publisherText": "Foreign Music Distributors",
+    "classLevel": 1,
+    "specification": "(play one mvt) (2 vln, 2 vla, 1 vlc)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "451-1-25568",
+    "instrumentSlug": "misc-string-quintet",
+    "instrumentName": "Miscellaneous String Quintets",
+    "eventName": "Miscellaneous String Quintet",
+    "title": "Three Quintets, Op. 12, No. 2, C Major, Eb Major, D Major",
+    "composer": "Boccherini",
+    "arranger": "",
+    "publishers": [
+      "Edwin F. Kalmus"
+    ],
+    "publisherText": "Edwin F. Kalmus",
+    "classLevel": 1,
+    "specification": "(play one mvt) (2 vln, vla, 2 vlc)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "451-1-28672",
+    "instrumentSlug": "misc-string-quintet",
+    "instrumentName": "Miscellaneous String Quintets",
+    "eventName": "Miscellaneous String Quintet",
+    "title": "String Quintet in a minor",
+    "composer": "Bruch",
+    "arranger": "",
+    "publishers": [
+      "Edition Kunzelman USA"
+    ],
+    "publisherText": "Edition Kunzelman USA",
+    "classLevel": 1,
+    "specification": "(play one mvt) (2 vln, 2 vla, vlc)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "451-1-25569",
+    "instrumentSlug": "misc-string-quintet",
+    "instrumentName": "Miscellaneous String Quintets",
+    "eventName": "Miscellaneous String Quintet",
+    "title": "Five Famous Quintets, Vol. 1, K.406, 515, 516, 593, 614",
+    "composer": "Mozart",
+    "arranger": "",
+    "publishers": [
+      "C.F. Peters Corporation",
+      "Barenreiter/Verlag",
+      "Foreign Music Distributors"
+    ],
+    "publisherText": "C.F. Peters Corporation;Barenreiter/Verlag;Foreign Music Distributors",
+    "classLevel": 1,
+    "specification": "(play one mvt) (2 vln, 2 vla, 1 vlc)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "451-1-25570",
+    "instrumentSlug": "misc-string-quintet",
+    "instrumentName": "Miscellaneous String Quintets",
+    "eventName": "Miscellaneous String Quintet",
+    "title": "Five Famous Quintets, Vol. 2, K.46, 174, 407, 581",
+    "composer": "Mozart",
+    "arranger": "",
+    "publishers": [
+      "C.F. Peters Corporation",
+      "Barenreiter/Verlag",
+      "Foreign Music Distributors"
+    ],
+    "publisherText": "C.F. Peters Corporation;Barenreiter/Verlag;Foreign Music Distributors",
+    "classLevel": 1,
+    "specification": "(play one mvt) (2 vln, 2 vla, 1 vlc)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "451-1-17793",
+    "instrumentSlug": "misc-string-quintet",
+    "instrumentName": "Miscellaneous String Quintets",
+    "eventName": "Miscellaneous String Quintet",
+    "title": "Quintets, Complete Edition, 2 volumes",
+    "composer": "Mozart",
+    "arranger": "",
+    "publishers": [
+      "C.F. Peters Corporation",
+      "Barenreiter/Verlag",
+      "Foreign Music Distributors"
+    ],
+    "publisherText": "C.F. Peters Corporation;Barenreiter/Verlag;Foreign Music Distributors",
+    "classLevel": 1,
+    "specification": "(play one mvt) (2 vln, 2 vla, vlc)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "451-1-17794",
+    "instrumentSlug": "misc-string-quintet",
+    "instrumentName": "Miscellaneous String Quintets",
+    "eventName": "Miscellaneous String Quintet",
+    "title": "Quartettino in F",
+    "composer": "Scarlatti",
+    "arranger": "Woehl",
+    "publishers": [
+      "C.F. Peters Corporation"
+    ],
+    "publisherText": "C.F. Peters Corporation",
+    "classLevel": 1,
+    "specification": "(play all) (piano, 3 vln, vlc)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "451-1-28716",
+    "instrumentSlug": "misc-string-quintet",
+    "instrumentName": "Miscellaneous String Quintets",
+    "eventName": "Miscellaneous String Quintet",
+    "title": "Die Eiserne Brigade",
+    "composer": "Schoenberg",
+    "arranger": "",
+    "publishers": [
+      "Universal Editions"
+    ],
+    "publisherText": "Universal Editions",
+    "classLevel": 1,
+    "specification": "(2 vln, vla, vlc, piano)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "451-1-17795",
+    "instrumentSlug": "misc-string-quintet",
+    "instrumentName": "Miscellaneous String Quintets",
+    "eventName": "Miscellaneous String Quintet",
+    "title": "Adagio and Rondo in F Major Op. Posth.",
+    "composer": "Schubert",
+    "arranger": "",
+    "publishers": [
+      "International Music Company",
+      "Luck's Music Library"
+    ],
+    "publisherText": "International Music Company;Luck's Music Library",
+    "classLevel": 1,
+    "specification": "(play one mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "451-1-33074",
+    "instrumentSlug": "misc-string-quintet",
+    "instrumentName": "Miscellaneous String Quintets",
+    "eventName": "Miscellaneous String Quintet",
+    "title": "Quintet in C Major, Op. 163, D.956",
+    "composer": "Schubert",
+    "arranger": "",
+    "publishers": [
+      "Barenreiter/Verlag"
+    ],
+    "publisherText": "Barenreiter/Verlag",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "451-1-17796",
+    "instrumentSlug": "misc-string-quintet",
+    "instrumentName": "Miscellaneous String Quintets",
+    "eventName": "Miscellaneous String Quintet",
+    "title": "Trout Quintet Op. 114",
+    "composer": "Schubert",
+    "arranger": "",
+    "publishers": [
+      "Barenreiter/Verlag",
+      "International Music Company",
+      "Edwin F. Kalmus"
+    ],
+    "publisherText": "Barenreiter/Verlag;International Music Company;Edwin F. Kalmus",
+    "classLevel": 1,
+    "specification": "(play one mvt) (vln, vla, vlc, bass & piano)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "451-1-17797",
+    "instrumentSlug": "misc-string-quintet",
+    "instrumentName": "Miscellaneous String Quintets",
+    "eventName": "Miscellaneous String Quintet",
+    "title": "Cassation in F Major",
+    "composer": "Wranitzky",
+    "arranger": "",
+    "publishers": [
+      "Rarities for Strings Publications, Bel-Eden House"
+    ],
+    "publisherText": "Rarities for Strings Publications, Bel-Eden House",
+    "classLevel": 1,
+    "specification": "(play Rondeau or two other mvts) (5 vla)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "451-1-37727",
+    "instrumentSlug": "misc-string-quintet",
+    "instrumentName": "Miscellaneous String Quintets",
+    "eventName": "Miscellaneous String Quintet",
+    "title": "20 Progressive Bass Ensembles VOLUME 2",
+    "composer": "various",
+    "arranger": "Wyrick",
+    "publishers": [
+      "inezwyrick.com [20 Progressive Bass Ensembles VOLUME 2]"
+    ],
+    "publisherText": "inezwyrick.com [20 Progressive Bass Ensembles VOLUME 2]",
+    "classLevel": 1,
+    "specification": "BASS QUINTET (play Plink! Plank! Plunk! OR Allegro from Sonata #3)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "451-1-37728",
+    "instrumentSlug": "misc-string-quintet",
+    "instrumentName": "Miscellaneous String Quintets",
+    "eventName": "Miscellaneous String Quintet",
+    "title": "20 Progressive Bass Ensembles VOLUME 3",
+    "composer": "various",
+    "arranger": "Wyrick",
+    "publishers": [
+      "inezwyrick.com [20 Progressive Bass Ensembles VOLUME 3]"
+    ],
+    "publisherText": "inezwyrick.com [20 Progressive Bass Ensembles VOLUME 3]",
+    "classLevel": 1,
+    "specification": "BASS QUINTET (play Hornpipe from \u201cWater Music\u201d)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "451-1-37731",
+    "instrumentSlug": "misc-string-quintet",
+    "instrumentName": "Miscellaneous String Quintets",
+    "eventName": "Miscellaneous String Quintet",
+    "title": "20 Progressive Bass Ensembles VOLUME 4",
+    "composer": "various",
+    "arranger": "Wyrick",
+    "publishers": [
+      "inezwyrick.com [20 Progressive Bass Ensembles VOLUME 4]"
+    ],
+    "publisherText": "inezwyrick.com [20 Progressive Bass Ensembles VOLUME 4]",
+    "classLevel": 1,
+    "specification": "BASS QUINTET (play Se Florindo e fedele)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "451-1-37730",
+    "instrumentSlug": "misc-string-quintet",
+    "instrumentName": "Miscellaneous String Quintets",
+    "eventName": "Miscellaneous String Quintet",
+    "title": "Mixed Level Ensembles Vol 2",
+    "composer": "various",
+    "arranger": "Wyrick",
+    "publishers": [
+      "inezwyrick.com [Mixed Level Ensembles Vol 2]"
+    ],
+    "publisherText": "inezwyrick.com [Mixed Level Ensembles Vol 2]",
+    "classLevel": 1,
+    "specification": "BASS QUINTET (play Shenandoah)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "451-1-37729",
+    "instrumentSlug": "misc-string-quintet",
+    "instrumentName": "Miscellaneous String Quintets",
+    "eventName": "Miscellaneous String Quintet",
+    "title": "Mixed Level Ensembles Vol 5",
+    "composer": "various",
+    "arranger": "Wyrick",
+    "publishers": [
+      "inezwyrick.com [Mixed Level Ensembles Vol 5]"
+    ],
+    "publisherText": "inezwyrick.com [Mixed Level Ensembles Vol 5]",
+    "classLevel": 1,
+    "specification": "BASS QUINTET (play Theme from Fifth Symphony)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  }
+]

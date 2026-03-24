@@ -1,0 +1,22 @@
+{
+  "schoolYear": "2025-2026",
+  "instrumentSlug": "violin-trio",
+  "instrumentName": "Violin Trios",
+  "songCount": 90,
+  "publisherCount": 91,
+  "noteCount": 1,
+  "databaseRecordCount": 91,
+  "classBreakdown": {
+    "3": 59,
+    "2": 20,
+    "1": 11
+  },
+  "noMemoryRequiredCount": 0,
+  "publicDomainPdfCount": 0,
+  "eventBreakdown": {
+    "Violin Trio": 90
+  },
+  "notes": {
+    "dataset_audit": "Sourced from https://www.uiltexas.org/pml/ and https://www.uiltexas.org/pml/pml.php. Imported 2026-03-24T22:13:49.475510+00:00."
+  }
+}

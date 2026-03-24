@@ -1,0 +1,22 @@
+{
+  "schoolYear": "2025-2026",
+  "instrumentSlug": "treble-small-ensemble",
+  "instrumentName": "Treble Small Ensembles",
+  "songCount": 103,
+  "publisherCount": 115,
+  "noteCount": 1,
+  "databaseRecordCount": 104,
+  "classBreakdown": {
+    "3": 31,
+    "2": 45,
+    "1": 27
+  },
+  "noMemoryRequiredCount": 0,
+  "publicDomainPdfCount": 0,
+  "eventBreakdown": {
+    "Treble Small Ensemble": 103
+  },
+  "notes": {
+    "dataset_audit": "Sourced from https://www.uiltexas.org/pml/ and https://www.uiltexas.org/pml/pml.php. Imported 2026-03-24T22:13:49.752936+00:00."
+  }
+}
