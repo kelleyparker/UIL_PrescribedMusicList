@@ -1,0 +1,22 @@
+{
+  "schoolYear": "2025-2026",
+  "instrumentSlug": "multiple-percussion",
+  "instrumentName": "Multiple Percussion Solos",
+  "songCount": 187,
+  "publisherCount": 191,
+  "noteCount": 1,
+  "databaseRecordCount": 188,
+  "classBreakdown": {
+    "3": 26,
+    "2": 57,
+    "1": 104
+  },
+  "noMemoryRequiredCount": 23,
+  "publicDomainPdfCount": 0,
+  "eventBreakdown": {
+    "Multiple Percussion Solo": 187
+  },
+  "notes": {
+    "dataset_audit": "Sourced from https://www.uiltexas.org/pml/ and https://www.uiltexas.org/pml/pml.php. Imported 2026-03-24T21:53:27.191178+00:00."
+  }
+}

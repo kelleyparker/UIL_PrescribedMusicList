@@ -1,0 +1,22 @@
+{
+  "schoolYear": "2025-2026",
+  "instrumentSlug": "snare-drum",
+  "instrumentName": "Snare Drum Solos",
+  "songCount": 485,
+  "publisherCount": 490,
+  "noteCount": 1,
+  "databaseRecordCount": 486,
+  "classBreakdown": {
+    "3": 120,
+    "2": 155,
+    "1": 210
+  },
+  "noMemoryRequiredCount": 22,
+  "publicDomainPdfCount": 0,
+  "eventBreakdown": {
+    "Snare Drum Solo": 485
+  },
+  "notes": {
+    "dataset_audit": "Sourced from https://www.uiltexas.org/pml/ and https://www.uiltexas.org/pml/pml.php. Imported 2026-03-24T21:53:27.159723+00:00."
+  }
+}

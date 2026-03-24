@@ -1,0 +1,22 @@
+{
+  "schoolYear": "2025-2026",
+  "instrumentSlug": "steel-pan",
+  "instrumentName": "Steel Pan Solos",
+  "songCount": 29,
+  "publisherCount": 39,
+  "noteCount": 1,
+  "databaseRecordCount": 30,
+  "classBreakdown": {
+    "3": 8,
+    "2": 3,
+    "1": 18
+  },
+  "noMemoryRequiredCount": 0,
+  "publicDomainPdfCount": 0,
+  "eventBreakdown": {
+    "Steel Pan Solo": 29
+  },
+  "notes": {
+    "dataset_audit": "Sourced from https://www.uiltexas.org/pml/ and https://www.uiltexas.org/pml/pml.php. Imported 2026-03-24T21:53:27.197865+00:00."
+  }
+}

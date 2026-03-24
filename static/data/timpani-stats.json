@@ -1,0 +1,22 @@
+{
+  "schoolYear": "2025-2026",
+  "instrumentSlug": "timpani",
+  "instrumentName": "Timpani Solos",
+  "songCount": 204,
+  "publisherCount": 207,
+  "noteCount": 1,
+  "databaseRecordCount": 205,
+  "classBreakdown": {
+    "3": 37,
+    "2": 72,
+    "1": 95
+  },
+  "noMemoryRequiredCount": 19,
+  "publicDomainPdfCount": 0,
+  "eventBreakdown": {
+    "Timpani Solo": 204
+  },
+  "notes": {
+    "dataset_audit": "Sourced from https://www.uiltexas.org/pml/ and https://www.uiltexas.org/pml/pml.php. Imported 2026-03-24T21:53:27.169063+00:00."
+  }
+}

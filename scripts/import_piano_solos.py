@@ -27,6 +27,14 @@ VIOLA_SOURCE_CSV_PATH = ROOT / "data" / "uil_viola_solos_source.csv"
 CELLO_SOURCE_CSV_PATH = ROOT / "data" / "uil_cello_solos_source.csv"
 STRING_BASS_SOURCE_CSV_PATH = ROOT / "data" / "uil_string_bass_solos_source.csv"
 EUPHONIUM_SOURCE_CSV_PATH = ROOT / "data" / "uil_euphonium_solos_source.csv"
+PICCOLO_SOURCE_CSV_PATH = ROOT / "data" / "uil_piccolo_solos_source.csv"
+ENGLISH_HORN_SOURCE_CSV_PATH = ROOT / "data" / "uil_english_horn_solos_source.csv"
+SNARE_DRUM_SOURCE_CSV_PATH = ROOT / "data" / "uil_snare_drum_solos_source.csv"
+TIMPANI_SOURCE_CSV_PATH = ROOT / "data" / "uil_timpani_solos_source.csv"
+KEYBOARD_PERCUSSION_SOURCE_CSV_PATH = ROOT / "data" / "uil_keyboard_percussion_solos_source.csv"
+MULTIPLE_PERCUSSION_SOURCE_CSV_PATH = ROOT / "data" / "uil_multiple_percussion_solos_source.csv"
+DRUM_SET_SOURCE_CSV_PATH = ROOT / "data" / "uil_drum_set_solos_source.csv"
+STEEL_PAN_SOURCE_CSV_PATH = ROOT / "data" / "uil_steel_pan_solos_source.csv"
 DEFAULT_SCHOOL_YEAR = "2025-2026"
 TAG_PATTERN = re.compile(r"<[^>]+>")
 OPTION_PATTERN = re.compile(r"<option[^>]*>(.*?)</option>", re.IGNORECASE | re.DOTALL)
@@ -171,6 +179,70 @@ INSTRUMENT_CONFIGS = {
         "csv_path": EUPHONIUM_SOURCE_CSV_PATH,
         "songs_output": STATIC_DATA_DIR / "euphonium-solos.json",
         "stats_output": STATIC_DATA_DIR / "euphonium-stats.json",
+    },
+    "piccolo": {
+        "event_name": "Piccolo Solo",
+        "event_names": ["Piccolo Solo"],
+        "title": "Piccolo Solos",
+        "csv_path": PICCOLO_SOURCE_CSV_PATH,
+        "songs_output": STATIC_DATA_DIR / "piccolo-solos.json",
+        "stats_output": STATIC_DATA_DIR / "piccolo-stats.json",
+    },
+    "english-horn": {
+        "event_name": "English Horn Solo",
+        "event_names": ["English Horn Solo"],
+        "title": "English Horn Solos",
+        "csv_path": ENGLISH_HORN_SOURCE_CSV_PATH,
+        "songs_output": STATIC_DATA_DIR / "english-horn-solos.json",
+        "stats_output": STATIC_DATA_DIR / "english-horn-stats.json",
+    },
+    "snare-drum": {
+        "event_name": "Snare Drum Solo",
+        "event_names": ["Snare Drum Solo"],
+        "title": "Snare Drum Solos",
+        "csv_path": SNARE_DRUM_SOURCE_CSV_PATH,
+        "songs_output": STATIC_DATA_DIR / "snare-drum-solos.json",
+        "stats_output": STATIC_DATA_DIR / "snare-drum-stats.json",
+    },
+    "timpani": {
+        "event_name": "Timpani Solo",
+        "event_names": ["Timpani Solo"],
+        "title": "Timpani Solos",
+        "csv_path": TIMPANI_SOURCE_CSV_PATH,
+        "songs_output": STATIC_DATA_DIR / "timpani-solos.json",
+        "stats_output": STATIC_DATA_DIR / "timpani-stats.json",
+    },
+    "keyboard-percussion": {
+        "event_name": "Keyboard Percussion Solo",
+        "event_names": ["Keyboard Percussion Solo"],
+        "title": "Keyboard Percussion Solos",
+        "csv_path": KEYBOARD_PERCUSSION_SOURCE_CSV_PATH,
+        "songs_output": STATIC_DATA_DIR / "keyboard-percussion-solos.json",
+        "stats_output": STATIC_DATA_DIR / "keyboard-percussion-stats.json",
+    },
+    "multiple-percussion": {
+        "event_name": "Multiple Percussion Solo",
+        "event_names": ["Multiple Percussion Solo"],
+        "title": "Multiple Percussion Solos",
+        "csv_path": MULTIPLE_PERCUSSION_SOURCE_CSV_PATH,
+        "songs_output": STATIC_DATA_DIR / "multiple-percussion-solos.json",
+        "stats_output": STATIC_DATA_DIR / "multiple-percussion-stats.json",
+    },
+    "drum-set": {
+        "event_name": "Drum Set Solo",
+        "event_names": ["Drum Set Solo"],
+        "title": "Drum Set Solos",
+        "csv_path": DRUM_SET_SOURCE_CSV_PATH,
+        "songs_output": STATIC_DATA_DIR / "drum-set-solos.json",
+        "stats_output": STATIC_DATA_DIR / "drum-set-stats.json",
+    },
+    "steel-pan": {
+        "event_name": "Steel Pan Solo",
+        "event_names": ["Steel Pan Solo"],
+        "title": "Steel Pan Solos",
+        "csv_path": STEEL_PAN_SOURCE_CSV_PATH,
+        "songs_output": STATIC_DATA_DIR / "steel-pan-solos.json",
+        "stats_output": STATIC_DATA_DIR / "steel-pan-stats.json",
     },
 }
 

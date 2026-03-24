@@ -1,0 +1,22 @@
+{
+  "schoolYear": "2025-2026",
+  "instrumentSlug": "drum-set",
+  "instrumentName": "Drum Set Solos",
+  "songCount": 100,
+  "publisherCount": 101,
+  "noteCount": 1,
+  "databaseRecordCount": 101,
+  "classBreakdown": {
+    "3": 12,
+    "2": 30,
+    "1": 58
+  },
+  "noMemoryRequiredCount": 1,
+  "publicDomainPdfCount": 0,
+  "eventBreakdown": {
+    "Drum Set Solo": 100
+  },
+  "notes": {
+    "dataset_audit": "Sourced from https://www.uiltexas.org/pml/ and https://www.uiltexas.org/pml/pml.php. Imported 2026-03-24T21:53:27.195553+00:00."
+  }
+}

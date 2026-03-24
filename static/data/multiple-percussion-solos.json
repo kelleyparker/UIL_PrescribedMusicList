@@ -1,0 +1,3372 @@
+[
+  {
+    "uilCode": "503-3-28991",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "The Inverted Pyramid",
+    "composer": "Beck",
+    "arranger": "",
+    "publishers": [
+      "Kendor Music, Inc."
+    ],
+    "publisherText": "Kendor Music, Inc.",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-3-15003",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Pentad",
+    "composer": "Burns/Feldstein",
+    "arranger": "",
+    "publishers": [
+      "Henry Adler, Inc. [Advanced Percussion Solos, Book I]"
+    ],
+    "publisherText": "Henry Adler, Inc. [Advanced Percussion Solos, Book I]",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-3-15004",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Snare Drum Suite",
+    "composer": "Burns/Feldstein",
+    "arranger": "",
+    "publishers": [
+      "Henry Adler, Inc. [Advanced Percussion Solos, Book I]"
+    ],
+    "publisherText": "Henry Adler, Inc. [Advanced Percussion Solos, Book I]",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-3-31313",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Modern Multi-Tenor Techniques and Solos",
+    "composer": "Davila",
+    "arranger": "",
+    "publishers": [
+      "Row-Loff Publications [Modern Multi-Tenor Techniques and Solos]"
+    ],
+    "publisherText": "Row-Loff Publications [Modern Multi-Tenor Techniques and Solos]",
+    "classLevel": 3,
+    "specification": "(play one)(choose from #1, #2, or #3)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-3-31315",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Multiplicity",
+    "composer": "Freytag",
+    "arranger": "",
+    "publishers": [
+      "Row-Loff Publications [Multiplicity]"
+    ],
+    "publisherText": "Row-Loff Publications [Multiplicity]",
+    "classLevel": 3,
+    "specification": "(play one)( choose from #1 through #6) (tenor drums)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-3-15005",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Statement for Solo Percussion",
+    "composer": "Glassock",
+    "arranger": "",
+    "publishers": [
+      "Kendor Music, Inc."
+    ],
+    "publisherText": "Kendor Music, Inc.",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-3-15006",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Four Sonic Plateaus",
+    "composer": "Goldenberg",
+    "arranger": "",
+    "publishers": [
+      "Chappell Music Company [Studies in Solo Percussion]"
+    ],
+    "publisherText": "Chappell Music Company [Studies in Solo Percussion]",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-3-15007",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Multiples",
+    "composer": "Goldenberg",
+    "arranger": "",
+    "publishers": [
+      "Chappell Music Company [Studies in Solo Percussion]"
+    ],
+    "publisherText": "Chappell Music Company [Studies in Solo Percussion]",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-3-15008",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Paganry",
+    "composer": "Goldenberg",
+    "arranger": "",
+    "publishers": [
+      "Chappell Music Company [Studies in Solo Percussion]"
+    ],
+    "publisherText": "Chappell Music Company [Studies in Solo Percussion]",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-3-15009",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Stave Off Staves",
+    "composer": "Goldenberg",
+    "arranger": "",
+    "publishers": [
+      "Chappell Music Company [Studies in Solo Percussion]"
+    ],
+    "publisherText": "Chappell Music Company [Studies in Solo Percussion]",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-3-15010",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Study in Dynamic Contrasts",
+    "composer": "Goldenberg",
+    "arranger": "",
+    "publishers": [
+      "Chappell Music Company [Studies in Solo Percussion]"
+    ],
+    "publisherText": "Chappell Music Company [Studies in Solo Percussion]",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-3-32743",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Zorro's Revenge",
+    "composer": "Keezer",
+    "arranger": "",
+    "publishers": [
+      "Really Good Music"
+    ],
+    "publisherText": "Really Good Music",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-3-15011",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "\"2-4-1\"",
+    "composer": "Kraft",
+    "arranger": "",
+    "publishers": [
+      "Western International Music, Inc."
+    ],
+    "publisherText": "Western International Music, Inc.",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-3-28993",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Drumming Alone, Vol. I",
+    "composer": "Madison",
+    "arranger": "",
+    "publishers": [
+      "RBC Publications"
+    ],
+    "publisherText": "RBC Publications",
+    "classLevel": 3,
+    "specification": "(play one)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-3-33541",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Celebration for Four Concert Toms",
+    "composer": "Mancini",
+    "arranger": "",
+    "publishers": [
+      "Permus Publications, Inc."
+    ],
+    "publisherText": "Permus Publications, Inc.",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-3-31316",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "The Multi-Etude Collection",
+    "composer": "Meador",
+    "arranger": "",
+    "publishers": [
+      "Alfred Music Company, Inc. [The Multi-Etude Collection]"
+    ],
+    "publisherText": "Alfred Music Company, Inc. [The Multi-Etude Collection]",
+    "classLevel": 3,
+    "specification": "(play one)(CD accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-3-28992",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Sonata No. 1",
+    "composer": "Moore",
+    "arranger": "",
+    "publishers": [
+      "Ludwig Music Publishing Company"
+    ],
+    "publisherText": "Ludwig Music Publishing Company",
+    "classLevel": 3,
+    "specification": "(play one)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-3-26238",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Rockin' Rowls",
+    "composer": "Pollard",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 3,
+    "specification": "(play one)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-3-39766",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "10 Beginning Etudes for Multi Percussion",
+    "composer": "Rosauro",
+    "arranger": "",
+    "publishers": [
+      "Pro Percussao Brasil [10 Beginning Etudes for Multi Percussion]"
+    ],
+    "publisherText": "Pro Percussao Brasil [10 Beginning Etudes for Multi Percussion]",
+    "classLevel": 3,
+    "specification": "(various instrumentations for different etudes) (play ONE solo from 1-6)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-3-31863",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Midnight Barking (tenor version)",
+    "composer": "Salmon",
+    "arranger": "",
+    "publishers": [
+      "Tapspace Publications, LLC [The Blue Book]"
+    ],
+    "publisherText": "Tapspace Publications, LLC [The Blue Book]",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-3-15012",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Etude for Membranophones",
+    "composer": "Schinstine",
+    "arranger": "",
+    "publishers": [
+      "Creative Music"
+    ],
+    "publisherText": "Creative Music",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-3-39768",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "A Tribe Called Quads",
+    "composer": "Smit",
+    "arranger": "",
+    "publishers": [
+      "Tapspace Publications, LLC [A Tribe Called Quads]"
+    ],
+    "publisherText": "Tapspace Publications, LLC [A Tribe Called Quads]",
+    "classLevel": 3,
+    "specification": "(marching tenors - 5 or 6 drums) (play Maiden Voyage)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-3-15013",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "A Graphic Portrait",
+    "composer": "Spears",
+    "arranger": "",
+    "publishers": [
+      "C.L. Barnhouse Company"
+    ],
+    "publisherText": "C.L. Barnhouse Company",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-3-30935",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Celebrate Percussion!",
+    "composer": "Spears",
+    "arranger": "",
+    "publishers": [
+      "Kendor Music, Inc. [Celebrate Percussion!]"
+    ],
+    "publisherText": "Kendor Music, Inc. [Celebrate Percussion!]",
+    "classLevel": 3,
+    "specification": "(play one)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-3-39767",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Eight (+4) Three-Minute Audition Solos",
+    "composer": "Tanner",
+    "arranger": "",
+    "publishers": [
+      "Studio 4 Music [Eight (+4) Three-Minute Audition Solos]"
+    ],
+    "publisherText": "Studio 4 Music [Eight (+4) Three-Minute Audition Solos]",
+    "classLevel": 3,
+    "specification": "(timpani, bass drum, snare drum, suspended cymbal, cymbals, bells) (play ONE solo from 1-5)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-3-31864",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Check your Sticks",
+    "composer": "Willie",
+    "arranger": "",
+    "publishers": [
+      "Tapspace Publications, LLC [The Blue Book]"
+    ],
+    "publisherText": "Tapspace Publications, LLC [The Blue Book]",
+    "classLevel": 3,
+    "specification": "(tenor drums)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-2-26232",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Istra",
+    "composer": "Beck",
+    "arranger": "",
+    "publishers": [
+      "Kendor Music, Inc."
+    ],
+    "publisherText": "Kendor Music, Inc.",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-2-14985",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "20 Down",
+    "composer": "Burns/Feldstein",
+    "arranger": "",
+    "publishers": [
+      "Henry Adler, Inc. [Advanced Percussion Solos, Book I]"
+    ],
+    "publisherText": "Henry Adler, Inc. [Advanced Percussion Solos, Book I]",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-2-14986",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Pulsation",
+    "composer": "Burns/Feldstein",
+    "arranger": "",
+    "publishers": [
+      "Henry Adler, Inc. [Advanced Percussion Solos, Book I]"
+    ],
+    "publisherText": "Henry Adler, Inc. [Advanced Percussion Solos, Book I]",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-2-14987",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Three Moods",
+    "composer": "Burns/Feldstein",
+    "arranger": "",
+    "publishers": [
+      "Henry Adler, Inc. [Advanced Percussion Solos, Book I]"
+    ],
+    "publisherText": "Henry Adler, Inc. [Advanced Percussion Solos, Book I]",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-2-33537",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Lilt",
+    "composer": "Burrows",
+    "arranger": "",
+    "publishers": [
+      "Ox and Lamb Music [BSP Collective]"
+    ],
+    "publisherText": "Ox and Lamb Music [BSP Collective]",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-2-36376",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Game Show",
+    "composer": "Campbell",
+    "arranger": "",
+    "publishers": [
+      "Tapspace Publications, LLC [The Blue Book, Vol 2]"
+    ],
+    "publisherText": "Tapspace Publications, LLC [The Blue Book, Vol 2]",
+    "classLevel": 2,
+    "specification": "(kick drum (mounted), headless tambourine, 2 toms, bongos, splash cymbal, 2 synthetic woodblocks)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-2-31304",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Manhattan Max",
+    "composer": "Campbell",
+    "arranger": "",
+    "publishers": [
+      "Alfred Music Company, Inc. [Music for Multi-Perussion: A World View]"
+    ],
+    "publisherText": "Alfred Music Company, Inc. [Music for Multi-Perussion: A World View]",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-2-32745",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Sidewinder",
+    "composer": "Campbell",
+    "arranger": "",
+    "publishers": [
+      "Row-Loff Publications"
+    ],
+    "publisherText": "Row-Loff Publications",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-2-31305",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Taiko",
+    "composer": "Campbell",
+    "arranger": "",
+    "publishers": [
+      "Alfred Music Company, Inc. [Music for Multi-Perussion: A World View]"
+    ],
+    "publisherText": "Alfred Music Company, Inc. [Music for Multi-Perussion: A World View]",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-2-26233",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Tork",
+    "composer": "Campbell",
+    "arranger": "",
+    "publishers": [
+      "Row-Loff Publications",
+      "RBC Publications"
+    ],
+    "publisherText": "Row-Loff Publications;RBC Publications",
+    "classLevel": 2,
+    "specification": "(play one)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-2-31306",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Zoku",
+    "composer": "Campbell",
+    "arranger": "",
+    "publishers": [
+      "Row-Loff Publications"
+    ],
+    "publisherText": "Row-Loff Publications",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-2-31307",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Modern Multi-Tenor Techniques and Solos",
+    "composer": "Davila",
+    "arranger": "",
+    "publishers": [
+      "Row-Loff Publications [Modern Multi-Tenor Techniques and Solos]"
+    ],
+    "publisherText": "Row-Loff Publications [Modern Multi-Tenor Techniques and Solos]",
+    "classLevel": 2,
+    "specification": "(play one)(choose from #4 through #8)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-2-14950",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Multi-Percussion Suite No. 1",
+    "composer": "Davis",
+    "arranger": "",
+    "publishers": [
+      "C.L. Barnhouse Company"
+    ],
+    "publisherText": "C.L. Barnhouse Company",
+    "classLevel": 2,
+    "specification": "(play all)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-2-14989",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Sounds of the Kabuki",
+    "composer": "Davis",
+    "arranger": "",
+    "publishers": [
+      "Creative Music"
+    ],
+    "publisherText": "Creative Music",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-2-31308",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Flexion",
+    "composer": "Dietz",
+    "arranger": "",
+    "publishers": [
+      "C. Alan Publications [Reflex]"
+    ],
+    "publisherText": "C. Alan Publications [Reflex]",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-2-26234",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Tricastourine",
+    "composer": "Eyler",
+    "arranger": "",
+    "publishers": [
+      "Pioneer Percussion"
+    ],
+    "publisherText": "Pioneer Percussion",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-2-31309",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Multiplicity",
+    "composer": "Freytag",
+    "arranger": "",
+    "publishers": [
+      "Row-Loff Publications [Multiplicity]"
+    ],
+    "publisherText": "Row-Loff Publications [Multiplicity]",
+    "classLevel": 2,
+    "specification": "(play one) (choose from #7-#10) (tenor drums)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-2-31310",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Swing Time!",
+    "composer": "Freytag",
+    "arranger": "",
+    "publishers": [
+      "Row-Loff Publications [Just Desserts]"
+    ],
+    "publisherText": "Row-Loff Publications [Just Desserts]",
+    "classLevel": 2,
+    "specification": "(tenor drums)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-2-14990",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Multiple Episode No. 1",
+    "composer": "Gaetano",
+    "arranger": "",
+    "publishers": [
+      "Stu4"
+    ],
+    "publisherText": "Stu4",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-2-26235",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Nomad",
+    "composer": "Gauger",
+    "arranger": "",
+    "publishers": [
+      "Southern Music Publishing Company"
+    ],
+    "publisherText": "Southern Music Publishing Company",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-2-14991",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Articulations",
+    "composer": "Goldenberg",
+    "arranger": "",
+    "publishers": [
+      "Chappell Music Company [Studies in Solo Percussion]"
+    ],
+    "publisherText": "Chappell Music Company [Studies in Solo Percussion]",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-2-14992",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Echo March",
+    "composer": "Goldenberg",
+    "arranger": "",
+    "publishers": [
+      "Chappell Music Company [Studies in Solo Percussion]"
+    ],
+    "publisherText": "Chappell Music Company [Studies in Solo Percussion]",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-2-14993",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Five Timbres",
+    "composer": "Goldenberg",
+    "arranger": "",
+    "publishers": [
+      "Chappell Music Company [Studies in Solo Percussion]"
+    ],
+    "publisherText": "Chappell Music Company [Studies in Solo Percussion]",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-2-14994",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Pow Wow",
+    "composer": "Goldenberg",
+    "arranger": "",
+    "publishers": [
+      "Chappell Music Company [Studies in Solo Percussion]"
+    ],
+    "publisherText": "Chappell Music Company [Studies in Solo Percussion]",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-2-14995",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Resonances",
+    "composer": "Goldenberg",
+    "arranger": "",
+    "publishers": [
+      "Chappell Music Company [Studies in Solo Percussion]"
+    ],
+    "publisherText": "Chappell Music Company [Studies in Solo Percussion]",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-2-14996",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Solo Piece",
+    "composer": "Goldenberg",
+    "arranger": "",
+    "publishers": [
+      "Chappell Music Company [Studies in Solo Percussion]"
+    ],
+    "publisherText": "Chappell Music Company [Studies in Solo Percussion]",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-2-33538",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Rumination",
+    "composer": "Gordy",
+    "arranger": "",
+    "publishers": [
+      "Ox and Lamb Music [BSP Collective]"
+    ],
+    "publisherText": "Ox and Lamb Music [BSP Collective]",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-2-28987",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Delirium",
+    "composer": "Heslip",
+    "arranger": "",
+    "publishers": [
+      "Kendor Music, Inc."
+    ],
+    "publisherText": "Kendor Music, Inc.",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-2-36377",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "El Guapo",
+    "composer": "Hicks",
+    "arranger": "",
+    "publishers": [
+      "Tapspace Publications, LLC [The Blue Book, Vol 2]"
+    ],
+    "publisherText": "Tapspace Publications, LLC [The Blue Book, Vol 2]",
+    "classLevel": 2,
+    "specification": "(snare drum, tom-tom (covered w/ towel))",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-2-31311",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Como Kuku",
+    "composer": "Hill",
+    "arranger": "",
+    "publishers": [
+      "Musicon Publications [Multitudes]"
+    ],
+    "publisherText": "Musicon Publications [Multitudes]",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-2-39762",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Triage",
+    "composer": "Holloway",
+    "arranger": "",
+    "publishers": [
+      "Permus Publications, Inc."
+    ],
+    "publisherText": "Permus Publications, Inc.",
+    "classLevel": 2,
+    "specification": "(3 snare drums)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-2-28986",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Mountain Man",
+    "composer": "Houllif",
+    "arranger": "",
+    "publishers": [
+      "Kendor Music, Inc."
+    ],
+    "publisherText": "Kendor Music, Inc.",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-2-26236",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Phone Tag",
+    "composer": "Houllif",
+    "arranger": "",
+    "publishers": [
+      "Kendor Music, Inc."
+    ],
+    "publisherText": "Kendor Music, Inc.",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-2-32742",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Time Zones Revisites",
+    "composer": "Keezer",
+    "arranger": "",
+    "publishers": [
+      "Really Good Music"
+    ],
+    "publisherText": "Really Good Music",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-2-26231",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Solus",
+    "composer": "Leonard",
+    "arranger": "",
+    "publishers": [
+      "Drop6"
+    ],
+    "publisherText": "Drop6",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-2-28989",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Two Days",
+    "composer": "Lopez",
+    "arranger": "",
+    "publishers": [
+      "Tapspace Publications, LLC"
+    ],
+    "publisherText": "Tapspace Publications, LLC",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-2-28988",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Drumming Alone, Vol II",
+    "composer": "Madison",
+    "arranger": "",
+    "publishers": [
+      "RBC Publications"
+    ],
+    "publisherText": "RBC Publications",
+    "classLevel": 2,
+    "specification": "(play one)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-2-28985",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Nelker March",
+    "composer": "McClaren",
+    "arranger": "",
+    "publishers": [
+      "Ludwig Music Publishing Company"
+    ],
+    "publisherText": "Ludwig Music Publishing Company",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-2-36378",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Sound of the Axe",
+    "composer": "Meyer",
+    "arranger": "",
+    "publishers": [
+      "Tapspace Publications, LLC [The Blue Book, Vol 2]"
+    ],
+    "publisherText": "Tapspace Publications, LLC [The Blue Book, Vol 2]",
+    "classLevel": 2,
+    "specification": "(splash cymbal, ride cymbal, bongos, kick drum, snare drum)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-2-31312",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Ming Lions",
+    "composer": "Moore",
+    "arranger": "",
+    "publishers": [
+      "Musicon Publications [Multitudes]"
+    ],
+    "publisherText": "Musicon Publications [Multitudes]",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-2-36379",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Streaking Through the Quad",
+    "composer": "Murphy",
+    "arranger": "",
+    "publishers": [
+      "Tapspace Publications, LLC [The Blue Book, Vol 2]"
+    ],
+    "publisherText": "Tapspace Publications, LLC [The Blue Book, Vol 2]",
+    "classLevel": 2,
+    "specification": "(marching tenors)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-2-28990",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Leap Frog",
+    "composer": "Parks",
+    "arranger": "",
+    "publishers": [
+      "Grand Mesa Music Publishers"
+    ],
+    "publisherText": "Grand Mesa Music Publishers",
+    "classLevel": 2,
+    "specification": "(piano accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-2-14997",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Contemporary Courante",
+    "composer": "Payson",
+    "arranger": "",
+    "publishers": [
+      "Creative Music"
+    ],
+    "publisherText": "Creative Music",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-2-14975",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Slavic Danse",
+    "composer": "Payson",
+    "arranger": "",
+    "publishers": [
+      "Creative Music"
+    ],
+    "publisherText": "Creative Music",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-2-26237",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Oh Well!",
+    "composer": "Pollard",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 2,
+    "specification": "(play one)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-2-39763",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "10 Beginning Etudes for Multi Percussion",
+    "composer": "Rosauro",
+    "arranger": "",
+    "publishers": [
+      "Pro Percussao Brasil [10 Beginning Etudes for Multi Percussion]"
+    ],
+    "publisherText": "Pro Percussao Brasil [10 Beginning Etudes for Multi Percussion]",
+    "classLevel": 2,
+    "specification": "(various instrumentations for different etudes) (play 7 OR 8)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-2-31861",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "The Tenor Wall",
+    "composer": "Rudolph",
+    "arranger": "",
+    "publishers": [
+      "Tapspace Publications, LLC [The Blue Book]"
+    ],
+    "publisherText": "Tapspace Publications, LLC [The Blue Book]",
+    "classLevel": 2,
+    "specification": "(tenor drums)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-2-14998",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Scherzo for Skinflint",
+    "composer": "Schinstine",
+    "arranger": "",
+    "publishers": [
+      "Southern Music Company"
+    ],
+    "publisherText": "Southern Music Company",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-2-30934",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Solo for Four Toms and a Woodblock",
+    "composer": "Sergel",
+    "arranger": "",
+    "publishers": [
+      "JPM Music Publications"
+    ],
+    "publisherText": "JPM Music Publications",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-2-39765",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "A Tribe Called Quads",
+    "composer": "Smit",
+    "arranger": "",
+    "publishers": [
+      "Tapspace Publications, LLC [A Tribe Called Quads]"
+    ],
+    "publisherText": "Tapspace Publications, LLC [A Tribe Called Quads]",
+    "classLevel": 2,
+    "specification": "(marching tenors - 5 or 6 drums) (play Diddle Sandwich OR Para-Trip-a-Stick-a-Diddle OR Flamazon Prime)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-2-14977",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Energy Suite",
+    "composer": "Spears",
+    "arranger": "",
+    "publishers": [
+      "C.L. Barnhouse Company"
+    ],
+    "publisherText": "C.L. Barnhouse Company",
+    "classLevel": 2,
+    "specification": "(play all)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-2-15000",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Introduction and Furioso",
+    "composer": "Spears",
+    "arranger": "",
+    "publishers": [
+      "C.L. Barnhouse Company"
+    ],
+    "publisherText": "C.L. Barnhouse Company",
+    "classLevel": 2,
+    "specification": "(4 toms, 2 suspended cymbals)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-2-15001",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Trilogy for Solo Percussionist",
+    "composer": "Spears",
+    "arranger": "",
+    "publishers": [
+      "C.L. Barnhouse Company"
+    ],
+    "publisherText": "C.L. Barnhouse Company",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-2-39764",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Eight (+4) Three-Minute Audition Solos",
+    "composer": "Tanner",
+    "arranger": "",
+    "publishers": [
+      "Studio 4 Music [Eight (+4) Three-Minute Audition Solos]"
+    ],
+    "publisherText": "Studio 4 Music [Eight (+4) Three-Minute Audition Solos]",
+    "classLevel": 2,
+    "specification": "(timpani, bass drum, snare drum, suspended cymbal, cymbals, bells) (play ONE solo from 6-10)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-2-15002",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Accent Fever",
+    "composer": "Ukena",
+    "arranger": "",
+    "publishers": [
+      "Southern Music Company"
+    ],
+    "publisherText": "Southern Music Company",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-2-33540",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "More Audition Etudes",
+    "composer": "Whaley",
+    "arranger": "",
+    "publishers": [
+      "Meredith Music, Inc",
+      "Hal Leonard Music, Inc."
+    ],
+    "publisherText": "Meredith Music, Inc;Hal Leonard Music, Inc.",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-2-31862",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Moose Tash",
+    "composer": "Wilmarth",
+    "arranger": "",
+    "publishers": [
+      "Tapspace Publications, LLC [The Blue Book]"
+    ],
+    "publisherText": "Tapspace Publications, LLC [The Blue Book]",
+    "classLevel": 2,
+    "specification": "(tenor drums)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-1-33525",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Tupelo",
+    "composer": "Aleo",
+    "arranger": "",
+    "publishers": [
+      "Ox and Lamb Music [BSP Collective]"
+    ],
+    "publisherText": "Ox and Lamb Music [BSP Collective]",
+    "classLevel": 1,
+    "specification": "(play two mvts)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-1-28978",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Machine",
+    "composer": "Allemeier",
+    "arranger": "",
+    "publishers": [
+      "C. Alan Publications"
+    ],
+    "publisherText": "C. Alan Publications",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-1-31286",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Multi Man",
+    "composer": "Astrand",
+    "arranger": "",
+    "publishers": [
+      "Musicon Publications [Multitudes]"
+    ],
+    "publisherText": "Musicon Publications [Multitudes]",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-1-33526",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Backpackers",
+    "composer": "Aukofer",
+    "arranger": "",
+    "publishers": [
+      "Row-Loff Publications",
+      "Drop6 Media"
+    ],
+    "publisherText": "Row-Loff Publications;Drop6 Media",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-1-36372",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Ubiquitous Illin-ness",
+    "composer": "Bachman",
+    "arranger": "",
+    "publishers": [
+      "Tapspace Publications, LLC [Violent Tenor Cream]"
+    ],
+    "publisherText": "Tapspace Publications, LLC [Violent Tenor Cream]",
+    "classLevel": 1,
+    "specification": "(marching tenors)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-1-33527",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "From the Manor to the Heights",
+    "composer": "Baker",
+    "arranger": "",
+    "publishers": [
+      "Tapspace Publications, LLC"
+    ],
+    "publisherText": "Tapspace Publications, LLC",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-1-39760",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Southern Gothic",
+    "composer": "Baker",
+    "arranger": "",
+    "publishers": [
+      "Tapspace Publications, LLC"
+    ],
+    "publisherText": "Tapspace Publications, LLC",
+    "classLevel": 1,
+    "specification": "(bongos, two woodblocks, large glass bottle, metal bowl)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-1-26229",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Faded Dreams, Fragile Pledge",
+    "composer": "Barber",
+    "arranger": "",
+    "publishers": [
+      "Pioneer Percussion"
+    ],
+    "publisherText": "Pioneer Percussion",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-1-31287",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Disc Skip",
+    "composer": "Bliss",
+    "arranger": "",
+    "publishers": [
+      "Musicon Publications [Multitudes]"
+    ],
+    "publisherText": "Musicon Publications [Multitudes]",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-1-39750",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Wind-Up. Release.",
+    "composer": "Bruce",
+    "arranger": "",
+    "publishers": [
+      "C. Alan Publications"
+    ],
+    "publisherText": "C. Alan Publications",
+    "classLevel": 1,
+    "specification": "(snare drum, kick drum, bongos, hi-hat, splash cymbal, sizzle cymbal, cowbell, jam block, opera gong)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-1-28977",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Sticks of Eloquence",
+    "composer": "Burritt",
+    "arranger": "",
+    "publishers": [
+      "Ludwig Music Publishing Company"
+    ],
+    "publisherText": "Ludwig Music Publishing Company",
+    "classLevel": 1,
+    "specification": "(play all) NMR:(play all)",
+    "noMemoryRequired": true,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-1-39746",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Mantra",
+    "composer": "Bush",
+    "arranger": "",
+    "publishers": [
+      "C. Alan Publications"
+    ],
+    "publisherText": "C. Alan Publications",
+    "classLevel": 1,
+    "specification": "NMR:(snare drum, small tom, MIDI controller (or fixed track))",
+    "noMemoryRequired": true,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-1-14947",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Partita",
+    "composer": "Cahn",
+    "arranger": "",
+    "publishers": [
+      "Honey Rock"
+    ],
+    "publisherText": "Honey Rock",
+    "classLevel": 1,
+    "specification": "(play 1 & 3) NMR:(play 1 & 3)",
+    "noMemoryRequired": true,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-1-31288",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Balinese Sunrise",
+    "composer": "Campbell",
+    "arranger": "",
+    "publishers": [
+      "Alfred Music Company, Inc. [Music for Multi-Perussion: A World View]"
+    ],
+    "publisherText": "Alfred Music Company, Inc. [Music for Multi-Perussion: A World View]",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-1-31289",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Chutney",
+    "composer": "Campbell",
+    "arranger": "",
+    "publishers": [
+      "Alfred Music Company, Inc. [Music for Multi-Perussion: A World View]"
+    ],
+    "publisherText": "Alfred Music Company, Inc. [Music for Multi-Perussion: A World View]",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-1-33528",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Dance Eleven",
+    "composer": "Campbell",
+    "arranger": "",
+    "publishers": [
+      "Ox and Lamb Music [BSP Collective]"
+    ],
+    "publisherText": "Ox and Lamb Music [BSP Collective]",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-1-26230",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Engine Room",
+    "composer": "Campbell",
+    "arranger": "",
+    "publishers": [
+      "Row-Loff Publications"
+    ],
+    "publisherText": "Row-Loff Publications",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-1-31290",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Gallery",
+    "composer": "Campbell",
+    "arranger": "",
+    "publishers": [
+      "Musicon Publications [Multitudes]"
+    ],
+    "publisherText": "Musicon Publications [Multitudes]",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-1-28983",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Garage Drummer",
+    "composer": "Campbell",
+    "arranger": "",
+    "publishers": [
+      "Honey Rock"
+    ],
+    "publisherText": "Honey Rock",
+    "classLevel": 1,
+    "specification": "(soundscape cd accomp) (play all) NMR:(play all)",
+    "noMemoryRequired": true,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-1-33529",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Tick-Tock",
+    "composer": "Campbell",
+    "arranger": "",
+    "publishers": [
+      "Ox and Lamb Music [BSP Collective]"
+    ],
+    "publisherText": "Ox and Lamb Music [BSP Collective]",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-1-31291",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Modern Multi-Tenor Techniques and Solos",
+    "composer": "Davila",
+    "arranger": "",
+    "publishers": [
+      "Row-Loff Publications [Modern Multi-Tenor Techniques and Solos]"
+    ],
+    "publisherText": "Row-Loff Publications [Modern Multi-Tenor Techniques and Solos]",
+    "classLevel": 1,
+    "specification": "(play one)(choose from #9 through #16)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-1-14951",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Spanish Dance",
+    "composer": "Davis",
+    "arranger": "",
+    "publishers": [
+      "Creative Music"
+    ],
+    "publisherText": "Creative Music",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-1-36374",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Singularity Triptych",
+    "composer": "DeCristofaro",
+    "arranger": "",
+    "publishers": [
+      "Tapspace Publications, LLC"
+    ],
+    "publisherText": "Tapspace Publications, LLC",
+    "classLevel": 1,
+    "specification": "(Drums (3 graduated concert toms, large bass drum), Cymbals & gongs (5 suspended cymbals, hi-hat, tam-tam) Accessories (2 bell plates, 4 triangles (2 muted, 2 suspended)) (OPT-can be performed with 2 triangles if necessary)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-1-31858",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Slug Guts",
+    "composer": "Dekaney",
+    "arranger": "",
+    "publishers": [
+      "Tapspace Publications, LLC [The Blue Book]"
+    ],
+    "publisherText": "Tapspace Publications, LLC [The Blue Book]",
+    "classLevel": 1,
+    "specification": "(tenor drums)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-1-14952",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "The Love of L'Histoire",
+    "composer": "Delancey",
+    "arranger": "",
+    "publishers": [
+      "Mitchell Peters"
+    ],
+    "publisherText": "Mitchell Peters",
+    "classLevel": 1,
+    "specification": "(play all) NMR:(play all)",
+    "noMemoryRequired": true,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-1-36365",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Entranced",
+    "composer": "Di Bartolo",
+    "arranger": "",
+    "publishers": [
+      "ADpercussion"
+    ],
+    "publisherText": "ADpercussion",
+    "classLevel": 1,
+    "specification": "(kick drum/pedal, 1 trashy metal/pedal, woodblock, windchimes, tom-tom, 4 non-resonant metals, glockenspiel)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-1-31292",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Reflex",
+    "composer": "Dietz",
+    "arranger": "",
+    "publishers": [
+      "C. Alan Publications [Reflex]"
+    ],
+    "publisherText": "C. Alan Publications [Reflex]",
+    "classLevel": 1,
+    "specification": "(play one)(choose from #2 through #15) NMR:(play one, choose from #2 through #15)",
+    "noMemoryRequired": true,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-1-36368",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "3 congations",
+    "composer": "Dutz",
+    "arranger": "",
+    "publishers": [
+      "Honey Rock"
+    ],
+    "publisherText": "Honey Rock",
+    "classLevel": 1,
+    "specification": "(3 congas)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-1-28975",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "The Third Half of the Circle",
+    "composer": "Fambrough",
+    "arranger": "",
+    "publishers": [
+      "Musicon Publications"
+    ],
+    "publisherText": "Musicon Publications",
+    "classLevel": 1,
+    "specification": "(play all) NMR:(play all)",
+    "noMemoryRequired": true,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-1-30928",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Blade",
+    "composer": "Finley",
+    "arranger": "",
+    "publishers": [
+      "Tapspace Publications, LLC"
+    ],
+    "publisherText": "Tapspace Publications, LLC",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-1-31859",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Bus Bowl",
+    "composer": "Flack",
+    "arranger": "",
+    "publishers": [
+      "Tapspace Publications, LLC [The Blue Book]"
+    ],
+    "publisherText": "Tapspace Publications, LLC [The Blue Book]",
+    "classLevel": 1,
+    "specification": "(tenor drums)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-1-32747",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Chatterbox",
+    "composer": "Floyd",
+    "arranger": "",
+    "publishers": [
+      "Tapspace Publications, LLC"
+    ],
+    "publisherText": "Tapspace Publications, LLC",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-1-36369",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Hands Down",
+    "composer": "Floyd",
+    "arranger": "",
+    "publishers": [
+      "Musicon Publications"
+    ],
+    "publisherText": "Musicon Publications",
+    "classLevel": 1,
+    "specification": "(bongos, congas, djembe)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-1-31293",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "RaLAS con Fuoco",
+    "composer": "Freytag",
+    "arranger": "",
+    "publishers": [
+      "Row-Loff Publications"
+    ],
+    "publisherText": "Row-Loff Publications",
+    "classLevel": 1,
+    "specification": "(play all) NMR:(play all)",
+    "noMemoryRequired": true,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-1-33530",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Doppelganger",
+    "composer": "Gay",
+    "arranger": "",
+    "publishers": [
+      "Tapspace Publications, LLC"
+    ],
+    "publisherText": "Tapspace Publications, LLC",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-1-14956",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Motion",
+    "composer": "Glassock",
+    "arranger": "",
+    "publishers": [
+      "Kendor Music, Inc."
+    ],
+    "publisherText": "Kendor Music, Inc.",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-1-14957",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Arithmetic",
+    "composer": "Goldenberg",
+    "arranger": "",
+    "publishers": [
+      "Chappell Music Company [Studies in Solo Percussion]"
+    ],
+    "publisherText": "Chappell Music Company [Studies in Solo Percussion]",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-1-14958",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Concert Etude",
+    "composer": "Goldenberg",
+    "arranger": "",
+    "publishers": [
+      "Chappell Music Company [Studies in Solo Percussion]"
+    ],
+    "publisherText": "Chappell Music Company [Studies in Solo Percussion]",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-1-14959",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Corrente II",
+    "composer": "Goldenberg",
+    "arranger": "",
+    "publishers": [
+      "Chappell Music Company [Studies in Solo Percussion]"
+    ],
+    "publisherText": "Chappell Music Company [Studies in Solo Percussion]",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-1-14960",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Discourse",
+    "composer": "Goldenberg",
+    "arranger": "",
+    "publishers": [
+      "Chappell Music Company [Studies in Solo Percussion]"
+    ],
+    "publisherText": "Chappell Music Company [Studies in Solo Percussion]",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-1-14961",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Encounter",
+    "composer": "Goldenberg",
+    "arranger": "",
+    "publishers": [
+      "Chappell Music Company [Studies in Solo Percussion]"
+    ],
+    "publisherText": "Chappell Music Company [Studies in Solo Percussion]",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-1-14962",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Kinesis",
+    "composer": "Goldenberg",
+    "arranger": "",
+    "publishers": [
+      "Chappell Music Company [Studies in Solo Percussion]"
+    ],
+    "publisherText": "Chappell Music Company [Studies in Solo Percussion]",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-1-14963",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "M.G. to M.G.",
+    "composer": "Goldenberg",
+    "arranger": "",
+    "publishers": [
+      "Chappell Music Company [Studies in Solo Percussion]"
+    ],
+    "publisherText": "Chappell Music Company [Studies in Solo Percussion]",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-1-14964",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Night Piece",
+    "composer": "Goldenberg",
+    "arranger": "",
+    "publishers": [
+      "Chappell Music Company [Studies in Solo Percussion]"
+    ],
+    "publisherText": "Chappell Music Company [Studies in Solo Percussion]",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-1-14965",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Rhythm Serenade",
+    "composer": "Goldenberg",
+    "arranger": "",
+    "publishers": [
+      "Chappell Music Company [Studies in Solo Percussion]"
+    ],
+    "publisherText": "Chappell Music Company [Studies in Solo Percussion]",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-1-32736",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Toy Box",
+    "composer": "Gottry",
+    "arranger": "",
+    "publishers": [
+      "C. Alan Publications"
+    ],
+    "publisherText": "C. Alan Publications",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-1-39748",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Mini-Me",
+    "composer": "Groh",
+    "arranger": "",
+    "publishers": [
+      "C. Alan Publications [Mini-Me | Rex]"
+    ],
+    "publisherText": "C. Alan Publications [Mini-Me | Rex]",
+    "classLevel": 1,
+    "specification": "NMR:(kick drum/multi-bass, low tom, snare drum, bongos)",
+    "noMemoryRequired": true,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-1-39749",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Rex",
+    "composer": "Groh",
+    "arranger": "",
+    "publishers": [
+      "C. Alan Publications [Mini-Me | Rex]"
+    ],
+    "publisherText": "C. Alan Publications [Mini-Me | Rex]",
+    "classLevel": 1,
+    "specification": "(kick drum/multi-bass, low tom, snare drum, bongos, ribbon crasher, metal sound, cymbal)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-1-39747",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Thunder Tumbler",
+    "composer": "Groh",
+    "arranger": "",
+    "publishers": [
+      "C. Alan Publications"
+    ],
+    "publisherText": "C. Alan Publications",
+    "classLevel": 1,
+    "specification": "(low drum (16\"), field drum, medium tom (14\"), medium high tom (12\"))",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-1-39759",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Vibes & Garnishes",
+    "composer": "Guidolin",
+    "arranger": "",
+    "publishers": [
+      "Tapspace Publications, LLC"
+    ],
+    "publisherText": "Tapspace Publications, LLC",
+    "classLevel": 1,
+    "specification": "(vibraphone, china/opera gong, small crash cymb, hi-hat)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-1-36370",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Papercut",
+    "composer": "Hampton",
+    "arranger": "",
+    "publishers": [
+      "Tapspace Publications, LLC [The Blue Book, Vol 2]"
+    ],
+    "publisherText": "Tapspace Publications, LLC [The Blue Book, Vol 2]",
+    "classLevel": 1,
+    "specification": "(marching tenors)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-1-31294",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "27/41",
+    "composer": "Hill",
+    "arranger": "",
+    "publishers": [
+      "Alfred Music Company, Inc. [Music for Multi-Perussion: A World View]"
+    ],
+    "publisherText": "Alfred Music Company, Inc. [Music for Multi-Perussion: A World View]",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-1-31295",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Alchemy",
+    "composer": "Hill",
+    "arranger": "",
+    "publishers": [
+      "Alfred Music Company, Inc. [Music for Multi-Perussion: A World View]"
+    ],
+    "publisherText": "Alfred Music Company, Inc. [Music for Multi-Perussion: A World View]",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-1-31296",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Batuque Dida",
+    "composer": "Hill",
+    "arranger": "",
+    "publishers": [
+      "Alfred Music Company, Inc. [Music for Multi-Perussion: A World View]"
+    ],
+    "publisherText": "Alfred Music Company, Inc. [Music for Multi-Perussion: A World View]",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-1-28979",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Cold Pressed",
+    "composer": "Hollinden",
+    "arranger": "",
+    "publishers": [
+      "CAI"
+    ],
+    "publisherText": "CAI",
+    "classLevel": 1,
+    "specification": "(play all) NMR:(play all)",
+    "noMemoryRequired": true,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-1-14966",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Suite",
+    "composer": "Horvit",
+    "arranger": "",
+    "publishers": [
+      "Kendor Music, Inc."
+    ],
+    "publisherText": "Kendor Music, Inc.",
+    "classLevel": 1,
+    "specification": "(play one mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-1-39754",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Modern Rudimental Groove Solos",
+    "composer": "Hostetler",
+    "arranger": "",
+    "publishers": [
+      "Row-Loff Publications [Modern Rudimental Groove Solos]"
+    ],
+    "publisherText": "Row-Loff Publications [Modern Rudimental Groove Solos]",
+    "classLevel": 1,
+    "specification": "(play Supercruise OR Ramjet) (snare drum, 2 toms, cowbell, mounted tambourine, splash cym)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-1-28984",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Concerto",
+    "composer": "Jager",
+    "arranger": "",
+    "publishers": [
+      "Meredith Music, Inc"
+    ],
+    "publisherText": "Meredith Music, Inc",
+    "classLevel": 1,
+    "specification": "(piano accomp) (play all) NMR:(play all, piano accomp)",
+    "noMemoryRequired": true,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-1-14967",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Dance No. 1",
+    "composer": "Kastuck",
+    "arranger": "",
+    "publishers": [
+      "Kastuck Percussion Studio, Inc."
+    ],
+    "publisherText": "Kastuck Percussion Studio, Inc.",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-1-32748",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Constructive Interference",
+    "composer": "Keown",
+    "arranger": "",
+    "publishers": [
+      "Tapspace Publications, LLC"
+    ],
+    "publisherText": "Tapspace Publications, LLC",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-1-33532",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Upacara fro Solo Percussion",
+    "composer": "Kirk",
+    "arranger": "",
+    "publishers": [
+      "Permus Publications, Inc."
+    ],
+    "publisherText": "Permus Publications, Inc.",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-1-14969",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "English Suite",
+    "composer": "Kraft",
+    "arranger": "",
+    "publishers": [
+      "Theodore Presser Company"
+    ],
+    "publisherText": "Theodore Presser Company",
+    "classLevel": 1,
+    "specification": "(play any two mvts) NMR:(play any two mvts)",
+    "noMemoryRequired": true,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-1-14970",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "French Suite",
+    "composer": "Kraft",
+    "arranger": "",
+    "publishers": [
+      "Theodore Presser Company"
+    ],
+    "publisherText": "Theodore Presser Company",
+    "classLevel": 1,
+    "specification": "(play two mvts) NMR:(play two mvts)",
+    "noMemoryRequired": true,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-1-14971",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Morris Dance",
+    "composer": "Kraft",
+    "arranger": "",
+    "publishers": [
+      "Western International Music, Inc."
+    ],
+    "publisherText": "Western International Music, Inc.",
+    "classLevel": 1,
+    "specification": "(play all) NMR:(play all)",
+    "noMemoryRequired": true,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-1-32740",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Danza",
+    "composer": "Leonard",
+    "arranger": "",
+    "publishers": [
+      "Bachovich Music Publications"
+    ],
+    "publisherText": "Bachovich Music Publications",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-1-39751",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Cast Off and Fly",
+    "composer": "Longo",
+    "arranger": "",
+    "publishers": [
+      "Mo Longo Music"
+    ],
+    "publisherText": "Mo Longo Music",
+    "classLevel": 1,
+    "specification": "NMR:(kick drum, low tom, medium/high tom, high conga, snare drum, bongos)",
+    "noMemoryRequired": true,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-1-33534",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "DD in the Mix (set-up)",
+    "composer": "Mertens",
+    "arranger": "",
+    "publishers": [
+      "Alfonce Productions"
+    ],
+    "publisherText": "Alfonce Productions",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-1-32737",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Criminal Intentions",
+    "composer": "Meyer",
+    "arranger": "",
+    "publishers": [
+      "Bachovich Music Publications"
+    ],
+    "publisherText": "Bachovich Music Publications",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-1-32738",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "High Voltage",
+    "composer": "Meyer",
+    "arranger": "",
+    "publishers": [
+      "Bachovich Music Publications"
+    ],
+    "publisherText": "Bachovich Music Publications",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-1-36366",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Three Grooves",
+    "composer": "Meyers",
+    "arranger": "",
+    "publishers": [
+      "C. Alan Publications"
+    ],
+    "publisherText": "C. Alan Publications",
+    "classLevel": 1,
+    "specification": "(snare drum, hi-hat, kick bass)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-1-14973",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "The Storm",
+    "composer": "Mikula",
+    "arranger": "",
+    "publishers": [
+      "Honey Rock"
+    ],
+    "publisherText": "Honey Rock",
+    "classLevel": 1,
+    "specification": "(play mvt 2) NMR:(play mvt 2)",
+    "noMemoryRequired": true,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-1-14974",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Concerto for Percussion",
+    "composer": "Milhaud",
+    "arranger": "",
+    "publishers": [
+      "Universal Editions"
+    ],
+    "publisherText": "Universal Editions",
+    "classLevel": 1,
+    "specification": "(piano accomp) (play all) NMR:(play all)",
+    "noMemoryRequired": true,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-1-39756",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Pulsar",
+    "composer": "Moore III",
+    "arranger": "",
+    "publishers": [
+      "Self-Published Music"
+    ],
+    "publisherText": "Self-Published Music",
+    "classLevel": 1,
+    "specification": "(snare drum, bongos)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-1-39757",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Typecast",
+    "composer": "Moore III",
+    "arranger": "",
+    "publishers": [
+      "Self-Published Music"
+    ],
+    "publisherText": "Self-Published Music",
+    "classLevel": 1,
+    "specification": "(tambourine, triangle, woodblock, castanets)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-1-31297",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Mind Games",
+    "composer": "Nozny",
+    "arranger": "",
+    "publishers": [
+      "Musicon Publications [Multitudes]"
+    ],
+    "publisherText": "Musicon Publications [Multitudes]",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-1-28980",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Points of Consistency",
+    "composer": "Nozny",
+    "arranger": "",
+    "publishers": [
+      "Drop6"
+    ],
+    "publisherText": "Drop6",
+    "classLevel": 1,
+    "specification": "(play two from 1, 2, 3, or 4) NMR:(play two from 1, 2, 3, or 4)",
+    "noMemoryRequired": true,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-1-31298",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "First Impressions",
+    "composer": "Parks",
+    "arranger": "",
+    "publishers": [
+      "Musicon Publications [Multitudes]"
+    ],
+    "publisherText": "Musicon Publications [Multitudes]",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-1-33535",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Chakalaka",
+    "composer": "Perez",
+    "arranger": "",
+    "publishers": [
+      "C. Alan Publications"
+    ],
+    "publisherText": "C. Alan Publications",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-1-39755",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Shred",
+    "composer": "Pickering",
+    "arranger": "",
+    "publishers": [
+      "Self-Published Music"
+    ],
+    "publisherText": "Self-Published Music",
+    "classLevel": 1,
+    "specification": "NMR:(tambourine, bass drum with double pedal; audio playback)",
+    "noMemoryRequired": true,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-1-28976",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Collinear Dancer",
+    "composer": "Riley",
+    "arranger": "",
+    "publishers": [
+      "C. Alan Publications"
+    ],
+    "publisherText": "C. Alan Publications",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-1-32749",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Amalgamation",
+    "composer": "Rivera",
+    "arranger": "",
+    "publishers": [
+      "Tapspace Publications, LLC"
+    ],
+    "publisherText": "Tapspace Publications, LLC",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-1-32744",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Block",
+    "composer": "Romig",
+    "arranger": "",
+    "publishers": [
+      "Parallax Music"
+    ],
+    "publisherText": "Parallax Music",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-1-39752",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Brasiliana",
+    "composer": "Rosauro",
+    "arranger": "",
+    "publishers": [
+      "Pro Percussao Brasil [Cenas Amerindias]"
+    ],
+    "publisherText": "Pro Percussao Brasil [Cenas Amerindias]",
+    "classLevel": 1,
+    "specification": "(marimba (low A), 5 temple blocks, 3 wood blocks, wooden chimes)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-1-39753",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Eldorado",
+    "composer": "Rosauro",
+    "arranger": "",
+    "publishers": [
+      "Pro Percussao Brasil [Cenas Amerindias]"
+    ],
+    "publisherText": "Pro Percussao Brasil [Cenas Amerindias]",
+    "classLevel": 1,
+    "specification": "(vibraphone, 4 cymbals, cowbell, 1 crotale, triangle)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-1-31860",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Gadd's Groove",
+    "composer": "Salmon",
+    "arranger": "",
+    "publishers": [
+      "Tapspace Publications, LLC [The Blue Book]"
+    ],
+    "publisherText": "Tapspace Publications, LLC [The Blue Book]",
+    "classLevel": 1,
+    "specification": "(tenor drums)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-1-31299",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Ready or Not!",
+    "composer": "Savage",
+    "arranger": "",
+    "publishers": [
+      "Row-Loff Publications [Just Desserts]"
+    ],
+    "publisherText": "Row-Loff Publications [Just Desserts]",
+    "classLevel": 1,
+    "specification": "(tenor drums)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-1-33536",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Kettle Brew",
+    "composer": "Shapiro",
+    "arranger": "",
+    "publishers": [
+      "Activist Music",
+      "Hal Leonard Music, Inc."
+    ],
+    "publisherText": "Activist Music;Hal Leonard Music, Inc.",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-1-39761",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "A Tribe Called Quads",
+    "composer": "Smit",
+    "arranger": "",
+    "publishers": [
+      "Tapspace Publications, LLC [A Tribe Called Quads]"
+    ],
+    "publisherText": "Tapspace Publications, LLC [A Tribe Called Quads]",
+    "classLevel": 1,
+    "specification": "(marching tenors - 5 or 6 drums) (play Kane Bub AND Criss-Cross Applesauce OR Barely Scraping By OR A Tribe Called Quads)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-1-14978",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Prologue and Jubilo",
+    "composer": "Spears",
+    "arranger": "",
+    "publishers": [
+      "Southern Music Company"
+    ],
+    "publisherText": "Southern Music Company",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-1-14980",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Inspirations Diabolique",
+    "composer": "Tagawa",
+    "arranger": "",
+    "publishers": [
+      "Western International Music, Inc."
+    ],
+    "publisherText": "Western International Music, Inc.",
+    "classLevel": 1,
+    "specification": "(play any two mvts ) NMR:(play any two mvts)",
+    "noMemoryRequired": true,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-1-32739",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "To Varese",
+    "composer": "Tompkins",
+    "arranger": "",
+    "publishers": [
+      "Bachovich Music Publications"
+    ],
+    "publisherText": "Bachovich Music Publications",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-1-31301",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Inside the Shining Stone",
+    "composer": "Tyson",
+    "arranger": "",
+    "publishers": [
+      "Blake Tyson Music"
+    ],
+    "publisherText": "Blake Tyson Music",
+    "classLevel": 1,
+    "specification": "(play all) NMR:(play all)",
+    "noMemoryRequired": true,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-1-14981",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "The Contemporary Percussionist",
+    "composer": "Udow/Watts",
+    "arranger": "",
+    "publishers": [
+      "Meredith Music, Inc"
+    ],
+    "publisherText": "Meredith Music, Inc",
+    "classLevel": 1,
+    "specification": "(play two) NMR:(play two)",
+    "noMemoryRequired": true,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-1-14982",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Bamboo Dragon",
+    "composer": "Varner",
+    "arranger": "",
+    "publishers": [
+      "Michael Varner"
+    ],
+    "publisherText": "Michael Varner",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-1-36367",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "the silence between",
+    "composer": "Varner",
+    "arranger": "",
+    "publishers": [
+      "C. Alan Publications"
+    ],
+    "publisherText": "C. Alan Publications",
+    "classLevel": 1,
+    "specification": "(4 toms, 4 almglocken (C, C#, D#, F#), opera gong)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-1-31302",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Spoken Word",
+    "composer": "Wahlund",
+    "arranger": "",
+    "publishers": [
+      "Musicon Publications [Multitudes]"
+    ],
+    "publisherText": "Musicon Publications [Multitudes]",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-1-30927",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Lucid Dreaming",
+    "composer": "Ward",
+    "arranger": "",
+    "publishers": [
+      "C. Alan Publications"
+    ],
+    "publisherText": "C. Alan Publications",
+    "classLevel": 1,
+    "specification": "(play all) NMR:(play all)",
+    "noMemoryRequired": true,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-1-28009",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Sleight of Hand",
+    "composer": "Ward",
+    "arranger": "",
+    "publishers": [
+      "CAI"
+    ],
+    "publisherText": "CAI",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-1-36373",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Chocolate Cherry Bomb",
+    "composer": "Werth",
+    "arranger": "",
+    "publishers": [
+      "Tapspace Publications, LLC [Violent Tenor Cream]"
+    ],
+    "publisherText": "Tapspace Publications, LLC [Violent Tenor Cream]",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-1-31303",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Duplicity",
+    "composer": "Willie",
+    "arranger": "",
+    "publishers": [
+      "Musicon Publications [Multitudes]"
+    ],
+    "publisherText": "Musicon Publications [Multitudes]",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-1-36371",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Sum of Threes",
+    "composer": "Willie",
+    "arranger": "",
+    "publishers": [
+      "Tapspace Publications, LLC [The Blue Book, Vol 2]"
+    ],
+    "publisherText": "Tapspace Publications, LLC [The Blue Book, Vol 2]",
+    "classLevel": 1,
+    "specification": "(marching tenors)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-1-39758",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Ode to the One-Armed Drummer",
+    "composer": "Willmarth",
+    "arranger": "",
+    "publishers": [
+      "Tapspace Publications, LLC"
+    ],
+    "publisherText": "Tapspace Publications, LLC",
+    "classLevel": 1,
+    "specification": "(splash cymb, jam block, tambourine, cowbell, snare drum, large tom, kick drum)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-1-14984",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Conversation",
+    "composer": "Witten",
+    "arranger": "",
+    "publishers": [
+      "Southern Music Company"
+    ],
+    "publisherText": "Southern Music Company",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "503-1-36375",
+    "instrumentSlug": "multiple-percussion",
+    "instrumentName": "Multiple Percussion Solos",
+    "eventName": "Multiple Percussion Solo",
+    "title": "Rust",
+    "composer": "Worden",
+    "arranger": "",
+    "publishers": [
+      "www.drewworden.com"
+    ],
+    "publisherText": "www.drewworden.com",
+    "classLevel": 1,
+    "specification": "(concert bass drum, tam-tam hung with rope, record player, looping pedal, 2 mics for amplification, wind chimes)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  }
+]

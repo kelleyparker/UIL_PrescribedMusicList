@@ -1,6 +1,6 @@
 # UIL Prescribed Music List Solos
 
-This project is a lightweight Python website for browsing UIL Prescribed Music List solo datasets for piano, clarinet family, French horn, saxophone family, trombone, trumpet, tuba, flute, oboe, bassoon, alto saxophone, violin, viola, cello, string bass, and euphonium, with a GitHub Pages deployment and a monthly GitHub Actions sync.
+This project is a lightweight Python website for browsing UIL Prescribed Music List solo datasets for piano, clarinet family, French horn, saxophone family, trombone, trumpet, tuba, flute, oboe, bassoon, alto saxophone, violin, viola, cello, string bass, euphonium, piccolo, English horn, snare drum, timpani, keyboard percussion, multiple percussion, drum set, and steel pan, with a GitHub Pages deployment and a monthly GitHub Actions sync.
 
 ## Run locally
 
@@ -31,6 +31,14 @@ Then open `http://127.0.0.1:8000`.
   - `data/uil_cello_solos_source.csv`
   - `data/uil_string_bass_solos_source.csv`
   - `data/uil_euphonium_solos_source.csv`
+  - `data/uil_piccolo_solos_source.csv`
+  - `data/uil_english_horn_solos_source.csv`
+  - `data/uil_snare_drum_solos_source.csv`
+  - `data/uil_timpani_solos_source.csv`
+  - `data/uil_keyboard_percussion_solos_source.csv`
+  - `data/uil_multiple_percussion_solos_source.csv`
+  - `data/uil_drum_set_solos_source.csv`
+  - `data/uil_steel_pan_solos_source.csv`
 
 ## Update pipeline
 

@@ -76,6 +76,38 @@ INSTRUMENT_FILES = {
         "songs": STATIC_DATA_DIR / "euphonium-solos.json",
         "stats": STATIC_DATA_DIR / "euphonium-stats.json",
     },
+    "piccolo": {
+        "songs": STATIC_DATA_DIR / "piccolo-solos.json",
+        "stats": STATIC_DATA_DIR / "piccolo-stats.json",
+    },
+    "english-horn": {
+        "songs": STATIC_DATA_DIR / "english-horn-solos.json",
+        "stats": STATIC_DATA_DIR / "english-horn-stats.json",
+    },
+    "snare-drum": {
+        "songs": STATIC_DATA_DIR / "snare-drum-solos.json",
+        "stats": STATIC_DATA_DIR / "snare-drum-stats.json",
+    },
+    "timpani": {
+        "songs": STATIC_DATA_DIR / "timpani-solos.json",
+        "stats": STATIC_DATA_DIR / "timpani-stats.json",
+    },
+    "keyboard-percussion": {
+        "songs": STATIC_DATA_DIR / "keyboard-percussion-solos.json",
+        "stats": STATIC_DATA_DIR / "keyboard-percussion-stats.json",
+    },
+    "multiple-percussion": {
+        "songs": STATIC_DATA_DIR / "multiple-percussion-solos.json",
+        "stats": STATIC_DATA_DIR / "multiple-percussion-stats.json",
+    },
+    "drum-set": {
+        "songs": STATIC_DATA_DIR / "drum-set-solos.json",
+        "stats": STATIC_DATA_DIR / "drum-set-stats.json",
+    },
+    "steel-pan": {
+        "songs": STATIC_DATA_DIR / "steel-pan-solos.json",
+        "stats": STATIC_DATA_DIR / "steel-pan-stats.json",
+    },
 }
 
 

@@ -175,6 +175,86 @@ const instruments = {
     heroCopy:
       "Browse UIL euphonium and baritone horn solos by class, search titles, composers, and publishers, and review the current low-brass literature list.",
   },
+  piccolo: {
+    slug: "piccolo",
+    label: "Piccolo Solos",
+    shortLabel: "piccolo solo",
+    songsUrl: "./data/piccolo-solos.json",
+    statsUrl: "./data/piccolo-stats.json",
+    titlePlaceholder: "Try Vivaldi, Sonata, or Southern",
+    heroCopy:
+      "Browse UIL piccolo solos by class, search titles, composers, and publishers, and review the current upper-woodwind literature list.",
+  },
+  "english-horn": {
+    slug: "english-horn",
+    label: "English Horn Solos",
+    shortLabel: "English horn solo",
+    songsUrl: "./data/english-horn-solos.json",
+    statsUrl: "./data/english-horn-stats.json",
+    titlePlaceholder: "Try Donizetti, Sonata, or Rubank",
+    heroCopy:
+      "Browse UIL English horn solos by class, search titles, composers, and publishers, and review the current double-reed literature list.",
+  },
+  "snare-drum": {
+    slug: "snare-drum",
+    label: "Snare Drum Solos",
+    shortLabel: "snare drum solo",
+    songsUrl: "./data/snare-drum-solos.json",
+    statsUrl: "./data/snare-drum-stats.json",
+    titlePlaceholder: "Try Delecluse, Portraits, or Meredith",
+    heroCopy:
+      "Browse UIL snare drum solos by class, search titles, composers, and publishers, and review the current percussion solo list.",
+  },
+  timpani: {
+    slug: "timpani",
+    label: "Timpani Solos",
+    shortLabel: "timpani solo",
+    songsUrl: "./data/timpani-solos.json",
+    statsUrl: "./data/timpani-stats.json",
+    titlePlaceholder: "Try Carter, Sonata, or Meredith",
+    heroCopy:
+      "Browse UIL timpani solos by class, search titles, composers, and publishers, and review the current percussion solo list.",
+  },
+  "keyboard-percussion": {
+    slug: "keyboard-percussion",
+    label: "Keyboard Percussion Solos",
+    shortLabel: "keyboard percussion solo",
+    songsUrl: "./data/keyboard-percussion-solos.json",
+    statsUrl: "./data/keyboard-percussion-stats.json",
+    titlePlaceholder: "Try Rosauro, Etude, or Keyboard",
+    heroCopy:
+      "Browse UIL keyboard percussion solos by class, search titles, composers, and publishers, and review the current mallet literature list.",
+  },
+  "multiple-percussion": {
+    slug: "multiple-percussion",
+    label: "Multiple Percussion Solos",
+    shortLabel: "multiple percussion solo",
+    songsUrl: "./data/multiple-percussion-solos.json",
+    statsUrl: "./data/multiple-percussion-stats.json",
+    titlePlaceholder: "Try Cahn, Suite, or Studio",
+    heroCopy:
+      "Browse UIL multiple percussion solos by class, search titles, composers, and publishers, and review the current setup-percussion literature list.",
+  },
+  "drum-set": {
+    slug: "drum-set",
+    label: "Drum Set Solos",
+    shortLabel: "drum set solo",
+    songsUrl: "./data/drum-set-solos.json",
+    statsUrl: "./data/drum-set-stats.json",
+    titlePlaceholder: "Try Wilcoxon, Solo, or Drumset",
+    heroCopy:
+      "Browse UIL drum set solos by class, search titles, composers, and publishers, and review the current drum set literature list.",
+  },
+  "steel-pan": {
+    slug: "steel-pan",
+    label: "Steel Pan Solos",
+    shortLabel: "steel pan solo",
+    songsUrl: "./data/steel-pan-solos.json",
+    statsUrl: "./data/steel-pan-stats.json",
+    titlePlaceholder: "Try Trinidad, Suite, or Pan",
+    heroCopy:
+      "Browse UIL steel pan solos by class, search titles, composers, and publishers, and review the current steel pan literature list.",
+  },
 };
 
 const state = {
