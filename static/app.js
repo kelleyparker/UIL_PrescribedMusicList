@@ -193,7 +193,7 @@ const instruments = {
     statsUrl: "./data/english-horn-stats.json",
     titlePlaceholder: "Try Donizetti, Sonata, or Rubank",
     heroCopy:
-      "Browse UIL English horn solos by class, search titles, composers, and publishers, and review the current double-reed literature list.",
+      "Find a better way to acquire your UIL English horn music, with Amazon affiliate links provided for select titles when you are ready to purchase sheet music.",
   },
   "snare-drum": {
     slug: "snare-drum",
