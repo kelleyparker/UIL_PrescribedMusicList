@@ -20,7 +20,7 @@ const instruments = {
     label: "Piano Solos",
     shortLabel: "piano solo",
     songsUrl: "./data/piano-solos.json",
-    statsUrl: "./data/stats.json",
+    statsUrl: "./data/piano-stats.json",
     titlePlaceholder: "Try Bach, Sonatina, or Alfred",
     heroCopy:
       "Browse UIL piano solos by class, search titles and composers, and open verified public-domain sheet music where it is available.",
@@ -34,6 +34,16 @@ const instruments = {
     titlePlaceholder: "Try Brahms, Sonata, or Rubank",
     heroCopy:
       "Browse all UIL clarinet-family solo events, including Bb, Bass, Alto, Eb, and Contra Bass Clarinet, then filter by class or No Memory Required and open public-domain sheet music where available.",
+  },
+  "french-horn": {
+    slug: "french-horn",
+    label: "French Horn Solos",
+    shortLabel: "french horn solo",
+    songsUrl: "./data/french-horn-solos.json",
+    statsUrl: "./data/french-horn-stats.json",
+    titlePlaceholder: "Try Mozart, Sonata, or Boosey",
+    heroCopy:
+      "Browse UIL French horn solos by class, search titles, composers, and publishers, and open verified public-domain sheet music where it is available.",
   },
 };
 
