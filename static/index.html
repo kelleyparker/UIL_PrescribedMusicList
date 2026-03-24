@@ -3,14 +3,14 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title id="page-title">UIL Piano Solos</title>
+    <title id="page-title">UIL Solos</title>
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
       href="https://fonts.googleapis.com/css2?family=Bitter:wght@500;700&family=Source+Sans+3:wght@400;600;700&display=swap"
       rel="stylesheet"
     />
-    <link rel="stylesheet" href="./styles.css?v=20260324a" />
+    <link rel="stylesheet" href="./styles.css?v=20260324b" />
   </head>
   <body>
     <div class="page-shell">
@@ -36,27 +36,28 @@
             </select>
           </label>
         </div>
-        <h1 id="hero-title">Piano Solos</h1>
-        <p class="hero-copy">
-          Browse Piano Solo selections by class, search titles and composers,
-          and view every publisher listed in the local UIL database.
+        <h1 id="hero-title">UIL Piano and French Horn Solos</h1>
+        <p id="hero-copy" class="hero-copy">
+          Browse UIL piano and French horn solos by class, search titles and
+          composers, and open verified public-domain sheet music where it is
+          available.
         </p>
         <div class="hero-stats">
           <div class="stat-card">
-            <span class="stat-label">Piano Solo Titles</span>
-            <strong id="song-count">334</strong>
+            <span class="stat-label">Solo Titles</span>
+            <strong id="song-count">0</strong>
           </div>
           <div class="stat-card">
             <span class="stat-label">Database Records</span>
-            <strong id="database-record-count">336</strong>
+            <strong id="database-record-count">0</strong>
           </div>
           <div class="stat-card">
             <span class="stat-label">Class Breakdown</span>
-            <strong id="class-breakdown">3 / 2 / 1</strong>
+            <strong id="class-breakdown">Class 3: 0 | Class 2: 0 | Class 1: 0</strong>
           </div>
           <div class="stat-card">
             <span class="stat-label">No Memory Required</span>
-            <strong id="nmr-count">3</strong>
+            <strong id="nmr-count">0</strong>
           </div>
           <div class="stat-card">
             <span class="stat-label">Public Domain PDFs</span>
@@ -67,12 +68,18 @@
 
       <main class="content">
         <section class="controls">
-          <div class="filter-group" aria-label="Piano solo class filters">
-            <button class="filter-chip is-active" data-filter="all">All Classes</button>
-            <button class="filter-chip" data-filter="3">Class 3</button>
-            <button class="filter-chip" data-filter="2">Class 2</button>
-            <button class="filter-chip" data-filter="1">Class 1</button>
-            <button class="filter-chip filter-chip-nmr" data-filter="nmr">No Memory Required</button>
+          <div class="controls-stack">
+            <div class="instrument-group" aria-label="Instrument filters">
+              <button class="instrument-chip is-active" data-instrument="piano">Piano</button>
+              <button class="instrument-chip" data-instrument="clarinet">Clarinet Family</button>
+            </div>
+            <div class="filter-group" aria-label="Solo class filters">
+              <button class="filter-chip is-active" data-filter="all">All Classes</button>
+              <button class="filter-chip" data-filter="3">Class 3</button>
+              <button class="filter-chip" data-filter="2">Class 2</button>
+              <button class="filter-chip" data-filter="1">Class 1</button>
+              <button class="filter-chip filter-chip-nmr" data-filter="nmr">No Memory Required</button>
+            </div>
           </div>
 
           <label class="search-field">
@@ -80,13 +87,13 @@
             <input
               id="search-input"
               type="search"
-              placeholder="Try Bach, Sonatina, or Alfred"
+              placeholder="Try Bach, Sonata, or Alfred"
             />
           </label>
         </section>
 
         <section class="status-row">
-          <p id="result-summary">Loading piano solos...</p>
+          <p id="result-summary">Loading solo datasets...</p>
           <a
             class="uil-link"
             href="https://www.uiltexas.org/pml/"
@@ -104,6 +111,7 @@
             <div class="song-card-header">
               <div class="song-badges">
                 <span class="class-badge"></span>
+                <span class="event-badge"></span>
                 <span class="nmr-badge" hidden>No Memory Required</span>
               </div>
               <span class="uil-code"></span>
@@ -117,7 +125,7 @@
             <p class="song-specification"></p>
             <div class="song-actions">
               <a class="download-button" hidden target="_blank" rel="noreferrer">
-                Download PDF
+                Open Public Domain PDF
               </a>
             </div>
           </article>
@@ -129,6 +137,6 @@
       </footer>
     </div>
 
-    <script src="./app.js?v=20260324a" defer></script>
+    <script src="./app.js?v=20260324b" defer></script>
   </body>
 </html>

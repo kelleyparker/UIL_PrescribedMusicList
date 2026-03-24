@@ -3,6 +3,7 @@ const resultSummary = document.getElementById("result-summary");
 const datasetNote = document.getElementById("dataset-note");
 const searchInput = document.getElementById("search-input");
 const heroTitle = document.getElementById("hero-title");
+const heroCopy = document.getElementById("hero-copy");
 const songCount = document.getElementById("song-count");
 const databaseRecordCount = document.getElementById("database-record-count");
 const classBreakdown = document.getElementById("class-breakdown");
@@ -10,9 +11,34 @@ const nmrCount = document.getElementById("nmr-count");
 const pdfCount = document.getElementById("pdf-count");
 const themeSelect = document.getElementById("theme-select");
 const filterButtons = [...document.querySelectorAll(".filter-chip")];
+const instrumentButtons = [...document.querySelectorAll(".instrument-chip")];
 const cardTemplate = document.getElementById("song-card-template");
 
+const instruments = {
+  piano: {
+    slug: "piano",
+    label: "Piano Solos",
+    shortLabel: "piano solo",
+    songsUrl: "./data/piano-solos.json",
+    statsUrl: "./data/stats.json",
+    titlePlaceholder: "Try Bach, Sonatina, or Alfred",
+    heroCopy:
+      "Browse UIL piano solos by class, search titles and composers, and open verified public-domain sheet music where it is available.",
+  },
+  clarinet: {
+    slug: "clarinet",
+    label: "Clarinet Family Solos",
+    shortLabel: "clarinet solo",
+    songsUrl: "./data/clarinet-solos.json",
+    statsUrl: "./data/clarinet-stats.json",
+    titlePlaceholder: "Try Brahms, Sonata, or Rubank",
+    heroCopy:
+      "Browse all UIL clarinet-family solo events, including Bb, Bass, Alto, Eb, and Contra Bass Clarinet, then filter by class or No Memory Required and open public-domain sheet music where available.",
+  },
+};
+
 const state = {
+  activeInstrument: "piano",
   activeFilter: "all",
   query: "",
   songs: [],
@@ -359,7 +385,7 @@ function setTheme(themeName) {
     searchInput.style.borderColor = theme.border;
   }
 
-  localStorage.setItem("uil-piano-theme", themeName);
+  localStorage.setItem("uil-pml-theme", themeName);
 }
 
 window.__uilSetTheme = (themeName) => {
@@ -369,10 +395,11 @@ window.__uilSetTheme = (themeName) => {
   setTheme(themeName);
 };
 
-async function loadDataset() {
+async function loadDataset(instrumentSlug) {
+  const instrument = instruments[instrumentSlug] || instruments.piano;
   const [statsResponse, songsResponse] = await Promise.all([
-    fetch("./data/stats.json"),
-    fetch("./data/piano-solos.json"),
+    fetch(instrument.statsUrl),
+    fetch(instrument.songsUrl),
   ]);
   const [stats, songs] = await Promise.all([
     statsResponse.json(),
@@ -418,6 +445,7 @@ function renderSongs(songs) {
   songs.forEach((song) => {
     const card = cardTemplate.content.cloneNode(true);
     card.querySelector(".class-badge").textContent = `Class ${song.classLevel}`;
+    card.querySelector(".event-badge").textContent = song.eventName;
     const nmrBadge = card.querySelector(".nmr-badge");
     nmrBadge.hidden = !song.noMemoryRequired;
     card.querySelector(".uil-code").textContent = song.uilCode;
@@ -452,7 +480,8 @@ function updateSummary(songs) {
     filterLabel = `Class ${state.activeFilter}`;
   }
   const searchLabel = state.query ? ` matching "${state.query}"` : "";
-  resultSummary.textContent = `Showing ${songs.length} piano solo titles for ${filterLabel}${searchLabel}.`;
+  const instrument = instruments[state.activeInstrument] || instruments.piano;
+  resultSummary.textContent = `Showing ${songs.length} ${instrument.shortLabel} titles for ${filterLabel}${searchLabel}.`;
 }
 
 async function refreshSongs() {
@@ -470,8 +499,33 @@ function applyActiveFilter(nextFilter) {
   setTheme(themeSelect.value);
 }
 
+function applyActiveInstrument(nextInstrument) {
+  state.activeInstrument = nextInstrument;
+  state.activeFilter = "all";
+  state.query = "";
+  searchInput.value = "";
+  instrumentButtons.forEach((button) => {
+    button.classList.toggle("is-active", button.dataset.instrument === nextInstrument);
+  });
+  filterButtons.forEach((button) => {
+    button.classList.toggle("is-active", button.dataset.filter === "all");
+  });
+  localStorage.setItem("uil-pml-instrument", nextInstrument);
+}
+
+function updateInstrumentLabels(stats) {
+  const instrument = instruments[state.activeInstrument] || instruments.piano;
+  document.title = `UIL ${instrument.label} ${stats.schoolYear}`;
+  heroTitle.textContent = `${stats.schoolYear} ${instrument.label}`;
+  heroCopy.textContent = instrument.heroCopy;
+  searchInput.placeholder = instrument.titlePlaceholder;
+}
+
 async function init() {
-  const savedTheme = localStorage.getItem("uil-piano-theme") || "midnight-lone-star";
+  const savedTheme = localStorage.getItem("uil-pml-theme") || "midnight-lone-star";
+  const savedInstrument =
+    localStorage.getItem("uil-pml-instrument") || state.activeInstrument;
+  applyActiveInstrument(savedInstrument in instruments ? savedInstrument : "piano");
   themeSelect.value = savedTheme;
   setTheme(savedTheme);
 
@@ -481,10 +535,25 @@ async function init() {
   themeSelect.addEventListener("change", handleThemeChange);
   themeSelect.addEventListener("input", handleThemeChange);
 
-  await loadDataset();
+  instrumentButtons.forEach((button) => {
+    button.addEventListener("click", async () => {
+      applyActiveInstrument(button.dataset.instrument);
+      await loadDataset(state.activeInstrument);
+      updateInstrumentLabels(state.stats);
+      songCount.textContent = state.stats.songCount;
+      databaseRecordCount.textContent = state.stats.databaseRecordCount;
+      classBreakdown.textContent = `Class 3: ${state.stats.classBreakdown["3"]} | Class 2: ${state.stats.classBreakdown["2"]} | Class 1: ${state.stats.classBreakdown["1"]}`;
+      nmrCount.textContent = state.stats.noMemoryRequiredCount;
+      pdfCount.textContent = state.stats.publicDomainPdfCount;
+      datasetNote.textContent = state.stats.notes.dataset_audit;
+      await refreshSongs();
+      setTheme(themeSelect.value);
+    });
+  });
+
+  await loadDataset(state.activeInstrument);
   const stats = state.stats;
-  document.title = `UIL Piano Solos ${stats.schoolYear}`;
-  heroTitle.textContent = `${stats.schoolYear} Piano Solos`;
+  updateInstrumentLabels(stats);
   songCount.textContent = stats.songCount;
   databaseRecordCount.textContent = stats.databaseRecordCount;
   classBreakdown.textContent = `Class 3: ${stats.classBreakdown["3"]} | Class 2: ${stats.classBreakdown["2"]} | Class 1: ${stats.classBreakdown["1"]}`;
@@ -510,6 +579,6 @@ async function init() {
 }
 
 init().catch((error) => {
-  resultSummary.textContent = "The piano solo data could not be loaded.";
+  resultSummary.textContent = "The UIL solo data could not be loaded.";
   datasetNote.textContent = error.message;
 });

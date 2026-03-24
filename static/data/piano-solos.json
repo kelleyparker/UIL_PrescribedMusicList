@@ -1,67 +1,69 @@
 [
   {
     "uilCode": "603-3-18147",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Anna Magdalena's Notebook",
     "composer": "Bach",
     "arranger": "",
     "publishers": [
-      "Multiple Publishers",
       "Alfred Music Company, Inc.",
       "Carl Fischer, Inc.",
       "C.F. Peters Corporation",
       "Barenreiter/Verlag",
       "Foreign Music Distributors"
     ],
-    "publisherText": "Multiple Publishers;Alfred Music Company, Inc.;Carl Fischer, Inc.;C.F. Peters Corporation;Barenreiter/Verlag;Foreign Music Distributors",
+    "publisherText": "Alfred Music Company, Inc.;Carl Fischer, Inc.;C.F. Peters Corporation;Barenreiter/Verlag;Foreign Music Distributors",
     "classLevel": 3,
     "specification": "(play two contrasting pieces)",
     "noMemoryRequired": false,
-    "publicDomainPdfUrl": "https://s9.imslp.org/files/imglnks/usimg/0/09/IMSLP475024-PMLP06107-Partitur_D-B_Mus.ms._Bach_P_225.pdf",
-    "publicDomainSource": "IMSLP",
-    "id": 112
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-3-18148",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Solfeggio (Solfeggietto)",
     "composer": "Bach",
     "arranger": "",
     "publishers": [
-      "Multiple Publishers",
       "C.F. Peters Corporation",
       "Any unabridged edition"
     ],
-    "publisherText": "Multiple Publishers;C.F. Peters Corporation;Any unabridged edition",
+    "publisherText": "C.F. Peters Corporation;Any unabridged edition",
     "classLevel": 3,
     "specification": "",
     "noMemoryRequired": false,
-    "publicDomainPdfUrl": "https://s9.imslp.org/files/imglnks/usimg/f/f2/IMSLP407853-PMLP06627-Bach_CPE_Solfeggio_220.pdf",
-    "publicDomainSource": "IMSLP",
-    "id": 113
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-3-18149",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Evening in the Country (Evening in Transylvania) from Ten Easy Pieces",
     "composer": "Bartok",
     "arranger": "",
     "publishers": [
-      "Multiple Publishers",
       "Alfred Music Company, Inc.",
       "Boosey & Hawkes, Inc.",
       "Any unabridged edition"
     ],
-    "publisherText": "Multiple Publishers;Alfred Music Company, Inc.;Boosey & Hawkes, Inc.;Any unabridged edition",
+    "publisherText": "Alfred Music Company, Inc.;Boosey & Hawkes, Inc.;Any unabridged edition",
     "classLevel": 3,
     "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 114
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-3-18150",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Mikrokosmos, Book III",
     "composer": "Bartok",
@@ -74,11 +76,12 @@
     "specification": "(play two)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 115
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-3-18151",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "German Dances",
     "composer": "Beethoven",
@@ -90,12 +93,13 @@
     "classLevel": 3,
     "specification": "(play two)",
     "noMemoryRequired": false,
-    "publicDomainPdfUrl": "https://s9.imslp.org/files/imglnks/usimg/3/3f/IMSLP57940-PMLP30932-Beethoven_Werke_Breitkopf_Serie_2_No_17_WoO_8.pdf",
-    "publicDomainSource": "IMSLP",
-    "id": 116
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-3-18152",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Sonatinas in G major and F major, WoO Anh. 5",
     "composer": "Beethoven",
@@ -108,30 +112,31 @@
     "specification": "(play either sonatina)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 117
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-3-18153",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Enfantines",
     "composer": "Bloch",
     "arranger": "",
     "publishers": [
-      "Multiple Publishers",
       "Carl Fischer, Inc.",
       "G. Schirmer, Inc."
     ],
-    "publisherText": "Multiple Publishers;Carl Fischer, Inc.;G. Schirmer, Inc.",
+    "publisherText": "Carl Fischer, Inc.;G. Schirmer, Inc.",
     "classLevel": 3,
     "specification": "(play two)",
     "noMemoryRequired": false,
-    "publicDomainPdfUrl": "https://s9.imslp.org/files/imglnks/usimg/f/fd/IMSLP38998-PMLP85809-Bloch_%281924%29_Enfantines_%28Pieces_for_children%29.pdf",
-    "publicDomainSource": "IMSLP",
-    "id": 118
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-3-39967",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "25 Easy and Progressive Studies, Op. 100",
     "composer": "Burgmuller",
@@ -144,11 +149,12 @@
     "specification": "(play any two)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 329
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-3-18154",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Lyric Prelude",
     "composer": "Chagy",
@@ -161,50 +167,51 @@
     "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 119
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-3-18155",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Preludes Op. 28",
     "composer": "Chopin",
     "arranger": "",
     "publishers": [
-      "Multiple Publishers",
       "C.F. Peters Corporation",
       "Alfred Music Company, Inc."
     ],
-    "publisherText": "Multiple Publishers;C.F. Peters Corporation;Alfred Music Company, Inc.",
+    "publisherText": "C.F. Peters Corporation;Alfred Music Company, Inc.",
     "classLevel": 3,
     "specification": "(play 4, 7 or 20)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 120
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-3-18156",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Sonatinas, Op. 36, nos. 1-4",
     "composer": "Clementi",
     "arranger": "",
     "publishers": [
-      "Multiple Publishers",
       "Alfred Music Company, Inc.",
       "Carl Fischer, Inc.",
       "Any unabridged edition"
     ],
-    "publisherText": "Multiple Publishers;Alfred Music Company, Inc.;Carl Fischer, Inc.;Any unabridged edition",
+    "publisherText": "Alfred Music Company, Inc.;Carl Fischer, Inc.;Any unabridged edition",
     "classLevel": 3,
     "specification": "(play first OR last mvt of any sonatina)",
     "noMemoryRequired": false,
-    "publicDomainPdfUrl": "https://s9.imslp.org/files/imglnks/usimg/e/ef/IMSLP253585-PMLP410854-tiromusicusbeing00mazz_2.pdf",
-    "publicDomainSource": "IMSLP",
-    "id": 121
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-3-18157",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Five Little Dances Op. 24",
     "composer": "Creston",
@@ -217,68 +224,69 @@
     "specification": "(play two)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 122
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-3-18158",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Lyric Pieces for the Young",
     "composer": "Dello Joio",
     "arranger": "",
     "publishers": [
-      "Multiple Publishers",
       "Marks Music Corporation",
       "G. Schirmer, Inc."
     ],
-    "publisherText": "Multiple Publishers;Marks Music Corporation;G. Schirmer, Inc.",
+    "publisherText": "Marks Music Corporation;G. Schirmer, Inc.",
     "classLevel": 3,
     "specification": "(play two)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 123
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-3-18159",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Suite for the Young",
     "composer": "Dello Joio",
     "arranger": "",
     "publishers": [
-      "Multiple Publishers",
       "Marks Music Corporation",
       "G. Schirmer, Inc."
     ],
-    "publisherText": "Multiple Publishers;Marks Music Corporation;G. Schirmer, Inc.",
+    "publisherText": "Marks Music Corporation;G. Schirmer, Inc.",
     "classLevel": 3,
     "specification": "(play two)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 124
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-3-36090",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Lyric Preludes in Romantic Style",
     "composer": "Gillock",
     "arranger": "",
     "publishers": [
-      "Multiple Publishers",
       "Summy/Birchard",
       "Alfred Music Company, Inc."
     ],
-    "publisherText": "Multiple Publishers;Summy/Birchard;Alfred Music Company, Inc.",
+    "publisherText": "Summy/Birchard;Alfred Music Company, Inc.",
     "classLevel": 3,
     "specification": "(play two)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 194
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-3-36089",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "William Gillock Recital Collection",
     "composer": "Gillock",
@@ -291,11 +299,12 @@
     "specification": "(play two)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 193
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-3-18160",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Bell Ringing Op. 54 No. 6",
     "composer": "Grieg",
@@ -308,30 +317,31 @@
     "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 125
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-3-18161",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Lyric Pieces Op. 12",
     "composer": "Grieg",
     "arranger": "",
     "publishers": [
-      "Multiple Publishers",
       "C.F. Peters Corporation",
       "Edwin F. Kalmus"
     ],
-    "publisherText": "Multiple Publishers;C.F. Peters Corporation;Edwin F. Kalmus",
+    "publisherText": "C.F. Peters Corporation;Edwin F. Kalmus",
     "classLevel": 3,
     "specification": "(play one)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 126
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-3-18162",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Sailor Song Op. 68 No. 1",
     "composer": "Grieg",
@@ -344,11 +354,12 @@
     "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 127
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-3-39968",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Handel: The First Book for Pianists",
     "composer": "Handel",
@@ -361,11 +372,12 @@
     "specification": "(play any two)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 330
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-3-18163",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Six Sonatinas (Divertimenti, Hob. XVI: 4, 7, 8, 9, 10, 11)",
     "composer": "Haydn",
@@ -378,49 +390,50 @@
     "specification": "(play two mvts from one sonatina)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 128
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-3-18164",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "30 Pieces for Children",
     "composer": "Kabalevsky",
     "arranger": "",
     "publishers": [
-      "Multiple Publishers",
       "G. Schirmer, Inc.",
       "Any unabridged edition"
     ],
-    "publisherText": "Multiple Publishers;G. Schirmer, Inc.;Any unabridged edition",
+    "publisherText": "G. Schirmer, Inc.;Any unabridged edition",
     "classLevel": 3,
     "specification": "(play two)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 129
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-3-18165",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Adventures of Ivan",
     "composer": "Khatchaturian",
     "arranger": "",
     "publishers": [
-      "Multiple Publishers",
       "Music Corporation of America",
       "Any unabridged edition"
     ],
-    "publisherText": "Multiple Publishers;Music Corporation of America;Any unabridged edition",
+    "publisherText": "Music Corporation of America;Any unabridged edition",
     "classLevel": 3,
     "specification": "(play two)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 130
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-3-39969",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Sonatinas, Op. 55, Nos. 1 and 2",
     "composer": "Kuhlau",
@@ -433,49 +446,50 @@
     "specification": "(play first OR last mvt of any sonatina)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 331
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-3-18166",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Touches Blanches",
     "composer": "Milhaud",
     "arranger": "",
     "publishers": [
-      "Multiple Publishers",
       "Carl Fischer, Inc.",
       "Any unabridged edition"
     ],
-    "publisherText": "Multiple Publishers;Carl Fischer, Inc.;Any unabridged edition",
+    "publisherText": "Carl Fischer, Inc.;Any unabridged edition",
     "classLevel": 3,
     "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 131
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-3-18167",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Touches Noires",
     "composer": "Milhaud",
     "arranger": "",
     "publishers": [
-      "Multiple Publishers",
       "Carl Fischer, Inc.",
       "Any unabridged edition"
     ],
-    "publisherText": "Multiple Publishers;Carl Fischer, Inc.;Any unabridged edition",
+    "publisherText": "Carl Fischer, Inc.;Any unabridged edition",
     "classLevel": 3,
     "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 132
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-3-39970",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Eight Minuets, K. 315",
     "composer": "Mozart",
@@ -488,11 +502,12 @@
     "specification": "(play any two)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 332
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-3-18170",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "German Dances",
     "composer": "Mozart",
@@ -504,50 +519,51 @@
     "classLevel": 3,
     "specification": "(play two)",
     "noMemoryRequired": false,
-    "publicDomainPdfUrl": "https://s9.imslp.org/files/imglnks/usimg/2/22/IMSLP79171-PMLP55004-Mozart_Werke_Breitkopf_Serie_11_KV605.pdf",
-    "publicDomainSource": "IMSLP",
-    "id": 135
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-3-18168",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Notebook for Nannerl",
     "composer": "Mozart",
     "arranger": "",
     "publishers": [
-      "Multiple Publishers",
       "Schott Company",
       "Carl Fischer, Inc."
     ],
-    "publisherText": "Multiple Publishers;Schott Company;Carl Fischer, Inc.",
+    "publisherText": "Schott Company;Carl Fischer, Inc.",
     "classLevel": 3,
     "specification": "(play two)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 133
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-3-18169",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Notebook for Wolfgang",
     "composer": "Mozart",
     "arranger": "",
     "publishers": [
-      "Multiple Publishers",
       "Schott Company",
       "Any unabridged edition"
     ],
-    "publisherText": "Multiple Publishers;Schott Company;Any unabridged edition",
+    "publisherText": "Schott Company;Any unabridged edition",
     "classLevel": 3,
     "specification": "(play two)",
     "noMemoryRequired": false,
-    "publicDomainPdfUrl": "https://s9.imslp.org/files/imglnks/usimg/2/26/IMSLP124485-PMLP226804-Notebook_for_Wolfgang.pdf",
-    "publicDomainSource": "IMSLP",
-    "id": 134
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-3-39971",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Japanese Festival",
     "composer": "Nakada",
@@ -560,11 +576,12 @@
     "specification": "(play any two)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 333
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-3-18171",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Little Piano Book",
     "composer": "Persichetti",
@@ -577,11 +594,12 @@
     "specification": "(play two)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 136
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-3-18172",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Children's Festival",
     "composer": "Pinto",
@@ -593,12 +611,13 @@
     "classLevel": 3,
     "specification": "(play two)",
     "noMemoryRequired": false,
-    "publicDomainPdfUrl": "https://s9.imslp.org/files/imglnks/usimg/6/64/IMSLP781476-PMLP1237157-Pinto_Prelude_Children%27s_Festival_no_1.pdf",
-    "publicDomainSource": "IMSLP",
-    "id": 137
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-3-18173",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Scenes Infantas",
     "composer": "Pinto",
@@ -611,31 +630,32 @@
     "specification": "(play two)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 138
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-3-18174",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Grandmother's Tales Op. 31",
     "composer": "Prokofiev",
     "arranger": "",
     "publishers": [
-      "Multiple Publishers",
       "Boosey & Hawkes, Inc.",
       "Edwin F. Kalmus",
       "Music Corporation of America"
     ],
-    "publisherText": "Multiple Publishers;Boosey & Hawkes, Inc.;Edwin F. Kalmus;Music Corporation of America",
+    "publisherText": "Boosey & Hawkes, Inc.;Edwin F. Kalmus;Music Corporation of America",
     "classLevel": 3,
     "specification": "(play two)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 139
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-3-36091",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Pieces for Children, Op. 65",
     "composer": "Prokofiev",
@@ -648,11 +668,12 @@
     "specification": "(play two)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 195
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-3-39972",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Danse Orientale, Op. 2, No. 5",
     "composer": "Rebikov",
@@ -665,11 +686,12 @@
     "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 334
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-3-18175",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Silhouettes",
     "composer": "Rebikov",
@@ -681,69 +703,70 @@
     "classLevel": 3,
     "specification": "(play two)",
     "noMemoryRequired": false,
-    "publicDomainPdfUrl": "https://s9.imslp.org/files/imglnks/usimg/a/a0/IMSLP556321-SIBLEY1802.34628.441f-39087034961807color.pdf",
-    "publicDomainSource": "IMSLP",
-    "id": 140
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-3-18176",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Dances (Ecossaises, German Dances, L\u00e4ndler, Waltzes)",
     "composer": "Schubert",
     "arranger": "",
     "publishers": [
-      "Multiple Publishers",
       "Dover",
       "Henle Publishing"
     ],
-    "publisherText": "Multiple Publishers;Dover;Henle Publishing",
+    "publisherText": "Dover;Henle Publishing",
     "classLevel": 3,
     "specification": "(play two from the same set or opus no.)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 141
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-3-18177",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Album for the Young Op. 68",
     "composer": "Schumann",
     "arranger": "",
     "publishers": [
-      "Multiple Publishers",
       "Alfred Music Company, Inc.",
       "Any unabridged edition"
     ],
-    "publisherText": "Multiple Publishers;Alfred Music Company, Inc.;Any unabridged edition",
+    "publisherText": "Alfred Music Company, Inc.;Any unabridged edition",
     "classLevel": 3,
     "specification": "(play two)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 142
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-3-18178",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "American Kaleidoscope",
     "composer": "Siegmeister",
     "arranger": "",
     "publishers": [
-      "Multiple Publishers",
       "Sam Fox Publishing Company",
       "Alfred Music Company, Inc."
     ],
-    "publisherText": "Multiple Publishers;Sam Fox Publishing Company;Alfred Music Company, Inc.",
+    "publisherText": "Sam Fox Publishing Company;Alfred Music Company, Inc.",
     "classLevel": 3,
     "specification": "(play two contrasting pieces)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 143
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-3-18179",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Sketches in Color, Book 1",
     "composer": "Starer",
@@ -756,49 +779,50 @@
     "specification": "(play three)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 144
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-3-18180",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Pour les Enfants, Vol. 1-4",
     "composer": "Tansman",
     "arranger": "",
     "publishers": [
-      "Multiple Publishers",
       "Max Eschig",
       "Durand"
     ],
-    "publisherText": "Multiple Publishers;Max Eschig;Durand",
+    "publisherText": "Max Eschig;Durand",
     "classLevel": 3,
     "specification": "(play three)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 145
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-3-18181",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Album for the Young Op. 39",
     "composer": "Tchaikovsky",
     "arranger": "",
     "publishers": [
-      "Multiple Publishers",
       "Alfred Music Company, Inc.",
       "Any unabridged edition"
     ],
-    "publisherText": "Multiple Publishers;Alfred Music Company, Inc.;Any unabridged edition",
+    "publisherText": "Alfred Music Company, Inc.;Any unabridged edition",
     "classLevel": 3,
     "specification": "(play two)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 146
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-3-18182",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Preludes, Vol. 1",
     "composer": "Vandall",
@@ -811,37 +835,37 @@
     "specification": "(play # 1 & 6)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 147
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-2-18089",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Little Preludes, BWV 924-931, 933-943",
     "composer": "Bach",
     "arranger": "",
     "publishers": [
-      "Multiple Publishers",
       "C.F. Peters Corporation",
       "Alfred Music Company, Inc.",
       "Any unabridged edition"
     ],
-    "publisherText": "Multiple Publishers;C.F. Peters Corporation;Alfred Music Company, Inc.;Any unabridged edition",
+    "publisherText": "C.F. Peters Corporation;Alfred Music Company, Inc.;Any unabridged edition",
     "classLevel": 2,
     "specification": "(play two)",
     "noMemoryRequired": false,
-    "publicDomainPdfUrl": "https://s9.imslp.org/files/imglnks/usimg/9/9c/IMSLP02433-Liszt-BachPreludesOrgan2.pdf",
-    "publicDomainSource": "IMSLP",
-    "id": 59
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-2-18090",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Two-Part Inventions, BWV 772-786",
     "composer": "Bach",
     "arranger": "",
     "publishers": [
-      "Multiple Publishers",
       "Alfred Music Company, Inc.",
       "Carl Fischer, Inc.",
       "C.F. Peters Corporation",
@@ -849,16 +873,17 @@
       "Barenreiter/Verlag",
       "Foreign Music Distributors"
     ],
-    "publisherText": "Multiple Publishers;Alfred Music Company, Inc.;Carl Fischer, Inc.;C.F. Peters Corporation;Edwin F. Kalmus;Barenreiter/Verlag;Foreign Music Distributors",
+    "publisherText": "Alfred Music Company, Inc.;Carl Fischer, Inc.;C.F. Peters Corporation;Edwin F. Kalmus;Barenreiter/Verlag;Foreign Music Distributors",
     "classLevel": 2,
     "specification": "(play one)",
     "noMemoryRequired": false,
-    "publicDomainPdfUrl": "https://s9.imslp.org/files/imglnks/usimg/e/e7/IMSLP754980-PMLP1198172-6_Re-inventions_scores.pdf",
-    "publicDomainSource": "IMSLP",
-    "id": 60
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-2-18092",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Bear Dance (from Ten Easy Pieces)",
     "composer": "Bartok",
@@ -871,11 +896,12 @@
     "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 62
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-2-18093",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Fifteen Hungarian Peasant Songs",
     "composer": "Bartok",
@@ -888,11 +914,12 @@
     "specification": "(play two)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 63
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-2-18094",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Mikrokosmos, Vol. IV",
     "composer": "Bartok",
@@ -905,11 +932,12 @@
     "specification": "(play two)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 64
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-2-18095",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Rumanian Christmas Songs",
     "composer": "Bartok",
@@ -922,11 +950,12 @@
     "specification": "(play two)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 65
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-2-18096",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Rumanian Folk Dances",
     "composer": "Bartok",
@@ -939,11 +968,12 @@
     "specification": "(play two)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 66
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-2-18091",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Sonatina - Mvt. 1 (Bagpipe)",
     "composer": "Bartok",
@@ -956,31 +986,32 @@
     "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 61
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-2-39939",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Children\u2019s Album, Op. 36",
     "composer": "Beach",
     "arranger": "",
     "publishers": [
-      "Multiple Publishers",
       "Clifton Edition Ltd.",
       "Schott Company",
       "Hal Leonard Music, Inc."
     ],
-    "publisherText": "Multiple Publishers;Clifton Edition Ltd.;Schott Company;Hal Leonard Music, Inc.",
+    "publisherText": "Clifton Edition Ltd.;Schott Company;Hal Leonard Music, Inc.",
     "classLevel": 2,
     "specification": "(play any two)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 301
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-2-18097",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Bagatelles Op. 33",
     "composer": "Beethoven",
@@ -992,32 +1023,33 @@
     "classLevel": 2,
     "specification": "(play one)",
     "noMemoryRequired": false,
-    "publicDomainPdfUrl": "https://s9.imslp.org/files/imglnks/usimg/d/db/IMSLP113417-PMLP03340-Beethoven_Bagatellen_Op_33_first_edition_Bureau_des_Arts_et_d_Industrie_171.pdf",
-    "publicDomainSource": "IMSLP",
-    "id": 67
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-2-18098",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Sonatas Op. 49, No. 1 and No. 2",
     "composer": "Beethoven",
     "arranger": "",
     "publishers": [
-      "Multiple Publishers",
       "C.F. Peters Corporation",
       "Edwin F. Kalmus",
       "Any unabridged edition"
     ],
-    "publisherText": "Multiple Publishers;C.F. Peters Corporation;Edwin F. Kalmus;Any unabridged edition",
+    "publisherText": "C.F. Peters Corporation;Edwin F. Kalmus;Any unabridged edition",
     "classLevel": 2,
     "specification": "(play one mvt of either Sonata)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 68
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-2-39940",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Variations on Nel cor pi\u00f9 non mi sento, WoO 70",
     "composer": "Beethoven",
@@ -1030,11 +1062,12 @@
     "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 302
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-2-18099",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Variations on a Swiss Song",
     "composer": "Beethoven",
@@ -1046,12 +1079,13 @@
     "classLevel": 2,
     "specification": "",
     "noMemoryRequired": false,
-    "publicDomainPdfUrl": "https://s9.imslp.org/files/imglnks/usimg/3/3c/IMSLP400441-PMLP12251-SLUB_411079530.pdf",
-    "publicDomainSource": "IMSLP",
-    "id": 69
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-2-18100",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Waltzes, Op. 39 (simplified version by composer)",
     "composer": "Brahms",
@@ -1064,11 +1098,12 @@
     "specification": "(play two)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 70
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-2-39941",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Mazurka in B-flat major, Op. 7, no. 1",
     "composer": "Chopin",
@@ -1081,11 +1116,12 @@
     "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 303
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-2-39942",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Mazurka in G minor, Op. 67, no. 2",
     "composer": "Chopin",
@@ -1098,32 +1134,33 @@
     "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 304
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-2-18102",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Mazurkas, Op. 68, No. 2 or 3",
     "composer": "Chopin",
     "arranger": "",
     "publishers": [
-      "Multiple Publishers",
       "C.F. Peters Corporation",
       "Chopin Institute Edition",
       "Salabert, Inc.",
       "Any unabridged edition"
     ],
-    "publisherText": "Multiple Publishers;C.F. Peters Corporation;Chopin Institute Edition;Salabert, Inc.;Any unabridged edition",
+    "publisherText": "C.F. Peters Corporation;Chopin Institute Edition;Salabert, Inc.;Any unabridged edition",
     "classLevel": 2,
     "specification": "(play one)",
     "noMemoryRequired": false,
-    "publicDomainPdfUrl": "https://s9.imslp.org/files/imglnks/usimg/0/03/IMSLP399497-PMLP02277-BnF_btv1b52500528n.pdf",
-    "publicDomainSource": "IMSLP",
-    "id": 71
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-2-39943",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Polonaise in G minor, Op. post.",
     "composer": "Chopin",
@@ -1136,31 +1173,32 @@
     "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 305
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-2-18105",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Preludes, Op. 28, nos. 6 (B minor), 15 (D-flat major), 22 (G minor)",
     "composer": "Chopin",
     "arranger": "",
     "publishers": [
-      "Multiple Publishers",
       "Alfred Music Company, Inc.",
       "C.F. Peters Corporation",
       "Any unabridged edition"
     ],
-    "publisherText": "Multiple Publishers;Alfred Music Company, Inc.;C.F. Peters Corporation;Any unabridged edition",
+    "publisherText": "Alfred Music Company, Inc.;C.F. Peters Corporation;Any unabridged edition",
     "classLevel": 2,
     "specification": "(play two preludes)",
     "noMemoryRequired": false,
-    "publicDomainPdfUrl": "https://s9.imslp.org/files/imglnks/usimg/5/59/IMSLP135536-PMLP45768-FChopin_Polonaise%2C_B.13_BH13.pdf",
-    "publicDomainSource": "IMSLP",
-    "id": 72
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-2-39944",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Waltz in A minor, Op. post. BI 150",
     "composer": "Chopin",
@@ -1173,30 +1211,31 @@
     "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 306
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-2-18106",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Sonatina Op. 36 No. 6",
     "composer": "Clementi",
     "arranger": "",
     "publishers": [
-      "Multiple Publishers",
       "Alfred Music Company, Inc.",
       "Any unabridged edition"
     ],
-    "publisherText": "Multiple Publishers;Alfred Music Company, Inc.;Any unabridged edition",
+    "publisherText": "Alfred Music Company, Inc.;Any unabridged edition",
     "classLevel": 2,
     "specification": "(play both mvts)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 73
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-2-39945",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Sonatina in G major, Op. 36, no. 5",
     "composer": "Clementi",
@@ -1209,11 +1248,12 @@
     "specification": "(play two mvts)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 307
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-2-39946",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Sonatinas Op. 37, nos. 1, 2, and 3",
     "composer": "Clementi",
@@ -1226,11 +1266,12 @@
     "specification": "(play one mvt of any sonatina)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 308
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-2-39947",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Sonatinas Op. 38, nos. 1, 2, and 3",
     "composer": "Clementi",
@@ -1243,11 +1284,12 @@
     "specification": "(play one mvt of any sonatina)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 309
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-2-18107",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Down a Country Lane",
     "composer": "Copland",
@@ -1260,49 +1302,50 @@
     "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 74
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-2-18108",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "The Harper Minstrel Sings",
     "composer": "Cowell",
     "arranger": "",
     "publishers": [
-      "Multiple Publishers",
       "Associated Music Publishers Inc.",
       "Carl Fischer, Inc. [In Masters Of Our Day, V. 1]"
     ],
-    "publisherText": "Multiple Publishers;Associated Music Publishers Inc.;Carl Fischer, Inc. [In Masters Of Our Day, V. 1]",
+    "publisherText": "Associated Music Publishers Inc.;Carl Fischer, Inc. [In Masters Of Our Day, V. 1]",
     "classLevel": 2,
     "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 75
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-2-18109",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "The Irishman Dances",
     "composer": "Cowell",
     "arranger": "",
     "publishers": [
-      "Multiple Publishers",
       "Associated Music Publishers Inc.",
       "Carl Fischer, Inc. [In Masters Of Our Day, V. 1]"
     ],
-    "publisherText": "Multiple Publishers;Associated Music Publishers Inc.;Carl Fischer, Inc. [In Masters Of Our Day, V. 1]",
+    "publisherText": "Associated Music Publishers Inc.;Carl Fischer, Inc. [In Masters Of Our Day, V. 1]",
     "classLevel": 2,
     "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 76
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-2-18110",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "The Snows of Fugi-Yama",
     "composer": "Cowell",
@@ -1315,11 +1358,12 @@
     "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 77
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-2-18111",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Pastorale",
     "composer": "Crumb",
@@ -1332,30 +1376,31 @@
     "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 78
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-2-18112",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Bruyeres",
     "composer": "Debussy",
     "arranger": "",
     "publishers": [
-      "Multiple Publishers",
       "Durand [Preludes Book II]",
       "Any unabridged edition"
     ],
-    "publisherText": "Multiple Publishers;Durand [Preludes Book II];Any unabridged edition",
+    "publisherText": "Durand [Preludes Book II];Any unabridged edition",
     "classLevel": 2,
     "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 79
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-2-39948",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Children\u2019s Corner Suite",
     "composer": "Debussy",
@@ -1368,11 +1413,12 @@
     "specification": "(play No. 2-Children\u2019s Corner Suite OR No. 5-The Little Shepherd)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 310
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-2-39949",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Mazurka",
     "composer": "Debussy",
@@ -1385,30 +1431,31 @@
     "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 311
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-2-18114",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Reverie",
     "composer": "Debussy",
     "arranger": "",
     "publishers": [
-      "Multiple Publishers",
       "Durand",
       "Any unabridged edition"
     ],
-    "publisherText": "Multiple Publishers;Durand;Any unabridged edition",
+    "publisherText": "Durand;Any unabridged edition",
     "classLevel": 2,
     "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 81
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-2-18115",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Nocturne in B-flat major, H. 37",
     "composer": "Field",
@@ -1420,12 +1467,13 @@
     "classLevel": 2,
     "specification": "",
     "noMemoryRequired": false,
-    "publicDomainPdfUrl": "https://s9.imslp.org/files/imglnks/usimg/0/0a/IMSLP760399-PMLP565130-D2496-14.pdf",
-    "publicDomainSource": "IMSLP",
-    "id": 82
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-2-18116",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Twelve Spanish Dances, Volume I",
     "composer": "Granados",
@@ -1438,11 +1486,12 @@
     "specification": "(play one)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 83
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-2-39951",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "French Serenade, Op. 62, no. 3",
     "composer": "Grieg",
@@ -1455,11 +1504,12 @@
     "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 313
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-2-39950",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Homesickness, Op. 57, no. 6",
     "composer": "Grieg",
@@ -1472,11 +1522,12 @@
     "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 312
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-2-18118",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Lyrical Pieces Op. 38 and Op. 43",
     "composer": "Grieg",
@@ -1489,11 +1540,12 @@
     "specification": "(play one)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 84
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-2-18119",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Nocturne Op. 54 No. 4",
     "composer": "Grieg",
@@ -1506,11 +1558,12 @@
     "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 85
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-2-39952",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Sm\u00e5trold (Puck), Op. 71, no. 3",
     "composer": "Grieg",
@@ -1523,11 +1576,12 @@
     "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 314
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-2-39954",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Suite in E major, HWV 430",
     "composer": "Handel",
@@ -1540,11 +1594,12 @@
     "specification": "(play The Harmonious Blacksmith)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 316
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-2-39953",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Suite in G minor, HWV 432",
     "composer": "Handel",
@@ -1557,30 +1612,31 @@
     "specification": "(play Passacaille)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 315
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-2-18120",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Enchantment",
     "composer": "Hanson",
     "arranger": "",
     "publishers": [
-      "Multiple Publishers",
       "Carl Fischer, Inc.",
       "Any unabridged edition"
     ],
-    "publisherText": "Multiple Publishers;Carl Fischer, Inc.;Any unabridged edition",
+    "publisherText": "Carl Fischer, Inc.;Any unabridged edition",
     "classLevel": 2,
     "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 86
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-2-18121",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Mystic Flute",
     "composer": "Hovhaness",
@@ -1593,11 +1649,12 @@
     "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 87
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-2-18122",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Twelve Armenian Folk Songs",
     "composer": "Hovhaness",
@@ -1610,11 +1667,12 @@
     "specification": "(play two)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 88
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-2-18123",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "The Giddy Girl",
     "composer": "Ibert",
@@ -1627,11 +1685,12 @@
     "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 89
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-2-18124",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "The Little White Donkey",
     "composer": "Ibert",
@@ -1644,11 +1703,12 @@
     "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 90
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-2-39955",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Four Rondos, Op. 60",
     "composer": "Kabalevsky",
@@ -1661,49 +1721,50 @@
     "specification": "(play one)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 317
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-2-18125",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Sonatina in C Op. 13 No. 1",
     "composer": "Kabalevsky",
     "arranger": "",
     "publishers": [
-      "Multiple Publishers",
       "Music Corporation of America",
       "Any unabridged edition"
     ],
-    "publisherText": "Multiple Publishers;Music Corporation of America;Any unabridged edition",
+    "publisherText": "Music Corporation of America;Any unabridged edition",
     "classLevel": 2,
     "specification": "(play two mvts)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 91
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-2-18126",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Variations in D major, Op. 40, no. 1",
     "composer": "Kabalevsky",
     "arranger": "",
     "publishers": [
-      "Multiple Publishers",
       "Music Corporation of America",
       "Any unabridged edition"
     ],
-    "publisherText": "Multiple Publishers;Music Corporation of America;Any unabridged edition",
+    "publisherText": "Music Corporation of America;Any unabridged edition",
     "classLevel": 2,
     "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 92
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-2-39956",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Variations in F major, Op. 51, no. 1",
     "composer": "Kabalevsky",
@@ -1716,11 +1777,12 @@
     "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 318
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-2-18127",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Three Miniatures",
     "composer": "Korte",
@@ -1733,11 +1795,12 @@
     "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 93
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-2-39958",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Sonatina in A minor, Op. 88, no. 3",
     "composer": "Kuhlau",
@@ -1750,11 +1813,12 @@
     "specification": "(play first OR last mvt)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 320
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-2-39957",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Sonatinas, Op. 20, nos. 1, 2, 3",
     "composer": "Kuhlau",
@@ -1767,11 +1831,12 @@
     "specification": "(play first OR last mvt of any sonatina)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 319
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-2-18128",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "La Comparsa (Danzas Afro-Cubanas, no. 6)",
     "composer": "Lecuona",
@@ -1784,11 +1849,12 @@
     "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 94
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-2-39959",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Consolations",
     "composer": "Liszt",
@@ -1801,11 +1867,12 @@
     "specification": "(play one)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 321
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-2-39960",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Sea Pieces, Op. 55",
     "composer": "MacDowell",
@@ -1818,11 +1885,12 @@
     "specification": "(play any two)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 322
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-2-18129",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Woodland Sketches Op. 51",
     "composer": "MacDowell",
@@ -1835,11 +1903,12 @@
     "specification": "(play two)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 95
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-2-18130",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Song Without Words",
     "composer": "Mendelssohn",
@@ -1851,31 +1920,32 @@
     "classLevel": 2,
     "specification": "(play one EXCEPT Op. 19-No.5; Op. 30-No.4; Op. 38-No.6; Op. 67-No.4)",
     "noMemoryRequired": false,
-    "publicDomainPdfUrl": "https://s9.imslp.org/files/imglnks/usimg/a/ac/IMSLP52129-PMLP71319-Mendelssohn_Op_109.pdf",
-    "publicDomainSource": "IMSLP",
-    "id": 96
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-2-18131",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Poemetti: 12 Pieces for Children",
     "composer": "Menotti",
     "arranger": "",
     "publishers": [
-      "Multiple Publishers",
       "Ricordi & Company, Inc.",
       "Any unabridged edition"
     ],
-    "publisherText": "Multiple Publishers;Ricordi & Company, Inc.;Any unabridged edition",
+    "publisherText": "Ricordi & Company, Inc.;Any unabridged edition",
     "classLevel": 2,
     "specification": "(play two)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 97
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-2-18132",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Scenes d' Enfants",
     "composer": "Mompou",
@@ -1888,11 +1958,12 @@
     "specification": "(play two)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 98
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-2-39961",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Fantasy in D minor, K. 397",
     "composer": "Mozart",
@@ -1905,31 +1976,32 @@
     "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 323
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-2-18133",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Six Viennese Sonatinas, K. 439b",
     "composer": "Mozart",
     "arranger": "",
     "publishers": [
-      "Multiple Publishers",
       "International Music Company",
       "Schott Company",
       "Any unabridged edition"
     ],
-    "publisherText": "Multiple Publishers;International Music Company;Schott Company;Any unabridged edition",
+    "publisherText": "International Music Company;Schott Company;Any unabridged edition",
     "classLevel": 2,
     "specification": "(play two mvts from one sonatina)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 99
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-2-18134",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Diversions Op. 23",
     "composer": "Muczynski",
@@ -1942,11 +2014,12 @@
     "specification": "(play two)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 100
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-2-18135",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Six Preludes Op. 6",
     "composer": "Muczynski",
@@ -1959,11 +2032,12 @@
     "specification": "(play two)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 101
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-2-18136",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Piano Sonatinas: Op. 38, 45, 47, 63, 64, 65",
     "composer": "Persichetti",
@@ -1976,11 +2050,12 @@
     "specification": "(play all of one sonatina)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 102
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-2-18137",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Villageoises",
     "composer": "Poulenc",
@@ -1992,12 +2067,13 @@
     "classLevel": 2,
     "specification": "(play two)",
     "noMemoryRequired": false,
-    "publicDomainPdfUrl": "https://s9.imslp.org/files/imglnks/usimg/a/ae/IMSLP374873-PMLP499648-Poulenc_Villageoises_Covers.pdf",
-    "publicDomainSource": "IMSLP",
-    "id": 103
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-2-39962",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Ten Negro Spirituals",
     "composer": "Price",
@@ -2010,11 +2086,12 @@
     "specification": "(play any two)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 324
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-2-39964",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Gnossiennes",
     "composer": "Satie",
@@ -2027,30 +2104,31 @@
     "specification": "(play any two)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 326
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-2-18138",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Trois Gymnop\u00e9dies",
     "composer": "Satie",
     "arranger": "",
     "publishers": [
-      "Multiple Publishers",
       "Edwin F. Kalmus",
       "Any unabridged edition"
     ],
-    "publisherText": "Multiple Publishers;Edwin F. Kalmus;Any unabridged edition",
+    "publisherText": "Edwin F. Kalmus;Any unabridged edition",
     "classLevel": 2,
     "specification": "(play two)",
     "noMemoryRequired": false,
-    "publicDomainPdfUrl": "https://s9.imslp.org/files/imglnks/usimg/c/ce/IMSLP965445-PMLP4215-1e-re_gymnope-die_Erik_Satie_-...-Satie_Erik_btv1b520000770.pdf",
-    "publicDomainSource": "IMSLP",
-    "id": 104
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-2-39965",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Two Scherzi, D. 593",
     "composer": "Schubert",
@@ -2063,70 +2141,71 @@
     "specification": "(play one)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 327
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-2-18140",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Scenes of Childhood (Kinderszenen), Op. 15",
     "composer": "Schumann",
     "arranger": "",
     "publishers": [
-      "Multiple Publishers",
       "Carl Fischer, Inc.",
       "Alfred Music Company, Inc.",
       "Any unabridged edition"
     ],
-    "publisherText": "Multiple Publishers;Carl Fischer, Inc.;Alfred Music Company, Inc.;Any unabridged edition",
+    "publisherText": "Carl Fischer, Inc.;Alfred Music Company, Inc.;Any unabridged edition",
     "classLevel": 2,
     "specification": "(play two)",
     "noMemoryRequired": false,
-    "publicDomainPdfUrl": "https://s9.imslp.org/files/imglnks/usimg/f/fe/IMSLP03060-Schumann-Op015Brt6016.pdf",
-    "publicDomainSource": "IMSLP",
-    "id": 105
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-2-18141",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Lotus Land, Op. 47, no. 1",
     "composer": "Scott",
     "arranger": "",
     "publishers": [
-      "Multiple Publishers",
       "Carl Fischer, Inc.",
       "Schott Company"
     ],
-    "publisherText": "Multiple Publishers;Carl Fischer, Inc.;Schott Company",
+    "publisherText": "Carl Fischer, Inc.;Schott Company",
     "classLevel": 2,
     "specification": "",
     "noMemoryRequired": false,
-    "publicDomainPdfUrl": "https://s9.imslp.org/files/imglnks/usimg/e/e6/IMSLP945546-PMLP393311-1Lotus_-_Full_Score.pdf",
-    "publicDomainSource": "IMSLP",
-    "id": 106
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-2-18142",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Three Fantastic Dances, Op. 5",
     "composer": "Shostakovich",
     "arranger": "",
     "publishers": [
-      "Multiple Publishers",
       "Music Corporation of America",
       "Boosey & Hawkes, Inc.",
       "G. Schirmer, Inc."
     ],
-    "publisherText": "Multiple Publishers;Music Corporation of America;Boosey & Hawkes, Inc.;G. Schirmer, Inc.",
+    "publisherText": "Music Corporation of America;Boosey & Hawkes, Inc.;G. Schirmer, Inc.",
     "classLevel": 2,
     "specification": "(play two dances)",
     "noMemoryRequired": false,
-    "publicDomainPdfUrl": "https://s9.imslp.org/files/imglnks/usimg/f/fa/IMSLP927191-PMLP1313228-PMLUS05994-Fantastic.mid.pdf",
-    "publicDomainSource": "IMSLP",
-    "id": 107
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-2-18143",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Sketches in Color",
     "composer": "Starer",
@@ -2139,30 +2218,31 @@
     "specification": "(play two sketches)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 108
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-2-18144",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Bagatelles, Op. 5",
     "composer": "Tcherepnin",
     "arranger": "",
     "publishers": [
-      "Multiple Publishers",
       "G. Schirmer, Inc.",
       "Any unabridged edition"
     ],
-    "publisherText": "Multiple Publishers;G. Schirmer, Inc.;Any unabridged edition",
+    "publisherText": "G. Schirmer, Inc.;Any unabridged edition",
     "classLevel": 2,
     "specification": "(play one)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 109
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-2-18145",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Sacro Monte (from Danses Gitanes Op. 55 No. 5)",
     "composer": "Turina",
@@ -2175,11 +2255,12 @@
     "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 110
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-2-18146",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "The Clowns (The Circus, Op. 68, no. 5)",
     "composer": "Turina",
@@ -2192,11 +2273,12 @@
     "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 111
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-2-39966",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "O Polichinello (A Pr\u00f3le do B\u00e9b\u00e9, no. 1:7)",
     "composer": "Villa-Lobos",
@@ -2209,11 +2291,12 @@
     "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 328
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-2-39963",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Piano Literature, Vol. 4",
     "composer": "various",
@@ -2226,68 +2309,69 @@
     "specification": "(play Valse m\u00e9lancolique, Op. 2, no. 3)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 325
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-39823",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Chants d\u2019Espagne, Op. 232",
     "composer": "Albeniz",
     "arranger": "",
     "publishers": [
-      "Multiple Publishers",
       "Henle Publishing",
       "Union Musical Ediciones"
     ],
-    "publisherText": "Multiple Publishers;Henle Publishing;Union Musical Ediciones",
+    "publisherText": "Henle Publishing;Union Musical Ediciones",
     "classLevel": 1,
     "specification": "(play one mvt)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 5
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-39822",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Suite Espa\u00f1ola, Op. 47",
     "composer": "Albeniz",
     "arranger": "",
     "publishers": [
-      "Multiple Publishers",
       "International Music Company",
       "Union Musical Ediciones"
     ],
-    "publisherText": "Multiple Publishers;International Music Company;Union Musical Ediciones",
+    "publisherText": "International Music Company;Union Musical Ediciones",
     "classLevel": 1,
     "specification": "(play one mvt)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 4
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-18026",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Capriccio in Bb Major",
     "composer": "Bach",
     "arranger": "",
     "publishers": [
-      "Multiple Publishers",
       "Edwin F. Kalmus",
       "C.F. Peters Corporation"
     ],
-    "publisherText": "Multiple Publishers;Edwin F. Kalmus;C.F. Peters Corporation",
+    "publisherText": "Edwin F. Kalmus;C.F. Peters Corporation",
     "classLevel": 1,
     "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 6
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-39824",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Capriccio on the Departure of a Beloved Brother, BWV 992",
     "composer": "Bach",
@@ -2300,74 +2384,75 @@
     "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 1
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-18027",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Fantasy in c minor, BWV 906",
     "composer": "Bach",
     "arranger": "",
     "publishers": [
-      "Multiple Publishers",
       "C.F. Peters Corporation",
       "G. Henle Verlag/USA, Inc.",
       "Edwin F. Kalmus",
       "Any unabridged edition"
     ],
-    "publisherText": "Multiple Publishers;C.F. Peters Corporation;G. Henle Verlag/USA, Inc.;Edwin F. Kalmus;Any unabridged edition",
+    "publisherText": "C.F. Peters Corporation;G. Henle Verlag/USA, Inc.;Edwin F. Kalmus;Any unabridged edition",
     "classLevel": 1,
     "specification": "",
     "noMemoryRequired": false,
-    "publicDomainPdfUrl": "https://s9.imslp.org/files/imglnks/usimg/1/1d/IMSLP192396-WIMA.18f7-BachCPE-FFc.pdf",
-    "publicDomainSource": "IMSLP",
-    "id": 7
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-18029",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Italian Concerto, BWV 971",
     "composer": "Bach",
     "arranger": "",
     "publishers": [
-      "Multiple Publishers",
       "Alfred Music Company, Inc.",
       "Barenreiter/Verlag",
       "Foreign Music Distributors",
       "Any unabridged edition"
     ],
-    "publisherText": "Multiple Publishers;Alfred Music Company, Inc.;Barenreiter/Verlag;Foreign Music Distributors;Any unabridged edition",
+    "publisherText": "Alfred Music Company, Inc.;Barenreiter/Verlag;Foreign Music Distributors;Any unabridged edition",
     "classLevel": 1,
     "specification": "(play first or last mvt) NMR:(play first and last mvts)",
     "noMemoryRequired": true,
-    "publicDomainPdfUrl": "https://s9.imslp.org/files/imglnks/usimg/7/70/IMSLP860260-PMLP2954-Bach_-_Zweyter_Theil_der_Clavier_Ubung_-SBB-BWV_971.pdf",
-    "publicDomainSource": "IMSLP",
-    "id": 9
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-18028",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Sinfonias (Three-Part Inventions) BWV 787-801",
     "composer": "Bach",
     "arranger": "",
     "publishers": [
-      "Multiple Publishers",
       "Alfred Music Company, Inc.",
       "Barenreiter/Verlag",
       "Foreign Music Distributors",
       "Any unabridged edition"
     ],
-    "publisherText": "Multiple Publishers;Alfred Music Company, Inc.;Barenreiter/Verlag;Foreign Music Distributors;Any unabridged edition",
+    "publisherText": "Alfred Music Company, Inc.;Barenreiter/Verlag;Foreign Music Distributors;Any unabridged edition",
     "classLevel": 1,
     "specification": "(play two 3 part inventions)",
     "noMemoryRequired": false,
-    "publicDomainPdfUrl": "https://s9.imslp.org/files/imglnks/usimg/6/69/IMSLP861542-PMLP03267-Bach-manuscript-P-610-Inventions.pdf",
-    "publicDomainSource": "IMSLP",
-    "id": 8
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-36057",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Six English Suites, BWV 806-811",
     "composer": "Bach",
@@ -2380,75 +2465,76 @@
     "specification": "(play any Prelude OR two other contrasting mvts from the same suite)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 168
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-18030",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Six French Suites, BWV 812-817",
     "composer": "Bach",
     "arranger": "",
     "publishers": [
-      "Multiple Publishers",
       "C.F. Peters Corporation",
       "Edwin F. Kalmus",
       "Barenreiter/Verlag",
       "Foreign Music Distributors",
       "Any unabridged edition"
     ],
-    "publisherText": "Multiple Publishers;C.F. Peters Corporation;Edwin F. Kalmus;Barenreiter/Verlag;Foreign Music Distributors;Any unabridged edition",
+    "publisherText": "C.F. Peters Corporation;Edwin F. Kalmus;Barenreiter/Verlag;Foreign Music Distributors;Any unabridged edition",
     "classLevel": 1,
     "specification": "(play two contrasting mvts from one suite)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 10
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-18031",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Six Partitas, BWV 825-830",
     "composer": "Bach",
     "arranger": "",
     "publishers": [
-      "Multiple Publishers",
       "C.F. Peters Corporation",
       "Edwin F. Kalmus",
       "Barenreiter/Verlag",
       "Foreign Music Distributors",
       "Any unabridged edition"
     ],
-    "publisherText": "Multiple Publishers;C.F. Peters Corporation;Edwin F. Kalmus;Barenreiter/Verlag;Foreign Music Distributors;Any unabridged edition",
+    "publisherText": "C.F. Peters Corporation;Edwin F. Kalmus;Barenreiter/Verlag;Foreign Music Distributors;Any unabridged edition",
     "classLevel": 1,
     "specification": "(play two contrasting mvts from one partita)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 11
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-18032",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "The Well-Tempered Clavier, Vol. I & II, BWV 846-869, 870-893",
     "composer": "Bach",
     "arranger": "",
     "publishers": [
-      "Multiple Publishers",
       "Belwin, Inc",
       "Edwin F. Kalmus",
       "Any unabridged edition"
     ],
-    "publisherText": "Multiple Publishers;Belwin, Inc;Edwin F. Kalmus;Any unabridged edition",
+    "publisherText": "Belwin, Inc;Edwin F. Kalmus;Any unabridged edition",
     "classLevel": 1,
     "specification": "(play one Prelude & Fugue) (a cappella)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 12
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-18033",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Excursions",
     "composer": "Barber",
@@ -2461,11 +2547,12 @@
     "specification": "(play one)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 13
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-18034",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Nocturne",
     "composer": "Barber",
@@ -2478,87 +2565,88 @@
     "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 14
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-18035",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Allegro Barbaro",
     "composer": "Bartok",
     "arranger": "",
     "publishers": [
-      "Multiple Publishers",
       "Boosey & Hawkes, Inc.",
       "Any unabridged edition"
     ],
-    "publisherText": "Multiple Publishers;Boosey & Hawkes, Inc.;Any unabridged edition",
+    "publisherText": "Boosey & Hawkes, Inc.;Any unabridged edition",
     "classLevel": 1,
     "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 15
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-18036",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Mikrokosmos, Vols. V and VI",
     "composer": "Bartok",
     "arranger": "",
     "publishers": [
-      "Multiple Publishers",
       "Boosey & Hawkes, Inc.",
       "Any unabridged edition"
     ],
-    "publisherText": "Multiple Publishers;Boosey & Hawkes, Inc.;Any unabridged edition",
+    "publisherText": "Boosey & Hawkes, Inc.;Any unabridged edition",
     "classLevel": 1,
     "specification": "(play two from one vol.)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 16
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-39825",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Sonata (1926)",
     "composer": "Bartok",
     "arranger": "",
     "publishers": [
-      "Multiple Publishers",
       "Boosey & Hawkes, Inc.",
       "Universal Music Company"
     ],
-    "publisherText": "Multiple Publishers;Boosey & Hawkes, Inc.;Universal Music Company",
+    "publisherText": "Boosey & Hawkes, Inc.;Universal Music Company",
     "classLevel": 1,
     "specification": "(play 1st OR 3rd mvt)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 2
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-18037",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Suite Op. 14",
     "composer": "Bartok",
     "arranger": "",
     "publishers": [
-      "Multiple Publishers",
       "Boosey & Hawkes, Inc.",
       "Any unabridged edition"
     ],
-    "publisherText": "Multiple Publishers;Boosey & Hawkes, Inc.;Any unabridged edition",
+    "publisherText": "Boosey & Hawkes, Inc.;Any unabridged edition",
     "classLevel": 1,
     "specification": "(play two mvts)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 17
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-39826",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Four Sketches, Op. 15",
     "composer": "Beach",
@@ -2570,12 +2658,13 @@
     "classLevel": 1,
     "specification": "(play one)",
     "noMemoryRequired": false,
-    "publicDomainPdfUrl": "https://s9.imslp.org/files/imglnks/usimg/b/bd/IMSLP08545-Beach_-_Op.15_-_Four_Sketches_in_Autumn.pdf",
-    "publicDomainSource": "IMSLP",
-    "id": 3
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-39827",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Hermit Thrush at Morn, Op. 92, No. 2",
     "composer": "Beach",
@@ -2588,11 +2677,12 @@
     "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 152
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-39828",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Scottish Legend, Op. 54",
     "composer": "Beach",
@@ -2605,11 +2695,12 @@
     "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 150
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-39829",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Alla ingharese, Op. 129 (Rage Over a Lost Penny)",
     "composer": "Beethoven",
@@ -2622,11 +2713,12 @@
     "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 154
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-39831",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Bagatelles, Op. 126",
     "composer": "Beethoven",
@@ -2638,12 +2730,13 @@
     "classLevel": 1,
     "specification": "(play any two)",
     "noMemoryRequired": false,
-    "publicDomainPdfUrl": "https://s9.imslp.org/files/imglnks/usimg/5/5b/IMSLP51350-PMLP03342-Op.126_Manuscript.pdf",
-    "publicDomainSource": "IMSLP",
-    "id": 148
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-39832",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Rondos, Op. 51",
     "composer": "Beethoven",
@@ -2655,12 +2748,13 @@
     "classLevel": 1,
     "specification": "(play one rondo)",
     "noMemoryRequired": false,
-    "publicDomainPdfUrl": "https://s9.imslp.org/files/imglnks/usimg/e/ea/IMSLP518269-PMLP44645-Op.51-1_%28etc%29.pdf",
-    "publicDomainSource": "IMSLP",
-    "id": 151
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-36058",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Sonatas Op 2. No. 1 through Op. 90",
     "composer": "Beethoven",
@@ -2673,11 +2767,12 @@
     "specification": "(Play any first OR last mvt; EXCEPTION Op. 27, No. 2 mvt 1; Op. 49; Op. 79)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 169
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-39830",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Three Sonatas, WoO 47",
     "composer": "Beethoven",
@@ -2689,12 +2784,13 @@
     "classLevel": 1,
     "specification": "(play two contrasting mvts from any sonata)",
     "noMemoryRequired": false,
-    "publicDomainPdfUrl": "https://s9.imslp.org/files/imglnks/usimg/1/1b/IMSLP51422-PMLP03360-WoO_47.pdf",
-    "publicDomainSource": "IMSLP",
-    "id": 153
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-36060",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Variations on God Save the King",
     "composer": "Beethoven",
@@ -2706,12 +2802,13 @@
     "classLevel": 1,
     "specification": "",
     "noMemoryRequired": false,
-    "publicDomainPdfUrl": "https://s9.imslp.org/files/imglnks/usimg/c/c9/IMSLP217743-SIBLEY1802.13461.c3ca-39087012841211no_6.pdf",
-    "publicDomainSource": "IMSLP",
-    "id": 170
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-36059",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Variations on Rule Britannia",
     "composer": "Beethoven",
@@ -2723,12 +2820,13 @@
     "classLevel": 1,
     "specification": "",
     "noMemoryRequired": false,
-    "publicDomainPdfUrl": "https://s9.imslp.org/files/imglnks/usimg/8/82/IMSLP217741-SIBLEY1802.13461.426b-39087012841211no_4.pdf",
-    "publicDomainSource": "IMSLP",
-    "id": 18
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-39834",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Variations on an Original Theme, Op. 34",
     "composer": "Beethoven",
@@ -2740,12 +2838,13 @@
     "classLevel": 1,
     "specification": "",
     "noMemoryRequired": false,
-    "publicDomainPdfUrl": "https://s9.imslp.org/files/imglnks/usimg/3/32/IMSLP51247-PMLP12224-Op.76.pdf",
-    "publicDomainSource": "IMSLP",
-    "id": 196
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-39833",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Variations on the March from The Ruins of Athens, Op. 76",
     "composer": "Beethoven",
@@ -2758,11 +2857,12 @@
     "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 149
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-39835",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Variations on the Russian Dance from Das Waldm\u00e4dchen, WoO 71",
     "composer": "Beethoven",
@@ -2774,31 +2874,32 @@
     "classLevel": 1,
     "specification": "",
     "noMemoryRequired": false,
-    "publicDomainPdfUrl": "https://s9.imslp.org/files/imglnks/usimg/1/1e/IMSLP51437-PMLP16885-WoO_71.pdf",
-    "publicDomainSource": "IMSLP",
-    "id": 197
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-39836",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Three Ghost Rags",
     "composer": "Bolcom",
     "arranger": "",
     "publishers": [
-      "Multiple Publishers",
       "Hal Leonard Music, Inc.",
       "Edward B. Marks Music"
     ],
-    "publisherText": "Multiple Publishers;Hal Leonard Music, Inc.;Edward B. Marks Music",
+    "publisherText": "Hal Leonard Music, Inc.;Edward B. Marks Music",
     "classLevel": 1,
     "specification": "(play one)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 198
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-39837",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Troubled Water from Spiritual Suite",
     "composer": "Bonds",
@@ -2811,144 +2912,145 @@
     "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 199
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-18039",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Ballades, Op. 10",
     "composer": "Brahms",
     "arranger": "",
     "publishers": [
-      "Multiple Publishers",
       "Edwin F. Kalmus [Piano Works in Two Volumes]",
       "Any unabridged edition"
     ],
-    "publisherText": "Multiple Publishers;Edwin F. Kalmus [Piano Works in Two Volumes];Any unabridged edition",
+    "publisherText": "Edwin F. Kalmus [Piano Works in Two Volumes];Any unabridged edition",
     "classLevel": 1,
     "specification": "(play one)",
     "noMemoryRequired": false,
-    "publicDomainPdfUrl": "https://s9.imslp.org/files/imglnks/usimg/a/a7/IMSLP08432-Brahms_-_Balladen_Op.10_-_Sauer.pdf",
-    "publicDomainSource": "IMSLP",
-    "id": 19
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-18040",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Fantasies, Op. 116",
     "composer": "Brahms",
     "arranger": "",
     "publishers": [
-      "Multiple Publishers",
       "Edwin F. Kalmus [Piano Works in Two Volumes]",
       "Any unabridged edition"
     ],
-    "publisherText": "Multiple Publishers;Edwin F. Kalmus [Piano Works in Two Volumes];Any unabridged edition",
+    "publisherText": "Edwin F. Kalmus [Piano Works in Two Volumes];Any unabridged edition",
     "classLevel": 1,
     "specification": "(play one)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 20
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-18041",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Piano Pieces, Op. 117",
     "composer": "Brahms",
     "arranger": "",
     "publishers": [
-      "Multiple Publishers",
       "Edwin F. Kalmus [Piano Works in Two Volumes]",
       "Any unabridged edition"
     ],
-    "publisherText": "Multiple Publishers;Edwin F. Kalmus [Piano Works in Two Volumes];Any unabridged edition",
+    "publisherText": "Edwin F. Kalmus [Piano Works in Two Volumes];Any unabridged edition",
     "classLevel": 1,
     "specification": "(play one)",
     "noMemoryRequired": false,
-    "publicDomainPdfUrl": "https://s9.imslp.org/files/imglnks/usimg/f/fb/IMSLP23106-PMLP06512-BraWV%2C_S._324.pdf",
-    "publicDomainSource": "IMSLP",
-    "id": 21
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-18042",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Piano Pieces, Op. 118",
     "composer": "Brahms",
     "arranger": "",
     "publishers": [
-      "Multiple Publishers",
       "Edwin F. Kalmus [Piano Works in Two Volumes]",
       "Any unabridged edition"
     ],
-    "publisherText": "Multiple Publishers;Edwin F. Kalmus [Piano Works in Two Volumes];Any unabridged edition",
+    "publisherText": "Edwin F. Kalmus [Piano Works in Two Volumes];Any unabridged edition",
     "classLevel": 1,
     "specification": "(play one)",
     "noMemoryRequired": false,
-    "publicDomainPdfUrl": "https://s9.imslp.org/files/imglnks/usimg/f/fb/IMSLP23106-PMLP06512-BraWV%2C_S._324.pdf",
-    "publicDomainSource": "IMSLP",
-    "id": 22
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-18043",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Piano Pieces, Op. 119",
     "composer": "Brahms",
     "arranger": "",
     "publishers": [
-      "Multiple Publishers",
       "Edwin F. Kalmus [Piano Works in Two Volumes]",
       "Any unabridged edition"
     ],
-    "publisherText": "Multiple Publishers;Edwin F. Kalmus [Piano Works in Two Volumes];Any unabridged edition",
+    "publisherText": "Edwin F. Kalmus [Piano Works in Two Volumes];Any unabridged edition",
     "classLevel": 1,
     "specification": "(play one)",
     "noMemoryRequired": false,
-    "publicDomainPdfUrl": "https://s9.imslp.org/files/imglnks/usimg/f/fb/IMSLP23106-PMLP06512-BraWV%2C_S._324.pdf",
-    "publicDomainSource": "IMSLP",
-    "id": 23
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-18044",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Piano Pieces, Op. 76",
     "composer": "Brahms",
     "arranger": "",
     "publishers": [
-      "Multiple Publishers",
       "Edwin F. Kalmus [Piano Works in Two Volumes]",
       "Any unabridged edition"
     ],
-    "publisherText": "Multiple Publishers;Edwin F. Kalmus [Piano Works in Two Volumes];Any unabridged edition",
+    "publisherText": "Edwin F. Kalmus [Piano Works in Two Volumes];Any unabridged edition",
     "classLevel": 1,
     "specification": "(play one)",
     "noMemoryRequired": false,
-    "publicDomainPdfUrl": "https://s9.imslp.org/files/imglnks/usimg/f/fb/IMSLP23106-PMLP06512-BraWV%2C_S._324.pdf",
-    "publicDomainSource": "IMSLP",
-    "id": 24
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-18045",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Rhapsodies, Op. 79",
     "composer": "Brahms",
     "arranger": "",
     "publishers": [
-      "Multiple Publishers",
       "Edwin F. Kalmus [Piano Works in Two Volumes]",
       "Any unabridged edition"
     ],
-    "publisherText": "Multiple Publishers;Edwin F. Kalmus [Piano Works in Two Volumes];Any unabridged edition",
+    "publisherText": "Edwin F. Kalmus [Piano Works in Two Volumes];Any unabridged edition",
     "classLevel": 1,
     "specification": "(play one)",
     "noMemoryRequired": false,
-    "publicDomainPdfUrl": "https://s9.imslp.org/files/imglnks/usimg/7/73/IMSLP08445-Brahms_-_Rhapsodies_Op.79_-_Sauer.pdf",
-    "publicDomainSource": "IMSLP",
-    "id": 25
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-39838",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Scherzo in E-flat minor, Op. 4",
     "composer": "Brahms",
@@ -2961,11 +3063,12 @@
     "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 200
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-39839",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Automne, Op. 35, no. 2 (\u00c9tude de concert)",
     "composer": "Chaminade",
@@ -2978,11 +3081,12 @@
     "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 201
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-39840",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "La lisonjera (The Flatterer), Op. 50",
     "composer": "Chaminade",
@@ -2994,12 +3098,13 @@
     "classLevel": 1,
     "specification": "",
     "noMemoryRequired": false,
-    "publicDomainPdfUrl": "https://s9.imslp.org/files/imglnks/usimg/8/83/IMSLP693907-PMLP6579-SheetMusic_18114.pdf",
-    "publicDomainSource": "IMSLP",
-    "id": 202
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-39841",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Tarantelle, Op. 35, no. 6 (\u00c9tude de concert)",
     "composer": "Chaminade",
@@ -3012,53 +3117,54 @@
     "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 203
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-36062",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "24 Preludes, Op. 28",
     "composer": "Chopin",
     "arranger": "",
     "publishers": [
-      "Multiple Publishers",
       "Henle Publishing",
       "Alfred Music Company, Inc.",
       "Vienna Urtext Edition",
       "Any unabridged edition"
     ],
-    "publisherText": "Multiple Publishers;Henle Publishing;Alfred Music Company, Inc.;Vienna Urtext Edition;Any unabridged edition",
+    "publisherText": "Henle Publishing;Alfred Music Company, Inc.;Vienna Urtext Edition;Any unabridged edition",
     "classLevel": 1,
     "specification": "(play any two) EXCEPTION: 4, 6, 7, 15, 20, 22",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 172
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-36061",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Ballades, Op. 23, 38, 47, 52",
     "composer": "Chopin",
     "arranger": "",
     "publishers": [
-      "Multiple Publishers",
       "Henle Publishing",
       "Alfred Music Company, Inc.",
       "Vienna Urtext Edition",
       "Any unabridged edition"
     ],
-    "publisherText": "Multiple Publishers;Henle Publishing;Alfred Music Company, Inc.;Vienna Urtext Edition;Any unabridged edition",
+    "publisherText": "Henle Publishing;Alfred Music Company, Inc.;Vienna Urtext Edition;Any unabridged edition",
     "classLevel": 1,
     "specification": "(play one)",
     "noMemoryRequired": false,
-    "publicDomainPdfUrl": "https://s9.imslp.org/files/imglnks/usimg/5/5c/IMSLP692221-PMLP727429-Chopin_F_-_Ballades.pdf",
-    "publicDomainSource": "IMSLP",
-    "id": 171
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-39842",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Barcarolle, Op. 60",
     "composer": "Chopin",
@@ -3070,12 +3176,13 @@
     "classLevel": 1,
     "specification": "",
     "noMemoryRequired": false,
-    "publicDomainPdfUrl": "https://s9.imslp.org/files/imglnks/usimg/2/27/IMSLP334199-PMLP02633-Chopin%2C_Frederic-Barcarolle_Op_60_Brandus_4609_d1846_BNF.pdf",
-    "publicDomainSource": "IMSLP",
-    "id": 204
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-39843",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Berceuse, Op. 57",
     "composer": "Chopin",
@@ -3087,12 +3194,13 @@
     "classLevel": 1,
     "specification": "",
     "noMemoryRequired": false,
-    "publicDomainPdfUrl": "https://s9.imslp.org/files/imglnks/usimg/6/65/IMSLP400821-PMLP02636-BnF_btv1b52500406j.pdf",
-    "publicDomainSource": "IMSLP",
-    "id": 205
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-39844",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Bol\u00e9ro, Op. 19",
     "composer": "Chopin",
@@ -3105,11 +3213,12 @@
     "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 206
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-30637",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Four Ballades",
     "composer": "Chopin",
@@ -3121,12 +3230,13 @@
     "classLevel": 1,
     "specification": "(play one)",
     "noMemoryRequired": false,
-    "publicDomainPdfUrl": "https://s9.imslp.org/files/imglnks/usimg/5/5c/IMSLP692221-PMLP727429-Chopin_F_-_Ballades.pdf",
-    "publicDomainSource": "IMSLP",
-    "id": 161
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-33071",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Four Scherzo",
     "composer": "Chopin",
@@ -3138,12 +3248,13 @@
     "classLevel": 1,
     "specification": "(play one)",
     "noMemoryRequired": false,
-    "publicDomainPdfUrl": "https://s9.imslp.org/files/imglnks/usimg/3/3f/IMSLP164605-PMLP02354-Scherzo%2C_op._20_-_Chopin.pdf",
-    "publicDomainSource": "IMSLP",
-    "id": 165
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-39846",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Impromptus, Op. 29, 36, 51, 66",
     "composer": "Chopin",
@@ -3155,53 +3266,54 @@
     "classLevel": 1,
     "specification": "(play one)",
     "noMemoryRequired": false,
-    "publicDomainPdfUrl": "https://s9.imslp.org/files/imglnks/usimg/2/21/IMSLP444465-PMLP722954-Chopin_F_-_Impromptus_ed._Micha%C5%82owski.pdf",
-    "publicDomainSource": "IMSLP",
-    "id": 208
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-18046",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Mazurkas, Op. 6, 7, 17, 24, 33, 50, 59, 63",
     "composer": "Chopin",
     "arranger": "",
     "publishers": [
-      "Multiple Publishers",
       "C.F. Peters Corporation",
       "Chopin Institute Edition",
       "Salabert, Inc.",
       "Any unabridged edition"
     ],
-    "publisherText": "Multiple Publishers;C.F. Peters Corporation;Chopin Institute Edition;Salabert, Inc.;Any unabridged edition",
+    "publisherText": "C.F. Peters Corporation;Chopin Institute Edition;Salabert, Inc.;Any unabridged edition",
     "classLevel": 1,
     "specification": "(Play one EXCEPT Op. 7, No. 1 & 5)",
     "noMemoryRequired": false,
-    "publicDomainPdfUrl": "https://s9.imslp.org/files/imglnks/usimg/0/03/IMSLP399497-PMLP02277-BnF_btv1b52500528n.pdf",
-    "publicDomainSource": "IMSLP",
-    "id": 26
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-18051",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Nocturnes",
     "composer": "Chopin",
     "arranger": "",
     "publishers": [
-      "Multiple Publishers",
       "C.F. Peters Corporation",
       "Chopin Institute Edition",
       "Salabert, Inc."
     ],
-    "publisherText": "Multiple Publishers;C.F. Peters Corporation;Chopin Institute Edition;Salabert, Inc.",
+    "publisherText": "C.F. Peters Corporation;Chopin Institute Edition;Salabert, Inc.",
     "classLevel": 1,
     "specification": "(play one)",
     "noMemoryRequired": false,
-    "publicDomainPdfUrl": "https://s9.imslp.org/files/imglnks/usimg/8/85/IMSLP447364-PMLP02305-Chopin_F_-_Deux_nocturnes_op._27_colour.pdf",
-    "publicDomainSource": "IMSLP",
-    "id": 27
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-39847",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Nocturnes",
     "composer": "Chopin",
@@ -3213,33 +3325,34 @@
     "classLevel": 1,
     "specification": "(play one)",
     "noMemoryRequired": false,
-    "publicDomainPdfUrl": "https://s9.imslp.org/files/imglnks/usimg/8/85/IMSLP447364-PMLP02305-Chopin_F_-_Deux_nocturnes_op._27_colour.pdf",
-    "publicDomainSource": "IMSLP",
-    "id": 209
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-18052",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Polonaises, Op. 26, 40, 44, 61",
     "composer": "Chopin",
     "arranger": "",
     "publishers": [
-      "Multiple Publishers",
       "C.F. Peters Corporation",
       "Chopin Institute Edition",
       "Salabert, Inc.",
       "Any Publisher"
     ],
-    "publisherText": "Multiple Publishers;C.F. Peters Corporation;Chopin Institute Edition;Salabert, Inc.;Any Publisher",
+    "publisherText": "C.F. Peters Corporation;Chopin Institute Edition;Salabert, Inc.;Any Publisher",
     "classLevel": 1,
     "specification": "(play one)",
     "noMemoryRequired": false,
-    "publicDomainPdfUrl": "https://s9.imslp.org/files/imglnks/usimg/f/f9/IMSLP398188-PMLP02330-BnF_btv1b52500449j.pdf",
-    "publicDomainSource": "IMSLP",
-    "id": 28
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-39848",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Prelude in C-sharp minor, Op. 45",
     "composer": "Chopin",
@@ -3251,12 +3364,13 @@
     "classLevel": 1,
     "specification": "",
     "noMemoryRequired": false,
-    "publicDomainPdfUrl": "https://s9.imslp.org/files/imglnks/usimg/2/25/IMSLP399491-PMLP02345-BnF_btv1b52500507c.pdf",
-    "publicDomainSource": "IMSLP",
-    "id": 210
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-39849",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Rondo in C minor, Op. 1",
     "composer": "Chopin",
@@ -3268,12 +3382,13 @@
     "classLevel": 1,
     "specification": "",
     "noMemoryRequired": false,
-    "publicDomainPdfUrl": "https://s9.imslp.org/files/imglnks/usimg/f/f2/IMSLP628284-PMLP2348-chopin_rondo_op1_brezina_305393537.pdf",
-    "publicDomainSource": "IMSLP",
-    "id": 211
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-39851",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Rondo in E-flat major, Op. 16",
     "composer": "Chopin",
@@ -3285,12 +3400,13 @@
     "classLevel": 1,
     "specification": "",
     "noMemoryRequired": false,
-    "publicDomainPdfUrl": "https://s9.imslp.org/files/imglnks/usimg/4/48/IMSLP350008-PMLP02350-BNF_btv1b525005293.pdf",
-    "publicDomainSource": "IMSLP",
-    "id": 213
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-39850",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Rondo \u00e0 la Mazur, Op. 5",
     "composer": "Chopin",
@@ -3302,12 +3418,13 @@
     "classLevel": 1,
     "specification": "",
     "noMemoryRequired": false,
-    "publicDomainPdfUrl": "https://s9.imslp.org/files/imglnks/usimg/1/13/IMSLP400813-PMLP02349-BnF_btv1b525005348.pdf",
-    "publicDomainSource": "IMSLP",
-    "id": 212
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-39852",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Scherzos, Op. 20, 31, 39, 54",
     "composer": "Chopin",
@@ -3319,12 +3436,13 @@
     "classLevel": 1,
     "specification": "(play one)",
     "noMemoryRequired": false,
-    "publicDomainPdfUrl": "https://s9.imslp.org/files/imglnks/usimg/c/c2/IMSLP570326-PMLP919200-39087012662658score_%281%29.pdf",
-    "publicDomainSource": "IMSLP",
-    "id": 214
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-18054",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Waltz",
     "composer": "Chopin",
@@ -3336,12 +3454,13 @@
     "classLevel": 1,
     "specification": "(Play one EXCEPT Waltz in A minor, Op. post. BI 150)",
     "noMemoryRequired": false,
-    "publicDomainPdfUrl": "https://s9.imslp.org/files/imglnks/usimg/1/19/IMSLP399488-PMLP02369-BnF_btv1b52500501p.pdf",
-    "publicDomainSource": "IMSLP",
-    "id": 29
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-39845",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "\u00c9tudes, Op. 10, Op. 25",
     "composer": "Chopin",
@@ -3353,12 +3472,13 @@
     "classLevel": 1,
     "specification": "(play one)",
     "noMemoryRequired": false,
-    "publicDomainPdfUrl": "https://s9.imslp.org/files/imglnks/usimg/f/f8/IMSLP535484-PMLP1969-Chopin_op._10_no._1.pdf",
-    "publicDomainSource": "IMSLP",
-    "id": 207
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-39854",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "24 Negro Melodies, Op. 59",
     "composer": "Coleridge-Taylor",
@@ -3370,12 +3490,13 @@
     "classLevel": 1,
     "specification": "(play one)",
     "noMemoryRequired": false,
-    "publicDomainPdfUrl": "https://s9.imslp.org/files/imglnks/usimg/0/05/IMSLP491141-PMLP17498-Cover.pdf",
-    "publicDomainSource": "IMSLP",
-    "id": 216
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-39853",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Humoresques, Op. 31",
     "composer": "Coleridge-Taylor",
@@ -3387,12 +3508,13 @@
     "classLevel": 1,
     "specification": "(play one)",
     "noMemoryRequired": false,
-    "publicDomainPdfUrl": "https://s9.imslp.org/files/imglnks/usimg/9/98/IMSLP252098-SIBLEY1802.19022.ff1c-39087012352599humor.pdf",
-    "publicDomainSource": "IMSLP",
-    "id": 215
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-39855",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Three-Fours, Op. 71",
     "composer": "Coleridge-Taylor",
@@ -3404,12 +3526,13 @@
     "classLevel": 1,
     "specification": "(play one)",
     "noMemoryRequired": false,
-    "publicDomainPdfUrl": "https://s9.imslp.org/files/imglnks/usimg/8/80/IMSLP793035-PMLP53834-Coleridge-Taylor%2C_Samuel_-_You-ll_Love_Me_Yet%21%2C_Op._37%2C_No._1.pdf",
-    "publicDomainSource": "IMSLP",
-    "id": 217
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-18056",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Four Piano Blues",
     "composer": "Copland",
@@ -3422,30 +3545,31 @@
     "specification": "(play one)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 30
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-18057",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Scherzo Humoristique, The Cat and the Mouse",
     "composer": "Copland",
     "arranger": "",
     "publishers": [
-      "Multiple Publishers",
       "Boosey & Hawkes, Inc.",
       "Alfred Music Company, Inc."
     ],
-    "publisherText": "Multiple Publishers;Boosey & Hawkes, Inc.;Alfred Music Company, Inc.",
+    "publisherText": "Boosey & Hawkes, Inc.;Alfred Music Company, Inc.",
     "classLevel": 1,
     "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 31
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-39856",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Arabesques",
     "composer": "Debussy",
@@ -3457,32 +3581,33 @@
     "classLevel": 1,
     "specification": "(play one)",
     "noMemoryRequired": false,
-    "publicDomainPdfUrl": "https://s9.imslp.org/files/imglnks/usimg/3/37/IMSLP02821-Debussy-L066.pdf",
-    "publicDomainSource": "IMSLP",
-    "id": 218
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-18058",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Children\u2019s Corner Suite",
     "composer": "Debussy",
     "arranger": "",
     "publishers": [
-      "Multiple Publishers",
       "C.F. Peters Corporation",
       "Durand",
       "Any unabridged edition"
     ],
-    "publisherText": "Multiple Publishers;C.F. Peters Corporation;Durand;Any unabridged edition",
+    "publisherText": "C.F. Peters Corporation;Durand;Any unabridged edition",
     "classLevel": 1,
     "specification": "(Play first, third, fourth or last movement\u2014NOT Jimbo\u2019s Lullaby OR The Little Shepherd)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 32
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-39857",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Danse (Tarentelle styrienne)",
     "composer": "Debussy",
@@ -3495,11 +3620,12 @@
     "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 219
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-18113",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Deux Arabesques",
     "composer": "Debussy",
@@ -3512,49 +3638,50 @@
     "specification": "(play one)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 80
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-36064",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Estampes",
     "composer": "Debussy",
     "arranger": "",
     "publishers": [
-      "Multiple Publishers",
       "Dover",
       "Any unabridged edition"
     ],
-    "publisherText": "Multiple Publishers;Dover;Any unabridged edition",
+    "publisherText": "Dover;Any unabridged edition",
     "classLevel": 1,
     "specification": "(play one mvt)",
     "noMemoryRequired": false,
-    "publicDomainPdfUrl": "https://s9.imslp.org/files/imglnks/usimg/9/9e/IMSLP47193-PMLP02408-Debussy_Estampes_Durand_1903.pdf",
-    "publicDomainSource": "IMSLP",
-    "id": 174
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-36065",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Images, Books I and II",
     "composer": "Debussy",
     "arranger": "",
     "publishers": [
-      "Multiple Publishers",
       "Dover",
       "Any unabridged edition"
     ],
-    "publisherText": "Multiple Publishers;Dover;Any unabridged edition",
+    "publisherText": "Dover;Any unabridged edition",
     "classLevel": 1,
     "specification": "(play one mvt)",
     "noMemoryRequired": false,
-    "publicDomainPdfUrl": "https://s9.imslp.org/files/imglnks/usimg/e/e7/IMSLP254486-PMLP02391-Debussy%2C_Claude-Images_2e_Serie_pour_Piano_seul_Durand_6994_filter.pdf",
-    "publicDomainSource": "IMSLP",
-    "id": 175
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-39859",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "L\u2019isle joyeuse",
     "composer": "Debussy",
@@ -3567,68 +3694,69 @@
     "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 221
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-36063",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Pour le Piano",
     "composer": "Debussy",
     "arranger": "",
     "publishers": [
-      "Multiple Publishers",
       "Dover",
       "Any unabridged edition"
     ],
-    "publisherText": "Multiple Publishers;Dover;Any unabridged edition",
+    "publisherText": "Dover;Any unabridged edition",
     "classLevel": 1,
     "specification": "(play one mvt)",
     "noMemoryRequired": false,
-    "publicDomainPdfUrl": "https://s9.imslp.org/files/imglnks/usimg/d/d8/IMSLP12773-Debussy_-_Pour_le_piano_%28piano%29.pdf",
-    "publicDomainSource": "IMSLP",
-    "id": 173
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-18061",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Preludes, Book I and Book II",
     "composer": "Debussy",
     "arranger": "",
     "publishers": [
-      "Multiple Publishers",
       "Durand",
       "Any unabridged edition"
     ],
-    "publisherText": "Multiple Publishers;Durand;Any unabridged edition",
+    "publisherText": "Durand;Any unabridged edition",
     "classLevel": 1,
     "specification": "(play one Prelude EXCEPT \"Bruyeres\")",
     "noMemoryRequired": false,
-    "publicDomainPdfUrl": "https://s9.imslp.org/files/imglnks/usimg/2/2a/IMSLP427297-PMLP02394-LOEB_7631245.pdf",
-    "publicDomainSource": "IMSLP",
-    "id": 34
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-36056",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Suite Bergamasque",
     "composer": "Debussy",
     "arranger": "",
     "publishers": [
-      "Multiple Publishers",
       "Dover",
       "Any unabridged edition"
     ],
-    "publisherText": "Multiple Publishers;Dover;Any unabridged edition",
+    "publisherText": "Dover;Any unabridged edition",
     "classLevel": 1,
     "specification": "(play one mvt)",
     "noMemoryRequired": false,
-    "publicDomainPdfUrl": "https://s9.imslp.org/files/imglnks/usimg/f/f0/IMSLP00511-Debussy_-_Suite_Bergamasque_-_1_-_Prelude.pdf",
-    "publicDomainSource": "IMSLP",
-    "id": 33
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-39858",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "\u00c9tudes",
     "composer": "Debussy",
@@ -3641,30 +3769,31 @@
     "specification": "(play one)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 220
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-18062",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Four Rhapsodies Op. 11",
     "composer": "Dohnanyi",
     "arranger": "",
     "publishers": [
-      "Multiple Publishers",
       "Edwin F. Kalmus",
       "Alfred Music Company, Inc."
     ],
-    "publisherText": "Multiple Publishers;Edwin F. Kalmus;Alfred Music Company, Inc.",
+    "publisherText": "Edwin F. Kalmus;Alfred Music Company, Inc.",
     "classLevel": 1,
     "specification": "(play one) NMR:(play two)",
     "noMemoryRequired": true,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 35
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-39860",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Three Inventions",
     "composer": "Ewazen",
@@ -3677,50 +3806,51 @@
     "specification": "(play one)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 222
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-18063",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Three Preludes",
     "composer": "Gershwin",
     "arranger": "",
     "publishers": [
-      "Multiple Publishers",
       "Harms, Inc.",
       "New World Music Corporation",
       "Any unabridged edition"
     ],
-    "publisherText": "Multiple Publishers;Harms, Inc.;New World Music Corporation;Any unabridged edition",
+    "publisherText": "Harms, Inc.;New World Music Corporation;Any unabridged edition",
     "classLevel": 1,
     "specification": "(play two)",
     "noMemoryRequired": false,
-    "publicDomainPdfUrl": "https://s9.imslp.org/files/imglnks/usimg/9/9e/IMSLP05997-Gershwin.Three_Preludes.pdf",
-    "publicDomainSource": "IMSLP",
-    "id": 36
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-39861",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Danzas argentinas, Op. 2",
     "composer": "Ginastera",
     "arranger": "",
     "publishers": [
-      "Multiple Publishers",
       "Boosey & Hawkes, Inc.",
       "Ricordi & Company, Inc."
     ],
-    "publisherText": "Multiple Publishers;Boosey & Hawkes, Inc.;Ricordi & Company, Inc.",
+    "publisherText": "Boosey & Hawkes, Inc.;Ricordi & Company, Inc.",
     "classLevel": 1,
     "specification": "(play one)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 223
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-18064",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Rondo on Argentine Children's Folk Tunes",
     "composer": "Ginastera",
@@ -3733,50 +3863,51 @@
     "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 37
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-39862",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Sonata no. 1, Op 22",
     "composer": "Ginastera",
     "arranger": "",
     "publishers": [
-      "Multiple Publishers",
       "Boosey & Hawkes, Inc.",
       "Hal Leonard Music, Inc."
     ],
-    "publisherText": "Multiple Publishers;Boosey & Hawkes, Inc.;Hal Leonard Music, Inc.",
+    "publisherText": "Boosey & Hawkes, Inc.;Hal Leonard Music, Inc.",
     "classLevel": 1,
     "specification": "(play any mvt EXCEPT 3rd)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 224
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-39863",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "L\u2019Alouette (The Lark)",
     "composer": "Glinka",
     "arranger": "Balakirev",
     "publishers": [
-      "Multiple Publishers",
       "Chester Music Ltd.",
       "Henle Publishing",
       "G. Schirmer, Inc."
     ],
-    "publisherText": "Multiple Publishers;Chester Music Ltd.;Henle Publishing;G. Schirmer, Inc.",
+    "publisherText": "Chester Music Ltd.;Henle Publishing;G. Schirmer, Inc.",
     "classLevel": 1,
     "specification": "",
     "noMemoryRequired": false,
-    "publicDomainPdfUrl": "https://s9.imslp.org/files/imglnks/usimg/0/04/IMSLP56075-PMLP115850-Glinka_Zhavoronok.pdf",
-    "publicDomainSource": "IMSLP",
-    "id": 225
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-39864",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Le bananier, Op. 5",
     "composer": "Gottschalk",
@@ -3788,12 +3919,13 @@
     "classLevel": 1,
     "specification": "",
     "noMemoryRequired": false,
-    "publicDomainPdfUrl": "https://s9.imslp.org/files/imglnks/usimg/d/dc/IMSLP125609-SIBLEY1802.6964.070f-39087012346815_Bananier.pdf",
-    "publicDomainSource": "IMSLP",
-    "id": 226
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-39866",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Pasquinade, Op. 59",
     "composer": "Gottschalk",
@@ -3805,12 +3937,13 @@
     "classLevel": 1,
     "specification": "",
     "noMemoryRequired": false,
-    "publicDomainPdfUrl": "https://s9.imslp.org/files/imglnks/usimg/4/43/IMSLP107409-PMLP18724-Gottschalk_Piano_Music_Dover_24_Pasquinade_Op_59_scan.pdf",
-    "publicDomainSource": "IMSLP",
-    "id": 228
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-39867",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Souvenir de Porto Rico, Op. 31",
     "composer": "Gottschalk",
@@ -3822,12 +3955,13 @@
     "classLevel": 1,
     "specification": "",
     "noMemoryRequired": false,
-    "publicDomainPdfUrl": "https://s9.imslp.org/files/imglnks/usimg/0/08/IMSLP121790-SIBLEY1802.6864.7db0-39087012347029_Souvenir_P.pdf",
-    "publicDomainSource": "IMSLP",
-    "id": 229
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-39865",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "The Banjo, Op. 15",
     "composer": "Gottschalk",
@@ -3839,32 +3973,33 @@
     "classLevel": 1,
     "specification": "",
     "noMemoryRequired": false,
-    "publicDomainPdfUrl": "https://s9.imslp.org/files/imglnks/usimg/a/a2/IMSLP106672-PMLP18747-Gottschalk_Piano_Music_Dover_03_The_Banjo_Op_15_filter.pdf",
-    "publicDomainSource": "IMSLP",
-    "id": 227
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-18065",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Twelve Spanish Dances, Volume 2",
     "composer": "Granados",
     "arranger": "",
     "publishers": [
-      "Multiple Publishers",
       "Edwin F. Kalmus",
       "G. Schirmer, Inc.",
       "Any unabridged edition"
     ],
-    "publisherText": "Multiple Publishers;Edwin F. Kalmus;G. Schirmer, Inc.;Any unabridged edition",
+    "publisherText": "Edwin F. Kalmus;G. Schirmer, Inc.;Any unabridged edition",
     "classLevel": 1,
     "specification": "(play one)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 38
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-39868",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Holberg Suite, Op. 40",
     "composer": "Grieg",
@@ -3876,12 +4011,13 @@
     "classLevel": 1,
     "specification": "(play one mvt)",
     "noMemoryRequired": false,
-    "publicDomainPdfUrl": "https://s9.imslp.org/files/imglnks/usimg/8/85/IMSLP231653-SIBLEY1802.19996.1688-39087012347250op._40.pdf",
-    "publicDomainSource": "IMSLP",
-    "id": 230
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-39869",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "March of the Dwarfs, Op. 54, no. 3",
     "composer": "Grieg",
@@ -3894,11 +4030,12 @@
     "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 231
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-39870",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Sonata in E minor, Op. 7",
     "composer": "Grieg",
@@ -3911,11 +4048,12 @@
     "specification": "(play any mvt EXCEPT 3rd)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 232
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-39871",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Wedding Day at Troldhaugen, Op. 65, no. 6",
     "composer": "Grieg",
@@ -3928,11 +4066,12 @@
     "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 233
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-39872",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Fantasy Pieces, Op. 6",
     "composer": "Griffes",
@@ -3944,31 +4083,32 @@
     "classLevel": 1,
     "specification": "(play one)",
     "noMemoryRequired": false,
-    "publicDomainPdfUrl": "https://s9.imslp.org/files/imglnks/usimg/3/34/IMSLP04087-Griffes-Op06.pdf",
-    "publicDomainSource": "IMSLP",
-    "id": 234
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-39873",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Roman Sketches, Op. 7",
     "composer": "Griffes",
     "arranger": "",
     "publishers": [
-      "Multiple Publishers",
       "Alfred Music Company, Inc.",
       "G. Schirmer, Inc."
     ],
-    "publisherText": "Multiple Publishers;Alfred Music Company, Inc.;G. Schirmer, Inc.",
+    "publisherText": "Alfred Music Company, Inc.;G. Schirmer, Inc.",
     "classLevel": 1,
     "specification": "(play one)",
     "noMemoryRequired": false,
-    "publicDomainPdfUrl": "https://s9.imslp.org/files/imglnks/usimg/7/78/IMSLP01495-Op07.1.pdf",
-    "publicDomainSource": "IMSLP",
-    "id": 235
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-39874",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "American Ballads",
     "composer": "Harris",
@@ -3981,52 +4121,53 @@
     "specification": "(play one)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 236
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-39875",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Fantasy (Capriccio) in C major, Hob. XVII:4",
     "composer": "Haydn",
     "arranger": "",
     "publishers": [
-      "Multiple Publishers",
       "Henle Publishing",
       "Schott Company"
     ],
-    "publisherText": "Multiple Publishers;Henle Publishing;Schott Company",
+    "publisherText": "Henle Publishing;Schott Company",
     "classLevel": 1,
     "specification": "",
     "noMemoryRequired": false,
-    "publicDomainPdfUrl": "https://s9.imslp.org/files/imglnks/usimg/9/92/IMSLP475071-PMLP770989-C3_60_IMSLP472432-PMLP766729-xipicespourlepia00hayd.pdf",
-    "publicDomainSource": "IMSLP",
-    "id": 237
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-18066",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Piano Sonatas, Hob. 20-52",
     "composer": "Haydn",
     "arranger": "",
     "publishers": [
-      "Multiple Publishers",
       "Carl Fischer, Inc.",
       "C.F. Peters Corporation",
       "G. Henle Verlag/USA, Inc.",
       "Vienna Urtext Edition",
       "Any unabridged edition"
     ],
-    "publisherText": "Multiple Publishers;Carl Fischer, Inc.;C.F. Peters Corporation;G. Henle Verlag/USA, Inc.;Vienna Urtext Edition;Any unabridged edition",
+    "publisherText": "Carl Fischer, Inc.;C.F. Peters Corporation;G. Henle Verlag/USA, Inc.;Vienna Urtext Edition;Any unabridged edition",
     "classLevel": 1,
     "specification": "(play first or last mvt only from one sonata)",
     "noMemoryRequired": false,
-    "publicDomainPdfUrl": "https://s9.imslp.org/files/imglnks/usimg/0/01/IMSLP57812-PMLP118678-Haydn_-_3_Sonatas_for_Piano_Violin_and_Cello_No87_piano_part.pdf",
-    "publicDomainSource": "IMSLP",
-    "id": 39
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-18067",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Sonata II",
     "composer": "Hindemith",
@@ -4039,11 +4180,12 @@
     "specification": "(play two mvts) NMR:(play all)",
     "noMemoryRequired": true,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 40
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-39876",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Nora\u2019s Dance",
     "composer": "Holt",
@@ -4056,11 +4198,12 @@
     "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 238
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-39877",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "The Island Spell (from Decorations)",
     "composer": "Ireland",
@@ -4072,12 +4215,13 @@
     "classLevel": 1,
     "specification": "",
     "noMemoryRequired": false,
-    "publicDomainPdfUrl": "https://s9.imslp.org/files/imglnks/usimg/e/ed/IMSLP280776-PMLP267212-Ireland_-_Declarations_%281915%29.pdf",
-    "publicDomainSource": "IMSLP",
-    "id": 239
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-39878",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Complete Rags for Piano",
     "composer": "Joplin",
@@ -4090,11 +4234,12 @@
     "specification": "(play one)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 240
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-36066",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Sonata No. 3 in F major",
     "composer": "Kabalevsky",
@@ -4107,30 +4252,31 @@
     "specification": "(play first or last mvt)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 176
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-18068",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Twenty-four Preludes Op. 38",
     "composer": "Kabalevsky",
     "arranger": "",
     "publishers": [
-      "Multiple Publishers",
       "Music Corporation of America",
       "Any unabridged edition"
     ],
-    "publisherText": "Multiple Publishers;Music Corporation of America;Any unabridged edition",
+    "publisherText": "Music Corporation of America;Any unabridged edition",
     "classLevel": 1,
     "specification": "(play two)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 41
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-39879",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Toccata",
     "composer": "Khachaturian",
@@ -4143,11 +4289,12 @@
     "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 241
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-39880",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Andalucia Suite (original version)",
     "composer": "Lecuona",
@@ -4160,11 +4307,12 @@
     "specification": "(play one)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 242
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-36070",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Complete Nocturnes",
     "composer": "Liebermann",
@@ -4177,11 +4325,12 @@
     "specification": "(play one)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 164
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-36067",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Gargoyles, Op. 29",
     "composer": "Liebermann",
@@ -4194,11 +4343,12 @@
     "specification": "(play one)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 177
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-30635",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Annees De Pelerinage",
     "composer": "Liszt",
@@ -4211,11 +4361,12 @@
     "specification": "(play one)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 160
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-39881",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Ann\u00e9es de p\u00e9l\u00e9rinage, all volumes",
     "composer": "Liszt",
@@ -4228,11 +4379,12 @@
     "specification": "(play one)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 243
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-39882",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Ballade no. 1 in D-flat major",
     "composer": "Liszt",
@@ -4245,11 +4397,12 @@
     "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 244
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-39883",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Ballade no. 2 in B minor",
     "composer": "Liszt",
@@ -4262,11 +4415,12 @@
     "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 245
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-36072",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Concert \u00c9tudes: Il Lamento, La Leggierezza and Un Sospiro",
     "composer": "Liszt",
@@ -4279,11 +4433,12 @@
     "specification": "(play one)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 178
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-36071",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Concert \u00c9tudes: Waldesrauschen and Gnomenreigen",
     "composer": "Liszt",
@@ -4296,11 +4451,12 @@
     "specification": "(play one)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 156
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-36073",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Grand \u00c9tudes after Paganini",
     "composer": "Liszt",
@@ -4313,11 +4469,12 @@
     "specification": "(play one)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 179
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-39884",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Harmonies po\u00e9tiques et r\u00e9ligeuses",
     "composer": "Liszt",
@@ -4330,30 +4487,31 @@
     "specification": "(play one)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 246
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-30634",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Hungarian Rhapsodies",
     "composer": "Liszt",
     "arranger": "",
     "publishers": [
-      "Multiple Publishers",
       "Alfred Music Company, Inc.",
       "Any unabridged edition"
     ],
-    "publisherText": "Multiple Publishers;Alfred Music Company, Inc.;Any unabridged edition",
+    "publisherText": "Alfred Music Company, Inc.;Any unabridged edition",
     "classLevel": 1,
     "specification": "(play one Rhapsody)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 159
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-39885",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Legends",
     "composer": "Liszt",
@@ -4366,11 +4524,12 @@
     "specification": "(play one)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 247
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-33782",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Liebestr\u00e4ume",
     "composer": "Liszt",
@@ -4382,12 +4541,13 @@
     "classLevel": 1,
     "specification": "(play one)",
     "noMemoryRequired": false,
-    "publicDomainPdfUrl": "https://s9.imslp.org/files/imglnks/usimg/2/26/IMSLP13737-Liszt_-_S541_Liebestraume_%28kistner%29_mono.pdf",
-    "publicDomainSource": "IMSLP",
-    "id": 167
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-36074",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Mephisto Waltz No. 1",
     "composer": "Liszt",
@@ -4400,11 +4560,12 @@
     "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 180
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-39886",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Polonaise No. 2 in E major",
     "composer": "Liszt",
@@ -4417,11 +4578,12 @@
     "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 248
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-39887",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Rigoletto Paraphrase",
     "composer": "Liszt",
@@ -4433,12 +4595,13 @@
     "classLevel": 1,
     "specification": "",
     "noMemoryRequired": false,
-    "publicDomainPdfUrl": "https://s9.imslp.org/files/imglnks/usimg/8/80/IMSLP03343-Liszt_Verdi_Paraphrase_Rigoletto.pdf",
-    "publicDomainSource": "IMSLP",
-    "id": 249
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-39888",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Soir\u00e9es de Vienne",
     "composer": "Liszt",
@@ -4450,12 +4613,13 @@
     "classLevel": 1,
     "specification": "(play one)",
     "noMemoryRequired": false,
-    "publicDomainPdfUrl": "https://s9.imslp.org/files/imglnks/usimg/f/fb/IMSLP67694-PMLP136671-S427.1-4.pdf",
-    "publicDomainSource": "IMSLP",
-    "id": 250
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-39889",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Spanish Rhapsody",
     "composer": "Liszt",
@@ -4468,11 +4632,12 @@
     "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 251
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-39890",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Transcendental \u00c9tudes (final version)",
     "composer": "Liszt",
@@ -4485,11 +4650,12 @@
     "specification": "(play one)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 252
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-39891",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Valse oubli\u00e9e No. 1",
     "composer": "Liszt",
@@ -4502,49 +4668,50 @@
     "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 253
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-18069",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "12 Etudes Op. 39",
     "composer": "MacDowell",
     "arranger": "",
     "publishers": [
-      "Multiple Publishers",
       "Boston Music Company",
       "Edwin F. Kalmus"
     ],
-    "publisherText": "Multiple Publishers;Boston Music Company;Edwin F. Kalmus",
+    "publisherText": "Boston Music Company;Edwin F. Kalmus",
     "classLevel": 1,
     "specification": "(play two)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 42
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-39892",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Fireside Tales, Op. 61",
     "composer": "MacDowell",
     "arranger": "",
     "publishers": [
-      "Multiple Publishers",
       "Alfred Music Company, Inc.",
       "Dover"
     ],
-    "publisherText": "Multiple Publishers;Alfred Music Company, Inc.;Dover",
+    "publisherText": "Alfred Music Company, Inc.;Dover",
     "classLevel": 1,
     "specification": "(play one)",
     "noMemoryRequired": false,
-    "publicDomainPdfUrl": "https://s9.imslp.org/files/imglnks/usimg/5/5f/IMSLP02457-MacDowell-Op61.pdf",
-    "publicDomainSource": "IMSLP",
-    "id": 254
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-36075",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Virtuoso \u00c9tudes, Op. 46",
     "composer": "MacDowell",
@@ -4557,11 +4724,12 @@
     "specification": "(play one)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 181
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-39893",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Fantasy in F-sharp minor, Op. 28",
     "composer": "Mendelssohn",
@@ -4574,11 +4742,12 @@
     "specification": "(play first OR last mvt)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 255
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-39894",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Preludes and Fugues, Op. 35",
     "composer": "Mendelssohn",
@@ -4590,12 +4759,13 @@
     "classLevel": 1,
     "specification": "(play one Prelude AND Fugue pair)",
     "noMemoryRequired": false,
-    "publicDomainPdfUrl": "https://s9.imslp.org/files/imglnks/usimg/1/10/IMSLP988423-PMLP11267-D2505_012.pdf",
-    "publicDomainSource": "IMSLP",
-    "id": 256
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-39895",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Rondo capriccioso, Op. 14",
     "composer": "Mendelssohn",
@@ -4607,31 +4777,32 @@
     "classLevel": 1,
     "specification": "",
     "noMemoryRequired": false,
-    "publicDomainPdfUrl": "https://s9.imslp.org/files/imglnks/usimg/3/3c/IMSLP984118-PMLP2687-Rondo_capriccioso_%28manuscrit_autographe%29_Mendelssohn_Bartholdy_btv1b10867436k.pdf",
-    "publicDomainSource": "IMSLP",
-    "id": 257
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-30639",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Scherzo in e minor, Op. 16 #2",
     "composer": "Mendelssohn",
     "arranger": "",
     "publishers": [
-      "Multiple Publishers",
       "Carl Fischer, Inc.",
       "Any unabridged edition"
     ],
-    "publisherText": "Multiple Publishers;Carl Fischer, Inc.;Any unabridged edition",
+    "publisherText": "Carl Fischer, Inc.;Any unabridged edition",
     "classLevel": 1,
     "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 162
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-39898",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Song Without Words in A-flat major, Op. 38, no. 6 (Duetto)",
     "composer": "Mendelssohn",
@@ -4644,11 +4815,12 @@
     "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 260
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-39897",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Song Without Words in B minor, Op. 30, no. 4",
     "composer": "Mendelssohn",
@@ -4661,11 +4833,12 @@
     "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 259
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-39899",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Song Without Words in C major, Op. 67, no. 4 (Spinning Song)",
     "composer": "Mendelssohn",
@@ -4678,11 +4851,12 @@
     "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 261
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-39896",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Song Without Words in F-sharp minor, Op. 19, no. 5",
     "composer": "Mendelssohn",
@@ -4695,30 +4869,31 @@
     "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 258
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-39900",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "\u00c9tincelles, Op. 36, no. 6",
     "composer": "Moszkowski",
     "arranger": "",
     "publishers": [
-      "Multiple Publishers",
       "Bosworth Music Company",
       "G. Schirmer, Inc."
     ],
-    "publisherText": "Multiple Publishers;Bosworth Music Company;G. Schirmer, Inc.",
+    "publisherText": "Bosworth Music Company;G. Schirmer, Inc.",
     "classLevel": 1,
     "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 262
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-39901",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Fantasy in C minor, K. 475",
     "composer": "Mozart",
@@ -4731,11 +4906,12 @@
     "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 263
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-39903",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Rondo in A minor, K. 511",
     "composer": "Mozart",
@@ -4747,12 +4923,13 @@
     "classLevel": 1,
     "specification": "",
     "noMemoryRequired": false,
-    "publicDomainPdfUrl": "https://s9.imslp.org/files/imglnks/usimg/a/a1/IMSLP852415-PMLP116942-mozart_Rondo_k511_hoffmeister_bonn5-1-198917.pdf",
-    "publicDomainSource": "IMSLP",
-    "id": 265
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-39902",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Rondo in D major, K. 485",
     "composer": "Mozart",
@@ -4764,18 +4941,18 @@
     "classLevel": 1,
     "specification": "",
     "noMemoryRequired": false,
-    "publicDomainPdfUrl": "https://s9.imslp.org/files/imglnks/usimg/5/54/IMSLP56693-PMLP116926-Mozart_Werke_Breitkopf_Serie_22_KV485.pdf",
-    "publicDomainSource": "IMSLP",
-    "id": 264
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-18071",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Sonatas",
     "composer": "Mozart",
     "arranger": "",
     "publishers": [
-      "Multiple Publishers",
       "Carl Fischer, Inc.",
       "C.F. Peters Corporation",
       "G. Henle Verlag/USA, Inc.",
@@ -4783,16 +4960,17 @@
       "Foreign Music Distributors",
       "Any unabridged edition"
     ],
-    "publisherText": "Multiple Publishers;Carl Fischer, Inc.;C.F. Peters Corporation;G. Henle Verlag/USA, Inc.;Barenreiter/Verlag;Foreign Music Distributors;Any unabridged edition",
+    "publisherText": "Carl Fischer, Inc.;C.F. Peters Corporation;G. Henle Verlag/USA, Inc.;Barenreiter/Verlag;Foreign Music Distributors;Any unabridged edition",
     "classLevel": 1,
     "specification": "(play first or last mvt of one Sonata, except k.545: play all)",
     "noMemoryRequired": false,
-    "publicDomainPdfUrl": "https://s9.imslp.org/files/imglnks/usimg/9/9e/IMSLP476123-PMLP772665-Mozart_-_19_Sonatas_For_The_Piano.pdf",
-    "publicDomainSource": "IMSLP",
-    "id": 43
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-39904",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Variations on Ah, vous dirai-je, Maman, K. 265",
     "composer": "Mozart",
@@ -4804,12 +4982,13 @@
     "classLevel": 1,
     "specification": "",
     "noMemoryRequired": false,
-    "publicDomainPdfUrl": "https://s9.imslp.org/files/imglnks/usimg/a/a2/IMSLP104399-PMLP55775-mozart_12_var_ah_vous_dirai_je_maman.pdf",
-    "publicDomainSource": "IMSLP",
-    "id": 266
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-39905",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Variations on Je suis Lindor, K. 354",
     "composer": "Mozart",
@@ -4821,12 +5000,13 @@
     "classLevel": 1,
     "specification": "",
     "noMemoryRequired": false,
-    "publicDomainPdfUrl": "https://s9.imslp.org/files/imglnks/usimg/0/0b/IMSLP24308-PMLP54988-Mozart_12_Variations_K.354.pdf",
-    "publicDomainSource": "IMSLP",
-    "id": 267
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-18072",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Variations on Salve tu Domine K. 398",
     "composer": "Mozart",
@@ -4839,11 +5019,12 @@
     "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 44
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-39906",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Variations on Unser dummer P\u00f6bel meint, K. 455",
     "composer": "Mozart",
@@ -4855,12 +5036,13 @@
     "classLevel": 1,
     "specification": "",
     "noMemoryRequired": false,
-    "publicDomainPdfUrl": "https://s9.imslp.org/files/imglnks/usimg/1/19/IMSLP23995-PMLP54510-Mozart_10_Variations_K.455.pdf",
-    "publicDomainSource": "IMSLP",
-    "id": 268
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-39907",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Variations on a Minuet by Duport, K. 573",
     "composer": "Mozart",
@@ -4872,12 +5054,13 @@
     "classLevel": 1,
     "specification": "",
     "noMemoryRequired": false,
-    "publicDomainPdfUrl": "https://s9.imslp.org/files/imglnks/usimg/d/d8/IMSLP56893-PMLP57127-Mozart_Werke_Breitkopf_Serie_21_KV573.pdf",
-    "publicDomainSource": "IMSLP",
-    "id": 269
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-39908",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Desperate Measures: Paganini Variations, Op. 48",
     "composer": "Muczynski",
@@ -4890,11 +5073,12 @@
     "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 270
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-18073",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Suite Op. 13",
     "composer": "Muczynski",
@@ -4907,11 +5091,12 @@
     "specification": "(play two mvts)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 45
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-36076",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Legende, Op. 16, No. 1",
     "composer": "Paderewski",
@@ -4924,11 +5109,12 @@
     "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 182
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-36077",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Nocturne, Op. 16, No. 4",
     "composer": "Paderewski",
@@ -4941,11 +5127,12 @@
     "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 183
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-36079",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "8 Nocturnes",
     "composer": "Poulenc",
@@ -4957,31 +5144,32 @@
     "classLevel": 1,
     "specification": "(play one nocturne)",
     "noMemoryRequired": false,
-    "publicDomainPdfUrl": "https://s9.imslp.org/files/imglnks/usimg/1/13/IMSLP904772-PMLP499658-1Nocturnes_-_Full_Score.pdf",
-    "publicDomainSource": "IMSLP",
-    "id": 185
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-30631",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Five Impromptus",
     "composer": "Poulenc",
     "arranger": "",
     "publishers": [
-      "Multiple Publishers",
       "G. Schirmer, Inc.",
       "Any unabridged edition"
     ],
-    "publisherText": "Multiple Publishers;G. Schirmer, Inc.;Any unabridged edition",
+    "publisherText": "G. Schirmer, Inc.;Any unabridged edition",
     "classLevel": 1,
     "specification": "(play one)",
     "noMemoryRequired": false,
-    "publicDomainPdfUrl": "https://s9.imslp.org/files/imglnks/usimg/1/13/IMSLP973742-PMLP185539-Poulenc.pdf",
-    "publicDomainSource": "IMSLP",
-    "id": 157
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-36078",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Intermezzo in A-flat",
     "composer": "Poulenc",
@@ -4994,30 +5182,31 @@
     "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 184
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-18074",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Movements Perpetuels",
     "composer": "Poulenc",
     "arranger": "",
     "publishers": [
-      "Multiple Publishers",
       "J&W Chester, Ltd.",
       "MMB Music, Inc."
     ],
-    "publisherText": "Multiple Publishers;J&W Chester, Ltd.;MMB Music, Inc.",
+    "publisherText": "J&W Chester, Ltd.;MMB Music, Inc.",
     "classLevel": 1,
     "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 46
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-39909",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Novelettes",
     "composer": "Poulenc",
@@ -5030,11 +5219,12 @@
     "specification": "(play one)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 271
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-30879",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Three Novelettes",
     "composer": "Poulenc",
@@ -5047,11 +5237,12 @@
     "specification": "(play one)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 163
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-39911",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Piano Sonata",
     "composer": "Price",
@@ -5064,11 +5255,12 @@
     "specification": "(play one mvt)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 273
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-39912",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Sketches in Sepia",
     "composer": "Price",
@@ -5081,11 +5273,12 @@
     "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 274
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-39913",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Summer Moon",
     "composer": "Price",
@@ -5098,11 +5291,12 @@
     "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 275
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-39914",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Your Hands in Mine",
     "composer": "Price",
@@ -5115,31 +5309,32 @@
     "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 276
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-18075",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Four Pieces for Piano Op. 4",
     "composer": "Prokofiev",
     "arranger": "",
     "publishers": [
-      "Multiple Publishers",
       "Edwin F. Kalmus",
       "Music Corporation of America",
       "Any unabridged edition"
     ],
-    "publisherText": "Multiple Publishers;Edwin F. Kalmus;Music Corporation of America;Any unabridged edition",
+    "publisherText": "Edwin F. Kalmus;Music Corporation of America;Any unabridged edition",
     "classLevel": 1,
     "specification": "(play one)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 47
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-39915",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Prelude in C major, Op. 12, no. 7",
     "composer": "Prokofiev",
@@ -5152,11 +5347,12 @@
     "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 277
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-36081",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Sarcasms, Op. 17",
     "composer": "Prokofiev",
@@ -5168,12 +5364,13 @@
     "classLevel": 1,
     "specification": "(play two)",
     "noMemoryRequired": false,
-    "publicDomainPdfUrl": "https://s9.imslp.org/files/imglnks/usimg/5/57/IMSLP548767-PMLP3210-Prokofiev_S_-_Op_17_Sarcasms.pdf",
-    "publicDomainSource": "IMSLP",
-    "id": 187
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-36080",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Sonatas",
     "composer": "Prokofiev",
@@ -5186,11 +5383,12 @@
     "specification": "(play all of No. 1 OR No. 3 OR first or last mvt of any other SONATA)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 186
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-39916",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Visions Fugitives, Op. 22",
     "composer": "Prokofiev",
@@ -5202,12 +5400,13 @@
     "classLevel": 1,
     "specification": "(play any two)",
     "noMemoryRequired": false,
-    "publicDomainPdfUrl": "https://s9.imslp.org/files/imglnks/usimg/9/90/IMSLP152280-PMLP03211-Prokofiev_-_Fugitive_Visions%2C_op._22.pdf",
-    "publicDomainSource": "IMSLP",
-    "id": 278
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-36082",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Etudes-Tableaus, Op. 33 and 39",
     "composer": "Rachmaninoff",
@@ -5219,32 +5418,33 @@
     "classLevel": 1,
     "specification": "(play one)",
     "noMemoryRequired": false,
-    "publicDomainPdfUrl": "https://s9.imslp.org/files/imglnks/usimg/3/3b/IMSLP39538-PMLP01893-Rachmaninoff-Etudes-Op33.pdf",
-    "publicDomainSource": "IMSLP",
-    "id": 188
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-18076",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Humoresque Op. 10",
     "composer": "Rachmaninoff",
     "arranger": "",
     "publishers": [
-      "Multiple Publishers",
       "Carl Fischer, Inc.",
       "Belwin, Inc",
       "Mills Music, Inc."
     ],
-    "publisherText": "Multiple Publishers;Carl Fischer, Inc.;Belwin, Inc;Mills Music, Inc.",
+    "publisherText": "Carl Fischer, Inc.;Belwin, Inc;Mills Music, Inc.",
     "classLevel": 1,
     "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 48
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-18077",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Prelude Op. 23",
     "composer": "Rachmaninoff",
@@ -5257,11 +5457,12 @@
     "specification": "(play one)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 49
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-30632",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Prelude Op. 32",
     "composer": "Rachmaninoff",
@@ -5274,30 +5475,31 @@
     "specification": "(play one)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 158
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-33781",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Prelude in C sharp minor Op. 3, No. 2",
     "composer": "Rachmaninoff",
     "arranger": "",
     "publishers": [
-      "Multiple Publishers",
       "G. Schirmer, Inc.",
       "G. Schirmer, Inc. [public domain]"
     ],
-    "publisherText": "Multiple Publishers;G. Schirmer, Inc.;G. Schirmer, Inc. [public domain]",
+    "publisherText": "G. Schirmer, Inc.;G. Schirmer, Inc. [public domain]",
     "classLevel": 1,
     "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 166
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-39917",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Moments musicaux, Op. 16",
     "composer": "Rachmaninov",
@@ -5310,11 +5512,12 @@
     "specification": "(play one)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 279
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-39918",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Morceaux de fantaisie, Op. 3",
     "composer": "Rachmaninov",
@@ -5327,11 +5530,12 @@
     "specification": "(play one)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 280
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-39919",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Morceaux de salon, Op. 10",
     "composer": "Rachmaninov",
@@ -5344,11 +5548,12 @@
     "specification": "(play one)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 281
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-39920",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Le tombeau de Couperin",
     "composer": "Ravel",
@@ -5361,11 +5566,12 @@
     "specification": "(play one mvt)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 282
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-36083",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Miroirs",
     "composer": "Ravel",
@@ -5377,31 +5583,32 @@
     "classLevel": 1,
     "specification": "(play one)",
     "noMemoryRequired": false,
-    "publicDomainPdfUrl": "https://s9.imslp.org/files/imglnks/usimg/e/e2/IMSLP02693-Ravel-Miroirs%2CDemetsEd.pdf",
-    "publicDomainSource": "IMSLP",
-    "id": 55
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-18078",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Sonatine",
     "composer": "Ravel",
     "arranger": "",
     "publishers": [
-      "Multiple Publishers",
       "Durand",
       "Edwin F. Kalmus"
     ],
-    "publisherText": "Multiple Publishers;Durand;Edwin F. Kalmus",
+    "publisherText": "Durand;Edwin F. Kalmus",
     "classLevel": 1,
     "specification": "(play one mvt)",
     "noMemoryRequired": false,
-    "publicDomainPdfUrl": "https://s9.imslp.org/files/imglnks/usimg/8/81/IMSLP192461-SIBLEY1802.19808.dc66-39087012350742sonatine.pdf",
-    "publicDomainSource": "IMSLP",
-    "id": 50
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-36084",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Valse nobles et sentimentales",
     "composer": "Ravel",
@@ -5414,11 +5621,12 @@
     "specification": "(play two waltzes)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 54
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-30047",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Sonata in f minor K. 238",
     "composer": "Scarlatti",
@@ -5431,30 +5639,31 @@
     "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 155
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-18079",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Sonatas, Vols. I and II",
     "composer": "Scarlatti",
     "arranger": "Kirkpatrick",
     "publishers": [
-      "Multiple Publishers",
       "G. Schirmer, Inc.",
       "Any unabridged edition"
     ],
-    "publisherText": "Multiple Publishers;G. Schirmer, Inc.;Any unabridged edition",
+    "publisherText": "G. Schirmer, Inc.;Any unabridged edition",
     "classLevel": 1,
     "specification": "(play one Sonata)",
     "noMemoryRequired": false,
-    "publicDomainPdfUrl": "https://s9.imslp.org/files/imglnks/usimg/6/65/IMSLP04442-Scarlatti_-_Keyboard_Sonatas%2C_L.016-030.pdf",
-    "publicDomainSource": "IMSLP",
-    "id": 51
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-39921",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Drei Klavierst\u00fccke (Three Piano Pieces), D. 946",
     "composer": "Schubert",
@@ -5467,31 +5676,32 @@
     "specification": "(play one)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 283
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-18080",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Impromptus Op. 90 or Op. 142",
     "composer": "Schubert",
     "arranger": "",
     "publishers": [
-      "Multiple Publishers",
       "C.F. Peters Corporation",
       "G. Schirmer, Inc.",
       "Any unabridged edition"
     ],
-    "publisherText": "Multiple Publishers;C.F. Peters Corporation;G. Schirmer, Inc.;Any unabridged edition",
+    "publisherText": "C.F. Peters Corporation;G. Schirmer, Inc.;Any unabridged edition",
     "classLevel": 1,
     "specification": "(play one mvt)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 52
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-39922",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Moments musicaux, D. 780",
     "composer": "Schubert",
@@ -5504,11 +5714,12 @@
     "specification": "(play one)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 284
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-39923",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Sonatas",
     "composer": "Schubert",
@@ -5521,31 +5732,32 @@
     "specification": "(play first OR last mvt of any sonata)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 285
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-18081",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Arabeske, Op. 18",
     "composer": "Schumann",
     "arranger": "",
     "publishers": [
-      "Multiple Publishers",
       "C.F. Peters Corporation",
       "Edwin F. Kalmus",
       "Any unabridged edition"
     ],
-    "publisherText": "Multiple Publishers;C.F. Peters Corporation;Edwin F. Kalmus;Any unabridged edition",
+    "publisherText": "C.F. Peters Corporation;Edwin F. Kalmus;Any unabridged edition",
     "classLevel": 1,
     "specification": "",
     "noMemoryRequired": false,
-    "publicDomainPdfUrl": "https://s9.imslp.org/files/imglnks/usimg/c/cb/IMSLP51542-PMLP02766-RS56.pdf",
-    "publicDomainSource": "IMSLP",
-    "id": 53
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-39926",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Arabeske, Op. 18",
     "composer": "Schumann",
@@ -5558,11 +5770,12 @@
     "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 288
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-39927",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Blumenstuck, Op. 19",
     "composer": "Schumann",
@@ -5575,51 +5788,52 @@
     "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 289
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-36088",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Drei Romanzen, Op. 28",
     "composer": "Schumann",
     "arranger": "",
     "publishers": [
-      "Multiple Publishers",
       "Henle Publishing",
       "Dover",
       "Any unabridged edition"
     ],
-    "publisherText": "Multiple Publishers;Henle Publishing;Dover;Any unabridged edition",
+    "publisherText": "Henle Publishing;Dover;Any unabridged edition",
     "classLevel": 1,
     "specification": "(play one)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 192
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-36085",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Fantasiestucke. Op. 12",
     "composer": "Schumann",
     "arranger": "",
     "publishers": [
-      "Multiple Publishers",
       "Henle Publishing",
       "Dover",
       "Any unabridged edition"
     ],
-    "publisherText": "Multiple Publishers;Henle Publishing;Dover;Any unabridged edition",
+    "publisherText": "Henle Publishing;Dover;Any unabridged edition",
     "classLevel": 1,
     "specification": "(play one)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 189
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-39928",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Fantasiest\u00fccke, Op. 111",
     "composer": "Schumann",
@@ -5632,51 +5846,52 @@
     "specification": "(play one)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 290
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-36087",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Nachtst\u00fccke, Op. 23",
     "composer": "Schumann",
     "arranger": "",
     "publishers": [
-      "Multiple Publishers",
       "Henle Publishing",
       "Dover",
       "Any unabridged edition"
     ],
-    "publisherText": "Multiple Publishers;Henle Publishing;Dover;Any unabridged edition",
+    "publisherText": "Henle Publishing;Dover;Any unabridged edition",
     "classLevel": 1,
     "specification": "(play one)",
     "noMemoryRequired": false,
-    "publicDomainPdfUrl": "https://s9.imslp.org/files/imglnks/usimg/d/d3/IMSLP00732-Schumann_-_Nachtstucke%2C_Op_23.pdf",
-    "publicDomainSource": "IMSLP",
-    "id": 191
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-36086",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Novelettes, Op. 21",
     "composer": "Schumann",
     "arranger": "",
     "publishers": [
-      "Multiple Publishers",
       "Henle Publishing",
       "Dover",
       "Any unabridged edition"
     ],
-    "publisherText": "Multiple Publishers;Henle Publishing;Dover;Any unabridged edition",
+    "publisherText": "Henle Publishing;Dover;Any unabridged edition",
     "classLevel": 1,
     "specification": "(play one)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 190
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-39929",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Waldszenen, Op. 82",
     "composer": "Schumann",
@@ -5689,11 +5904,12 @@
     "specification": "(play any two)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 291
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-39924",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Pi\u00e8ces fugitives, Op. 15",
     "composer": "Schumann, C",
@@ -5706,11 +5922,12 @@
     "specification": "(play one)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 286
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-39925",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Soir\u00e9es musicales, Op. 6",
     "composer": "Schumann, C",
@@ -5723,11 +5940,12 @@
     "specification": "(play one)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 287
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-39933",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Deux Po\u00e8mes, Op. 32",
     "composer": "Scriabin",
@@ -5740,30 +5958,31 @@
     "specification": "(play one)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 295
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-18085",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Preludes, Op. 11, 13, 15, 16, 17, 22",
     "composer": "Scriabin",
     "arranger": "",
     "publishers": [
-      "Multiple Publishers",
       "G. Schirmer, Inc.",
       "Any unabridged edition"
     ],
-    "publisherText": "Multiple Publishers;G. Schirmer, Inc.;Any unabridged edition",
+    "publisherText": "G. Schirmer, Inc.;Any unabridged edition",
     "classLevel": 1,
     "specification": "(play two from one opus)",
     "noMemoryRequired": false,
-    "publicDomainPdfUrl": "https://s9.imslp.org/files/imglnks/usimg/b/b7/IMSLP78332-SIBLEY1802.1010.129d-39087012831824.pdf",
-    "publicDomainSource": "IMSLP",
-    "id": 56
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-39934",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Vers la flamme, Op. 72",
     "composer": "Scriabin",
@@ -5776,11 +5995,12 @@
     "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 296
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-39930",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "\u00c9tude in C-sharp minor, Op. 2, No. 1",
     "composer": "Scriabin",
@@ -5793,11 +6013,12 @@
     "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 292
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-39932",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "\u00c9tudes, Op. 42",
     "composer": "Scriabin",
@@ -5810,11 +6031,12 @@
     "specification": "(play one)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 294
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-39931",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "\u00c9tudes, Op. 8",
     "composer": "Scriabin",
@@ -5827,11 +6049,12 @@
     "specification": "(play one)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 293
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-39935",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "24 Preludes and Fugues, Op. 87",
     "composer": "Shostakovich",
@@ -5844,30 +6067,31 @@
     "specification": "(play one Prelude AND Fugue pair)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 297
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-18086",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Twenty-four Preludes, Op. 34",
     "composer": "Shostakovich",
     "arranger": "",
     "publishers": [
-      "Multiple Publishers",
       "Music Corporation of America",
       "Any unabridged edition"
     ],
-    "publisherText": "Multiple Publishers;Music Corporation of America;Any unabridged edition",
+    "publisherText": "Music Corporation of America;Any unabridged edition",
     "classLevel": 1,
     "specification": "(play two)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 57
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-39936",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Eight Memories in Watercolor",
     "composer": "Tan Dun",
@@ -5880,11 +6104,12 @@
     "specification": "(play any two)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 298
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-39937",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "The Seasons, Op. 37a",
     "composer": "Tchaikovsky",
@@ -5897,11 +6122,12 @@
     "specification": "(play one)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 299
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-18087",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "The Juggler Op. 31 No. 3",
     "composer": "Toch",
@@ -5914,11 +6140,12 @@
     "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 58
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-39938",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Variations on a Kentucky Folk Song",
     "composer": "Walker",
@@ -5931,11 +6158,12 @@
     "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 300
+    "publicDomainSource": null
   },
   {
     "uilCode": "603-1-39910",
+    "instrumentSlug": "piano",
+    "instrumentName": "Piano Solos",
     "eventName": "Piano Solo",
     "title": "Piano Music of Africa and the African Diaspora, Vol. 3",
     "composer": "various",
@@ -5948,7 +6176,6 @@
     "specification": "(play Juba Dance OR The Cuckoo)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "id": 272
+    "publicDomainSource": null
   }
 ]

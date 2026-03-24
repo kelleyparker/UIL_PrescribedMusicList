@@ -23,21 +23,39 @@ FILE_PAIR_PATTERN = re.compile(
     r'Special:ImagefromIndex/(\d+).*?href="(/images/[^"]+\.pdf)"',
     re.DOTALL,
 )
+TOKEN_PATTERN = re.compile(r"[A-Za-z]{4,}")
+TITLE_STOPWORDS = {
+    "from",
+    "major",
+    "minor",
+    "allegro",
+    "andante",
+    "adagio",
+    "presto",
+    "romance",
+    "sonata",
+    "sonatina",
+    "concerto",
+    "concertino",
+    "rondo",
+    "suite",
+    "piece",
+}
 
 
 def song_key(song: PianoSoloRow) -> str:
     return f"{clean_text(song.composer)}::{clean_text(song.title)}"
 
 
-def load_cache() -> dict[str, dict]:
-    if not LINKS_CACHE_PATH.exists():
+def load_cache(cache_path: Path = LINKS_CACHE_PATH) -> dict[str, dict]:
+    if not cache_path.exists():
         return {}
-    return json.loads(LINKS_CACHE_PATH.read_text(encoding="utf-8"))
+    return json.loads(cache_path.read_text(encoding="utf-8"))
 
 
-def save_cache(cache: dict[str, dict]) -> None:
-    LINKS_CACHE_PATH.parent.mkdir(parents=True, exist_ok=True)
-    LINKS_CACHE_PATH.write_text(json.dumps(cache, indent=2), encoding="utf-8")
+def save_cache(cache: dict[str, dict], cache_path: Path = LINKS_CACHE_PATH) -> None:
+    cache_path.parent.mkdir(parents=True, exist_ok=True)
+    cache_path.write_text(json.dumps(cache, indent=2), encoding="utf-8")
 
 
 def check_pdf_url(url: str) -> bool:
@@ -98,13 +116,49 @@ def title_variants(title: str) -> list[str]:
     return variants
 
 
+def instrument_hint(song: PianoSoloRow) -> str:
+    event_name = clean_text(song.event_name).lower()
+    if "french horn" in event_name:
+        return "horn"
+    if "piano" in event_name:
+        return "piano"
+    return ""
+
+
+def title_tokens(title: str) -> list[str]:
+    return [
+        token.lower()
+        for token in TOKEN_PATTERN.findall(clean_text(title))
+        if token.lower() not in TITLE_STOPWORDS
+    ]
+
+
+def page_title_matches(song: PianoSoloRow, page_title: str, variant: str) -> bool:
+    normalized_page_title = clean_text(page_title).lower()
+    composer = clean_text(song.composer).lower()
+    composer_tokens = composer.split()
+    if composer_tokens and composer_tokens[-1] not in normalized_page_title:
+        return False
+
+    hint = instrument_hint(song)
+    if hint and hint not in normalized_page_title:
+        return False
+
+    tokens = title_tokens(variant)
+    if not tokens:
+        return True
+
+    return any(token in normalized_page_title for token in tokens)
+
+
 def find_public_domain_link(song: PianoSoloRow) -> dict | None:
     composer = clean_text(song.composer)
+    hint = instrument_hint(song)
     for variant in title_variants(song.title)[:2]:
-        query = f"{composer} {variant}"
+        query = " ".join(part for part in [composer, variant, hint] if part)
         try:
             for page_title in query_imslp_titles(query):
-                if composer.split()[-1].lower() not in page_title.lower():
+                if not page_title_matches(song, page_title, variant):
                     continue
                 for url in extract_pdf_candidates(page_title)[:8]:
                     if check_pdf_url(url):
@@ -120,8 +174,12 @@ def find_public_domain_link(song: PianoSoloRow) -> dict | None:
     return None
 
 
-def enrich_public_domain_links(rows: list[PianoSoloRow]) -> dict[str, dict]:
-    cache = load_cache()
+def enrich_public_domain_links(
+    rows: list[PianoSoloRow],
+    *,
+    cache_path: Path = LINKS_CACHE_PATH,
+) -> dict[str, dict]:
+    cache = load_cache(cache_path)
     links_by_code: dict[str, dict] = {}
 
     for index, song in enumerate(rows, start=1):
@@ -135,10 +193,10 @@ def enrich_public_domain_links(rows: list[PianoSoloRow]) -> dict[str, dict]:
         if link:
             cache[key] = link
             links_by_code[song.code] = link
-            save_cache(cache)
+            save_cache(cache, cache_path)
             print(f"[{index}/{len(rows)}] linked {song.composer} - {song.title}")
         elif index % 25 == 0:
             print(f"[{index}/{len(rows)}] checked through {song.composer} - {song.title}")
 
-    save_cache(cache)
+    save_cache(cache, cache_path)
     return links_by_code

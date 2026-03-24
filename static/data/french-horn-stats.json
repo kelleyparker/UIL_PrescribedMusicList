@@ -1,0 +1,19 @@
+{
+  "schoolYear": "2025-2026",
+  "instrumentSlug": "french-horn",
+  "instrumentName": "French Horn Solos",
+  "songCount": 251,
+  "publisherCount": 268,
+  "noteCount": 1,
+  "databaseRecordCount": 252,
+  "classBreakdown": {
+    "3": 80,
+    "2": 98,
+    "1": 73
+  },
+  "noMemoryRequiredCount": 2,
+  "publicDomainPdfCount": 8,
+  "notes": {
+    "dataset_audit": "Sourced from https://www.uiltexas.org/pml/ and https://www.uiltexas.org/pml/pml.php. Imported 2026-03-24T13:45:21.640837+00:00."
+  }
+}

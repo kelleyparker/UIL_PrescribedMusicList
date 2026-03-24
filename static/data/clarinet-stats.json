@@ -1,0 +1,25 @@
+{
+  "schoolYear": "2025-2026",
+  "songCount": 520,
+  "publisherCount": 583,
+  "noteCount": 2,
+  "databaseRecordCount": 522,
+  "classBreakdown": {
+    "3": 117,
+    "2": 189,
+    "1": 214
+  },
+  "noMemoryRequiredCount": 16,
+  "publicDomainPdfCount": 18,
+  "eventBreakdown": {
+    "Alto Clarinet Solo": 61,
+    "Bass Clarinet Solo": 134,
+    "Bb Clarinet Solo": 267,
+    "Contra Bass Clarinet Solo": 28,
+    "Eb Clarinet Solo": 30
+  },
+  "notes": {
+    "source_song_count": "520",
+    "dataset_audit": "Sourced from https://www.uiltexas.org/pml/ and https://www.uiltexas.org/pml/pml.php. Imported 2026-03-24T13:47:56.048082+00:00."
+  }
+}

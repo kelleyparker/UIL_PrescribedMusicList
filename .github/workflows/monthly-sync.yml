@@ -1,4 +1,4 @@
-name: Sync UIL Piano Solos
+name: Sync UIL Solo Datasets
 
 on:
   schedule:
@@ -44,6 +44,18 @@ jobs:
           print(stats["schoolYear"])
           PY
           )
-          git add data/public_domain_links.json data/uil_piano_solos.db data/uil_piano_solos_source.csv static/data/piano-solos.json static/data/stats.json
-          git commit -m "Sync UIL Piano Solos for ${YEAR}"
+          git add \
+            data/public_domain_links.json \
+            data/trumpet_public_domain_links.json \
+            data/uil_piano_solos_source.csv \
+            data/uil_french_horn_solos_source.csv \
+            data/uil_trumpet_solos_source.csv \
+            static/data/piano-solos.json \
+            static/data/piano-stats.json \
+            static/data/french-horn-solos.json \
+            static/data/french-horn-stats.json \
+            static/data/trumpet-solos.json \
+            static/data/trumpet-stats.json \
+            static/data/stats.json
+          git commit -m "Sync UIL solo datasets for ${YEAR}"
           git push

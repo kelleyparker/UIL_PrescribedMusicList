@@ -1,146 +1,84 @@
 from __future__ import annotations
 
 import json
-import sqlite3
 from http import HTTPStatus
 from http.server import SimpleHTTPRequestHandler, ThreadingHTTPServer
 from pathlib import Path
 from urllib.parse import parse_qs, urlparse
 
-from scripts.import_piano_solos import DB_PATH, STATIC_DATA_DIR, build_from_csv
+from scripts.import_piano_solos import STATIC_DATA_DIR, build_all_from_csv
 
 
 ROOT = Path(__file__).resolve().parent
 STATIC_DIR = ROOT / "static"
+INSTRUMENT_FILES = {
+    "piano": {
+        "songs": STATIC_DATA_DIR / "piano-solos.json",
+        "stats": STATIC_DATA_DIR / "piano-stats.json",
+    },
+    "french-horn": {
+        "songs": STATIC_DATA_DIR / "french-horn-solos.json",
+        "stats": STATIC_DATA_DIR / "french-horn-stats.json",
+    },
+    "trumpet": {
+        "songs": STATIC_DATA_DIR / "trumpet-solos.json",
+        "stats": STATIC_DATA_DIR / "trumpet-stats.json",
+    },
+}
 
 
-def ensure_database() -> None:
-    if not DB_PATH.exists():
-        build_from_csv()
+def ensure_static_data() -> None:
+    missing_outputs = [
+        path
+        for files in INSTRUMENT_FILES.values()
+        for path in files.values()
+        if not path.exists()
+    ]
+    if missing_outputs:
+        build_all_from_csv()
 
 
-def database_connection() -> sqlite3.Connection:
-    ensure_database()
-    connection = sqlite3.connect(DB_PATH)
-    connection.row_factory = sqlite3.Row
-    return connection
+def load_dataset(instrument_slug: str) -> tuple[list[dict], dict]:
+    ensure_static_data()
+    files = INSTRUMENT_FILES.get(instrument_slug, INSTRUMENT_FILES["piano"])
+    songs = json.loads(files["songs"].read_text(encoding="utf-8"))
+    stats = json.loads(files["stats"].read_text(encoding="utf-8"))
+    return songs, stats
 
 
-def fetch_piano_solos(search_term: str = "", class_filter: str = "all") -> list[dict]:
-    sql = """
-        SELECT
-            piano_solos.id,
-            piano_solos.uil_code,
-            piano_solos.title,
-            piano_solos.composer,
-            piano_solos.arranger,
-            piano_solos.publisher_text,
-            piano_solos.class_level,
-            piano_solos.specification,
-            (
-                SELECT GROUP_CONCAT(ordered_publishers.publisher_name, '||')
-                FROM (
-                    SELECT publisher_name
-                    FROM publishers
-                    WHERE publishers.piano_solo_id = piano_solos.id
-                    ORDER BY sort_order
-                ) AS ordered_publishers
-            ) AS publishers
-        FROM piano_solos
-    """
+def fetch_solos(
+    instrument_slug: str = "piano",
+    search_term: str = "",
+    class_filter: str = "all",
+) -> list[dict]:
+    songs, _ = load_dataset(instrument_slug)
+    filtered = []
+    lowered_query = search_term.lower()
 
-    where_clauses = []
-    parameters: list[str | int] = []
-
-    if class_filter in {"1", "2", "3"}:
-        where_clauses.append("piano_solos.class_level = ?")
-        parameters.append(int(class_filter))
-    elif class_filter == "nmr":
-        where_clauses.append("piano_solos.specification LIKE ?")
-        parameters.append("%NMR:%")
-
-    if search_term:
-        where_clauses.append(
-            """
-            (
-                piano_solos.title LIKE ?
-                OR piano_solos.composer LIKE ?
-                OR piano_solos.publisher_text LIKE ?
-            )
-            """
+    for song in songs:
+        filter_matches = (
+            class_filter == "all"
+            or (class_filter == "nmr" and song["noMemoryRequired"])
+            or str(song["classLevel"]) == class_filter
         )
-        search_value = f"%{search_term}%"
-        parameters.extend([search_value, search_value, search_value])
+        if not filter_matches:
+            continue
 
-    if where_clauses:
-        sql += " WHERE " + " AND ".join(where_clauses)
-
-    sql += """
-        ORDER BY piano_solos.class_level DESC, piano_solos.composer ASC, piano_solos.title ASC
-    """
-
-    with database_connection() as connection:
-        rows = connection.execute(sql, parameters).fetchall()
-
-    payload = []
-    for row in rows:
-        publishers = row["publishers"].split("||") if row["publishers"] else []
-        payload.append(
-            {
-                "id": row["id"],
-                "uilCode": row["uil_code"],
-                "title": row["title"],
-                "composer": row["composer"],
-                "arranger": row["arranger"],
-                "publishers": publishers,
-                "publisherText": row["publisher_text"],
-                "classLevel": row["class_level"],
-                "specification": row["specification"],
-                "noMemoryRequired": "NMR:" in (row["specification"] or ""),
-            }
+        search_matches = (
+            not lowered_query
+            or lowered_query in song["title"].lower()
+            or lowered_query in song["composer"].lower()
+            or lowered_query in song["publisherText"].lower()
         )
+        if search_matches:
+            filtered.append(song)
 
-    return payload
+    return filtered
 
 
-def fetch_stats() -> dict:
-    with database_connection() as connection:
-        song_count = connection.execute("SELECT COUNT(*) FROM piano_solos").fetchone()[0]
-        publisher_count = connection.execute(
-            "SELECT COUNT(*) FROM publishers"
-        ).fetchone()[0]
-        note_count = connection.execute("SELECT COUNT(*) FROM dataset_notes").fetchone()[0]
-        notes = connection.execute(
-            "SELECT note_key, note_value FROM dataset_notes ORDER BY id"
-        ).fetchall()
-        classes = connection.execute(
-            """
-            SELECT class_level, COUNT(*) AS total
-            FROM piano_solos
-            GROUP BY class_level
-            ORDER BY class_level DESC
-            """
-        ).fetchall()
-        no_memory_required_count = connection.execute(
-            "SELECT COUNT(*) FROM piano_solos WHERE specification LIKE '%NMR:%'"
-        ).fetchone()[0]
-
-    payload = {
-        "songCount": song_count,
-        "publisherCount": publisher_count,
-        "noteCount": note_count,
-        "databaseRecordCount": song_count + note_count,
-        "classBreakdown": {str(row["class_level"]): row["total"] for row in classes},
-        "noMemoryRequiredCount": no_memory_required_count,
-        "notes": {row["note_key"]: row["note_value"] for row in notes},
-    }
-
-    stats_path = STATIC_DATA_DIR / "stats.json"
-    if stats_path.exists():
-        static_stats = json.loads(stats_path.read_text(encoding="utf-8"))
-        payload["schoolYear"] = static_stats.get("schoolYear")
-
-    return payload
+def fetch_stats(instrument_slug: str = "piano") -> dict:
+    _, stats = load_dataset(instrument_slug)
+    return stats
 
 
 class UILRequestHandler(SimpleHTTPRequestHandler):
@@ -150,12 +88,16 @@ class UILRequestHandler(SimpleHTTPRequestHandler):
     def do_GET(self) -> None:
         parsed_url = urlparse(self.path)
 
-        if parsed_url.path == "/api/piano-solos":
-            self.handle_piano_solos(parsed_url.query)
+        if parsed_url.path == "/api/solos":
+            self.handle_solos(parsed_url.query)
             return
 
         if parsed_url.path == "/api/stats":
-            self.handle_stats()
+            self.handle_stats(parsed_url.query)
+            return
+
+        if parsed_url.path == "/api/piano-solos":
+            self.handle_solos(parsed_url.query, instrument_slug="piano")
             return
 
         if parsed_url.path == "/":
@@ -163,14 +105,28 @@ class UILRequestHandler(SimpleHTTPRequestHandler):
 
         super().do_GET()
 
-    def handle_piano_solos(self, query_string: str) -> None:
+    def handle_solos(
+        self,
+        query_string: str,
+        *,
+        instrument_slug: str | None = None,
+    ) -> None:
         query = parse_qs(query_string)
         search_term = (query.get("q", [""])[0] or "").strip()
         class_filter = (query.get("class", ["all"])[0] or "all").strip()
-        self.send_json(fetch_piano_solos(search_term=search_term, class_filter=class_filter))
+        instrument = instrument_slug or (query.get("instrument", ["piano"])[0] or "piano")
+        self.send_json(
+            fetch_solos(
+                instrument_slug=instrument,
+                search_term=search_term,
+                class_filter=class_filter,
+            )
+        )
 
-    def handle_stats(self) -> None:
-        self.send_json(fetch_stats())
+    def handle_stats(self, query_string: str) -> None:
+        query = parse_qs(query_string)
+        instrument = (query.get("instrument", ["piano"])[0] or "piano").strip()
+        self.send_json(fetch_stats(instrument))
 
     def send_json(self, payload: object) -> None:
         body = json.dumps(payload).encode("utf-8")
@@ -182,9 +138,9 @@ class UILRequestHandler(SimpleHTTPRequestHandler):
 
 
 def main() -> None:
-    ensure_database()
+    ensure_static_data()
     server = ThreadingHTTPServer(("127.0.0.1", 8000), UILRequestHandler)
-    print("Serving UIL Piano Solos at http://127.0.0.1:8000")
+    print("Serving UIL Prescribed Music List at http://127.0.0.1:8000")
     server.serve_forever()
 
 

@@ -1,0 +1,4537 @@
+[
+  {
+    "uilCode": "302-3-38569",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Art Songs for Young Folks Vol 2",
+    "composer": "",
+    "arranger": "Freidrich",
+    "publishers": [
+      "Sheet Music Plus Press"
+    ],
+    "publisherText": "Sheet Music Plus Press",
+    "classLevel": 3,
+    "specification": "(play Ich Liebe Dich by Beethoven OR Grieg)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-3-37375",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Scenarios (15 pieces for Horn and Piano in 5 Scenarios)",
+    "composer": "",
+    "arranger": "",
+    "publishers": [
+      "Barbara Arens"
+    ],
+    "publisherText": "Barbara Arens",
+    "classLevel": 3,
+    "specification": "(play 2 contrasting mvts)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-3-12852",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Meadowland",
+    "composer": "Anon. or Trad.",
+    "arranger": "Hurrel",
+    "publishers": [
+      "Rubank, Inc."
+    ],
+    "publisherText": "Rubank, Inc.",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-3-38566",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Scenarios",
+    "composer": "Arens",
+    "arranger": "",
+    "publishers": [
+      "Stretta"
+    ],
+    "publisherText": "Stretta",
+    "classLevel": 3,
+    "specification": "(play one mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-3-23769",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "1st Suite: Menuet",
+    "composer": "Bach",
+    "arranger": "Stelten",
+    "publishers": [
+      "Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande]"
+    ],
+    "publisherText": "Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande]",
+    "classLevel": 3,
+    "specification": "(must also play one additional mvt from the 1st suite of this collection)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-3-29644",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Area (from Cantata 201)",
+    "composer": "Bach",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-3-29838",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Bist Du Bei Mir",
+    "composer": "Bach",
+    "arranger": "Doughty",
+    "publishers": [
+      "BVD"
+    ],
+    "publisherText": "BVD",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-3-12838",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Musette (from Anna Magdalena Bach Notebook)",
+    "composer": "Bach",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-3-12839",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Canzona",
+    "composer": "Bakaleinikoff",
+    "arranger": "",
+    "publishers": [
+      "Belwin, Inc"
+    ],
+    "publisherText": "Belwin, Inc",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-3-12840",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Cavatina",
+    "composer": "Bakaleinikoff",
+    "arranger": "",
+    "publishers": [
+      "Belwin, Inc"
+    ],
+    "publisherText": "Belwin, Inc",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-3-23559",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "The St. Catherine Rigaudon",
+    "composer": "Barrett",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press [Medici Masterworks, Vol. I]"
+    ],
+    "publisherText": "Medici Music Press [Medici Masterworks, Vol. I]",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-3-12841",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "May Song Op. 52 No. 4",
+    "composer": "Beethoven",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-3-23771",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "2nd Suite: Rigaudon",
+    "composer": "Bohm",
+    "arranger": "Stelten",
+    "publishers": [
+      "Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande]"
+    ],
+    "publisherText": "Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande]",
+    "classLevel": 3,
+    "specification": "(must also play one additional mvt from the 2nd suite of this collection)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-3-12843",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Meditation",
+    "composer": "Buchtel",
+    "arranger": "",
+    "publishers": [
+      "Neil A. Kjos Music Company"
+    ],
+    "publisherText": "Neil A. Kjos Music Company",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-3-12844",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Cavatina",
+    "composer": "Chopin",
+    "arranger": "Buchtel",
+    "publishers": [
+      "Neil A. Kjos Music Company"
+    ],
+    "publisherText": "Neil A. Kjos Music Company",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-3-12845",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Nocturne",
+    "composer": "Chopin",
+    "arranger": "Hudadoff",
+    "publishers": [
+      "Belwin, Inc [Fifteen Intermediate F Horn Solos]"
+    ],
+    "publisherText": "Belwin, Inc [Fifteen Intermediate F Horn Solos]",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-3-12847",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Ayre",
+    "composer": "Clarke",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press [Medici Masterworks, Vol. I]"
+    ],
+    "publisherText": "Medici Music Press [Medici Masterworks, Vol. I]",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-3-25323",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "L'Antique Cor",
+    "composer": "Cochereau",
+    "arranger": "",
+    "publishers": [
+      "International Music Diffusion"
+    ],
+    "publisherText": "International Music Diffusion",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-3-12846",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Reverie",
+    "composer": "Debussy",
+    "arranger": "Hudadoff",
+    "publishers": [
+      "Belwin, Inc [Fifteen Intermediate F Horn Solos]"
+    ],
+    "publisherText": "Belwin, Inc [Fifteen Intermediate F Horn Solos]",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-3-38568",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "7 Faure Art Songs",
+    "composer": "Faure",
+    "arranger": "Freidrich",
+    "publishers": [
+      "Sheet Music Plus Press"
+    ],
+    "publisherText": "Sheet Music Plus Press",
+    "classLevel": 3,
+    "specification": "(play Les Matelots OR Aurore)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-3-23765",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "1st Suite: March",
+    "composer": "Fischer",
+    "arranger": "Stelten",
+    "publishers": [
+      "Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande]"
+    ],
+    "publisherText": "Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande]",
+    "classLevel": 3,
+    "specification": "(must also play one additional mvt from the 1st suite of this collection)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-3-23770",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "1st Suite: Rondeau",
+    "composer": "Fischer",
+    "arranger": "Stelten",
+    "publishers": [
+      "Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande]"
+    ],
+    "publisherText": "Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande]",
+    "classLevel": 3,
+    "specification": "(must also play one additional mvt from the 1st suite of this collection)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-3-23776",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "2nd Suite: Ronde",
+    "composer": "Fischer",
+    "arranger": "Stelten",
+    "publishers": [
+      "Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande]"
+    ],
+    "publisherText": "Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande]",
+    "classLevel": 3,
+    "specification": "(must also play one additional mvt from the 2nd suite of this collection)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-3-37367",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Elegy",
+    "composer": "Gazlay",
+    "arranger": "",
+    "publishers": [
+      "Kendor Music, Inc."
+    ],
+    "publisherText": "Kendor Music, Inc.",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-3-37373",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Fresh Air",
+    "composer": "Gazlay",
+    "arranger": "",
+    "publishers": [
+      "Imagine Music"
+    ],
+    "publisherText": "Imagine Music",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-3-37372",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Green Pastures",
+    "composer": "Gazlay",
+    "arranger": "",
+    "publishers": [
+      "Imagine Music"
+    ],
+    "publisherText": "Imagine Music",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-3-37371",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Homage",
+    "composer": "Gazlay",
+    "arranger": "",
+    "publishers": [
+      "Imagine Music"
+    ],
+    "publisherText": "Imagine Music",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-3-37370",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Reflections",
+    "composer": "Gazlay",
+    "arranger": "",
+    "publishers": [
+      "Imagine Music"
+    ],
+    "publisherText": "Imagine Music",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-3-37366",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Seascapes",
+    "composer": "Gazlay",
+    "arranger": "",
+    "publishers": [
+      "Kendor Music, Inc."
+    ],
+    "publisherText": "Kendor Music, Inc.",
+    "classLevel": 3,
+    "specification": "(play one mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-3-37369",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Wandering",
+    "composer": "Gazlay",
+    "arranger": "",
+    "publishers": [
+      "Imagine Music"
+    ],
+    "publisherText": "Imagine Music",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-3-37374",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Baker's Dozen",
+    "composer": "Gillingham",
+    "arranger": "",
+    "publishers": [
+      "C. Alan Publications"
+    ],
+    "publisherText": "C. Alan Publications",
+    "classLevel": 3,
+    "specification": "(play mvt 4 OR mvt 6)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-3-12848",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Berceuse (from Jocelyn)",
+    "composer": "Godard",
+    "arranger": "Buchtel",
+    "publishers": [
+      "Neil A. Kjos Music Company"
+    ],
+    "publisherText": "Neil A. Kjos Music Company",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-3-12849",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "To Spring",
+    "composer": "Grieg",
+    "arranger": "Smith/Farkas",
+    "publishers": [
+      "Belwin, Inc"
+    ],
+    "publisherText": "Belwin, Inc",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-3-12850",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Allegro Giocoso",
+    "composer": "Haddad",
+    "arranger": "",
+    "publishers": [
+      "Shawnee Press"
+    ],
+    "publisherText": "Shawnee Press",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-3-23562",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Gavotte (from Sonata No. 7)",
+    "composer": "Handel",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press [Medici Masterworks, Vol. I]"
+    ],
+    "publisherText": "Medici Music Press [Medici Masterworks, Vol. I]",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-3-12851",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Dance of the Bears",
+    "composer": "Harris",
+    "arranger": "",
+    "publishers": [
+      "Ludwig Music Publishing Company",
+      "Mitchell Peters"
+    ],
+    "publisherText": "Ludwig Music Publishing Company;Mitchell Peters",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-3-12853",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "A Pocket Full of Posies",
+    "composer": "Irwin",
+    "arranger": "",
+    "publishers": [
+      "Irwin"
+    ],
+    "publisherText": "Irwin",
+    "classLevel": 3,
+    "specification": "(play two contrasting mvts)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-3-12855",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Windmills",
+    "composer": "James",
+    "arranger": "",
+    "publishers": [
+      "Basil Ramsey"
+    ],
+    "publisherText": "Basil Ramsey",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-3-37368",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Approbation",
+    "composer": "Johnson",
+    "arranger": "",
+    "publishers": [
+      "JPM Music Publications"
+    ],
+    "publisherText": "JPM Music Publications",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-3-23766",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "1st Suite: Bourree",
+    "composer": "Krieger",
+    "arranger": "Stelten",
+    "publishers": [
+      "Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande]"
+    ],
+    "publisherText": "Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande]",
+    "classLevel": 3,
+    "specification": "(must also play one additional mvt from the 1st suite of this collection)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-3-23768",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "1st Suite: Menuet",
+    "composer": "Krieger",
+    "arranger": "Stelten",
+    "publishers": [
+      "Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande]"
+    ],
+    "publisherText": "Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande]",
+    "classLevel": 3,
+    "specification": "(must also play one additional mvt from the 1st suite of this collection)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-3-23772",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "2nd Suite: Bourree",
+    "composer": "Krieger",
+    "arranger": "Stelten",
+    "publishers": [
+      "Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande]"
+    ],
+    "publisherText": "Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande]",
+    "classLevel": 3,
+    "specification": "(must also play one additional mvt from the 2nd suite of this collection)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-3-23773",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "2nd Suite: Sarabande",
+    "composer": "Kuhnau",
+    "arranger": "Stelten",
+    "publishers": [
+      "Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande]"
+    ],
+    "publisherText": "Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande]",
+    "classLevel": 3,
+    "specification": "(must also play one additional mvt from the 2nd suite of this collection)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-3-12856",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Dancing Song Op. 58",
+    "composer": "Liadov",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-3-12857",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Autumn Dream",
+    "composer": "Lotzenhiser",
+    "arranger": "",
+    "publishers": [
+      "Belwin, Inc"
+    ],
+    "publisherText": "Belwin, Inc",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-3-23561",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Courante",
+    "composer": "Lully",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press [Medici Masterworks, Vol. I]"
+    ],
+    "publisherText": "Medici Music Press [Medici Masterworks, Vol. I]",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-3-23563",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "La Voltigeuse (from Three Small Pieces for Piano)",
+    "composer": "Marpurg",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press [Medici Masterworks, Vol. I]"
+    ],
+    "publisherText": "Medici Music Press [Medici Masterworks, Vol. I]",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-3-12858",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Siciliana (from Cavalleria Rusticana)",
+    "composer": "Mascagni",
+    "arranger": "",
+    "publishers": [
+      "Carl Fischer, Inc."
+    ],
+    "publisherText": "Carl Fischer, Inc.",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-3-12859",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Three Pastoral Scenes",
+    "composer": "McKay",
+    "arranger": "",
+    "publishers": [
+      "G. Schirmer, Inc."
+    ],
+    "publisherText": "G. Schirmer, Inc.",
+    "classLevel": 3,
+    "specification": "(play two)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-3-30473",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Andantino (O Rest In The Lord)",
+    "composer": "Mendelssohn",
+    "arranger": "Hilfiger",
+    "publishers": [
+      "Kendor Music, Inc. [First Solo Album for Horn]"
+    ],
+    "publisherText": "Kendor Music, Inc. [First Solo Album for Horn]",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-3-12860",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Gopak",
+    "composer": "Moussorgsky",
+    "arranger": "Hudadoff",
+    "publishers": [
+      "Belwin, Inc [Fifteen Intermediate F Horn Solos]"
+    ],
+    "publisherText": "Belwin, Inc [Fifteen Intermediate F Horn Solos]",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-3-12861",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Presto (from Divertimento No. 12)",
+    "composer": "Mozart",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-3-12862",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Rondo (from Divertimento No. 11)",
+    "composer": "Mozart",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-3-12863",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Ballade",
+    "composer": "Ostransky",
+    "arranger": "",
+    "publishers": [
+      "Rubank, Inc."
+    ],
+    "publisherText": "Rubank, Inc.",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-3-29645",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Caprice",
+    "composer": "Pekas",
+    "arranger": "",
+    "publishers": [
+      "Grand Mesa Music Publishers"
+    ],
+    "publisherText": "Grand Mesa Music Publishers",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-3-12864",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "The Hunt",
+    "composer": "Ployhar",
+    "arranger": "",
+    "publishers": [
+      "Belwin, Inc"
+    ],
+    "publisherText": "Belwin, Inc",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-3-12865",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Gavotte (from Harpsicord Suite No. 5)",
+    "composer": "Purcell",
+    "arranger": "Vedeski",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-3-12866",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "March (from Suite No. 5)",
+    "composer": "Purcell",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-3-30472",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Minuet And Rigadoon",
+    "composer": "Purcell",
+    "arranger": "Hilfiger",
+    "publishers": [
+      "Kendor Music, Inc. [First Solo Album for Horn]"
+    ],
+    "publisherText": "Kendor Music, Inc. [First Solo Album for Horn]",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-3-29646",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Trumpet Tune-Rigadoon-Trumpet Tune",
+    "composer": "Purcell",
+    "arranger": "Clarke/Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-3-12867",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Rigaudon (from Pieces de Clavecin, 1724)",
+    "composer": "Rameau",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-3-23560",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Tambourin (from Pieces de Clavecin)",
+    "composer": "Rameau",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press [Medici Masterworks, Vol. I]"
+    ],
+    "publisherText": "Medici Music Press [Medici Masterworks, Vol. I]",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-3-23767",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "1st Suite: Sarabande",
+    "composer": "Reusner",
+    "arranger": "Stelten",
+    "publishers": [
+      "Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande]"
+    ],
+    "publisherText": "Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande]",
+    "classLevel": 3,
+    "specification": "(must also play one additional mvt from the 1st suite of this collection)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-3-25317",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Andante and March",
+    "composer": "Saint-Jacome",
+    "arranger": "Brom",
+    "publishers": [
+      "Kendor Music, Inc."
+    ],
+    "publisherText": "Kendor Music, Inc.",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-3-23774",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "2nd Suite: Menuet",
+    "composer": "Schickhardt",
+    "arranger": "Stelten",
+    "publishers": [
+      "Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande]"
+    ],
+    "publisherText": "Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande]",
+    "classLevel": 3,
+    "specification": "(must also play one additional mvt from the 2nd suite of this collection)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-3-30471",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "A Celebration",
+    "composer": "Schudel",
+    "arranger": "",
+    "publishers": [
+      "Kendor Music, Inc."
+    ],
+    "publisherText": "Kendor Music, Inc.",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-3-12868",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Abendlied and Traumeri",
+    "composer": "Schumann",
+    "arranger": "Klemcke",
+    "publishers": [
+      "Carl Fischer, Inc."
+    ],
+    "publisherText": "Carl Fischer, Inc.",
+    "classLevel": 3,
+    "specification": "(play one)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-3-12869",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Chalet",
+    "composer": "Smith",
+    "arranger": "Farkas",
+    "publishers": [
+      "Belwin, Inc"
+    ],
+    "publisherText": "Belwin, Inc",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-3-12870",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Telestar",
+    "composer": "Smith",
+    "arranger": "Farkas",
+    "publishers": [
+      "Belwin, Inc [Horn Solos Level 2]"
+    ],
+    "publisherText": "Belwin, Inc [Horn Solos Level 2]",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-3-12872",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Allerseelen Op. 10 No. 8",
+    "composer": "Strauss",
+    "arranger": "Voxman",
+    "publishers": [
+      "Rubank, Inc."
+    ],
+    "publisherText": "Rubank, Inc.",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-3-12873",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Three Songs Op. 10",
+    "composer": "Strauss",
+    "arranger": "Davis",
+    "publishers": [
+      "Western International Music, Inc."
+    ],
+    "publisherText": "Western International Music, Inc.",
+    "classLevel": 3,
+    "specification": "(play one)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-3-12874",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Petite Suite de Danses Anciennes",
+    "composer": "Susato",
+    "arranger": "Stelten",
+    "publishers": [
+      "Alphonse Leduc"
+    ],
+    "publisherText": "Alphonse Leduc",
+    "classLevel": 3,
+    "specification": "(play two)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-3-23775",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "2nd Suite: Menuet",
+    "composer": "Telemann",
+    "arranger": "Stelten",
+    "publishers": [
+      "Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande]"
+    ],
+    "publisherText": "Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande]",
+    "classLevel": 3,
+    "specification": "(must also play one additional mvt from the 2nd suite of this collection)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-3-37376",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "13 Original Compositions for F Horn and Piano",
+    "composer": "Ticheli",
+    "arranger": "",
+    "publishers": [
+      "Manhattan Beach Music [13 Original Compositions for F Horn and Piano]"
+    ],
+    "publisherText": "Manhattan Beach Music [13 Original Compositions for F Horn and Piano]",
+    "classLevel": 3,
+    "specification": "(play Ancient Voices OR Fire Dance OR Going to Lafayette OR Serene Serpent OR Sunday Morning OR Kings Homecoming OR Walking with a Wizard)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-3-37365",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Concerto",
+    "composer": "Van Doren",
+    "arranger": "",
+    "publishers": [
+      "Metropolis Music Publishers"
+    ],
+    "publisherText": "Metropolis Music Publishers",
+    "classLevel": 3,
+    "specification": "(play Square 10 to Square 13)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-3-12842",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Kendor Recital Solos",
+    "composer": "Various",
+    "arranger": "",
+    "publishers": [
+      "Kendor Music, Inc.",
+      "Kendor Music, Inc. [Kendor Recital Solos]"
+    ],
+    "publisherText": "Kendor Music, Inc.;Kendor Music, Inc. [Kendor Recital Solos]",
+    "classLevel": 3,
+    "specification": "(play one)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-3-12875",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Spanish Waltzes",
+    "composer": "Waldteufel",
+    "arranger": "Hudadoff",
+    "publishers": [
+      "Belwin, Inc [Fifteen Intermediate F Horn Solos]"
+    ],
+    "publisherText": "Belwin, Inc [Fifteen Intermediate F Horn Solos]",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-3-38567",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Art Songs for Young Folks",
+    "composer": "various",
+    "arranger": "Freidrich",
+    "publishers": [
+      "Sheet Music Plus Press"
+    ],
+    "publisherText": "Sheet Music Plus Press",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-3-38564",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Festival Solos for Horn",
+    "composer": "various",
+    "arranger": "Pearson & Elledge",
+    "publishers": [
+      "Neil A. Kjos Music Company"
+    ],
+    "publisherText": "Neil A. Kjos Music Company",
+    "classLevel": 3,
+    "specification": "(play one solo EXCEPT Melody and Springtime Waltz)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-3-38565",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Festival Solos for Horn, Book 2",
+    "composer": "various",
+    "arranger": "Pearson & Elledge",
+    "publishers": [
+      "Neil A. Kjos Music Company"
+    ],
+    "publisherText": "Neil A. Kjos Music Company",
+    "classLevel": 3,
+    "specification": "(play one solo)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-2-37349",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "The Alpine Horn",
+    "composer": "",
+    "arranger": "",
+    "publishers": [
+      "JPM Music Publications"
+    ],
+    "publisherText": "JPM Music Publications",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": "https://s9.imslp.org/files/imglnks/usimg/7/79/IMSLP472912-PMLP228488-The_Alpine_Horn.pdf",
+    "publicDomainSource": "IMSLP"
+  },
+  {
+    "uilCode": "302-2-38560",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Scenarios",
+    "composer": "Arens",
+    "arranger": "",
+    "publishers": [
+      "Stretta"
+    ],
+    "publisherText": "Stretta",
+    "classLevel": 2,
+    "specification": "(play any whole scenario OR 2 mvts of Scottish Ghost Scenario)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-2-23757",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "1st Suite: Menuet",
+    "composer": "Bach",
+    "arranger": "Stelten",
+    "publishers": [
+      "Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande]"
+    ],
+    "publisherText": "Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande]",
+    "classLevel": 2,
+    "specification": "(must also play three additional mvts from the 1st suite of this collection)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-2-29641",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Aria (from Cantata 175)",
+    "composer": "Bach",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-2-29839",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "O Mensch, Bewein' Dein' Suende Gross (O Man, Thy Grievious Sin Bemoan) BWV 622",
+    "composer": "Bach",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-2-12778",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Siciliana",
+    "composer": "Bach",
+    "arranger": "Kuyper",
+    "publishers": [
+      "Kendor Music, Inc."
+    ],
+    "publisherText": "Kendor Music, Inc.",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-2-37359",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "And the Clouds Break",
+    "composer": "Baldwin",
+    "arranger": "",
+    "publishers": [
+      "Imagine Music"
+    ],
+    "publisherText": "Imagine Music",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-2-37363",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Sailor Birds",
+    "composer": "Bartholomew",
+    "arranger": "",
+    "publishers": [
+      "Burke & Bagley"
+    ],
+    "publisherText": "Burke & Bagley",
+    "classLevel": 2,
+    "specification": "(unaccomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-2-12779",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Andromeda (Serenade)",
+    "composer": "Beethoven",
+    "arranger": "Poole",
+    "publishers": [
+      "Belwin, Inc"
+    ],
+    "publisherText": "Belwin, Inc",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-2-12780",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Minuet",
+    "composer": "Beethoven",
+    "arranger": "Ostrander",
+    "publishers": [
+      "Edition Musicus-New York, Inc. [Concert Album for Horn and Piano]"
+    ],
+    "publisherText": "Edition Musicus-New York, Inc. [Concert Album for Horn and Piano]",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-2-12781",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Bolero",
+    "composer": "Berlioz",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-2-23759",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "2nd Suite: Rigaudon",
+    "composer": "Bohm",
+    "arranger": "Stelten",
+    "publishers": [
+      "Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande]"
+    ],
+    "publisherText": "Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande]",
+    "classLevel": 2,
+    "specification": "(must also play three additional mvts from the 2nd suite of this collection)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-2-12782",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Gavotte (from Symphony No. 4)",
+    "composer": "Boyce",
+    "arranger": "Vedeski",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-2-37362",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Ballad for Horn",
+    "composer": "Butts",
+    "arranger": "",
+    "publishers": [
+      "C.L. Barnhouse Company"
+    ],
+    "publisherText": "C.L. Barnhouse Company",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-2-12783",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "The Earl of Oxford's Marche",
+    "composer": "Byrd",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-2-12784",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Two Sonatas",
+    "composer": "Cherubini",
+    "arranger": "Tuckwell",
+    "publishers": [
+      "G. Schirmer, Inc."
+    ],
+    "publisherText": "G. Schirmer, Inc.",
+    "classLevel": 2,
+    "specification": "(play Sonata # 1)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-2-12785",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Chant Sans Paroles",
+    "composer": "Clerisse",
+    "arranger": "",
+    "publishers": [
+      "Alphonse Leduc"
+    ],
+    "publisherText": "Alphonse Leduc",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-2-12786",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Legend of the Hills",
+    "composer": "Cohen",
+    "arranger": "Lamb",
+    "publishers": [
+      "Belwin, Inc [Solo Sounds for French Horn Levels 3-5, Vol. 1]"
+    ],
+    "publisherText": "Belwin, Inc [Solo Sounds for French Horn Levels 3-5, Vol. 1]",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-2-12787",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Suite",
+    "composer": "Corelli",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-2-38563",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "5 Miniatures",
+    "composer": "Danner",
+    "arranger": "",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 2,
+    "specification": "(play one mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-2-29642",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Requiem for Horn and Piano",
+    "composer": "Davis",
+    "arranger": "",
+    "publishers": [
+      "Grand Mesa Music Publishers"
+    ],
+    "publisherText": "Grand Mesa Music Publishers",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-2-37360",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "24 Concert Pieces",
+    "composer": "Edwards",
+    "arranger": "",
+    "publishers": [
+      "Hornbone Press"
+    ],
+    "publisherText": "Hornbone Press",
+    "classLevel": 2,
+    "specification": "(play one; choose from 1,2,4,5,7,11,13, OR 14)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-2-37361",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Celebration for Horn and Piano",
+    "composer": "Eveland",
+    "arranger": "",
+    "publishers": [
+      "Dennis Eveland Music"
+    ],
+    "publisherText": "Dennis Eveland Music",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-2-37347",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "A Song from the Heart",
+    "composer": "Ewazen",
+    "arranger": "",
+    "publishers": [
+      "Theodore Presser Company"
+    ],
+    "publisherText": "Theodore Presser Company",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-2-38562",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "7 Faure Art Songs",
+    "composer": "Faure",
+    "arranger": "Freidrich",
+    "publishers": [
+      "Sheet Music Plus Press"
+    ],
+    "publisherText": "Sheet Music Plus Press",
+    "classLevel": 2,
+    "specification": "(play 2 of the following: Le Pays des Reves, Les Roses, Apres un Reve)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-2-12828",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "1st Suite: March",
+    "composer": "Fischer",
+    "arranger": "Stelten",
+    "publishers": [
+      "Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande]"
+    ],
+    "publisherText": "Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande]",
+    "classLevel": 2,
+    "specification": "(must also play three additional mvts from the 1st suite of this collection)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-2-23758",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "1st Suite: Rondeau",
+    "composer": "Fischer",
+    "arranger": "Stelten",
+    "publishers": [
+      "Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande]"
+    ],
+    "publisherText": "Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande]",
+    "classLevel": 2,
+    "specification": "(must also play three additional mvts from the 1st suite of this collection)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-2-23764",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "2nd Suite: Ronde",
+    "composer": "Fischer",
+    "arranger": "Stelten",
+    "publishers": [
+      "Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande]"
+    ],
+    "publisherText": "Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande]",
+    "classLevel": 2,
+    "specification": "(must also play three additional mvts from the 2nd suite of this collection)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-2-12788",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Hornpipers Dance",
+    "composer": "Forsberg",
+    "arranger": "Johnson/Lamb",
+    "publishers": [
+      "Belwin, Inc [Solo Sounds for French Horn Levels 3-5, Vol. 1]"
+    ],
+    "publisherText": "Belwin, Inc [Solo Sounds for French Horn Levels 3-5, Vol. 1]",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-2-37358",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Longings",
+    "composer": "Gazlay",
+    "arranger": "",
+    "publishers": [
+      "Imagine Music"
+    ],
+    "publisherText": "Imagine Music",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-2-37357",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Mystique",
+    "composer": "Gazlay",
+    "arranger": "",
+    "publishers": [
+      "Imagine Music"
+    ],
+    "publisherText": "Imagine Music",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-2-37355",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Solace",
+    "composer": "Gazlay",
+    "arranger": "",
+    "publishers": [
+      "Imagine Music"
+    ],
+    "publisherText": "Imagine Music",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-2-37354",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Still Waters",
+    "composer": "Gazlay",
+    "arranger": "",
+    "publishers": [
+      "Imagine Music"
+    ],
+    "publisherText": "Imagine Music",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-2-37353",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Whispers",
+    "composer": "Gazlay",
+    "arranger": "",
+    "publishers": [
+      "Imagine Music"
+    ],
+    "publisherText": "Imagine Music",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-2-37364",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Baker's Dozen",
+    "composer": "Gillingham",
+    "arranger": "",
+    "publishers": [
+      "C. Alan Publications"
+    ],
+    "publisherText": "C. Alan Publications",
+    "classLevel": 2,
+    "specification": "(play 2nd mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-2-12791",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Air (from Orpheus)",
+    "composer": "Gluck",
+    "arranger": "Ostrander",
+    "publishers": [
+      "Edition Musicus-New York, Inc. [Concert Album for Horn and Piano]"
+    ],
+    "publisherText": "Edition Musicus-New York, Inc. [Concert Album for Horn and Piano]",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-2-12792",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "O Del Mio Dolce Ardor",
+    "composer": "Gluck",
+    "arranger": "",
+    "publishers": [
+      "Henri Elkan"
+    ],
+    "publisherText": "Henri Elkan",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-2-12793",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Ave Maria",
+    "composer": "Gounod",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-2-12794",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Adagio",
+    "composer": "Grazioli",
+    "arranger": "Reynolds",
+    "publishers": [
+      "Southern Music Company"
+    ],
+    "publisherText": "Southern Music Company",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-2-12795",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Allegro (from Concerto Grosso Op. 3 No. 4)",
+    "composer": "Handel",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-2-30470",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Hail The Conquering Hero",
+    "composer": "Handel",
+    "arranger": "Frackenpohl",
+    "publishers": [
+      "Kendor Music, Inc."
+    ],
+    "publisherText": "Kendor Music, Inc.",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-2-30469",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Honor and Arms (from Samson)",
+    "composer": "Handel",
+    "arranger": "Kaisershot",
+    "publishers": [
+      "Kendor Music, Inc."
+    ],
+    "publisherText": "Kendor Music, Inc.",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-2-12796",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Hornpipe",
+    "composer": "Handel",
+    "arranger": "Ployhar",
+    "publishers": [
+      "Belwin, Inc"
+    ],
+    "publisherText": "Belwin, Inc",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-2-37352",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "A Hero's Journey",
+    "composer": "Havely",
+    "arranger": "",
+    "publishers": [
+      "JPM Music Publications"
+    ],
+    "publisherText": "JPM Music Publications",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-2-12797",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Allegro and Minuet",
+    "composer": "Haydn",
+    "arranger": "Hudadoff",
+    "publishers": [
+      "Belwin, Inc [Fifteen Intermediate F Horn Solos]"
+    ],
+    "publisherText": "Belwin, Inc [Fifteen Intermediate F Horn Solos]",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-2-12798",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Farewell Serenade",
+    "composer": "Herfurth",
+    "arranger": "Voxman",
+    "publishers": [
+      "Belwin, Inc"
+    ],
+    "publisherText": "Belwin, Inc",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-2-12799",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Sonata for Horn in F",
+    "composer": "Hindemith",
+    "arranger": "",
+    "publishers": [
+      "Schott Company"
+    ],
+    "publisherText": "Schott Company",
+    "classLevel": 2,
+    "specification": "(play mvt 2)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-2-12800",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Serenade",
+    "composer": "Holmes",
+    "arranger": "",
+    "publishers": [
+      "Shawnee Press"
+    ],
+    "publisherText": "Shawnee Press",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-2-12801",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "The Horn of Heimdall",
+    "composer": "Hurrell",
+    "arranger": "",
+    "publishers": [
+      "Rubank, Inc."
+    ],
+    "publisherText": "Rubank, Inc.",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-2-23754",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "1st Suite: Bourree",
+    "composer": "Krieger",
+    "arranger": "Stelten",
+    "publishers": [
+      "Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande]"
+    ],
+    "publisherText": "Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande]",
+    "classLevel": 2,
+    "specification": "(must also play three additional mvts from the 1st suite of this collection)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-2-23756",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "1st Suite: Menuet",
+    "composer": "Krieger",
+    "arranger": "Stelten",
+    "publishers": [
+      "Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande]"
+    ],
+    "publisherText": "Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande]",
+    "classLevel": 2,
+    "specification": "(must also play three additional mvts from the 1st suite of this collection)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-2-23760",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "2nd Suite: Bourree",
+    "composer": "Krieger",
+    "arranger": "Stelten",
+    "publishers": [
+      "Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande]"
+    ],
+    "publisherText": "Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande]",
+    "classLevel": 2,
+    "specification": "(must also play three additional mvts from the 2nd suite of this collection)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-2-23761",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "2nd Suite: Sarabande",
+    "composer": "Kuhnau",
+    "arranger": "Stelten",
+    "publishers": [
+      "Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande]"
+    ],
+    "publisherText": "Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande]",
+    "classLevel": 2,
+    "specification": "(must also play three additional mvts from the 2nd suite of this collection)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-2-37350",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Geyer's Hunt",
+    "composer": "Lendt",
+    "arranger": "",
+    "publishers": [
+      "JPM Music Publications"
+    ],
+    "publisherText": "JPM Music Publications",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-2-12802",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Melodie",
+    "composer": "Lenom",
+    "arranger": "Voxman",
+    "publishers": [
+      "Rubank, Inc."
+    ],
+    "publisherText": "Rubank, Inc.",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-2-12803",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Gavotte in Rondeau",
+    "composer": "Lully",
+    "arranger": "Post",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-2-12804",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Plaister d'Amour",
+    "composer": "Martini",
+    "arranger": "Ostrander",
+    "publishers": [
+      "Edition Musicus-New York, Inc. [Concert Album for Horn and Piano]"
+    ],
+    "publisherText": "Edition Musicus-New York, Inc. [Concert Album for Horn and Piano]",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-2-37345",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Evening Song",
+    "composer": "Maslanka",
+    "arranger": "",
+    "publishers": [
+      "Maslanka Press"
+    ],
+    "publisherText": "Maslanka Press",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-2-12805",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Nocturne (from A Midsummer Night's Dream)",
+    "composer": "Mendelssohn",
+    "arranger": "Voxman",
+    "publishers": [
+      "Rubank, Inc. [Concert and Contest Collection]"
+    ],
+    "publisherText": "Rubank, Inc. [Concert and Contest Collection]",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-2-29639",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Concerto for Horn",
+    "composer": "Mercadante",
+    "arranger": "Kuyper",
+    "publishers": [
+      "Kendor Music, Inc."
+    ],
+    "publisherText": "Kendor Music, Inc.",
+    "classLevel": 2,
+    "specification": "(play mvt 1)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-2-12807",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "A Tear",
+    "composer": "Moussorgsky",
+    "arranger": "Hanson",
+    "publishers": [
+      "Hal Leonard Music, Inc. [Master Solo Collection]"
+    ],
+    "publisherText": "Hal Leonard Music, Inc. [Master Solo Collection]",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-2-12808",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Allelulia (from Exsultate, Jubilate)",
+    "composer": "Mozart",
+    "arranger": "Ployhar/Lamb",
+    "publishers": [
+      "Belwin, Inc [Solo Sounds for French Horn Levels 3-5, Vol. 1]"
+    ],
+    "publisherText": "Belwin, Inc [Solo Sounds for French Horn Levels 3-5, Vol. 1]",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-2-12809",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Andante and Rondeau",
+    "composer": "Mozart",
+    "arranger": "Merriman",
+    "publishers": [
+      "C.L. Barnhouse Company"
+    ],
+    "publisherText": "C.L. Barnhouse Company",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-2-12810",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Aria (from The Magic Flute)",
+    "composer": "Mozart",
+    "arranger": "",
+    "publishers": [
+      "Cundy-Bettoney Company, Inc."
+    ],
+    "publisherText": "Cundy-Bettoney Company, Inc.",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-2-12811",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Concerto No. 2 in Eb",
+    "composer": "Mozart",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 2,
+    "specification": "(play mvt 2)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-2-12813",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Concerto No. 4 in Eb",
+    "composer": "Mozart",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 2,
+    "specification": "(play mvt 2)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-2-12814",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Romanze (from Concerto No. 3 in Eb)",
+    "composer": "Mozart",
+    "arranger": "",
+    "publishers": [
+      "Rubank, Inc."
+    ],
+    "publisherText": "Rubank, Inc.",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-2-12815",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Sonatina No. 1",
+    "composer": "Mozart",
+    "arranger": "Ramm",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 2,
+    "specification": "(play one mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-2-12816",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Se Tu M'Ami",
+    "composer": "Pergolesi",
+    "arranger": "Elkan",
+    "publishers": [
+      "Henri Elkan"
+    ],
+    "publisherText": "Henri Elkan",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-2-12817",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Eight Bel Canto Songs",
+    "composer": "Phillips",
+    "arranger": "",
+    "publishers": [
+      "Shawnee Press"
+    ],
+    "publisherText": "Shawnee Press",
+    "classLevel": 2,
+    "specification": "(play one song)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-2-12818",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "9th Solo de Concours",
+    "composer": "Porret",
+    "arranger": "",
+    "publishers": [
+      "Molenaar"
+    ],
+    "publisherText": "Molenaar",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-2-12819",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Gavotte and Hornpipe",
+    "composer": "Purcell",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-2-37351",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Caprice, Lament and Frolic",
+    "composer": "Rauscher",
+    "arranger": "",
+    "publishers": [
+      "JPM Music Publications"
+    ],
+    "publisherText": "JPM Music Publications",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-2-12820",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Design",
+    "composer": "Raymond",
+    "arranger": "",
+    "publishers": [
+      "Western International Music, Inc."
+    ],
+    "publisherText": "Western International Music, Inc.",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-2-23755",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "1st Suite: Sarabande",
+    "composer": "Reusner",
+    "arranger": "Stelten",
+    "publishers": [
+      "Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande]"
+    ],
+    "publisherText": "Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande]",
+    "classLevel": 2,
+    "specification": "(must also play three additional mvts from the 1st suite of this collection)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-2-12822",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Romance Op. 36",
+    "composer": "Saint-Saens",
+    "arranger": "",
+    "publishers": [
+      "Edition Musicus-New York, Inc.",
+      "International Music Company"
+    ],
+    "publisherText": "Edition Musicus-New York, Inc.;International Music Company",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-2-12821",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "the Swan",
+    "composer": "Saint-Saens",
+    "arranger": "Stout",
+    "publishers": [
+      "Hal Leonard Music, Inc. [Master Solo Collection]"
+    ],
+    "publisherText": "Hal Leonard Music, Inc. [Master Solo Collection]",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-2-23762",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "2nd Suite: Menuet",
+    "composer": "Schickhardt",
+    "arranger": "Stelten",
+    "publishers": [
+      "Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande]"
+    ],
+    "publisherText": "Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande]",
+    "classLevel": 2,
+    "specification": "(must also play three additional mvts from the 2nd suite of this collection)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-2-12824",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Sonata for Horn and Piano",
+    "composer": "Schmidt",
+    "arranger": "",
+    "publishers": [
+      "Western International Music, Inc."
+    ],
+    "publisherText": "Western International Music, Inc.",
+    "classLevel": 2,
+    "specification": "(play mvt 2)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-2-12825",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Etchings",
+    "composer": "Schudel",
+    "arranger": "",
+    "publishers": [
+      "Southern Music Company"
+    ],
+    "publisherText": "Southern Music Company",
+    "classLevel": 2,
+    "specification": "(play one mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-2-12826",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Abendlied and Traumeri",
+    "composer": "Schumann",
+    "arranger": "Klemcke",
+    "publishers": [
+      "Carl Fischer, Inc."
+    ],
+    "publisherText": "Carl Fischer, Inc.",
+    "classLevel": 2,
+    "specification": "(play both)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-2-12827",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Romance",
+    "composer": "Scriabin",
+    "arranger": "",
+    "publishers": [
+      "Music Corporation of America"
+    ],
+    "publisherText": "Music Corporation of America",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": "https://s9.imslp.org/files/imglnks/usimg/0/05/IMSLP345813-PMLP412673-Scriabin_-_Romance.pdf",
+    "publicDomainSource": "IMSLP"
+  },
+  {
+    "uilCode": "302-2-12829",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Berceuse (from The Firebird)",
+    "composer": "Stravinsky",
+    "arranger": "Ostrander",
+    "publishers": [
+      "Edition Musicus-New York, Inc. [Concert Album for Horn and Piano]"
+    ],
+    "publisherText": "Edition Musicus-New York, Inc. [Concert Album for Horn and Piano]",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-2-12830",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Petite Suite de Danses Anciennes",
+    "composer": "Susato",
+    "arranger": "Stelten",
+    "publishers": [
+      "Alphonse Leduc"
+    ],
+    "publisherText": "Alphonse Leduc",
+    "classLevel": 2,
+    "specification": "(play five)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-2-12832",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Andante Cantabile (from Symphony No. 5)",
+    "composer": "Tchaikovsky",
+    "arranger": "Seredy",
+    "publishers": [
+      "Carl Fischer, Inc."
+    ],
+    "publisherText": "Carl Fischer, Inc.",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-2-12833",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Waltz (from Serenade for Strings)",
+    "composer": "Tchaikovsky",
+    "arranger": "Hudadoff",
+    "publishers": [
+      "Belwin, Inc [Fifteen Intermediate F Horn Solos]"
+    ],
+    "publisherText": "Belwin, Inc [Fifteen Intermediate F Horn Solos]",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-2-23763",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "2nd Suite: Menuet",
+    "composer": "Telemann",
+    "arranger": "Stelten",
+    "publishers": [
+      "Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande]"
+    ],
+    "publisherText": "Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande]",
+    "classLevel": 2,
+    "specification": "(must also play three additional mvts from the 2nd suite of this collection)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-2-12831",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Adagio and Presto",
+    "composer": "Telemann",
+    "arranger": "Chidester",
+    "publishers": [
+      "Southern Music Company"
+    ],
+    "publisherText": "Southern Music Company",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-2-37344",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "13 Original Compositions for F Horn and Piano",
+    "composer": "Ticheli",
+    "arranger": "",
+    "publishers": [
+      "Manhattan Beach Music [13 Original Compositions for F Horn and Piano]"
+    ],
+    "publisherText": "Manhattan Beach Music [13 Original Compositions for F Horn and Piano]",
+    "classLevel": 2,
+    "specification": "(play one; choose from Blue Hugh OR Lucky Day OR Marching Home OR Turkish Dance)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-2-37346",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Concerto",
+    "composer": "Van Doren",
+    "arranger": "",
+    "publishers": [
+      "Metropolis Music Publishers"
+    ],
+    "publisherText": "Metropolis Music Publishers",
+    "classLevel": 2,
+    "specification": "(play Beginning to Square 10 OR Square 13 to End)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-2-12834",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Rain",
+    "composer": "Vivaldi",
+    "arranger": "",
+    "publishers": [
+      "Edition Musicus-New York, Inc."
+    ],
+    "publisherText": "Edition Musicus-New York, Inc.",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-2-12836",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Walther's Prize Song",
+    "composer": "Wagner",
+    "arranger": "",
+    "publishers": [
+      "Cundy-Bettoney Company, Inc."
+    ],
+    "publisherText": "Cundy-Bettoney Company, Inc.",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-2-12837",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Scherzo",
+    "composer": "Wessel",
+    "arranger": "",
+    "publishers": [
+      "Carl Fischer, Inc."
+    ],
+    "publisherText": "Carl Fischer, Inc.",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-2-29643",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Pastorale Lament",
+    "composer": "Whear",
+    "arranger": "",
+    "publishers": [
+      "Ludwig Music Publishing Company"
+    ],
+    "publisherText": "Ludwig Music Publishing Company",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-2-37356",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Prayer",
+    "composer": "Zirk",
+    "arranger": "",
+    "publishers": [
+      "Imagine Music"
+    ],
+    "publisherText": "Imagine Music",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-2-38561",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Art songs for Young Folks Vol 2",
+    "composer": "various",
+    "arranger": "Freidrich",
+    "publishers": [
+      "Sheet Music Plus Press"
+    ],
+    "publisherText": "Sheet Music Plus Press",
+    "classLevel": 2,
+    "specification": "(play Vittoria Vittoria OR Bist Du Mir)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-2-38559",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Folk Songs for Young Folks",
+    "composer": "various",
+    "arranger": "Freidrich",
+    "publishers": [
+      "Sheet Music Plus Press"
+    ],
+    "publisherText": "Sheet Music Plus Press",
+    "classLevel": 2,
+    "specification": "(play two mvts)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-2-12835",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Melodies (from Der Freischutz)",
+    "composer": "von Weber",
+    "arranger": "Ployhar/Lamb",
+    "publishers": [
+      "Belwin, Inc [Solo Sounds for French Horn Levels 3-5, Vol. 1]"
+    ],
+    "publisherText": "Belwin, Inc [Solo Sounds for French Horn Levels 3-5, Vol. 1]",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-1-32397",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Alla Caccia",
+    "composer": "Abbott",
+    "arranger": "",
+    "publishers": [
+      "Weinberger Publishing"
+    ],
+    "publisherText": "Weinberger Publishing",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-1-37343",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Cantilena",
+    "composer": "Adler",
+    "arranger": "",
+    "publishers": [
+      "Theodore Presser Company"
+    ],
+    "publisherText": "Theodore Presser Company",
+    "classLevel": 1,
+    "specification": "(play mvts 1 & 2)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-1-29631",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Blues and Variations for Monk",
+    "composer": "Amram",
+    "arranger": "",
+    "publishers": [
+      "C.F. Peters Corporation"
+    ],
+    "publisherText": "C.F. Peters Corporation",
+    "classLevel": 1,
+    "specification": "(unaccomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-1-32398",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Fantasy for French Horn",
+    "composer": "Arnold",
+    "arranger": "",
+    "publishers": [
+      "Faber Music, Ltd."
+    ],
+    "publisherText": "Faber Music, Ltd.",
+    "classLevel": 1,
+    "specification": "(unaccomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-1-37332",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "In the Silence",
+    "composer": "Baldwin",
+    "arranger": "",
+    "publishers": [
+      "Imagine Music"
+    ],
+    "publisherText": "Imagine Music",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-1-37340",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Sonatine",
+    "composer": "Bartsh",
+    "arranger": "",
+    "publishers": [
+      "Metropolis Music Publishers"
+    ],
+    "publisherText": "Metropolis Music Publishers",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-1-32399",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Three Hymn Tune Settings",
+    "composer": "Basler",
+    "arranger": "",
+    "publishers": [
+      "Williams Music Publications"
+    ],
+    "publisherText": "Williams Music Publications",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": "https://s9.imslp.org/files/imglnks/usimg/1/14/IMSLP919227-PMLP1444213-Basler_Four_Hymn_Tune_Settings_for_horn_and_piano.pdf",
+    "publicDomainSource": "IMSLP"
+  },
+  {
+    "uilCode": "302-1-12717",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Sonate in F Op. 17",
+    "composer": "Beethoven",
+    "arranger": "",
+    "publishers": [
+      "Cundy-Bettoney Company, Inc.",
+      "G. Schirmer, Inc.",
+      "Carl Fischer, Inc."
+    ],
+    "publisherText": "Cundy-Bettoney Company, Inc.;G. Schirmer, Inc.;Carl Fischer, Inc.",
+    "classLevel": 1,
+    "specification": "(play first or last mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-1-37331",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Concerto for Horn",
+    "composer": "Bough",
+    "arranger": "",
+    "publishers": [
+      "Cimarron Music Press"
+    ],
+    "publisherText": "Cimarron Music Press",
+    "classLevel": 1,
+    "specification": "(play mvt 1 OR mvts 2 & 3)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-1-12718",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "En Foret",
+    "composer": "Bozza",
+    "arranger": "",
+    "publishers": [
+      "Alphonse Leduc"
+    ],
+    "publisherText": "Alphonse Leduc",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-1-12719",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "En Irlande",
+    "composer": "Bozza",
+    "arranger": "",
+    "publishers": [
+      "Alphonse Leduc"
+    ],
+    "publisherText": "Alphonse Leduc",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-1-32400",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Sur le Cimes",
+    "composer": "Bozza",
+    "arranger": "",
+    "publishers": [
+      "Alphonse Leduc"
+    ],
+    "publisherText": "Alphonse Leduc",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-1-37328",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Blowhard",
+    "composer": "Broughton",
+    "arranger": "",
+    "publishers": [
+      "C. Alan Publications"
+    ],
+    "publisherText": "C. Alan Publications",
+    "classLevel": 1,
+    "specification": "(play Beginning to m. 147 halfnote OR m. 147 (minus halfnote) to the end)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-1-37330",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Sonata for Horn and Piano",
+    "composer": "Broughton",
+    "arranger": "",
+    "publishers": [
+      "C. Alan Publications"
+    ],
+    "publisherText": "C. Alan Publications",
+    "classLevel": 1,
+    "specification": "(play one mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-1-12721",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Two Sonatas",
+    "composer": "Cherubini",
+    "arranger": "Tuckwell",
+    "publishers": [
+      "G. Schirmer, Inc."
+    ],
+    "publisherText": "G. Schirmer, Inc.",
+    "classLevel": 1,
+    "specification": "(play Sonata # 2)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-1-12722",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Rondo in Bb",
+    "composer": "Cooke",
+    "arranger": "",
+    "publishers": [
+      "Schott Company"
+    ],
+    "publisherText": "Schott Company",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-1-38558",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "5 Miniatures",
+    "composer": "Danner",
+    "arranger": "",
+    "publishers": [
+      "Medici Music Press"
+    ],
+    "publisherText": "Medici Music Press",
+    "classLevel": 1,
+    "specification": "(play 3 mvts)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-1-37339",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Revanant: Concerto for Horn & Orchestra",
+    "composer": "Dillon",
+    "arranger": "",
+    "publishers": [
+      "Metropolis Music Publishers"
+    ],
+    "publisherText": "Metropolis Music Publishers",
+    "classLevel": 1,
+    "specification": "(play one mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-1-12727",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Villanelle",
+    "composer": "Dukas",
+    "arranger": "",
+    "publishers": [
+      "G. Schirmer, Inc. [Solos for the Horn Player]"
+    ],
+    "publisherText": "G. Schirmer, Inc. [Solos for the Horn Player]",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-1-37342",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Autumn Rondo",
+    "composer": "Ewazen",
+    "arranger": "",
+    "publishers": [
+      "Theodore Presser Company"
+    ],
+    "publisherText": "Theodore Presser Company",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-1-32401",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Call and Response",
+    "composer": "Faust",
+    "arranger": "",
+    "publishers": [
+      "Faust Music"
+    ],
+    "publisherText": "Faust Music",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-1-32402",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Largo and Allegro",
+    "composer": "Frackenpohl",
+    "arranger": "",
+    "publishers": [
+      "G. Schirmer, Inc."
+    ],
+    "publisherText": "G. Schirmer, Inc.",
+    "classLevel": 1,
+    "specification": "(play 1st or 2nd mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-1-37329",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Concerto for Horn",
+    "composer": "Gillingham",
+    "arranger": "",
+    "publishers": [
+      "C. Alan Publications"
+    ],
+    "publisherText": "C. Alan Publications",
+    "classLevel": 1,
+    "specification": "(play 1st mvt from Beg to 172 OR 173 to End OR 2nd mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-1-12729",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Reveries Op. 24",
+    "composer": "Glazounow",
+    "arranger": "",
+    "publishers": [
+      "G. Schirmer, Inc. [Solos for the Horn Player]"
+    ],
+    "publisherText": "G. Schirmer, Inc. [Solos for the Horn Player]",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-1-12730",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Concerto in Bb Major",
+    "composer": "Gliere",
+    "arranger": "Polekh",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "(play mvt 1, 2 or 3) (Play mvt 2 by MEMORY) NMR:(play mvts. 1 or 3)",
+    "noMemoryRequired": true,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-1-32403",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Intermezzo Op. 35 No. 11",
+    "composer": "Gliere",
+    "arranger": "",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-1-32404",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Nocturne Op. 35 No. 10",
+    "composer": "Gliere",
+    "arranger": "",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-1-32405",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Romance Op. 35 No. 6",
+    "composer": "Gliere",
+    "arranger": "",
+    "publishers": [
+      "International Music Company"
+    ],
+    "publisherText": "International Music Company",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-1-12731",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Allegro (from Concerto Op. 40)",
+    "composer": "Goedicke",
+    "arranger": "",
+    "publishers": [
+      "Cundy-Bettoney Company, Inc."
+    ],
+    "publisherText": "Cundy-Bettoney Company, Inc.",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-1-32406",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Sonatina",
+    "composer": "Gwilt",
+    "arranger": "",
+    "publishers": [
+      "Music Sales Corp.",
+      "G. Schirmer, Inc."
+    ],
+    "publisherText": "Music Sales Corp.;G. Schirmer, Inc.",
+    "classLevel": 1,
+    "specification": "(play mvts 1 & 2 or play mvts 2 & 3)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-1-12733",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Adagio and Allegro for Horn",
+    "composer": "Haddad",
+    "arranger": "",
+    "publishers": [
+      "Shawnee Press"
+    ],
+    "publisherText": "Shawnee Press",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-1-12734",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Sonata",
+    "composer": "Haddad",
+    "arranger": "",
+    "publishers": [
+      "Shawnee Press"
+    ],
+    "publisherText": "Shawnee Press",
+    "classLevel": 1,
+    "specification": "(play mvt 1 or 2 & 3)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-1-12735",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Concertino",
+    "composer": "Haydn",
+    "arranger": "",
+    "publishers": [
+      "Universal Editions",
+      "G. Schirmer, Inc."
+    ],
+    "publisherText": "Universal Editions;G. Schirmer, Inc.",
+    "classLevel": 1,
+    "specification": "(play mvt 1 or 2)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-1-12736",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Concerto No. 1 in D",
+    "composer": "Haydn",
+    "arranger": "",
+    "publishers": [
+      "Cundy-Bettoney Company, Inc."
+    ],
+    "publisherText": "Cundy-Bettoney Company, Inc.",
+    "classLevel": 1,
+    "specification": "(play first or last mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-1-12737",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Concerto No. 2 in D",
+    "composer": "Haydn",
+    "arranger": "",
+    "publishers": [
+      "Carl Fischer, Inc.",
+      "Cundy-Bettoney Company, Inc."
+    ],
+    "publisherText": "Carl Fischer, Inc.;Cundy-Bettoney Company, Inc.",
+    "classLevel": 1,
+    "specification": "(play first or last mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-1-12738",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Sonata for French Horn",
+    "composer": "Heiden",
+    "arranger": "",
+    "publishers": [
+      "Associated Music Publishers Inc."
+    ],
+    "publisherText": "Associated Music Publishers Inc.",
+    "classLevel": 1,
+    "specification": "(play one mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-1-12740",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Sonata 1939 for Horn in F",
+    "composer": "Hindemith",
+    "arranger": "",
+    "publishers": [
+      "Schott Company"
+    ],
+    "publisherText": "Schott Company",
+    "classLevel": 1,
+    "specification": "(play first or last mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-1-12742",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Sonatina for Horn and Piano",
+    "composer": "Hummel",
+    "arranger": "",
+    "publishers": [
+      "Schott Company"
+    ],
+    "publisherText": "Schott Company",
+    "classLevel": 1,
+    "specification": "(play one mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-1-12743",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Concerto",
+    "composer": "Jacob",
+    "arranger": "",
+    "publishers": [
+      "Joseph Williams, Ltd."
+    ],
+    "publisherText": "Joseph Williams, Ltd.",
+    "classLevel": 1,
+    "specification": "(play first or last mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": "https://s9.imslp.org/files/imglnks/usimg/b/b7/IMSLP432323-PMLP702542-Tengvall-Concerto_no_1-hornpart.pdf",
+    "publicDomainSource": "IMSLP"
+  },
+  {
+    "uilCode": "302-1-32407",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Intrada",
+    "composer": "Ketting",
+    "arranger": "",
+    "publishers": [
+      "Donemus"
+    ],
+    "publisherText": "Donemus",
+    "classLevel": 1,
+    "specification": "(unaccomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-1-32408",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Laudatio",
+    "composer": "Krol",
+    "arranger": "",
+    "publishers": [
+      "Simrock"
+    ],
+    "publisherText": "Simrock",
+    "classLevel": 1,
+    "specification": "(unaccomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-1-32409",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Concertino Op. 45",
+    "composer": "Larsson",
+    "arranger": "",
+    "publishers": [
+      "Gehrmans Musikforlag"
+    ],
+    "publisherText": "Gehrmans Musikforlag",
+    "classLevel": 1,
+    "specification": "(play first or last mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-1-37333",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Debbie's Dance",
+    "composer": "Lendt",
+    "arranger": "",
+    "publishers": [
+      "JPM Music Publications"
+    ],
+    "publisherText": "JPM Music Publications",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-1-37334",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Inspiration",
+    "composer": "Lendt",
+    "arranger": "",
+    "publishers": [
+      "JPM Music Publications"
+    ],
+    "publisherText": "JPM Music Publications",
+    "classLevel": 1,
+    "specification": "(play Beginning to Letter E OR Letter E to the End)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-1-37336",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Rhapsody in Horn",
+    "composer": "Lendt",
+    "arranger": "",
+    "publishers": [
+      "JPM Music Publications"
+    ],
+    "publisherText": "JPM Music Publications",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-1-37337",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Lyrische Pastorale",
+    "composer": "Mortelmans",
+    "arranger": "",
+    "publishers": [
+      "Metropolis Music Publishers"
+    ],
+    "publisherText": "Metropolis Music Publishers",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-1-12746",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Allegro (from Horn Quintet)",
+    "composer": "Mozart",
+    "arranger": "",
+    "publishers": [
+      "Belwin, Inc"
+    ],
+    "publisherText": "Belwin, Inc",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": "https://s9.imslp.org/files/imglnks/usimg/8/82/IMSLP13557-Mozart-Horn_Quintet_K.407.pdf",
+    "publicDomainSource": "IMSLP"
+  },
+  {
+    "uilCode": "302-1-25318",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Concert Rondo",
+    "composer": "Mozart",
+    "arranger": "",
+    "publishers": [
+      "G. Schirmer, Inc. [Four Horn Concertos and Concert Rondo]",
+      "Southern Music Company",
+      "Excelcia"
+    ],
+    "publisherText": "G. Schirmer, Inc. [Four Horn Concertos and Concert Rondo];Southern Music Company;Excelcia",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-1-12748",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Concerto No. 1 in D Major (including Sansone transposed to Eb)",
+    "composer": "Mozart",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 1,
+    "specification": "(play at least one mvt) (also available separately)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-1-12750",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Concerto No. 2",
+    "composer": "Mozart",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 1,
+    "specification": "(play at least 1st OR 3rd mvt) (also available separately)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": "https://s9.imslp.org/files/imglnks/usimg/2/27/IMSLP01492-Mozart_-_Horn_Concerto_No.2.pdf",
+    "publicDomainSource": "IMSLP"
+  },
+  {
+    "uilCode": "302-1-12751",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Concerto No. 3",
+    "composer": "Mozart",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition",
+      "Southern Music Company"
+    ],
+    "publisherText": "Any unabridged edition;Southern Music Company",
+    "classLevel": 1,
+    "specification": "(play at least 1st OR 3rd mvt) (also available separately)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": "https://s9.imslp.org/files/imglnks/usimg/e/e2/IMSLP01493-Mozart_-_Horn_Concerto_No.3.pdf",
+    "publicDomainSource": "IMSLP"
+  },
+  {
+    "uilCode": "302-1-12755",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Concerto No. 4",
+    "composer": "Mozart",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 1,
+    "specification": "(play at least 1st OR 3rd mvt) (also available separately)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": "https://s9.imslp.org/files/imglnks/usimg/b/b9/IMSLP365428-PMLP04595-WAMozart_Horn_Concerto%2C_K.495_WAMWS12B2N19_1886rev.pdf",
+    "publicDomainSource": "IMSLP"
+  },
+  {
+    "uilCode": "302-1-32410",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Scherzo Concertante",
+    "composer": "Nelhybel",
+    "arranger": "",
+    "publishers": [
+      "Cimarron Music Press"
+    ],
+    "publisherText": "Cimarron Music Press",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-1-37341",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Bagatelle",
+    "composer": "Neuling",
+    "arranger": "",
+    "publishers": [
+      "Pro Musica Verlag"
+    ],
+    "publisherText": "Pro Musica Verlag",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-1-12758",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Parable Op. 120",
+    "composer": "Persichetti",
+    "arranger": "",
+    "publishers": [
+      "Theodore Presser Company"
+    ],
+    "publisherText": "Theodore Presser Company",
+    "classLevel": 1,
+    "specification": "(unaccomp) (play all) NMR:(play all)",
+    "noMemoryRequired": true,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-1-12759",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Air de Chasse",
+    "composer": "Piantoni",
+    "arranger": "",
+    "publishers": [
+      "Alphonse Leduc"
+    ],
+    "publisherText": "Alphonse Leduc",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-1-32411",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Legende",
+    "composer": "Planel",
+    "arranger": "",
+    "publishers": [
+      "Alphonse Leduc"
+    ],
+    "publisherText": "Alphonse Leduc",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-1-12760",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Elegie for Horn and Piano",
+    "composer": "Poulenc",
+    "arranger": "",
+    "publishers": [
+      "J&W Chester, Ltd."
+    ],
+    "publisherText": "J&W Chester, Ltd.",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-1-12761",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Pavane pour une Infante de'funte",
+    "composer": "Ravel",
+    "arranger": "",
+    "publishers": [
+      "G. Schirmer, Inc. [Solos for the Horn Player]"
+    ],
+    "publisherText": "G. Schirmer, Inc. [Solos for the Horn Player]",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-1-12765",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Concerto No. 2 in Eb Major",
+    "composer": "Rosetti",
+    "arranger": "",
+    "publishers": [
+      "International Music Company",
+      "Edition Eulenburg GMBH"
+    ],
+    "publisherText": "International Music Company;Edition Eulenburg GMBH",
+    "classLevel": 1,
+    "specification": "(play mvt 1 or 3)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-1-12766",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Morceau de Concert Op. 94",
+    "composer": "Saint-Saens",
+    "arranger": "",
+    "publishers": [
+      "Remick Music Corporation (See Alfred)"
+    ],
+    "publisherText": "Remick Music Corporation (See Alfred)",
+    "classLevel": 1,
+    "specification": "(play mvts 1 & 2 or 2 & 3) Mvt 1 the beginning through the 10th measure after rehearsal #4. Mvt 2 begins with the piano introduction, 11th measure after rehearsal #4 to the fermata, one measure before rehearsal #7. Mvt 3 begins at rehearsal #7 to the end.",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-1-12767",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Romance Op. 67",
+    "composer": "Saint-Saens",
+    "arranger": "",
+    "publishers": [
+      "Alphonse Leduc"
+    ],
+    "publisherText": "Alphonse Leduc",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-1-12769",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Adagio and Allegro Op. 70",
+    "composer": "Schumann",
+    "arranger": "",
+    "publishers": [
+      "G. Schirmer, Inc.",
+      "International Music Company"
+    ],
+    "publisherText": "G. Schirmer, Inc.;International Music Company",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-1-37335",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Kaleidoscope",
+    "composer": "Segal",
+    "arranger": "",
+    "publishers": [
+      "JPM Music Publications"
+    ],
+    "publisherText": "JPM Music Publications",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-1-29633",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Sonata for Horn and Piano",
+    "composer": "Stevens",
+    "arranger": "",
+    "publishers": [
+      "Robert King"
+    ],
+    "publisherText": "Robert King",
+    "classLevel": 1,
+    "specification": "(play one mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-1-12771",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Concerto No. 1 Op. 11",
+    "composer": "Strauss",
+    "arranger": "",
+    "publishers": [
+      "Cundy-Bettoney Company, Inc.",
+      "Universal Editions"
+    ],
+    "publisherText": "Cundy-Bettoney Company, Inc.;Universal Editions",
+    "classLevel": 1,
+    "specification": "(play first or last mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-1-12770",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Concerto Op. 8",
+    "composer": "Strauss",
+    "arranger": "",
+    "publishers": [
+      "Carl Fischer, Inc.",
+      "Southern Music Company",
+      "Universal Editions"
+    ],
+    "publisherText": "Carl Fischer, Inc.;Southern Music Company;Universal Editions",
+    "classLevel": 1,
+    "specification": "(play first or last mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-1-32412",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Introduction, Theme and Variations Op. 13",
+    "composer": "Strauss",
+    "arranger": "",
+    "publishers": [
+      "Public Domain"
+    ],
+    "publisherText": "Public Domain",
+    "classLevel": 1,
+    "specification": "(play all, no repeats)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-1-12773",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Nocturno Op. 7",
+    "composer": "Strauss",
+    "arranger": "Franz",
+    "publishers": [
+      "Universal Editions",
+      "Excelcia"
+    ],
+    "publisherText": "Universal Editions;Excelcia",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-1-12774",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Concerto in D",
+    "composer": "Telemann",
+    "arranger": "Tuckwell",
+    "publishers": [
+      "G. Schirmer, Inc."
+    ],
+    "publisherText": "G. Schirmer, Inc.",
+    "classLevel": 1,
+    "specification": "(play first or last mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-1-37338",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Poeme nocturne",
+    "composer": "Van Eechaute",
+    "arranger": "",
+    "publishers": [
+      "Metropolis Music Publishers"
+    ],
+    "publisherText": "Metropolis Music Publishers",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-1-12776",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Hunter's Moon",
+    "composer": "Vinter",
+    "arranger": "",
+    "publishers": [
+      "Boosey & Hawkes, Inc."
+    ],
+    "publisherText": "Boosey & Hawkes, Inc.",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  },
+  {
+    "uilCode": "302-1-12777",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Sonata No. 3",
+    "composer": "Wilder",
+    "arranger": "",
+    "publishers": [
+      "Margun Music, Inc."
+    ],
+    "publisherText": "Margun Music, Inc.",
+    "classLevel": 1,
+    "specification": "(play one mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null
+  }
+]
