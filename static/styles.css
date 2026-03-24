@@ -220,6 +220,7 @@ body {
 
 .controls {
   display: grid;
+  grid-template-columns: minmax(0, 1fr);
   gap: 1rem;
   padding: 1.35rem;
   border: 1px solid var(--border);
@@ -239,6 +240,7 @@ body {
   display: grid;
   gap: 0.85rem;
   width: 100%;
+  min-width: 0;
 }
 
 .instrument-browser-header {
@@ -262,11 +264,15 @@ body {
 
 .instrument-sections {
   display: grid;
+  grid-template-columns: minmax(0, 1fr);
   gap: 0.85rem;
   width: 100%;
+  min-width: 0;
 }
 
 .instrument-section {
+  width: 100%;
+  min-width: 0;
   border: 1px solid var(--border);
   border-radius: 20px;
   background: var(--panel-soft);
