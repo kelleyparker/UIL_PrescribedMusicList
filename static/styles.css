@@ -531,6 +531,8 @@ body {
 
 .song-actions {
   display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
   justify-content: end;
   margin-top: auto;
 }
@@ -555,6 +557,30 @@ body {
 }
 
 .download-button[hidden] {
+  display: none;
+}
+
+.affiliate-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 2.5rem;
+  padding: 0.55rem 0.95rem;
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.08);
+  border: 1px solid var(--border);
+  color: var(--accent-soft-text);
+  font-weight: 700;
+  text-decoration: none;
+  transition: transform 140ms ease, opacity 140ms ease, border-color 140ms ease;
+}
+
+.affiliate-button:hover,
+.affiliate-button:focus-visible {
+  transform: translateY(-1px);
+}
+
+.affiliate-button[hidden] {
   display: none;
 }
 

@@ -13,6 +13,7 @@ if str(SCRIPT_DIR) not in sys.path:
     sys.path.insert(0, str(SCRIPT_DIR))
 
 from import_piano_solos import (
+    AFFILIATE_LINKS_BY_INSTRUMENT,
     INSTRUMENT_CONFIGS,
     PianoSoloRow,
     build_outputs,
@@ -140,6 +141,7 @@ def main() -> int:
             instrument_slug=instrument_slug,
             source_csv_path=CSV_PATHS[instrument_slug],
             public_domain_links=public_domain_links_by_instrument.get(instrument_slug),
+            affiliate_links=AFFILIATE_LINKS_BY_INSTRUMENT.get(instrument_slug),
         )
 
     print(

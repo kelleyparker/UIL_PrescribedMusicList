@@ -1386,6 +1386,13 @@ function renderSongs(songs) {
       downloadButton.hidden = false;
       downloadButton.href = song.publicDomainPdfUrl;
     }
+    const affiliateButton = card.querySelector(".affiliate-button");
+    if (song.sheetMusicAffiliateUrl) {
+      affiliateButton.hidden = false;
+      affiliateButton.href = song.sheetMusicAffiliateUrl;
+      affiliateButton.textContent =
+        song.sheetMusicAffiliateLabel || "Buy Sheet Music";
+    }
 
     const publisherList = card.querySelector(".publisher-list");
     song.publishers.forEach((publisher) => {

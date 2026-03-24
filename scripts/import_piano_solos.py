@@ -96,6 +96,15 @@ MIXED_CHORUS_SOURCE_CSV_PATH = ROOT / "data" / "uil_mixed_chorus_source.csv"
 TENOR_BASS_CHORUS_SOURCE_CSV_PATH = ROOT / "data" / "uil_tenor_bass_chorus_source.csv"
 TREBLE_CHORUS_SOURCE_CSV_PATH = ROOT / "data" / "uil_treble_chorus_source.csv"
 DEFAULT_SCHOOL_YEAR = "2025-2026"
+AFFILIATE_LINKS_BY_INSTRUMENT = {
+    "piano": {
+        "603-3-18148": {
+            "url": "https://www.amazon.com/Solfeggio-minor-Sheet-Alfred-Masterwork/dp/073901014X/ref=sr_1_1?crid=38ASAT2Y134QW&dib=eyJ2IjoiMSJ9.kCl0fB_L9Kmf6sOVaKIdiSTJnalHhKSP0XPDPj86NCZBjAEdsLSAIZuBGd5y8etfSGc2GKXofafed5JgUc5wD8qAlVXykLa18OKKwmG-bbd4e3SoNPvwgtQPBAHtIfr56h0rDfcKjp3QGlsxV9iuRojRlrtYDCR3PNGmp1u0j-4XuSySeDA9uq5-lsI5RELyAOYw7Whnpq2yulzm1uwbGyt3nuVu90NKES-iTgTUFz8.rnfBNfliFG7OGz72TelZ3VPT1LmFJ68V1dNvnHlB_Sc&dib_tag=se&keywords=Solfeggio+%28Solfeggietto%29+bach+sheet+music+piano&qid=1774391333&sprefix=solfeggio+solfeggietto+bach+sheet+music+piano%2Caps%2C127&sr=8-1",
+            "label": "Buy Sheet Music",
+            "source": "Amazon affiliate link",
+        }
+    }
+}
 TAG_PATTERN = re.compile(r"<[^>]+>")
 OPTION_PATTERN = re.compile(r"<option[^>]*>(.*?)</option>", re.IGNORECASE | re.DOTALL)
 
@@ -927,6 +936,7 @@ def build_outputs(
     instrument_slug: str,
     source_csv_path: Path | None = None,
     public_domain_links: dict[str, dict] | None = None,
+    affiliate_links: dict[str, dict] | None = None,
 ) -> dict:
     STATIC_DATA_DIR.mkdir(parents=True, exist_ok=True)
 
@@ -936,8 +946,14 @@ def build_outputs(
     for row in rows:
         payload = solo_row_to_dict(row)
         link_info = (public_domain_links or {}).get(row.code, {})
+        affiliate_info = (affiliate_links or {}).get(row.code, {})
         payload["publicDomainPdfUrl"] = link_info.get("pdfUrl")
         payload["publicDomainSource"] = link_info.get("source")
+        payload["sheetMusicAffiliateUrl"] = affiliate_info.get("url")
+        payload["sheetMusicAffiliateLabel"] = affiliate_info.get(
+            "label", "Buy Sheet Music"
+        )
+        payload["sheetMusicAffiliateSource"] = affiliate_info.get("source")
         songs_payload.append(payload)
 
     songs_payload.sort(
@@ -997,6 +1013,7 @@ def build_from_csv(
     source_label: str = "local CSV snapshot",
     instrument_slug: str = "piano",
     public_domain_links: dict[str, dict] | None = None,
+    affiliate_links: dict[str, dict] | None = None,
 ) -> dict:
     rows = read_rows_from_csv(csv_path)
     return build_outputs(
@@ -1006,6 +1023,7 @@ def build_from_csv(
         instrument_slug=instrument_slug,
         source_csv_path=csv_path,
         public_domain_links=public_domain_links,
+        affiliate_links=affiliate_links,
     )
 
 
@@ -1014,6 +1032,7 @@ def build_all_from_csv(
     school_year: str = DEFAULT_SCHOOL_YEAR,
     source_label: str = "local CSV snapshots",
     public_domain_links_by_instrument: dict[str, dict[str, dict]] | None = None,
+    affiliate_links_by_instrument: dict[str, dict[str, dict]] | None = None,
 ) -> dict[str, dict]:
     outputs = {}
     for instrument_slug, config in INSTRUMENT_CONFIGS.items():
@@ -1026,6 +1045,9 @@ def build_all_from_csv(
             source_label=source_label,
             instrument_slug=instrument_slug,
             public_domain_links=(public_domain_links_by_instrument or {}).get(
+                instrument_slug
+            ),
+            affiliate_links=(affiliate_links_by_instrument or AFFILIATE_LINKS_BY_INSTRUMENT).get(
                 instrument_slug
             ),
         )
