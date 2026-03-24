@@ -129,7 +129,7 @@ body {
 
 .hero-stats {
   display: grid;
-  grid-template-columns: repeat(4, minmax(0, 1fr));
+  grid-template-columns: repeat(5, minmax(0, 1fr));
   gap: 1rem;
   margin-top: 1.5rem;
 }
@@ -338,6 +338,35 @@ body {
   min-height: 1.25rem;
   color: var(--muted);
   font-size: 0.95rem;
+}
+
+.song-actions {
+  display: flex;
+  justify-content: end;
+  margin-top: auto;
+}
+
+.download-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 2.5rem;
+  padding: 0.55rem 0.95rem;
+  border-radius: 999px;
+  background: var(--active-chip-bg);
+  color: var(--active-chip-text);
+  font-weight: 700;
+  text-decoration: none;
+  transition: transform 140ms ease, opacity 140ms ease;
+}
+
+.download-button:hover,
+.download-button:focus-visible {
+  transform: translateY(-1px);
+}
+
+.download-button[hidden] {
+  display: none;
 }
 
 .footer-note {

@@ -11,6 +11,7 @@ if str(SCRIPT_DIR) not in sys.path:
     sys.path.insert(0, str(SCRIPT_DIR))
 
 from import_piano_solos import SOURCE_CSV_PATH, PianoSoloRow, build_outputs
+from public_domain_links import enrich_public_domain_links
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -69,12 +70,14 @@ def main() -> int:
     homepage_html = fetch_text(UIL_HOME)
     school_year = detect_school_year(homepage_html)
     piano_solo_rows = fetch_piano_solo_rows()
+    public_domain_links = enrich_public_domain_links(piano_solo_rows)
 
     stats = build_outputs(
         piano_solo_rows,
         school_year=school_year,
         source_label=f"{UIL_HOME} and {UIL_DATA}",
         source_csv_path=SOURCE_CSV_PATH,
+        public_domain_links=public_domain_links,
     )
 
     print(
@@ -83,6 +86,7 @@ def main() -> int:
                 "schoolYear": school_year,
                 "songCount": stats["songCount"],
                 "noMemoryRequiredCount": stats["noMemoryRequiredCount"],
+                "publicDomainPdfCount": stats["publicDomainPdfCount"],
                 "databaseRecordCount": stats["databaseRecordCount"],
             },
             indent=2,

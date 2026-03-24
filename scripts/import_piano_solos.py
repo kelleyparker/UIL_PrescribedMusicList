@@ -125,6 +125,7 @@ def build_outputs(
     school_year: str,
     source_label: str,
     source_csv_path: Path | None = None,
+    public_domain_links: dict[str, dict] | None = None,
 ) -> dict:
     DB_PATH.parent.mkdir(parents=True, exist_ok=True)
     STATIC_DATA_DIR.mkdir(parents=True, exist_ok=True)
@@ -171,6 +172,9 @@ def build_outputs(
 
     for row in rows:
         payload = piano_row_to_dict(row)
+        link_info = (public_domain_links or {}).get(row.code, {})
+        payload["publicDomainPdfUrl"] = link_info.get("pdfUrl")
+        payload["publicDomainSource"] = link_info.get("source")
         cursor.execute(
             """
             INSERT INTO piano_solos (
@@ -244,6 +248,9 @@ def build_outputs(
         },
         "noMemoryRequiredCount": sum(
             song["noMemoryRequired"] for song in songs_payload
+        ),
+        "publicDomainPdfCount": sum(
+            bool(song["publicDomainPdfUrl"]) for song in songs_payload
         ),
         "notes": {key: value for key, value in note_rows},
     }

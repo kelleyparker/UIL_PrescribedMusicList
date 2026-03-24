@@ -44,6 +44,6 @@ jobs:
           print(stats["schoolYear"])
           PY
           )
-          git add data/uil_piano_solos.db data/uil_piano_solos_source.csv static/data/piano-solos.json static/data/stats.json
+          git add data/public_domain_links.json data/uil_piano_solos.db data/uil_piano_solos_source.csv static/data/piano-solos.json static/data/stats.json
           git commit -m "Sync UIL Piano Solos for ${YEAR}"
           git push

@@ -7,6 +7,7 @@ const songCount = document.getElementById("song-count");
 const databaseRecordCount = document.getElementById("database-record-count");
 const classBreakdown = document.getElementById("class-breakdown");
 const nmrCount = document.getElementById("nmr-count");
+const pdfCount = document.getElementById("pdf-count");
 const themeSelect = document.getElementById("theme-select");
 const filterButtons = [...document.querySelectorAll(".filter-chip")];
 const cardTemplate = document.getElementById("song-card-template");
@@ -424,6 +425,11 @@ function renderSongs(songs) {
     card.querySelector(".song-composer").textContent = song.composer;
     card.querySelector(".song-specification").textContent =
       song.specification || "No additional UIL specification listed.";
+    const downloadButton = card.querySelector(".download-button");
+    if (song.publicDomainPdfUrl) {
+      downloadButton.hidden = false;
+      downloadButton.href = song.publicDomainPdfUrl;
+    }
 
     const publisherList = card.querySelector(".publisher-list");
     song.publishers.forEach((publisher) => {
@@ -483,6 +489,7 @@ async function init() {
   databaseRecordCount.textContent = stats.databaseRecordCount;
   classBreakdown.textContent = `Class 3: ${stats.classBreakdown["3"]} | Class 2: ${stats.classBreakdown["2"]} | Class 1: ${stats.classBreakdown["1"]}`;
   nmrCount.textContent = stats.noMemoryRequiredCount;
+  pdfCount.textContent = stats.publicDomainPdfCount;
   datasetNote.textContent = stats.notes.dataset_audit;
 
   filterButtons.forEach((button) => {
