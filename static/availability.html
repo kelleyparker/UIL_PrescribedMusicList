@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>UIL Sheet Music Availability</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Bitter:wght@500;700&family=Source+Sans+3:wght@400;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./styles.css?v=20260325b" />
+  </head>
+  <body>
+    <div class="page-shell">
+      <header class="hero">
+        <div class="hero-topbar">
+          <div>
+            <p class="eyebrow">Texas UIL Prescribed Music List</p>
+            <h1>Sheet Music Availability</h1>
+          </div>
+          <label class="theme-switcher">
+            <span>Color scheme</span>
+            <select
+              id="theme-select"
+              aria-label="Choose a color scheme"
+              onchange="window.__uilSetTheme && window.__uilSetTheme(this.value)"
+              oninput="window.__uilSetTheme && window.__uilSetTheme(this.value)"
+            >
+              <option value="midnight-lone-star">Lone Star Midnight</option>
+              <option value="neon-rodeo">Neon Rodeo</option>
+              <option value="desert-ember">Desert Ember</option>
+              <option value="bluebonnet-dusk">Bluebonnet Dusk</option>
+              <option value="vintage-marquee">Vintage Marquee</option>
+              <option value="crimson-steel">Crimson Steel</option>
+              <option value="electric-teal">Electric Teal</option>
+              <option value="copper-night">Copper Night</option>
+            </select>
+          </label>
+        </div>
+        <p class="hero-copy">
+          Compare which UIL categories currently have a direct Buy Sheet Music link, grouped by
+          Band, Orchestra, and Choir.
+        </p>
+        <div class="status-links">
+          <a class="uil-link" href="./index.html">Back to UIL Category Browser</a>
+          <a
+            class="uil-link"
+            href="https://www.uiltexas.org/pml/"
+            target="_blank"
+            rel="noreferrer"
+          >
+            Official UIL PML
+          </a>
+        </div>
+      </header>
+
+      <main class="content">
+        <section
+          id="availability-graph"
+          class="availability-section"
+          aria-labelledby="availability-graph-title"
+        >
+          <div class="availability-section-header">
+            <div>
+              <p class="availability-eyebrow">Quick View</p>
+              <h2 id="availability-graph-title">Sheet Music Availability by Category</h2>
+            </div>
+            <p id="availability-summary" class="availability-summary">
+              Loading category availability...
+            </p>
+          </div>
+          <div
+            id="availability-graph-content"
+            class="availability-graph-content"
+            aria-live="polite"
+          ></div>
+        </section>
+      </main>
+    </div>
+
+    <script src="./app.js?v=20260325b" defer></script>
+  </body>
+</html>

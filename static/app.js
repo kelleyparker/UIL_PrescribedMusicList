@@ -17,6 +17,7 @@ const availabilitySummary = document.getElementById("availability-summary");
 let filterButtons = [];
 let instrumentButtons = [];
 const cardTemplate = document.getElementById("song-card-template");
+const isAvailabilityOnlyPage = Boolean(availabilityGraphContent) && !songGrid;
 
 const instruments = {
   piano: {
@@ -1790,26 +1791,50 @@ function applyActiveInstrument(nextInstrument) {
 function updateInstrumentLabels(stats) {
   const instrument = instruments[state.activeInstrument] || instruments.piano;
   document.title = `UIL ${instrument.label} ${stats.schoolYear}`;
-  heroTitle.textContent = `${stats.schoolYear} ${instrument.label}`;
-  heroCopy.textContent = buildAffiliateHeroCopy(instrument.label);
-  searchInput.placeholder = instrument.titlePlaceholder;
+  if (heroTitle) {
+    heroTitle.textContent = `${stats.schoolYear} ${instrument.label}`;
+  }
+  if (heroCopy) {
+    heroCopy.textContent = buildAffiliateHeroCopy(instrument.label);
+  }
+  if (searchInput) {
+    searchInput.placeholder = instrument.titlePlaceholder;
+  }
+}
+
+function initTheme() {
+  const savedTheme = localStorage.getItem("uil-pml-theme") || "midnight-lone-star";
+
+  if (themeSelect) {
+    themeSelect.value = savedTheme;
+    const handleThemeChange = (event) => {
+      setTheme(event.target.value);
+    };
+    themeSelect.addEventListener("change", handleThemeChange);
+    themeSelect.addEventListener("input", handleThemeChange);
+  }
+
+  setTheme(savedTheme);
+}
+
+async function initAvailabilityPage() {
+  initTheme();
+  await loadAvailabilityMetrics();
+  document.title = "UIL Sheet Music Availability";
 }
 
 async function init() {
-  const savedTheme = localStorage.getItem("uil-pml-theme") || "midnight-lone-star";
+  if (isAvailabilityOnlyPage) {
+    await initAvailabilityPage();
+    return;
+  }
+
   const savedInstrument =
     localStorage.getItem("uil-pml-instrument") || state.activeInstrument;
   state.activeInstrument = savedInstrument in instruments ? savedInstrument : "piano";
   renderInstrumentSections();
   applyActiveInstrument(state.activeInstrument);
-  themeSelect.value = savedTheme;
-  setTheme(savedTheme);
-
-  const handleThemeChange = (event) => {
-    setTheme(event.target.value);
-  };
-  themeSelect.addEventListener("change", handleThemeChange);
-  themeSelect.addEventListener("input", handleThemeChange);
+  initTheme();
 
   instrumentSections?.addEventListener("click", async (event) => {
     const button = event.target.closest(".instrument-chip");
@@ -1867,20 +1892,29 @@ async function init() {
     applyActiveFilter(button.dataset.filter);
   });
 
-  let searchTimer;
-  searchInput.addEventListener("input", (event) => {
-    window.clearTimeout(searchTimer);
-    searchTimer = window.setTimeout(() => {
-      state.query = event.target.value.trim();
-      refreshSongs();
-    }, 180);
-  });
+  if (searchInput) {
+    let searchTimer;
+    searchInput.addEventListener("input", (event) => {
+      window.clearTimeout(searchTimer);
+      searchTimer = window.setTimeout(() => {
+        state.query = event.target.value.trim();
+        refreshSongs();
+      }, 180);
+    });
+  }
 
   await refreshSongs();
   setTheme(themeSelect.value);
 }
 
 init().catch((error) => {
-  resultSummary.textContent = "The UIL solo data could not be loaded.";
-  datasetNote.textContent = error.message;
+  if (resultSummary) {
+    resultSummary.textContent = "The UIL solo data could not be loaded.";
+  }
+  if (availabilitySummary) {
+    availabilitySummary.textContent = "The availability graph could not be loaded.";
+  }
+  if (datasetNote) {
+    datasetNote.textContent = error.message;
+  }
 });
