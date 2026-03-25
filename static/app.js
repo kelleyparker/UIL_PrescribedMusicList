@@ -1622,17 +1622,6 @@ function getDivisionForInstrument(instrumentSlug) {
   );
 }
 
-function syncOpenDivision(instrumentSlug) {
-  if (!instrumentSections) {
-    return;
-  }
-
-  const activeDivision = getDivisionForInstrument(instrumentSlug);
-  [...instrumentSections.querySelectorAll(".instrument-section")].forEach((section) => {
-    section.open = section.dataset.division === activeDivision.slug;
-  });
-}
-
 function renderInstrumentSections() {
   if (!instrumentSections) {
     return;
@@ -1644,7 +1633,6 @@ function renderInstrumentSections() {
     const section = document.createElement("details");
     section.className = "instrument-section";
     section.dataset.division = division.slug;
-    section.open = division.slug === getDivisionForInstrument(state.activeInstrument).slug;
 
     const summary = document.createElement("summary");
 
@@ -1784,7 +1772,6 @@ function applyActiveInstrument(nextInstrument) {
   instrumentButtons.forEach((button) => {
     button.classList.toggle("is-active", button.dataset.instrument === nextInstrument);
   });
-  syncOpenDivision(nextInstrument);
   localStorage.setItem("uil-pml-instrument", nextInstrument);
 }
 
