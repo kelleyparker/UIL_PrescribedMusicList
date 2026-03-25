@@ -114,6 +114,13 @@ AFFILIATE_LINKS_BY_INSTRUMENT = {
             "label": "Buy Sheet Music",
             "source": "Amazon affiliate link",
         }
+    },
+    "french-horn": {
+        "302-1-12766": {
+            "url": "https://amzn.to/4bFx63v",
+            "label": "Buy Sheet Music",
+            "source": "Amazon affiliate link",
+        }
     }
 }
 TAG_PATTERN = re.compile(r"<[^>]+>")
