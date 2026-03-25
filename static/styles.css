@@ -535,6 +535,7 @@ body {
   gap: 0.6rem;
   justify-content: end;
   margin-top: auto;
+  padding-top: 0.4rem;
 }
 
 .download-button,
@@ -542,12 +543,15 @@ body {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  min-height: 2.5rem;
-  padding: 0.55rem 0.95rem;
+  min-height: 3.4rem;
+  min-width: min(28rem, 100%);
+  padding: 0.8rem 1.8rem;
   border-radius: 999px;
   background: var(--active-chip-bg);
   color: var(--active-chip-text);
-  font-weight: 700;
+  font-size: 1.05rem;
+  font-weight: 800;
+  letter-spacing: -0.01em;
   text-decoration: none;
   transition: transform 140ms ease, opacity 140ms ease, filter 140ms ease;
 }
@@ -608,5 +612,11 @@ body {
 
   .status-row {
     align-items: start;
+  }
+
+  .download-button,
+  .affiliate-button {
+    width: 100%;
+    min-width: 0;
   }
 }
