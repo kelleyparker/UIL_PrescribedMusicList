@@ -1,0 +1,22 @@
+{
+  "schoolYear": "2025-2026",
+  "instrumentSlug": "soprano-saxophone",
+  "instrumentName": "Soprano Saxophone Solos",
+  "songCount": 35,
+  "publisherCount": 35,
+  "noteCount": 1,
+  "databaseRecordCount": 36,
+  "classBreakdown": {
+    "3": 1,
+    "2": 9,
+    "1": 25
+  },
+  "noMemoryRequiredCount": 2,
+  "publicDomainPdfCount": 0,
+  "eventBreakdown": {
+    "Soprano Saxophone Solo": 35
+  },
+  "notes": {
+    "dataset_audit": "Sourced from https://www.uiltexas.org/pml/ and https://www.uiltexas.org/pml/pml.php. Imported 2026-03-25T01:19:17.019674+00:00."
+  }
+}

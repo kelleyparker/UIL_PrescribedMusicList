@@ -1,0 +1,22 @@
+{
+  "schoolYear": "2025-2026",
+  "instrumentSlug": "contra-bass-clarinet-solo",
+  "instrumentName": "Contra Bass Clarinet Solos",
+  "songCount": 28,
+  "publisherCount": 29,
+  "noteCount": 1,
+  "databaseRecordCount": 29,
+  "classBreakdown": {
+    "3": 3,
+    "2": 11,
+    "1": 14
+  },
+  "noMemoryRequiredCount": 0,
+  "publicDomainPdfCount": 0,
+  "eventBreakdown": {
+    "Contra Bass Clarinet Solo": 28
+  },
+  "notes": {
+    "dataset_audit": "Sourced from https://www.uiltexas.org/pml/ and https://www.uiltexas.org/pml/pml.php. Imported 2026-03-25T01:19:17.008918+00:00."
+  }
+}

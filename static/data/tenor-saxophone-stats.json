@@ -1,0 +1,22 @@
+{
+  "schoolYear": "2025-2026",
+  "instrumentSlug": "tenor-saxophone",
+  "instrumentName": "Tenor Saxophone Solos",
+  "songCount": 148,
+  "publisherCount": 149,
+  "noteCount": 1,
+  "databaseRecordCount": 149,
+  "classBreakdown": {
+    "3": 36,
+    "2": 48,
+    "1": 64
+  },
+  "noMemoryRequiredCount": 3,
+  "publicDomainPdfCount": 0,
+  "eventBreakdown": {
+    "Tenor Saxophone Solo": 148
+  },
+  "notes": {
+    "dataset_audit": "Sourced from https://www.uiltexas.org/pml/ and https://www.uiltexas.org/pml/pml.php. Imported 2026-03-25T01:19:17.046794+00:00."
+  }
+}

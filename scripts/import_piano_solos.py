@@ -13,9 +13,19 @@ ROOT = Path(__file__).resolve().parents[1]
 STATIC_DATA_DIR = ROOT / "static" / "data"
 SOURCE_CSV_PATH = ROOT / "data" / "uil_piano_solos_source.csv"
 CLARINET_SOURCE_CSV_PATH = ROOT / "data" / "uil_clarinet_solos_source.csv"
+BB_CLARINET_SOLO_SOURCE_CSV_PATH = ROOT / "data" / "uil_bb_clarinet_solos_source.csv"
+BASS_CLARINET_SOLO_SOURCE_CSV_PATH = ROOT / "data" / "uil_bass_clarinet_solos_source.csv"
+ALTO_CLARINET_SOLO_SOURCE_CSV_PATH = ROOT / "data" / "uil_alto_clarinet_solos_source.csv"
+EB_CLARINET_SOLO_SOURCE_CSV_PATH = ROOT / "data" / "uil_eb_clarinet_solos_source.csv"
+CONTRA_BASS_CLARINET_SOLO_SOURCE_CSV_PATH = ROOT / "data" / "uil_contra_bass_clarinet_solos_source.csv"
 FRENCH_HORN_SOURCE_CSV_PATH = ROOT / "data" / "uil_french_horn_solos_source.csv"
 SAXOPHONE_SOURCE_CSV_PATH = ROOT / "data" / "uil_saxophone_solos_source.csv"
+SOPRANO_SAXOPHONE_SOURCE_CSV_PATH = ROOT / "data" / "uil_soprano_saxophone_solos_source.csv"
+TENOR_SAXOPHONE_SOURCE_CSV_PATH = ROOT / "data" / "uil_tenor_saxophone_solos_source.csv"
+BARITONE_SAXOPHONE_SOURCE_CSV_PATH = ROOT / "data" / "uil_baritone_saxophone_solos_source.csv"
 TROMBONE_SOURCE_CSV_PATH = ROOT / "data" / "uil_trombone_solos_source.csv"
+TENOR_TROMBONE_SOURCE_CSV_PATH = ROOT / "data" / "uil_tenor_trombone_solos_source.csv"
+BASS_TROMBONE_SOURCE_CSV_PATH = ROOT / "data" / "uil_bass_trombone_solos_source.csv"
 TRUMPET_SOURCE_CSV_PATH = ROOT / "data" / "uil_trumpet_solos_source.csv"
 TUBA_SOURCE_CSV_PATH = ROOT / "data" / "uil_tuba_solos_source.csv"
 FLUTE_SOURCE_CSV_PATH = ROOT / "data" / "uil_flute_solos_source.csv"
@@ -127,19 +137,45 @@ INSTRUMENT_CONFIGS = {
         "songs_output": STATIC_DATA_DIR / "band.json",
         "stats_output": STATIC_DATA_DIR / "band-stats.json",
     },
-    "clarinet": {
+    "bb-clarinet-solo": {
         "event_name": "Bb Clarinet Solo",
-        "event_names": [
-            "Bb Clarinet Solo",
-            "Bass Clarinet Solo",
-            "Alto Clarinet Solo",
-            "Eb Clarinet Solo",
-            "Contra Bass Clarinet Solo",
-        ],
-        "title": "Clarinet Family Solos",
-        "csv_path": CLARINET_SOURCE_CSV_PATH,
-        "songs_output": STATIC_DATA_DIR / "clarinet-solos.json",
-        "stats_output": STATIC_DATA_DIR / "clarinet-stats.json",
+        "event_names": ["Bb Clarinet Solo"],
+        "title": "Bb Clarinet Solos",
+        "csv_path": BB_CLARINET_SOLO_SOURCE_CSV_PATH,
+        "songs_output": STATIC_DATA_DIR / "bb-clarinet-solos.json",
+        "stats_output": STATIC_DATA_DIR / "bb-clarinet-stats.json",
+    },
+    "alto-clarinet-solo": {
+        "event_name": "Alto Clarinet Solo",
+        "event_names": ["Alto Clarinet Solo"],
+        "title": "Alto Clarinet Solos",
+        "csv_path": ALTO_CLARINET_SOLO_SOURCE_CSV_PATH,
+        "songs_output": STATIC_DATA_DIR / "alto-clarinet-solos.json",
+        "stats_output": STATIC_DATA_DIR / "alto-clarinet-stats.json",
+    },
+    "bass-clarinet-solo": {
+        "event_name": "Bass Clarinet Solo",
+        "event_names": ["Bass Clarinet Solo"],
+        "title": "Bass Clarinet Solos",
+        "csv_path": BASS_CLARINET_SOLO_SOURCE_CSV_PATH,
+        "songs_output": STATIC_DATA_DIR / "bass-clarinet-solos.json",
+        "stats_output": STATIC_DATA_DIR / "bass-clarinet-stats.json",
+    },
+    "eb-clarinet-solo": {
+        "event_name": "Eb Clarinet Solo",
+        "event_names": ["Eb Clarinet Solo"],
+        "title": "Eb Clarinet Solos",
+        "csv_path": EB_CLARINET_SOLO_SOURCE_CSV_PATH,
+        "songs_output": STATIC_DATA_DIR / "eb-clarinet-solos.json",
+        "stats_output": STATIC_DATA_DIR / "eb-clarinet-stats.json",
+    },
+    "contra-bass-clarinet-solo": {
+        "event_name": "Contra Bass Clarinet Solo",
+        "event_names": ["Contra Bass Clarinet Solo"],
+        "title": "Contra Bass Clarinet Solos",
+        "csv_path": CONTRA_BASS_CLARINET_SOLO_SOURCE_CSV_PATH,
+        "songs_output": STATIC_DATA_DIR / "contra-bass-clarinet-solos.json",
+        "stats_output": STATIC_DATA_DIR / "contra-bass-clarinet-stats.json",
     },
     "french-horn": {
         "event_name": "French Horn Solo",
@@ -149,26 +185,13 @@ INSTRUMENT_CONFIGS = {
         "songs_output": STATIC_DATA_DIR / "french-horn-solos.json",
         "stats_output": STATIC_DATA_DIR / "french-horn-stats.json",
     },
-    "saxophone": {
-        "event_name": "Alto Saxophone Solo",
-        "event_names": [
-            "Soprano Saxophone Solo",
-            "Alto Saxophone Solo",
-            "Tenor Saxophone Solo",
-            "Baritone Saxophone Solo",
-        ],
-        "title": "Saxophone Family Solos",
-        "csv_path": SAXOPHONE_SOURCE_CSV_PATH,
-        "songs_output": STATIC_DATA_DIR / "saxophone-solos.json",
-        "stats_output": STATIC_DATA_DIR / "saxophone-stats.json",
-    },
-    "trombone": {
-        "event_name": "Tenor Trombone Solo",
-        "event_names": ["Tenor Trombone Solo", "Bass Trombone Solo"],
-        "title": "Trombone Solos",
-        "csv_path": TROMBONE_SOURCE_CSV_PATH,
-        "songs_output": STATIC_DATA_DIR / "trombone-solos.json",
-        "stats_output": STATIC_DATA_DIR / "trombone-stats.json",
+    "soprano-saxophone": {
+        "event_name": "Soprano Saxophone Solo",
+        "event_names": ["Soprano Saxophone Solo"],
+        "title": "Soprano Saxophone Solos",
+        "csv_path": SOPRANO_SAXOPHONE_SOURCE_CSV_PATH,
+        "songs_output": STATIC_DATA_DIR / "soprano-saxophone-solos.json",
+        "stats_output": STATIC_DATA_DIR / "soprano-saxophone-stats.json",
     },
     "trumpet": {
         "event_name": "Cornet/Trumpet Solo",
@@ -217,6 +240,38 @@ INSTRUMENT_CONFIGS = {
         "csv_path": ALTO_SAXOPHONE_SOURCE_CSV_PATH,
         "songs_output": STATIC_DATA_DIR / "alto-saxophone-solos.json",
         "stats_output": STATIC_DATA_DIR / "alto-saxophone-stats.json",
+    },
+    "tenor-saxophone": {
+        "event_name": "Tenor Saxophone Solo",
+        "event_names": ["Tenor Saxophone Solo"],
+        "title": "Tenor Saxophone Solos",
+        "csv_path": TENOR_SAXOPHONE_SOURCE_CSV_PATH,
+        "songs_output": STATIC_DATA_DIR / "tenor-saxophone-solos.json",
+        "stats_output": STATIC_DATA_DIR / "tenor-saxophone-stats.json",
+    },
+    "baritone-saxophone": {
+        "event_name": "Baritone Saxophone Solo",
+        "event_names": ["Baritone Saxophone Solo"],
+        "title": "Baritone Saxophone Solos",
+        "csv_path": BARITONE_SAXOPHONE_SOURCE_CSV_PATH,
+        "songs_output": STATIC_DATA_DIR / "baritone-saxophone-solos.json",
+        "stats_output": STATIC_DATA_DIR / "baritone-saxophone-stats.json",
+    },
+    "tenor-trombone": {
+        "event_name": "Tenor Trombone Solo",
+        "event_names": ["Tenor Trombone Solo"],
+        "title": "Tenor Trombone Solos",
+        "csv_path": TENOR_TROMBONE_SOURCE_CSV_PATH,
+        "songs_output": STATIC_DATA_DIR / "tenor-trombone-solos.json",
+        "stats_output": STATIC_DATA_DIR / "tenor-trombone-stats.json",
+    },
+    "bass-trombone": {
+        "event_name": "Bass Trombone Solo",
+        "event_names": ["Bass Trombone Solo"],
+        "title": "Bass Trombone Solos",
+        "csv_path": BASS_TROMBONE_SOURCE_CSV_PATH,
+        "songs_output": STATIC_DATA_DIR / "bass-trombone-solos.json",
+        "stats_output": STATIC_DATA_DIR / "bass-trombone-stats.json",
     },
     "violin": {
         "event_name": "Violin Solo",

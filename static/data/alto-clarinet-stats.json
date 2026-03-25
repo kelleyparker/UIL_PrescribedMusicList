@@ -1,0 +1,22 @@
+{
+  "schoolYear": "2025-2026",
+  "instrumentSlug": "alto-clarinet-solo",
+  "instrumentName": "Alto Clarinet Solos",
+  "songCount": 61,
+  "publisherCount": 61,
+  "noteCount": 1,
+  "databaseRecordCount": 62,
+  "classBreakdown": {
+    "3": 24,
+    "2": 27,
+    "1": 10
+  },
+  "noMemoryRequiredCount": 0,
+  "publicDomainPdfCount": 0,
+  "eventBreakdown": {
+    "Alto Clarinet Solo": 61
+  },
+  "notes": {
+    "dataset_audit": "Sourced from https://www.uiltexas.org/pml/ and https://www.uiltexas.org/pml/pml.php. Imported 2026-03-25T01:19:16.974410+00:00."
+  }
+}

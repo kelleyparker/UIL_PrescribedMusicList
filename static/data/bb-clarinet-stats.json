@@ -1,0 +1,22 @@
+{
+  "schoolYear": "2025-2026",
+  "instrumentSlug": "bb-clarinet-solo",
+  "instrumentName": "Bb Clarinet Solos",
+  "songCount": 267,
+  "publisherCount": 326,
+  "noteCount": 1,
+  "databaseRecordCount": 268,
+  "classBreakdown": {
+    "3": 57,
+    "2": 97,
+    "1": 113
+  },
+  "noMemoryRequiredCount": 11,
+  "publicDomainPdfCount": 0,
+  "eventBreakdown": {
+    "Bb Clarinet Solo": 267
+  },
+  "notes": {
+    "dataset_audit": "Sourced from https://www.uiltexas.org/pml/ and https://www.uiltexas.org/pml/pml.php. Imported 2026-03-25T01:19:16.959369+00:00."
+  }
+}

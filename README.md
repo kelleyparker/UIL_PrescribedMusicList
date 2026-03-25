@@ -23,6 +23,7 @@ Then open `http://127.0.0.1:8000`.
 - `.github/workflows/monthly-sync.yml` runs that sync on the first day of each month and commits changes only when the UIL data changes.
 - `.github/workflows/pages.yml` republishes the static site to GitHub Pages after pushes to `main`.
 - The frontend renders class filters dynamically from the selected dataset, so categories with UIL class levels beyond `1-3` (for example `100 Band`) show the correct range.
+- When UIL exposes separate solo event codes within a broader instrument family, the UI should prefer individual instrument filters over a single family bucket.
 
 ## AI handoff
 
