@@ -15,6 +15,9 @@ from urllib.request import Request, urlopen
 
 ROOT = Path(__file__).resolve().parents[1]
 STATIC_DATA_DIR = ROOT / "static" / "data"
+BB_CLARINET_AFFILIATE_LINKS_PATH = ROOT / "data" / "bb_clarinet_affiliate_links.json"
+FRENCH_HORN_AFFILIATE_LINKS_PATH = ROOT / "data" / "french_horn_affiliate_links.json"
+TRUMPET_AFFILIATE_LINKS_PATH = ROOT / "data" / "trumpet_affiliate_links.json"
 SOURCE_CSV_PATH = ROOT / "data" / "uil_piano_solos_source.csv"
 CLARINET_SOURCE_CSV_PATH = ROOT / "data" / "uil_clarinet_solos_source.csv"
 BB_CLARINET_SOLO_SOURCE_CSV_PATH = ROOT / "data" / "uil_bb_clarinet_solos_source.csv"
@@ -111,6 +114,14 @@ TENOR_BASS_CHORUS_SOURCE_CSV_PATH = ROOT / "data" / "uil_tenor_bass_chorus_sourc
 TREBLE_CHORUS_SOURCE_CSV_PATH = ROOT / "data" / "uil_treble_chorus_source.csv"
 BAND_SOURCE_CSV_PATH = ROOT / "data" / "uil_band_source.csv"
 DEFAULT_SCHOOL_YEAR = "2025-2026"
+
+
+def load_affiliate_links_cache(cache_path: Path) -> dict[str, dict]:
+    if not cache_path.exists():
+        return {}
+    return json.loads(cache_path.read_text(encoding="utf-8"))
+
+
 AFFILIATE_LINKS_BY_INSTRUMENT = {
     "piano": {
         "603-3-18148": {
@@ -126,6 +137,7 @@ AFFILIATE_LINKS_BY_INSTRUMENT = {
             "source": "JW Pepper link",
         }
     },
+    "bb-clarinet-solo": load_affiliate_links_cache(BB_CLARINET_AFFILIATE_LINKS_PATH),
     "french-horn": {
         "302-1-12766": {
             "url": "https://amzn.to/4bFx63v",
@@ -142,8 +154,10 @@ AFFILIATE_LINKS_BY_INSTRUMENT = {
             "url": "https://www.jwpepper.com/may-song-french-horn-solo-5006424/p",
             "label": "Buy Sheet Music",
             "source": "JW Pepper link",
-        }
-    }
+        },
+        **load_affiliate_links_cache(FRENCH_HORN_AFFILIATE_LINKS_PATH),
+    },
+    "trumpet": load_affiliate_links_cache(TRUMPET_AFFILIATE_LINKS_PATH),
 }
 TAG_PATTERN = re.compile(r"<[^>]+>")
 OPTION_PATTERN = re.compile(r"<option[^>]*>(.*?)</option>", re.IGNORECASE | re.DOTALL)
