@@ -17,6 +17,6 @@
     "Six or More Brass": 131
   },
   "notes": {
-    "dataset_audit": "Sourced from https://www.uiltexas.org/pml/ and https://www.uiltexas.org/pml/pml.php. Imported 2026-03-24T22:13:49.392863+00:00."
+    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-03-24T22:36:50.202992+00:00."
   }
 }

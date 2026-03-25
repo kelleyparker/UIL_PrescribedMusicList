@@ -12,11 +12,11 @@
     "1": 150
   },
   "noMemoryRequiredCount": 12,
-  "publicDomainPdfCount": 55,
+  "publicDomainPdfCount": 0,
   "eventBreakdown": {
     "Cornet/Trumpet Solo": 437
   },
   "notes": {
-    "dataset_audit": "Sourced from https://www.uiltexas.org/pml/ and https://www.uiltexas.org/pml/pml.php. Imported 2026-03-24T22:13:49.106158+00:00."
+    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-03-24T22:36:49.847264+00:00."
   }
 }

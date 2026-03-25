@@ -17,6 +17,6 @@
     "Piccolo Solo": 68
   },
   "notes": {
-    "dataset_audit": "Sourced from https://www.uiltexas.org/pml/ and https://www.uiltexas.org/pml/pml.php. Imported 2026-03-24T22:13:49.187033+00:00."
+    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-03-24T22:36:49.971431+00:00."
   }
 }

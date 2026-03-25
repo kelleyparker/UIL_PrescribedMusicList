@@ -17,6 +17,6 @@
     "Vocal Solo": 1413
   },
   "notes": {
-    "dataset_audit": "Sourced from https://www.uiltexas.org/pml/ and https://www.uiltexas.org/pml/pml.php. Imported 2026-03-24T22:13:49.703210+00:00."
+    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-03-24T22:36:50.535434+00:00."
   }
 }
