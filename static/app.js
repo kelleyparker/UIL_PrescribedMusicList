@@ -12,6 +12,8 @@ const pdfCount = document.getElementById("pdf-count");
 const themeSelect = document.getElementById("theme-select");
 const filterGroup = document.getElementById("filter-group");
 const instrumentSections = document.getElementById("instrument-sections");
+const availabilityGraphContent = document.getElementById("availability-graph-content");
+const availabilitySummary = document.getElementById("availability-summary");
 let filterButtons = [];
 let instrumentButtons = [];
 const cardTemplate = document.getElementById("song-card-template");
@@ -1054,6 +1056,7 @@ const state = {
   query: "",
   songs: [],
   stats: null,
+  availabilityByInstrument: [],
 };
 
 const themes = {
@@ -1425,6 +1428,31 @@ async function loadDataset(instrumentSlug) {
   state.songs = songs;
 }
 
+async function loadAvailabilityMetrics() {
+  const entries = await Promise.allSettled(
+    Object.entries(instruments).map(async ([slug, instrument]) => {
+      const response = await fetch(instrument.songsUrl);
+      const songs = await response.json();
+      const buyableCount = songs.filter((song) => Boolean(song.sheetMusicAffiliateUrl)).length;
+      return {
+        slug,
+        label: instrument.label,
+        division: getDivisionForInstrument(slug).slug,
+        totalCount: songs.length,
+        buyableCount,
+        percentage: songs.length ? (buyableCount / songs.length) * 100 : 0,
+      };
+    }),
+  );
+
+  state.availabilityByInstrument = entries
+    .filter((entry) => entry.status === "fulfilled")
+    .map((entry) => entry.value)
+    .sort((left, right) => right.percentage - left.percentage || left.label.localeCompare(right.label));
+
+  renderAvailabilityGraph();
+}
+
 function getFilteredSongs() {
   return state.songs.filter((song) => {
     const filterMatches =
@@ -1656,6 +1684,82 @@ function renderInstrumentSections() {
   instrumentButtons = [...instrumentSections.querySelectorAll(".instrument-chip")];
 }
 
+function renderAvailabilityGraph() {
+  if (!availabilityGraphContent || !availabilitySummary) {
+    return;
+  }
+
+  if (!state.availabilityByInstrument.length) {
+    availabilitySummary.textContent = "Sheet music availability data is not available yet.";
+    availabilityGraphContent.innerHTML =
+      '<p class="availability-empty">No category availability data could be loaded.</p>';
+    return;
+  }
+
+  const totalBuyable = state.availabilityByInstrument.reduce(
+    (sum, entry) => sum + entry.buyableCount,
+    0,
+  );
+  const totalSongs = state.availabilityByInstrument.reduce(
+    (sum, entry) => sum + entry.totalCount,
+    0,
+  );
+  const overallPercentage = totalSongs ? Math.round((totalBuyable / totalSongs) * 100) : 0;
+
+  availabilitySummary.textContent = `${overallPercentage}% of listed titles currently have a Buy Sheet Music link (${totalBuyable} of ${totalSongs}).`;
+  availabilityGraphContent.innerHTML = "";
+
+  const fragment = document.createDocumentFragment();
+
+  instrumentDivisions.forEach((division) => {
+    const divisionEntries = state.availabilityByInstrument.filter(
+      (entry) => entry.division === division.slug,
+    );
+
+    if (!divisionEntries.length) {
+      return;
+    }
+
+    const divisionBuyable = divisionEntries.reduce((sum, entry) => sum + entry.buyableCount, 0);
+    const divisionTotal = divisionEntries.reduce((sum, entry) => sum + entry.totalCount, 0);
+    const divisionPercentage = divisionTotal
+      ? Math.round((divisionBuyable / divisionTotal) * 100)
+      : 0;
+
+    const section = document.createElement("section");
+    section.className = "availability-division";
+    section.setAttribute("aria-labelledby", `availability-${division.slug}`);
+
+    const header = document.createElement("div");
+    header.className = "availability-division-header";
+    header.innerHTML = `
+      <h3 id="availability-${division.slug}">${division.label}</h3>
+      <p>${divisionPercentage}% buyable (${divisionBuyable}/${divisionTotal})</p>
+    `;
+
+    const list = document.createElement("div");
+    list.className = "availability-list";
+
+    divisionEntries.forEach((entry) => {
+      const row = document.createElement("article");
+      row.className = "availability-row";
+      row.innerHTML = `
+        <span class="availability-label">${entry.label}</span>
+        <div class="availability-bar-track" aria-hidden="true">
+          <div class="availability-bar-fill" style="width: ${entry.percentage.toFixed(1)}%"></div>
+        </div>
+        <span class="availability-value">${Math.round(entry.percentage)}% (${entry.buyableCount}/${entry.totalCount})</span>
+      `;
+      list.appendChild(row);
+    });
+
+    section.append(header, list);
+    fragment.appendChild(section);
+  });
+
+  availabilityGraphContent.appendChild(fragment);
+}
+
 async function refreshSongs() {
   const songs = getFilteredSongs();
   renderSongs(songs);
@@ -1744,7 +1848,7 @@ async function init() {
     true,
   );
 
-  await loadDataset(state.activeInstrument);
+  await Promise.all([loadDataset(state.activeInstrument), loadAvailabilityMetrics()]);
   const stats = state.stats;
   updateInstrumentLabels(stats);
   renderFilterButtons();

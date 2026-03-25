@@ -419,10 +419,136 @@ body {
   font-weight: 600;
 }
 
+.status-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  align-items: center;
+}
+
 .uil-link {
   color: var(--link-color);
   font-weight: 700;
   text-decoration-thickness: 2px;
+}
+
+.availability-section {
+  display: grid;
+  gap: 1.2rem;
+  margin: 0 0 1.25rem;
+  padding: 1.35rem;
+  border: 1px solid var(--border);
+  border-radius: 24px;
+  background: var(--panel);
+  box-shadow: var(--shadow);
+}
+
+.availability-section-header {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 0.85rem;
+  align-items: end;
+}
+
+.availability-eyebrow {
+  margin: 0 0 0.35rem;
+  color: var(--control-label);
+  font-size: 0.82rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.availability-section-header h2 {
+  margin: 0;
+  font-family: "Bitter", serif;
+  font-size: clamp(1.5rem, 2.6vw, 2rem);
+}
+
+.availability-summary {
+  margin: 0;
+  max-width: 26rem;
+  color: var(--muted);
+  font-weight: 600;
+  text-align: right;
+}
+
+.availability-graph-content {
+  display: grid;
+  gap: 1rem;
+}
+
+.availability-empty {
+  margin: 0;
+  color: var(--muted);
+  font-weight: 600;
+}
+
+.availability-division {
+  display: grid;
+  gap: 0.9rem;
+  padding: 1rem 1.1rem 1.15rem;
+  border: 1px solid var(--border);
+  border-radius: 20px;
+  background: var(--panel-soft);
+}
+
+.availability-division-header {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 0.75rem;
+  align-items: baseline;
+}
+
+.availability-division-header h3 {
+  margin: 0;
+  font-size: 1.1rem;
+}
+
+.availability-division-header p {
+  margin: 0;
+  color: var(--muted);
+  font-weight: 600;
+}
+
+.availability-list {
+  display: grid;
+  gap: 0.8rem;
+}
+
+.availability-row {
+  display: grid;
+  grid-template-columns: minmax(12rem, 1.3fr) minmax(0, 3fr) auto;
+  gap: 0.85rem;
+  align-items: center;
+}
+
+.availability-label {
+  font-weight: 700;
+}
+
+.availability-bar-track {
+  position: relative;
+  overflow: hidden;
+  height: 0.85rem;
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.08);
+}
+
+.availability-bar-fill {
+  height: 100%;
+  border-radius: inherit;
+  background: linear-gradient(90deg, var(--active-chip-bg), var(--link-color));
+}
+
+.availability-value {
+  min-width: 6.5rem;
+  color: var(--accent-soft-text);
+  font-weight: 700;
+  text-align: right;
+  white-space: nowrap;
 }
 
 .song-grid {
@@ -612,6 +738,22 @@ body {
 
   .status-row {
     align-items: start;
+  }
+
+  .availability-section {
+    padding: 1.2rem;
+  }
+
+  .availability-summary {
+    text-align: left;
+  }
+
+  .availability-row {
+    grid-template-columns: 1fr;
+  }
+
+  .availability-value {
+    text-align: left;
   }
 
   .download-button,
