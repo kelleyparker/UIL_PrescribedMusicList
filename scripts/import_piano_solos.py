@@ -115,11 +115,23 @@ AFFILIATE_LINKS_BY_INSTRUMENT = {
             "source": "Amazon affiliate link",
         }
     },
+    "flute-trio": {
+        "234-3-35133": {
+            "url": "https://www.jwpepper.com/lullaby-10562009/p?srsltid=AfmBOoqjzGCPq2tPairhwjPXfUjIQyzZhEv3rWSadyLmxdHPx0xwesZg",
+            "label": "Buy Sheet Music",
+            "source": "JW Pepper link",
+        }
+    },
     "french-horn": {
         "302-1-12766": {
             "url": "https://amzn.to/4bFx63v",
             "label": "Buy Sheet Music",
             "source": "Amazon affiliate link",
+        },
+        "302-3-12839": {
+            "url": "https://www.jwpepper.com/canzona-996926/p",
+            "label": "Buy Sheet Music",
+            "source": "JW Pepper link",
         }
     }
 }
