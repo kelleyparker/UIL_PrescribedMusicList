@@ -1777,12 +1777,13 @@ function applyActiveInstrument(nextInstrument) {
 
 function updateInstrumentLabels(stats) {
   const instrument = instruments[state.activeInstrument] || instruments.piano;
-  document.title = `UIL ${instrument.label} ${stats.schoolYear}`;
+  document.title = `Texas UIL Prescribed Music List ${stats.schoolYear}`;
   if (heroTitle) {
-    heroTitle.textContent = `${stats.schoolYear} ${instrument.label}`;
+    heroTitle.textContent = `${stats.schoolYear} Texas UIL Prescribed Music List`;
   }
   if (heroCopy) {
-    heroCopy.textContent = buildAffiliateHeroCopy(instrument.label);
+    heroCopy.textContent =
+      "Browse the full UIL Prescribed Music List by category, filter by class, search titles, composers, and publishers, and open public-domain or sheet music links when available.";
   }
   if (searchInput) {
     searchInput.placeholder = instrument.titlePlaceholder;
