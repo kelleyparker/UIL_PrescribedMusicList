@@ -31,6 +31,7 @@ The goal is to:
 - Frontend:
   - Static HTML/CSS/JS app in `static/`
   - Searchable/filterable UI grouped by UIL top-level categories such as Band, Orchestra, and Choir
+  - Class filter chips are dataset-driven and should reflect the available UIL levels for the active category
 - Deployment:
   - Pushes to `main` trigger GitHub Pages deployment
   - Monthly sync automation refreshes UIL-backed datasets when upstream data changes

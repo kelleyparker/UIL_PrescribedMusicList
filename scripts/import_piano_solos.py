@@ -95,6 +95,7 @@ MADRIGAL_SOURCE_CSV_PATH = ROOT / "data" / "uil_madrigal_source.csv"
 MIXED_CHORUS_SOURCE_CSV_PATH = ROOT / "data" / "uil_mixed_chorus_source.csv"
 TENOR_BASS_CHORUS_SOURCE_CSV_PATH = ROOT / "data" / "uil_tenor_bass_chorus_source.csv"
 TREBLE_CHORUS_SOURCE_CSV_PATH = ROOT / "data" / "uil_treble_chorus_source.csv"
+BAND_SOURCE_CSV_PATH = ROOT / "data" / "uil_band_source.csv"
 DEFAULT_SCHOOL_YEAR = "2025-2026"
 AFFILIATE_LINKS_BY_INSTRUMENT = {
     "piano": {
@@ -117,6 +118,14 @@ INSTRUMENT_CONFIGS = {
         "songs_output": STATIC_DATA_DIR / "piano-solos.json",
         "stats_output": STATIC_DATA_DIR / "piano-stats.json",
         "legacy_stats_output": STATIC_DATA_DIR / "stats.json",
+    },
+    "band": {
+        "event_name": "Band",
+        "event_names": ["Band"],
+        "title": "Band Literature",
+        "csv_path": BAND_SOURCE_CSV_PATH,
+        "songs_output": STATIC_DATA_DIR / "band.json",
+        "stats_output": STATIC_DATA_DIR / "band-stats.json",
     },
     "clarinet": {
         "event_name": "Bb Clarinet Solo",
@@ -961,6 +970,10 @@ def build_outputs(
     )
 
     note_rows = dataset_note_rows(source_label)
+    class_levels = sorted(
+        {song["classLevel"] for song in songs_payload if song["classLevel"] > 0},
+        reverse=True,
+    )
     stats_payload = {
         "schoolYear": school_year,
         "instrumentSlug": instrument_slug,
@@ -970,9 +983,8 @@ def build_outputs(
         "noteCount": len(note_rows),
         "databaseRecordCount": len(songs_payload) + len(note_rows),
         "classBreakdown": {
-            "3": sum(song["classLevel"] == 3 for song in songs_payload),
-            "2": sum(song["classLevel"] == 2 for song in songs_payload),
-            "1": sum(song["classLevel"] == 1 for song in songs_payload),
+            str(level): sum(song["classLevel"] == level for song in songs_payload)
+            for level in class_levels
         },
         "noMemoryRequiredCount": sum(
             song["noMemoryRequired"] for song in songs_payload

@@ -1,6 +1,6 @@
 # UIL Prescribed Music List
 
-This project is a lightweight Python website for browsing UIL Prescribed Music List solo, ensemble, orchestra, and choir datasets, with a GitHub Pages deployment and a monthly GitHub Actions sync.
+This project is a lightweight Python website for browsing UIL Prescribed Music List solo, ensemble, band, orchestra, and choir datasets, with a GitHub Pages deployment and a monthly GitHub Actions sync.
 
 ## Run locally
 
@@ -22,6 +22,7 @@ Then open `http://127.0.0.1:8000`.
 - `scripts/sync_uil_pml.py` fetches the UIL homepage and JSON feed, detects the active school year, filters the configured solo events, and rebuilds the project data files.
 - `.github/workflows/monthly-sync.yml` runs that sync on the first day of each month and commits changes only when the UIL data changes.
 - `.github/workflows/pages.yml` republishes the static site to GitHub Pages after pushes to `main`.
+- The frontend renders class filters dynamically from the selected dataset, so categories with UIL class levels beyond `1-3` (for example `100 Band`) show the correct range.
 
 ## AI handoff
 

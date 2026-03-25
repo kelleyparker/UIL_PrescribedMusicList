@@ -1,0 +1,24 @@
+{
+  "schoolYear": "2025-2026",
+  "instrumentSlug": "band",
+  "instrumentName": "Band Literature",
+  "songCount": 2090,
+  "publisherCount": 2147,
+  "noteCount": 1,
+  "databaseRecordCount": 2091,
+  "classBreakdown": {
+    "5": 558,
+    "4": 428,
+    "3": 440,
+    "2": 390,
+    "1": 274
+  },
+  "noMemoryRequiredCount": 0,
+  "publicDomainPdfCount": 0,
+  "eventBreakdown": {
+    "Band": 2090
+  },
+  "notes": {
+    "dataset_audit": "Sourced from https://www.uiltexas.org/pml/ and https://www.uiltexas.org/pml/pml.php. Imported 2026-03-25T01:07:38.233264+00:00."
+  }
+}

@@ -10,8 +10,9 @@ const classBreakdown = document.getElementById("class-breakdown");
 const nmrCount = document.getElementById("nmr-count");
 const pdfCount = document.getElementById("pdf-count");
 const themeSelect = document.getElementById("theme-select");
-const filterButtons = [...document.querySelectorAll(".filter-chip")];
+const filterGroup = document.getElementById("filter-group");
 const instrumentSections = document.getElementById("instrument-sections");
+let filterButtons = [];
 let instrumentButtons = [];
 const cardTemplate = document.getElementById("song-card-template");
 
@@ -25,6 +26,15 @@ const instruments = {
     titlePlaceholder: "Try Bach, Sonatina, or Alfred",
     heroCopy:
       "Browse UIL piano solos by class, search titles and composers, and open verified public-domain sheet music where it is available.",
+  },
+  band: {
+    slug: "band",
+    label: "Band Literature",
+    shortLabel: "band work",
+    songsUrl: "./data/band.json",
+    statsUrl: "./data/band-stats.json",
+    titlePlaceholder: "Try Grainger, Holst, or Murphy",
+    heroCopy: "",
   },
   clarinet: {
     slug: "clarinet",
@@ -838,6 +848,7 @@ const instrumentDivisions = [
     label: "Band",
     helper: "Band solos, percussion events, and chamber or large ensembles from the UIL band list.",
     instruments: [
+      "band",
       "clarinet",
       "french-horn",
       "saxophone",
@@ -941,6 +952,7 @@ const instrumentDivisions = [
 ];
 
 const instrumentChipLabelOverrides = {
+  band: "Concert Band",
   clarinet: "Clarinet Family",
   saxophone: "Saxophone Family",
   "bb-clarinet-trio": "Bb Clarinet Trio",
@@ -1419,6 +1431,62 @@ function updateSummary(songs) {
   resultSummary.textContent = `Showing ${songs.length} ${instrument.shortLabel} titles for ${filterLabel}${searchLabel}.`;
 }
 
+function getAvailableClassLevels(songs = []) {
+  return [...new Set(
+    songs
+      .map((song) => Number(song.classLevel))
+      .filter((level) => Number.isFinite(level) && level > 0),
+  )].sort((left, right) => right - left);
+}
+
+function buildClassBreakdownText(songs = []) {
+  const levels = getAvailableClassLevels(songs);
+  if (!levels.length) {
+    return "No class breakdown available";
+  }
+
+  return levels
+    .map((level) => {
+      const count = songs.filter((song) => Number(song.classLevel) === level).length;
+      return `Class ${level}: ${count}`;
+    })
+    .join(" | ");
+}
+
+function renderFilterButtons() {
+  if (!filterGroup) {
+    return;
+  }
+
+  const levels = getAvailableClassLevels(state.songs);
+  const showNmr = state.songs.some((song) => song.noMemoryRequired);
+  const filters = [{ value: "all", label: "All Classes", nmr: false }];
+
+  levels.forEach((level) => {
+    filters.push({ value: String(level), label: `Class ${level}`, nmr: false });
+  });
+
+  if (showNmr) {
+    filters.push({ value: "nmr", label: "No Memory Required", nmr: true });
+  }
+
+  filterGroup.innerHTML = "";
+  filters.forEach((filter) => {
+    const button = document.createElement("button");
+    button.type = "button";
+    button.className = "filter-chip";
+    if (filter.nmr) {
+      button.classList.add("filter-chip-nmr");
+    }
+    button.dataset.filter = filter.value;
+    button.textContent = filter.label;
+    button.classList.toggle("is-active", state.activeFilter === filter.value);
+    filterGroup.appendChild(button);
+  });
+
+  filterButtons = [...filterGroup.querySelectorAll(".filter-chip")];
+}
+
 function getInstrumentChipLabel(slug) {
   if (instrumentChipLabelOverrides[slug]) {
     return instrumentChipLabelOverrides[slug];
@@ -1533,9 +1601,6 @@ function applyActiveInstrument(nextInstrument) {
   instrumentButtons.forEach((button) => {
     button.classList.toggle("is-active", button.dataset.instrument === nextInstrument);
   });
-  filterButtons.forEach((button) => {
-    button.classList.toggle("is-active", button.dataset.filter === "all");
-  });
   syncOpenDivision(nextInstrument);
   localStorage.setItem("uil-pml-instrument", nextInstrument);
 }
@@ -1573,9 +1638,10 @@ async function init() {
     applyActiveInstrument(button.dataset.instrument);
     await loadDataset(state.activeInstrument);
     updateInstrumentLabels(state.stats);
+    renderFilterButtons();
     songCount.textContent = state.stats.songCount;
     databaseRecordCount.textContent = state.stats.databaseRecordCount;
-    classBreakdown.textContent = `Class 3: ${state.stats.classBreakdown["3"]} | Class 2: ${state.stats.classBreakdown["2"]} | Class 1: ${state.stats.classBreakdown["1"]}`;
+    classBreakdown.textContent = buildClassBreakdownText(state.songs);
     nmrCount.textContent = state.stats.noMemoryRequiredCount;
     pdfCount.textContent = state.stats.publicDomainPdfCount;
     datasetNote.textContent = state.stats.notes.dataset_audit;
@@ -1603,15 +1669,20 @@ async function init() {
   await loadDataset(state.activeInstrument);
   const stats = state.stats;
   updateInstrumentLabels(stats);
+  renderFilterButtons();
   songCount.textContent = stats.songCount;
   databaseRecordCount.textContent = stats.databaseRecordCount;
-  classBreakdown.textContent = `Class 3: ${stats.classBreakdown["3"]} | Class 2: ${stats.classBreakdown["2"]} | Class 1: ${stats.classBreakdown["1"]}`;
+  classBreakdown.textContent = buildClassBreakdownText(state.songs);
   nmrCount.textContent = stats.noMemoryRequiredCount;
   pdfCount.textContent = stats.publicDomainPdfCount;
   datasetNote.textContent = stats.notes.dataset_audit;
 
-  filterButtons.forEach((button) => {
-    button.addEventListener("click", () => applyActiveFilter(button.dataset.filter));
+  filterGroup?.addEventListener("click", (event) => {
+    const button = event.target.closest(".filter-chip");
+    if (!button) {
+      return;
+    }
+    applyActiveFilter(button.dataset.filter);
   });
 
   let searchTimer;
