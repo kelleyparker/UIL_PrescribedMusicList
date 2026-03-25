@@ -1783,7 +1783,7 @@ function updateInstrumentLabels(stats) {
   }
   if (heroCopy) {
     heroCopy.textContent =
-      "Browse the full UIL Prescribed Music List by category, filter by class, search titles, composers, and publishers, and open public-domain or sheet music links when available.";
+      "Browse the full UIL Prescribed Music List by category, filter by class, search titles, composers, and publishers, and open public-domain or sheet music links when available. This site is not affiliated with or endorsed by the UIL.";
   }
   if (searchInput) {
     searchInput.placeholder = instrument.titlePlaceholder;
