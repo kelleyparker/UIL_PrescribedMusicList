@@ -4,9 +4,13 @@ import csv
 import html
 import json
 import re
+import subprocess
 from dataclasses import dataclass
 from datetime import datetime, timezone
+from functools import lru_cache
 from pathlib import Path
+from urllib.error import URLError
+from urllib.request import Request, urlopen
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -132,6 +136,7 @@ AFFILIATE_LINKS_BY_INSTRUMENT = {
             "url": "https://www.jwpepper.com/canzona-996926/p",
             "label": "Buy Sheet Music",
             "source": "JW Pepper link",
+            "scrapePrice": True,
         },
         "302-3-12841": {
             "url": "https://www.jwpepper.com/may-song-french-horn-solo-5006424/p",
@@ -142,6 +147,11 @@ AFFILIATE_LINKS_BY_INSTRUMENT = {
 }
 TAG_PATTERN = re.compile(r"<[^>]+>")
 OPTION_PATTERN = re.compile(r"<option[^>]*>(.*?)</option>", re.IGNORECASE | re.DOTALL)
+PRICE_PATTERNS = (
+    re.compile(r'property="product:price:amount"\s+content="(\d+(?:\.\d{2})?)"', re.IGNORECASE),
+    re.compile(r'"price":"(\d+(?:\.\d{2})?)"', re.IGNORECASE),
+    re.compile(r"Price:\s*(\$\d+(?:\.\d{2})?)", re.IGNORECASE),
+)
 
 INSTRUMENT_CONFIGS = {
     "piano": {
@@ -1016,6 +1026,34 @@ def dataset_note_rows(source_label: str) -> list[tuple[str, str]]:
     ]
 
 
+@lru_cache(maxsize=128)
+def fetch_affiliate_price(url: str) -> str | None:
+    if "jwpepper.com" not in url:
+        return None
+
+    request = Request(url, headers={"User-Agent": "Mozilla/5.0"})
+    try:
+        with urlopen(request, timeout=10) as response:
+            html_text = response.read().decode("utf-8", "ignore")
+    except URLError:
+        try:
+            html_text = subprocess.run(
+                ["curl", "-fsSL", "-A", "Mozilla/5.0", url],
+                check=True,
+                capture_output=True,
+                text=True,
+            ).stdout
+        except subprocess.CalledProcessError:
+            return None
+
+    for pattern in PRICE_PATTERNS:
+        match = pattern.search(html_text)
+        if match:
+            price = match.group(1)
+            return price if price.startswith("$") else f"${price}"
+    return None
+
+
 def build_outputs(
     rows: list[SoloRow],
     *,
@@ -1042,6 +1080,13 @@ def build_outputs(
             "label", "Buy Sheet Music"
         )
         payload["sheetMusicAffiliateSource"] = affiliate_info.get("source")
+        affiliate_price = (
+            fetch_affiliate_price(affiliate_info["url"])
+            if affiliate_info.get("scrapePrice") and affiliate_info.get("url")
+            else affiliate_info.get("price")
+        )
+        if affiliate_price is not None:
+            payload["sheetMusicAffiliatePrice"] = affiliate_price
         songs_payload.append(payload)
 
     songs_payload.sort(

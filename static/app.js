@@ -1478,8 +1478,10 @@ function renderSongs(songs) {
     if (song.sheetMusicAffiliateUrl) {
       affiliateButton.hidden = false;
       affiliateButton.href = song.sheetMusicAffiliateUrl;
-      affiliateButton.textContent =
-        song.sheetMusicAffiliateLabel || "Buy Sheet Music";
+      const affiliateLabel = song.sheetMusicAffiliateLabel || "Buy Sheet Music";
+      affiliateButton.textContent = song.sheetMusicAffiliatePrice
+        ? `${affiliateLabel} - ${song.sheetMusicAffiliatePrice}`
+        : affiliateLabel;
     }
 
     const publisherList = card.querySelector(".publisher-list");
