@@ -132,6 +132,11 @@ AFFILIATE_LINKS_BY_INSTRUMENT = {
             "url": "https://www.jwpepper.com/canzona-996926/p",
             "label": "Buy Sheet Music",
             "source": "JW Pepper link",
+        },
+        "302-3-12841": {
+            "url": "https://www.jwpepper.com/may-song-french-horn-solo-5006424/p",
+            "label": "Buy Sheet Music",
+            "source": "JW Pepper link",
         }
     }
 }
