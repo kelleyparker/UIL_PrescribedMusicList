@@ -122,6 +122,10 @@ def load_affiliate_links_cache(cache_path: Path) -> dict[str, dict]:
     return json.loads(cache_path.read_text(encoding="utf-8"))
 
 
+def affiliate_cache_path_for_instrument(instrument_slug: str) -> Path:
+    return ROOT / "data" / f"{instrument_slug.replace('-', '_')}_affiliate_links.json"
+
+
 AFFILIATE_LINKS_BY_INSTRUMENT = {
     "piano": {
         "603-3-18148": {
@@ -906,6 +910,14 @@ INSTRUMENT_CONFIGS = {
         "stats_output": STATIC_DATA_DIR / "treble-chorus-stats.json",
     },
 }
+
+for instrument_slug in INSTRUMENT_CONFIGS:
+    cache_path = affiliate_cache_path_for_instrument(instrument_slug)
+    if cache_path.exists():
+        AFFILIATE_LINKS_BY_INSTRUMENT[instrument_slug] = {
+            **AFFILIATE_LINKS_BY_INSTRUMENT.get(instrument_slug, {}),
+            **load_affiliate_links_cache(cache_path),
+        }
 
 
 @dataclass
