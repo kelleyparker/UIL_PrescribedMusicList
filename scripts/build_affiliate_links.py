@@ -73,6 +73,31 @@ PACE_PROFILES = {
 }
 
 
+def attempted_cache_path_for_instrument(instrument_slug: str) -> Path:
+    affiliate_cache_path = affiliate_cache_path_for_instrument(instrument_slug)
+    return affiliate_cache_path.with_name(f"{instrument_slug}_affiliate_attempts.json")
+
+
+def load_attempted_codes(cache_path: Path) -> set[str]:
+    if not cache_path.exists():
+        return set()
+
+    try:
+        payload = json.loads(cache_path.read_text(encoding="utf-8"))
+    except Exception:
+        return set()
+
+    if isinstance(payload, list):
+        return {str(code) for code in payload if code}
+    if isinstance(payload, dict):
+        return {str(code) for code, attempted in payload.items() if attempted}
+    return set()
+
+
+def write_attempted_codes(cache_path: Path, attempted_codes: set[str]) -> None:
+    cache_path.write_text(json.dumps(sorted(attempted_codes), indent=2), encoding="utf-8")
+
+
 def sleep_range(delay_range: tuple[float, float]) -> None:
     low, high = delay_range
     time.sleep(random.uniform(low, high))
@@ -423,7 +448,9 @@ def main() -> int:
     config = INSTRUMENT_CONFIGS[args.instrument]
     csv_path = config["csv_path"]
     cache_path = affiliate_cache_path_for_instrument(args.instrument)
+    attempts_cache_path = attempted_cache_path_for_instrument(args.instrument)
     existing_cache = load_affiliate_links_cache(cache_path)
+    attempted_codes = load_attempted_codes(attempts_cache_path)
     pace = PACE_PROFILES[args.pace]
 
     rows = read_rows_from_csv(csv_path)
@@ -434,14 +461,25 @@ def main() -> int:
         rows = rows[: args.limit]
 
     updated_cache = dict(existing_cache)
+    updated_attempted_codes = set(attempted_codes)
+    updated_attempted_codes.update(updated_cache.keys())
     matches: list[dict[str, object]] = []
+    skipped_previously_attempted = 0
 
     for index, row in enumerate(rows, start=1):
+        if not args.force and row.code in updated_attempted_codes:
+            skipped_previously_attempted += 1
+            print(
+                f"[{index}/{len(rows)}] skipped previously attempted {row.code} {row.title}",
+                flush=True,
+            )
+            continue
         if not args.force and row.code in updated_cache:
             continue
 
         result_row = csv_row_to_dict(row)
         product, score = choose_best_product(result_row, args.instrument, pace)
+        updated_attempted_codes.add(row.code)
         if product and score >= 85:
             updated_cache[row.code] = {
                 "url": product["link"],
@@ -475,6 +513,7 @@ def main() -> int:
         json.dumps(dict(sorted(updated_cache.items())), indent=2),
         encoding="utf-8",
     )
+    write_attempted_codes(attempts_cache_path, updated_attempted_codes)
 
     build_from_csv(
         csv_path,
@@ -490,9 +529,12 @@ def main() -> int:
                 "instrument": args.instrument,
                 "pace": args.pace,
                 "cachePath": str(cache_path),
+                "attemptsCachePath": str(attempts_cache_path),
                 "rowsConsidered": len(rows),
+                "skippedPreviouslyAttempted": skipped_previously_attempted,
                 "matchedThisRun": len(matches),
                 "totalCachedLinks": len(updated_cache),
+                "totalAttempted": len(updated_attempted_codes),
             },
             indent=2,
         )
