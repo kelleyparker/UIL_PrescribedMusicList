@@ -212,24 +212,40 @@ def fetch_products(query: str, pace: dict[str, object]) -> list[dict]:
     return []
 
 
+def _safe_text(value: object) -> str:
+    if value is None:
+        return ""
+    return str(value)
+
+
+def _safe_join(values: object) -> str:
+    if isinstance(values, list):
+        return " ".join(_safe_text(value) for value in values if value is not None)
+    if values is None:
+        return ""
+    return _safe_text(values)
+
+
 def product_search_text(product: dict) -> str:
-    item_text = []
+    item_text: list[str] = []
     for item in product.get("items") or []:
-        item_text.extend(item.get("Instrument") or [])
-        item_text.extend(item.get("Instrument Type") or [])
-        item_text.extend(item.get("Ensemble") or [])
-        item_text.extend(item.get("Format") or [])
-        item_text.append(item.get("nameComplete", ""))
+        item_text.extend(_safe_text(value) for value in (item.get("Instrument") or []) if value is not None)
+        item_text.extend(
+            _safe_text(value) for value in (item.get("Instrument Type") or []) if value is not None
+        )
+        item_text.extend(_safe_text(value) for value in (item.get("Ensemble") or []) if value is not None)
+        item_text.extend(_safe_text(value) for value in (item.get("Format") or []) if value is not None)
+        item_text.append(_safe_text(item.get("nameComplete")))
     return normalize(
         " ".join(
             [
-                product.get("productName", ""),
-                product.get("productTitle", ""),
-                product.get("brand", ""),
-                product.get("description", ""),
-                " ".join(product.get("Composer") or []),
-                " ".join(product.get("Index Composer") or []),
-                " ".join(product.get("Accompaniment") or []),
+                _safe_text(product.get("productName")),
+                _safe_text(product.get("productTitle")),
+                _safe_text(product.get("brand")),
+                _safe_text(product.get("description")),
+                _safe_join(product.get("Composer")),
+                _safe_join(product.get("Index Composer")),
+                _safe_join(product.get("Accompaniment")),
                 " ".join(item_text),
             ]
         )
@@ -241,9 +257,10 @@ def composer_matches(song_composer: str, product: dict) -> bool:
     if not normalized_song:
         return True
 
-    composer_text = normalize(
-        " ".join((product.get("Composer") or []) + (product.get("Index Composer") or []))
-    )
+    composer_values = []
+    composer_values.extend(product.get("Composer") or [])
+    composer_values.extend(product.get("Index Composer") or [])
+    composer_text = normalize(" ".join(_safe_text(value) for value in composer_values if value is not None))
     if not composer_text:
         return False
 
