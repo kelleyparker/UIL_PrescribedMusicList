@@ -394,16 +394,16 @@ def choose_best_product(
 def parse_args() -> argparse.Namespace:
     instrument_list = "\n".join(f"  - {slug}" for slug in sorted(INSTRUMENT_CONFIGS))
     parser = argparse.ArgumentParser(
-        description="Scan and update affiliate link cache for one UIL PML instrument."
+        description="Scan one UIL PML instrument and update its cached links."
         "\n\nThis writes an instrument-specific affiliate cache in data/ and then"
         "\nrebuilds that instrument's static JSON in static/data/.",
         formatter_class=argparse.RawTextHelpFormatter,
         epilog=(
             "Examples:\n"
-            "  python3 scripts/scan_instrument_affiliate_links.py --instrument piccolo --class-level 3\n"
-            "  python3 scripts/scan_instrument_affiliate_links.py --instrument steel-band --all-classes --pace safe\n"
-            "  python3 scripts/scan_instrument_affiliate_links.py --instrument band --full-scan --pace safe\n"
-            "  python3 scripts/scan_instrument_affiliate_links.py --instrument flute --class-level 1 --class-level 2 --dry-run\n"
+            "  python3 scripts/scan_single_instrument.py --instrument piccolo --class-level 3\n"
+            "  python3 scripts/scan_single_instrument.py --instrument steel-band --all-classes --pace safe\n"
+            "  python3 scripts/scan_single_instrument.py --instrument band --full-scan --pace safe\n"
+            "  python3 scripts/scan_single_instrument.py --instrument flute --class-level 1 --class-level 2 --dry-run\n"
             "\n"
             "Available instrument slugs:\n"
             f"{instrument_list}"
