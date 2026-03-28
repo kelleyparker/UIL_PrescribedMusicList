@@ -50,8 +50,8 @@ ONLY_TEST_CODE = (os.getenv("ONLY_TEST_CODE") or "").strip() or None
 RESCAN_MODE = (os.getenv("SCAN_RESCAN_MODE") or "none").strip().lower()
 
 # Throughput tuning (override with environment variables).
-GLOBAL_CONCURRENCY = int(os.getenv("SCAN_GLOBAL_CONCURRENCY", "960"))
-JWPEPPER_CONCURRENCY = int(os.getenv("SCAN_JWPEPPER_CONCURRENCY", "384"))
+GLOBAL_CONCURRENCY = int(os.getenv("SCAN_GLOBAL_CONCURRENCY", "1500"))
+JWPEPPER_CONCURRENCY = int(os.getenv("SCAN_JWPEPPER_CONCURRENCY", "600"))
 FALLBACK_CONCURRENCY = int(os.getenv("SCAN_FALLBACK_CONCURRENCY", "96"))
 INSTRUMENT_CONCURRENCY = int(os.getenv("SCAN_INSTRUMENT_CONCURRENCY", "8"))
 
@@ -691,12 +691,11 @@ async def search_jwpepper(
         )
         return extract_jwpepper_candidates(payload)
 
-    for query in query_variants(row, instrument_slug):
+    async def try_variant(query: str) -> Candidate | None:
         try:
             candidates = await fetch_api_candidates(query)
-            if best := best_candidate(candidates, threshold=72):
-                return best
-
+            if match := best_candidate(candidates, threshold=72):
+                return match
             # Fallback: scrape JW Pepper's public site search when API candidates are weak/missing.
             sanitized_query = sanitize_jwpepper_query(query)
             web_payload = await fetch_with_retries(
@@ -706,10 +705,17 @@ async def search_jwpepper(
                 max_delay=JWPEPPER_DELAY_MAX,
             )
             web_candidates = extract_jwpepper_web_candidates(web_payload)
-            if best := best_candidate(web_candidates, threshold=66):
-                return best
+            if match := best_candidate(web_candidates, threshold=66):
+                return match
         except Exception:
-            continue
+            pass
+        return None
+
+    # Parallelize all query variants concurrently; return first match.
+    variants = query_variants(row, instrument_slug)
+    for result in asyncio.as_completed([try_variant(q) for q in variants]):
+        if candidate := await result:
+            return candidate
 
     # Some JW Pepper API phrase queries fail (HTTP 400). Retry with single-token queries.
     token_pool = list(title_tokens(row.title, row.publisher_text))

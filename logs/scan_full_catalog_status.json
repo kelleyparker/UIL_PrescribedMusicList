@@ -1,8 +1,8 @@
 {
-  "pid": 97871,
+  "pid": 36139,
   "phase": "running",
-  "startedAt": "2026-03-28T14:57:40.932142+00:00",
-  "updatedAt": "2026-03-28T14:57:42.058807+00:00",
+  "startedAt": "2026-03-28T15:00:53.333302+00:00",
+  "updatedAt": "2026-03-28T15:00:54.377951+00:00",
   "activeInstruments": [
     "madrigal",
     "mixed-chorus",
@@ -13,7 +13,7 @@
   ],
   "instrumentConcurrency": 8,
   "globalConcurrency": 1500,
-  "jwpepperConcurrency": 384,
+  "jwpepperConcurrency": 600,
   "fallbackConcurrency": 96,
   "summary": {
     "piano": {
