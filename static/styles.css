@@ -707,6 +707,14 @@ body {
   color: var(--muted);
 }
 
+.footer-note p {
+  margin: 0;
+}
+
+.footer-note p + p {
+  margin-top: 0.4rem;
+}
+
 @media (max-width: 720px) {
   .page-shell {
     width: min(100vw - 1rem, 100%);
