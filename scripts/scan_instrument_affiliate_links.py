@@ -394,16 +394,16 @@ def choose_best_product(
 def parse_args() -> argparse.Namespace:
     instrument_list = "\n".join(f"  - {slug}" for slug in sorted(INSTRUMENT_CONFIGS))
     parser = argparse.ArgumentParser(
-        description="Build affiliate link caches for a UIL PML instrument."
+        description="Scan and update affiliate link cache for one UIL PML instrument."
         "\n\nThis writes an instrument-specific affiliate cache in data/ and then"
         "\nrebuilds that instrument's static JSON in static/data/.",
         formatter_class=argparse.RawTextHelpFormatter,
         epilog=(
             "Examples:\n"
-            "  python3 scripts/build_affiliate_links.py --instrument piccolo --class-level 3\n"
-            "  python3 scripts/build_affiliate_links.py --instrument steel-band --all-classes --pace safe\n"
-            "  python3 scripts/build_affiliate_links.py --instrument band --full-scan --pace safe\n"
-            "  python3 scripts/build_affiliate_links.py --instrument flute --class-level 1 --class-level 2 --dry-run\n"
+            "  python3 scripts/scan_instrument_affiliate_links.py --instrument piccolo --class-level 3\n"
+            "  python3 scripts/scan_instrument_affiliate_links.py --instrument steel-band --all-classes --pace safe\n"
+            "  python3 scripts/scan_instrument_affiliate_links.py --instrument band --full-scan --pace safe\n"
+            "  python3 scripts/scan_instrument_affiliate_links.py --instrument flute --class-level 1 --class-level 2 --dry-run\n"
             "\n"
             "Available instrument slugs:\n"
             f"{instrument_list}"
@@ -502,6 +502,15 @@ def main() -> int:
     matches: list[dict[str, object]] = []
     skipped_previously_attempted = 0
 
+    def persist_progress(*, write_cache: bool, write_attempts: bool) -> None:
+        if write_cache:
+            cache_path.write_text(
+                json.dumps(dict(sorted(updated_cache.items())), indent=2),
+                encoding="utf-8",
+            )
+        if write_attempts:
+            write_attempted_codes(attempts_cache_path, updated_attempted_codes)
+
     for index, row in enumerate(rows, start=1):
         if not args.force and row.code in updated_attempted_codes:
             skipped_previously_attempted += 1
@@ -516,12 +525,15 @@ def main() -> int:
         result_row = csv_row_to_dict(row)
         product, score = choose_best_product(result_row, args.instrument, pace)
         updated_attempted_codes.add(row.code)
+        persist_progress(write_cache=False, write_attempts=True)
         if product and score >= 85:
             updated_cache[row.code] = {
                 "url": product["link"],
                 "label": "Buy Sheet Music",
                 "source": "JW Pepper link",
             }
+            # Persist each found link immediately so interruption won't lose progress.
+            persist_progress(write_cache=True, write_attempts=True)
             matches.append(
                 {
                     "code": row.code,
@@ -545,11 +557,7 @@ def main() -> int:
         print(json.dumps(matches, indent=2))
         return 0
 
-    cache_path.write_text(
-        json.dumps(dict(sorted(updated_cache.items())), indent=2),
-        encoding="utf-8",
-    )
-    write_attempted_codes(attempts_cache_path, updated_attempted_codes)
+    persist_progress(write_cache=True, write_attempts=True)
 
     build_from_csv(
         csv_path,
