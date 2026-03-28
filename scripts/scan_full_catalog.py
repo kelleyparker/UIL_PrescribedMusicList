@@ -50,20 +50,20 @@ ONLY_TEST_CODE = (os.getenv("ONLY_TEST_CODE") or "").strip() or None
 RESCAN_MODE = (os.getenv("SCAN_RESCAN_MODE") or "none").strip().lower()
 
 # Throughput tuning (override with environment variables).
-GLOBAL_CONCURRENCY = int(os.getenv("SCAN_GLOBAL_CONCURRENCY", "120"))
-JWPEPPER_CONCURRENCY = int(os.getenv("SCAN_JWPEPPER_CONCURRENCY", "48"))
-FALLBACK_CONCURRENCY = int(os.getenv("SCAN_FALLBACK_CONCURRENCY", "12"))
-INSTRUMENT_CONCURRENCY = int(os.getenv("SCAN_INSTRUMENT_CONCURRENCY", "2"))
+GLOBAL_CONCURRENCY = int(os.getenv("SCAN_GLOBAL_CONCURRENCY", "960"))
+JWPEPPER_CONCURRENCY = int(os.getenv("SCAN_JWPEPPER_CONCURRENCY", "384"))
+FALLBACK_CONCURRENCY = int(os.getenv("SCAN_FALLBACK_CONCURRENCY", "96"))
+INSTRUMENT_CONCURRENCY = int(os.getenv("SCAN_INSTRUMENT_CONCURRENCY", "8"))
 
 # Lower jitter on JW Pepper requests improves throughput substantially.
-JWPEPPER_DELAY_MIN = float(os.getenv("SCAN_JWPEPPER_DELAY_MIN", "0.02"))
-JWPEPPER_DELAY_MAX = float(os.getenv("SCAN_JWPEPPER_DELAY_MAX", "0.10"))
-FALLBACK_DELAY_MIN = float(os.getenv("SCAN_FALLBACK_DELAY_MIN", "0.15"))
-FALLBACK_DELAY_MAX = float(os.getenv("SCAN_FALLBACK_DELAY_MAX", "0.45"))
+JWPEPPER_DELAY_MIN = float(os.getenv("SCAN_JWPEPPER_DELAY_MIN", "0.0025"))
+JWPEPPER_DELAY_MAX = float(os.getenv("SCAN_JWPEPPER_DELAY_MAX", "0.0125"))
+FALLBACK_DELAY_MIN = float(os.getenv("SCAN_FALLBACK_DELAY_MIN", "0.01875"))
+FALLBACK_DELAY_MAX = float(os.getenv("SCAN_FALLBACK_DELAY_MAX", "0.05625"))
 
 # Persist progress in batches to avoid rewriting large JSON files per row.
-STATE_FLUSH_EVERY_ROWS = int(os.getenv("SCAN_STATE_FLUSH_EVERY_ROWS", "100"))
-STATE_FLUSH_EVERY_SECONDS = float(os.getenv("SCAN_STATE_FLUSH_EVERY_SECONDS", "30"))
+STATE_FLUSH_EVERY_ROWS = int(os.getenv("SCAN_STATE_FLUSH_EVERY_ROWS", "800"))
+STATE_FLUSH_EVERY_SECONDS = float(os.getenv("SCAN_STATE_FLUSH_EVERY_SECONDS", "120"))
 
 TITLE_STOPWORDS = {
     "a",
