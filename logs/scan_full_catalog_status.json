@@ -1,20 +1,13 @@
 {
-  "pid": 36139,
-  "phase": "running",
-  "startedAt": "2026-03-28T15:00:53.333302+00:00",
-  "updatedAt": "2026-03-28T15:00:54.377951+00:00",
-  "activeInstruments": [
-    "madrigal",
-    "mixed-chorus",
-    "tenor-bass-chorus",
-    "tenor-bass-small-ensemble",
-    "treble-chorus",
-    "treble-small-ensemble"
-  ],
-  "instrumentConcurrency": 8,
-  "globalConcurrency": 1500,
-  "jwpepperConcurrency": 600,
-  "fallbackConcurrency": 96,
+  "pid": 94103,
+  "phase": "idle",
+  "startedAt": "2026-03-28T15:07:47.392593+00:00",
+  "updatedAt": "2026-03-28T15:13:40.819700+00:00",
+  "activeInstruments": [],
+  "instrumentConcurrency": 16,
+  "globalConcurrency": 15000,
+  "jwpepperConcurrency": 6000,
+  "fallbackConcurrency": 960,
   "summary": {
     "piano": {
       "updated": 0,
@@ -703,6 +696,54 @@
       "missingAtStart": 0,
       "cacheSize": 885,
       "attemptedSize": 1413
+    },
+    "treble-small-ensemble": {
+      "updated": 0,
+      "failures": 0,
+      "totalRows": 103,
+      "missingAtStart": 0,
+      "cacheSize": 35,
+      "attemptedSize": 103
+    },
+    "tenor-bass-small-ensemble": {
+      "updated": 0,
+      "failures": 0,
+      "totalRows": 96,
+      "missingAtStart": 0,
+      "cacheSize": 51,
+      "attemptedSize": 96
+    },
+    "mixed-chorus": {
+      "updated": 35,
+      "failures": 43,
+      "totalRows": 1646,
+      "missingAtStart": 78,
+      "cacheSize": 874,
+      "attemptedSize": 1646
+    },
+    "madrigal": {
+      "updated": 3,
+      "failures": 3,
+      "totalRows": 257,
+      "missingAtStart": 6,
+      "cacheSize": 153,
+      "attemptedSize": 257
+    },
+    "treble-chorus": {
+      "updated": 511,
+      "failures": 795,
+      "totalRows": 1355,
+      "missingAtStart": 1306,
+      "cacheSize": 555,
+      "attemptedSize": 1355
+    },
+    "tenor-bass-chorus": {
+      "updated": 136,
+      "failures": 237,
+      "totalRows": 892,
+      "missingAtStart": 373,
+      "cacheSize": 401,
+      "attemptedSize": 892
     }
   }
 }
