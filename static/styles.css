@@ -685,10 +685,29 @@ body {
   transition: transform 140ms ease, opacity 140ms ease, filter 140ms ease;
 }
 
+.report-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 3.4rem;
+  min-width: min(28rem, 100%);
+  padding: 0.8rem 1.3rem;
+  border-radius: 999px;
+  border: 1px solid var(--border);
+  background: rgba(255, 255, 255, 0.06);
+  color: var(--accent-soft-text);
+  font-size: 1rem;
+  font-weight: 700;
+  text-decoration: none;
+  transition: transform 140ms ease, filter 140ms ease, background 140ms ease;
+}
+
 .download-button:hover,
 .download-button:focus-visible,
 .affiliate-button:hover,
-.affiliate-button:focus-visible {
+.affiliate-button:focus-visible,
+.report-button:hover,
+.report-button:focus-visible {
   transform: translateY(-1px);
   filter: brightness(1.05);
 }
@@ -768,7 +787,8 @@ body {
   }
 
   .download-button,
-  .affiliate-button {
+  .affiliate-button,
+  .report-button {
     width: 100%;
     min-width: 0;
   }

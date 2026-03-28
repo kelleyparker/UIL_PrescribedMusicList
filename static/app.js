@@ -17,6 +17,7 @@ let filterButtons = [];
 let instrumentButtons = [];
 const cardTemplate = document.getElementById("song-card-template");
 const isAvailabilityOnlyPage = Boolean(availabilityGraphContent) && !songGrid;
+const issueBaseUrl = "https://github.com/kelleyparker/UIL_PrescribedMusicList/issues/new";
 
 const instruments = {
   piano: {
@@ -1474,6 +1475,55 @@ function getFilteredSongs() {
   });
 }
 
+function buildIssueUrl({ template, title, body, labels = [] }) {
+  const params = new URLSearchParams();
+  if (template) {
+    params.set("template", template);
+  }
+  if (title) {
+    params.set("title", title);
+  }
+  if (body) {
+    params.set("body", body);
+  }
+  if (labels.length) {
+    params.set("labels", labels.join(","));
+  }
+  return `${issueBaseUrl}?${params.toString()}`;
+}
+
+function buildSongReportIssueUrl(song) {
+  const bodyLines = [
+    "### Listing context",
+    `- UIL code: ${song.uilCode || ""}`,
+    `- Instrument/category: ${song.instrumentName || ""}`,
+    `- Event: ${song.eventName || ""}`,
+    `- Title: ${song.title || ""}`,
+    `- Composer: ${song.composer || ""}`,
+    `- Publisher text: ${song.publisherText || ""}`,
+    "",
+    "### What needs to be corrected?",
+    "",
+    "",
+    "### Suggested working link (if applicable)",
+    "",
+    "",
+    "### Current link on site (if shown)",
+    song.sheetMusicAffiliateUrl || song.publicDomainPdfUrl || "",
+    "",
+    "### Extra notes",
+    "",
+    "",
+  ];
+
+  return buildIssueUrl({
+    template: "working-link-suggestion.md",
+    title: `Listing report: ${song.title || "Untitled"} (${song.uilCode || "No UIL Code"})`,
+    body: bodyLines.join("\n"),
+    labels: ["data-report"],
+  });
+}
+
 function renderSongs(songs) {
   songGrid.innerHTML = "";
 
@@ -1514,6 +1564,8 @@ function renderSongs(songs) {
         ? `${affiliateLabel} - ${song.sheetMusicAffiliatePrice}`
         : affiliateLabel;
     }
+      const reportButton = card.querySelector(".report-button");
+      reportButton.href = buildSongReportIssueUrl(song);
 
     const publisherList = card.querySelector(".publisher-list");
     song.publishers.forEach((publisher) => {
