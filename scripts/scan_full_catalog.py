@@ -52,6 +52,7 @@ RESCAN_MODE = (os.getenv("SCAN_RESCAN_MODE") or "none").strip().lower()
 GLOBAL_CONCURRENCY = int(os.getenv("SCAN_GLOBAL_CONCURRENCY", "60"))
 JWPEPPER_CONCURRENCY = int(os.getenv("SCAN_JWPEPPER_CONCURRENCY", "24"))
 FALLBACK_CONCURRENCY = int(os.getenv("SCAN_FALLBACK_CONCURRENCY", "6"))
+INSTRUMENT_CONCURRENCY = int(os.getenv("SCAN_INSTRUMENT_CONCURRENCY", "1"))
 
 # Lower jitter on JW Pepper requests improves throughput substantially.
 JWPEPPER_DELAY_MIN = float(os.getenv("SCAN_JWPEPPER_DELAY_MIN", "0.05"))
@@ -1058,6 +1059,7 @@ async def main() -> None:
         JWPEPPER_CONCURRENCY,
         FALLBACK_CONCURRENCY,
     )
+    logging.info("Instrument concurrency: %s", INSTRUMENT_CONCURRENCY)
     logging.info(
         "Delay config: jwpepper=%s-%ss fallback=%s-%ss",
         JWPEPPER_DELAY_MIN,
@@ -1079,7 +1081,9 @@ async def main() -> None:
     musicnotes_semaphore = asyncio.Semaphore(FALLBACK_CONCURRENCY)
 
     summary: dict[str, dict[str, int]] = {}
-    for instrument_slug in INSTRUMENT_CONFIGS:
+    instrument_slugs = list(INSTRUMENT_CONFIGS)
+
+    async def run_one_instrument(instrument_slug: str) -> None:
         try:
             summary[instrument_slug] = await process_instrument(
                 instrument_slug,
@@ -1089,9 +1093,6 @@ async def main() -> None:
                 smp_semaphore,
                 musicnotes_semaphore,
             )
-            if ONLY_TEST_CODE and summary[instrument_slug].get("missingAtStart", 0) > 0:
-                logging.info("ONLY_TEST_CODE matched in %s; ending run after one code", instrument_slug)
-                break
         except Exception as exc:
             logging.exception("Instrument-level failure for %s: %s", instrument_slug, exc)
             summary[instrument_slug] = {
@@ -1101,6 +1102,25 @@ async def main() -> None:
                 "missingAtStart": 0,
                 "cacheSize": 0,
             }
+
+    # Preserve deterministic single-instrument sweep behavior for ONLY_TEST_CODE.
+    if ONLY_TEST_CODE:
+        for instrument_slug in instrument_slugs:
+            await run_one_instrument(instrument_slug)
+            if summary[instrument_slug].get("missingAtStart", 0) > 0:
+                logging.info("ONLY_TEST_CODE matched in %s; ending run after one code", instrument_slug)
+                break
+    elif INSTRUMENT_CONCURRENCY <= 1:
+        for instrument_slug in instrument_slugs:
+            await run_one_instrument(instrument_slug)
+    else:
+        instrument_semaphore = asyncio.Semaphore(INSTRUMENT_CONCURRENCY)
+
+        async def run_with_semaphore(instrument_slug: str) -> None:
+            async with instrument_semaphore:
+                await run_one_instrument(instrument_slug)
+
+        await asyncio.gather(*(run_with_semaphore(slug) for slug in instrument_slugs))
 
     logging.info("Bulk sheet music fill finished")
     logging.info("Summary: %s", json.dumps(summary, indent=2))
