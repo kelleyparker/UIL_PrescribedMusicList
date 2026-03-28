@@ -23,6 +23,7 @@ STATUS_PATH = ROOT / "logs" / "scan_full_catalog_status.json"
 LOG_PATH = ROOT / "logs" / "fill_sheet_music_links.log"
 REPORT_STATE_PATH = ROOT / "logs" / "report_pml_progress_state.json"
 ACTIVE_WRITE_WINDOW_SECONDS = int(os.getenv("SCAN_ACTIVE_WRITE_WINDOW_SECONDS", "180"))
+ETA_SAMPLE_MIN_SECONDS = float(os.getenv("SCAN_ETA_SAMPLE_MIN_SECONDS", "15"))
 
 
 def attempt_cache_paths(instrument_slug: str) -> list[Path]:
@@ -180,6 +181,12 @@ def load_previous_report_state() -> dict:
 
 
 def save_report_state(now_epoch: float, attempted_records: int, total_records: int) -> None:
+    prev = load_previous_report_state()
+    prev_time = float(prev.get("observedAt") or 0)
+    # Keep a wider sampling window so watch-refresh runs do not constantly reset ETA baseline.
+    if prev_time > 0 and (now_epoch - prev_time) < ETA_SAMPLE_MIN_SECONDS:
+        return
+
     payload = {
         "observedAt": now_epoch,
         "attemptedRecords": attempted_records,
