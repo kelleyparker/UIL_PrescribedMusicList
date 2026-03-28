@@ -1,20 +1,21 @@
 {
-  "pid": 68294,
+  "pid": 40148,
   "phase": "running",
-  "startedAt": "2026-03-28T14:44:12.839607+00:00",
-  "updatedAt": "2026-03-28T14:46:15.428716+00:00",
+  "startedAt": "2026-03-28T14:50:28.683491+00:00",
+  "updatedAt": "2026-03-28T14:50:29.703676+00:00",
   "activeInstruments": [
     "madrigal",
     "mixed-chorus",
-    "string-orchestra",
+    "tenor-bass-chorus",
     "tenor-bass-small-ensemble",
+    "treble-chorus",
     "treble-small-ensemble",
     "vocal"
   ],
-  "instrumentConcurrency": 6,
-  "globalConcurrency": 360,
-  "jwpepperConcurrency": 144,
-  "fallbackConcurrency": 36,
+  "instrumentConcurrency": 8,
+  "globalConcurrency": 960,
+  "jwpepperConcurrency": 384,
+  "fallbackConcurrency": 96,
   "summary": {
     "piano": {
       "updated": 0,
@@ -664,29 +665,37 @@
       "cacheSize": 5,
       "attemptedSize": 14
     },
-    "harp-ensemble": {
-      "updated": 18,
-      "failures": 47,
-      "totalRows": 65,
-      "missingAtStart": 65,
-      "cacheSize": 18,
-      "attemptedSize": 65
-    },
     "harp": {
-      "updated": 96,
-      "failures": 66,
+      "updated": 0,
+      "failures": 0,
       "totalRows": 162,
-      "missingAtStart": 162,
+      "missingAtStart": 0,
       "cacheSize": 96,
       "attemptedSize": 162
     },
+    "harp-ensemble": {
+      "updated": 0,
+      "failures": 0,
+      "totalRows": 65,
+      "missingAtStart": 0,
+      "cacheSize": 18,
+      "attemptedSize": 65
+    },
     "full-orchestra": {
-      "updated": 458,
-      "failures": 269,
+      "updated": 0,
+      "failures": 0,
       "totalRows": 727,
-      "missingAtStart": 727,
+      "missingAtStart": 0,
       "cacheSize": 456,
       "attemptedSize": 725
+    },
+    "string-orchestra": {
+      "updated": 0,
+      "failures": 0,
+      "totalRows": 1476,
+      "missingAtStart": 0,
+      "cacheSize": 1010,
+      "attemptedSize": 1475
     }
   }
 }
