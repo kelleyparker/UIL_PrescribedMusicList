@@ -7,6 +7,8 @@
   "noteCount": 1,
   "databaseRecordCount": 728,
   "classBreakdown": {
+    "5": 242,
+    "4": 140,
     "3": 133,
     "2": 123,
     "1": 48
@@ -17,6 +19,6 @@
     "Full Orchestra": 727
   },
   "notes": {
-    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-03-24T22:36:50.406111+00:00."
+    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-03-28T03:10:13.311897+00:00."
   }
 }

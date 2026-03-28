@@ -7,6 +7,9 @@
   "noteCount": 1,
   "databaseRecordCount": 1356,
   "classBreakdown": {
+    "6": 22,
+    "5": 206,
+    "4": 268,
     "3": 374,
     "2": 307,
     "1": 178
@@ -17,6 +20,6 @@
     "Treble Chorus": 1355
   },
   "notes": {
-    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-03-24T22:36:50.765924+00:00."
+    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-03-28T03:10:13.656083+00:00."
   }
 }

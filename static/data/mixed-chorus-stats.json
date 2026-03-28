@@ -7,6 +7,9 @@
   "noteCount": 1,
   "databaseRecordCount": 1647,
   "classBreakdown": {
+    "6": 67,
+    "5": 526,
+    "4": 446,
     "3": 346,
     "2": 192,
     "1": 69
@@ -17,6 +20,6 @@
     "Mixed Chorus": 1646
   },
   "notes": {
-    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-03-24T22:36:50.645629+00:00."
+    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-03-28T03:10:13.532984+00:00."
   }
 }

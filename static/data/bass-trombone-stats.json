@@ -17,6 +17,6 @@
     "Bass Trombone Solo": 96
   },
   "notes": {
-    "dataset_audit": "Sourced from https://www.uiltexas.org/pml/ and https://www.uiltexas.org/pml/pml.php. Imported 2026-03-25T01:19:17.088141+00:00."
+    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-03-28T03:10:12.721230+00:00."
   }
 }

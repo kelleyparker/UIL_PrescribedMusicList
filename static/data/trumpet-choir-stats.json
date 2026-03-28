@@ -7,7 +7,6 @@
   "noteCount": 1,
   "databaseRecordCount": 28,
   "classBreakdown": {
-    "3": 0,
     "2": 13,
     "1": 14
   },
@@ -17,6 +16,6 @@
     "Trumpet Choir": 27
   },
   "notes": {
-    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-03-24T22:36:50.206864+00:00."
+    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-03-28T03:10:13.099717+00:00."
   }
 }
