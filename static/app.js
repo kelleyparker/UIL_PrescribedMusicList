@@ -1530,7 +1530,7 @@ function renderSongs(songs) {
 
 function updateSummary(songs) {
   if (!state.activeInstrument) {
-    resultSummary.textContent = "Select a UIL category to view titles.";
+    resultSummary.textContent = "";
     return;
   }
 
@@ -1809,13 +1809,13 @@ function renderNoInstrumentState() {
     songGrid.innerHTML = `
       <article class="song-card">
         <h2 class="song-title">Choose a category to begin</h2>
-        <p class="song-specification">Expand Band, Orchestra, or Choir and select a category.</p>
+        <p class="song-specification">Expand Band, Orchestra, or Choir, then select a category.</p>
       </article>
     `;
   }
 
   if (resultSummary) {
-    resultSummary.textContent = "Select a UIL category to view titles.";
+    resultSummary.textContent = "";
   }
   if (songCount) {
     songCount.textContent = "0";
@@ -1830,7 +1830,7 @@ function renderNoInstrumentState() {
     pdfCount.textContent = "0";
   }
   if (datasetNote) {
-    datasetNote.textContent = "Select a category to load UIL dataset details.";
+    datasetNote.textContent = "";
   }
 }
 
