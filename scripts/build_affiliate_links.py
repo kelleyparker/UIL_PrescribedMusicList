@@ -402,6 +402,7 @@ def parse_args() -> argparse.Namespace:
             "Examples:\n"
             "  python3 scripts/build_affiliate_links.py --instrument piccolo --class-level 3\n"
             "  python3 scripts/build_affiliate_links.py --instrument steel-band --all-classes --pace safe\n"
+            "  python3 scripts/build_affiliate_links.py --instrument band --full-scan --pace safe\n"
             "  python3 scripts/build_affiliate_links.py --instrument flute --class-level 1 --class-level 2 --dry-run\n"
             "\n"
             "Available instrument slugs:\n"
@@ -438,6 +439,14 @@ def parse_args() -> argparse.Namespace:
         help="Re-check rows even if they already exist in the affiliate cache.",
     )
     parser.add_argument(
+        "--full-scan",
+        action="store_true",
+        help=(
+            "Scan every row for the selected instrument from scratch.\n"
+            "Equivalent to processing all classes with --force and no --limit."
+        ),
+    )
+    parser.add_argument(
         "--pace",
         choices=sorted(PACE_PROFILES),
         default="normal",
@@ -457,7 +466,17 @@ def parse_args() -> argparse.Namespace:
         action="store_true",
         help="Preview matches without writing cache files or rebuilding JSON.",
     )
-    return parser.parse_args()
+    args = parser.parse_args()
+
+    if args.full_scan:
+        if args.class_levels:
+            parser.error("--full-scan cannot be combined with --class-level.")
+        if args.limit:
+            parser.error("--full-scan cannot be combined with --limit.")
+        args.force = True
+        args.all_classes = True
+
+    return args
 
 
 def main() -> int:
