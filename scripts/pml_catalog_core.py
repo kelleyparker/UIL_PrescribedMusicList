@@ -1132,7 +1132,7 @@ def build_outputs(
         "songCount": len(songs_payload),
         "publisherCount": sum(len(song["publishers"]) for song in songs_payload),
         "noteCount": len(note_rows),
-        "databaseRecordCount": len(songs_payload) + len(note_rows),
+        "databaseRecordCount": len(songs_payload),
         "classBreakdown": {
             str(level): sum(song["classLevel"] == level for song in songs_payload)
             for level in class_levels

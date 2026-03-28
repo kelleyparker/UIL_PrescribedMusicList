@@ -5,7 +5,6 @@ const searchInput = document.getElementById("search-input");
 const heroTitle = document.getElementById("hero-title");
 const heroCopy = document.getElementById("hero-copy");
 const songCount = document.getElementById("song-count");
-const databaseRecordCount = document.getElementById("database-record-count");
 const classBreakdown = document.getElementById("class-breakdown");
 const nmrCount = document.getElementById("nmr-count");
 const pdfCount = document.getElementById("pdf-count");
@@ -1052,7 +1051,7 @@ const instrumentChipLabelOverrides = {
 };
 
 const state = {
-  activeInstrument: "piano",
+  activeInstrument: null,
   activeFilter: "all",
   query: "",
   songs: [],
@@ -1416,7 +1415,10 @@ function buildAffiliateHeroCopy(label) {
 }
 
 async function loadDataset(instrumentSlug) {
-  const instrument = instruments[instrumentSlug] || instruments.piano;
+  const instrument = instruments[instrumentSlug];
+  if (!instrument) {
+    throw new Error(`Unknown instrument slug: ${instrumentSlug}`);
+  }
   const [statsResponse, songsResponse] = await Promise.all([
     fetch(instrument.statsUrl),
     fetch(instrument.songsUrl),
@@ -1527,6 +1529,11 @@ function renderSongs(songs) {
 }
 
 function updateSummary(songs) {
+  if (!state.activeInstrument) {
+    resultSummary.textContent = "Select a UIL category to view titles.";
+    return;
+  }
+
   let filterLabel = "all classes";
   if (state.activeFilter === "nmr") {
     filterLabel = "the No Memory Required category";
@@ -1750,6 +1757,9 @@ function renderAvailabilityGraph() {
 }
 
 async function refreshSongs() {
+  if (!state.activeInstrument) {
+    return;
+  }
   const songs = getFilteredSongs();
   renderSongs(songs);
   updateSummary(songs);
@@ -1772,7 +1782,56 @@ function applyActiveInstrument(nextInstrument) {
   instrumentButtons.forEach((button) => {
     button.classList.toggle("is-active", button.dataset.instrument === nextInstrument);
   });
-  localStorage.setItem("uil-pml-instrument", nextInstrument);
+}
+
+function renderNoInstrumentState() {
+  state.activeInstrument = null;
+  state.activeFilter = "all";
+  state.query = "";
+  state.songs = [];
+  state.stats = null;
+
+  if (searchInput) {
+    searchInput.value = "";
+    searchInput.placeholder = "Choose a UIL category first";
+  }
+
+  instrumentButtons.forEach((button) => {
+    button.classList.remove("is-active");
+  });
+
+  if (filterGroup) {
+    filterGroup.innerHTML = "";
+  }
+  filterButtons = [];
+
+  if (songGrid) {
+    songGrid.innerHTML = `
+      <article class="song-card">
+        <h2 class="song-title">Choose a category to begin</h2>
+        <p class="song-specification">Expand Band, Orchestra, or Choir and select a category.</p>
+      </article>
+    `;
+  }
+
+  if (resultSummary) {
+    resultSummary.textContent = "Select a UIL category to view titles.";
+  }
+  if (songCount) {
+    songCount.textContent = "0";
+  }
+  if (classBreakdown) {
+    classBreakdown.textContent = "No class breakdown available";
+  }
+  if (nmrCount) {
+    nmrCount.textContent = "0";
+  }
+  if (pdfCount) {
+    pdfCount.textContent = "0";
+  }
+  if (datasetNote) {
+    datasetNote.textContent = "Select a category to load UIL dataset details.";
+  }
 }
 
 function updateInstrumentLabels(stats) {
@@ -1817,12 +1876,10 @@ async function init() {
     return;
   }
 
-  const savedInstrument =
-    localStorage.getItem("uil-pml-instrument") || state.activeInstrument;
-  state.activeInstrument = savedInstrument in instruments ? savedInstrument : "piano";
   renderInstrumentSections();
-  applyActiveInstrument(state.activeInstrument);
   initTheme();
+  localStorage.removeItem("uil-pml-instrument");
+  renderNoInstrumentState();
 
   instrumentSections?.addEventListener("click", async (event) => {
     const button = event.target.closest(".instrument-chip");
@@ -1835,7 +1892,6 @@ async function init() {
     updateInstrumentLabels(state.stats);
     renderFilterButtons();
     songCount.textContent = state.stats.songCount;
-    databaseRecordCount.textContent = state.stats.databaseRecordCount;
     classBreakdown.textContent = buildClassBreakdownText(state.songs);
     nmrCount.textContent = state.stats.noMemoryRequiredCount;
     pdfCount.textContent = state.stats.publicDomainPdfCount;
@@ -1861,16 +1917,7 @@ async function init() {
     true,
   );
 
-  await Promise.all([loadDataset(state.activeInstrument), loadAvailabilityMetrics()]);
-  const stats = state.stats;
-  updateInstrumentLabels(stats);
-  renderFilterButtons();
-  songCount.textContent = stats.songCount;
-  databaseRecordCount.textContent = stats.databaseRecordCount;
-  classBreakdown.textContent = buildClassBreakdownText(state.songs);
-  nmrCount.textContent = stats.noMemoryRequiredCount;
-  pdfCount.textContent = stats.publicDomainPdfCount;
-  datasetNote.textContent = stats.notes.dataset_audit;
+  await loadAvailabilityMetrics();
 
   filterGroup?.addEventListener("click", (event) => {
     const button = event.target.closest(".filter-chip");
@@ -1891,7 +1938,6 @@ async function init() {
     });
   }
 
-  await refreshSongs();
   setTheme(themeSelect.value);
 }
 
