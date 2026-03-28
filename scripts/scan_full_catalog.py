@@ -42,6 +42,27 @@ AMAZON_RATE_LIMIT_COOLDOWN_SECONDS = 15 * 60
 JWPEPPER_ONLY_MODE = True
 ONLY_TEST_CODE = (os.getenv("ONLY_TEST_CODE") or "").strip() or None
 
+# Rescan control:
+# - none (default): process only codes missing in both cache and attempts files.
+# - all: process all rows but keep existing cache/attempt history.
+# - reset: clear cache + attempts in memory, then process all rows from scratch.
+RESCAN_MODE = (os.getenv("SCAN_RESCAN_MODE") or "none").strip().lower()
+
+# Throughput tuning (override with environment variables).
+GLOBAL_CONCURRENCY = int(os.getenv("SCAN_GLOBAL_CONCURRENCY", "60"))
+JWPEPPER_CONCURRENCY = int(os.getenv("SCAN_JWPEPPER_CONCURRENCY", "24"))
+FALLBACK_CONCURRENCY = int(os.getenv("SCAN_FALLBACK_CONCURRENCY", "6"))
+
+# Lower jitter on JW Pepper requests improves throughput substantially.
+JWPEPPER_DELAY_MIN = float(os.getenv("SCAN_JWPEPPER_DELAY_MIN", "0.05"))
+JWPEPPER_DELAY_MAX = float(os.getenv("SCAN_JWPEPPER_DELAY_MAX", "0.20"))
+FALLBACK_DELAY_MIN = float(os.getenv("SCAN_FALLBACK_DELAY_MIN", "0.30"))
+FALLBACK_DELAY_MAX = float(os.getenv("SCAN_FALLBACK_DELAY_MAX", "0.90"))
+
+# Persist progress in batches to avoid rewriting large JSON files per row.
+STATE_FLUSH_EVERY_ROWS = int(os.getenv("SCAN_STATE_FLUSH_EVERY_ROWS", "30"))
+STATE_FLUSH_EVERY_SECONDS = float(os.getenv("SCAN_STATE_FLUSH_EVERY_SECONDS", "15"))
+
 TITLE_STOPWORDS = {
     "a",
     "an",
@@ -659,6 +680,8 @@ async def search_jwpepper(
         payload = await fetch_with_retries(
             JWPEPPER_SEARCH_URL + quote_plus(sanitized_query),
             domain_semaphore=semaphore,
+            min_delay=JWPEPPER_DELAY_MIN,
+            max_delay=JWPEPPER_DELAY_MAX,
         )
         return extract_jwpepper_candidates(payload)
 
@@ -673,8 +696,8 @@ async def search_jwpepper(
             web_payload = await fetch_with_retries(
                 JWPEPPER_WEB_SEARCH_URL.format(query=quote_plus(sanitized_query)),
                 domain_semaphore=semaphore,
-                min_delay=0.75,
-                max_delay=1.75,
+                min_delay=JWPEPPER_DELAY_MIN,
+                max_delay=JWPEPPER_DELAY_MAX,
             )
             web_candidates = extract_jwpepper_web_candidates(web_payload)
             if best := best_candidate(web_candidates, threshold=66):
@@ -729,8 +752,8 @@ async def search_amazon(
             payload = await fetch_with_retries(
                 AMAZON_SEARCH_URL.format(query=quote_plus(full_query)),
                 domain_semaphore=semaphore,
-                min_delay=0.75,
-                max_delay=1.75,
+                min_delay=FALLBACK_DELAY_MIN,
+                max_delay=FALLBACK_DELAY_MAX,
             )
             if is_amazon_rate_limit_payload(payload):
                 mark_amazon_rate_limited("payload robot/captcha page")
@@ -777,8 +800,8 @@ async def search_musicnotes(
             payload = await fetch_with_retries(
                 MUSICNOTES_SEARCH_URL.format(query=quote_plus(query)),
                 domain_semaphore=semaphore,
-                min_delay=0.75,
-                max_delay=1.75,
+                min_delay=FALLBACK_DELAY_MIN,
+                max_delay=FALLBACK_DELAY_MAX,
             )
             candidates = extract_musicnotes_candidates(payload)
             if not candidates:
@@ -801,8 +824,8 @@ async def search_sheetmusicplus(
             payload = await fetch_with_retries(
                 SMP_SEARCH_URL.format(query=quote_plus(query)),
                 domain_semaphore=semaphore,
-                min_delay=0.75,
-                max_delay=1.75,
+                min_delay=FALLBACK_DELAY_MIN,
+                max_delay=FALLBACK_DELAY_MAX,
             )
             candidates = extract_smp_candidates(payload)
             if not candidates:
@@ -873,11 +896,20 @@ async def process_instrument(
     cache = load_affiliate_links_cache(cache_path)
     attempt_cache = load_attempt_cache(attempts_path)
     rows = read_rows_from_csv(csv_path)
-    missing_rows = [
-        row
-        for row in rows
-        if row.code not in cache and row.code not in attempt_cache
-    ]
+
+    if RESCAN_MODE == "reset":
+        cache = {}
+        attempt_cache = {}
+        logging.info("%s: rescan mode 'reset' active (cleared cache + attempts in memory)", instrument_slug)
+
+    if RESCAN_MODE in {"all", "reset"}:
+        missing_rows = list(rows)
+    else:
+        missing_rows = [
+            row
+            for row in rows
+            if row.code not in cache and row.code not in attempt_cache
+        ]
 
     if ONLY_TEST_CODE:
         # In test mode, always re-attempt the code even if already cached.
@@ -894,19 +926,47 @@ async def process_instrument(
     updated = 0
     failures = 0
     state_write_lock = asyncio.Lock()
+    rows_since_flush = 0
+    last_flush_epoch = now_epoch()
+    pending_cache_write = False
+    pending_attempt_write = False
 
-    async def persist_state(*, write_cache: bool, write_attempts: bool) -> None:
+    async def persist_state(
+        *,
+        write_cache: bool,
+        write_attempts: bool,
+        processed_row: bool = False,
+        force: bool = False,
+    ) -> None:
+        nonlocal rows_since_flush, last_flush_epoch, pending_cache_write, pending_attempt_write
         async with state_write_lock:
-            if write_cache:
+            if processed_row:
+                rows_since_flush += 1
+            pending_cache_write = pending_cache_write or write_cache
+            pending_attempt_write = pending_attempt_write or write_attempts
+
+            should_flush = force or (
+                rows_since_flush >= STATE_FLUSH_EVERY_ROWS
+                or (now_epoch() - last_flush_epoch) >= STATE_FLUSH_EVERY_SECONDS
+            )
+            if not should_flush:
+                return
+
+            if pending_cache_write:
                 cache_path.write_text(
                     json.dumps(dict(sorted(cache.items())), indent=2),
                     encoding="utf-8",
                 )
-            if write_attempts:
+            if pending_attempt_write:
                 attempts_path.write_text(
                     json.dumps(dict(sorted(attempt_cache.items())), indent=2),
                     encoding="utf-8",
                 )
+
+            rows_since_flush = 0
+            last_flush_epoch = now_epoch()
+            pending_cache_write = False
+            pending_attempt_write = False
 
     async def worker(row: Any) -> None:
         nonlocal updated, failures
@@ -926,7 +986,7 @@ async def process_instrument(
                         "lastAttempted": datetime.now(timezone.utc).isoformat(),
                         "matched": False,
                     }
-                    await persist_state(write_cache=False, write_attempts=True)
+                    await persist_state(write_cache=False, write_attempts=True, processed_row=True)
                     logging.info("No match for %s %s", row.code, row.title)
                     return
 
@@ -949,15 +1009,14 @@ async def process_instrument(
                     candidate.url,
                     candidate.source,
                 )
-                # Persist each processed row immediately so cancellation can resume progress.
-                await persist_state(write_cache=True, write_attempts=True)
+                await persist_state(write_cache=True, write_attempts=True, processed_row=True)
             except Exception as exc:
                 failures += 1
                 logging.exception("Unexpected error for %s %s: %s", row.code, row.title, exc)
 
     await asyncio.gather(*(worker(row) for row in missing_rows), return_exceptions=True)
 
-    await persist_state(write_cache=True, write_attempts=True)
+    await persist_state(write_cache=True, write_attempts=True, force=True)
 
     # Rebuild the instrument JSON so the local site picks up the new links.
     try:
@@ -991,6 +1050,27 @@ async def process_instrument(
 async def main() -> None:
     setup_logging()
     logging.info("Bulk sheet music fill started")
+    if RESCAN_MODE not in {"none", "all", "reset"}:
+        logging.warning("Invalid SCAN_RESCAN_MODE '%s'; falling back to 'none'", RESCAN_MODE)
+    logging.info(
+        "Concurrency config: global=%s jwpepper=%s fallback=%s",
+        GLOBAL_CONCURRENCY,
+        JWPEPPER_CONCURRENCY,
+        FALLBACK_CONCURRENCY,
+    )
+    logging.info(
+        "Delay config: jwpepper=%s-%ss fallback=%s-%ss",
+        JWPEPPER_DELAY_MIN,
+        JWPEPPER_DELAY_MAX,
+        FALLBACK_DELAY_MIN,
+        FALLBACK_DELAY_MAX,
+    )
+    logging.info(
+        "State flush config: every_rows=%s every_seconds=%s",
+        STATE_FLUSH_EVERY_ROWS,
+        STATE_FLUSH_EVERY_SECONDS,
+    )
+    logging.info("Rescan mode: %s", RESCAN_MODE if RESCAN_MODE in {"none", "all", "reset"} else "none")
 
     global_semaphore = asyncio.Semaphore(GLOBAL_CONCURRENCY)
     jwpepper_semaphore = asyncio.Semaphore(JWPEPPER_CONCURRENCY)
