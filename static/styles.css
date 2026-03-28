@@ -282,7 +282,7 @@ body {
 .instrument-section summary {
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: flex-start;
   gap: 1rem;
   padding: 1rem 1.15rem;
   cursor: pointer;
@@ -312,6 +312,8 @@ body {
 .instrument-section-title {
   display: grid;
   gap: 0.2rem;
+  flex: 1;
+  min-width: 0;
 }
 
 .instrument-section-title strong {
@@ -328,6 +330,7 @@ body {
   display: inline-flex;
   align-items: center;
   justify-content: center;
+  margin-left: auto;
   padding: 0.45rem 0.7rem;
   border-radius: 999px;
   background: rgba(255, 255, 255, 0.08);
