@@ -1,0 +1,692 @@
+{
+  "pid": 68294,
+  "phase": "running",
+  "startedAt": "2026-03-28T14:44:12.839607+00:00",
+  "updatedAt": "2026-03-28T14:46:15.428716+00:00",
+  "activeInstruments": [
+    "madrigal",
+    "mixed-chorus",
+    "string-orchestra",
+    "tenor-bass-small-ensemble",
+    "treble-small-ensemble",
+    "vocal"
+  ],
+  "instrumentConcurrency": 6,
+  "globalConcurrency": 360,
+  "jwpepperConcurrency": 144,
+  "fallbackConcurrency": 36,
+  "summary": {
+    "piano": {
+      "updated": 0,
+      "failures": 0,
+      "totalRows": 334,
+      "missingAtStart": 0,
+      "cacheSize": 308,
+      "attemptedSize": 334
+    },
+    "band": {
+      "updated": 0,
+      "failures": 0,
+      "totalRows": 2090,
+      "missingAtStart": 0,
+      "cacheSize": 1542,
+      "attemptedSize": 2060
+    },
+    "bb-clarinet-solo": {
+      "updated": 0,
+      "failures": 0,
+      "totalRows": 267,
+      "missingAtStart": 0,
+      "cacheSize": 148,
+      "attemptedSize": 267
+    },
+    "alto-clarinet-solo": {
+      "updated": 0,
+      "failures": 0,
+      "totalRows": 61,
+      "missingAtStart": 0,
+      "cacheSize": 40,
+      "attemptedSize": 61
+    },
+    "bass-clarinet-solo": {
+      "updated": 0,
+      "failures": 0,
+      "totalRows": 134,
+      "missingAtStart": 0,
+      "cacheSize": 68,
+      "attemptedSize": 134
+    },
+    "eb-clarinet-solo": {
+      "updated": 0,
+      "failures": 0,
+      "totalRows": 30,
+      "missingAtStart": 0,
+      "cacheSize": 11,
+      "attemptedSize": 30
+    },
+    "contra-bass-clarinet-solo": {
+      "updated": 0,
+      "failures": 0,
+      "totalRows": 28,
+      "missingAtStart": 0,
+      "cacheSize": 18,
+      "attemptedSize": 28
+    },
+    "french-horn": {
+      "updated": 0,
+      "failures": 0,
+      "totalRows": 251,
+      "missingAtStart": 0,
+      "cacheSize": 192,
+      "attemptedSize": 149
+    },
+    "soprano-saxophone": {
+      "updated": 0,
+      "failures": 0,
+      "totalRows": 35,
+      "missingAtStart": 0,
+      "cacheSize": 20,
+      "attemptedSize": 35
+    },
+    "trumpet": {
+      "updated": 0,
+      "failures": 0,
+      "totalRows": 437,
+      "missingAtStart": 0,
+      "cacheSize": 389,
+      "attemptedSize": 163
+    },
+    "tuba": {
+      "updated": 0,
+      "failures": 0,
+      "totalRows": 160,
+      "missingAtStart": 0,
+      "cacheSize": 145,
+      "attemptedSize": 55
+    },
+    "flute": {
+      "updated": 0,
+      "failures": 0,
+      "totalRows": 463,
+      "missingAtStart": 0,
+      "cacheSize": 289,
+      "attemptedSize": 463
+    },
+    "oboe": {
+      "updated": 0,
+      "failures": 0,
+      "totalRows": 196,
+      "missingAtStart": 0,
+      "cacheSize": 114,
+      "attemptedSize": 167
+    },
+    "bassoon": {
+      "updated": 0,
+      "failures": 0,
+      "totalRows": 382,
+      "missingAtStart": 0,
+      "cacheSize": 198,
+      "attemptedSize": 380
+    },
+    "alto-saxophone": {
+      "updated": 0,
+      "failures": 0,
+      "totalRows": 251,
+      "missingAtStart": 0,
+      "cacheSize": 171,
+      "attemptedSize": 251
+    },
+    "tenor-saxophone": {
+      "updated": 0,
+      "failures": 0,
+      "totalRows": 148,
+      "missingAtStart": 0,
+      "cacheSize": 93,
+      "attemptedSize": 148
+    },
+    "baritone-saxophone": {
+      "updated": 0,
+      "failures": 0,
+      "totalRows": 81,
+      "missingAtStart": 0,
+      "cacheSize": 53,
+      "attemptedSize": 81
+    },
+    "tenor-trombone": {
+      "updated": 0,
+      "failures": 0,
+      "totalRows": 301,
+      "missingAtStart": 0,
+      "cacheSize": 187,
+      "attemptedSize": 301
+    },
+    "bass-trombone": {
+      "updated": 0,
+      "failures": 0,
+      "totalRows": 96,
+      "missingAtStart": 0,
+      "cacheSize": 55,
+      "attemptedSize": 96
+    },
+    "violin": {
+      "updated": 0,
+      "failures": 0,
+      "totalRows": 555,
+      "missingAtStart": 0,
+      "cacheSize": 338,
+      "attemptedSize": 491
+    },
+    "viola": {
+      "updated": 0,
+      "failures": 0,
+      "totalRows": 542,
+      "missingAtStart": 0,
+      "cacheSize": 326,
+      "attemptedSize": 542
+    },
+    "cello": {
+      "updated": 0,
+      "failures": 0,
+      "totalRows": 487,
+      "missingAtStart": 0,
+      "cacheSize": 305,
+      "attemptedSize": 487
+    },
+    "string-bass": {
+      "updated": 0,
+      "failures": 0,
+      "totalRows": 417,
+      "missingAtStart": 0,
+      "cacheSize": 226,
+      "attemptedSize": 417
+    },
+    "euphonium": {
+      "updated": 0,
+      "failures": 0,
+      "totalRows": 245,
+      "missingAtStart": 0,
+      "cacheSize": 112,
+      "attemptedSize": 245
+    },
+    "piccolo": {
+      "updated": 0,
+      "failures": 0,
+      "totalRows": 68,
+      "missingAtStart": 0,
+      "cacheSize": 58,
+      "attemptedSize": 31
+    },
+    "english-horn": {
+      "updated": 0,
+      "failures": 0,
+      "totalRows": 30,
+      "missingAtStart": 0,
+      "cacheSize": 19,
+      "attemptedSize": 30
+    },
+    "snare-drum": {
+      "updated": 0,
+      "failures": 0,
+      "totalRows": 485,
+      "missingAtStart": 0,
+      "cacheSize": 306,
+      "attemptedSize": 485
+    },
+    "timpani": {
+      "updated": 0,
+      "failures": 0,
+      "totalRows": 204,
+      "missingAtStart": 0,
+      "cacheSize": 93,
+      "attemptedSize": 204
+    },
+    "keyboard-percussion": {
+      "updated": 0,
+      "failures": 0,
+      "totalRows": 713,
+      "missingAtStart": 0,
+      "cacheSize": 388,
+      "attemptedSize": 713
+    },
+    "multiple-percussion": {
+      "updated": 0,
+      "failures": 0,
+      "totalRows": 187,
+      "missingAtStart": 0,
+      "cacheSize": 104,
+      "attemptedSize": 187
+    },
+    "drum-set": {
+      "updated": 0,
+      "failures": 0,
+      "totalRows": 100,
+      "missingAtStart": 0,
+      "cacheSize": 35,
+      "attemptedSize": 100
+    },
+    "steel-pan": {
+      "updated": 0,
+      "failures": 0,
+      "totalRows": 29,
+      "missingAtStart": 0,
+      "cacheSize": 11,
+      "attemptedSize": 29
+    },
+    "woodwind-trio": {
+      "updated": 0,
+      "failures": 0,
+      "totalRows": 269,
+      "missingAtStart": 0,
+      "cacheSize": 151,
+      "attemptedSize": 269
+    },
+    "flute-trio": {
+      "updated": 0,
+      "failures": 0,
+      "totalRows": 176,
+      "missingAtStart": 0,
+      "cacheSize": 149,
+      "attemptedSize": 53
+    },
+    "bb-clarinet-trio": {
+      "updated": 0,
+      "failures": 0,
+      "totalRows": 141,
+      "missingAtStart": 0,
+      "cacheSize": 68,
+      "attemptedSize": 141
+    },
+    "mixed-clarinet-trio": {
+      "updated": 0,
+      "failures": 0,
+      "totalRows": 43,
+      "missingAtStart": 0,
+      "cacheSize": 9,
+      "attemptedSize": 43
+    },
+    "woodwind-quartet": {
+      "updated": 0,
+      "failures": 0,
+      "totalRows": 105,
+      "missingAtStart": 0,
+      "cacheSize": 40,
+      "attemptedSize": 105
+    },
+    "flute-quartet": {
+      "updated": 0,
+      "failures": 0,
+      "totalRows": 149,
+      "missingAtStart": 0,
+      "cacheSize": 73,
+      "attemptedSize": 149
+    },
+    "bb-clarinet-quartet": {
+      "updated": 0,
+      "failures": 0,
+      "totalRows": 127,
+      "missingAtStart": 0,
+      "cacheSize": 70,
+      "attemptedSize": 127
+    },
+    "mixed-clarinet-quartet": {
+      "updated": 0,
+      "failures": 0,
+      "totalRows": 127,
+      "missingAtStart": 0,
+      "cacheSize": 67,
+      "attemptedSize": 127
+    },
+    "saxophone-quartet": {
+      "updated": 0,
+      "failures": 0,
+      "totalRows": 264,
+      "missingAtStart": 0,
+      "cacheSize": 158,
+      "attemptedSize": 264
+    },
+    "woodwind-quintet": {
+      "updated": 0,
+      "failures": 0,
+      "totalRows": 219,
+      "missingAtStart": 0,
+      "cacheSize": 120,
+      "attemptedSize": 219
+    },
+    "misc-woodwind-ensemble": {
+      "updated": 0,
+      "failures": 0,
+      "totalRows": 117,
+      "missingAtStart": 0,
+      "cacheSize": 57,
+      "attemptedSize": 117
+    },
+    "double-reed-ensemble": {
+      "updated": 0,
+      "failures": 0,
+      "totalRows": 140,
+      "missingAtStart": 0,
+      "cacheSize": 55,
+      "attemptedSize": 140
+    },
+    "flute-choir": {
+      "updated": 0,
+      "failures": 0,
+      "totalRows": 144,
+      "missingAtStart": 0,
+      "cacheSize": 76,
+      "attemptedSize": 144
+    },
+    "clarinet-choir": {
+      "updated": 0,
+      "failures": 0,
+      "totalRows": 137,
+      "missingAtStart": 0,
+      "cacheSize": 65,
+      "attemptedSize": 137
+    },
+    "misc-saxophone-ensemble": {
+      "updated": 0,
+      "failures": 0,
+      "totalRows": 146,
+      "missingAtStart": 0,
+      "cacheSize": 64,
+      "attemptedSize": 146
+    },
+    "trumpet-trio": {
+      "updated": 0,
+      "failures": 0,
+      "totalRows": 92,
+      "missingAtStart": 0,
+      "cacheSize": 44,
+      "attemptedSize": 92
+    },
+    "trombone-trio": {
+      "updated": 0,
+      "failures": 0,
+      "totalRows": 94,
+      "missingAtStart": 0,
+      "cacheSize": 47,
+      "attemptedSize": 94
+    },
+    "euphonium-baritone-trio": {
+      "updated": 0,
+      "failures": 0,
+      "totalRows": 114,
+      "missingAtStart": 0,
+      "cacheSize": 55,
+      "attemptedSize": 114
+    },
+    "brass-trio": {
+      "updated": 0,
+      "failures": 0,
+      "totalRows": 72,
+      "missingAtStart": 0,
+      "cacheSize": 32,
+      "attemptedSize": 72
+    },
+    "trumpet-quartet": {
+      "updated": 0,
+      "failures": 0,
+      "totalRows": 88,
+      "missingAtStart": 0,
+      "cacheSize": 48,
+      "attemptedSize": 88
+    },
+    "horn-quartet": {
+      "updated": 0,
+      "failures": 0,
+      "totalRows": 166,
+      "missingAtStart": 0,
+      "cacheSize": 84,
+      "attemptedSize": 166
+    },
+    "euphonium-baritone-quartet": {
+      "updated": 0,
+      "failures": 0,
+      "totalRows": 168,
+      "missingAtStart": 0,
+      "cacheSize": 80,
+      "attemptedSize": 168
+    },
+    "brass-quartet": {
+      "updated": 0,
+      "failures": 0,
+      "totalRows": 236,
+      "missingAtStart": 0,
+      "cacheSize": 125,
+      "attemptedSize": 236
+    },
+    "trombone-quartet": {
+      "updated": 0,
+      "failures": 0,
+      "totalRows": 160,
+      "missingAtStart": 0,
+      "cacheSize": 96,
+      "attemptedSize": 160
+    },
+    "tuba-euphonium-quartet": {
+      "updated": 0,
+      "failures": 0,
+      "totalRows": 113,
+      "missingAtStart": 0,
+      "cacheSize": 58,
+      "attemptedSize": 113
+    },
+    "brass-quintet": {
+      "updated": 0,
+      "failures": 0,
+      "totalRows": 364,
+      "missingAtStart": 0,
+      "cacheSize": 225,
+      "attemptedSize": 364
+    },
+    "brass-sextet": {
+      "updated": 0,
+      "failures": 0,
+      "totalRows": 62,
+      "missingAtStart": 0,
+      "cacheSize": 28,
+      "attemptedSize": 62
+    },
+    "six-or-more-brass": {
+      "updated": 0,
+      "failures": 0,
+      "totalRows": 131,
+      "missingAtStart": 0,
+      "cacheSize": 57,
+      "attemptedSize": 131
+    },
+    "trumpet-choir": {
+      "updated": 0,
+      "failures": 0,
+      "totalRows": 27,
+      "missingAtStart": 0,
+      "cacheSize": 9,
+      "attemptedSize": 27
+    },
+    "misc-horn-ensemble": {
+      "updated": 0,
+      "failures": 0,
+      "totalRows": 65,
+      "missingAtStart": 0,
+      "cacheSize": 21,
+      "attemptedSize": 65
+    },
+    "trombone-choir": {
+      "updated": 0,
+      "failures": 0,
+      "totalRows": 64,
+      "missingAtStart": 0,
+      "cacheSize": 31,
+      "attemptedSize": 64
+    },
+    "percussion-ensemble": {
+      "updated": 0,
+      "failures": 0,
+      "totalRows": 1028,
+      "missingAtStart": 0,
+      "cacheSize": 662,
+      "attemptedSize": 1028
+    },
+    "steel-band": {
+      "updated": 0,
+      "failures": 0,
+      "totalRows": 113,
+      "missingAtStart": 0,
+      "cacheSize": 59,
+      "attemptedSize": 107
+    },
+    "misc-mixed-ensemble": {
+      "updated": 0,
+      "failures": 0,
+      "totalRows": 35,
+      "missingAtStart": 0,
+      "cacheSize": 12,
+      "attemptedSize": 35
+    },
+    "acoustical-guitar": {
+      "updated": 0,
+      "failures": 0,
+      "totalRows": 287,
+      "missingAtStart": 0,
+      "cacheSize": 182,
+      "attemptedSize": 283
+    },
+    "piano-trio": {
+      "updated": 0,
+      "failures": 0,
+      "totalRows": 131,
+      "missingAtStart": 0,
+      "cacheSize": 73,
+      "attemptedSize": 131
+    },
+    "violin-trio": {
+      "updated": 0,
+      "failures": 0,
+      "totalRows": 90,
+      "missingAtStart": 0,
+      "cacheSize": 66,
+      "attemptedSize": 90
+    },
+    "string-trio": {
+      "updated": 0,
+      "failures": 0,
+      "totalRows": 82,
+      "missingAtStart": 0,
+      "cacheSize": 43,
+      "attemptedSize": 82
+    },
+    "misc-string-trio": {
+      "updated": 0,
+      "failures": 0,
+      "totalRows": 143,
+      "missingAtStart": 0,
+      "cacheSize": 49,
+      "attemptedSize": 143
+    },
+    "guitar-trio": {
+      "updated": 0,
+      "failures": 0,
+      "totalRows": 112,
+      "missingAtStart": 0,
+      "cacheSize": 46,
+      "attemptedSize": 112
+    },
+    "violin-quartets": {
+      "updated": 0,
+      "failures": 0,
+      "totalRows": 122,
+      "missingAtStart": 0,
+      "cacheSize": 59,
+      "attemptedSize": 122
+    },
+    "string-quartet": {
+      "updated": 0,
+      "failures": 0,
+      "totalRows": 200,
+      "missingAtStart": 0,
+      "cacheSize": 118,
+      "attemptedSize": 200
+    },
+    "misc-string-quartet": {
+      "updated": 0,
+      "failures": 0,
+      "totalRows": 182,
+      "missingAtStart": 0,
+      "cacheSize": 68,
+      "attemptedSize": 182
+    },
+    "guitar-quartet": {
+      "updated": 0,
+      "failures": 0,
+      "totalRows": 166,
+      "missingAtStart": 0,
+      "cacheSize": 60,
+      "attemptedSize": 166
+    },
+    "string-quintet": {
+      "updated": 0,
+      "failures": 0,
+      "totalRows": 394,
+      "missingAtStart": 0,
+      "cacheSize": 205,
+      "attemptedSize": 394
+    },
+    "misc-string-quintet": {
+      "updated": 0,
+      "failures": 0,
+      "totalRows": 25,
+      "missingAtStart": 0,
+      "cacheSize": 6,
+      "attemptedSize": 25
+    },
+    "misc-string-ensemble": {
+      "updated": 0,
+      "failures": 0,
+      "totalRows": 259,
+      "missingAtStart": 0,
+      "cacheSize": 45,
+      "attemptedSize": 259
+    },
+    "misc-guitar-ensemble": {
+      "updated": 0,
+      "failures": 0,
+      "totalRows": 37,
+      "missingAtStart": 0,
+      "cacheSize": 12,
+      "attemptedSize": 37
+    },
+    "cello-choir": {
+      "updated": 0,
+      "failures": 0,
+      "totalRows": 14,
+      "missingAtStart": 0,
+      "cacheSize": 5,
+      "attemptedSize": 14
+    },
+    "harp-ensemble": {
+      "updated": 18,
+      "failures": 47,
+      "totalRows": 65,
+      "missingAtStart": 65,
+      "cacheSize": 18,
+      "attemptedSize": 65
+    },
+    "harp": {
+      "updated": 96,
+      "failures": 66,
+      "totalRows": 162,
+      "missingAtStart": 162,
+      "cacheSize": 96,
+      "attemptedSize": 162
+    },
+    "full-orchestra": {
+      "updated": 458,
+      "failures": 269,
+      "totalRows": 727,
+      "missingAtStart": 727,
+      "cacheSize": 456,
+      "attemptedSize": 725
+    }
+  }
+}

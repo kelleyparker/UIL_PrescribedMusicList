@@ -50,20 +50,20 @@ ONLY_TEST_CODE = (os.getenv("ONLY_TEST_CODE") or "").strip() or None
 RESCAN_MODE = (os.getenv("SCAN_RESCAN_MODE") or "none").strip().lower()
 
 # Throughput tuning (override with environment variables).
-GLOBAL_CONCURRENCY = int(os.getenv("SCAN_GLOBAL_CONCURRENCY", "60"))
-JWPEPPER_CONCURRENCY = int(os.getenv("SCAN_JWPEPPER_CONCURRENCY", "24"))
-FALLBACK_CONCURRENCY = int(os.getenv("SCAN_FALLBACK_CONCURRENCY", "6"))
-INSTRUMENT_CONCURRENCY = int(os.getenv("SCAN_INSTRUMENT_CONCURRENCY", "1"))
+GLOBAL_CONCURRENCY = int(os.getenv("SCAN_GLOBAL_CONCURRENCY", "120"))
+JWPEPPER_CONCURRENCY = int(os.getenv("SCAN_JWPEPPER_CONCURRENCY", "48"))
+FALLBACK_CONCURRENCY = int(os.getenv("SCAN_FALLBACK_CONCURRENCY", "12"))
+INSTRUMENT_CONCURRENCY = int(os.getenv("SCAN_INSTRUMENT_CONCURRENCY", "2"))
 
 # Lower jitter on JW Pepper requests improves throughput substantially.
-JWPEPPER_DELAY_MIN = float(os.getenv("SCAN_JWPEPPER_DELAY_MIN", "0.05"))
-JWPEPPER_DELAY_MAX = float(os.getenv("SCAN_JWPEPPER_DELAY_MAX", "0.20"))
-FALLBACK_DELAY_MIN = float(os.getenv("SCAN_FALLBACK_DELAY_MIN", "0.30"))
-FALLBACK_DELAY_MAX = float(os.getenv("SCAN_FALLBACK_DELAY_MAX", "0.90"))
+JWPEPPER_DELAY_MIN = float(os.getenv("SCAN_JWPEPPER_DELAY_MIN", "0.02"))
+JWPEPPER_DELAY_MAX = float(os.getenv("SCAN_JWPEPPER_DELAY_MAX", "0.10"))
+FALLBACK_DELAY_MIN = float(os.getenv("SCAN_FALLBACK_DELAY_MIN", "0.15"))
+FALLBACK_DELAY_MAX = float(os.getenv("SCAN_FALLBACK_DELAY_MAX", "0.45"))
 
 # Persist progress in batches to avoid rewriting large JSON files per row.
-STATE_FLUSH_EVERY_ROWS = int(os.getenv("SCAN_STATE_FLUSH_EVERY_ROWS", "30"))
-STATE_FLUSH_EVERY_SECONDS = float(os.getenv("SCAN_STATE_FLUSH_EVERY_SECONDS", "15"))
+STATE_FLUSH_EVERY_ROWS = int(os.getenv("SCAN_STATE_FLUSH_EVERY_ROWS", "100"))
+STATE_FLUSH_EVERY_SECONDS = float(os.getenv("SCAN_STATE_FLUSH_EVERY_SECONDS", "30"))
 
 TITLE_STOPWORDS = {
     "a",
@@ -448,6 +448,10 @@ async def run_curl(url: str) -> str:
     process = await asyncio.create_subprocess_exec(
         "curl",
         "-LfsS",
+        "--connect-timeout",
+        "8",
+        "--max-time",
+        "20",
         "-A",
         "Mozilla/5.0",
         url,
