@@ -1,19 +1,18 @@
 {
-  "pid": 40148,
+  "pid": 97871,
   "phase": "running",
-  "startedAt": "2026-03-28T14:50:28.683491+00:00",
-  "updatedAt": "2026-03-28T14:50:29.703676+00:00",
+  "startedAt": "2026-03-28T14:57:40.932142+00:00",
+  "updatedAt": "2026-03-28T14:57:42.058807+00:00",
   "activeInstruments": [
     "madrigal",
     "mixed-chorus",
     "tenor-bass-chorus",
     "tenor-bass-small-ensemble",
     "treble-chorus",
-    "treble-small-ensemble",
-    "vocal"
+    "treble-small-ensemble"
   ],
   "instrumentConcurrency": 8,
-  "globalConcurrency": 960,
+  "globalConcurrency": 1500,
   "jwpepperConcurrency": 384,
   "fallbackConcurrency": 96,
   "summary": {
@@ -696,6 +695,14 @@
       "missingAtStart": 0,
       "cacheSize": 1010,
       "attemptedSize": 1475
+    },
+    "vocal": {
+      "updated": 0,
+      "failures": 0,
+      "totalRows": 1413,
+      "missingAtStart": 0,
+      "cacheSize": 885,
+      "attemptedSize": 1413
     }
   }
 }
