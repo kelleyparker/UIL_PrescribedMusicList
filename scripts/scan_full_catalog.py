@@ -27,6 +27,7 @@ from pml_catalog_core import (
 ROOT = Path(__file__).resolve().parents[1]
 LOG_DIR = ROOT / "logs"
 LOG_PATH = LOG_DIR / "fill_sheet_music_links.log"
+STATUS_PATH = LOG_DIR / "scan_full_catalog_status.json"
 
 JWPEPPER_SEARCH_URL = "https://www.jwpepper.com/api/catalog_system/pub/products/search/?ft="
 JWPEPPER_WEB_SEARCH_URL = "https://www.jwpepper.com/sheet-music/search.jsp?keywords={query}"
@@ -1082,8 +1083,36 @@ async def main() -> None:
 
     summary: dict[str, dict[str, int]] = {}
     instrument_slugs = list(INSTRUMENT_CONFIGS)
+    run_started_at = datetime.now(timezone.utc).isoformat()
+    active_instruments: set[str] = set()
+    status_lock = asyncio.Lock()
+
+    def write_status(phase: str) -> None:
+        LOG_DIR.mkdir(parents=True, exist_ok=True)
+        payload = {
+            "pid": os.getpid(),
+            "phase": phase,
+            "startedAt": run_started_at,
+            "updatedAt": datetime.now(timezone.utc).isoformat(),
+            "activeInstruments": sorted(active_instruments),
+            "instrumentConcurrency": INSTRUMENT_CONCURRENCY,
+            "globalConcurrency": GLOBAL_CONCURRENCY,
+            "jwpepperConcurrency": JWPEPPER_CONCURRENCY,
+            "fallbackConcurrency": FALLBACK_CONCURRENCY,
+            "summary": summary,
+        }
+        STATUS_PATH.write_text(json.dumps(payload, indent=2), encoding="utf-8")
+
+    async def publish_status(phase: str) -> None:
+        async with status_lock:
+            write_status(phase)
+
+    await publish_status("starting")
 
     async def run_one_instrument(instrument_slug: str) -> None:
+        async with status_lock:
+            active_instruments.add(instrument_slug)
+            write_status("running")
         try:
             summary[instrument_slug] = await process_instrument(
                 instrument_slug,
@@ -1102,25 +1131,34 @@ async def main() -> None:
                 "missingAtStart": 0,
                 "cacheSize": 0,
             }
+        finally:
+            async with status_lock:
+                active_instruments.discard(instrument_slug)
+                write_status("running")
 
-    # Preserve deterministic single-instrument sweep behavior for ONLY_TEST_CODE.
-    if ONLY_TEST_CODE:
-        for instrument_slug in instrument_slugs:
-            await run_one_instrument(instrument_slug)
-            if summary[instrument_slug].get("missingAtStart", 0) > 0:
-                logging.info("ONLY_TEST_CODE matched in %s; ending run after one code", instrument_slug)
-                break
-    elif INSTRUMENT_CONCURRENCY <= 1:
-        for instrument_slug in instrument_slugs:
-            await run_one_instrument(instrument_slug)
-    else:
-        instrument_semaphore = asyncio.Semaphore(INSTRUMENT_CONCURRENCY)
-
-        async def run_with_semaphore(instrument_slug: str) -> None:
-            async with instrument_semaphore:
+    try:
+        # Preserve deterministic single-instrument sweep behavior for ONLY_TEST_CODE.
+        if ONLY_TEST_CODE:
+            for instrument_slug in instrument_slugs:
                 await run_one_instrument(instrument_slug)
+                if summary[instrument_slug].get("missingAtStart", 0) > 0:
+                    logging.info("ONLY_TEST_CODE matched in %s; ending run after one code", instrument_slug)
+                    break
+        elif INSTRUMENT_CONCURRENCY <= 1:
+            for instrument_slug in instrument_slugs:
+                await run_one_instrument(instrument_slug)
+        else:
+            instrument_semaphore = asyncio.Semaphore(INSTRUMENT_CONCURRENCY)
 
-        await asyncio.gather(*(run_with_semaphore(slug) for slug in instrument_slugs))
+            async def run_with_semaphore(instrument_slug: str) -> None:
+                async with instrument_semaphore:
+                    await run_one_instrument(instrument_slug)
+
+            await asyncio.gather(*(run_with_semaphore(slug) for slug in instrument_slugs))
+    finally:
+        async with status_lock:
+            active_instruments.clear()
+            write_status("idle")
 
     logging.info("Bulk sheet music fill finished")
     logging.info("Summary: %s", json.dumps(summary, indent=2))
