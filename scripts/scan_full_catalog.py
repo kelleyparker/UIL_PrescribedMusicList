@@ -14,7 +14,7 @@ from pathlib import Path
 from typing import Any
 from urllib.parse import quote_plus
 
-from import_piano_solos import (
+from pml_catalog_core import (
     DEFAULT_SCHOOL_YEAR,
     INSTRUMENT_CONFIGS,
     affiliate_cache_path_for_instrument,

@@ -12,7 +12,7 @@ SCRIPT_DIR = Path(__file__).resolve().parent
 if str(SCRIPT_DIR) not in sys.path:
     sys.path.insert(0, str(SCRIPT_DIR))
 
-from import_piano_solos import (
+from pml_catalog_core import (
     AFFILIATE_LINKS_BY_INSTRUMENT,
     INSTRUMENT_CONFIGS,
     PianoSoloRow,

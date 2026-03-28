@@ -11,7 +11,7 @@ import time
 import urllib.parse
 from pathlib import Path
 
-from import_piano_solos import (
+from pml_catalog_core import (
     DEFAULT_SCHOOL_YEAR,
     INSTRUMENT_CONFIGS,
     SoloRow,
