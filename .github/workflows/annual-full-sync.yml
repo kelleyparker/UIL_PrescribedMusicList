@@ -5,6 +5,12 @@ on:
     # Runs once a year on September 4 at 13:00 UTC.
     - cron: "0 13 4 9 *"
   workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Run without commit/push (recommended for testing)"
+        required: true
+        default: true
+        type: boolean
 
 permissions:
   contents: write
@@ -54,7 +60,7 @@ jobs:
           fi
 
       - name: Commit and push updates (including partial progress)
-        if: always() && steps.changes.outputs.changed == 'true'
+        if: always() && steps.changes.outputs.changed == 'true' && (github.event_name != 'workflow_dispatch' || github.event.inputs.dry_run != 'true')
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -68,6 +74,11 @@ jobs:
           git add data static/data
           git commit -m "Annual full UIL sync for ${YEAR}"
           git push
+
+      - name: Skip push in dry-run mode
+        if: always() && steps.changes.outputs.changed == 'true' && github.event_name == 'workflow_dispatch' && github.event.inputs.dry_run == 'true'
+        run: |
+          echo "Dry run enabled: changes detected but not committed/pushed."
 
       - name: Mark job failed when full scan did not complete
         if: always() && steps.full_scan.outcome != 'success'
@@ -93,6 +104,7 @@ jobs:
             Job status: ${{ job.status }}
             Full scan step outcome: ${{ steps.full_scan.outcome }}
             Changes committed: ${{ steps.changes.outputs.changed }}
+            Dry run: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.dry_run || 'false' }}
             Ref: ${{ github.ref_name }}
             Trigger: ${{ github.event_name }}
             Run URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}

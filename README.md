@@ -23,6 +23,7 @@ Then open `http://127.0.0.1:8000`.
 - `.github/workflows/annual-full-sync.yml` runs yearly on September 4, refreshes all configured UIL PML categories, then runs `scripts/scan_full_catalog.py` to fill missing affiliate links.
 - The full scan is resume-aware: it persists attempt/cache progress and future runs continue from remaining unscanned rows by default (`SCAN_RESCAN_MODE=none`).
 - If a yearly run times out or fails partway through, re-run `.github/workflows/annual-full-sync.yml` with `workflow_dispatch` to continue from prior progress.
+- Manual runs support a `dry_run` input (default `true`) that executes the sync/scan but does not commit or push any changes.
 - The same workflow can send a status email (success/failure) when these repository secrets are configured: `SMTP_SERVER`, `SMTP_USERNAME`, `SMTP_PASSWORD`, and `NOTIFY_EMAIL`.
 - `.github/workflows/pages.yml` republishes the static site to GitHub Pages after pushes to `main`.
 - The frontend renders class filters dynamically from the selected dataset, so categories with UIL class levels beyond `1-3` (for example `100 Band`) show the correct range.
