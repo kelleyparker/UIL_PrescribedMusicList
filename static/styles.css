@@ -435,6 +435,47 @@ body {
   text-decoration-thickness: 2px;
 }
 
+.beta-badge {
+  display: inline-block;
+  padding: 0.3rem 0.65rem;
+  background: linear-gradient(135deg, #b3192d, #ff8f9f);
+  color: #ffffff;
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 1.2px;
+  border-radius: 4px;
+  margin-left: 0.5rem;
+}
+
+.beta-badge-inline {
+  display: inline-block;
+  padding: 0.3rem 0.65rem;
+  background: linear-gradient(135deg, #b3192d, #ff8f9f);
+  color: #ffffff;
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 1.2px;
+  border-radius: 4px;
+  margin: 0.25rem 0.5rem 0.25rem 0;
+}
+
+.beta-banner {
+  margin-top: 1rem;
+  padding: 1rem 1.25rem;
+  background: rgba(179, 25, 45, 0.15);
+  border-left: 4px solid #b3192d;
+  border-radius: 8px;
+  font-size: 0.95rem;
+  line-height: 1.5;
+  color: var(--ink);
+}
+
+.beta-banner a {
+  color: var(--link-color);
+  font-weight: 700;
+  text-decoration: underline;
+}
+
 .availability-section {
   display: grid;
   gap: 1.2rem;

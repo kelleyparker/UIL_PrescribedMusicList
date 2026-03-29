@@ -36,6 +36,8 @@ The goal is to:
 - Deployment:
   - Pushes to `main` trigger GitHub Pages deployment
   - Annual full sync automation refreshes UIL-backed datasets and runs resume-aware full-catalog link scanning
+  - Email notifications send status on workflow completion (requires SMTP secrets configured)
+  - Beta testing indicators added to site (BETA badge + banner with GitHub issue reporting link)
 
 ## Maintenance Workflow
 - At the end of meaningful runs, update `README.md` if setup, feature scope, or pipeline behavior changed
@@ -61,3 +63,21 @@ The goal is to:
   "publisher": "Example Publisher",
   "book": "Selected Trumpet Solos"
 }
+```
+
+## Recent Updates (March 2026)
+
+**Workflow & Automation:**
+- Fixed critical import error in `sync_uil_pml.py`: removed import of non-existent `public_domain_links` module (disabled public domain link functionality for now)
+- Verified annual-full-sync workflow runs successfully with dry-run mode
+- Email notifications fully tested and confirmed working (Gmail SMTP via dawidd6/action-send-mail)
+- Workflow passes dry-run tests: dataset sync completes, full catalog scan skipped, no commits pushed
+
+**Site Status:**
+- Added "BETA" badge and banner to both index.html and availability.html
+- Beta banner includes link to GitHub issue template for community feedback
+- Site ready for community beta testing with clear indication this is a beta/test version
+
+**Production Readiness:**
+- All core features complete: UI polish, reporting infrastructure, annual automation, email notifications
+- Project is ready for community launch as of March 29, 2026
