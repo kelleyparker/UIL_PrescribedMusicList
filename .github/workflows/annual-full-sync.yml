@@ -37,6 +37,7 @@ jobs:
 
       - name: Run full catalog affiliate scan (resume-aware)
         id: full_scan
+        if: github.event_name != 'workflow_dispatch' || github.event.inputs.dry_run != 'true'
         continue-on-error: true
         timeout-minutes: 330
         env:
@@ -81,7 +82,7 @@ jobs:
           echo "Dry run enabled: changes detected but not committed/pushed."
 
       - name: Mark job failed when full scan did not complete
-        if: always() && steps.full_scan.outcome != 'success'
+        if: always() && (github.event_name != 'workflow_dispatch' || github.event.inputs.dry_run != 'true') && steps.full_scan.outcome != 'success'
         run: |
           echo "Full catalog scan did not complete successfully."
           exit 1
