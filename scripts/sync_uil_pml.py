@@ -18,7 +18,8 @@ from pml_catalog_core import (
     PianoSoloRow,
     build_outputs,
 )
-from public_domain_links import enrich_public_domain_links, load_cache, song_key
+# TODO: public_domain_links module does not exist; public domain functionality disabled for now
+# from public_domain_links import enrich_public_domain_links, load_cache, song_key
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -94,12 +95,14 @@ def fetch_rows_for_events(event_names: list[str]) -> list[PianoSoloRow]:
 
 
 def load_clarinet_links(rows: list[PianoSoloRow]) -> dict[str, dict]:
-    cache = load_cache(CLARINET_LINKS_CACHE_PATH)
-    return {
-        row.code: cache[f"{row.event_name}::{row.composer}::{row.title}"]
-        for row in rows
-        if f"{row.event_name}::{row.composer}::{row.title}" in cache
-    }
+    # TODO: public_domain_links module missing; public domain functionality disabled
+    # cache = load_cache(CLARINET_LINKS_CACHE_PATH)
+    # return {
+    #     row.code: cache[f"{row.event_name}::{row.composer}::{row.title}"]
+    #     for row in rows
+    #     if f"{row.event_name}::{row.composer}::{row.title}" in cache
+    # }
+    return {}
 
 
 def main() -> int:
@@ -116,21 +119,22 @@ def main() -> int:
     public_domain_links_by_instrument = {
         instrument_slug: {} for instrument_slug in INSTRUMENT_CONFIGS
     }
-    public_domain_links_by_instrument["piano"] = {
-        row.code: cached
-        for row in rows_by_instrument["piano"]
-        if (cached := load_cache().get(song_key(row)))
-    }
-    public_domain_links_by_instrument["clarinet"] = load_clarinet_links(
-        rows_by_instrument["clarinet"]
-    )
-    public_domain_links_by_instrument["french-horn"] = enrich_public_domain_links(
-        rows_by_instrument["french-horn"]
-    )
-    public_domain_links_by_instrument["trumpet"] = enrich_public_domain_links(
-        rows_by_instrument["trumpet"],
-        cache_path=TRUMPET_LINKS_CACHE_PATH,
-    )
+    # TODO: public_domain_links module missing; public domain functionality disabled
+    # public_domain_links_by_instrument["piano"] = {
+    #     row.code: cached
+    #     for row in rows_by_instrument["piano"]
+    #     if (cached := load_cache().get(song_key(row)))
+    # }
+    # public_domain_links_by_instrument["clarinet"] = load_clarinet_links(
+    #     rows_by_instrument["clarinet"]
+    # )
+    # public_domain_links_by_instrument["french-horn"] = enrich_public_domain_links(
+    #     rows_by_instrument["french-horn"]
+    # )
+    # public_domain_links_by_instrument["trumpet"] = enrich_public_domain_links(
+    #     rows_by_instrument["trumpet"],
+    #     cache_path=TRUMPET_LINKS_CACHE_PATH,
+    # )
 
     stats_by_instrument = {}
     for instrument_slug, rows in rows_by_instrument.items():
