@@ -1,0 +1,98 @@
+name: Annual Full UIL PML Sync
+
+on:
+  schedule:
+    # Runs once a year on September 4 at 13:00 UTC.
+    - cron: "0 13 4 9 *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    env:
+      SMTP_SERVER: ${{ secrets.SMTP_SERVER }}
+      SMTP_USERNAME: ${{ secrets.SMTP_USERNAME }}
+      SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+      NOTIFY_EMAIL: ${{ secrets.NOTIFY_EMAIL }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Sync UIL PML datasets
+        run: python3 scripts/sync_uil_pml.py
+
+      - name: Run full catalog affiliate scan (resume-aware)
+        id: full_scan
+        continue-on-error: true
+        timeout-minutes: 330
+        env:
+          SCAN_RESCAN_MODE: none
+          SCAN_GLOBAL_CONCURRENCY: 120
+          SCAN_JWPEPPER_CONCURRENCY: 48
+          SCAN_FALLBACK_CONCURRENCY: 24
+          SCAN_INSTRUMENT_CONCURRENCY: 4
+          SCAN_STATE_FLUSH_EVERY_ROWS: 400
+          SCAN_STATE_FLUSH_EVERY_SECONDS: 60
+        run: python3 scripts/scan_full_catalog.py
+
+      - name: Detect changes
+        if: always()
+        id: changes
+        run: |
+          if git diff --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Commit and push updates (including partial progress)
+        if: always() && steps.changes.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          YEAR=$(python3 - <<'PY'
+          import json
+          from pathlib import Path
+          stats = json.loads(Path("static/data/stats.json").read_text())
+          print(stats.get("schoolYear", "unknown"))
+          PY
+          )
+          git add data static/data
+          git commit -m "Annual full UIL sync for ${YEAR}"
+          git push
+
+      - name: Mark job failed when full scan did not complete
+        if: always() && steps.full_scan.outcome != 'success'
+        run: |
+          echo "Full catalog scan did not complete successfully."
+          exit 1
+
+      - name: Send run status email
+        if: always() && env.SMTP_SERVER != '' && env.SMTP_USERNAME != '' && env.SMTP_PASSWORD != '' && env.NOTIFY_EMAIL != ''
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: ${{ env.SMTP_SERVER }}
+          server_port: 587
+          secure: false
+          username: ${{ env.SMTP_USERNAME }}
+          password: ${{ env.SMTP_PASSWORD }}
+          to: ${{ env.NOTIFY_EMAIL }}
+          from: ${{ env.SMTP_USERNAME }}
+          subject: "[${{ github.repository }}] Annual full sync ${{ job.status }}"
+          body: |
+            Repository: ${{ github.repository }}
+            Workflow: ${{ github.workflow }}
+            Job status: ${{ job.status }}
+            Full scan step outcome: ${{ steps.full_scan.outcome }}
+            Changes committed: ${{ steps.changes.outputs.changed }}
+            Ref: ${{ github.ref_name }}
+            Trigger: ${{ github.event_name }}
+            Run URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}

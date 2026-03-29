@@ -35,7 +35,7 @@ The goal is to:
   - Prefer individual instrument filters over family buckets when UIL provides distinct event codes for those solos
 - Deployment:
   - Pushes to `main` trigger GitHub Pages deployment
-  - Monthly sync automation refreshes UIL-backed datasets when upstream data changes
+  - Annual full sync automation refreshes UIL-backed datasets and runs resume-aware full-catalog link scanning
 
 ## Maintenance Workflow
 - At the end of meaningful runs, update `README.md` if setup, feature scope, or pipeline behavior changed
