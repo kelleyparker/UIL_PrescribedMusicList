@@ -24,7 +24,7 @@ Then open `http://127.0.0.1:8000`.
 - The full scan is resume-aware: it persists attempt/cache progress and future runs continue from remaining unscanned rows by default (`SCAN_RESCAN_MODE=none`).
 - If a yearly run times out or fails partway through, re-run `.github/workflows/annual-full-sync.yml` with `workflow_dispatch` to continue from prior progress.
 - Manual runs support a `dry_run` input (default `true`) that executes a safe test path: dataset sync runs, full catalog scan is skipped, and no commit/push is performed.
-- Email status notifications send on workflow completion (success/failure) when these repository secrets are configured: `SMTP_SERVER`, `SMTP_USERNAME`, `SMTP_PASSWORD`, and `NOTIFY_EMAIL`. Verified working via Gmail SMTP (dawidd6/action-send-mail@v3).
+- Email status notifications are sent on workflow completion (success/failure) when these repository secrets are configured: `SMTP_SERVER`, `SMTP_USERNAME`, `SMTP_PASSWORD`, and `NOTIFY_EMAIL`. Verified working via Gmail SMTP (dawidd6/action-send-mail@v3).
 - `.github/workflows/pages.yml` republishes the static site to GitHub Pages after pushes to `main`.
 - The frontend renders class filters dynamically from the selected dataset, so categories with UIL class levels beyond `1-3` (for example `100 Band`) show the correct range.
 - When UIL exposes separate solo event codes within a broader instrument family, the UI should prefer individual instrument filters over a single family bucket.
