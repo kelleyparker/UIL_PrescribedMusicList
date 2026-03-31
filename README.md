@@ -14,8 +14,8 @@ Then open `http://127.0.0.1:8000`.
 
 - Official UIL page: `https://www.uiltexas.org/pml/`
 - UIL data feed: `https://www.uiltexas.org/pml/pml.php`
-- Local source snapshots are written to [`data/`](/Users/kelleyparker/Documents/Codex/WebApps/UIL_PrescribedMusicList/data) during syncs.
-- Generated site datasets are written to [`static/data/`](/Users/kelleyparker/Documents/Codex/WebApps/UIL_PrescribedMusicList/static/data).
+- Local source snapshots are written to [`data/`](data/) during syncs.
+- Generated site datasets are written to [`static/data/`](static/data/).
 
 ## Update pipeline
 
@@ -47,7 +47,7 @@ Then open `http://127.0.0.1:8000`.
 - **Reporting**: Community can submit feedback or data corrections via GitHub issue templates:
   - General feedback: https://github.com/kelleyparker/UIL_PrescribedMusicList/issues/new?template=general-feedback.md
   - Missing songs: https://github.com/kelleyparker/UIL_PrescribedMusicList/issues/new?template=missing-song-link.md
-  - per-song corrections: Use "Report Listing or Suggest Link" button on individual song cards.
+  - Per-song corrections: Use "Report Listing or Suggest Link" button on individual song cards.
 
 ## Known Limitations
 
