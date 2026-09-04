@@ -1,16 +1,310 @@
 [
   {
-    "uilCode": "372-2-36109",
+    "uilCode": "372-3-42150",
     "instrumentSlug": "trumpet-choir",
     "instrumentName": "Trumpet Choirs",
     "eventName": "Trumpet Choir",
-    "title": "Allegro from \"Die Bankelsangerlieder",
-    "composer": "Anonymous",
-    "arranger": "Pappas",
+    "title": "Seven Tapas for Seven Trumpets",
+    "composer": "Gillingham",
+    "arranger": "",
     "publishers": [
-      "JPM Music Publications"
+      "C. Alan Publications"
     ],
-    "publisherText": "JPM Music Publications",
+    "publisherText": "C. Alan Publications",
+    "classLevel": 3,
+    "specification": "SEPTET (play Song or Aria)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/seven-tapas-for-seven-trumpets-10638477/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "372-3-42153",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "Seven Renaissance Intradas",
+    "composer": "Hassler",
+    "arranger": "Dziuk",
+    "publishers": [
+      "Tripolo Press"
+    ],
+    "publisherText": "Tripolo Press",
+    "classLevel": 3,
+    "specification": "SEXTET (play No. Seven & Eight)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "372-3-42152",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "Theme from Jupiter",
+    "composer": "Holst",
+    "arranger": "Raehpour",
+    "publishers": [
+      "Sheet Music Plus Press"
+    ],
+    "publisherText": "Sheet Music Plus Press",
+    "classLevel": 3,
+    "specification": "SEXTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "372-3-42155",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "Largo Cantabile from Flute Sonata #1",
+    "composer": "Loeillet",
+    "arranger": "Marlatt",
+    "publishers": [
+      "Eighth Note Publications"
+    ],
+    "publisherText": "Eighth Note Publications",
+    "classLevel": 3,
+    "specification": "QUINTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "372-3-42149",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "Military Marches and Airs",
+    "composer": "Lully",
+    "arranger": "Decker",
+    "publishers": [
+      "Sheet Music Direct"
+    ],
+    "publisherText": "Sheet Music Direct",
+    "classLevel": 3,
+    "specification": "OCTET (play any two mvts) (opt perc)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "372-3-42147",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "Abendlied",
+    "composer": "Rheinberger",
+    "arranger": "Taurins",
+    "publishers": [
+      "jasontaurins.com"
+    ],
+    "publisherText": "jasontaurins.com",
+    "classLevel": 3,
+    "specification": "OCTET (opt bass trumpet)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/abendlied-11518588f/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "372-3-42154",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "Friends",
+    "composer": "Skloff",
+    "arranger": "Chidester",
+    "publishers": [
+      "www.trumpetensemblemusic.com"
+    ],
+    "publisherText": "www.trumpetensemblemusic.com",
+    "classLevel": 3,
+    "specification": "QUINTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/friends-90541351e/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "372-3-42148",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "Three Susato Dances from The Danserye",
+    "composer": "Susato",
+    "arranger": "Marlatt",
+    "publishers": [
+      "Eighth Note Publications"
+    ],
+    "publisherText": "Eighth Note Publications",
+    "classLevel": 3,
+    "specification": "OCTET (play any mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/three-susato-dances-from-danserye-10393782/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "372-3-42156",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "Three Susato Dances from The Danserye",
+    "composer": "Susato",
+    "arranger": "Marlatt",
+    "publishers": [
+      "Eighth Note Publications"
+    ],
+    "publisherText": "Eighth Note Publications",
+    "classLevel": 3,
+    "specification": "QUINTET (play any mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/three-susato-dances-from-danserye-10393782/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "372-3-42157",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "Heroic Suite",
+    "composer": "Telemann",
+    "arranger": "Marlatt",
+    "publishers": [
+      "Eighth Note Publications"
+    ],
+    "publisherText": "Eighth Note Publications",
+    "classLevel": 3,
+    "specification": "QUINTET (play any two mvts)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/heroic-suite-9539875/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "372-3-42151",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "Destiny\u2019s Call",
+    "composer": "Williams",
+    "arranger": "",
+    "publishers": [
+      "Tripolo Press"
+    ],
+    "publisherText": "Tripolo Press",
+    "classLevel": 3,
+    "specification": "SEXTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "372-3-42146",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "Echo Song",
+    "composer": "di Lasso",
+    "arranger": "Decker",
+    "publishers": [
+      "Sheet Music Direct"
+    ],
+    "publisherText": "Sheet Music Direct",
+    "classLevel": 3,
+    "specification": "OCTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "372-2-42126",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "Even When He is Silent",
+    "composer": "Arnesen",
+    "arranger": "Olcott",
+    "publishers": [
+      "Tripolo Press"
+    ],
+    "publisherText": "Tripolo Press",
+    "classLevel": 2,
+    "specification": "OCTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "372-2-42132",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "This Is My Father\u2019s World",
+    "composer": "Babcock & Sheppard",
+    "arranger": "Lewis",
+    "publishers": [
+      "tigermusicstore.com"
+    ],
+    "publisherText": "tigermusicstore.com",
+    "classLevel": 2,
+    "specification": "SEPTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "372-2-42135",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "Jesu Joy of Man\u2019s Desiring",
+    "composer": "Bach",
+    "arranger": "Marlatt",
+    "publishers": [
+      "Tripolo Press"
+    ],
+    "publisherText": "Tripolo Press",
     "classLevel": 2,
     "specification": "SEXTET",
     "noMemoryRequired": false,
@@ -19,6 +313,27 @@
     "sheetMusicAffiliateUrl": null,
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "372-2-42141",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "Gavotte, Opus 36, No. 2",
+    "composer": "Beach",
+    "arranger": "Gianola-Norris",
+    "publishers": [
+      "Tripolo Press"
+    ],
+    "publisherText": "Tripolo Press",
+    "classLevel": 2,
+    "specification": "QUINTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/gavotte-4882338/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
     "uilCode": "372-2-36098",
@@ -59,6 +374,48 @@
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/afferentur-regi-10403991/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "372-2-42125",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "Ave Maria",
+    "composer": "Bruckner",
+    "arranger": "Marlatt",
+    "publishers": [
+      "Eighth Note Publications"
+    ],
+    "publisherText": "Eighth Note Publications",
+    "classLevel": 2,
+    "specification": "OCTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "372-2-42137",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "Trumpet Voluntary",
+    "composer": "Clarke",
+    "arranger": "Marlatt",
+    "publishers": [
+      "Tripolo Press"
+    ],
+    "publisherText": "Tripolo Press",
+    "classLevel": 2,
+    "specification": "SEXTET (opt perc)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/trumpet-voluntary-11693644/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -105,44 +462,65 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
-    "uilCode": "372-2-36102",
+    "uilCode": "372-2-42131",
     "instrumentSlug": "trumpet-choir",
     "instrumentName": "Trumpet Choirs",
     "eventName": "Trumpet Choir",
-    "title": "Madrigal - Moro lasso al mio duolo",
-    "composer": "Gesualdo",
-    "arranger": "Hickman",
+    "title": "Two Festive Preludes",
+    "composer": "Decker",
+    "arranger": "",
     "publishers": [
-      "Hickman Music Editions"
+      "Sheet Music Direct"
     ],
-    "publisherText": "Hickman Music Editions",
+    "publisherText": "Sheet Music Direct",
     "classLevel": 2,
-    "specification": "QUINTET",
+    "specification": "OCTET (play one Prelude)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/moro-lasso-al-mio-duolo-1577139/p",
+    "sheetMusicAffiliateUrl": null,
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
+    "sheetMusicAffiliateSource": null
   },
   {
-    "uilCode": "372-2-14307",
+    "uilCode": "372-2-42136",
     "instrumentSlug": "trumpet-choir",
     "instrumentName": "Trumpet Choirs",
     "eventName": "Trumpet Choir",
-    "title": "Madrigal Moro Lasso al mio Duolo",
-    "composer": "Gesualdo",
-    "arranger": "Hickman",
+    "title": "Flower Duet from Lakme",
+    "composer": "Delibes",
+    "arranger": "Marlatt",
     "publishers": [
-      "Trigram Music Inc."
+      "Tripolo Press"
     ],
-    "publisherText": "Trigram Music Inc.",
+    "publisherText": "Tripolo Press",
     "classLevel": 2,
-    "specification": "QUINTET",
+    "specification": "SEXTET (opt flugelhorns)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/moro-lasso-al-mio-duolo-1577139/p",
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "372-2-42133",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "Goin' Home",
+    "composer": "Dvorak",
+    "arranger": "Villanueva",
+    "publishers": [
+      "JV Music"
+    ],
+    "publisherText": "JV Music",
+    "classLevel": 2,
+    "specification": "SEPTET (opt flugelhorn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/goin-home-11500867/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -160,6 +538,69 @@
     "publisherText": "Tripolo Press",
     "classLevel": 2,
     "specification": "SEPTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "372-2-42138",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "Seven Renaissance Intradas",
+    "composer": "Hassler",
+    "arranger": "Dziuk",
+    "publishers": [
+      "Tripolo Press"
+    ],
+    "publisherText": "Tripolo Press",
+    "classLevel": 2,
+    "specification": "SEXTET (play any three mvts)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "372-2-42127",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "Here\u2019s That Rainy Day",
+    "composer": "Heusen",
+    "arranger": "Olcott",
+    "publishers": [
+      "Tripolo Press"
+    ],
+    "publisherText": "Tripolo Press",
+    "classLevel": 2,
+    "specification": "OCTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "372-2-42142",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "I Put My Life In Your Hands",
+    "composer": "Lewis",
+    "arranger": "",
+    "publishers": [
+      "tigermusicstore.com"
+    ],
+    "publisherText": "tigermusicstore.com",
+    "classLevel": 2,
+    "specification": "QUINTET",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -189,6 +630,27 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "372-2-42129",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "Military Marches and Airs",
+    "composer": "Lully",
+    "arranger": "Decker",
+    "publishers": [
+      "Sheet Music Direct"
+    ],
+    "publisherText": "Sheet Music Direct",
+    "classLevel": 2,
+    "specification": "OCTET (play any three mvts ) (opt perc)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "372-2-36106",
     "instrumentSlug": "trumpet-choir",
     "instrumentName": "Trumpet Choirs",
@@ -208,6 +670,27 @@
     "sheetMusicAffiliateUrl": null,
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "372-2-42143",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "Rondeau",
+    "composer": "Mouret",
+    "arranger": "Marlatt",
+    "publishers": [
+      "Eighth Note Publications"
+    ],
+    "publisherText": "Eighth Note Publications",
+    "classLevel": 2,
+    "specification": "QUINTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/rondeau-5948401/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
     "uilCode": "372-2-36107",
@@ -252,6 +735,132 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "372-2-42139",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "Benedicamus Domino",
+    "composer": "Scheidt",
+    "arranger": "Marlatt",
+    "publishers": [
+      "Eighth Note Publications"
+    ],
+    "publisherText": "Eighth Note Publications",
+    "classLevel": 2,
+    "specification": "QUINTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/benedicamus-domino-10696232/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "372-2-42140",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "Galliard Battaglia",
+    "composer": "Scheidt",
+    "arranger": "Marlatt",
+    "publishers": [
+      "Eighth Note Publications"
+    ],
+    "publisherText": "Eighth Note Publications",
+    "classLevel": 2,
+    "specification": "QUINTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/galliard-battaglia-11640381/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "372-2-42128",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "Psalm 100",
+    "composer": "Schutz",
+    "arranger": "Decker",
+    "publishers": [
+      "Sheet Music Direct"
+    ],
+    "publisherText": "Sheet Music Direct",
+    "classLevel": 2,
+    "specification": "OCTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "372-2-42130",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "Three Susato Dances from The Danserye",
+    "composer": "Susato",
+    "arranger": "Marlatt",
+    "publishers": [
+      "Eighth Note Publications"
+    ],
+    "publisherText": "Eighth Note Publications",
+    "classLevel": 2,
+    "specification": "OCTET (play any two mvts)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/three-susato-dances-from-danserye-10393782/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "372-2-42144",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "Heroic Suite",
+    "composer": "Telemann",
+    "arranger": "Marlatt",
+    "publishers": [
+      "Eighth Note Publications"
+    ],
+    "publisherText": "Eighth Note Publications",
+    "classLevel": 2,
+    "specification": "QUINTET (play any three movements)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/heroic-suite-9539875/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "372-2-42134",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "De Colores",
+    "composer": "Traditional",
+    "arranger": "Marlatt",
+    "publishers": [
+      "Eighth Note Publications"
+    ],
+    "publisherText": "Eighth Note Publications",
+    "classLevel": 2,
+    "specification": "SEPTET (opt flugelhorn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/de-colores-11641412/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "372-2-36110",
     "instrumentSlug": "trumpet-choir",
     "instrumentName": "Trumpet Choirs",
@@ -264,6 +873,90 @@
     ],
     "publisherText": "Tripolo Press",
     "classLevel": 2,
+    "specification": "SEXTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "372-2-42145",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "Fantasia Pernambucana",
+    "composer": "de Silva",
+    "arranger": "Sim\u00f5es",
+    "publishers": [
+      "Tripolo Press"
+    ],
+    "publisherText": "Tripolo Press",
+    "classLevel": 2,
+    "specification": "QUINTET (play Serenata) (opt flugelhorns)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "372-1-42069",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "Bugler's Holiday",
+    "composer": "Anderson",
+    "arranger": "Grant",
+    "publishers": [
+      "musicnotes.com"
+    ],
+    "publisherText": "musicnotes.com",
+    "classLevel": 1,
+    "specification": "OCTET (opt piccolo tpt) (opt flugelhorns)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/buglers-holiday-135004/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "372-1-42074",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "The Rakes of Mallow",
+    "composer": "Anderson",
+    "arranger": "Ford",
+    "publishers": [
+      "Tripolo Press"
+    ],
+    "publisherText": "Tripolo Press",
+    "classLevel": 1,
+    "specification": "SEPTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/rakes-of-mallow-10279847/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "372-1-36109",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "Allegro from \"Die Bankelsangerlieder",
+    "composer": "Anonymous",
+    "arranger": "Pappas",
+    "publishers": [
+      "JPM Music Publications"
+    ],
+    "publisherText": "JPM Music Publications",
+    "classLevel": 1,
     "specification": "SEXTET",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
@@ -315,6 +1008,48 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "372-1-42105",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "Little Fugue",
+    "composer": "Bach",
+    "arranger": "Marlatt",
+    "publishers": [
+      "Eighth Note Publications"
+    ],
+    "publisherText": "Eighth Note Publications",
+    "classLevel": 1,
+    "specification": "SEXTET (three tpt, three flugelhorn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "372-1-42107",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "Little Fugue in G Minor",
+    "composer": "Bach",
+    "arranger": "Watanabe",
+    "publishers": [
+      "Tripolo Press"
+    ],
+    "publisherText": "Tripolo Press",
+    "classLevel": 1,
+    "specification": "QUINTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "372-1-36092",
     "instrumentSlug": "trumpet-choir",
     "instrumentName": "Trumpet Choirs",
@@ -336,6 +1071,69 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "372-1-42100",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "Exultation",
+    "composer": "Byrd",
+    "arranger": "",
+    "publishers": [
+      "Eighth Note Publications"
+    ],
+    "publisherText": "Eighth Note Publications",
+    "classLevel": 1,
+    "specification": "SEXTET (optional piccolo trumpet and flugelhorn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/exultation-10291958/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "372-1-42044",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "Great American Fanfare",
+    "composer": "Byrd",
+    "arranger": "",
+    "publishers": [
+      "Eighth Note Publications"
+    ],
+    "publisherText": "Eighth Note Publications",
+    "classLevel": 1,
+    "specification": "DECTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "372-1-42110",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "Sound Reflections",
+    "composer": "Byrd",
+    "arranger": "",
+    "publishers": [
+      "Eighth Note Publications"
+    ],
+    "publisherText": "Eighth Note Publications",
+    "classLevel": 1,
+    "specification": "QUINTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "372-1-38687",
     "instrumentSlug": "trumpet-choir",
     "instrumentName": "Trumpet Choirs",
@@ -353,6 +1151,90 @@
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/metalmorphosis-11541043/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "372-1-42116",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "Trumpet Prelude from Te Deum",
+    "composer": "Charpentier",
+    "arranger": "Olcott",
+    "publishers": [
+      "Tripolo Press"
+    ],
+    "publisherText": "Tripolo Press",
+    "classLevel": 1,
+    "specification": "QUINTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "372-1-42064",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "Two Festive Preludes",
+    "composer": "Decker",
+    "arranger": "",
+    "publishers": [
+      "Sheet Music Direct"
+    ],
+    "publisherText": "Sheet Music Direct",
+    "classLevel": 1,
+    "specification": "OCTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "372-1-42053",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "Hilltop Fanfare",
+    "composer": "Dietz",
+    "arranger": "",
+    "publishers": [
+      "Tripolo Press"
+    ],
+    "publisherText": "Tripolo Press",
+    "classLevel": 1,
+    "specification": "OCTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "372-1-42078",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "An Olcott Overture!",
+    "composer": "Ewazen",
+    "arranger": "",
+    "publishers": [
+      "Tripolo Press"
+    ],
+    "publisherText": "Tripolo Press",
+    "classLevel": 1,
+    "specification": "SEXTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/an-olcott-overture-10392723/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -378,6 +1260,384 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "372-1-42072",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "Fantasia for Seven Trumpets",
+    "composer": "Ewazen",
+    "arranger": "",
+    "publishers": [
+      "Tripolo Press"
+    ],
+    "publisherText": "Tripolo Press",
+    "classLevel": 1,
+    "specification": "SEPTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "372-1-42058",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "Sonoran Desert Harmonies",
+    "composer": "Ewazen",
+    "arranger": "",
+    "publishers": [
+      "Tripolo Press"
+    ],
+    "publisherText": "Tripolo Press",
+    "classLevel": 1,
+    "specification": "OCTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/sonoran-desert-harmonies-10279851/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "372-1-42092",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "Assurance",
+    "composer": "Fettig",
+    "arranger": "",
+    "publishers": [
+      "Sam Fettig Music"
+    ],
+    "publisherText": "Sam Fettig Music",
+    "classLevel": 1,
+    "specification": "SEXTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/assurance-10545532e/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "372-1-42073",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "Indy Fanfare",
+    "composer": "Fettig",
+    "arranger": "",
+    "publishers": [
+      "Sam Fettig Music"
+    ],
+    "publisherText": "Sam Fettig Music",
+    "classLevel": 1,
+    "specification": "SEPTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "372-1-42075",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "Celestial",
+    "composer": "Fregoso",
+    "arranger": "",
+    "publishers": [
+      "Tripolo Press"
+    ],
+    "publisherText": "Tripolo Press",
+    "classLevel": 1,
+    "specification": "SEPTET (opt flugelhorn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/celestial-11589312e/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "372-1-42079",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "Canzon per Sonare #1 (La Spiritata)",
+    "composer": "Gabrieli",
+    "arranger": "Marlatt",
+    "publishers": [
+      "Eighth Note Publications"
+    ],
+    "publisherText": "Eighth Note Publications",
+    "classLevel": 1,
+    "specification": "SEXTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/canzon-per-sonare-1-la-spiritata-11640379/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "372-1-42080",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "Canzon per Sonare #2",
+    "composer": "Gabrieli",
+    "arranger": "Marlatt",
+    "publishers": [
+      "Eighth Note Publications"
+    ],
+    "publisherText": "Eighth Note Publications",
+    "classLevel": 1,
+    "specification": "SEXTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "372-1-42081",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "Canzon per Sonare #4",
+    "composer": "Gabrieli",
+    "arranger": "Marlatt",
+    "publishers": [
+      "Eighth Note Publications"
+    ],
+    "publisherText": "Eighth Note Publications",
+    "classLevel": 1,
+    "specification": "SEXTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "372-1-42051",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "Canzon septimi toni a 8 no. 1",
+    "composer": "Gabrieli",
+    "arranger": "Brown",
+    "publishers": [
+      "Tripolo Press"
+    ],
+    "publisherText": "Tripolo Press",
+    "classLevel": 1,
+    "specification": "OCTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "372-1-42077",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "Seven Tapas for Seven Trumpets",
+    "composer": "Gillingham",
+    "arranger": "",
+    "publishers": [
+      "C. Alan Publications"
+    ],
+    "publisherText": "C. Alan Publications",
+    "classLevel": 1,
+    "specification": "SEPTET (play Scherzo a la Rush OR any other two mvts) (opt flugelhorns)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/seven-tapas-for-seven-trumpets-10638477/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "372-1-42076",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "Mansions of the Lord",
+    "composer": "Glennie-Smith",
+    "arranger": "Villanueva",
+    "publishers": [
+      "JV Music"
+    ],
+    "publisherText": "JV Music",
+    "classLevel": 1,
+    "specification": "SEPTET (opt flugelhorn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "372-1-42070",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "Molly On The Shore",
+    "composer": "Grainger",
+    "arranger": "Melendez",
+    "publishers": [
+      "jm1230088@gmail.com"
+    ],
+    "publisherText": "jm1230088@gmail.com",
+    "classLevel": 1,
+    "specification": "OCTET (opt piccolo tpt) (opt flugelhorns)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/a-percy-grainger-suite-2353233/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "372-1-42090",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "Suite for 6 Trumpets",
+    "composer": "Grant",
+    "arranger": "",
+    "publishers": [
+      "msgrantmusic.com"
+    ],
+    "publisherText": "msgrantmusic.com",
+    "classLevel": 1,
+    "specification": "SEXTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "372-1-42082",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "Chorale for Trumpets",
+    "composer": "Green",
+    "arranger": "",
+    "publishers": [
+      "JW Pepper"
+    ],
+    "publisherText": "JW Pepper",
+    "classLevel": 1,
+    "specification": "SEXTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "372-1-42045",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "Hallelujah Chorus\u2019 from Messiah",
+    "composer": "Handel",
+    "arranger": "Ford",
+    "publishers": [
+      "Tripolo Press"
+    ],
+    "publisherText": "Tripolo Press",
+    "classLevel": 1,
+    "specification": "DECTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "372-1-42086",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "Hallelujah from Messiah",
+    "composer": "Handel",
+    "arranger": "Marlatt",
+    "publishers": [
+      "Eighth Note Publications"
+    ],
+    "publisherText": "Eighth Note Publications",
+    "classLevel": 1,
+    "specification": "SEXTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "372-1-42104",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "Water Music Mini Suite",
+    "composer": "Handel",
+    "arranger": "Marlatt",
+    "publishers": [
+      "Eighth Note Publications"
+    ],
+    "publisherText": "Eighth Note Publications",
+    "classLevel": 1,
+    "specification": "SEXTET (play any two mvts) (opt flugelhorn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "372-1-42052",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "Dormant Riverbeds",
+    "composer": "Hannon",
+    "arranger": "",
+    "publishers": [
+      "andrewhannon.com"
+    ],
+    "publisherText": "andrewhannon.com",
+    "classLevel": 1,
+    "specification": "OCTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "372-1-36094",
     "instrumentSlug": "trumpet-choir",
     "instrumentName": "Trumpet Choirs",
@@ -389,6 +1649,321 @@
       "JPM Music Publications"
     ],
     "publisherText": "JPM Music Publications",
+    "classLevel": 1,
+    "specification": "OCTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "372-1-42102",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "Seven Renaissance Intradas",
+    "composer": "Hassler",
+    "arranger": "Dziuk",
+    "publishers": [
+      "Tripolo Press"
+    ],
+    "publisherText": "Tripolo Press",
+    "classLevel": 1,
+    "specification": "SEXTET (play any four mvts)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "372-1-42088",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "Mut(e)nt",
+    "composer": "Hedwig",
+    "arranger": "",
+    "publishers": [
+      "Potenza Music"
+    ],
+    "publisherText": "Potenza Music",
+    "classLevel": 1,
+    "specification": "SEXTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "372-1-42101",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "Uddmaya",
+    "composer": "Hedwig",
+    "arranger": "",
+    "publishers": [
+      "Potenza Music"
+    ],
+    "publisherText": "Potenza Music",
+    "classLevel": 1,
+    "specification": "SEXTET (piccolo trumpet and flugel REQUIRED)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "372-1-42097",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "Forever Sky",
+    "composer": "Hobbs",
+    "arranger": "",
+    "publishers": [
+      "Tripolo Press"
+    ],
+    "publisherText": "Tripolo Press",
+    "classLevel": 1,
+    "specification": "SEXTET (opt flugelhorns)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "372-1-42121",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "Soar",
+    "composer": "Hobbs",
+    "arranger": "",
+    "publishers": [
+      "Tripolo Press"
+    ],
+    "publisherText": "Tripolo Press",
+    "classLevel": 1,
+    "specification": "QUINTET (opt pic tpt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/soar-3257003/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "372-1-42050",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "And So It Goes",
+    "composer": "Joel",
+    "arranger": "Fettig",
+    "publishers": [
+      "Sam Fettig Music"
+    ],
+    "publisherText": "Sam Fettig Music",
+    "classLevel": 1,
+    "specification": "OCTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "372-1-42093",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "Rag-Time Dance",
+    "composer": "Joplin",
+    "arranger": "Marlatt",
+    "publishers": [
+      "Tripolo Press"
+    ],
+    "publisherText": "Tripolo Press",
+    "classLevel": 1,
+    "specification": "SEXTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "372-1-42108",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "Rondo Energico",
+    "composer": "Kaisershot",
+    "arranger": "",
+    "publishers": [
+      "Eighth Note Publications"
+    ],
+    "publisherText": "Eighth Note Publications",
+    "classLevel": 1,
+    "specification": "QUINTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/rondo-energico-10370796/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "372-1-42098",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "Good Shepherd Shuffle",
+    "composer": "Lewis",
+    "arranger": "",
+    "publishers": [
+      "tigermusicstore.com"
+    ],
+    "publisherText": "tigermusicstore.com",
+    "classLevel": 1,
+    "specification": "SEXTET (opt flugelhorns)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "372-1-42114",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "Healing Prayer",
+    "composer": "Lewis",
+    "arranger": "",
+    "publishers": [
+      "tigermusicstore.com"
+    ],
+    "publisherText": "tigermusicstore.com",
+    "classLevel": 1,
+    "specification": "QUINTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "372-1-42054",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "Hosanna to the Son of David",
+    "composer": "Lewis",
+    "arranger": "",
+    "publishers": [
+      "tigermusicstore.com"
+    ],
+    "publisherText": "tigermusicstore.com",
+    "classLevel": 1,
+    "specification": "OCTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "372-1-42089",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "Seis Mambesos",
+    "composer": "Lewis",
+    "arranger": "",
+    "publishers": [
+      "tigermusicstore.com"
+    ],
+    "publisherText": "tigermusicstore.com",
+    "classLevel": 1,
+    "specification": "SEXTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/seis-mambesos-11341831/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "372-1-42109",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "Seven & Ten",
+    "composer": "Lewis",
+    "arranger": "",
+    "publishers": [
+      "tigermusicstore.com"
+    ],
+    "publisherText": "tigermusicstore.com",
+    "classLevel": 1,
+    "specification": "QUINTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "372-1-42059",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "The Lotus Eater",
+    "composer": "Lewis",
+    "arranger": "",
+    "publishers": [
+      "tigermusicstore.com"
+    ],
+    "publisherText": "tigermusicstore.com",
+    "classLevel": 1,
+    "specification": "OCTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "372-1-42062",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "An Overture and a Finale",
+    "composer": "LoPresti",
+    "arranger": "",
+    "publishers": [
+      "Tripolo Press"
+    ],
+    "publisherText": "Tripolo Press",
     "classLevel": 1,
     "specification": "OCTET",
     "noMemoryRequired": false,
@@ -420,6 +1995,132 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "372-1-42067",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "Military Marches and Airs",
+    "composer": "Lully",
+    "arranger": "Decker",
+    "publishers": [
+      "Sheet Music Direct"
+    ],
+    "publisherText": "Sheet Music Direct",
+    "classLevel": 1,
+    "specification": "OCTET (opt perc)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "372-1-42057",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "Mahler Symphony 1, Mvt. 4 (Highlights)",
+    "composer": "Mahler",
+    "arranger": "Fettig",
+    "publishers": [
+      "Sam Fettig Music"
+    ],
+    "publisherText": "Sam Fettig Music",
+    "classLevel": 1,
+    "specification": "OCTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "372-1-42096",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "Festival of Lights",
+    "composer": "Marlatt",
+    "arranger": "",
+    "publishers": [
+      "Tripolo Press"
+    ],
+    "publisherText": "Tripolo Press",
+    "classLevel": 1,
+    "specification": "SEXTET (opt flugelhorns)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "372-1-42095",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "Groovy Vamp",
+    "composer": "Marlatt",
+    "arranger": "",
+    "publishers": [
+      "Tripolo Press"
+    ],
+    "publisherText": "Tripolo Press",
+    "classLevel": 1,
+    "specification": "SEXTET (opt flugelhorn, opt perc)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/groovy-vamp-11544454/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "372-1-42084",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "Durrenhorn",
+    "composer": "McKee",
+    "arranger": "",
+    "publishers": [
+      "Balquihidder"
+    ],
+    "publisherText": "Balquihidder",
+    "classLevel": 1,
+    "specification": "SEXTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "372-1-42068",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "Into the Blue",
+    "composer": "McKee",
+    "arranger": "",
+    "publishers": [
+      "Kevin McKee Music"
+    ],
+    "publisherText": "Kevin McKee Music",
+    "classLevel": 1,
+    "specification": "OCTET (opt pic tpt) (opt flugelhorn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "372-1-38688",
     "instrumentSlug": "trumpet-choir",
     "instrumentName": "Trumpet Choirs",
@@ -439,6 +2140,69 @@
     "sheetMusicAffiliateUrl": null,
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "372-1-42106",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "Celestial Dance",
+    "composer": "Morales",
+    "arranger": "",
+    "publishers": [
+      "MoralesMusic.com"
+    ],
+    "publisherText": "MoralesMusic.com",
+    "classLevel": 1,
+    "specification": "QUINTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "372-1-42122",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "Cityscapes",
+    "composer": "Morales",
+    "arranger": "",
+    "publishers": [
+      "MoralesMusic.com"
+    ],
+    "publisherText": "MoralesMusic.com",
+    "classLevel": 1,
+    "specification": "QUINTET (play 2nd mvt PLUS one more)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/cityscapes-10470199/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "372-1-42083",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "Conquest",
+    "composer": "Morales",
+    "arranger": "",
+    "publishers": [
+      "MoralesMusic.com"
+    ],
+    "publisherText": "MoralesMusic.com",
+    "classLevel": 1,
+    "specification": "SEXTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/conquest-2473993/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
     "uilCode": "372-1-36095",
@@ -462,6 +2226,195 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "372-1-42055",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "Infinite Ascent",
+    "composer": "Morales",
+    "arranger": "",
+    "publishers": [
+      "MoralesMusic.com"
+    ],
+    "publisherText": "MoralesMusic.com",
+    "classLevel": 1,
+    "specification": "OCTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "372-1-42117",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "Path of Discovery",
+    "composer": "Morales",
+    "arranger": "",
+    "publishers": [
+      "MoralesMusic.com"
+    ],
+    "publisherText": "MoralesMusic.com",
+    "classLevel": 1,
+    "specification": "QUINTET (opt flugelhorn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "372-1-42120",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "Seven for Five",
+    "composer": "Morales",
+    "arranger": "",
+    "publishers": [
+      "MoralesMusic.com"
+    ],
+    "publisherText": "MoralesMusic.com",
+    "classLevel": 1,
+    "specification": "QUINTET (opt pic tpt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "372-1-42061",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "Through Space and Time",
+    "composer": "Morales",
+    "arranger": "",
+    "publishers": [
+      "MoralesMusic.com"
+    ],
+    "publisherText": "MoralesMusic.com",
+    "classLevel": 1,
+    "specification": "OCTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "372-1-42112",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "X1",
+    "composer": "Morales",
+    "arranger": "",
+    "publishers": [
+      "MoralesMusic.com"
+    ],
+    "publisherText": "MoralesMusic.com",
+    "classLevel": 1,
+    "specification": "QUINTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "372-1-42060",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "The Magic Flute Overture",
+    "composer": "Mozart",
+    "arranger": "DeGoti",
+    "publishers": [
+      "JPM Music Publications"
+    ],
+    "publisherText": "JPM Music Publications",
+    "classLevel": 1,
+    "specification": "OCTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "372-1-42115",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "Amazing Grace",
+    "composer": "Newton",
+    "arranger": "Grant",
+    "publishers": [
+      "msgrantmusic.com"
+    ],
+    "publisherText": "msgrantmusic.com",
+    "classLevel": 1,
+    "specification": "QUINTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "372-1-42046",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "The Standard",
+    "composer": "Olcott",
+    "arranger": "",
+    "publishers": [
+      "Tripolo Press"
+    ],
+    "publisherText": "Tripolo Press",
+    "classLevel": 1,
+    "specification": "DECTET (opt flugelhorn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "372-1-42048",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "Trumpets Take Texas",
+    "composer": "Olcott",
+    "arranger": "",
+    "publishers": [
+      "Tripolo Press"
+    ],
+    "publisherText": "Tripolo Press",
+    "classLevel": 1,
+    "specification": "DECTET (opt pic tpt) (opt flugelhorn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "372-1-36096",
     "instrumentSlug": "trumpet-choir",
     "instrumentName": "Trumpet Choirs",
@@ -475,6 +2428,153 @@
     "publisherText": "assignmentearth@gmail.com",
     "classLevel": 1,
     "specification": "TEN",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "372-1-42056",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "Intrada Dramatica",
+    "composer": "Price",
+    "arranger": "",
+    "publishers": [
+      "Tripolo Press"
+    ],
+    "publisherText": "Tripolo Press",
+    "classLevel": 1,
+    "specification": "OCTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "372-1-42085",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "Fanspherical Flourishes",
+    "composer": "Reuter",
+    "arranger": "",
+    "publishers": [
+      "Tripolo Press"
+    ],
+    "publisherText": "Tripolo Press",
+    "classLevel": 1,
+    "specification": "SEXTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "372-1-42099",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "The Barber of Seville Overture",
+    "composer": "Rossini",
+    "arranger": "Morales",
+    "publishers": [
+      "MoralesMusic.com"
+    ],
+    "publisherText": "MoralesMusic.com",
+    "classLevel": 1,
+    "specification": "SEXTET (opt flugelhorns)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "372-1-42118",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "William Tell Overture",
+    "composer": "Rossini",
+    "arranger": "Marlatt",
+    "publishers": [
+      "Eighth Note Publications"
+    ],
+    "publisherText": "Eighth Note Publications",
+    "classLevel": 1,
+    "specification": "QUINTET (opt flugelhorn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/rudimental-rossini-5991021/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "372-1-42111",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "Sun and Stone",
+    "composer": "Santiago",
+    "arranger": "Lopes & Santiago",
+    "publishers": [
+      "Tripolo Press"
+    ],
+    "publisherText": "Tripolo Press",
+    "classLevel": 1,
+    "specification": "QUINTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "372-1-42119",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "Outono Perdido",
+    "composer": "Santos",
+    "arranger": "",
+    "publishers": [
+      "Sheet Music Plus Press"
+    ],
+    "publisherText": "Sheet Music Plus Press",
+    "classLevel": 1,
+    "specification": "QUINTET (flugelhorns REQUIRED)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "372-1-42094",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "\u00c0s Quarentonas de Quarentena",
+    "composer": "Santos",
+    "arranger": "",
+    "publishers": [
+      "Sheet Music Direct"
+    ],
+    "publisherText": "Sheet Music Direct",
+    "classLevel": 1,
+    "specification": "SEXTET (opt ad lib percussion)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -504,6 +2604,90 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "372-1-42065",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "The Stars and Stripes and Stripes Forever",
+    "composer": "Sousa",
+    "arranger": "Villanueva",
+    "publishers": [
+      "JV Music"
+    ],
+    "publisherText": "JV Music",
+    "classLevel": 1,
+    "specification": "OCTET (opt flugelhorn) (opt perc)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "372-1-42049",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "Fanfare Stadt Wien",
+    "composer": "Strauss",
+    "arranger": "Huff",
+    "publishers": [
+      "Eighth Note Publications"
+    ],
+    "publisherText": "Eighth Note Publications",
+    "classLevel": 1,
+    "specification": "NONET (opt flugelhorn) (opt perc)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/fanfare-stadt-wien-10455209/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "372-1-42103",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "Susato Dance Suite from Danserye",
+    "composer": "Susato",
+    "arranger": "Marlatt",
+    "publishers": [
+      "Tripolo Press"
+    ],
+    "publisherText": "Tripolo Press",
+    "classLevel": 1,
+    "specification": "SEXTET (play any four mvts) (opt flugelhorn) (optional perc)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "372-1-42063",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "Three Susato Dances from The Danserye",
+    "composer": "Susato",
+    "arranger": "Marlatt",
+    "publishers": [
+      "Eighth Note Publications"
+    ],
+    "publisherText": "Eighth Note Publications",
+    "classLevel": 1,
+    "specification": "OCTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/three-susato-dances-from-danserye-10393782/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "372-1-25390",
     "instrumentSlug": "trumpet-choir",
     "instrumentName": "Trumpet Choirs",
@@ -525,19 +2709,61 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
-    "uilCode": "372-1-36111",
+    "uilCode": "372-1-42113",
     "instrumentSlug": "trumpet-choir",
     "instrumentName": "Trumpet Choirs",
     "eventName": "Trumpet Choir",
-    "title": "Festival Fanfare",
-    "composer": "Turrin",
+    "title": "Heroic Suite",
+    "composer": "Telemann",
+    "arranger": "Marlatt",
+    "publishers": [
+      "Eighth Note Publications"
+    ],
+    "publisherText": "Eighth Note Publications",
+    "classLevel": 1,
+    "specification": "QUINTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/heroic-suite-9539875/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "372-1-42047",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "Shenandoah",
+    "composer": "Traditional",
+    "arranger": "Olcott",
+    "publishers": [
+      "Tripolo Press"
+    ],
+    "publisherText": "Tripolo Press",
+    "classLevel": 1,
+    "specification": "DECTET (opt flugelhorn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/shenandoah-3304609/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "372-1-42091",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "Fanfare for the International Trumpet Guild",
+    "composer": "Uber",
     "arranger": "",
     "publishers": [
-      "jturrin@josephturrin.com"
+      "Tripolo Press"
     ],
-    "publisherText": "jturrin@josephturrin.com",
+    "publisherText": "Tripolo Press",
     "classLevel": 1,
-    "specification": "OCTET (opt percussion)",
+    "specification": "SEXTET",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -546,19 +2772,103 @@
     "sheetMusicAffiliateSource": null
   },
   {
-    "uilCode": "372-1-36112",
+    "uilCode": "372-1-42066",
     "instrumentSlug": "trumpet-choir",
     "instrumentName": "Trumpet Choirs",
     "eventName": "Trumpet Choir",
-    "title": "Labyrinth for Eight Trumpets",
-    "composer": "Turrin",
+    "title": "Tuba Mirum Fanfare from Requiem",
+    "composer": "Verdi",
+    "arranger": "Decker",
+    "publishers": [
+      "Sheet Music Direct"
+    ],
+    "publisherText": "Sheet Music Direct",
+    "classLevel": 1,
+    "specification": "OCTET (opt perc)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "372-1-42071",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "Carolina Palisades",
+    "composer": "Wilborn",
     "arranger": "",
     "publishers": [
-      "jturrin@josephturrin.com"
+      "C. Alan Publications"
     ],
-    "publisherText": "jturrin@josephturrin.com",
+    "publisherText": "C. Alan Publications",
     "classLevel": 1,
-    "specification": "OCTET (flugelhorns opt)",
+    "specification": "SEPTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/carolina-palisades-11596507/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "372-1-42087",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "Ice Town",
+    "composer": "d'Ambrosio",
+    "arranger": "",
+    "publishers": [
+      "Tripolo Press"
+    ],
+    "publisherText": "Tripolo Press",
+    "classLevel": 1,
+    "specification": "SEXTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "372-1-42123",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "Fantasia Brasileria",
+    "composer": "de Silva",
+    "arranger": "Engelke",
+    "publishers": [
+      "Tripolo Press"
+    ],
+    "publisherText": "Tripolo Press",
+    "classLevel": 1,
+    "specification": "QUINTET (play any two mvts)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "372-1-42124",
+    "instrumentSlug": "trumpet-choir",
+    "instrumentName": "Trumpet Choirs",
+    "eventName": "Trumpet Choir",
+    "title": "Fantasia Pernambucana",
+    "composer": "de Silva",
+    "arranger": "Sim\u00f5es",
+    "publishers": [
+      "Tripolo Press"
+    ],
+    "publisherText": "Tripolo Press",
+    "classLevel": 1,
+    "specification": "QUINTET (play any two mvts) (opt flugelhorns)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,

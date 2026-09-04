@@ -240,6 +240,101 @@
     "lastAttempted": "2026-03-28T14:17:41.185018+00:00",
     "matched": false
   },
+  "347-1-42006": {
+    "lastAttempted": "2026-09-04T16:52:40.553101+00:00",
+    "matched": false
+  },
+  "347-1-42007": {
+    "lastAttempted": "2026-09-04T16:52:39.128365+00:00",
+    "matched": false
+  },
+  "347-1-42008": {
+    "lastAttempted": "2026-09-04T16:52:38.172483+00:00",
+    "matched": false
+  },
+  "347-1-42009": {
+    "lastAttempted": "2026-09-04T16:52:39.115681+00:00",
+    "matched": false
+  },
+  "347-1-42010": {
+    "lastAttempted": "2026-09-04T16:52:39.678941+00:00",
+    "matched": false
+  },
+  "347-1-42011": {
+    "lastAttempted": "2026-09-04T16:52:39.067177+00:00",
+    "matched": false
+  },
+  "347-1-42012": {
+    "lastAttempted": "2026-09-04T16:52:39.528671+00:00",
+    "matched": false
+  },
+  "347-1-42013": {
+    "lastAttempted": "2026-09-04T16:52:39.834278+00:00",
+    "matched": true,
+    "source": "JW Pepper link"
+  },
+  "347-1-42014": {
+    "lastAttempted": "2026-09-04T16:52:40.750939+00:00",
+    "matched": true,
+    "source": "JW Pepper link"
+  },
+  "347-1-42015": {
+    "lastAttempted": "2026-09-04T16:52:38.727892+00:00",
+    "matched": false
+  },
+  "347-1-42016": {
+    "lastAttempted": "2026-09-04T16:52:42.099923+00:00",
+    "matched": false
+  },
+  "347-1-42017": {
+    "lastAttempted": "2026-09-04T16:52:39.186664+00:00",
+    "matched": true,
+    "source": "JW Pepper link"
+  },
+  "347-1-42018": {
+    "lastAttempted": "2026-09-04T16:52:40.562082+00:00",
+    "matched": true,
+    "source": "JW Pepper link"
+  },
+  "347-1-42019": {
+    "lastAttempted": "2026-09-04T16:52:39.627317+00:00",
+    "matched": true,
+    "source": "JW Pepper link"
+  },
+  "347-1-42020": {
+    "lastAttempted": "2026-09-04T16:52:31.557919+00:00",
+    "matched": true,
+    "source": "JW Pepper link"
+  },
+  "347-1-42021": {
+    "lastAttempted": "2026-09-04T16:52:39.643713+00:00",
+    "matched": false
+  },
+  "347-1-42022": {
+    "lastAttempted": "2026-09-04T16:52:42.282299+00:00",
+    "matched": false
+  },
+  "347-1-42023": {
+    "lastAttempted": "2026-09-04T16:52:40.589958+00:00",
+    "matched": false
+  },
+  "347-1-42024": {
+    "lastAttempted": "2026-09-04T16:52:32.063533+00:00",
+    "matched": true,
+    "source": "JW Pepper link"
+  },
+  "347-1-42025": {
+    "lastAttempted": "2026-09-04T16:52:40.336812+00:00",
+    "matched": false
+  },
+  "347-1-42026": {
+    "lastAttempted": "2026-09-04T16:52:39.872621+00:00",
+    "matched": false
+  },
+  "347-1-42175": {
+    "lastAttempted": "2026-09-04T16:52:38.702414+00:00",
+    "matched": false
+  },
   "347-2-14186": {
     "lastAttempted": "2026-03-28T14:17:07.702382+00:00",
     "matched": true,
@@ -427,6 +522,10 @@
     "matched": true,
     "source": "JW Pepper link"
   },
+  "347-2-42027": {
+    "lastAttempted": "2026-09-04T16:52:40.891890+00:00",
+    "matched": false
+  },
   "347-3-14205": {
     "lastAttempted": "2026-03-28T14:17:12.014486+00:00",
     "matched": true,
@@ -508,5 +607,9 @@
     "lastAttempted": "2026-03-28T14:17:41.540101+00:00",
     "matched": true,
     "source": "JW Pepper link"
+  },
+  "347-3-42028": {
+    "lastAttempted": "2026-09-04T16:52:41.370378+00:00",
+    "matched": false
   }
 }

@@ -4823,6 +4823,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "460-1-42172",
+    "instrumentSlug": "misc-string-ensemble",
+    "instrumentName": "Miscellaneous String Ensembles",
+    "eventName": "Miscellaneous String Ensemble",
+    "title": "Souvenir de Florence",
+    "composer": "Tchaikovsky",
+    "arranger": "",
+    "publishers": [
+      "Any Publisher"
+    ],
+    "publisherText": "Any Publisher",
+    "classLevel": 1,
+    "specification": "(sextet: 2 vn, 2va, 2 cellos) (play one mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/souvenir-de-florence-2480200/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "460-1-25704",
     "instrumentSlug": "misc-string-ensemble",
     "instrumentName": "Miscellaneous String Ensembles",

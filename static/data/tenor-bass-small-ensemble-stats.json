@@ -5,7 +5,7 @@
   "songCount": 96,
   "publisherCount": 105,
   "noteCount": 1,
-  "databaseRecordCount": 97,
+  "databaseRecordCount": 96,
   "classBreakdown": {
     "3": 25,
     "2": 34,
@@ -17,6 +17,6 @@
     "Tenor-Bass Small Ensemble": 96
   },
   "notes": {
-    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-03-28T15:07:48.443728+00:00."
+    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-09-04T16:54:24.287377+00:00."
   }
 }

@@ -5,7 +5,7 @@
   "songCount": 114,
   "publisherCount": 115,
   "noteCount": 1,
-  "databaseRecordCount": 115,
+  "databaseRecordCount": 114,
   "classBreakdown": {
     "3": 40,
     "2": 39,
@@ -17,6 +17,6 @@
     "Euphonium-Baritone Trio": 114
   },
   "notes": {
-    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-03-28T15:07:47.886268+00:00."
+    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-09-04T16:52:23.986356+00:00."
   }
 }

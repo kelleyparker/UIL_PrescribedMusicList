@@ -483,6 +483,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "204-1-41792",
+    "instrumentSlug": "english-horn",
+    "instrumentName": "English Horn Solos",
+    "eventName": "English Horn Solo",
+    "title": "Ray of Light",
+    "composer": "Kuo",
+    "arranger": "",
+    "publishers": [
+      "Electric Violin Music"
+    ],
+    "publisherText": "Electric Violin Music",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "204-1-10526",
     "instrumentSlug": "english-horn",
     "instrumentName": "English Horn Solos",

@@ -5,7 +5,7 @@
   "songCount": 287,
   "publisherCount": 312,
   "noteCount": 1,
-  "databaseRecordCount": 288,
+  "databaseRecordCount": 287,
   "classBreakdown": {
     "3": 50,
     "2": 62,
@@ -17,6 +17,6 @@
     "Acoustical Guitar Solo": 287
   },
   "notes": {
-    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-03-28T15:07:48.080293+00:00."
+    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-09-04T16:53:07.121378+00:00."
   }
 }

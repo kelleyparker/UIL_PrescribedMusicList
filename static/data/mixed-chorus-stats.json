@@ -2,24 +2,24 @@
   "schoolYear": "2025-2026",
   "instrumentSlug": "mixed-chorus",
   "instrumentName": "Mixed Choruses",
-  "songCount": 1646,
-  "publisherCount": 1729,
+  "songCount": 1738,
+  "publisherCount": 1821,
   "noteCount": 1,
-  "databaseRecordCount": 1647,
+  "databaseRecordCount": 1738,
   "classBreakdown": {
-    "6": 67,
-    "5": 526,
-    "4": 446,
-    "3": 346,
-    "2": 192,
+    "6": 69,
+    "5": 546,
+    "4": 477,
+    "3": 378,
+    "2": 199,
     "1": 69
   },
   "noMemoryRequiredCount": 0,
   "publicDomainPdfCount": 0,
   "eventBreakdown": {
-    "Mixed Chorus": 1646
+    "Mixed Chorus": 1738
   },
   "notes": {
-    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-03-28T15:13:40.347690+00:00."
+    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-09-04T16:57:17.162906+00:00."
   }
 }

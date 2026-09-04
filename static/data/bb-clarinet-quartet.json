@@ -2100,27 +2100,6 @@
     "sheetMusicAffiliateSource": null
   },
   {
-    "uilCode": "243-1-11807",
-    "instrumentSlug": "bb-clarinet-quartet",
-    "instrumentName": "Bb Clarinet Quartets",
-    "eventName": "Bb Clarinet Quartet",
-    "title": "Clarinet Quartet No. 1",
-    "composer": "Endresen",
-    "arranger": "",
-    "publishers": [
-      "Belwin, Inc"
-    ],
-    "publisherText": "Belwin, Inc",
-    "classLevel": 1,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": null,
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": null
-  },
-  {
     "uilCode": "243-1-11808",
     "instrumentSlug": "bb-clarinet-quartet",
     "instrumentName": "Bb Clarinet Quartets",
@@ -2134,27 +2113,6 @@
     "publisherText": "Associated Music Publishers Inc.",
     "classLevel": 1,
     "specification": "(play two mvts)",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": null,
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": null
-  },
-  {
-    "uilCode": "243-1-11809",
-    "instrumentSlug": "bb-clarinet-quartet",
-    "instrumentName": "Bb Clarinet Quartets",
-    "eventName": "Bb Clarinet Quartet",
-    "title": "Four Conversations",
-    "composer": "Green",
-    "arranger": "",
-    "publishers": [
-      "Associated Music Publishers Inc."
-    ],
-    "publisherText": "Associated Music Publishers Inc.",
-    "classLevel": 1,
-    "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -2293,7 +2251,7 @@
     "instrumentSlug": "bb-clarinet-quartet",
     "instrumentName": "Bb Clarinet Quartets",
     "eventName": "Bb Clarinet Quartet",
-    "title": "American Sketches",
+    "title": "American Sketch",
     "composer": "McKay",
     "arranger": "",
     "publishers": [

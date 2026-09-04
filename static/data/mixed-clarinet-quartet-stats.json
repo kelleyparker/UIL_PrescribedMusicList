@@ -5,11 +5,11 @@
   "songCount": 127,
   "publisherCount": 127,
   "noteCount": 1,
-  "databaseRecordCount": 128,
+  "databaseRecordCount": 127,
   "classBreakdown": {
     "3": 20,
-    "2": 40,
-    "1": 67
+    "2": 41,
+    "1": 66
   },
   "noMemoryRequiredCount": 0,
   "publicDomainPdfCount": 0,
@@ -17,6 +17,6 @@
     "Mixed Clarinet Quartet": 127
   },
   "notes": {
-    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-03-28T15:07:47.807837+00:00."
+    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-09-04T16:49:33.079381+00:00."
   }
 }

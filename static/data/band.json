@@ -105,6 +105,27 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "100-5-41443",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "How The Old Mountains Drip With Sunset",
+    "composer": "Armstrong",
+    "arranger": "",
+    "publishers": [
+      "Claude T. Smith Publications"
+    ],
+    "publisherText": "Claude T. Smith Publications",
+    "classLevel": 5,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/how-the-old-mountains-drip-with-sunset-11575813/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "100-5-15692",
     "instrumentSlug": "band",
     "instrumentName": "Band Literature",
@@ -208,6 +229,27 @@
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/tam-o-shanter-4056545/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "100-5-41444",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "An Expression Of Joy",
+    "composer": "Asanger",
+    "arranger": "",
+    "publishers": [
+      "Tierolff Muziekcentrale"
+    ],
+    "publisherText": "Tierolff Muziekcentrale",
+    "classLevel": 5,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
   },
   {
     "uilCode": "100-5-15697",
@@ -1959,6 +2001,48 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "100-5-41445",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "Notre-Dame De Bayeux",
+    "composer": "Chantry",
+    "arranger": "",
+    "publishers": [
+      "Tierolff Muziekcentrale"
+    ],
+    "publisherText": "Tierolff Muziekcentrale",
+    "classLevel": 5,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/notre-dame-de-bayeux-11687231/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "100-5-41446",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "808 Classified",
+    "composer": "Charoensri",
+    "arranger": "",
+    "publishers": [
+      "Murphy Music Press"
+    ],
+    "publisherText": "Murphy Music Press",
+    "classLevel": 5,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/808-classified-11665031/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "100-5-39254",
     "instrumentSlug": "band",
     "instrumentName": "Band Literature",
@@ -2232,6 +2316,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "100-5-41447",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "Mariachitlan",
+    "composer": "Contreras",
+    "arranger": "",
+    "publishers": [
+      "Juan Pablo Contreras"
+    ],
+    "publisherText": "Juan Pablo Contreras",
+    "classLevel": 5,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "100-5-40388",
     "instrumentSlug": "band",
     "instrumentName": "Band Literature",
@@ -2419,6 +2524,27 @@
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/gazebo-dances-5001243/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "100-5-41448",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "Symphony No.1",
+    "composer": "Cravens",
+    "arranger": "",
+    "publishers": [
+      "JW Pepper"
+    ],
+    "publisherText": "JW Pepper",
+    "classLevel": 5,
+    "specification": "(play third mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
   },
   {
     "uilCode": "100-5-15737",
@@ -3010,6 +3136,27 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "100-5-41450",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "Fantasy of Colors",
+    "composer": "Dooley",
+    "arranger": "",
+    "publishers": [
+      "Paul Dooley Music"
+    ],
+    "publisherText": "Paul Dooley Music",
+    "classLevel": 5,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "100-5-34909",
     "instrumentSlug": "band",
     "instrumentName": "Band Literature",
@@ -3385,6 +3532,27 @@
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/elgar-gold-10026875/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "100-5-41451",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "Manx Dances",
+    "composer": "Ellerby",
+    "arranger": "",
+    "publishers": [
+      "Cane River Music"
+    ],
+    "publisherText": "Cane River Music",
+    "classLevel": 5,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/manx-dances-11634582/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -4040,6 +4208,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "100-5-41452",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "TULSA: A Symphonic Portrait in Oil",
+    "composer": "Gillis",
+    "arranger": "Ford",
+    "publishers": [
+      "LudwigMasters Publications"
+    ],
+    "publisherText": "LudwigMasters Publications",
+    "classLevel": 5,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/tulsa-953299/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "100-5-40406",
     "instrumentSlug": "band",
     "instrumentName": "Band Literature",
@@ -4375,6 +4564,27 @@
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/colonial-song-2375798/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "100-5-41453",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "English Dances",
+    "composer": "Grainger",
+    "arranger": "Patterson",
+    "publishers": [
+      "Merlin Patterson Music"
+    ],
+    "publisherText": "Merlin Patterson Music",
+    "classLevel": 5,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/grainger-threesome-10288338/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -4867,6 +5077,27 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "100-5-41454",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "The Moon Glistens",
+    "composer": "Greene",
+    "arranger": "",
+    "publishers": [
+      "Murphy Music Press"
+    ],
+    "publisherText": "Murphy Music Press",
+    "classLevel": 5,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/the-moon-glistens-11574108/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "100-5-15768",
     "instrumentSlug": "band",
     "instrumentName": "Band Literature",
@@ -5119,6 +5350,27 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "100-5-41455",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "Ludvik",
+    "composer": "Hayman",
+    "arranger": "",
+    "publishers": [
+      "Manhattan Beach Music"
+    ],
+    "publisherText": "Manhattan Beach Music",
+    "classLevel": 5,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/ludvik-11300074/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "100-5-28224",
     "instrumentSlug": "band",
     "instrumentName": "Band Literature",
@@ -5347,6 +5599,27 @@
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/concerto-for-the-rebirth-of-spring-5385018/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "100-5-41456",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "Liturgical Dances",
+    "composer": "Holsinger",
+    "arranger": "",
+    "publishers": [
+      "Southern Music Company"
+    ],
+    "publisherText": "Southern Music Company",
+    "classLevel": 5,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/symphonic-wind-music-of-holsinger-vol-1-5427836/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -5600,6 +5873,27 @@
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/the-planets-10497918/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "100-5-41458",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "Motherless Child",
+    "composer": "Horne",
+    "arranger": "",
+    "publishers": [
+      "Murphy Music Press"
+    ],
+    "publisherText": "Murphy Music Press",
+    "classLevel": 5,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/motherless-child-3700245/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -6045,6 +6339,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "100-5-41457",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "Variations on a Tango",
+    "composer": "Kindred",
+    "arranger": "",
+    "publishers": [
+      "RBC Publications"
+    ],
+    "publisherText": "RBC Publications",
+    "classLevel": 5,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/of-kindred-minds-11584591/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "100-5-15802",
     "instrumentSlug": "band",
     "instrumentName": "Band Literature",
@@ -6146,6 +6461,27 @@
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/lost-gulch-lookout-11616935/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "100-5-41459",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "Bury and Rise",
+    "composer": "Likhuta",
+    "arranger": "",
+    "publishers": [
+      "Murphy Music Press"
+    ],
+    "publisherText": "Murphy Music Press",
+    "classLevel": 5,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/bury-and-rise-11664995/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -6612,6 +6948,27 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "100-5-41460",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "Symphony No. 1 Finale",
+    "composer": "Mahler",
+    "arranger": "Schneider",
+    "publishers": [
+      "Ayotte Custom Musical Engravings"
+    ],
+    "publisherText": "Ayotte Custom Musical Engravings",
+    "classLevel": 5,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "100-5-15807",
     "instrumentSlug": "band",
     "instrumentName": "Band Literature",
@@ -6822,6 +7179,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "100-5-41461",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "Tidal Forces",
+    "composer": "Markowski",
+    "arranger": "",
+    "publishers": [
+      "Manhattan Beach Music"
+    ],
+    "publisherText": "Manhattan Beach Music",
+    "classLevel": 5,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/tidal-forces-10191914/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "100-5-30155",
     "instrumentSlug": "band",
     "instrumentName": "Band Literature",
@@ -6841,6 +7219,27 @@
     "sheetMusicAffiliateUrl": null,
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "100-5-41462",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "Normandy 1944",
+    "composer": "Martin",
+    "arranger": "",
+    "publishers": [
+      "Southern Music Company"
+    ],
+    "publisherText": "Southern Music Company",
+    "classLevel": 5,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/normandy-1944-11624535/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
     "uilCode": "100-5-28179",
@@ -7074,6 +7473,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "100-5-41463",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "Wind of Provence",
+    "composer": "Matsuda",
+    "arranger": "",
+    "publishers": [
+      "Print Gakufu"
+    ],
+    "publisherText": "Print Gakufu",
+    "classLevel": 5,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "100-5-33128",
     "instrumentSlug": "band",
     "instrumentName": "Band Literature",
@@ -7187,11 +7607,11 @@
     "composer": "Menotti",
     "arranger": "Lang",
     "publishers": [
-      "POP"
+      "G. Schirmer, Inc."
     ],
-    "publisherText": "POP",
+    "publisherText": "G. Schirmer, Inc.",
     "classLevel": 5,
-    "specification": "(POP)",
+    "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -7389,6 +7809,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "100-5-41464",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "Ceres",
+    "composer": "Muck",
+    "arranger": "",
+    "publishers": [
+      "Tierolff Muziekcentrale"
+    ],
+    "publisherText": "Tierolff Muziekcentrale",
+    "classLevel": 5,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/ceres-11687207/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "100-5-39252",
     "instrumentSlug": "band",
     "instrumentName": "Band Literature",
@@ -7492,6 +7933,27 @@
     "sheetMusicAffiliateUrl": null,
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "100-5-41465",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "Legacies",
+    "composer": "Needham",
+    "arranger": "",
+    "publishers": [
+      "Manhattan Beach Music"
+    ],
+    "publisherText": "Manhattan Beach Music",
+    "classLevel": 5,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/legacies-10191485/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
     "uilCode": "100-5-15816",
@@ -8629,6 +9091,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "100-5-41466",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "Huntingtower Ballad",
+    "composer": "Respighi",
+    "arranger": "Suzuki",
+    "publishers": [
+      "Brain Music"
+    ],
+    "publisherText": "Brain Music",
+    "classLevel": 5,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/huntingtower-ballad-2700592/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "100-5-15841",
     "instrumentSlug": "band",
     "instrumentName": "Band Literature",
@@ -9097,6 +9580,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "100-5-41467",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "Be Glad Then, America",
+    "composer": "Schuman",
+    "arranger": "",
+    "publishers": [
+      "Theodore Presser Company"
+    ],
+    "publisherText": "Theodore Presser Company",
+    "classLevel": 5,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/william-schuman-10018863/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "100-5-15858",
     "instrumentSlug": "band",
     "instrumentName": "Band Literature",
@@ -9433,6 +9937,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "100-5-41468",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "Festival Variations",
+    "composer": "Smith",
+    "arranger": "",
+    "publishers": [
+      "Claude T. Smith Publications"
+    ],
+    "publisherText": "Claude T. Smith Publications",
+    "classLevel": 5,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/fort-smith-celebration-2376325/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "100-5-39300",
     "instrumentSlug": "band",
     "instrumentName": "Band Literature",
@@ -9660,6 +10185,27 @@
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/unbroken-11419207/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "100-5-41469",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "Montreal at Night",
+    "composer": "Stempien",
+    "arranger": "",
+    "publishers": [
+      "Murphy Music Press"
+    ],
+    "publisherText": "Murphy Music Press",
+    "classLevel": 5,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/montreal-at-night-11665007/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -11750,6 +12296,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "100-5-41449",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "Los Libros Olvidados",
+    "composer": "de Meij",
+    "arranger": "",
+    "publishers": [
+      "Amstel Music"
+    ],
+    "publisherText": "Amstel Music",
+    "classLevel": 5,
+    "specification": "(play at least four mvts)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/los-libros-olvidados-11695571/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "100-4-25205",
     "instrumentSlug": "band",
     "instrumentName": "Band Literature",
@@ -11851,6 +12418,27 @@
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/ceremonial-2477992/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "100-4-41401",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "Blue Collar Breakdown",
+    "composer": "Arcari",
+    "arranger": "",
+    "publishers": [
+      "Excelcia"
+    ],
+    "publisherText": "Excelcia",
+    "classLevel": 4,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/blue-collar-breakdown-11615075/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -11971,6 +12559,27 @@
       "Carl Fischer, Inc."
     ],
     "publisherText": "Carl Fischer, Inc.",
+    "classLevel": 4,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "100-4-41402",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "In Motion",
+    "composer": "Artau",
+    "arranger": "",
+    "publishers": [
+      "Randall Standridge Music"
+    ],
+    "publisherText": "Randall Standridge Music",
     "classLevel": 4,
     "specification": "",
     "noMemoryRequired": false,
@@ -12485,6 +13094,48 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "100-4-41403",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "With You",
+    "composer": "Balmages",
+    "arranger": "",
+    "publishers": [
+      "MakeMusic Publications"
+    ],
+    "publisherText": "MakeMusic Publications",
+    "classLevel": 4,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "100-4-41404",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "Woodlands Overture",
+    "composer": "Balmages",
+    "arranger": "",
+    "publishers": [
+      "MakeMusic Publications"
+    ],
+    "publisherText": "MakeMusic Publications",
+    "classLevel": 4,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/woodlands-overture-11616351/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "100-4-40334",
     "instrumentSlug": "band",
     "instrumentName": "Band Literature",
@@ -12523,6 +13174,48 @@
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/best-of-james-barnes-no-3-2701589/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "100-4-41405",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "Dramatic Overture",
+    "composer": "Barnes",
+    "arranger": "",
+    "publishers": [
+      "Southern Music Company"
+    ],
+    "publisherText": "Southern Music Company",
+    "classLevel": 4,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/dramatic-overture-11624524/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "100-4-41406",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "Elegy in the Baroque Style",
+    "composer": "Barnes",
+    "arranger": "",
+    "publishers": [
+      "Southern Music Company"
+    ],
+    "publisherText": "Southern Music Company",
+    "classLevel": 4,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/best-of-james-barnes-no-1-5977730/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -12628,6 +13321,27 @@
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/mangulina-2480948/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "100-4-41407",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "Festival De la Homiga de Fuego",
+    "composer": "Beck",
+    "arranger": "",
+    "publishers": [
+      "Alfred Music Company, Inc."
+    ],
+    "publisherText": "Alfred Music Company, Inc.",
+    "classLevel": 4,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/festival-11616380/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -12748,6 +13462,27 @@
       "Katherine Bergman Music/Murphy Music Press"
     ],
     "publisherText": "Katherine Bergman Music/Murphy Music Press",
+    "classLevel": 4,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "100-4-41408",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "Symphonic Stories",
+    "composer": "Bernotas",
+    "arranger": "",
+    "publishers": [
+      "Alfred Music Company, Inc."
+    ],
+    "publisherText": "Alfred Music Company, Inc.",
     "classLevel": 4,
     "specification": "",
     "noMemoryRequired": false,
@@ -12925,6 +13660,48 @@
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/vulnerable-joy-11524263/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "100-4-41409",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "From Sand To Sky",
+    "composer": "Blankenship",
+    "arranger": "",
+    "publishers": [
+      "Claude T. Smith Publications"
+    ],
+    "publisherText": "Claude T. Smith Publications",
+    "classLevel": 4,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "100-4-41410",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "Intermezzo from the opera \"Im Brunnen\"",
+    "composer": "Blodek",
+    "arranger": "van der Beek",
+    "publishers": [
+      "Tierolff Muziekcentrale"
+    ],
+    "publisherText": "Tierolff Muziekcentrale",
+    "classLevel": 4,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
   },
   {
     "uilCode": "100-4-30770",
@@ -13243,6 +14020,27 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "100-4-41411",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "The Dream of Tiberius",
+    "composer": "Campo",
+    "arranger": "",
+    "publishers": [
+      "Alias Press"
+    ],
+    "publisherText": "Alias Press",
+    "classLevel": 4,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/the-dream-of-tiberius-11627944/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "100-4-39220",
     "instrumentSlug": "band",
     "instrumentName": "Band Literature",
@@ -13491,6 +14289,27 @@
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/a-copland-tribute-2170850/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "100-4-15426",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "Down a Country Lane",
+    "composer": "Copland",
+    "arranger": "Patterson",
+    "publishers": [
+      "Boosey & Hawkes, Inc."
+    ],
+    "publisherText": "Boosey & Hawkes, Inc.",
+    "classLevel": 4,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/a-copland-portrait-2170918/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -14020,6 +14839,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "100-4-41414",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "Frenetico",
+    "composer": "Eidson",
+    "arranger": "",
+    "publishers": [
+      "Manhattan Beach Music"
+    ],
+    "publisherText": "Manhattan Beach Music",
+    "classLevel": 4,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/frenetico-11300076/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "100-4-15586",
     "instrumentSlug": "band",
     "instrumentName": "Band Literature",
@@ -14357,6 +15197,48 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "100-4-41417",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "Cathedral Mountain",
+    "composer": "Galante",
+    "arranger": "",
+    "publishers": [
+      "MakeMusic Publications"
+    ],
+    "publisherText": "MakeMusic Publications",
+    "classLevel": 4,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/fete-galante-2293546/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "100-4-41418",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "Champions of the Sky",
+    "composer": "Galante",
+    "arranger": "",
+    "publishers": [
+      "Alfred Music Company, Inc."
+    ],
+    "publisherText": "Alfred Music Company, Inc.",
+    "classLevel": 4,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/fete-galante-2293546/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "100-4-38084",
     "instrumentSlug": "band",
     "instrumentName": "Band Literature",
@@ -14416,6 +15298,27 @@
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/fete-galante-2293546/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "100-4-41419",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "Vertical Terrain",
+    "composer": "Galante",
+    "arranger": "",
+    "publishers": [
+      "G. Schirmer, Inc."
+    ],
+    "publisherText": "G. Schirmer, Inc.",
+    "classLevel": 4,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/vertical-terrain-11617923/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -14647,6 +15550,27 @@
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/khan-10063289/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "100-4-41420",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "One Life Beautiful",
+    "composer": "Giroux",
+    "arranger": "",
+    "publishers": [
+      "Musica Propria, Inc."
+    ],
+    "publisherText": "Musica Propria, Inc.",
+    "classLevel": 4,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/music-of-julie-giroux-10768486/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -14912,13 +15836,12 @@
     "eventName": "Band",
     "title": "Spoon River",
     "composer": "Grainger",
-    "arranger": "Sheldon/Bainum/Carson-Naylor",
+    "arranger": "Bainum/Carson-Naylor",
     "publishers": [
-      "C.L. Barnhouse Company",
       "G. Schirmer, Inc.",
       "Southern Music Company"
     ],
-    "publisherText": "C.L. Barnhouse Company;G. Schirmer, Inc.;Southern Music Company",
+    "publisherText": "G. Schirmer, Inc.;Southern Music Company",
     "classLevel": 4,
     "specification": "",
     "noMemoryRequired": false,
@@ -15181,6 +16104,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "100-4-41421",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "The Moon Glistens",
+    "composer": "Greene",
+    "arranger": "",
+    "publishers": [
+      "Murphy Music Press"
+    ],
+    "publisherText": "Murphy Music Press",
+    "classLevel": 4,
+    "specification": "(play two mvts)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/the-moon-glistens-11574108/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "100-4-25244",
     "instrumentSlug": "band",
     "instrumentName": "Band Literature",
@@ -15223,6 +16167,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "100-4-41423",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "Blackstar Alpha",
+    "composer": "Hall",
+    "arranger": "",
+    "publishers": [
+      "Randall Standridge Music"
+    ],
+    "publisherText": "Randall Standridge Music",
+    "classLevel": 4,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/blackstar-alpha-11640015/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "100-4-40350",
     "instrumentSlug": "band",
     "instrumentName": "Band Literature",
@@ -15240,6 +16205,27 @@
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/knockout-11573989/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "100-4-41422",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "Red River Railroad",
+    "composer": "Hall",
+    "arranger": "",
+    "publishers": [
+      "MakeMusic Publications"
+    ],
+    "publisherText": "MakeMusic Publications",
+    "classLevel": 4,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/hall-of-fame-march-2470755/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -15433,6 +16419,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "100-4-41424",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "Teal Fusion",
+    "composer": "Hass",
+    "arranger": "",
+    "publishers": [
+      "Murphy Music Press"
+    ],
+    "publisherText": "Murphy Music Press",
+    "classLevel": 4,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/teal-fusion-11595711/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "100-4-40338",
     "instrumentSlug": "band",
     "instrumentName": "Band Literature",
@@ -15509,6 +16516,27 @@
     "publisherText": "Adrian Hernandez",
     "classLevel": 4,
     "specification": "N/A",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "100-4-41425",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "Everyday Heroes",
+    "composer": "Hervey",
+    "arranger": "",
+    "publishers": [
+      "Randall Standridge Music"
+    ],
+    "publisherText": "Randall Standridge Music",
+    "classLevel": 4,
+    "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -15597,6 +16625,27 @@
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/fu-mon-5825468/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "100-4-41426",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "Red Feathered Soul",
+    "composer": "Hobbs",
+    "arranger": "",
+    "publishers": [
+      "Wingert-Jones"
+    ],
+    "publisherText": "Wingert-Jones",
+    "classLevel": 4,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/red-feathered-soul-11593011/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -15765,6 +16814,27 @@
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/in-memoriam-karel-husa-11164522/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "100-4-41416",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "Icelandic Folk Song Suite No. 2",
+    "composer": "Icelandic Folk Song",
+    "arranger": "Kristofferson",
+    "publishers": [
+      "Claude T. Smith Publications"
+    ],
+    "publisherText": "Claude T. Smith Publications",
+    "classLevel": 4,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/icelandic-folk-song-suite-no-2-11623810/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -16314,6 +17384,27 @@
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/cityscape-11590189/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "100-4-41427",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "At Dawn's Valor",
+    "composer": "Lortz",
+    "arranger": "",
+    "publishers": [
+      "RWS Music Company"
+    ],
+    "publisherText": "RWS Music Company",
+    "classLevel": 4,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
   },
   {
     "uilCode": "100-4-38109",
@@ -16925,6 +18016,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "100-4-41428",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "Awakening Dawn",
+    "composer": "Milford",
+    "arranger": "",
+    "publishers": [
+      "Wingert-Jones"
+    ],
+    "publisherText": "Wingert-Jones",
+    "classLevel": 4,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "100-4-40358",
     "instrumentSlug": "band",
     "instrumentName": "Band Literature",
@@ -17269,9 +18381,30 @@
     "composer": "Nishimura",
     "arranger": "",
     "publishers": [
-      "Murphy Music Press"
+      "Just a Theory Press"
     ],
-    "publisherText": "Murphy Music Press",
+    "publisherText": "Just a Theory Press",
+    "classLevel": 4,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "100-4-41429",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "Golden Age",
+    "composer": "Nishimura",
+    "arranger": "",
+    "publishers": [
+      "Excelcia"
+    ],
+    "publisherText": "Excelcia",
     "classLevel": 4,
     "specification": "",
     "noMemoryRequired": false,
@@ -17343,6 +18476,27 @@
     "sheetMusicAffiliateUrl": null,
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "100-4-41430",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "Coastal Visions",
+    "composer": "O'Laughlin",
+    "arranger": "",
+    "publishers": [
+      "Excelcia"
+    ],
+    "publisherText": "Excelcia",
+    "classLevel": 4,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/coastal-visions-11615071/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
     "uilCode": "100-4-39192",
@@ -17448,6 +18602,27 @@
     "sheetMusicAffiliateUrl": null,
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "100-4-41431",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "Los Bailes Calientes",
+    "composer": "Owens",
+    "arranger": "",
+    "publishers": [
+      "Wingert-Jones"
+    ],
+    "publisherText": "Wingert-Jones",
+    "classLevel": 4,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/los-bailes-calientes-11615374/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
     "uilCode": "100-4-30031",
@@ -18421,6 +19596,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "100-4-41432",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "A Hollingsworth Celebration",
+    "composer": "Sheldon",
+    "arranger": "",
+    "publishers": [
+      "Wingert-Jones"
+    ],
+    "publisherText": "Wingert-Jones",
+    "classLevel": 4,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/a-hollingsworth-celebration-11615376/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "100-4-15663",
     "instrumentSlug": "band",
     "instrumentName": "Band Literature",
@@ -18480,6 +19676,27 @@
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/chanteys-2442200/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "100-4-40314",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "Commonwealth",
+    "composer": "Sheldon",
+    "arranger": "",
+    "publishers": [
+      "Excelcia"
+    ],
+    "publisherText": "Excelcia",
+    "classLevel": 4,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/commonwealth-11562016/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -18568,6 +19785,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "100-4-41433",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "Laude",
+    "composer": "Sheldon",
+    "arranger": "",
+    "publishers": [
+      "Wingert-Jones"
+    ],
+    "publisherText": "Wingert-Jones",
+    "classLevel": 4,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/laude-11615362/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "100-4-40363",
     "instrumentSlug": "band",
     "instrumentName": "Band Literature",
@@ -18585,6 +19823,27 @@
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/pacific-crest-11568630/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "100-4-41435",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "Paragon",
+    "composer": "Sheldon",
+    "arranger": "",
+    "publishers": [
+      "Randall Standridge Music"
+    ],
+    "publisherText": "Randall Standridge Music",
+    "classLevel": 4,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/paragon-11622931/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -18627,6 +19886,27 @@
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/sentinel-11568585/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "100-4-41434",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "The Trace",
+    "composer": "Sheldon",
+    "arranger": "",
+    "publishers": [
+      "MakeMusic Publications"
+    ],
+    "publisherText": "MakeMusic Publications",
+    "classLevel": 4,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/the-trace-11616411/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -19009,6 +20289,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "100-4-41437",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "Aspects",
+    "composer": "Standridge",
+    "arranger": "",
+    "publishers": [
+      "Randall Standridge Music"
+    ],
+    "publisherText": "Randall Standridge Music",
+    "classLevel": 4,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/aspects-11325026/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "100-4-38111",
     "instrumentSlug": "band",
     "instrumentName": "Band Literature",
@@ -19026,6 +20327,27 @@
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/columbia-11400076/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "100-4-41436",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "Everlight",
+    "composer": "Standridge",
+    "arranger": "",
+    "publishers": [
+      "Randall Standridge Music"
+    ],
+    "publisherText": "Randall Standridge Music",
+    "classLevel": 4,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/everlight-11622904/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -19408,6 +20730,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "100-4-41438",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "Tears of Princess Joruri",
+    "composer": "Taruya",
+    "arranger": "",
+    "publishers": [
+      "FOSTERMUSIC Inc."
+    ],
+    "publisherText": "FOSTERMUSIC Inc.",
+    "classLevel": 4,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "100-4-38108",
     "instrumentSlug": "band",
     "instrumentName": "Band Literature",
@@ -19467,6 +20810,27 @@
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/shenandoah-2475376/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "100-4-41439",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "Boundless",
+    "composer": "Thurston",
+    "arranger": "",
+    "publishers": [
+      "Claude T. Smith Publications"
+    ],
+    "publisherText": "Claude T. Smith Publications",
+    "classLevel": 4,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/boundless-11623822/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -19723,6 +21087,48 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "100-4-41415",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "Barbara Allen",
+    "composer": "Traditional Folk Song",
+    "arranger": "Armstrong",
+    "publishers": [
+      "Claude T. Smith Publications"
+    ],
+    "publisherText": "Claude T. Smith Publications",
+    "classLevel": 4,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/barbara-allen-90547224e/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "100-4-39173",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "Tha Mi Sg\u00ecth",
+    "composer": "Traditional Gaelic Folksong",
+    "arranger": "Beck",
+    "publishers": [
+      "Alfred Music Company, Inc."
+    ],
+    "publisherText": "Alfred Music Company, Inc.",
+    "classLevel": 4,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/gaelic-suite-2315497/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "100-4-34887",
     "instrumentSlug": "band",
     "instrumentName": "Band Literature",
@@ -19868,6 +21274,27 @@
     "sheetMusicAffiliateUrl": null,
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "100-4-41440",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "The Legend Of The Greedy Ferryman",
+    "composer": "Van Calster",
+    "arranger": "",
+    "publishers": [
+      "Tierolff Muziekcentrale"
+    ],
+    "publisherText": "Tierolff Muziekcentrale",
+    "classLevel": 4,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/the-legend-of-the-greedy-ferryman-11687241/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
     "uilCode": "100-4-40376",
@@ -20205,6 +21632,48 @@
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/a-vaughan-williams-christmas-10275201/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "100-4-41442",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "Hope Glowing in the Sky",
+    "composer": "Wada",
+    "arranger": "",
+    "publishers": [
+      "Belwin, Inc"
+    ],
+    "publisherText": "Belwin, Inc",
+    "classLevel": 4,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "100-4-41441",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "The Land Of Grace",
+    "composer": "Wada",
+    "arranger": "",
+    "publishers": [
+      "Tierolff Muziekcentrale"
+    ],
+    "publisherText": "Tierolff Muziekcentrale",
+    "classLevel": 4,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
   },
   {
     "uilCode": "100-4-33121",
@@ -20707,6 +22176,48 @@
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/johan-de-meij-10445050/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "100-4-41413",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "Los Libros Olvidados",
+    "composer": "de Meij",
+    "arranger": "",
+    "publishers": [
+      "Amstel Music"
+    ],
+    "publisherText": "Amstel Music",
+    "classLevel": 4,
+    "specification": "(play three mvts)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/los-libros-olvidados-11695571/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "100-4-41412",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "Songs from the Catskills",
+    "composer": "de Meij",
+    "arranger": "",
+    "publishers": [
+      "Amstel Music"
+    ],
+    "publisherText": "Amstel Music",
+    "classLevel": 4,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/songs-from-the-catskills-10344548/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -22098,6 +23609,27 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "100-3-41387",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "Songs from Down Under",
+    "composer": "Bobrowitz",
+    "arranger": "",
+    "publishers": [
+      "LudwigMasters Publications"
+    ],
+    "publisherText": "LudwigMasters Publications",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "100-3-39186",
     "instrumentSlug": "band",
     "instrumentName": "Band Literature",
@@ -22833,27 +24365,6 @@
     "sheetMusicAffiliateSource": null
   },
   {
-    "uilCode": "100-3-15426",
-    "instrumentSlug": "band",
-    "instrumentName": "Band Literature",
-    "eventName": "Band",
-    "title": "Down a Country Lane",
-    "composer": "Copland",
-    "arranger": "Patterson",
-    "publishers": [
-      "Boosey & Hawkes, Inc."
-    ],
-    "publisherText": "Boosey & Hawkes, Inc.",
-    "classLevel": 3,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/a-copland-portrait-2170918/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
     "uilCode": "100-3-30034",
     "instrumentSlug": "band",
     "instrumentName": "Band Literature",
@@ -23381,6 +24892,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "100-3-41388",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "Above Cloud Nine",
+    "composer": "Estes",
+    "arranger": "",
+    "publishers": [
+      "Excelcia"
+    ],
+    "publisherText": "Excelcia",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "100-3-39138",
     "instrumentSlug": "band",
     "instrumentName": "Band Literature",
@@ -23547,6 +25079,48 @@
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/faure-pavane-2264307/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "100-3-41389",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "A Mere Moment",
+    "composer": "Fernandez",
+    "arranger": "",
+    "publishers": [
+      "Hal Leonard Music, Inc."
+    ],
+    "publisherText": "Hal Leonard Music, Inc.",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/a-mere-moment-11640128/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "100-3-41390",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "Embers of the Ancient Realms",
+    "composer": "Fernandez",
+    "arranger": "",
+    "publishers": [
+      "Hal Leonard Music, Inc."
+    ],
+    "publisherText": "Hal Leonard Music, Inc.",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
   },
   {
     "uilCode": "100-3-30113",
@@ -23734,6 +25308,27 @@
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/the-wolves-of-alaska-11511690/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "100-3-41391",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "Wistful Wind",
+    "composer": "Galante",
+    "arranger": "",
+    "publishers": [
+      "G. Schirmer, Inc."
+    ],
+    "publisherText": "G. Schirmer, Inc.",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/fete-galante-2293546/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -24134,6 +25729,27 @@
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/grainger-threesome-10288338/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "100-3-42170",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "Spoon River",
+    "composer": "Grainger",
+    "arranger": "Sheldon",
+    "publishers": [
+      "C.L. Barnhouse Company"
+    ],
+    "publisherText": "C.L. Barnhouse Company",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/spoon-river-2417111/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -25609,6 +27225,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "100-3-41392",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "Sunbloom",
+    "composer": "Lendt",
+    "arranger": "",
+    "publishers": [
+      "Randall Standridge Music"
+    ],
+    "publisherText": "Randall Standridge Music",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/sunbloom-11622928/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "100-3-39165",
     "instrumentSlug": "band",
     "instrumentName": "Band Literature",
@@ -26457,9 +28094,9 @@
     "composer": "Nishimura",
     "arranger": "",
     "publishers": [
-      "Murphy Music Press"
+      "Just a Theory Press"
     ],
-    "publisherText": "Murphy Music Press",
+    "publisherText": "Just a Theory Press",
     "classLevel": 3,
     "specification": "",
     "noMemoryRequired": false,
@@ -26489,6 +28126,27 @@
     "sheetMusicAffiliateUrl": null,
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "100-3-41393",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "Cliffs of Moher",
+    "composer": "O'Laughlin",
+    "arranger": "",
+    "publishers": [
+      "Excelcia"
+    ],
+    "publisherText": "Excelcia",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/cliffs-of-moher-11624730/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
     "uilCode": "100-3-40307",
@@ -27373,27 +29031,6 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
-    "uilCode": "100-3-40314",
-    "instrumentSlug": "band",
-    "instrumentName": "Band Literature",
-    "eventName": "Band",
-    "title": "Commonwealth",
-    "composer": "Sheldon",
-    "arranger": "",
-    "publishers": [
-      "Excelcia"
-    ],
-    "publisherText": "Excelcia",
-    "classLevel": 3,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/commonwealth-11562016/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
     "uilCode": "100-3-39183",
     "instrumentSlug": "band",
     "instrumentName": "Band Literature",
@@ -27583,6 +29220,48 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "100-3-42171",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "Where The White Lilies Bloom, Op. 277",
+    "composer": "Sheldon",
+    "arranger": "",
+    "publishers": [
+      "robertsheldonmusic.com"
+    ],
+    "publisherText": "robertsheldonmusic.com",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/in-sheldon-glen-2473125/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "100-3-41394",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "Thawing",
+    "composer": "Shimoda",
+    "arranger": "",
+    "publishers": [
+      "Randall Standridge Music"
+    ],
+    "publisherText": "Randall Standridge Music",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/thawing-11622933/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "100-3-15510",
     "instrumentSlug": "band",
     "instrumentName": "Band Literature",
@@ -27751,6 +29430,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "100-3-41395",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "Anthem for Winds and Percussion",
+    "composer": "Smith",
+    "arranger": "",
+    "publishers": [
+      "Claude T. Smith Publications"
+    ],
+    "publisherText": "Claude T. Smith Publications",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/fort-smith-celebration-2376325/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "100-3-15512",
     "instrumentSlug": "band",
     "instrumentName": "Band Literature",
@@ -27793,6 +29493,28 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "100-3-41471",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "Encanto",
+    "composer": "Smith",
+    "arranger": "",
+    "publishers": [
+      "RWS Music Company",
+      "Hal Leonard Music, Inc."
+    ],
+    "publisherText": "RWS Music Company;Hal Leonard Music, Inc.",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/encanto-2213114/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "100-3-36672",
     "instrumentSlug": "band",
     "instrumentName": "Band Literature",
@@ -27822,9 +29544,9 @@
     "composer": "Spaniola",
     "arranger": "",
     "publishers": [
-      "MPropria"
+      "Musica Propria, Inc."
     ],
-    "publisherText": "MPropria",
+    "publisherText": "Musica Propria, Inc.",
     "classLevel": 3,
     "specification": "",
     "noMemoryRequired": false,
@@ -27940,6 +29662,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "100-3-41397",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "Aspects",
+    "composer": "Standridge",
+    "arranger": "",
+    "publishers": [
+      "Randall Standridge Music"
+    ],
+    "publisherText": "Randall Standridge Music",
+    "classLevel": 3,
+    "specification": "(play mvt 2 - \"In Memoriam\")",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/aspects-11325026/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "100-3-38074",
     "instrumentSlug": "band",
     "instrumentName": "Band Literature",
@@ -28000,6 +29743,27 @@
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/choose-joy-11400065/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "100-3-41396",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "Firebirds",
+    "composer": "Standridge",
+    "arranger": "",
+    "publishers": [
+      "Randall Standridge Music"
+    ],
+    "publisherText": "Randall Standridge Music",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/firebirds-11622902/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -28991,6 +30755,27 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "100-3-41399",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "A Swedish Melody",
+    "composer": "Traditional",
+    "arranger": "Nelson",
+    "publishers": [
+      "Southern Music Company"
+    ],
+    "publisherText": "Southern Music Company",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/swedish-melody-4046454/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "100-3-39140",
     "instrumentSlug": "band",
     "instrumentName": "Band Literature",
@@ -29050,6 +30835,27 @@
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/slavic-festival-11203052/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "100-3-41398",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "Gaudete",
+    "composer": "Traditional",
+    "arranger": "Beck",
+    "publishers": [
+      "Alfred Music Company, Inc."
+    ],
+    "publisherText": "Alfred Music Company, Inc.",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/gaudete-11618885/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -29138,23 +30944,23 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
-    "uilCode": "100-3-39173",
+    "uilCode": "100-3-41400",
     "instrumentSlug": "band",
     "instrumentName": "Band Literature",
     "eventName": "Band",
-    "title": "Tha Mi Sg\u00ecth",
-    "composer": "Traditional Gaelic Folksong",
-    "arranger": "Beck",
+    "title": "The Foggy Dew",
+    "composer": "Traditional",
+    "arranger": "Wilds",
     "publishers": [
-      "Alfred Music Company, Inc."
+      "Wingert-Jones"
     ],
-    "publisherText": "Alfred Music Company, Inc.",
+    "publisherText": "Wingert-Jones",
     "classLevel": 3,
     "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/gaelic-rhapsody-2185635/p",
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/foggy-foggy-dew-2176048/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -30818,6 +32624,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "100-2-38028",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "Watch Out",
+    "composer": "Beck",
+    "arranger": "",
+    "publishers": [
+      "Alfred Music Company, Inc."
+    ],
+    "publisherText": "Alfred Music Company, Inc.",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "100-2-30756",
     "instrumentSlug": "band",
     "instrumentName": "Band Literature",
@@ -31528,6 +33355,27 @@
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/sunchaser-10759713/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "100-2-41368",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "A Child of the Sun",
+    "composer": "Clark",
+    "arranger": "",
+    "publishers": [
+      "Excelcia"
+    ],
+    "publisherText": "Excelcia",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/old-joe-clark-11674865/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -32499,6 +34347,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "100-2-41369",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "Two Movements from \"Lincolnshire Posy\"",
+    "composer": "Grainger",
+    "arranger": "Ryan",
+    "publishers": [
+      "Alfred Music Company, Inc."
+    ],
+    "publisherText": "Alfred Music Company, Inc.",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/lincolnshire-posy-11001298/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "100-2-40210",
     "instrumentSlug": "band",
     "instrumentName": "Band Literature",
@@ -32768,6 +34637,27 @@
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/congress-hall-11647741/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "100-2-41370",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "Tock",
+    "composer": "Hall",
+    "arranger": "",
+    "publishers": [
+      "Belwin, Inc"
+    ],
+    "publisherText": "Belwin, Inc",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/tock-11616401/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -33171,6 +35061,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "100-2-41371",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "Pastel Sunset",
+    "composer": "Hoefle",
+    "arranger": "",
+    "publishers": [
+      "Randall Standridge Music"
+    ],
+    "publisherText": "Randall Standridge Music",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/pastel-sunset-11622921/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "100-2-39064",
     "instrumentSlug": "band",
     "instrumentName": "Band Literature",
@@ -33213,6 +35124,27 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "100-2-41372",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "Highland Air",
+    "composer": "Huss",
+    "arranger": "",
+    "publishers": [
+      "Excelcia"
+    ],
+    "publisherText": "Excelcia",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/highland-air-11615065/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "100-2-39103",
     "instrumentSlug": "band",
     "instrumentName": "Band Literature",
@@ -33234,11 +35166,11 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
-    "uilCode": "100-2-40219",
+    "uilCode": "100-2-41373",
     "instrumentSlug": "band",
     "instrumentName": "Band Literature",
     "eventName": "Band",
-    "title": "Trajectory",
+    "title": "Saga",
     "composer": "Huss",
     "arranger": "",
     "publishers": [
@@ -33250,7 +35182,7 @@
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/trajectory-11561998/p",
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/saga-11615050/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -33497,6 +35429,27 @@
       "Bourne, Co."
     ],
     "publisherText": "Bourne, Co.",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "100-2-41374",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "Home",
+    "composer": "LaBrie",
+    "arranger": "",
+    "publishers": [
+      "Randall Standridge Music"
+    ],
+    "publisherText": "Randall Standridge Music",
     "classLevel": 2,
     "specification": "",
     "noMemoryRequired": false,
@@ -34180,6 +36133,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "100-2-41375",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "Freedom Calls!",
+    "composer": "Musella",
+    "arranger": "",
+    "publishers": [
+      "MKT Music Publications"
+    ],
+    "publisherText": "MKT Music Publications",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "100-2-40237",
     "instrumentSlug": "band",
     "instrumentName": "Band Literature",
@@ -34262,6 +36236,27 @@
     "sheetMusicAffiliateUrl": null,
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "100-2-41376",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "Hymn to the Great Spirit",
+    "composer": "Native American Folk Melody",
+    "arranger": "Putnam",
+    "publishers": [
+      "Excelcia"
+    ],
+    "publisherText": "Excelcia",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/native-land-11628783/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
     "uilCode": "100-2-25191",
@@ -34432,6 +36427,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "100-2-41377",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "A Walk Amongst Heroes",
+    "composer": "O'Laughlin",
+    "arranger": "",
+    "publishers": [
+      "Excelcia"
+    ],
+    "publisherText": "Excelcia",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/a-walk-amongst-heroes-11615060/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "100-2-40240",
     "instrumentSlug": "band",
     "instrumentName": "Band Literature",
@@ -34596,6 +36612,27 @@
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/portsmouth-reflections-2478338/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "100-2-41378",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "Snowdrifts",
+    "composer": "Oare",
+    "arranger": "",
+    "publishers": [
+      "Hal Leonard Music, Inc."
+    ],
+    "publisherText": "Hal Leonard Music, Inc.",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/snowdrifts-11617931/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -34810,6 +36847,27 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "100-2-41379",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "Jubilate!",
+    "composer": "Owens",
+    "arranger": "",
+    "publishers": [
+      "RWS Music Company"
+    ],
+    "publisherText": "RWS Music Company",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/jubilate-11677068/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "100-2-28200",
     "instrumentSlug": "band",
     "instrumentName": "Band Literature",
@@ -34892,6 +36950,27 @@
     "sheetMusicAffiliateUrl": null,
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "100-2-41380",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "To Sail the Majestic Seas",
+    "composer": "Owens",
+    "arranger": "",
+    "publishers": [
+      "Alfred Music Company, Inc."
+    ],
+    "publisherText": "Alfred Music Company, Inc.",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/texas-prep-level-ii-owens-11558138/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
     "uilCode": "100-2-31788",
@@ -35440,6 +37519,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "100-2-15251",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "Three Gymnopedies",
+    "composer": "Satie",
+    "arranger": "McGinty",
+    "publishers": [
+      "Queenwood Publications"
+    ],
+    "publisherText": "Queenwood Publications",
+    "classLevel": 2,
+    "specification": "(play one mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/three-gymnopedies-9538278/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "100-2-33275",
     "instrumentSlug": "band",
     "instrumentName": "Band Literature",
@@ -35751,6 +37851,27 @@
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/pevensey-castle-2284362/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "100-2-41381",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "The Lakes",
+    "composer": "Sheldon",
+    "arranger": "",
+    "publishers": [
+      "Alfred Music Company, Inc."
+    ],
+    "publisherText": "Alfred Music Company, Inc.",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/the-lakes-11616372/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -37414,6 +39535,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "100-2-41382",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "The Ash Grove",
+    "composer": "Traditional",
+    "arranger": "Standridge",
+    "publishers": [
+      "Randall Standridge Music"
+    ],
+    "publisherText": "Randall Standridge Music",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "100-2-40221",
     "instrumentSlug": "band",
     "instrumentName": "Band Literature",
@@ -37494,6 +39636,27 @@
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/rychemount-chronicles-2700988/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "100-2-41383",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "Adventure Awaits",
+    "composer": "Van Doren",
+    "arranger": "",
+    "publishers": [
+      "RWS Music Company"
+    ],
+    "publisherText": "RWS Music Company",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/adventure-awaits-11627960/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -37603,6 +39766,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "100-2-41384",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "Media Luna",
+    "composer": "Vargas",
+    "arranger": "",
+    "publishers": [
+      "Wingert-Jones"
+    ],
+    "publisherText": "Wingert-Jones",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/media-luna-11615365/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "100-2-34865",
     "instrumentSlug": "band",
     "instrumentName": "Band Literature",
@@ -37635,6 +39819,48 @@
       "Alfred Music Company, Inc."
     ],
     "publisherText": "Alfred Music Company, Inc.",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "100-2-41385",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "Sky Gliding",
+    "composer": "Vargas",
+    "arranger": "",
+    "publishers": [
+      "Wingert-Jones"
+    ],
+    "publisherText": "Wingert-Jones",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "100-2-41386",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "Sky Machine",
+    "composer": "Vargas",
+    "arranger": "",
+    "publishers": [
+      "Hal Leonard Music, Inc."
+    ],
+    "publisherText": "Hal Leonard Music, Inc.",
     "classLevel": 2,
     "specification": "",
     "noMemoryRequired": false,
@@ -38401,6 +40627,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "100-1-41355",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "Dragon Tamer",
+    "composer": "Arcari",
+    "arranger": "",
+    "publishers": [
+      "Excelcia"
+    ],
+    "publisherText": "Excelcia",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/dragon-tamer-11615046/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "100-1-38033",
     "instrumentSlug": "band",
     "instrumentName": "Band Literature",
@@ -38609,6 +40856,27 @@
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/arctic-wars-11202996/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "100-1-41356",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "Fanfare for the Fearless",
+    "composer": "Balmages",
+    "arranger": "",
+    "publishers": [
+      "MakeMusic Publications"
+    ],
+    "publisherText": "MakeMusic Publications",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
   },
   {
     "uilCode": "100-1-40143",
@@ -38842,27 +41110,6 @@
     "sheetMusicAffiliateSource": null
   },
   {
-    "uilCode": "100-1-38028",
-    "instrumentSlug": "band",
-    "instrumentName": "Band Literature",
-    "eventName": "Band",
-    "title": "Watch Out",
-    "composer": "Beck",
-    "arranger": "",
-    "publishers": [
-      "Alfred Music Company, Inc."
-    ],
-    "publisherText": "Alfred Music Company, Inc.",
-    "classLevel": 1,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": null,
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": null
-  },
-  {
     "uilCode": "100-1-25156",
     "instrumentSlug": "band",
     "instrumentName": "Band Literature",
@@ -39010,6 +41257,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "100-1-41357",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "Beyond the Castle Walls",
+    "composer": "Branchfield",
+    "arranger": "",
+    "publishers": [
+      "LudwigMasters Publications"
+    ],
+    "publisherText": "LudwigMasters Publications",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "100-1-33108",
     "instrumentSlug": "band",
     "instrumentName": "Band Literature",
@@ -39090,6 +41358,27 @@
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/theme-and-variations-10983081/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "100-1-41358",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "Rainforest",
+    "composer": "Buckley",
+    "arranger": "",
+    "publishers": [
+      "Hal Leonard Music, Inc."
+    ],
+    "publisherText": "Hal Leonard Music, Inc.",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/rainforest-11617926/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -39808,6 +42097,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "100-1-41359",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "Hurricane Hunters",
+    "composer": "Ferguson",
+    "arranger": "",
+    "publishers": [
+      "Wingert-Jones"
+    ],
+    "publisherText": "Wingert-Jones",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/keith-ferguson-texas-blues-bass-10484050/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "100-1-40155",
     "instrumentSlug": "band",
     "instrumentName": "Band Literature",
@@ -39951,6 +42261,27 @@
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/crusade-10011666/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "100-1-41360",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "Contempora",
+    "composer": "Gazlay",
+    "arranger": "",
+    "publishers": [
+      "Neil A. Kjos Music Company"
+    ],
+    "publisherText": "Neil A. Kjos Music Company",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/contempora-10313019/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -40543,6 +42874,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "100-1-40219",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "Trajectory",
+    "composer": "Huss",
+    "arranger": "",
+    "publishers": [
+      "Excelcia"
+    ],
+    "publisherText": "Excelcia",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/trajectory-11561998/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "100-1-15212",
     "instrumentSlug": "band",
     "instrumentName": "Band Literature",
@@ -40753,6 +43105,27 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "100-1-41361",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "Snow Day!",
+    "composer": "LaBrie",
+    "arranger": "",
+    "publishers": [
+      "Belwin, Inc"
+    ],
+    "publisherText": "Belwin, Inc",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "100-1-40162",
     "instrumentSlug": "band",
     "instrumentName": "Band Literature",
@@ -40917,6 +43290,27 @@
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/martin-11215807e/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "100-1-41362",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "Epic Adventure: Trolls, Goblins, and Flitterbugs",
+    "composer": "Martin",
+    "arranger": "",
+    "publishers": [
+      "LudwigMasters Publications"
+    ],
+    "publisherText": "LudwigMasters Publications",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/epic-adventure-10846054/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -41307,9 +43701,9 @@
     "composer": "Nishimura",
     "arranger": "",
     "publishers": [
-      "Murphy Music Press"
+      "Just a Theory Press"
     ],
-    "publisherText": "Murphy Music Press",
+    "publisherText": "Just a Theory Press",
     "classLevel": 1,
     "specification": "",
     "noMemoryRequired": false,
@@ -41633,6 +44027,27 @@
     "sheetMusicAffiliateUrl": null,
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "100-1-41363",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "Bushido",
+    "composer": "Owens",
+    "arranger": "",
+    "publishers": [
+      "MakeMusic Publications"
+    ],
+    "publisherText": "MakeMusic Publications",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/bushido-11616416/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
     "uilCode": "100-1-30053",
@@ -42013,6 +44428,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "100-1-41364",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "Face the Dragon",
+    "composer": "Putnam",
+    "arranger": "",
+    "publishers": [
+      "Excelcia"
+    ],
+    "publisherText": "Excelcia",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "100-1-36656",
     "instrumentSlug": "band",
     "instrumentName": "Band Literature",
@@ -42072,6 +44508,27 @@
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/the-gauntlet-10908110/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "100-1-41365",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "Trident Fanfare",
+    "composer": "Putnam",
+    "arranger": "",
+    "publishers": [
+      "Excelcia"
+    ],
+    "publisherText": "Excelcia",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/trident-fanfare-11615039/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -42408,27 +44865,6 @@
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/gymnopedie-i-11378176/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "100-1-15251",
-    "instrumentSlug": "band",
-    "instrumentName": "Band Literature",
-    "eventName": "Band",
-    "title": "Three Gymnopedies",
-    "composer": "Satie",
-    "arranger": "McGinty",
-    "publishers": [
-      "Queenwood Publications"
-    ],
-    "publisherText": "Queenwood Publications",
-    "classLevel": 1,
-    "specification": "(play one mvt)",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/three-gymnopedies-9008871/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -43105,6 +45541,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "100-1-41366",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "La Serpiente",
+    "composer": "Story",
+    "arranger": "",
+    "publishers": [
+      "Belwin, Inc"
+    ],
+    "publisherText": "Belwin, Inc",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/la-serpiente-11616391/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "100-1-33230",
     "instrumentSlug": "band",
     "instrumentName": "Band Literature",
@@ -43489,7 +45946,7 @@
     "instrumentName": "Band Literature",
     "eventName": "Band",
     "title": "Sakura",
-    "composer": "Traditional",
+    "composer": "Traditional Japanese Folk Song",
     "arranger": "Story",
     "publishers": [
       "Belwin, Inc"
@@ -43523,6 +45980,27 @@
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/rychemount-chronicles-2700988/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "100-1-41367",
+    "instrumentSlug": "band",
+    "instrumentName": "Band Literature",
+    "eventName": "Band",
+    "title": "La Noche de los Alebrijes",
+    "composer": "Van Doren",
+    "arranger": "",
+    "publishers": [
+      "RWS Music Company"
+    ],
+    "publisherText": "RWS Music Company",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/la-noche-de-los-alebrijes-11400954/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },

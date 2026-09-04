@@ -5,7 +5,7 @@
   "songCount": 334,
   "publisherCount": 501,
   "noteCount": 1,
-  "databaseRecordCount": 335,
+  "databaseRecordCount": 334,
   "classBreakdown": {
     "3": 45,
     "2": 80,
@@ -17,6 +17,6 @@
     "Piano Solo": 334
   },
   "notes": {
-    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-03-28T15:07:47.398460+00:00."
+    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-09-04T16:47:48.353536+00:00."
   }
 }

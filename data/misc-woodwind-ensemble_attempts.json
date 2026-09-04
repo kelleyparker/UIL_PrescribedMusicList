@@ -239,6 +239,19 @@
     "matched": true,
     "source": "JW Pepper link"
   },
+  "270-1-41878": {
+    "lastAttempted": "2026-09-04T16:52:08.687888+00:00",
+    "matched": false
+  },
+  "270-1-41879": {
+    "lastAttempted": "2026-09-04T16:49:27.870370+00:00",
+    "matched": true,
+    "source": "JW Pepper link"
+  },
+  "270-1-41880": {
+    "lastAttempted": "2026-09-04T16:52:07.893812+00:00",
+    "matched": false
+  },
   "270-2-12247": {
     "lastAttempted": "2026-03-28T14:00:11.714284+00:00",
     "matched": true,
@@ -441,6 +454,20 @@
   "270-2-35567": {
     "lastAttempted": "2026-03-28T14:00:13.601855+00:00",
     "matched": false
+  },
+  "270-2-41881": {
+    "lastAttempted": "2026-09-04T16:51:43.773147+00:00",
+    "matched": false
+  },
+  "270-2-41882": {
+    "lastAttempted": "2026-09-04T16:49:24.842993+00:00",
+    "matched": true,
+    "source": "JW Pepper link"
+  },
+  "270-2-41883": {
+    "lastAttempted": "2026-09-04T16:52:00.614180+00:00",
+    "matched": true,
+    "source": "JW Pepper link"
   },
   "270-3-12280": {
     "lastAttempted": "2026-03-28T14:00:01.092850+00:00",

@@ -2,23 +2,23 @@
   "schoolYear": "2025-2026",
   "instrumentSlug": "band",
   "instrumentName": "Band Literature",
-  "songCount": 2090,
-  "publisherCount": 2147,
+  "songCount": 2208,
+  "publisherCount": 2265,
   "noteCount": 1,
-  "databaseRecordCount": 2091,
+  "databaseRecordCount": 2208,
   "classBreakdown": {
-    "5": 558,
-    "4": 428,
-    "3": 440,
-    "2": 390,
-    "1": 274
+    "5": 585,
+    "4": 473,
+    "3": 454,
+    "2": 410,
+    "1": 286
   },
   "noMemoryRequiredCount": 0,
   "publicDomainPdfCount": 0,
   "eventBreakdown": {
-    "Band": 2090
+    "Band": 2208
   },
   "notes": {
-    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-03-28T15:07:47.428324+00:00."
+    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-09-04T16:48:21.818983+00:00."
   }
 }

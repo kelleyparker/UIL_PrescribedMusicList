@@ -1722,27 +1722,6 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
-    "uilCode": "333-1-38596",
-    "instrumentSlug": "euphonium-baritone-trio",
-    "instrumentName": "Euphonium-Baritone Trios",
-    "eventName": "Euphonium-Baritone Trio",
-    "title": "Now Be Praised",
-    "composer": "Bach",
-    "arranger": "Gregory",
-    "publishers": [
-      "JW Pepper"
-    ],
-    "publisherText": "JW Pepper",
-    "classLevel": 1,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/now-be-praised-11597373/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
     "uilCode": "333-1-34767",
     "instrumentSlug": "euphonium-baritone-trio",
     "instrumentName": "Euphonium-Baritone Trios",
@@ -2078,6 +2057,27 @@
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/alteba-trio-6101208/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "333-1-41957",
+    "instrumentSlug": "euphonium-baritone-trio",
+    "instrumentName": "Euphonium-Baritone Trios",
+    "eventName": "Euphonium-Baritone Trio",
+    "title": "Three Renaissance Dances",
+    "composer": "Holborne",
+    "arranger": "Gregory",
+    "publishers": [
+      "JW Pepper"
+    ],
+    "publisherText": "JW Pepper",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
   },
   {
     "uilCode": "333-1-24709",

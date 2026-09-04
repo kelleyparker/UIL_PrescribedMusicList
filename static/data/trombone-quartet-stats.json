@@ -2,21 +2,21 @@
   "schoolYear": "2025-2026",
   "instrumentSlug": "trombone-quartet",
   "instrumentName": "Trombone Quartets",
-  "songCount": 160,
-  "publisherCount": 164,
+  "songCount": 184,
+  "publisherCount": 188,
   "noteCount": 1,
-  "databaseRecordCount": 161,
+  "databaseRecordCount": 184,
   "classBreakdown": {
-    "3": 51,
-    "2": 44,
-    "1": 65
+    "3": 54,
+    "2": 50,
+    "1": 80
   },
   "noMemoryRequiredCount": 0,
   "publicDomainPdfCount": 0,
   "eventBreakdown": {
-    "Trombone Quartet": 160
+    "Trombone Quartet": 184
   },
   "notes": {
-    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-03-28T15:07:47.943045+00:00."
+    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-09-04T16:52:39.161120+00:00."
   }
 }

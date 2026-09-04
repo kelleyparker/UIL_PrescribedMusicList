@@ -90,6 +90,19 @@
     "matched": true,
     "source": "JW Pepper link"
   },
+  "360-1-42037": {
+    "lastAttempted": "2026-09-04T16:53:06.984430+00:00",
+    "matched": false
+  },
+  "360-1-42038": {
+    "lastAttempted": "2026-09-04T16:53:02.346798+00:00",
+    "matched": false
+  },
+  "360-1-42039": {
+    "lastAttempted": "2026-09-04T16:53:04.358336+00:00",
+    "matched": true,
+    "source": "JW Pepper link"
+  },
   "360-2-14395": {
     "lastAttempted": "2026-03-28T14:24:11.935008+00:00",
     "matched": true,
@@ -214,6 +227,11 @@
   },
   "360-2-38667": {
     "lastAttempted": "2026-03-28T14:24:11.478659+00:00",
+    "matched": true,
+    "source": "JW Pepper link"
+  },
+  "360-2-42040": {
+    "lastAttempted": "2026-09-04T16:52:37.570241+00:00",
     "matched": true,
     "source": "JW Pepper link"
   },

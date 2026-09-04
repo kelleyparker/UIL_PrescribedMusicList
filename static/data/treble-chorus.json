@@ -171,6 +171,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "935-6-41670",
+    "instrumentSlug": "treble-chorus",
+    "instrumentName": "Treble Choruses",
+    "eventName": "Treble Chorus",
+    "title": "Bront\u00eb Trilogy I - III",
+    "composer": "Gray, Norman, & Bernon",
+    "arranger": "",
+    "publishers": [
+      "Heritage Music Press"
+    ],
+    "publisherText": "Heritage Music Press",
+    "classLevel": 6,
+    "specification": "(SSA) (each movement sold separately) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "935-6-23224",
     "instrumentSlug": "treble-chorus",
     "instrumentName": "Treble Choruses",
@@ -268,6 +289,27 @@
     "publisherText": "B. Schott's Sohne, Mainz",
     "classLevel": 6,
     "specification": "(SSA) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "935-6-41669",
+    "instrumentSlug": "treble-chorus",
+    "instrumentName": "Treble Choruses",
+    "eventName": "Treble Chorus",
+    "title": "Itken Pois",
+    "composer": "Kahara",
+    "arranger": "",
+    "publishers": [
+      "Sulasol"
+    ],
+    "publisherText": "Sulasol",
+    "classLevel": 6,
+    "specification": "(SSA) (solo and vocal group) (body percussion REQUIRED) (opt cajon & shaker) (a cappella)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -734,6 +776,27 @@
     "publisherText": "J. Fisher & Bro.;Alfred Music Company, Inc.",
     "classLevel": 5,
     "specification": "(SSA) (sop, alto soli) (English or Czech) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "935-5-41666",
+    "instrumentSlug": "treble-chorus",
+    "instrumentName": "Treble Choruses",
+    "eventName": "Treble Chorus",
+    "title": "The Angel",
+    "composer": "Antognini",
+    "arranger": "Bryla",
+    "publishers": [
+      "Alliance Music Publications"
+    ],
+    "publisherText": "Alliance Music Publications",
+    "classLevel": 5,
+    "specification": "(SSAA) (divisi) (a cappella)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -1210,6 +1273,27 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "935-5-41657",
+    "instrumentSlug": "treble-chorus",
+    "instrumentName": "Treble Choruses",
+    "eventName": "Treble Chorus",
+    "title": "I\u2019ll Fly Away",
+    "composer": "Brumley",
+    "arranger": "Rodgers",
+    "publishers": [
+      "Walton Music Corporation"
+    ],
+    "publisherText": "Walton Music Corporation",
+    "classLevel": 5,
+    "specification": "(SSAA) (divisi) (solo & small group) (a cappella)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "935-5-38363",
     "instrumentSlug": "treble-chorus",
     "instrumentName": "Treble Choruses",
@@ -1292,6 +1376,27 @@
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/lorelei-10685865/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "935-5-41668",
+    "instrumentSlug": "treble-chorus",
+    "instrumentName": "Treble Choruses",
+    "eventName": "Treble Chorus",
+    "title": "In Those Years, No One Slept",
+    "composer": "Campbell",
+    "arranger": "",
+    "publishers": [
+      "Pay The Band Music"
+    ],
+    "publisherText": "Pay The Band Music",
+    "classLevel": 5,
+    "specification": "(SSAA) (a cappella)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
   },
   {
     "uilCode": "935-5-40627",
@@ -1586,6 +1691,27 @@
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/fantoches-10276411/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "935-5-41660",
+    "instrumentSlug": "treble-chorus",
+    "instrumentName": "Treble Choruses",
+    "eventName": "Treble Chorus",
+    "title": "Nuit d\u2019etoiles",
+    "composer": "Debussy",
+    "arranger": "Raines",
+    "publishers": [
+      "Walton Music Corporation"
+    ],
+    "publisherText": "Walton Music Corporation",
+    "classLevel": 5,
+    "specification": "(SSA) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/nuit-detoiles-10927894/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -3768,6 +3894,27 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "935-5-41664",
+    "instrumentSlug": "treble-chorus",
+    "instrumentName": "Treble Choruses",
+    "eventName": "Treble Chorus",
+    "title": "This Endris Night",
+    "composer": "Quartel",
+    "arranger": "",
+    "publishers": [
+      "Oxford University Press"
+    ],
+    "publisherText": "Oxford University Press",
+    "classLevel": 5,
+    "specification": "(SSAA) (opt handbells/percussion) (a cappella)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/this-endris-night-10993554/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "935-5-38356",
     "instrumentSlug": "treble-chorus",
     "instrumentName": "Treble Choruses",
@@ -3787,6 +3934,27 @@
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/bogoroditse-devo-11623872/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "935-5-41659",
+    "instrumentSlug": "treble-chorus",
+    "instrumentName": "Treble Choruses",
+    "eventName": "Treble Chorus",
+    "title": "Psalm 63",
+    "composer": "Raczynski",
+    "arranger": "",
+    "publishers": [
+      "Walton Music Corporation"
+    ],
+    "publisherText": "Walton Music Corporation",
+    "classLevel": 5,
+    "specification": "(SSAA) (trumpet REQUIRED) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
   },
   {
     "uilCode": "935-5-23206",
@@ -3908,6 +4076,27 @@
     "publisherText": "Walton Music Corporation",
     "classLevel": 5,
     "specification": "(SSAA) (a cappella)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "935-5-41662",
+    "instrumentSlug": "treble-chorus",
+    "instrumentName": "Treble Choruses",
+    "eventName": "Treble Chorus",
+    "title": "Cantate Domino",
+    "composer": "Rouech\u00e9",
+    "arranger": "",
+    "publishers": [
+      "Treble Clef Music Press"
+    ],
+    "publisherText": "Treble Clef Music Press",
+    "classLevel": 5,
+    "specification": "(SSAA) (solo) (a cappella)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -4087,6 +4276,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "935-5-41665",
+    "instrumentSlug": "treble-chorus",
+    "instrumentName": "Treble Choruses",
+    "eventName": "Treble Chorus",
+    "title": "Alleluia",
+    "composer": "Sharpe",
+    "arranger": "",
+    "publishers": [
+      "Heritage Music Press"
+    ],
+    "publisherText": "Heritage Music Press",
+    "classLevel": 5,
+    "specification": "(SSAA) (a cappella)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "935-5-23211",
     "instrumentSlug": "treble-chorus",
     "instrumentName": "Treble Choruses",
@@ -4169,6 +4379,27 @@
     "sheetMusicAffiliateUrl": null,
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "935-5-41658",
+    "instrumentSlug": "treble-chorus",
+    "instrumentName": "Treble Choruses",
+    "eventName": "Treble Chorus",
+    "title": "Mari Rayakan",
+    "composer": "Steven",
+    "arranger": "",
+    "publishers": [
+      "Walton Music Corporation"
+    ],
+    "publisherText": "Walton Music Corporation",
+    "classLevel": 5,
+    "specification": "(SSAA) (divisi) (a cappella)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/mari-rayakan-11592995/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
     "uilCode": "935-5-40626",
@@ -4360,6 +4591,48 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "935-5-41661",
+    "instrumentSlug": "treble-chorus",
+    "instrumentName": "Treble Choruses",
+    "eventName": "Treble Chorus",
+    "title": "Solo mi corazon sabe",
+    "composer": "Traditional Argentinean Folk Song",
+    "arranger": "Lalloz",
+    "publishers": [
+      "Alliance Music Publications"
+    ],
+    "publisherText": "Alliance Music Publications",
+    "classLevel": 5,
+    "specification": "(SSAA) (opt percussion) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/solo-mi-corazon-sabe-11634674/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "935-5-41667",
+    "instrumentSlug": "treble-chorus",
+    "instrumentName": "Treble Choruses",
+    "eventName": "Treble Chorus",
+    "title": "You Do Not Walk Alone",
+    "composer": "Traditional Irish Folk Song",
+    "arranger": "Hagenberg",
+    "publishers": [
+      "Beckenhorst Press"
+    ],
+    "publisherText": "Beckenhorst Press",
+    "classLevel": 5,
+    "specification": "(SSAA) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "935-5-39527",
     "instrumentSlug": "treble-chorus",
     "instrumentName": "Treble Choruses",
@@ -4442,6 +4715,27 @@
     "sheetMusicAffiliateUrl": null,
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "935-5-36814",
+    "instrumentSlug": "treble-chorus",
+    "instrumentName": "Treble Choruses",
+    "eventName": "Treble Chorus",
+    "title": "Veni, Veni Emmanuel",
+    "composer": "Trotta",
+    "arranger": "",
+    "publishers": [
+      "Carl Fischer, Inc."
+    ],
+    "publisherText": "Carl Fischer, Inc.",
+    "classLevel": 5,
+    "specification": "(SSAA) (opt descant) (opt percussion) (a cappella)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/veni-veni-emmanuel-10997992/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
     "uilCode": "935-5-37959",
@@ -4619,6 +4913,27 @@
     "instrumentName": "Treble Choruses",
     "eventName": "Treble Chorus",
     "title": "I Thank You God",
+    "composer": "Walker",
+    "arranger": "",
+    "publishers": [
+      "E.C. Schirmer Music Company"
+    ],
+    "publisherText": "E.C. Schirmer Music Company",
+    "classLevel": 5,
+    "specification": "(SSA) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "935-5-41663",
+    "instrumentSlug": "treble-chorus",
+    "instrumentName": "Treble Choruses",
+    "eventName": "Treble Chorus",
+    "title": "Love is a Rain of Diamonds",
     "composer": "Walker",
     "arranger": "",
     "publishers": [
@@ -7074,6 +7389,27 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "935-4-41652",
+    "instrumentSlug": "treble-chorus",
+    "instrumentName": "Treble Choruses",
+    "eventName": "Treble Chorus",
+    "title": "Good Night, Dear Heart",
+    "composer": "Forrest",
+    "arranger": "",
+    "publishers": [
+      "Hinshaw Music Inc."
+    ],
+    "publisherText": "Hinshaw Music Inc.",
+    "classLevel": 4,
+    "specification": "(SSAA) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "935-4-38343",
     "instrumentSlug": "treble-chorus",
     "instrumentName": "Treble Choruses",
@@ -7853,6 +8189,27 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "935-4-41653",
+    "instrumentSlug": "treble-chorus",
+    "instrumentName": "Treble Choruses",
+    "eventName": "Treble Chorus",
+    "title": "Ilus H\u00e4\u00e4l (SSAA)",
+    "composer": "Kits",
+    "arranger": "Jekabsone",
+    "publishers": [
+      "Walton Music Corporation"
+    ],
+    "publisherText": "Walton Music Corporation",
+    "classLevel": 4,
+    "specification": "(SSAA) (a cappella)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/ilus-haal-11347958/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "935-4-22972",
     "instrumentSlug": "treble-chorus",
     "instrumentName": "Treble Choruses",
@@ -7971,6 +8328,27 @@
     "publisherText": "Rongwen Bros. Music Company",
     "classLevel": 4,
     "specification": "(SSA) (sing Fairies' Song) (a cappella)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "935-4-41649",
+    "instrumentSlug": "treble-chorus",
+    "instrumentName": "Treble Choruses",
+    "eventName": "Treble Chorus",
+    "title": "Hope is the Thing with Feathers",
+    "composer": "LaBarr",
+    "arranger": "",
+    "publishers": [
+      "Santa Barbara Music Publishing"
+    ],
+    "publisherText": "Santa Barbara Music Publishing",
+    "classLevel": 4,
+    "specification": "(SSAA) (accomp)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -8208,6 +8586,27 @@
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/ave-regina-caelorum-1398650/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "935-4-41648",
+    "instrumentSlug": "treble-chorus",
+    "instrumentName": "Treble Choruses",
+    "eventName": "Treble Chorus",
+    "title": "The Blue Ridge",
+    "composer": "Lorimer",
+    "arranger": "",
+    "publishers": [
+      "Heritage Music Press"
+    ],
+    "publisherText": "Heritage Music Press",
+    "classLevel": 4,
+    "specification": "(SSA) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
   },
   {
     "uilCode": "935-4-22794",
@@ -8484,6 +8883,27 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "935-4-41647",
+    "instrumentSlug": "treble-chorus",
+    "instrumentName": "Treble Choruses",
+    "eventName": "Treble Chorus",
+    "title": "Sanctus",
+    "composer": "Miner",
+    "arranger": "",
+    "publishers": [
+      "Alliance Music Publications"
+    ],
+    "publisherText": "Alliance Music Publications",
+    "classLevel": 4,
+    "specification": "(SSA) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/sanctus-10985260/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "935-4-22924",
     "instrumentSlug": "treble-chorus",
     "instrumentName": "Treble Choruses",
@@ -8673,6 +9093,27 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "935-4-41656",
+    "instrumentSlug": "treble-chorus",
+    "instrumentName": "Treble Choruses",
+    "eventName": "Treble Chorus",
+    "title": "Dominus Vobiscum",
+    "composer": "Narverud",
+    "arranger": "",
+    "publishers": [
+      "Carl Fischer, Inc."
+    ],
+    "publisherText": "Carl Fischer, Inc.",
+    "classLevel": 4,
+    "specification": "(SSA) (divisi) (a cappella)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/dominus-vobiscum-10510012/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "935-4-38355",
     "instrumentSlug": "treble-chorus",
     "instrumentName": "Treble Choruses",
@@ -8734,6 +9175,27 @@
     "sheetMusicAffiliateUrl": null,
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "935-4-41651",
+    "instrumentSlug": "treble-chorus",
+    "instrumentName": "Treble Choruses",
+    "eventName": "Treble Chorus",
+    "title": "Ngothando",
+    "composer": "Ndlovu",
+    "arranger": "",
+    "publishers": [
+      "Walton Music Corporation"
+    ],
+    "publisherText": "Walton Music Corporation",
+    "classLevel": 4,
+    "specification": "(SSAA) (djembe REQUIRED) (a cappella)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/ngothando-10994193/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
     "uilCode": "935-4-38349",
@@ -9121,7 +9583,7 @@
     "instrumentName": "Treble Choruses",
     "eventName": "Treble Chorus",
     "title": "Blogos?awieni mi?osierni",
-    "composer": "Raczy?ski",
+    "composer": "Raczynski",
     "arranger": "",
     "publishers": [
       "Walton Music Corporation"
@@ -9767,6 +10229,27 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "935-4-41654",
+    "instrumentSlug": "treble-chorus",
+    "instrumentName": "Treble Choruses",
+    "eventName": "Treble Chorus",
+    "title": "And the Angels Sang",
+    "composer": "Spevacek",
+    "arranger": "",
+    "publishers": [
+      "Heritage Music Press"
+    ],
+    "publisherText": "Heritage Music Press",
+    "classLevel": 4,
+    "specification": "(SSAA) (a cappella)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "935-4-39509",
     "instrumentSlug": "treble-chorus",
     "instrumentName": "Treble Choruses",
@@ -9998,6 +10481,27 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "935-4-41655",
+    "instrumentSlug": "treble-chorus",
+    "instrumentName": "Treble Choruses",
+    "eventName": "Treble Chorus",
+    "title": "If I Had a Ribbon Bow",
+    "composer": "Traditional",
+    "arranger": "Paxton",
+    "publishers": [
+      "Creative Spirit"
+    ],
+    "publisherText": "Creative Spirit",
+    "classLevel": 4,
+    "specification": "(SSA) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "935-4-38347",
     "instrumentSlug": "treble-chorus",
     "instrumentName": "Treble Choruses",
@@ -10036,6 +10540,27 @@
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/skye-boat-song-11510492/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "935-4-41650",
+    "instrumentSlug": "treble-chorus",
+    "instrumentName": "Treble Choruses",
+    "eventName": "Treble Chorus",
+    "title": "Live-a-Humble",
+    "composer": "Traditional Spiritual",
+    "arranger": "Bagley",
+    "publishers": [
+      "Alfred Music Company, Inc."
+    ],
+    "publisherText": "Alfred Music Company, Inc.",
+    "classLevel": 4,
+    "specification": "(SSAA) (a cappella)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/live-a-humble-19539/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -10080,27 +10605,6 @@
     "sheetMusicAffiliateUrl": null,
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": null
-  },
-  {
-    "uilCode": "935-4-36814",
-    "instrumentSlug": "treble-chorus",
-    "instrumentName": "Treble Choruses",
-    "eventName": "Treble Chorus",
-    "title": "Veni, Veni Emmanuel",
-    "composer": "Trotta",
-    "arranger": "",
-    "publishers": [
-      "Carl Fischer, Inc."
-    ],
-    "publisherText": "Carl Fischer, Inc.",
-    "classLevel": 4,
-    "specification": "(SSAA) (opt descant) (opt percussion) (a cappella)",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/veni-veni-emmanuel-11306352f/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
     "uilCode": "935-4-29526",
@@ -10206,6 +10710,27 @@
     "sheetMusicAffiliateUrl": null,
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "935-4-41646",
+    "instrumentSlug": "treble-chorus",
+    "instrumentName": "Treble Choruses",
+    "eventName": "Treble Chorus",
+    "title": "Allegro",
+    "composer": "Vivaldi",
+    "arranger": "Stroope",
+    "publishers": [
+      "Walton Music Corporation"
+    ],
+    "publisherText": "Walton Music Corporation",
+    "classLevel": 4,
+    "specification": "(SA) (opt string quartet & harpsichord) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/allegro-11649762f/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
     "uilCode": "935-4-23084",
@@ -10524,6 +11049,27 @@
     "sheetMusicAffiliateUrl": null,
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "935-3-41634",
+    "instrumentSlug": "treble-chorus",
+    "instrumentName": "Treble Choruses",
+    "eventName": "Treble Chorus",
+    "title": "Kolibri",
+    "composer": "Alexander/Silvestri",
+    "arranger": "",
+    "publishers": [
+      "Heritage Music Press"
+    ],
+    "publisherText": "Heritage Music Press",
+    "classLevel": 3,
+    "specification": "(SSA) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/kolibri-11641421/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
     "uilCode": "935-3-39488",
@@ -11325,27 +11871,6 @@
     "sheetMusicAffiliateSource": null
   },
   {
-    "uilCode": "935-3-28784",
-    "instrumentSlug": "treble-chorus",
-    "instrumentName": "Treble Choruses",
-    "eventName": "Treble Chorus",
-    "title": "The Stuttering Lovers",
-    "composer": "Anon. or Trad.",
-    "arranger": "Patriquin",
-    "publishers": [
-      "earthsongs"
-    ],
-    "publisherText": "earthsongs",
-    "classLevel": 3,
-    "specification": "(SA) (clarinet OR printed substitute REQUIRED) (accomp)",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/the-stuttering-lovers-5841481/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
     "uilCode": "935-3-27890",
     "instrumentSlug": "treble-chorus",
     "instrumentName": "Treble Choruses",
@@ -11850,6 +12375,48 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "935-3-41644",
+    "instrumentSlug": "treble-chorus",
+    "instrumentName": "Treble Choruses",
+    "eventName": "Treble Chorus",
+    "title": "Bront\u00eb Trilogy III: My Spirit Is Soaring",
+    "composer": "Bernon",
+    "arranger": "",
+    "publishers": [
+      "Heritage Music Press"
+    ],
+    "publisherText": "Heritage Music Press",
+    "classLevel": 3,
+    "specification": "(SSA) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/bronte-trilogy-iii-my-spirit-is-soaring-11620859/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "935-3-41639",
+    "instrumentSlug": "treble-chorus",
+    "instrumentName": "Treble Choruses",
+    "eventName": "Treble Chorus",
+    "title": "Oceans and Stars",
+    "composer": "Bernon",
+    "arranger": "",
+    "publishers": [
+      "Shawnee Press"
+    ],
+    "publisherText": "Shawnee Press",
+    "classLevel": 3,
+    "specification": "(SSA) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "935-3-31083",
     "instrumentSlug": "treble-chorus",
     "instrumentName": "Treble Choruses",
@@ -12178,6 +12745,27 @@
     "publisherText": "Boosey & Hawkes, Inc.",
     "classLevel": 3,
     "specification": "(two-part) (opt instruments) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "935-3-41645",
+    "instrumentSlug": "treble-chorus",
+    "instrumentName": "Treble Choruses",
+    "eventName": "Treble Chorus",
+    "title": "The Jungle Flower (No. 2 from Five Songs of Laurence Hope)",
+    "composer": "Burleigh",
+    "arranger": "Garrett",
+    "publishers": [
+      "GIA Publications"
+    ],
+    "publisherText": "GIA Publications",
+    "classLevel": 3,
+    "specification": "(SA) (accomp)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -12816,6 +13404,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "935-3-41637",
+    "instrumentSlug": "treble-chorus",
+    "instrumentName": "Treble Choruses",
+    "eventName": "Treble Chorus",
+    "title": "A Jubilant Psalm",
+    "composer": "Crocker",
+    "arranger": "",
+    "publishers": [
+      "Hal Leonard Music, Inc."
+    ],
+    "publisherText": "Hal Leonard Music, Inc.",
+    "classLevel": 3,
+    "specification": "(SSA) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "935-3-39490",
     "instrumentSlug": "treble-chorus",
     "instrumentName": "Treble Choruses",
@@ -12921,6 +13530,27 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "935-3-41636",
+    "instrumentSlug": "treble-chorus",
+    "instrumentName": "Treble Choruses",
+    "eventName": "Treble Chorus",
+    "title": "Waiting",
+    "composer": "Crocker",
+    "arranger": "",
+    "publishers": [
+      "Galaxy Music Corporation"
+    ],
+    "publisherText": "Galaxy Music Corporation",
+    "classLevel": 3,
+    "specification": "(SSA) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/waiting-11640830/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "935-3-40610",
     "instrumentSlug": "treble-chorus",
     "instrumentName": "Treble Choruses",
@@ -12964,6 +13594,27 @@
   },
   {
     "uilCode": "935-3-32016",
+    "instrumentSlug": "treble-chorus",
+    "instrumentName": "Treble Choruses",
+    "eventName": "Treble Chorus",
+    "title": "The Lake Isle of Innisfree",
+    "composer": "Daley",
+    "arranger": "",
+    "publishers": [
+      "Oxford University Press"
+    ],
+    "publisherText": "Oxford University Press",
+    "classLevel": 3,
+    "specification": "(SSA) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "935-3-41640",
     "instrumentSlug": "treble-chorus",
     "instrumentName": "Treble Choruses",
     "eventName": "Treble Chorus",
@@ -13362,6 +14013,48 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "935-3-41630",
+    "instrumentSlug": "treble-chorus",
+    "instrumentName": "Treble Choruses",
+    "eventName": "Treble Chorus",
+    "title": "The Irish Blessing",
+    "composer": "Eilers",
+    "arranger": "Crocker",
+    "publishers": [
+      "Sheet Music Direct"
+    ],
+    "publisherText": "Sheet Music Direct",
+    "classLevel": 3,
+    "specification": "(SSA) (opt ending REQUIRED) (opt piano) (a cappella)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "935-3-41632",
+    "instrumentSlug": "treble-chorus",
+    "instrumentName": "Treble Choruses",
+    "eventName": "Treble Chorus",
+    "title": "Lux aeterna",
+    "composer": "Elberdin",
+    "arranger": "",
+    "publishers": [
+      "Alliance Music Publications"
+    ],
+    "publisherText": "Alliance Music Publications",
+    "classLevel": 3,
+    "specification": "(SA) (piano or organ) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/lux-aeterna-5615992/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "935-3-36805",
     "instrumentSlug": "treble-chorus",
     "instrumentName": "Treble Choruses",
@@ -13619,6 +14312,27 @@
     "instrumentName": "Treble Choruses",
     "eventName": "Treble Chorus",
     "title": "Remember Me",
+    "composer": "Farnell",
+    "arranger": "",
+    "publishers": [
+      "Hal Leonard Music, Inc."
+    ],
+    "publisherText": "Hal Leonard Music, Inc.",
+    "classLevel": 3,
+    "specification": "(SSA) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "935-3-41626",
+    "instrumentSlug": "treble-chorus",
+    "instrumentName": "Treble Choruses",
+    "eventName": "Treble Chorus",
+    "title": "The Beauty of the Night (SSA)",
     "composer": "Farnell",
     "arranger": "",
     "publishers": [
@@ -14140,6 +14854,48 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "935-3-41642",
+    "instrumentSlug": "treble-chorus",
+    "instrumentName": "Treble Choruses",
+    "eventName": "Treble Chorus",
+    "title": "Bront\u00eb Trilogy I: I Cannot Go",
+    "composer": "Gray",
+    "arranger": "",
+    "publishers": [
+      "Heritage Music Press"
+    ],
+    "publisherText": "Heritage Music Press",
+    "classLevel": 3,
+    "specification": "(SSA) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/bronte-trilogy-i-i-cannot-go-11620849/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "935-3-41631",
+    "instrumentSlug": "treble-chorus",
+    "instrumentName": "Treble Choruses",
+    "eventName": "Treble Chorus",
+    "title": "Sigh No More, Ladies",
+    "composer": "Gray",
+    "arranger": "",
+    "publishers": [
+      "GIA Publications"
+    ],
+    "publisherText": "GIA Publications",
+    "classLevel": 3,
+    "specification": "(SSA) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/sigh-no-more-11594222/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "935-3-34558",
     "instrumentSlug": "treble-chorus",
     "instrumentName": "Treble Choruses",
@@ -14174,6 +14930,27 @@
     "publisherText": "Walton Music Corporation [Sing Joyfully 2]",
     "classLevel": 3,
     "specification": "(SA) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "935-3-41638",
+    "instrumentSlug": "treble-chorus",
+    "instrumentName": "Treble Choruses",
+    "eventName": "Treble Chorus",
+    "title": "I Started Out Singing",
+    "composer": "Hagen",
+    "arranger": "",
+    "publishers": [
+      "Graphite Publishing"
+    ],
+    "publisherText": "Graphite Publishing",
+    "classLevel": 3,
+    "specification": "(three-part) (accomp)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -14474,6 +15251,27 @@
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/dobru-noc-10275786/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "935-3-41628",
+    "instrumentSlug": "treble-chorus",
+    "instrumentName": "Treble Choruses",
+    "eventName": "Treble Chorus",
+    "title": "Elijah Rock",
+    "composer": "Johnson",
+    "arranger": "",
+    "publishers": [
+      "Choristers Guild"
+    ],
+    "publisherText": "Choristers Guild",
+    "classLevel": 3,
+    "specification": "(SSA) (a cappella)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
   },
   {
     "uilCode": "935-3-33210",
@@ -14915,6 +15713,27 @@
     "sheetMusicAffiliateUrl": null,
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "935-3-39486",
+    "instrumentSlug": "treble-chorus",
+    "instrumentName": "Treble Choruses",
+    "eventName": "Treble Chorus",
+    "title": "We Are Held",
+    "composer": "LaBarr & Wilson",
+    "arranger": "",
+    "publishers": [
+      "Walton Music Corporation"
+    ],
+    "publisherText": "Walton Music Corporation",
+    "classLevel": 3,
+    "specification": "(SSA) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/we-are-held-11392535/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
     "uilCode": "935-3-22864",
@@ -15528,6 +16347,27 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "935-3-41629",
+    "instrumentSlug": "treble-chorus",
+    "instrumentName": "Treble Choruses",
+    "eventName": "Treble Chorus",
+    "title": "Under the Trees",
+    "composer": "McKibben",
+    "arranger": "",
+    "publishers": [
+      "Heritage Music Press"
+    ],
+    "publisherText": "Heritage Music Press",
+    "classLevel": 3,
+    "specification": "(SSA) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "935-3-22874",
     "instrumentSlug": "treble-chorus",
     "instrumentName": "Treble Choruses",
@@ -16066,6 +16906,27 @@
     "publisherText": "Lorenz Corporation",
     "classLevel": 3,
     "specification": "(SA) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "935-3-41643",
+    "instrumentSlug": "treble-chorus",
+    "instrumentName": "Treble Choruses",
+    "eventName": "Treble Chorus",
+    "title": "Bront\u00eb Trilogy II: The Real World Was Wide",
+    "composer": "Norman",
+    "arranger": "",
+    "publishers": [
+      "Heritage Music Press"
+    ],
+    "publisherText": "Heritage Music Press",
+    "classLevel": 3,
+    "specification": "(SSA) (accomp)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -16831,6 +17692,27 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "935-3-41633",
+    "instrumentSlug": "treble-chorus",
+    "instrumentName": "Treble Choruses",
+    "eventName": "Treble Chorus",
+    "title": "Gamaya",
+    "composer": "Rudoi",
+    "arranger": "",
+    "publishers": [
+      "Graphite Publishing"
+    ],
+    "publisherText": "Graphite Publishing",
+    "classLevel": 3,
+    "specification": "(SA) (opt djembe) (a cappella)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/gamaya-10632281/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "935-3-22895",
     "instrumentSlug": "treble-chorus",
     "instrumentName": "Treble Choruses",
@@ -17293,6 +18175,27 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "935-3-41641",
+    "instrumentSlug": "treble-chorus",
+    "instrumentName": "Treble Choruses",
+    "eventName": "Treble Chorus",
+    "title": "How the Water Sings",
+    "composer": "Sirett",
+    "arranger": "",
+    "publishers": [
+      "Alliance Music Publications"
+    ],
+    "publisherText": "Alliance Music Publications",
+    "classLevel": 3,
+    "specification": "(SA) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "935-3-34548",
     "instrumentSlug": "treble-chorus",
     "instrumentName": "Treble Choruses",
@@ -17650,6 +18553,27 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "935-3-41625",
+    "instrumentSlug": "treble-chorus",
+    "instrumentName": "Treble Choruses",
+    "eventName": "Treble Chorus",
+    "title": "Byem\u2019 Bye",
+    "composer": "Traditional",
+    "arranger": "Cooper",
+    "publishers": [
+      "Hal Leonard Music, Inc."
+    ],
+    "publisherText": "Hal Leonard Music, Inc.",
+    "classLevel": 3,
+    "specification": "(two-part) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/byem-bye-11620696/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "935-3-40614",
     "instrumentSlug": "treble-chorus",
     "instrumentName": "Treble Choruses",
@@ -17903,6 +18827,27 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "935-3-41627",
+    "instrumentSlug": "treble-chorus",
+    "instrumentName": "Treble Choruses",
+    "eventName": "Treble Chorus",
+    "title": "I Would Live In Your Love",
+    "composer": "Trotta",
+    "arranger": "",
+    "publishers": [
+      "Hampton Roads Music Group"
+    ],
+    "publisherText": "Hampton Roads Music Group",
+    "classLevel": 3,
+    "specification": "(SA) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "935-3-38333",
     "instrumentSlug": "treble-chorus",
     "instrumentName": "Treble Choruses",
@@ -18147,6 +19092,27 @@
     "publisherText": "Plymouth Music Company",
     "classLevel": 3,
     "specification": "(SSA) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "935-3-41635",
+    "instrumentSlug": "treble-chorus",
+    "instrumentName": "Treble Choruses",
+    "eventName": "Treble Chorus",
+    "title": "Hope Is the Thing with Feathers",
+    "composer": "Williams",
+    "arranger": "",
+    "publishers": [
+      "Galaxy Music Corporation"
+    ],
+    "publisherText": "Galaxy Music Corporation",
+    "classLevel": 3,
+    "specification": "(two-part) (accomp)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -19941,6 +20907,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "935-2-41620",
+    "instrumentSlug": "treble-chorus",
+    "instrumentName": "Treble Choruses",
+    "eventName": "Treble Chorus",
+    "title": "Dum Spiro Spero",
+    "composer": "Brinsmead",
+    "arranger": "",
+    "publishers": [
+      "Walton Music Corporation"
+    ],
+    "publisherText": "Walton Music Corporation",
+    "classLevel": 2,
+    "specification": "(SA) (opt descant) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/dum-spiro-spero-11618465/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "935-2-22667",
     "instrumentSlug": "treble-chorus",
     "instrumentName": "Treble Choruses",
@@ -20550,6 +21537,27 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "935-2-41617",
+    "instrumentSlug": "treble-chorus",
+    "instrumentName": "Treble Choruses",
+    "eventName": "Treble Chorus",
+    "title": "The Sailor",
+    "composer": "DesJardins",
+    "arranger": "",
+    "publishers": [
+      "Boosey & Hawkes, Inc."
+    ],
+    "publisherText": "Boosey & Hawkes, Inc.",
+    "classLevel": 2,
+    "specification": "(two-part) (body percussion REQUIRED) (opt piccolo) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/the-sailor-11657669f/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "935-2-31074",
     "instrumentSlug": "treble-chorus",
     "instrumentName": "Treble Choruses",
@@ -20647,6 +21655,27 @@
     "publisherText": "Alfred Music Company, Inc.",
     "classLevel": 2,
     "specification": "(two-part) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "935-2-41613",
+    "instrumentSlug": "treble-chorus",
+    "instrumentName": "Treble Choruses",
+    "eventName": "Treble Chorus",
+    "title": "Seasons of Peace (with Dona Nobis Pacem)",
+    "composer": "Donnelly/Strid",
+    "arranger": "",
+    "publishers": [
+      "Hal Leonard Music, Inc."
+    ],
+    "publisherText": "Hal Leonard Music, Inc.",
+    "classLevel": 2,
+    "specification": "(two-part) (opt three part) (opt flute) (accomp)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -21046,6 +22075,27 @@
     "publisherText": "Shawnee Press",
     "classLevel": 2,
     "specification": "(two-part) (opt brass quintet) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "935-2-41622",
+    "instrumentSlug": "treble-chorus",
+    "instrumentName": "Treble Choruses",
+    "eventName": "Treble Chorus",
+    "title": "A Joyful Sound",
+    "composer": "Garrett",
+    "arranger": "",
+    "publishers": [
+      "MLAG Music"
+    ],
+    "publisherText": "MLAG Music",
+    "classLevel": 2,
+    "specification": "(SA) (accomp)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -21873,27 +22923,6 @@
     "sheetMusicAffiliateSource": null
   },
   {
-    "uilCode": "935-2-39486",
-    "instrumentSlug": "treble-chorus",
-    "instrumentName": "Treble Choruses",
-    "eventName": "Treble Chorus",
-    "title": "We Are Held",
-    "composer": "LaBarr & Wilson",
-    "arranger": "",
-    "publishers": [
-      "Walton Music Corporation"
-    ],
-    "publisherText": "Walton Music Corporation",
-    "classLevel": 2,
-    "specification": "(SSA) (accomp)",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/we-are-held-11392535/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
     "uilCode": "935-2-22632",
     "instrumentSlug": "treble-chorus",
     "instrumentName": "Treble Choruses",
@@ -22054,6 +23083,27 @@
     "publisherText": "Heritage Music Press",
     "classLevel": 2,
     "specification": "(two-part) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "935-2-41624",
+    "instrumentSlug": "treble-chorus",
+    "instrumentName": "Treble Choruses",
+    "eventName": "Treble Chorus",
+    "title": "Gloria Deo",
+    "composer": "Lightfoot",
+    "arranger": "",
+    "publishers": [
+      "Heritage Music Press"
+    ],
+    "publisherText": "Heritage Music Press",
+    "classLevel": 2,
+    "specification": "(SSA) (accomp)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -22671,6 +23721,48 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "935-2-41619",
+    "instrumentSlug": "treble-chorus",
+    "instrumentName": "Treble Choruses",
+    "eventName": "Treble Chorus",
+    "title": "Dewdrops",
+    "composer": "Norman",
+    "arranger": "",
+    "publishers": [
+      "Heritage Music Press"
+    ],
+    "publisherText": "Heritage Music Press",
+    "classLevel": 2,
+    "specification": "(two-part) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/dewdrops-11559264/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "935-2-41615",
+    "instrumentSlug": "treble-chorus",
+    "instrumentName": "Treble Choruses",
+    "eventName": "Treble Chorus",
+    "title": "Oborozukiyo (Misty Moonlit Night)",
+    "composer": "Okano",
+    "arranger": "Wagner",
+    "publishers": [
+      "Shawnee Press"
+    ],
+    "publisherText": "Shawnee Press",
+    "classLevel": 2,
+    "specification": "(two-part) (opt glockenspiel OR handbells) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/oborozukiyo-11604285/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "935-2-29476",
     "instrumentSlug": "treble-chorus",
     "instrumentName": "Treble Choruses",
@@ -23197,6 +24289,27 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "935-2-41623",
+    "instrumentSlug": "treble-chorus",
+    "instrumentName": "Treble Choruses",
+    "eventName": "Treble Chorus",
+    "title": "A Better World",
+    "composer": "Rentz",
+    "arranger": "",
+    "publishers": [
+      "BriLee Music"
+    ],
+    "publisherText": "BriLee Music",
+    "classLevel": 2,
+    "specification": "(two-part) (opt descant) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "935-2-28790",
     "instrumentSlug": "treble-chorus",
     "instrumentName": "Treble Choruses",
@@ -23210,6 +24323,27 @@
     "publisherText": "Alliance Music Publications",
     "classLevel": 2,
     "specification": "(two-part) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "935-2-41618",
+    "instrumentSlug": "treble-chorus",
+    "instrumentName": "Treble Choruses",
+    "eventName": "Treble Chorus",
+    "title": "Winter Moon",
+    "composer": "Ricks",
+    "arranger": "",
+    "publishers": [
+      "Heritage Music Press"
+    ],
+    "publisherText": "Heritage Music Press",
+    "classLevel": 2,
+    "specification": "(SA) (accomp)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -24163,6 +25297,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "935-2-41616",
+    "instrumentSlug": "treble-chorus",
+    "instrumentName": "Treble Choruses",
+    "eventName": "Treble Chorus",
+    "title": "Hashivenu",
+    "composer": "Traditional Hebrew Song",
+    "arranger": "Gray",
+    "publishers": [
+      "Alfred Music Company, Inc."
+    ],
+    "publisherText": "Alfred Music Company, Inc.",
+    "classLevel": 2,
+    "specification": "(two-part) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/hashivenu-11613270/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "935-2-35386",
     "instrumentSlug": "treble-chorus",
     "instrumentName": "Treble Choruses",
@@ -24245,6 +25400,27 @@
     "sheetMusicAffiliateUrl": null,
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "935-2-41614",
+    "instrumentSlug": "treble-chorus",
+    "instrumentName": "Treble Choruses",
+    "eventName": "Treble Chorus",
+    "title": "Kokoleoko",
+    "composer": "Traditional Liberian Folk Song",
+    "arranger": "Johnson",
+    "publishers": [
+      "Shawnee Press"
+    ],
+    "publisherText": "Shawnee Press",
+    "classLevel": 2,
+    "specification": "(two-part) (perussion REQUIRED) (a cappella)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/kokoleoko-11610164/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
     "uilCode": "935-2-35365",
@@ -24468,6 +25644,27 @@
       "Alfred Music Company, Inc. [Folk Songs Around The World]"
     ],
     "publisherText": "Alfred Music Company, Inc. [Folk Songs Around The World]",
+    "classLevel": 2,
+    "specification": "(two-part) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/oy-khodyt-son-11415525/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "935-2-41621",
+    "instrumentSlug": "treble-chorus",
+    "instrumentName": "Treble Choruses",
+    "eventName": "Treble Chorus",
+    "title": "Oy Khodyt Son",
+    "composer": "Ukrainian Lullaby",
+    "arranger": "Martinez",
+    "publishers": [
+      "Alfred Music Company, Inc."
+    ],
+    "publisherText": "Alfred Music Company, Inc.",
     "classLevel": 2,
     "specification": "(two-part) (accomp)",
     "noMemoryRequired": false,
@@ -24764,6 +25961,27 @@
     "publisherText": "Walton Music Corporation [Sing Joyfully 2]",
     "classLevel": 2,
     "specification": "(SA) (sing Hear, Thou Shepherd of Israel OR Gaudent in Coelis OR Qui Pacem Ponit OR S'e Il Signore Mio Pastore OR The Sorrows of My Heart) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "935-1-41611",
+    "instrumentSlug": "treble-chorus",
+    "instrumentName": "Treble Choruses",
+    "eventName": "Treble Chorus",
+    "title": "Down in the Valley Two By Two",
+    "composer": "American Folk Song",
+    "arranger": "Crocker",
+    "publishers": [
+      "Hal Leonard Music, Inc."
+    ],
+    "publisherText": "Hal Leonard Music, Inc.",
+    "classLevel": 1,
+    "specification": "(two-part) (opt descant) (accomp)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -25251,48 +26469,6 @@
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/personet-hodie-1657014/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "935-1-22556",
-    "instrumentSlug": "treble-chorus",
-    "instrumentName": "Treble Choruses",
-    "eventName": "Treble Chorus",
-    "title": "Sakura",
-    "composer": "Anon. or Trad.",
-    "arranger": "DeCormier",
-    "publishers": [
-      "Lawson-Gould Music Publishing Company"
-    ],
-    "publisherText": "Lawson-Gould Music Publishing Company",
-    "classLevel": 1,
-    "specification": "(SA) (accomp)",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/sakura-sakura-3303215/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "935-1-28828",
-    "instrumentSlug": "treble-chorus",
-    "instrumentName": "Treble Choruses",
-    "eventName": "Treble Chorus",
-    "title": "Sakura, Sakura (The Cherry Blossom Song)",
-    "composer": "Anon. or Trad.",
-    "arranger": "Matthews",
-    "publishers": [
-      "Colla Voce"
-    ],
-    "publisherText": "Colla Voce",
-    "classLevel": 1,
-    "specification": "(SA) (opt celeste) (accomp)",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/sakura-sakura-3303215/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -25801,6 +26977,27 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "935-1-41608",
+    "instrumentSlug": "treble-chorus",
+    "instrumentName": "Treble Choruses",
+    "eventName": "Treble Chorus",
+    "title": "Firefly",
+    "composer": "Beck",
+    "arranger": "",
+    "publishers": [
+      "Alfred Music Company, Inc."
+    ],
+    "publisherText": "Alfred Music Company, Inc.",
+    "classLevel": 1,
+    "specification": "(two-part) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/firefly-10029937/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "935-1-31069",
     "instrumentSlug": "treble-chorus",
     "instrumentName": "Treble Choruses",
@@ -26154,6 +27351,27 @@
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/sleep-gently-sleep-1422708/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "935-1-41612",
+    "instrumentSlug": "treble-chorus",
+    "instrumentName": "Treble Choruses",
+    "eventName": "Treble Chorus",
+    "title": "Cottleston Pie",
+    "composer": "Bruhn",
+    "arranger": "",
+    "publishers": [
+      "BriLee Music"
+    ],
+    "publisherText": "BriLee Music",
+    "classLevel": 1,
+    "specification": "(two-part) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/cottleston-pie-11609569/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -26578,6 +27796,27 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "935-1-41607",
+    "instrumentSlug": "treble-chorus",
+    "instrumentName": "Treble Choruses",
+    "eventName": "Treble Chorus",
+    "title": "Didn\u2019t My Lord Deliver Daniel",
+    "composer": "Emerson",
+    "arranger": "",
+    "publishers": [
+      "Hal Leonard Music, Inc."
+    ],
+    "publisherText": "Hal Leonard Music, Inc.",
+    "classLevel": 1,
+    "specification": "(two-part) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "935-1-39468",
     "instrumentSlug": "treble-chorus",
     "instrumentName": "Treble Choruses",
@@ -26595,6 +27834,27 @@
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/locus-iste-1517549/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "935-1-41609",
+    "instrumentSlug": "treble-chorus",
+    "instrumentName": "Treble Choruses",
+    "eventName": "Treble Chorus",
+    "title": "Night Winds",
+    "composer": "Farnell",
+    "arranger": "",
+    "publishers": [
+      "BriLee Music"
+    ],
+    "publisherText": "BriLee Music",
+    "classLevel": 1,
+    "specification": "(SA) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/night-winds-10086493/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -26654,6 +27914,27 @@
     "publisherText": "Shawnee Press",
     "classLevel": 1,
     "specification": "(SA) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "935-1-41605",
+    "instrumentSlug": "treble-chorus",
+    "instrumentName": "Treble Choruses",
+    "eventName": "Treble Chorus",
+    "title": "Es T\u00f6nen Die Lieder",
+    "composer": "German Folksong",
+    "arranger": "Jones",
+    "publishers": [
+      "BriLee Music"
+    ],
+    "publisherText": "BriLee Music",
+    "classLevel": 1,
+    "specification": "(SSA) (opt piano) (a cappella)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -27397,6 +28678,27 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "935-1-41610",
+    "instrumentSlug": "treble-chorus",
+    "instrumentName": "Treble Choruses",
+    "eventName": "Treble Chorus",
+    "title": "The Wind",
+    "composer": "Perry",
+    "arranger": "",
+    "publishers": [
+      "Alfred Music Company, Inc."
+    ],
+    "publisherText": "Alfred Music Company, Inc.",
+    "classLevel": 1,
+    "specification": "(two-part) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "935-1-22587",
     "instrumentSlug": "treble-chorus",
     "instrumentName": "Treble Choruses",
@@ -28132,6 +29434,48 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "935-1-22556",
+    "instrumentSlug": "treble-chorus",
+    "instrumentName": "Treble Choruses",
+    "eventName": "Treble Chorus",
+    "title": "Sakura",
+    "composer": "Traditional Japanese Folk Song",
+    "arranger": "DeCormier",
+    "publishers": [
+      "Lawson-Gould Music Publishing Company"
+    ],
+    "publisherText": "Lawson-Gould Music Publishing Company",
+    "classLevel": 1,
+    "specification": "(SA) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/sakura-sakura-3303215/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "935-1-28828",
+    "instrumentSlug": "treble-chorus",
+    "instrumentName": "Treble Choruses",
+    "eventName": "Treble Chorus",
+    "title": "Sakura, Sakura (The Cherry Blossom Song)",
+    "composer": "Traditional Japanese Folk Song",
+    "arranger": "Matthews",
+    "publishers": [
+      "Colla Voce"
+    ],
+    "publisherText": "Colla Voce",
+    "classLevel": 1,
+    "specification": "(SA) (opt celeste) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/sakura-sakura-3303215/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "935-1-37920",
     "instrumentSlug": "treble-chorus",
     "instrumentName": "Treble Choruses",
@@ -28502,6 +29846,27 @@
     "publisherText": "Walton Music Corporation [Sing Joyfully 2]",
     "classLevel": 1,
     "specification": "(SA) (sing Ave Verum Corpus) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "935-1-41606",
+    "instrumentSlug": "treble-chorus",
+    "instrumentName": "Treble Choruses",
+    "eventName": "Treble Chorus",
+    "title": "Two-Part A Cappella Canons for Treble Choir",
+    "composer": "various",
+    "arranger": "Phillips",
+    "publishers": [
+      "BriLee Music"
+    ],
+    "publisherText": "BriLee Music",
+    "classLevel": 1,
+    "specification": "(two-part) (sing one canon) (a cappella)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,

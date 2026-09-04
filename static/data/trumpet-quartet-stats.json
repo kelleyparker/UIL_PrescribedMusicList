@@ -5,7 +5,7 @@
   "songCount": 88,
   "publisherCount": 88,
   "noteCount": 1,
-  "databaseRecordCount": 89,
+  "databaseRecordCount": 88,
   "classBreakdown": {
     "3": 30,
     "2": 33,
@@ -17,6 +17,6 @@
     "Trumpet Quartet": 88
   },
   "notes": {
-    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-03-28T15:07:47.897784+00:00."
+    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-09-04T16:52:19.714183+00:00."
   }
 }

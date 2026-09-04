@@ -315,6 +315,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "306-2-41760",
+    "instrumentSlug": "bass-trombone",
+    "instrumentName": "Bass Trombone Solos",
+    "eventName": "Bass Trombone Solo",
+    "title": "Concerto \"War Games\"",
+    "composer": "York",
+    "arranger": "",
+    "publishers": [
+      "Cimarron Music Press"
+    ],
+    "publisherText": "Cimarron Music Press",
+    "classLevel": 2,
+    "specification": "(play 1st OR 2nd mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "306-1-32435",
     "instrumentSlug": "bass-trombone",
     "instrumentName": "Bass Trombone Solos",
@@ -413,6 +434,27 @@
     "classLevel": 1,
     "specification": "(play all) NMR:(play all)",
     "noMemoryRequired": true,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "306-1-41758",
+    "instrumentSlug": "bass-trombone",
+    "instrumentName": "Bass Trombone Solos",
+    "eventName": "Bass Trombone Solo",
+    "title": "Gaelic Rhapsody on Irish Themes",
+    "composer": "Bough",
+    "arranger": "",
+    "publishers": [
+      "Cimarron Music Press"
+    ],
+    "publisherText": "Cimarron Music Press",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": null,
@@ -663,7 +705,7 @@
     ],
     "publisherText": "Alphonse Leduc",
     "classLevel": 1,
-    "specification": "(play one)",
+    "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -672,25 +714,25 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
-    "uilCode": "306-1-32438",
+    "uilCode": "306-1-41752",
     "instrumentSlug": "bass-trombone",
     "instrumentName": "Bass Trombone Solos",
     "eventName": "Bass Trombone Solo",
-    "title": "Deux Danses",
-    "composer": "Defaye",
-    "arranger": "Knaub",
+    "title": "Witch of November, Op. 16",
+    "composer": "Deterling",
+    "arranger": "",
     "publishers": [
-      "Alphonse Leduc"
+      "Deterling Music"
     ],
-    "publisherText": "Alphonse Leduc",
+    "publisherText": "Deterling Music",
     "classLevel": 1,
-    "specification": "",
+    "specification": "(opt vibrophone accomp)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/deux-danses-6105589/p",
+    "sheetMusicAffiliateUrl": null,
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
+    "sheetMusicAffiliateSource": null
   },
   {
     "uilCode": "306-1-30025",
@@ -1071,6 +1113,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "306-1-41754",
+    "instrumentSlug": "bass-trombone",
+    "instrumentName": "Bass Trombone Solos",
+    "eventName": "Bass Trombone Solo",
+    "title": "First Things First",
+    "composer": "Gulino",
+    "arranger": "",
+    "publishers": [
+      "Cimarron Music Press"
+    ],
+    "publisherText": "Cimarron Music Press",
+    "classLevel": 1,
+    "specification": "(unaccomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/first-things-first-11100242/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "306-1-32442",
     "instrumentSlug": "bass-trombone",
     "instrumentName": "Bass Trombone Solos",
@@ -1132,6 +1195,27 @@
     "sheetMusicAffiliateUrl": null,
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "306-1-41759",
+    "instrumentSlug": "bass-trombone",
+    "instrumentName": "Bass Trombone Solos",
+    "eventName": "Bass Trombone Solo",
+    "title": "Violent Shadows",
+    "composer": "Hass",
+    "arranger": "",
+    "publishers": [
+      "Murphy Music Press"
+    ],
+    "publisherText": "Murphy Music Press",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/violent-shadows-11390577/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
     "uilCode": "306-1-13349",
@@ -1452,6 +1536,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "306-1-41755",
+    "instrumentSlug": "bass-trombone",
+    "instrumentName": "Bass Trombone Solos",
+    "eventName": "Bass Trombone Solo",
+    "title": "Monologue",
+    "composer": "Naulais",
+    "arranger": "",
+    "publishers": [
+      "International Music Diffusion"
+    ],
+    "publisherText": "International Music Diffusion",
+    "classLevel": 1,
+    "specification": "(unaccomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/monologue-10640185/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "306-1-13363",
     "instrumentSlug": "bass-trombone",
     "instrumentName": "Bass Trombone Solos",
@@ -1591,6 +1696,27 @@
     "publisherText": "Wehr's Music House",
     "classLevel": 1,
     "specification": "(play mvts 1 & 2 or 3 & 4)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "306-1-41756",
+    "instrumentSlug": "bass-trombone",
+    "instrumentName": "Bass Trombone Solos",
+    "eventName": "Bass Trombone Solo",
+    "title": "Valse Baltique",
+    "composer": "Rose",
+    "arranger": "",
+    "publishers": [
+      "Ascenda Music Publishing"
+    ],
+    "publisherText": "Ascenda Music Publishing",
+    "classLevel": 1,
+    "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -2018,5 +2144,47 @@
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/concerto-5306246/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "306-1-41757",
+    "instrumentSlug": "bass-trombone",
+    "instrumentName": "Bass Trombone Solos",
+    "eventName": "Bass Trombone Solo",
+    "title": "A Caged Bird",
+    "composer": "York",
+    "arranger": "",
+    "publishers": [
+      "Cimarron Music Press"
+    ],
+    "publisherText": "Cimarron Music Press",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "306-1-41753",
+    "instrumentSlug": "bass-trombone",
+    "instrumentName": "Bass Trombone Solos",
+    "eventName": "Bass Trombone Solo",
+    "title": "Concerto \"War Games\"",
+    "composer": "York",
+    "arranger": "",
+    "publishers": [
+      "Cimarron Music Press"
+    ],
+    "publisherText": "Cimarron Music Press",
+    "classLevel": 1,
+    "specification": "(play mvt 2 PLUS one more)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
   }
 ]

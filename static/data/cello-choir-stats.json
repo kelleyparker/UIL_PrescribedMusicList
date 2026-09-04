@@ -5,7 +5,7 @@
   "songCount": 14,
   "publisherCount": 14,
   "noteCount": 1,
-  "databaseRecordCount": 15,
+  "databaseRecordCount": 14,
   "classBreakdown": {
     "3": 1,
     "2": 2,
@@ -17,6 +17,6 @@
     "Cello Choir": 14
   },
   "notes": {
-    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-03-28T15:07:48.213351+00:00."
+    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-09-04T16:53:11.636404+00:00."
   }
 }

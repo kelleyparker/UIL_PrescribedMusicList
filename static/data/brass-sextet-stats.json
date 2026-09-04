@@ -2,21 +2,21 @@
   "schoolYear": "2025-2026",
   "instrumentSlug": "brass-sextet",
   "instrumentName": "Brass Sextets",
-  "songCount": 62,
-  "publisherCount": 62,
+  "songCount": 66,
+  "publisherCount": 66,
   "noteCount": 1,
-  "databaseRecordCount": 63,
+  "databaseRecordCount": 66,
   "classBreakdown": {
     "3": 13,
-    "2": 28,
-    "1": 21
+    "2": 29,
+    "1": 24
   },
   "noMemoryRequiredCount": 0,
   "publicDomainPdfCount": 0,
   "eventBreakdown": {
-    "Brass Sextet": 62
+    "Brass Sextet": 66
   },
   "notes": {
-    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-03-28T15:07:47.979483+00:00."
+    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-09-04T16:53:06.989142+00:00."
   }
 }

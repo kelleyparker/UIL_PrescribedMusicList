@@ -2,20 +2,21 @@
   "schoolYear": "2025-2026",
   "instrumentSlug": "trumpet-choir",
   "instrumentName": "Trumpet Choirs",
-  "songCount": 27,
-  "publisherCount": 27,
+  "songCount": 137,
+  "publisherCount": 137,
   "noteCount": 1,
-  "databaseRecordCount": 28,
+  "databaseRecordCount": 137,
   "classBreakdown": {
-    "2": 13,
-    "1": 14
+    "3": 12,
+    "2": 31,
+    "1": 94
   },
   "noMemoryRequiredCount": 0,
   "publicDomainPdfCount": 0,
   "eventBreakdown": {
-    "Trumpet Choir": 27
+    "Trumpet Choir": 137
   },
   "notes": {
-    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-03-28T15:07:47.990337+00:00."
+    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-09-04T16:53:11.623058+00:00."
   }
 }

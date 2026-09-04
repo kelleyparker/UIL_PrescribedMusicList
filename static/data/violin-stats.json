@@ -2,21 +2,21 @@
   "schoolYear": "2025-2026",
   "instrumentSlug": "violin",
   "instrumentName": "Violin Solos",
-  "songCount": 555,
-  "publisherCount": 919,
+  "songCount": 554,
+  "publisherCount": 918,
   "noteCount": 1,
-  "databaseRecordCount": 556,
+  "databaseRecordCount": 554,
   "classBreakdown": {
     "3": 112,
     "2": 194,
-    "1": 249
+    "1": 248
   },
   "noMemoryRequiredCount": 10,
   "publicDomainPdfCount": 0,
   "eventBreakdown": {
-    "Violin Solo": 555
+    "Violin Solo": 554
   },
   "notes": {
-    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-03-28T15:07:47.574043+00:00."
+    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-09-04T16:48:40.953354+00:00."
   }
 }

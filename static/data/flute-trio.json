@@ -71,9 +71,9 @@
     "composer": "Anon. or Trad.",
     "arranger": "Lombardo",
     "publishers": [
-      "Lom"
+      "Lombardo Music Publication"
     ],
-    "publisherText": "Lom",
+    "publisherText": "Lombardo Music Publication",
     "classLevel": 3,
     "specification": "",
     "noMemoryRequired": false,
@@ -92,9 +92,9 @@
     "composer": "Anon. or Trad.",
     "arranger": "Lombardo",
     "publishers": [
-      "Lom"
+      "Lombardo Music Publication"
     ],
-    "publisherText": "Lom",
+    "publisherText": "Lombardo Music Publication",
     "classLevel": 3,
     "specification": "",
     "noMemoryRequired": false,
@@ -134,9 +134,9 @@
     "composer": "Anon. or Trad.",
     "arranger": "Lombardo",
     "publishers": [
-      "Lom"
+      "Lombardo Music Publication"
     ],
-    "publisherText": "Lom",
+    "publisherText": "Lombardo Music Publication",
     "classLevel": 3,
     "specification": "",
     "noMemoryRequired": false,
@@ -290,27 +290,6 @@
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/little-fugue-4589834/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "234-3-11630",
-    "instrumentSlug": "flute-trio",
-    "instrumentName": "Flute Trios",
-    "eventName": "Flute Trio",
-    "title": "March",
-    "composer": "Handel",
-    "arranger": "Gearhart/Wilkins",
-    "publishers": [
-      "Shawnee Press [Flute Sessions]"
-    ],
-    "publisherText": "Shawnee Press [Flute Sessions]",
-    "classLevel": 3,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/flute-sessions-1004233/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -647,27 +626,6 @@
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/flextrios-for-woodwinds-10059455/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "234-3-11638",
-    "instrumentSlug": "flute-trio",
-    "instrumentName": "Flute Trios",
-    "eventName": "Flute Trio",
-    "title": "Madrigal",
-    "composer": "Palestrina",
-    "arranger": "Gearhart/Wilkins",
-    "publishers": [
-      "Shawnee Press [Flute Sessions]"
-    ],
-    "publisherText": "Shawnee Press [Flute Sessions]",
-    "classLevel": 3,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/flute-sessions-1004233/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -1029,6 +987,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "234-3-11630",
+    "instrumentSlug": "flute-trio",
+    "instrumentName": "Flute Trios",
+    "eventName": "Flute Trio",
+    "title": "Flute Sessions",
+    "composer": "various",
+    "arranger": "Gearhart/Wilkins",
+    "publishers": [
+      "Shawnee Press [Flute Sessions]"
+    ],
+    "publisherText": "Shawnee Press [Flute Sessions]",
+    "classLevel": 3,
+    "specification": "(play March (Handel) OR Madrigal (Palestrina))",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/flute-sessions-1004233/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "234-3-35139",
     "instrumentSlug": "flute-trio",
     "instrumentName": "Flute Trios",
@@ -1068,27 +1047,6 @@
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/now-be-praised-11336316/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "234-2-11578",
-    "instrumentSlug": "flute-trio",
-    "instrumentName": "Flute Trios",
-    "eventName": "Flute Trio",
-    "title": "Prelude",
-    "composer": "Bach",
-    "arranger": "Gearhart/Wilkins",
-    "publishers": [
-      "Shawnee Press [Flute Sessions]"
-    ],
-    "publisherText": "Shawnee Press [Flute Sessions]",
-    "classLevel": 2,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/prelude-and-minuet-flute-trio-5455589/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -1233,6 +1191,27 @@
     "publisherText": "JPM Music Publications",
     "classLevel": 2,
     "specification": "(play Mvt I. Allegro Moderato)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "234-2-41842",
+    "instrumentSlug": "flute-trio",
+    "instrumentName": "Flute Trios",
+    "eventName": "Flute Trio",
+    "title": "Rondo Fantasie on Themes by Charles Carter",
+    "composer": "Carter",
+    "arranger": "Musella",
+    "publishers": [
+      "ALRY Publications"
+    ],
+    "publisherText": "ALRY Publications",
+    "classLevel": 2,
+    "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -1850,6 +1829,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "234-2-41844",
+    "instrumentSlug": "flute-trio",
+    "instrumentName": "Flute Trios",
+    "eventName": "Flute Trio",
+    "title": "Irish Roundabout",
+    "composer": "Lendt",
+    "arranger": "",
+    "publishers": [
+      "JPM Music Publications"
+    ],
+    "publisherText": "JPM Music Publications",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "234-2-35126",
     "instrumentSlug": "flute-trio",
     "instrumentName": "Flute Trios",
@@ -2144,27 +2144,6 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
-    "uilCode": "234-2-11608",
-    "instrumentSlug": "flute-trio",
-    "instrumentName": "Flute Trios",
-    "eventName": "Flute Trio",
-    "title": "Trio",
-    "composer": "Mozart",
-    "arranger": "Gearhart/Wilkins",
-    "publishers": [
-      "Shawnee Press [Flute Sessions]"
-    ],
-    "publisherText": "Shawnee Press [Flute Sessions]",
-    "classLevel": 2,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/flute-sessions-1004233/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
     "uilCode": "234-2-11609",
     "instrumentSlug": "flute-trio",
     "instrumentName": "Flute Trios",
@@ -2249,48 +2228,6 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
-    "uilCode": "234-2-11613",
-    "instrumentSlug": "flute-trio",
-    "instrumentName": "Flute Trios",
-    "eventName": "Flute Trio",
-    "title": "Phantasm",
-    "composer": "Prokofieff",
-    "arranger": "Gearhart/Wilkins",
-    "publishers": [
-      "Shawnee Press [Flute Sessions]"
-    ],
-    "publisherText": "Shawnee Press [Flute Sessions]",
-    "classLevel": 2,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/flute-sessions-1004233/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "234-2-11614",
-    "instrumentSlug": "flute-trio",
-    "instrumentName": "Flute Trios",
-    "eventName": "Flute Trio",
-    "title": "Allegro",
-    "composer": "Quantz",
-    "arranger": "Gearhart/Wilkins",
-    "publishers": [
-      "Shawnee Press [Flute Sessions]"
-    ],
-    "publisherText": "Shawnee Press [Flute Sessions]",
-    "classLevel": 2,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/flute-sessions-1004233/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
     "uilCode": "234-2-11615",
     "instrumentSlug": "flute-trio",
     "instrumentName": "Flute Trios",
@@ -2362,9 +2299,9 @@
     "composer": "Rubinstein",
     "arranger": "Lombardo",
     "publishers": [
-      "Lom"
+      "Lombardo Music Publication"
     ],
-    "publisherText": "Lom",
+    "publisherText": "Lombardo Music Publication",
     "classLevel": 2,
     "specification": "",
     "noMemoryRequired": false,
@@ -2560,6 +2497,48 @@
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/it-came-upon-a-midnight-clear-11395405/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "234-2-41843",
+    "instrumentSlug": "flute-trio",
+    "instrumentName": "Flute Trios",
+    "eventName": "Flute Trio",
+    "title": "Summer Suite",
+    "composer": "Zipin",
+    "arranger": "",
+    "publishers": [
+      "ALRY Publications"
+    ],
+    "publisherText": "ALRY Publications",
+    "classLevel": 2,
+    "specification": "(play mvts 1 & 3)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "234-2-11578",
+    "instrumentSlug": "flute-trio",
+    "instrumentName": "Flute Trios",
+    "eventName": "Flute Trio",
+    "title": "Flute Sessions",
+    "composer": "various",
+    "arranger": "Gearhart/Wilkins",
+    "publishers": [
+      "Shawnee Press [Flute Sessions]"
+    ],
+    "publisherText": "Shawnee Press [Flute Sessions]",
+    "classLevel": 2,
+    "specification": "(play Prelude (Bach) OR Trio (Mozart) OR Phantasm OR Allegro (Quantz))",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/prelude-and-minuet-flute-trio-5455589/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -2856,6 +2835,27 @@
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/zwei-sonaten-7910656/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "234-1-41841",
+    "instrumentSlug": "flute-trio",
+    "instrumentName": "Flute Trios",
+    "eventName": "Flute Trio",
+    "title": "Elfentanz: Capriccio",
+    "composer": "Bolck",
+    "arranger": "Marro",
+    "publishers": [
+      "ALRY Publications"
+    ],
+    "publisherText": "ALRY Publications",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/capriccio-7944341/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },

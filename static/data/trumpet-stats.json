@@ -2,21 +2,21 @@
   "schoolYear": "2025-2026",
   "instrumentSlug": "trumpet",
   "instrumentName": "Trumpet Solos",
-  "songCount": 437,
-  "publisherCount": 446,
+  "songCount": 362,
+  "publisherCount": 371,
   "noteCount": 1,
-  "databaseRecordCount": 438,
+  "databaseRecordCount": 362,
   "classBreakdown": {
-    "3": 158,
-    "2": 129,
+    "3": 108,
+    "2": 104,
     "1": 150
   },
   "noMemoryRequiredCount": 12,
   "publicDomainPdfCount": 0,
   "eventBreakdown": {
-    "Cornet/Trumpet Solo": 437
+    "Cornet/Trumpet Solo": 362
   },
   "notes": {
-    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-03-28T15:07:47.485237+00:00."
+    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-09-04T16:48:14.609786+00:00."
   }
 }

@@ -2,21 +2,21 @@
   "schoolYear": "2025-2026",
   "instrumentSlug": "brass-quartet",
   "instrumentName": "Brass Quartets",
-  "songCount": 236,
-  "publisherCount": 236,
+  "songCount": 243,
+  "publisherCount": 243,
   "noteCount": 1,
-  "databaseRecordCount": 237,
+  "databaseRecordCount": 243,
   "classBreakdown": {
-    "3": 53,
-    "2": 91,
-    "1": 92
+    "3": 54,
+    "2": 92,
+    "1": 97
   },
   "noMemoryRequiredCount": 0,
   "publicDomainPdfCount": 0,
   "eventBreakdown": {
-    "Brass Quartet": 236
+    "Brass Quartet": 243
   },
   "notes": {
-    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-03-28T15:07:47.932649+00:00."
+    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-09-04T16:52:36.561833+00:00."
   }
 }

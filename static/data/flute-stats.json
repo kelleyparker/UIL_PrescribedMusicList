@@ -2,21 +2,21 @@
   "schoolYear": "2025-2026",
   "instrumentSlug": "flute",
   "instrumentName": "Flute Solos",
-  "songCount": 463,
-  "publisherCount": 523,
+  "songCount": 321,
+  "publisherCount": 378,
   "noteCount": 1,
-  "databaseRecordCount": 464,
+  "databaseRecordCount": 321,
   "classBreakdown": {
-    "3": 122,
-    "2": 107,
-    "1": 234
+    "3": 61,
+    "2": 97,
+    "1": 163
   },
-  "noMemoryRequiredCount": 21,
+  "noMemoryRequiredCount": 20,
   "publicDomainPdfCount": 0,
   "eventBreakdown": {
-    "Flute Solo": 463
+    "Flute Solo": 321
   },
   "notes": {
-    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-03-28T15:07:47.502934+00:00."
+    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-09-04T16:48:38.076618+00:00."
   }
 }

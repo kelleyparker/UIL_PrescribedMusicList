@@ -709,7 +709,7 @@ Code,Event Name,Title,Composer,Arranger,Publisher [Collection],Grade,Specificati
 921-4-39021,Full Orchestra,Prelude: 49th Parallel,Vaughan Williams,,Oxford Press,4,
 921-4-39022,Full Orchestra,Petite Suite de Concerte,Coleridge-Taylor,,"Boosey & Hawkes, Inc.;Edwin F. Kalmus;Luck's Music Library",4,(play one mvt)
 921-5-39023,Full Orchestra,Petite Suite de Concerte,Coleridge-Taylor,,"Boosey & Hawkes, Inc.;Edwin F. Kalmus;Luck's Music Library",5,(play two mvts)
-921-5-40075,Full Orchestra,"Japanese Suite, Op. 33",Holst,,"Boosey & Hawkes, Inc.",5,(play Prelude PLUS mvts. 1 & 2 OR Interlude PLUS mvts. 3 & 4)
+921-5-40075,Full Orchestra,"Japanese Suite, Op. 33",Holst,,"Boosey & Hawkes, Inc.;Luck's Music Library",5,(play Prelude PLUS mvts. 1 & 2 OR Interlude PLUS mvts. 3 & 4)
 921-5-40074,Full Orchestra,"2 Songs without Words, Op.22",Holst,,Luck's Music Library,5,(play 2nd mvt)
 921-5-40076,Full Orchestra,Edgon Heath,Holst,,Luck's Music Library,5,
 921-5-40077,Full Orchestra,"Ballet Music from The Perfect Fool, Op. 39",Holst,,Luck's Music Library,5,
@@ -726,3 +726,8 @@ Code,Event Name,Title,Composer,Arranger,Publisher [Collection],Grade,Specificati
 921-2-40088,Full Orchestra,Overture from Carmen,Bizet,Meyer,Highland/Etling,2,
 921-5-40140,Full Orchestra,Carmen Suite No. 1,Bizet,,Edwin F. Kalmus;Luck's Music Library,5,(play two mvts) (1 & 1a = one mvt) (LML features modern keys & clefs)
 921-5-40141,Full Orchestra,Carmen Suite No. 2,Bizet,,Edwin F. Kalmus;Luck's Music Library,5,(play two mvts) (LML features modern keys & clefs)
+921-0-41350,Full Orchestra,"Overture, tone poem, or cinematic suite",Williams,,Any unabridged edition,0,
+921-3-41351,Full Orchestra,Choose Kindness,Arcari,,Excelcia,3,
+921-3-41352,Full Orchestra,Prairie Dance,Docter,,"Belwin, Inc",3,
+921-4-41353,Full Orchestra,The Last Flight Out,Likhuta,,Murphy Music Press,4,
+921-5-41354,Full Orchestra,Preludio Sinfonico,Puccini,Kaye,Edwin F. Kalmus,5,

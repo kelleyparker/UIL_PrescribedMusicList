@@ -1,7 +1,6 @@
 Code,Event Name,Title,Composer,Arranger,Publisher [Collection],Grade,Specification
 372-1-25390,Trumpet Choir,Concerto,Telemann,Fabert,International Music Diffusion,1,QUINTET
 372-1-14218,Trumpet Choir,Fanfare and Fugue,Bach,,Associated Music Publishers Inc.,1,QUINTET
-372-2-14307,Trumpet Choir,Madrigal Moro Lasso al mio Duolo,Gesualdo,Hickman,Trigram Music Inc.,2,QUINTET
 372-1-14457,Trumpet Choir,A Greeley Fanfare with Variations,Schmidt,,"Western International Music, Inc.",1,SEXTET
 372-1-36092,Trumpet Choir,Os Justi,Bruckner,DeGoti,JPM Music Publications,1,OCTET
 372-1-36093,Trumpet Choir,Concert Fanfare,Ewazen,,Tripolo Press,1,SEXTET
@@ -13,16 +12,127 @@ Code,Event Name,Title,Composer,Arranger,Publisher [Collection],Grade,Specificati
 372-2-36099,Trumpet Choir,Afferentur Regi,Bruckner,,www.trumpetensemblemusic.com,2,SEPTET
 372-2-36100,Trumpet Choir,"Come Now, Ye Maidens",Clement,Pappas,JPM Music Publications,2,SEXTET
 372-2-36101,Trumpet Choir,Last Date,Cramer,Chidester,www.trumpetensemblemusic.com,2,SEPTET
-372-2-36102,Trumpet Choir,Madrigal - Moro lasso al mio duolo,Gesualdo,Hickman,Hickman Music Editions,2,QUINTET
 372-2-36103,Trumpet Choir,Ye Banks and Braes o' Bonnie Doon,Grainger,Ford,Tripolo Press,2,SEPTET
 372-2-36104,Trumpet Choir,Suite for Five Trumpets,LoPresti,,"Templeton Publishing Company, Inc.",2,QUINTET (play CHORALE only)
 372-1-36105,Trumpet Choir,Suite for Five Trumpets,LoPresti,,"Templeton Publishing Company, Inc.",1,QUINTET (play two mvts)
 372-2-36106,Trumpet Choir,Wedding March,Mendelssohn,Olcott,Tripolo Press,2,QUINTET
 372-2-36107,Trumpet Choir,Three All Purpose Fanfares,Olcott,,Tripolo Press,2,SEXTET
 372-2-36108,Trumpet Choir,Antiphon for Trumpets,Pethel,,Tripolo Press,2,SEXTET
-372-2-36109,Trumpet Choir,"Allegro from ""Die Bankelsangerlieder",Anonymous,Pappas,JPM Music Publications,2,SEXTET
+372-1-36109,Trumpet Choir,"Allegro from ""Die Bankelsangerlieder",Anonymous,Pappas,JPM Music Publications,1,SEXTET
 372-2-36110,Trumpet Choir,The New Century 2000 A.D,Uber,,Tripolo Press,2,SEXTET
-372-1-36111,Trumpet Choir,Festival Fanfare,Turrin,,jturrin@josephturrin.com,1,OCTET (opt percussion)
-372-1-36112,Trumpet Choir,Labyrinth for Eight Trumpets,Turrin,,jturrin@josephturrin.com,1,OCTET (flugelhorns opt)
 372-1-38687,Trumpet Choir,METALmorphosis,Chambers,,Aspenwood Music,1,OCTET
 372-1-38688,Trumpet Choir,Strange Journey,Melendez,,jm1230088@gmail.com,1,SEXTET
+372-1-42044,Trumpet Choir,Great American Fanfare,Byrd,,Eighth Note Publications,1,DECTET
+372-1-42045,Trumpet Choir,Hallelujah Chorus’ from Messiah,Handel,Ford,Tripolo Press,1,DECTET
+372-1-42046,Trumpet Choir,The Standard,Olcott,,Tripolo Press,1,DECTET (opt flugelhorn)
+372-1-42047,Trumpet Choir,Shenandoah,Traditional,Olcott,Tripolo Press,1,DECTET (opt flugelhorn)
+372-1-42048,Trumpet Choir,Trumpets Take Texas,Olcott,,Tripolo Press,1,DECTET (opt pic tpt) (opt flugelhorn)
+372-1-42049,Trumpet Choir,Fanfare Stadt Wien,Strauss,Huff,Eighth Note Publications,1,NONET (opt flugelhorn) (opt perc)
+372-1-42050,Trumpet Choir,And So It Goes,Joel,Fettig,Sam Fettig Music,1,OCTET
+372-1-42051,Trumpet Choir,Canzon septimi toni a 8 no. 1,Gabrieli,Brown,Tripolo Press,1,OCTET
+372-1-42052,Trumpet Choir,Dormant Riverbeds,Hannon,,andrewhannon.com,1,OCTET
+372-1-42053,Trumpet Choir,Hilltop Fanfare,Dietz,,Tripolo Press,1,OCTET
+372-1-42054,Trumpet Choir,Hosanna to the Son of David,Lewis,,tigermusicstore.com,1,OCTET
+372-1-42055,Trumpet Choir,Infinite Ascent,Morales,,MoralesMusic.com,1,OCTET
+372-1-42056,Trumpet Choir,Intrada Dramatica,Price,,Tripolo Press,1,OCTET
+372-1-42057,Trumpet Choir,"Mahler Symphony 1, Mvt. 4 (Highlights)",Mahler,Fettig,Sam Fettig Music,1,OCTET
+372-1-42058,Trumpet Choir,Sonoran Desert Harmonies,Ewazen,,Tripolo Press,1,OCTET
+372-1-42059,Trumpet Choir,The Lotus Eater,Lewis,,tigermusicstore.com,1,OCTET
+372-1-42060,Trumpet Choir,The Magic Flute Overture,Mozart,DeGoti,JPM Music Publications,1,OCTET
+372-1-42061,Trumpet Choir,Through Space and Time,Morales,,MoralesMusic.com,1,OCTET
+372-1-42062,Trumpet Choir,An Overture and a Finale,LoPresti,,Tripolo Press,1,OCTET
+372-1-42063,Trumpet Choir,Three Susato Dances from The Danserye,Susato,Marlatt,Eighth Note Publications,1,OCTET
+372-1-42064,Trumpet Choir,Two Festive Preludes,Decker,,Sheet Music Direct,1,OCTET
+372-1-42065,Trumpet Choir,The Stars and Stripes and Stripes Forever,Sousa,Villanueva,JV Music,1,OCTET (opt flugelhorn) (opt perc)
+372-1-42066,Trumpet Choir,Tuba Mirum Fanfare from Requiem,Verdi,Decker,Sheet Music Direct,1,OCTET (opt perc)
+372-1-42067,Trumpet Choir,Military Marches and Airs,Lully,Decker,Sheet Music Direct,1,OCTET (opt perc)
+372-1-42068,Trumpet Choir,Into the Blue,McKee,,Kevin McKee Music,1,OCTET (opt pic tpt) (opt flugelhorn)
+372-1-42069,Trumpet Choir,Bugler's Holiday,Anderson,Grant,musicnotes.com,1,OCTET (opt piccolo tpt) (opt flugelhorns)
+372-1-42070,Trumpet Choir,Molly On The Shore,Grainger,Melendez,jm1230088@gmail.com,1,OCTET (opt piccolo tpt) (opt flugelhorns)
+372-1-42071,Trumpet Choir,Carolina Palisades,Wilborn,,C. Alan Publications,1,SEPTET
+372-1-42072,Trumpet Choir,Fantasia for Seven Trumpets,Ewazen,,Tripolo Press,1,SEPTET
+372-1-42073,Trumpet Choir,Indy Fanfare,Fettig,,Sam Fettig Music,1,SEPTET
+372-1-42074,Trumpet Choir,The Rakes of Mallow,Anderson,Ford,Tripolo Press,1,SEPTET
+372-1-42075,Trumpet Choir,Celestial,Fregoso,,Tripolo Press,1,SEPTET (opt flugelhorn)
+372-1-42076,Trumpet Choir,Mansions of the Lord,Glennie-Smith,Villanueva,JV Music,1,SEPTET (opt flugelhorn)
+372-1-42077,Trumpet Choir,Seven Tapas for Seven Trumpets,Gillingham,,C. Alan Publications,1,SEPTET (play Scherzo a la Rush OR any other two mvts) (opt flugelhorns)
+372-1-42078,Trumpet Choir,An Olcott Overture!,Ewazen,,Tripolo Press,1,SEXTET
+372-1-42079,Trumpet Choir,Canzon per Sonare #1 (La Spiritata),Gabrieli,Marlatt,Eighth Note Publications,1,SEXTET
+372-1-42080,Trumpet Choir,Canzon per Sonare #2,Gabrieli,Marlatt,Eighth Note Publications,1,SEXTET
+372-1-42081,Trumpet Choir,Canzon per Sonare #4,Gabrieli,Marlatt,Eighth Note Publications,1,SEXTET
+372-1-42082,Trumpet Choir,Chorale for Trumpets,Green,,JW Pepper,1,SEXTET
+372-1-42083,Trumpet Choir,Conquest,Morales,,MoralesMusic.com,1,SEXTET
+372-1-42084,Trumpet Choir,Durrenhorn,McKee,,Balquihidder,1,SEXTET
+372-1-42085,Trumpet Choir,Fanspherical Flourishes,Reuter,,Tripolo Press,1,SEXTET
+372-1-42086,Trumpet Choir,Hallelujah from Messiah,Handel,Marlatt,Eighth Note Publications,1,SEXTET
+372-1-42087,Trumpet Choir,Ice Town,d'Ambrosio,,Tripolo Press,1,SEXTET
+372-1-42088,Trumpet Choir,Mut(e)nt,Hedwig,,Potenza Music,1,SEXTET
+372-1-42089,Trumpet Choir,Seis Mambesos,Lewis,,tigermusicstore.com,1,SEXTET
+372-1-42090,Trumpet Choir,Suite for 6 Trumpets,Grant,,msgrantmusic.com,1,SEXTET
+372-1-42091,Trumpet Choir,Fanfare for the International Trumpet Guild,Uber,,Tripolo Press,1,SEXTET
+372-1-42092,Trumpet Choir,Assurance,Fettig,,Sam Fettig Music,1,SEXTET
+372-1-42093,Trumpet Choir,Rag-Time Dance,Joplin,Marlatt,Tripolo Press,1,SEXTET
+372-1-42094,Trumpet Choir,Às Quarentonas de Quarentena,Santos,,Sheet Music Direct,1,SEXTET (opt ad lib percussion)
+372-1-42095,Trumpet Choir,Groovy Vamp,Marlatt,,Tripolo Press,1,"SEXTET (opt flugelhorn, opt perc)"
+372-1-42096,Trumpet Choir,Festival of Lights,Marlatt,,Tripolo Press,1,SEXTET (opt flugelhorns)
+372-1-42097,Trumpet Choir,Forever Sky,Hobbs,,Tripolo Press,1,SEXTET (opt flugelhorns)
+372-1-42098,Trumpet Choir,Good Shepherd Shuffle,Lewis,,tigermusicstore.com,1,SEXTET (opt flugelhorns)
+372-1-42099,Trumpet Choir,The Barber of Seville Overture,Rossini,Morales,MoralesMusic.com,1,SEXTET (opt flugelhorns)
+372-1-42100,Trumpet Choir,Exultation,Byrd,,Eighth Note Publications,1,SEXTET (optional piccolo trumpet and flugelhorn)
+372-1-42101,Trumpet Choir,Uddmaya,Hedwig,,Potenza Music,1,SEXTET (piccolo trumpet and flugel REQUIRED)
+372-1-42102,Trumpet Choir,Seven Renaissance Intradas,Hassler,Dziuk,Tripolo Press,1,SEXTET (play any four mvts)
+372-1-42103,Trumpet Choir,Susato Dance Suite from Danserye,Susato,Marlatt,Tripolo Press,1,SEXTET (play any four mvts) (opt flugelhorn) (optional perc)
+372-1-42104,Trumpet Choir,Water Music Mini Suite,Handel,Marlatt,Eighth Note Publications,1,SEXTET (play any two mvts) (opt flugelhorn)
+372-1-42105,Trumpet Choir,Little Fugue,Bach,Marlatt,Eighth Note Publications,1,"SEXTET (three tpt, three flugelhorn)"
+372-1-42106,Trumpet Choir,Celestial Dance,Morales,,MoralesMusic.com,1,QUINTET
+372-1-42107,Trumpet Choir,Little Fugue in G Minor,Bach,Watanabe,Tripolo Press,1,QUINTET
+372-1-42108,Trumpet Choir,Rondo Energico,Kaisershot,,Eighth Note Publications,1,QUINTET
+372-1-42109,Trumpet Choir,Seven & Ten,Lewis,,tigermusicstore.com,1,QUINTET
+372-1-42110,Trumpet Choir,Sound Reflections,Byrd,,Eighth Note Publications,1,QUINTET
+372-1-42111,Trumpet Choir,Sun and Stone,Santiago,Lopes & Santiago,Tripolo Press,1,QUINTET
+372-1-42112,Trumpet Choir,X1,Morales,,MoralesMusic.com,1,QUINTET
+372-1-42113,Trumpet Choir,Heroic Suite,Telemann,Marlatt,Eighth Note Publications,1,QUINTET
+372-1-42114,Trumpet Choir,Healing Prayer,Lewis,,tigermusicstore.com,1,QUINTET
+372-1-42115,Trumpet Choir,Amazing Grace,Newton,Grant,msgrantmusic.com,1,QUINTET
+372-1-42116,Trumpet Choir,Trumpet Prelude from Te Deum,Charpentier,Olcott,Tripolo Press,1,QUINTET
+372-1-42117,Trumpet Choir,Path of Discovery,Morales,,MoralesMusic.com,1,QUINTET (opt flugelhorn)
+372-1-42118,Trumpet Choir,William Tell Overture,Rossini,Marlatt,Eighth Note Publications,1,QUINTET (opt flugelhorn)
+372-1-42119,Trumpet Choir,Outono Perdido,Santos,,Sheet Music Plus Press,1,QUINTET (flugelhorns REQUIRED)
+372-1-42120,Trumpet Choir,Seven for Five,Morales,,MoralesMusic.com,1,QUINTET (opt pic tpt)
+372-1-42121,Trumpet Choir,Soar,Hobbs,,Tripolo Press,1,QUINTET (opt pic tpt)
+372-1-42122,Trumpet Choir,Cityscapes,Morales,,MoralesMusic.com,1,QUINTET (play 2nd mvt PLUS one more)
+372-1-42123,Trumpet Choir,Fantasia Brasileria,de Silva,Engelke,Tripolo Press,1,QUINTET (play any two mvts)
+372-1-42124,Trumpet Choir,Fantasia Pernambucana,de Silva,Simões,Tripolo Press,1,QUINTET (play any two mvts) (opt flugelhorns)
+372-2-42125,Trumpet Choir,Ave Maria,Bruckner,Marlatt,Eighth Note Publications,2,OCTET
+372-2-42126,Trumpet Choir,Even When He is Silent,Arnesen,Olcott,Tripolo Press,2,OCTET
+372-2-42127,Trumpet Choir,Here’s That Rainy Day,Heusen,Olcott,Tripolo Press,2,OCTET
+372-2-42128,Trumpet Choir,Psalm 100,Schutz,Decker,Sheet Music Direct,2,OCTET
+372-2-42129,Trumpet Choir,Military Marches and Airs,Lully,Decker,Sheet Music Direct,2,OCTET (play any three mvts ) (opt perc)
+372-2-42130,Trumpet Choir,Three Susato Dances from The Danserye,Susato,Marlatt,Eighth Note Publications,2,OCTET (play any two mvts)
+372-2-42131,Trumpet Choir,Two Festive Preludes,Decker,,Sheet Music Direct,2,OCTET (play one Prelude)
+372-2-42132,Trumpet Choir,This Is My Father’s World,Babcock & Sheppard,Lewis,tigermusicstore.com,2,SEPTET
+372-2-42133,Trumpet Choir,Goin' Home,Dvorak,Villanueva,JV Music,2,SEPTET (opt flugelhorn)
+372-2-42134,Trumpet Choir,De Colores,Traditional,Marlatt,Eighth Note Publications,2,SEPTET (opt flugelhorn)
+372-2-42135,Trumpet Choir,Jesu Joy of Man’s Desiring,Bach,Marlatt,Tripolo Press,2,SEXTET
+372-2-42136,Trumpet Choir,Flower Duet from Lakme,Delibes,Marlatt,Tripolo Press,2,SEXTET (opt flugelhorns)
+372-2-42137,Trumpet Choir,Trumpet Voluntary,Clarke,Marlatt,Tripolo Press,2,SEXTET (opt perc)
+372-2-42138,Trumpet Choir,Seven Renaissance Intradas,Hassler,Dziuk,Tripolo Press,2,SEXTET (play any three mvts)
+372-2-42139,Trumpet Choir,Benedicamus Domino,Scheidt,Marlatt,Eighth Note Publications,2,QUINTET
+372-2-42140,Trumpet Choir,Galliard Battaglia,Scheidt,Marlatt,Eighth Note Publications,2,QUINTET
+372-2-42141,Trumpet Choir,"Gavotte, Opus 36, No. 2",Beach,Gianola-Norris,Tripolo Press,2,QUINTET
+372-2-42142,Trumpet Choir,I Put My Life In Your Hands,Lewis,,tigermusicstore.com,2,QUINTET
+372-2-42143,Trumpet Choir,Rondeau,Mouret,Marlatt,Eighth Note Publications,2,QUINTET
+372-2-42144,Trumpet Choir,Heroic Suite,Telemann,Marlatt,Eighth Note Publications,2,QUINTET (play any three movements)
+372-2-42145,Trumpet Choir,Fantasia Pernambucana,de Silva,Simões,Tripolo Press,2,QUINTET (play Serenata) (opt flugelhorns)
+372-3-42146,Trumpet Choir,Echo Song,di Lasso,Decker,Sheet Music Direct,3,OCTET
+372-3-42147,Trumpet Choir,Abendlied,Rheinberger,Taurins,jasontaurins.com,3,OCTET (opt bass trumpet)
+372-3-42148,Trumpet Choir,Three Susato Dances from The Danserye,Susato,Marlatt,Eighth Note Publications,3,OCTET (play any mvt)
+372-3-42149,Trumpet Choir,Military Marches and Airs,Lully,Decker,Sheet Music Direct,3,OCTET (play any two mvts) (opt perc)
+372-3-42150,Trumpet Choir,Seven Tapas for Seven Trumpets,Gillingham,,C. Alan Publications,3,SEPTET (play Song or Aria)
+372-3-42151,Trumpet Choir,Destiny’s Call,Williams,,Tripolo Press,3,SEXTET
+372-3-42152,Trumpet Choir,Theme from Jupiter,Holst,Raehpour,Sheet Music Plus Press,3,SEXTET
+372-3-42153,Trumpet Choir,Seven Renaissance Intradas,Hassler,Dziuk,Tripolo Press,3,SEXTET (play No. Seven & Eight)
+372-3-42154,Trumpet Choir,Friends,Skloff,Chidester,www.trumpetensemblemusic.com,3,QUINTET
+372-3-42155,Trumpet Choir,Largo Cantabile from Flute Sonata #1,Loeillet,Marlatt,Eighth Note Publications,3,QUINTET
+372-3-42156,Trumpet Choir,Three Susato Dances from The Danserye,Susato,Marlatt,Eighth Note Publications,3,QUINTET (play any mvt)
+372-3-42157,Trumpet Choir,Heroic Suite,Telemann,Marlatt,Eighth Note Publications,3,QUINTET (play any two mvts)

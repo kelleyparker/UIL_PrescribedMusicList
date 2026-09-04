@@ -2,21 +2,21 @@
   "schoolYear": "2025-2026",
   "instrumentSlug": "keyboard-percussion",
   "instrumentName": "Keyboard Percussion Solos",
-  "songCount": 713,
+  "songCount": 712,
   "publisherCount": 715,
   "noteCount": 1,
-  "databaseRecordCount": 714,
+  "databaseRecordCount": 712,
   "classBreakdown": {
     "3": 99,
     "2": 215,
-    "1": 399
+    "1": 398
   },
   "noMemoryRequiredCount": 7,
   "publicDomainPdfCount": 0,
   "eventBreakdown": {
-    "Keyboard Percussion Solo": 713
+    "Keyboard Percussion Solo": 712
   },
   "notes": {
-    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-03-28T15:07:47.694903+00:00."
+    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-09-04T16:48:47.904852+00:00."
   }
 }

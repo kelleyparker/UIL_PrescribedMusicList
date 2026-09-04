@@ -2,21 +2,21 @@
   "schoolYear": "2025-2026",
   "instrumentSlug": "baritone-saxophone",
   "instrumentName": "Baritone Saxophone Solos",
-  "songCount": 81,
-  "publisherCount": 82,
+  "songCount": 83,
+  "publisherCount": 84,
   "noteCount": 1,
-  "databaseRecordCount": 82,
+  "databaseRecordCount": 83,
   "classBreakdown": {
     "3": 19,
-    "2": 23,
-    "1": 39
+    "2": 24,
+    "1": 40
   },
   "noMemoryRequiredCount": 1,
   "publicDomainPdfCount": 0,
   "eventBreakdown": {
-    "Baritone Saxophone Solo": 81
+    "Baritone Saxophone Solo": 83
   },
   "notes": {
-    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-03-28T15:07:47.543270+00:00."
+    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-09-04T16:48:42.701577+00:00."
   }
 }

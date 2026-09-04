@@ -1,6 +1,6 @@
 Code,Event Name,Title,Composer,Arranger,Publisher [Collection],Grade,Specification
 305-1-25361,Tuba Solo,Recit et Theme Varie,Busser,Ballarin,International Music Diffusion,1,
-305-1-13203,Tuba Solo,Fantasy for Tuba,Arnold,,"Faber Music, Ltd.",1,(unaccomp) NMR:(play all)
+305-1-13203,Tuba Solo,Fantasy for Tuba,Arnold,,"Faber Music, Ltd.",1,(unaccomp)
 305-1-13204,Tuba Solo,Air and Bourree,Bach,Bell,"Carl Fischer, Inc.",1,
 305-1-13205,Tuba Solo,Introduction and Dance,Barat,Smith,Southern Music Company,1,
 305-1-13206,Tuba Solo,Variations on the Theme of Judas Maccabeus,Beethoven,Bell,"Carl Fischer, Inc.",1,
@@ -12,9 +12,9 @@ Code,Event Name,Title,Composer,Arranger,Publisher [Collection],Grade,Specificati
 305-1-13212,Tuba Solo,Variations for Tuba and Piano,Frackenpohl,,Shawnee Press,1,
 305-1-13213,Tuba Solo,Ricercar,Gabrieli,Morris,Shawnee Press,1,(unaccomp)
 305-1-13214,Tuba Solo,Tuba Concerto,Gregson,,Novello Publications Inc.,1,(play one mvt)
-305-1-13215,Tuba Solo,Tuba Rhapsody,Grundman,,"Boosey & Hawkes, Inc.",1,
-305-1-13216,Tuba Solo,Suite for Tuba,Haddad,,"Templeton Publishing Company, Inc.;Shawnee Press",1,(play mvts 1 & 2 OR 2 & 3)
-305-2-13217,Tuba Solo,Larghetto and Allegro,Handel,Little,"Belwin, Inc",2,
+305-1-13215,Tuba Solo,Tuba Rhapsody,Grundman,,"Boosey & Hawkes, Inc.",1,NMR:(play all)
+305-1-13216,Tuba Solo,Suite for Tuba,Haddad,,"Templeton Publishing Company, Inc.;Shawnee Press",1,(play any two mvts)
+305-1-13217,Tuba Solo,Larghetto and Allegro,Handel,Little,"Belwin, Inc",1,
 305-1-13218,Tuba Solo,Sonata No. 6,Handel,Morris,Shawnee Press,1,
 305-1-13219,Tuba Solo,Sonata for Tuba and Piano,Hartley,,Theodore Presser Company,1,(play two mvts)
 305-1-13220,Tuba Solo,Sonatina,Hartley,,Interlochen Press,1,play all NMR:(play all)
@@ -25,19 +25,19 @@ Code,Event Name,Title,Composer,Arranger,Publisher [Collection],Grade,Specificati
 305-1-13225,Tuba Solo,Concerto in One Movement,Lebedev,Ostrander,"Edition Musicus-New York, Inc.",1,Same piece as Concerto No. 1
 305-1-13226,Tuba Solo,Sonata No. 1,Marcello,Little,Southern Music Company,1,(play all)
 305-1-13227,Tuba Solo,Sonata No. 5,Marcello,Little,Southern Music Company,1,(play all)
-305-2-13228,Tuba Solo,"Alleluja, Exultate",Mozart,Matthews,Wingert/Jones,2,
+305-1-13228,Tuba Solo,"Alleluja, Exultate",Mozart,Matthews,Wingert-Jones,1,
 305-1-13229,Tuba Solo,Serenade,Mozart,Morris,Shawnee Press,1,(play mvt 1 or 4 plus one other mvt)
-305-1-13230,Tuba Solo,Impromptus,Muczynski,,"G. Schirmer, Inc.",1,(unaccomp)
+305-1-13230,Tuba Solo,Impromptus,Muczynski,,"G. Schirmer, Inc.",1,(unaccomp) (play any three mvts)
 305-1-13231,Tuba Solo,Concertpiece,Painpare,,"Rubank, Inc.",1,
 305-1-13232,Tuba Solo,Serenade,Schmidt,,Avant Music Company,1,
-305-1-13233,Tuba Solo,Serenata for Tuba and Piano,Schooley,,Glouchester Press,1,
+305-1-13233,Tuba Solo,Serenata for Tuba and Piano,Schooley,,Glouchester Press,1,(play any four mvts)
 305-1-13234,Tuba Solo,Concertino,Shaugnessy,,Southern Music Publishing Company,1,(play mvts 1 & 2 or 2 & 3)
 305-1-13235,Tuba Solo,Sonata,Skolnik,,Tenuto Publications,1,(play mvt 1 or mvts 2 & 3)
-305-1-13236,Tuba Solo,Two Songs,Spillman,,"Edition Musicus-New York, Inc.",1,(play both)
-305-2-13237,Tuba Solo,Adagio and Allegro,Telemann,Friedman,Southern Music Company,2,
+305-1-13236,Tuba Solo,Two Songs,Spillman,,"Edition Musicus-New York, Inc.",1,NMR:(play all)
+305-1-13237,Tuba Solo,Adagio and Allegro,Telemann,Friedman,Southern Music Company,1,
 305-1-13238,Tuba Solo,Sonatina,Uber,,Southern Music Company,1,(play two mvts)
 305-1-13239,Tuba Solo,Concerto for Bass Tuba,Vaughan Williams,,Oxford University Press,1,(play one mvt)
-305-1-13240,Tuba Solo,Concertpiece No. 1,Vaughan,,Interlochen Press,1,
+305-1-13240,Tuba Solo,Concertpiece No. 1,Vaughan,,Interlochen Press;Wingert-Jones,1,
 305-1-13241,Tuba Solo,Sonata No.3 in a minor,Vivaldi,Morris,Shawnee Press,1,(play two contrasting mvts)
 305-2-13242,Tuba Solo,Arioso and Caprice,Barnes,,Robbins Music Corporation,2,
 305-2-13243,Tuba Solo,The Nervous Turkey Rag,Barnes,,Medici Music Press,2,
@@ -65,12 +65,10 @@ Code,Event Name,Title,Composer,Arranger,Publisher [Collection],Grade,Specificati
 305-2-13274,Tuba Solo,Polka Giocosa,Scarmolin,,C.L. Barnhouse Company,2,
 305-2-13276,Tuba Solo,Moment Musicale,Schubert,Swanson,"Belwin, Inc [Tuba Solos Level Two]",2,
 305-2-13277,Tuba Solo,Your Ring On My Finger,Schumann,Dishinger,Medici Music Press,2,
-305-2-13278,Tuba Solo,Two Songs,Spillman,,"Edition Musicus-New York, Inc.",2,(play either song)
 305-2-13279,Tuba Solo,Andante and Allegro,Telemann,Chidester,Southern Music Company,2,
 305-2-13280,Tuba Solo,Prelude and Allegretto,Telemann,Chidester,Southern Music Company,2,
 305-2-13281,Tuba Solo,Colossus,VanderCook,,"Rubank, Inc.",2,
 305-2-13282,Tuba Solo,Praeludium in c minor,Vivaldi,Maganini,"Edition Musicus-New York, Inc.",2,
-305-2-13283,Tuba Solo,Sonata No.3 in a minor,Vivaldi,Morris,Shawnee Press,2,(play mvt 4)
 305-2-13284,Tuba Solo,Tarantelle,Walters,,Ludwig Music Publishing Company,2,
 305-2-13285,Tuba Solo,Serpent of the Brass,Worth,,"Rubank, Inc.",2,
 305-3-13288,Tuba Solo,Menuet in G,Bach,Dishinger,Medici Music Press,3,
@@ -106,7 +104,7 @@ Code,Event Name,Title,Composer,Arranger,Publisher [Collection],Grade,Specificati
 305-3-13302,Tuba Solo,Tango Anyone?,Edelson,,C&E Enterprises,3,
 305-3-23242,Tuba Solo,Twilight,Rachmaninoff,Shoop,Cimarron Music Press,3,
 305-3-38975,Tuba Solo,"Medici Masterworks, Vol. 1 (Tuba)",various,Gershenfeld,"Medici Music Press [Medici Masterworks, Vol. 1]",3,(play Childrens Prayer OR At the Dance OR Nur Lieben OR Be Not Shy OR Pupille Nere)
-305-1-32413,Tuba Solo,Sonatina,Stevens,,Peermusic Classical,1,
+305-1-32413,Tuba Solo,Sonatina,Stevens,,Peermusic Classical,1,(play any two mvts)
 305-3-30458,Tuba Solo,Lullaby-Ukolebavka,Dvorak,Smisek,"Alliance Publications, Inc.",3,
 305-1-30492,Tuba Solo,Ballad and Burlesque,Raum,,Cimarron Music Press,1,
 305-1-30493,Tuba Solo,Laws of Motion,Brooks,,Cimarron Music Press,1,
@@ -114,7 +112,7 @@ Code,Event Name,Title,Composer,Arranger,Publisher [Collection],Grade,Specificati
 305-1-30495,Tuba Solo,Suite of French Dances,Marais,Olt,Cimarron Music Press,1,(play two mvts)
 305-1-30496,Tuba Solo,Through the Tunnel,York,,Cimarron Music Press,1,
 305-1-30497,Tuba Solo,Trilogy for Tuba and Piano,Kistler,,"Alliance Publications, Inc.",1,
-305-1-30498,Tuba Solo,Capriccio,Forbes,,"Kendor Music, Inc.",1,
+305-1-30498,Tuba Solo,Capriccio,Forbes,,"Kendor Music, Inc.",1,NMR:(play all)
 305-2-30499,Tuba Solo,First Bluebonnets of Spring,Friedrich,,Kenneth D. Friedrich,2,
 305-2-30500,Tuba Solo,Highland Melody,Shoop,Brazier,Stephen Shoop Music Publications,2,
 305-2-30501,Tuba Solo,Honor and Arms,Handel,Kaisershot,"Kendor Music, Inc.",2,
@@ -123,14 +121,13 @@ Code,Event Name,Title,Composer,Arranger,Publisher [Collection],Grade,Specificati
 305-1-30513,Tuba Solo,"Adagio from ""The Limpid Stream""",Shostakovich,,Encore Music Publishers,1,
 305-1-30514,Tuba Solo,Concert Piece for Tuba and Piano,Larsen,,Oxford University Press,1,
 305-1-30515,Tuba Solo,Serenade No. 12,Persichetti,,Theodore Presser Company,1,(unaccomp)(play three mvts)
-305-1-30516,Tuba Solo,Sonata,Broughton,,Masters Music Publications,1,(play one mvt)
-305-2-30517,Tuba Solo,Six Studies in English Folksong,Vaughan Williams,,Stainer & Bell;E.C. Schirmer Music Company,2,(play three mvts)
+305-1-30516,Tuba Solo,Sonata,Broughton,,LudwigMasters Publications,1,(play one mvt)
+305-2-30517,Tuba Solo,Six Studies in English Folksong,Vaughan Williams,,Stainer & Bell;E.C. Schirmer Music Company,2,(play any two mvts)
 305-1-31363,Tuba Solo,Fantasia,Curnow,,Curnow Music,1,
-305-1-32416,Tuba Solo,Variations in Olden Style,Stevens,,Editions Bim,1,
+305-1-32416,Tuba Solo,Variations in Olden Style,Stevens,,Editions Bim,1,(play 1st mvt PLUS two more)
 305-1-32417,Tuba Solo,Nocturno Op. 7,Strauss,,"Kendor Music, Inc.",1,
-305-1-32418,Tuba Solo,Six Studies in English Folksong,Vaughan Williams,,E.C. Schirmer Music Company;Stainer & Bell,1,
-305-1-32419,Tuba Solo,Sonata for Tuba and Piano,Wilder,,"Hal Leonard Music, Inc.",1,
-305-1-32420,Tuba Solo,Suite No. 1,Wilder,,Shawnee Press,1,
+305-1-32418,Tuba Solo,Six Studies in English Folksong,Vaughan Williams,,E.C. Schirmer Music Company;Stainer & Bell,1,(play 6th mvt PLUS two more)
+305-1-32420,Tuba Solo,Suite No. 1 (Effie Suite),Wilder,,Shawnee Press,1,(play any three mvts)
 305-1-33011,Tuba Solo,Quixosis,Lipman,,Sam Lipman Music,1,(play all)
 305-2-13253,Tuba Solo,My Johann,Grieg,Corwell,"Kendor Music, Inc.",2,
 305-1-37319,Tuba Solo,Sonata No. 2,Cherubini,Forbes,"Kendor Music, Inc.",1,
@@ -139,7 +136,7 @@ Code,Event Name,Title,Composer,Arranger,Publisher [Collection],Grade,Specificati
 305-1-37322,Tuba Solo,Multiple Personalities,Archer,,C. Alan Publications,1,(play mvt 1 OR 2 PLUS mvt 3) NMR:(play all)
 305-1-37323,Tuba Solo,Suite Tuba,Bough,,Cimarron Music Press,1,(play at least three mvts)
 305-2-37324,Tuba Solo,Sonata No. 10 (Op. 5),Corelli,Forbes,"Kendor Music, Inc.",2,(play three mvts)
-305-2-37325,Tuba Solo,Concertino for Tuba,Curnow,,Curnow Music,2,
+305-1-37325,Tuba Solo,Concertino for Tuba,Curnow,,Curnow Music,1,
 305-2-37326,Tuba Solo,Metallum Fabricam,Zhang,,alexzhangcomposer.com,2,(fixed media acomp REQUIRED)
 305-3-37327,Tuba Solo,I've Got the Tuba Blues,Forbes,,"Kendor Music, Inc.",3,
 305-2-38973,Tuba Solo,Concert Album for Tuba,various,Ostrander,"Edition Musicus-New York, Inc. [Concert Album for Tuba]",2,(play Menuet OR Etude OR Andante OR Bouree OR Plasir d Amour OR Song of the East)
@@ -159,3 +156,42 @@ Code,Event Name,Title,Composer,Arranger,Publisher [Collection],Grade,Specificati
 305-3-38593,Tuba Solo,Bel Canto Studies,various,Sauer,Cherry Classics,3,(play 1 OR 2)
 305-3-38594,Tuba Solo,Festival Solos,various,Pearson & Elledge,Neil A. Kjos Music Company,3,(play one solo EXCEPT Melody and Springtime Waltz)
 305-3-39024,Tuba Solo,Honor and Arms,Handel,Bell,"Alfred Music Company, Inc.",3,
+305-1-41713,Tuba Solo,Concerto for Tuba,Ziek,,Cimarron Music Press,1,(play one mvt)
+305-1-41714,Tuba Solo,Scenes from The Andalusia,Raum,,Cimarron Music Press,1,(play one mvt)
+305-1-41715,Tuba Solo,Concerto for Tuba,Barnes,,Southern Music Company,1,NMR:(play one mvt)
+305-1-41716,Tuba Solo,Code Cracker,Robertson,,Cimarron Music Press,1,(unaccomp)
+305-1-41717,Tuba Solo,States of Matter,Kuo,,Electric Violin Music,1,NMR:(unaccomp)
+305-1-41718,Tuba Solo,Steel City Scenes,Gourlay,,Cimarron Music Press,1,(unaccomp) (play any three mvts)
+305-1-41719,Tuba Solo,Diverse Moments No. 1,Jager,,Wingert-Jones,1,(unaccomp) (play any three mvts)
+305-1-41720,Tuba Solo,Music for Solo Tuba,Yurko,,Cimarron Music Press,1,NMR:(unaccomp) (play any three mvts)
+305-1-41721,Tuba Solo,Into The Madhouse,Lester,,Cimarron Music Press,1,(unaccomp) (play any two mvts)
+305-1-41722,Tuba Solo,Whale Songs,Blake,,Cimarron Music Press,1,(unaccomp) (play any two mvts)
+305-1-41723,Tuba Solo,Orange Tuba,Hidenori,,Cimarron Music Press,1,NMR:(play all)
+305-1-41724,Tuba Solo,Nine,Piland,,FDPublications,1,NMR:(play all)
+305-1-41725,Tuba Solo,Elegy for Tuba and Piano,Osmon,,ALRY Publications,1,
+305-1-41726,Tuba Solo,Rondo for Sweet Babu,Volkmann,,Cimarron Music Press,1,
+305-1-41727,Tuba Solo,Onwards and Upwards,Gulino,,Cimarron Music Press,1,
+305-1-41728,Tuba Solo,Tennessee Journey,York,,Cimarron Music Press,1,
+305-1-41729,Tuba Solo,Sonatina,Ingram,,Cimarron Music Press,1,
+305-1-41730,Tuba Solo,Concert Piece No. 1,Liang,,Cimarron Music Press,1,
+305-1-41731,Tuba Solo,Tavern Dance,Davanzo,,Cimarron Music Press,1,
+305-1-41732,Tuba Solo,Introduction and Dance,Deddos,,Cimarron Music Press,1,
+305-1-41733,Tuba Solo,Suite in One Movement,Miles,,Potenza Music,1,
+305-1-41734,Tuba Solo,The Babylon Code,Stewart,,JW Pepper,1,
+305-1-41735,Tuba Solo,Harmoniae Saltantes.,Fontanot,,Potenza Music,1,
+305-1-41736,Tuba Solo,Sketches,MacFarland,,Presto Music,1,
+305-1-41737,Tuba Solo,Ballad of Enob Mort,Uber,,Southern Music Company,1,
+305-2-41738,Tuba Solo,Sound Innovations,various,,"Alfred Music Company, Inc.",2,"(pick one solo: p 4, p 8, p10, p12, p16, p18, p21, p26, p,32, p36)"
+305-2-41739,Tuba Solo,The Seasons,Paff,,Cimarron Music Press,2,(play any three mvts)
+305-2-41740,Tuba Solo,Song and Dance,Pethel,,Cimarron Music Press,2,
+305-2-41741,Tuba Solo,Concerto for Tuba,Paff,,Cimarron Music Press,2,
+305-2-41742,Tuba Solo,Three Moods,Brandon,,Cimarron Music Press,2,
+305-2-41743,Tuba Solo,Hallowed,Gazlay,,JW Pepper,2,
+305-2-41744,Tuba Solo,Prelude in B minor,Chopin,May,Lost Key Music,2,
+305-2-41745,Tuba Solo,Two Pieces,Haddad,,Southern Music Company,2,
+305-2-41746,Tuba Solo,Little Fiesta,Harris,,Southern Music Company,2,
+305-3-41747,Tuba Solo,Devotion,Gazlay,,JW Pepper,3,
+305-3-41748,Tuba Solo,Sound Innovations,various,,"Alfred Music Company, Inc.",3,"(pick one solo from: p 2, p 6, p14, p20, p24, p28, p30, p34, p 38)"
+305-3-41749,Tuba Solo,Excursion,Paff,,Cimarron Music Press,3,(play any two mvts)
+305-3-41750,Tuba Solo,Velcro Summer,Stewart,,JW Pepper,3,(play any two mvts)
+305-3-41751,Tuba Solo,"Elementary Solos, Vol. 2",Rice,,beginning.band.com,3,(play any two solos)

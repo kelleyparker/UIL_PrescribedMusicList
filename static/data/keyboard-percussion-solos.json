@@ -9704,27 +9704,6 @@
     "sheetMusicAffiliateSource": null
   },
   {
-    "uilCode": "502-1-33920",
-    "instrumentSlug": "keyboard-percussion",
-    "instrumentName": "Keyboard Percussion Solos",
-    "eventName": "Keyboard Percussion Solo",
-    "title": "Furioso and Valse",
-    "composer": "Hatch",
-    "arranger": "Santangelo",
-    "publishers": [
-      "Studio 4 Music"
-    ],
-    "publisherText": "Studio 4 Music",
-    "classLevel": 1,
-    "specification": "(marimba) (5.0 octave) (4-mallets)",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": null,
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": null
-  },
-  {
     "uilCode": "502-1-31110",
     "instrumentSlug": "keyboard-percussion",
     "instrumentName": "Keyboard Percussion Solos",
@@ -9733,9 +9712,10 @@
     "composer": "Hatch",
     "arranger": "",
     "publishers": [
-      "Marimba Productions Inc."
+      "Marimba Productions Inc.",
+      "Studio 4 Music"
     ],
-    "publisherText": "Marimba Productions Inc.",
+    "publisherText": "Marimba Productions Inc.;Studio 4 Music",
     "classLevel": 1,
     "specification": "(marimba)(4.0-octave, 2 mallets)",
     "noMemoryRequired": false,

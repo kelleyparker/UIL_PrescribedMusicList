@@ -2,21 +2,21 @@
   "schoolYear": "2025-2026",
   "instrumentSlug": "contra-bass-clarinet-solo",
   "instrumentName": "Contra Bass Clarinet Solos",
-  "songCount": 28,
-  "publisherCount": 29,
+  "songCount": 26,
+  "publisherCount": 27,
   "noteCount": 1,
-  "databaseRecordCount": 29,
+  "databaseRecordCount": 26,
   "classBreakdown": {
     "3": 3,
     "2": 11,
-    "1": 14
+    "1": 12
   },
   "noMemoryRequiredCount": 0,
   "publicDomainPdfCount": 0,
   "eventBreakdown": {
-    "Contra Bass Clarinet Solo": 28
+    "Contra Bass Clarinet Solo": 26
   },
   "notes": {
-    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-03-28T15:07:47.469406+00:00."
+    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-09-04T16:47:48.380047+00:00."
   }
 }

@@ -450,9 +450,10 @@
     "composer": "Molter",
     "arranger": "Kerstetter",
     "publishers": [
-      "Prairie Dawg Press"
+      "Prairie Dawg Press",
+      "Breitkopf & H\u00e4rtel"
     ],
-    "publisherText": "Prairie Dawg Press",
+    "publisherText": "Prairie Dawg Press;Breitkopf & H\u00e4rtel",
     "classLevel": 1,
     "specification": "",
     "noMemoryRequired": false,

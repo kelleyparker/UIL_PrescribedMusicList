@@ -18,7 +18,7 @@ Code,Event Name,Title,Composer,Arranger,Publisher [Collection],Grade,Specificati
 304-1-13075,Euphonium/Baritone Horn Solo,Fantasie Concertante,Casterede,,Alphonse Leduc,1,(play all) NMR:(play all)
 304-1-13076,Euphonium/Baritone Horn Solo,Sonata,Clinard,,Shawnee Press,1,(unaccomp) (play mvts 1 & 2 or 2 & 3)
 304-1-13077,Euphonium/Baritone Horn Solo,Sonata in F Major,Corelli,Brown,International Music Company,1,
-304-1-13078,Euphonium/Baritone Horn Solo,Concertino Op. 4,David,,"Carl Fischer, Inc.",1,
+304-1-13078,Euphonium/Baritone Horn Solo,Concertino Op. 4,David,,"Carl Fischer, Inc.",1,(play mvts 1 & 2 OR 2 & 3)
 304-1-13079,Euphonium/Baritone Horn Solo,Variations on a Theme of Robert Schumann,Davis,,Southern Music Company,1,
 304-1-13080,Euphonium/Baritone Horn Solo,Beautiful Colorado,DeLuca,,"Carl Fischer, Inc.",1,
 304-1-13081,Euphonium/Baritone Horn Solo,Six Sonatas Volume I,Galliard,Brown,McGinnis & Marx;International Music Company,1,(play one entire Sonata)
@@ -123,7 +123,6 @@ Code,Event Name,Title,Composer,Arranger,Publisher [Collection],Grade,Specificati
 304-3-13198,Euphonium/Baritone Horn Solo,Rigaudon,Rameau,Dishinger,Medici Music Press,3,(trumpet-bc only)
 304-3-13201,Euphonium/Baritone Horn Solo,Air for Baritone,Vincent,,"Belwin, Inc",3,
 304-2-13166,Euphonium/Baritone Horn Solo,Phantasy on an American Spiritual,Schmidt,,"Western International Music, Inc.",2,
-304-3-38978,Euphonium/Baritone Horn Solo,8 Bel Canto Songs,various,Phillips,Shawnee Press [8 Bel Canto Songs for Tuba],3,(play one)
 304-1-23243,Euphonium/Baritone Horn Solo,Arpeggione Sonata,Schubert,Werden,Cimarron Music Press,1,(play one mvt)
 304-1-23244,Euphonium/Baritone Horn Solo,Sonatina VI in Eb,Telemann,Madeson,Cimarron Music Press,1,
 304-3-38976,Euphonium/Baritone Horn Solo,8 Bel Canto Songs,various,Phillips,Shawnee Press [8 Bel Canto Songs for Tuba],3,(play one)
@@ -244,3 +243,6 @@ Code,Event Name,Title,Composer,Arranger,Publisher [Collection],Grade,Specificati
 304-2-38577,Euphonium/Baritone Horn Solo,Chanson d'Amour,Faure,Friedrich,KFS Publishing,2,
 304-2-38578,Euphonium/Baritone Horn Solo,Sweet Reunion,Friedrich,,KFS Publishing,2,
 304-2-38579,Euphonium/Baritone Horn Solo,"Folk Songs for Young Folks, Vol. 2",various,Friedrich,KFS Publishing,2,(play two mvts)
+304-1-41710,Euphonium/Baritone Horn Solo,Ray of Light,Kuo,,Electric Violin Music,1,
+304-3-41711,Euphonium/Baritone Horn Solo,Devotion,Gazlay,,JW Pepper,3,
+304-3-41712,Euphonium/Baritone Horn Solo,The Squire's Tale,Steward,,Echelon Music Press,3,

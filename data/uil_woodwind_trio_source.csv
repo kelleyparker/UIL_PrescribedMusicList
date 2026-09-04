@@ -63,7 +63,7 @@ Code,Event Name,Title,Composer,Arranger,Publisher [Collection],Grade,Specificati
 230-1-11470,Woodwind Trio,Trio in g minor,Ostransky,,"Rubank, Inc.",1,"(play two mvts) (fl, ob, cl)"
 230-1-11471,Woodwind Trio,Scherzo,Tustin,,C.L. Barnhouse Company,1,"(fl, ob, cl)"
 230-1-11472,Woodwind Trio,Tarantella,Tustin,,C.L. Barnhouse Company,1,"(fl, ob, cl)"
-230-1-11473,Woodwind Trio,Little Trio,von Kreisler,,Southern Music Company,1,"(play 1 & 2 or 2 & 3) (fl, ob, cl)"
+230-1-11473,Woodwind Trio,Little Trio,von Kreisler,,Southern Music Company,1,(play 1 & 2 OR 2 & 3) (play any published combination)
 230-1-11474,Woodwind Trio,Three Pastels,von Kreisler,,Southern Music Company,1,"(play two mvts) (fl, ob, cl)"
 230-1-11475,Woodwind Trio,Ballet Dance,Walker,,Barn,1,"(fl, ob, cl)"
 230-2-11476,Woodwind Trio,"Running Tune, Lullaby and March",Baksa,,Shawnee Press,2,"(play two) (fl, ob, cl)"
@@ -268,3 +268,9 @@ Code,Event Name,Title,Composer,Arranger,Publisher [Collection],Grade,Specificati
 230-3-35455,Woodwind Trio,Phantasia,Schultz,Gregory,JW Pepper,3,"(fl, ob, cl)"
 230-3-35456,Woodwind Trio,Countryside Suite,Spradling,,JPM Music Publications,3,"(play two mvts) (2 fl, clar OR fl, ob, bsn or bass cl)"
 230-3-35457,Woodwind Trio,Essercizii musici,Telemann,Gregory,JW Pepper,3,"(play 1st & 2nd mvt OR mvt 3) (fl, ob, bsn)"
+230-1-41835,Woodwind Trio,Bling!,Denham,,Cimarron Music Press,1,"(ob, cla, bsn)"
+230-1-41836,Woodwind Trio,Woodland Dawn,Friedland,,Cimarron Music Press,1,"(ob, cla, bsn)"
+230-1-41837,Woodwind Trio,The Antares Maelstrom,Steward,,Echelon Music Press,1,"(ob, cla, bsn)"
+230-1-41838,Woodwind Trio,The Turquoise Mushroom,Steward,,Echelon Music Press,1,"(ob, cla, bsn)"
+230-1-41839,Woodwind Trio,The Enchanted Grove,Lendt,,JPM Music Publications,1,"(fl, cl, alto sax)"
+230-1-41840,Woodwind Trio,Irish Roundabout,Lendt,,JPM Music Publications,1,"(fl, cl, alto sax OR horn)"

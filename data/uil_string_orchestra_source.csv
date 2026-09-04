@@ -1,6 +1,6 @@
 Code,Event Name,Title,Composer,Arranger,Publisher [Collection],Grade,Specification
 926-2-34284,String Orchestra,The Hunt (String Quartet No. 17),Mozart,Clinesmith,Wingert/Jones,2,
-926-2-34285,String Orchestra,William Byrd Suite,Byrd,Wagner,"Belwin, Inc",2,(Play mvts. 1 & 2 or 2 & 3)
+926-2-34285,String Orchestra,William Byrd Suite,Byrd,Wagner,"Belwin, Inc",2,(Play mvts. 1 & 2 OR 2 & 3)
 926-1-34282,String Orchestra,Where the River Shannon Flows,Russell,Balmages,FJH Music Company,1,
 926-1-34283,String Orchestra,Verdant Meadows,Tippette,,"Carl Fischer, Inc.",1,
 926-5-34279,String Orchestra,Supermaximum,Bunch,,Bill Holab Music,5,
@@ -476,7 +476,7 @@ Code,Event Name,Title,Composer,Arranger,Publisher [Collection],Grade,Specificati
 926-5-18960,String Orchestra,"""Emperor"" Variations",Haydn,Stoessel,"Carl Fischer, Inc. [University String Orchestra Album]",5,
 926-5-19046,String Orchestra,Funf Stucke,Hindemith,,Schott Company,5,(play two contrasting mvts)
 926-5-19047,String Orchestra,Nocturne,Hofeldt,,Neil A. Kjos Music Company,5,
-926-5-19048,String Orchestra,St. Paul Suite,Holst,,"G. Schirmer, Inc.",5,(play mvt 1 or 4)
+926-5-19048,String Orchestra,St. Paul Suite,Holst,,"G. Schirmer, Inc.;Luck's Music Library",5,(play mvt 1 or 4)
 926-5-19049,String Orchestra,Alleluia and Fugue,Hovhaness,,Rongwen Bros. Music Company,5,(play all)
 926-5-19050,String Orchestra,Armenian Rhapsody No. 3,Hovhaness,,C.F. Peters Corporation,5,
 926-5-19051,String Orchestra,Psalm and Fugue Op. 40a,Hovhaness,,C.F. Peters Corporation,5,(play both)
@@ -714,13 +714,12 @@ Code,Event Name,Title,Composer,Arranger,Publisher [Collection],Grade,Specificati
 926-4-26082,String Orchestra,Sinfonia No. 2,Vivaldi,,Editions Peters,4,(play one mvt)
 926-5-26083,String Orchestra,Ein Albumblatt,Wagner,Massena,Luck's Music Library,5,
 926-5-26085,String Orchestra,Quaternity,Weiner,,Ludwig Music Publishing Company,5,"(play two mvts, # 1, 2, or 4)"
-926-5-26086,String Orchestra,Serenade for Strings,Wolf-Ferrari,,Edwin F. Kalmus,5,(play mvt 4 only)
-926-5-30970,String Orchestra,Irish Tune from County Derry,Grainger,,Schott Company;Luck's Music Library;Edwin F. Kalmus,5,(horn optional)
+926-5-30970,String Orchestra,Irish Tune from County Derry,Grainger,,Schott Company;Luck's Music Library;Edwin F. Kalmus,5,(horn OPTIONAL)
 926-5-30968,String Orchestra,Meditation on a Bohemian Chorale,Suk,,Luck's Music Library,5,
 926-3-30967,String Orchestra,Fantasia on a Theme from Thailand (Pong Lang Dance),Meyer,,"Alfred Music Company, Inc.",3,
 926-4-30966,String Orchestra,Incantations,Meyer,,"Alfred Music Company, Inc.",4,
 926-3-30976,String Orchestra,Warrior Legacy,Newbold,,FJH Music Company,3,
-926-5-30969,String Orchestra,Signs of Life II,Peck,,Pecktackular Music,5,(play mvt 1 or 3)
+926-5-30969,String Orchestra,Signs of Life II,Peck,,Pecktackular Music,5,(play mvt 1 OR 3)
 926-1-33135,String Orchestra,Qin Shi's Stone Army,Arcari,,"Carl Fischer, Inc.",1,
 926-1-33137,String Orchestra,"Hey Ho, the Wind",Monday,,"Carl Fischer, Inc.",1,
 926-3-33143,String Orchestra,Solitude,O'Loughlin,,"Carl Fischer, Inc.",3,(piano opt)
@@ -790,7 +789,7 @@ Code,Event Name,Title,Composer,Arranger,Publisher [Collection],Grade,Specificati
 926-2-28311,String Orchestra,Air and Caprice,Clark,,"Carl Fischer, Inc.",2,
 926-2-28312,String Orchestra,Painted Desert,McGinty,Mullins,Queenwood Publications,2,
 926-2-28313,String Orchestra,Crossing Pirates' Cove,Monday,,Neil A. Kjos Music Company,2,
-926-2-28314,String Orchestra,Minuet and Galliard,Niehaus,,"Kendor Music, Inc.",2,(POP) (opt percussion)
+926-2-28314,String Orchestra,Minuet and Galliard,Niehaus,,"Kendor Music, Inc.",2,(POP) (OPTIONAL percussion)
 926-2-28315,String Orchestra,Sunburst,Silva,,"Carl Fischer, Inc.",2,
 926-2-28317,String Orchestra,Avatar,Spata,,"Alfred Music Company, Inc.",2,
 926-2-28318,String Orchestra,Dabbling in the Dew,Anon. or Trad.,Atwell,Neil A. Kjos Music Company,2,
@@ -846,7 +845,7 @@ Code,Event Name,Title,Composer,Arranger,Publisher [Collection],Grade,Specificati
 926-4-28385,String Orchestra,Appalachian Folk Fantasy,Anon. or Trad.,McGinty,Queenwood Publications,4,
 926-4-28386,String Orchestra,The Glorious Age (Three Works from the Renaissance),Anon. or Trad.,Coakley,Grand Mesa Music Publishers,4,(play all)
 926-4-28387,String Orchestra,Suite for Strings,Rutter,,Luck's Music Library,4,(play mvt 2 or 3)
-926-5-28393,String Orchestra,Suite for Strings,Rutter,,Luck's Music Library,5,(play mvt 1 or 4)
+926-5-28393,String Orchestra,Suite for Strings,Rutter,,Luck's Music Library,5,(play mvt 1 OR 4)
 926-5-28394,String Orchestra,Two Bach Inventions,Bach,Dowty,Wingert/Jones,5,(play all)
 926-5-28395,String Orchestra,Simple Song,Bernstein,Longfield,"Boosey & Hawkes, Inc.",5,
 926-5-28396,String Orchestra,Two Old English Songs,Bridge,,Edwin F. Kalmus,5,(play one)
@@ -874,7 +873,7 @@ Code,Event Name,Title,Composer,Arranger,Publisher [Collection],Grade,Specificati
 926-2-30206,String Orchestra,Boots and Saddle,Sharp,,FJH Music Company,2,
 926-2-30207,String Orchestra,"Brahms Interlude (from Rhapsody in b minor, Op. 79, No. 1)",Brahms,Monday,"Kendor Music, Inc.",2,
 926-2-30208,String Orchestra,Dance of the Blessed Spirits from Orpheus and Euridice,Gluck,Longfield,Tempo Press,2,
-926-2-30209,String Orchestra,El Matador,Halferty,,"Kendor Music, Inc.",2,(POP) (opt percussion)
+926-2-30209,String Orchestra,El Matador,Halferty,,"Kendor Music, Inc.",2,(POP) (OPTIONAL percussion)
 926-2-30210,String Orchestra,An Elizabethan Madrigal (Now is the Month of Maying),Morley,Monday,"Kendor Music, Inc.",2,
 926-2-30213,String Orchestra,Emperor Waltz (Op. 437),Strauss,Monday,"Kendor Music, Inc.",2,
 926-2-30214,String Orchestra,Highland Celebration,Silva,,"Carl Fischer, Inc.",2,
@@ -892,7 +891,7 @@ Code,Event Name,Title,Composer,Arranger,Publisher [Collection],Grade,Specificati
 926-2-30226,String Orchestra,Sonatina No. 6 in C Major,Mozart,Calhoun,"Carl Fischer, Inc.",2,
 926-2-30227,String Orchestra,Song for the Winter Moon,Cummings,,Grand Mesa Music Publishers,2,
 926-2-30228,String Orchestra,Star-Crossed Warriors,Monday,,"Kendor Music, Inc.",2,
-926-2-30229,String Orchestra,Tales of the Kojiki,Yamada or Clark,,"Carl Fischer, Inc.",2,(piano required)
+926-2-30229,String Orchestra,Tales of the Kojiki,Yamada or Clark,,"Carl Fischer, Inc.",2,(piano REQUIRED)
 926-2-30230,String Orchestra,Terra Nova,Meyer,,"Alfred Music Company, Inc.",2,
 926-2-30231,String Orchestra,Variations Upon the Sailor's Hornpipe,Anon. or Trad.,Croft,"Carl Fischer, Inc.",2,
 926-2-30232,String Orchestra,Whimsical Dance,Broege,,Grand Mesa Music Publishers,2,
@@ -917,7 +916,7 @@ Code,Event Name,Title,Composer,Arranger,Publisher [Collection],Grade,Specificati
 926-3-30251,String Orchestra,Midnight Rain,Day,,Wingert/Jones,3,
 926-3-30252,String Orchestra,Prelude and Fugue,Schumann,Frost,Neil A. Kjos Music Company,3,
 926-3-30253,String Orchestra,Procession and Dance,Telemann,Law,Grand Mesa Music Publishers,3,
-926-3-30254,String Orchestra,"Sakura, Sakura",Anon. or Trad.,Yamada or Clark,"Carl Fischer, Inc.",3,(piano required)
+926-3-30254,String Orchestra,"Sakura, Sakura",Traditional Japanese Folk Song,Yamada or Clark,"Carl Fischer, Inc.",3,(piano required)
 926-3-30255,String Orchestra,Sea Songs,Vaughan Williams,Longfield,"Boosey & Hawkes, Inc.",3,
 926-3-30256,String Orchestra,"Song Without Words, Op. 102, No. 6 (Faith)",Mendelssohn,McCarrick,"Alfred Music Company, Inc.",3,
 926-3-30257,String Orchestra,Sunayama,Anon. or Trad.,Yamada or Clark,"Carl Fischer, Inc.",3,
@@ -959,17 +958,17 @@ Code,Event Name,Title,Composer,Arranger,Publisher [Collection],Grade,Specificati
 926-4-30294,String Orchestra,Winton Suite for String Orchestra,Carse,,Stainer & Bell,4,"(play Air, Dance or Song)"
 926-4-30296,String Orchestra,A Very English Music for String Orchestra,Carr,,Goodmusic,4,"(play mvt. 1, 2, or 3)"
 926-5-30297,String Orchestra,Divertimento for String Orchestra,Bauman,,"Hal Leonard Music, Inc.",5,(play mvt. 1)
-926-5-30298,String Orchestra,Dos Miniatures Andaluzas,Rodrigo,,Ediciones Joaquin Rodrigo,5,(play all)
+926-5-30298,String Orchestra,Dos Miniatures Andaluzas,Rodrigo,,Ediciones Joaquin Rodrigo,5,
 926-5-30299,String Orchestra,Prelude for String Orchestra,Finzi,,"Boosey & Hawkes, Inc.",5,
 926-5-30300,String Orchestra,"Serenade in E Major, Op. 25",Foote,,Luck's Music Library,5,(play one)
 926-5-30301,String Orchestra,Sinfonia for Strings,Ewazen,,Southern Music Company,5,(play one)
 926-5-30302,String Orchestra,"Suite in E Major, Op. 63",Foote,,Luck's Music Library,5,(play one)
 926-5-30303,String Orchestra,Symphonia de Nativitate-1759,Anon. or Trad.,Blahnik,"Alliance Publications, Inc.",5,(play any 2 mvts.)
-926-5-30304,String Orchestra,Winton Suite for String Orchestra,Carse,,Stainer & Bell,5,(play Prelude or Finale)
-926-2-30619,String Orchestra,Bach Minuets,Bach,Caponegro,"Kendor Music, Inc.",2,(play both minuets)
+926-5-30304,String Orchestra,Winton Suite for String Orchestra,Carse,,Stainer & Bell,5,(play Prelude OR Finale)
+926-2-30619,String Orchestra,Bach Minuets,Bach,Caponegro,"Kendor Music, Inc.",2,
 926-1-30862,String Orchestra,Rights of Conscience,Bates,Hellem,Neil A. Kjos Music Company,1,
 926-2-30863,String Orchestra,An American Ballad,Anon. or Trad.,Barber,LudwigMasters Publications,2,
-926-2-30864,String Orchestra,Chinese Folk Fantasy,Anon. or Trad.,Curnow,"Hal Leonard Music, Inc.",2,"(perc required, piano opt)"
+926-2-30864,String Orchestra,Chinese Folk Fantasy,Anon. or Trad.,Curnow,"Hal Leonard Music, Inc.",2,(percussion REQUIRED) (piano OPTIONAL)
 926-2-30865,String Orchestra,Lights on the Water,Daniels,,Neil A. Kjos Music Company,2,
 926-2-30866,String Orchestra,Skip To My Lou,Stephan,,Neil A. Kjos Music Company,2,
 926-2-30867,String Orchestra,The General's Order,Anon. or Trad.,Wang,LudwigMasters Publications,2,
@@ -996,7 +995,7 @@ Code,Event Name,Title,Composer,Arranger,Publisher [Collection],Grade,Specificati
 926-4-31013,String Orchestra,The Mill and the Train,Allen,,TRN Music Publisher,4,
 926-4-31014,String Orchestra,Vanishing Pointe,Meyer,,"Alfred Music Company, Inc.",4,
 926-5-31015,String Orchestra,Elegy,Jarrett,,FJH Music Company,5,
-926-2-31768,String Orchestra,In A French Garden,Meyer,,"Alfred Music Company, Inc.",2,(perc optional)
+926-2-31768,String Orchestra,In A French Garden,Meyer,,"Alfred Music Company, Inc.",2,(OPTIONAL percussion)
 926-4-33161,String Orchestra,Symphony No. 104 (Finale),Haydn,Parrish,Wingert/Jones,4,(timpani opt)
 926-4-33176,String Orchestra,Rainier Sunrise,Butz,,"Musica Propria, Inc.",4,
 926-5-33146,String Orchestra,"Serenade No. 3, Op. 21 in e",Fuchs,,Luck's Music Library,5,(play one mvt)
@@ -1015,12 +1014,12 @@ Code,Event Name,Title,Composer,Arranger,Publisher [Collection],Grade,Specificati
 926-2-33148,String Orchestra,Canciones De Ninos,Traditional,Monday,"Kendor Music, Inc.",2,
 926-3-33157,String Orchestra,Rainfall in Vernazza,Thomas,,FJH Music Company,3,
 926-3-33187,String Orchestra,Pavane Opus 50,Faure,Clark,"Carl Fischer, Inc.",3,
-926-2-33188,String Orchestra,The Olive Tree,Stein,Gazda,Kjos Music,2,(opt harp or piano)
+926-2-33188,String Orchestra,The Olive Tree,Stein,Gazda,Kjos Music,2,(OPTIONAL harp OR piano)
 926-4-33186,String Orchestra,Allegretto from Symphony No. 7,Beethoven,McCashin,FJH Music Company,4,
 926-4-33172,String Orchestra,Birds on a Wire,Allen,,Grand Mesa Music Publishers,4,
-926-2-33170,String Orchestra,French Dance: Jouissance vous donnerai,Traditional,Monday,"Belwin, Inc",2,(percussion opt)
+926-2-33170,String Orchestra,French Dance: Jouissance vous donnerai,Traditional,Monday,"Belwin, Inc",2,(OPTIONAL percussion)
 926-4-33171,String Orchestra,Fugue from Requiem in D minor,Mozart,Fin,"Alfred Music Company, Inc.",4,
-926-2-31772,String Orchestra,Fan Dance,Newbold,,FJH Music Company,2,(piano opt)
+926-2-31772,String Orchestra,Fan Dance,Newbold,,FJH Music Company,2,(OPTIONAL piano)
 926-3-33159,String Orchestra,A Nordic Lullaby,Grieg,La Plante,FJH Music Company,3,
 926-4-33147,String Orchestra,Rio De Fuego,Halferty,,"Kendor Music, Inc.",4,
 926-3-33181,String Orchestra,Allegro & Fugue (medium easy version),Cueto,,In The Clouds Music,3,(play one mvt)
@@ -1029,11 +1028,11 @@ Code,Event Name,Title,Composer,Arranger,Publisher [Collection],Grade,Specificati
 926-3-33189,String Orchestra,Allegro Giocoso,Brahms,Monday,Kjos Music,3,
 926-1-31771,String Orchestra,A Beethoven Lullaby,Balmages,,FJH Music Company,1,(piano opt)
 926-2-31770,String Orchestra,Viva los Conquistadores!,Monday,,"Alfred Music Company, Inc.;Highland/Etling",2,
-926-2-31769,String Orchestra,King William's March,Clarke,Phillips,"Alfred Music Company, Inc.",2,(piano optional)
+926-2-31769,String Orchestra,King William's March,Clarke,Phillips,"Alfred Music Company, Inc.",2,(OPTIONAL piano)
 926-3-33160,String Orchestra,Legends of Glory,Griesinger,,Wingert/Jones,3,
 926-2-33169,String Orchestra,Sonatina,Beethoven,Bullock,"Belwin, Inc",2,
 926-5-33145,String Orchestra,"Serenade No. 1, Op. 9 in D",Fuchs,,Luck's Music Library,5,(play one mvt)
-926-2-31773,String Orchestra,The Keeper Did A-Hunting Go,Anon. or Trad.,Gruselle,FJH Music Company,2,(piano opt)
+926-2-31773,String Orchestra,The Keeper Did A-Hunting Go,Anon. or Trad.,Gruselle,FJH Music Company,2,(OPTIONAL piano)
 926-1-31774,String Orchestra,Kemp's Jig,Anon. or Trad.,Wilcott,Grand Mesa Music Publishers,1,
 926-1-31775,String Orchestra,Overture for Strings,Handel,Lipton,Grand Mesa Music Publishers,1,
 926-2-31776,String Orchestra,Aspen Glow,Day,,Grand Mesa Music Publishers,2,
@@ -1047,7 +1046,7 @@ Code,Event Name,Title,Composer,Arranger,Publisher [Collection],Grade,Specificati
 926-1-31802,String Orchestra,Shortnin' Bread Blues,Monday,,Wingert/Jones,1,
 926-1-31803,String Orchestra,Woodland Park,Frost,,LudwigMasters Publications,1,
 926-2-31804,String Orchestra,Silhouettes,Silva,,"Carl Fischer, Inc.",2,(piano OPTIONAL)
-926-2-31805,String Orchestra,Forest Hills Folk Suite,Phillips,,"Alfred Music Company, Inc.",2,(play mvts 1 & 2 or mvts 2 & 3)
+926-2-31805,String Orchestra,Forest Hills Folk Suite,Phillips,,"Alfred Music Company, Inc.",2,(play mvts 1 & 2 OR 2 & 3)
 926-2-31806,String Orchestra,Lyric Pieces,Grieg,McCashin,FJH Music Company,2,(play one mvt)
 926-2-31807,String Orchestra,Toccata,Frescobaldi,Beeman,Grand Mesa Music Publishers,2,
 926-2-31808,String Orchestra,A Festive March,Handel,Wilcott,Grand Mesa Music Publishers,2,
@@ -1088,7 +1087,7 @@ Code,Event Name,Title,Composer,Arranger,Publisher [Collection],Grade,Specificati
 926-4-31948,String Orchestra,Cosi Fan Tutte,Mozart,Parrish,"Alfred Music Company, Inc.",4,
 926-4-31949,String Orchestra,Dance of the Comedians,Smetana,Bergonzi,"Alfred Music Company, Inc.",4,
 926-2-31950,String Orchestra,Folk Festival,O'Reilly,,"Alfred Music Company, Inc.",2,
-926-2-31951,String Orchestra,Bluebell,Nishimura,,"Carl Fischer, Inc.",2,(piano not required)
+926-2-31951,String Orchestra,Bluebell,Nishimura,,"Carl Fischer, Inc.",2,(OPTIONAL piano)
 926-2-31952,String Orchestra,Chester,Billings,Calhoun,"Carl Fischer, Inc.",2,
 926-2-31953,String Orchestra,Epic,Clark,,"Carl Fischer, Inc.",2,
 926-2-31954,String Orchestra,Pulse Pounding,O'Loughlin,,"Carl Fischer, Inc.",2,
@@ -1101,7 +1100,7 @@ Code,Event Name,Title,Composer,Arranger,Publisher [Collection],Grade,Specificati
 926-3-31961,String Orchestra,On an Eastern Shore,Silva,,"Carl Fischer, Inc.",3,(piano/harp optional))
 926-2-31963,String Orchestra,Little Turtle Dove,Traditional,Gruselle,FJH Music Company,2,
 926-3-31962,String Orchestra,Suo Gan,Welsh Folk Song,Clark,"Carl Fischer, Inc.",3,(piano or harp required)
-926-2-31964,String Orchestra,Streets of Shilin,Owens,,FJH Music Company,2,(percussion optional)
+926-2-31964,String Orchestra,Streets of Shilin,Owens,,FJH Music Company,2,(OPTIONAL percussion)
 926-2-31965,String Orchestra,Velocity,Balmages,,FJH Music Company,2,
 926-3-31966,String Orchestra,Danse Infernale,Del Borgo,,FJH Music Company,3,
 926-3-31967,String Orchestra,Pavane and Lesquercarde,Delibes,McCashin,FJH Music Company,3,(play both)
@@ -1110,14 +1109,14 @@ Code,Event Name,Title,Composer,Arranger,Publisher [Collection],Grade,Specificati
 926-4-31970,String Orchestra,Grave and Allegro,Telemann,McCashin,FJH Music Company,4,
 926-4-31971,String Orchestra,L'estro armonico,Vivaldi,Bach/Lipton,FJH Music Company,4,
 926-4-31972,String Orchestra,Waltz (La plus que lente),Debussy,Moreno,FJH Music Company,4,
-926-5-31973,String Orchestra,Minuet and Rigaudon,Ravel,Gruselle,FJH Music Company,5,(play all)
+926-5-31973,String Orchestra,Minuet and Rigaudon,Ravel,Gruselle,FJH Music Company,5,
 926-4-31974,String Orchestra,Minuet and Rigaudon,Ravel,Gruselle,FJH Music Company,4,(play one mvt)
 926-3-31975,String Orchestra,Sarabande,"Bach, J.S.",Aronson,Grand Mesa Music Publishers,3,
 926-3-31976,String Orchestra,Greensleeves Fantasy,Folk Song,Bobrowitz,Grand Mesa Music Publishers,3,
 926-3-31977,String Orchestra,March from Second Suite,Holst,Lipton,Grand Mesa Music Publishers,3,
 926-4-31978,String Orchestra,Clair de Lune,Debussy,Lipton,Grand Mesa Music Publishers,4,
 926-2-31979,String Orchestra,Ecossaise in G,Beethoven,Halferty,"Kendor Music, Inc.",2,
-926-2-31980,String Orchestra,March of the Bowmen,Caponegro,,"Kendor Music, Inc.",2,(percussion optional)
+926-2-31980,String Orchestra,March of the Bowmen,Caponegro,,"Kendor Music, Inc.",2,(OPTIONAL percussion)
 926-3-31981,String Orchestra,Music For The Royal Fireworks,Handel,Caponegro,"Kendor Music, Inc.",3,(play all)
 926-4-31982,String Orchestra,Serenade in g minor,Kalinnikov,,Luck's Music Library,4,
 926-1-31983,String Orchestra,The Red Lion,Woolstenhulme,,Neil A. Kjos Music Company,1,
@@ -1136,18 +1135,18 @@ Code,Event Name,Title,Composer,Arranger,Publisher [Collection],Grade,Specificati
 926-1-32096,String Orchestra,March from Suite No. 1,Holst,Story,"Alfred Music Company, Inc.",1,
 926-1-32097,String Orchestra,Military Symphony,Hayden,Hans,Wingert/Jones,1,
 926-1-32098,String Orchestra,The Old Rocking Chair,Woolstenhulme,,Neil A. Kjos Music Company,1,
-926-2-32099,String Orchestra,Angel's Steps,Nishimura,,"Carl Fischer, Inc.",2,(Piano or Harp optional)(Percussion required)
+926-2-32099,String Orchestra,Angel's Steps,Nishimura,,"Carl Fischer, Inc.",2,(percussion REQUIRED) (OPTIONAL piano OR harp)
 926-2-32100,String Orchestra,Ethos,Clark,,"Carl Fischer, Inc.",2,
 926-2-32101,String Orchestra,The Fanfare Overture,Reznicow,,TRN Music Publisher,2,
-926-2-32102,String Orchestra,Gothic Cathedral,Compello,,"Carl Fischer, Inc.",2,(Chimes optional)
-926-2-32103,String Orchestra,King Henry's Choice,Sharp,,"Alfred Music Company, Inc.",2,(Piano and Percussion optional)
+926-2-32102,String Orchestra,Gothic Cathedral,Compello,,"Carl Fischer, Inc.",2,(OPTIONAL chimes)
+926-2-32103,String Orchestra,King Henry's Choice,Sharp,,"Alfred Music Company, Inc.",2,(OPTIONAL piano & percussion)
 926-2-32104,String Orchestra,La Paloma,Spanish Folk Song,Vargas,Grand Mesa Music Publishers,2,
-926-2-32105,String Orchestra,Legend of the Lotus,Halferty,,"Kendor Music, Inc.",2,(Piano or harp required)
+926-2-32105,String Orchestra,Legend of the Lotus,Halferty,,"Kendor Music, Inc.",2,(piano OR harp REQUIRED)
 926-2-32106,String Orchestra,Pilgrim's Chorus from Tannhauser,Wagner,Dabcynski,"Alfred Music Company, Inc.",2,
 926-2-32107,String Orchestra,Portal Gates,Clark,,"Carl Fischer, Inc.",2,
 926-2-32108,String Orchestra,Prairie Spirit,Hinds,,"Carl Fischer, Inc.",2,
-926-2-32109,String Orchestra,Primula,Nishimura,,"Carl Fischer, Inc.",2,(Piano or Harp optional)
-926-2-32110,String Orchestra,Tribal Voices,Story,,"Alfred Music Company, Inc.",2,(opt percussion)
+926-2-32109,String Orchestra,Primula,Nishimura,,"Carl Fischer, Inc.",2,(OPTIONAL Piano OR harp)
+926-2-32110,String Orchestra,Tribal Voices,Story,,"Alfred Music Company, Inc.",2,(OPTIONAL percussion)
 926-2-32111,String Orchestra,"Ye Banks and Braes, O Bonnie Doon",Scottish Folk Song,Christopher,"Alfred Music Company, Inc.",2,
 926-3-32112,String Orchestra,A Lithuanian Nocturne,Traditional,Meyer,"Alfred Music Company, Inc.",3,
 926-3-32113,String Orchestra,Badinerie from Orchestral Suite No. 2 in b minor,"Bach, J.S.",Caponegro,"Kendor Music, Inc.",3,
@@ -1185,10 +1184,10 @@ Code,Event Name,Title,Composer,Arranger,Publisher [Collection],Grade,Specificati
 926-5-32145,String Orchestra,Invocation,Webber,,Rodgers and Hammerstein Concert Library,5,
 926-3-33107,String Orchestra,Folk Tune Air and Fiddler's Fury,Safford,,"Highland/Etling;Alfred Music Company, Inc.",3,(play mvt. 1)
 926-2-33367,String Orchestra,Le Carillon a Musique,Law,,Grand Mesa Music Publishers,2,
-926-2-33368,String Orchestra,Finnish Folk Song Suite,Traditional,Caravella,Wingert/Jones,2,(play all)
+926-2-33368,String Orchestra,Finnish Folk Song Suite,Traditional,Caravella,Wingert-Jones,2,
 926-2-33369,String Orchestra,Baroque Suite,Telemann,Hopkins,"Kendor Music, Inc.",2,
-926-2-33370,String Orchestra,Boat Ride,Goldman,,Soundwave,2,(piano or harp not optional)
-926-2-33371,String Orchestra,March for Strings,Purcell,Fishburn,Wingert/Jones,2,(opt harp or piano)
+926-2-33370,String Orchestra,Boat Ride,Goldman,,Soundwave,2,(piano OR harp REQUIRED)
+926-2-33371,String Orchestra,March for Strings,Purcell,Fishburn,Wingert/Jones,2,(OPTIONAL harp OR piano)
 926-2-33372,String Orchestra,Sequoia,Holmes,,Wingert/Jones,2,
 926-3-33373,String Orchestra,Song of the Ocean Winds,Gordon,,Leap Year Music,3,
 926-4-33374,String Orchestra,Allegro Moderato (from Symphony No. 3),Saint-Saens,Monday,FJH Music Company,4,
@@ -1221,7 +1220,7 @@ Code,Event Name,Title,Composer,Arranger,Publisher [Collection],Grade,Specificati
 926-2-34287,String Orchestra,Parade of Stars,Campra,Leavitt,"Hal Leonard Music, Inc.",2,
 926-2-34288,String Orchestra,Thunderstruck,O'Loughlin,,"Carl Fischer, Inc.",2,
 926-2-34289,String Orchestra,Dragon Fire,Day,,Grand Mesa Music Publishers,2,
-926-2-34290,String Orchestra,"La Rejouissance, Sarabande, and Gigue (from Suite in D)",Telemann,McCashin,Wingert/Jones,2,(play mvt. 1 or 2)
+926-2-34290,String Orchestra,"La Rejouissance, Sarabande, and Gigue (from Suite in D)",Telemann,McCashin,Wingert/Jones,2,(play mvt. 1 OR 2)
 926-2-34291,String Orchestra,Beauteous Spirit,Kamuf,,Highland/Etling,2,
 926-2-34292,String Orchestra,Allegretto (Incidental Music from Falstaff),Verdi,Bishop,Wingert/Jones,2,
 926-3-34293,String Orchestra,Echelon,Griesinger,,FJH Music Company,3,
@@ -1236,12 +1235,12 @@ Code,Event Name,Title,Composer,Arranger,Publisher [Collection],Grade,Specificati
 926-4-34302,String Orchestra,Serenade Op. 11,Wiren,,Luck's Music Library,4,(play mvt. 2)
 926-4-34303,String Orchestra,Rhythm Dances,Balmages,,FJH Music Company,4,
 926-5-34304,String Orchestra,Charterhouse Suite,Vaughan Williams,Brown,Galaxy Music Corporation;Luck's Music Library,5,(play 2 contrasting mvts.)
-926-5-34305,String Orchestra,Finale from Symphony No. 5,Tchaikovsky,Holmes,Wingert/Jones,5,(optional timpani)
-926-5-34306,String Orchestra,Serenade Op. 11,Wiren,,Luck's Music Library,5,(play mvt. 1 or 4)
+926-5-34305,String Orchestra,Finale from Symphony No. 5,Tchaikovsky,Holmes,Wingert/Jones,5,(timpani OPTIONAL)
+926-5-34306,String Orchestra,Serenade Op. 11,Wiren,,Luck's Music Library,5,(play mvt. 1 OR 4)
 926-5-34307,String Orchestra,Three Olympians,Boyer,,Propulsive Music,5,(play one mvt)
 926-1-34915,String Orchestra,Turbulence,Owens,,FJH Music Company,1,
 926-1-34916,String Orchestra,Rainbow’s End,Day,,"Alfred Music Company, Inc.",1,
-926-2-34917,String Orchestra,Winter Reverie,Griesinger,,"Carl Fischer, Inc.",2,(piano required)
+926-2-34917,String Orchestra,Winter Reverie,Griesinger,,"Carl Fischer, Inc.",2,(piano REQUIRED)
 926-3-34918,String Orchestra,If Thou Be Near,Stolzel,Gruselle,FJH Music Company,3,
 926-3-34919,String Orchestra,Ai Hai Yo,Traditional Chinese Folk Song,Arcari,Excelcia,3,
 926-3-34920,String Orchestra,The Knight Errant,Silva,,Excelcia,3,(opt piano)
@@ -1257,12 +1256,12 @@ Code,Event Name,Title,Composer,Arranger,Publisher [Collection],Grade,Specificati
 926-4-34930,String Orchestra,Dreaming,Balmages,,FJH Music Company,4,
 926-5-34931,String Orchestra,Visions and Miracles,Theofanidis,,Bill Holab Music,5,(play mvt 1 OR mvt 3)
 926-5-34932,String Orchestra,"Romance, Op. 11",Finzi,,"Boosey & Hawkes, Inc.",5,
-926-5-34933,String Orchestra,Notturno,Schoenberg,,Universal Editions,5,(harp required)
+926-5-34933,String Orchestra,Notturno,Schoenberg,,Universal Editions,5,(harp REQUIRED)
 926-5-34934,String Orchestra,Serenade for Strings,Herbert,,Luck's Music Library,5,(play one mvt)
 926-5-34935,String Orchestra,"Four Noveletten, Op. 52",Coleridge-Taylor,,Luck's Music Library,5,(play one mvt)
 926-5-34936,String Orchestra,Starburst,Montgomery,,NYC Music Services,5,
 926-5-34937,String Orchestra,Strut,Daugherty,,"Boosey & Hawkes, Inc.",5,
-926-5-34938,String Orchestra,Ennanga,Still,,Southern Music Company,5,(play mvt 1 OR mvt 3) (harp AND piano required)
+926-5-34938,String Orchestra,Ennanga,Still,,Southern Music Company,5,(play mvt 1 OR mvt 3) (harp AND piano REQUIRED)
 926-5-34939,String Orchestra,Notturno,Dvorak,,Bote & Bock,5,
 926-5-34940,String Orchestra,Idyll for Strings,Janacek,,Luck's Music Library,5,(play one mvt)
 926-5-34941,String Orchestra,"Two Norwegian Airs for Strings, Op. 63",Grieg,,Luck's Music Library,5,(play one)
@@ -1349,7 +1348,7 @@ Code,Event Name,Title,Composer,Arranger,Publisher [Collection],Grade,Specificati
 926-2-37985,String Orchestra,Battle of the Bows,Thomas,,FJH Music Company,2,
 926-2-37986,String Orchestra,Vanguard,Um,,Tempo Press,2,
 926-2-37987,String Orchestra,First Light,Silva,,Excelcia,2,
-926-2-37988,String Orchestra,"The Sleigh Ride (from Three German Dances, K. 605)",Mozart,Selden,Wingert-Jones,2,(opt percussion)
+926-2-37988,String Orchestra,"The Sleigh Ride (from Three German Dances, K. 605)",Mozart,Selden,Wingert-Jones,2,(OPTIONAL percussion)
 926-2-37989,String Orchestra,Nova Jornada,Fin,,Wilfin Music,2,
 926-2-37990,String Orchestra,Winter Stars,Griesinger,,"Carl Fischer, Inc.",2,(piano REQUIRED)
 926-2-37991,String Orchestra,Adventure,Ramsey-White,,Excelcia,2,
@@ -1421,11 +1420,10 @@ Code,Event Name,Title,Composer,Arranger,Publisher [Collection],Grade,Specificati
 926-4-39012,String Orchestra,Larghetto and Allegro from Sinfonia in G Major,Stamitz,McCashin,Tempo Press,4,
 926-4-39013,String Orchestra,Shakespeare Song Suite,Ellerby,,Cane River Music,4,(play two mvts)
 926-4-39014,String Orchestra,Spirit,Arcari,,Excelcia,4,
-926-5-39015,String Orchestra,Rumpus Room,Smith,,Murphy Music Press,5,(OPTIONAL harp)
+926-5-39015,String Orchestra,Rumpus Room,Smith,,Murphy Music Press,5,(harp OPTIONAL)
 926-5-39016,String Orchestra,Ascent,Ellerby,,Cane River Music,5,
 926-5-39017,String Orchestra,The Fighting Temeraire,Ellerby,,Cane River Music,5,
 926-5-39018,String Orchestra,Elegy on the Death of Chatterton,Ellerby,,Cane River Music,5,
-926-5-40089,String Orchestra,Alis Volat Propriis,Newbold,,MakeMusic Publications,5,(harp OPTIONAL)
 926-5-40090,String Orchestra,The Low Arc of the Sun,Bryant,,Steven Bryant,5,(harp/piano OPTIONAL)
 926-5-40091,String Orchestra,"Serenade for Strings, Op. 36",Beliczay,,Silvertrust Edition;Public Domain;Luck's Music Library,5,(play any mvt)
 926-5-40092,String Orchestra,Scenes from the Scottish Highlands,Bantock,,Breitkopf & Härtel,5,(play any mvt)
@@ -1475,3 +1473,99 @@ Code,Event Name,Title,Composer,Arranger,Publisher [Collection],Grade,Specificati
 926-1-40137,String Orchestra,Rustic Warriors,Page,,Highland/Etling,1,
 926-1-40138,String Orchestra,High Flying,Grant,,MakeMusic Publications,1,
 926-1-40139,String Orchestra,Dream of Flight,Sluder,,Cane River Music,1,
+926-1-41253,String Orchestra,Burst!,Balmages,,FJH Music Company,1,
+926-1-41254,String Orchestra,Mystical Beasts,Sanguinito,,Grand Mesa Strings Publishing,1,
+926-1-41255,String Orchestra,Thunderstone,Neidhold,,Grand Mesa Strings Publishing,1,
+926-1-41256,String Orchestra,Dominoes,Hill,,TUX Peoples Music,1,
+926-1-41257,String Orchestra,Sunrise Reflections,Morales,,Southern Music Company,1,
+926-1-41258,String Orchestra,Dark Magic,Donahoe,,Grand Mesa Strings Publishing,1,
+926-1-41259,String Orchestra,52 Pickup,Coles,,Wingert-Jones,1,
+926-1-41260,String Orchestra,Castle Quest,Griesinger,,"Hal Leonard Music, Inc.",1,
+926-1-41261,String Orchestra,Fire and Ash,Sluder,,Tempo Press,1,
+926-1-41262,String Orchestra,Black Bear Ballet,Sluder,,Grand Mesa Strings Publishing,1,
+926-1-41263,String Orchestra,Binary 0101,Estes,,Excelcia,1,
+926-1-41264,String Orchestra,Evening Glow,Rogers,,TUX Peoples Music,1,
+926-1-41265,String Orchestra,Caverns of Darkness,Rogers,,Grand Mesa Strings Publishing,1,
+926-1-41266,String Orchestra,El Coqui,Puerto Rican Folk Song,Morales,DogSmile Music,1,
+926-1-41267,String Orchestra,Dark Currents,Standridge,,Randall Standridge Music,1,
+926-1-41268,String Orchestra,The Russian Music Box,Newbold,,FJH Music Company,1,
+926-1-41269,String Orchestra,Anchored,Parrish,,Wingert-Jones,1,
+926-1-41270,String Orchestra,Kraken,Van Doren,,RWS Music Company,1,
+926-1-41271,String Orchestra,Cha Cha Chango,Zamora,,Zamora Music,1,
+926-1-41272,String Orchestra,Retro Romp,Zamora,,Zamora Music,1,
+926-2-41273,String Orchestra,Emperor in the Countryside,Beethoven,Sluder,Tempo Press,2,
+926-2-41274,String Orchestra,A Joyful Life,Sanguinito,,DogSmile Music,2,
+926-2-41275,String Orchestra,Elevation,Sanguinito,,TUX Peoples Music,2,
+926-2-41276,String Orchestra,Valiant Quest,Sanguinito,,Grand Mesa Strings Publishing,2,
+926-2-41277,String Orchestra,Ambulations,Woodruff,,LudwigMasters Publications,2,(OPTIONAL harp)
+926-2-41278,String Orchestra,The Legend of the Crooked Stick,Woodruff,,Wingert-Jones,2,
+926-2-41280,String Orchestra,The Old Faithful Rainbow,Pedrazzini,,Grand Mesa Strings Publishing,2,
+926-2-41281,String Orchestra,Thor’s Thunder,Davis,,Tempo Press,2,
+926-2-41282,String Orchestra,Night Chase,Coles,,Grand Mesa Strings Publishing,2,
+926-2-41283,String Orchestra,Force of Nature,Atterbury,,Tempo Press,2,(OPTIONAL piano)
+926-2-41284,String Orchestra,Centrifuge,Griesinger,,"Carl Fischer, Inc.",2,(OPTIONAL piano)
+926-2-41285,String Orchestra,Endless Possibilities,Clark,,Excelcia,2,
+926-2-41286,String Orchestra,Soaring Above,Clark,,Excelcia,2,
+926-2-41287,String Orchestra,March to the Dragon’s Lair,Culver,,DogSmile Music,2,(OPTIONAL piano)
+926-2-41288,String Orchestra,Temple Raider,Hillegass Jr,,"Belwin, Inc",2,(OPTIONAL percussion)
+926-2-41289,String Orchestra,Lighthouse in the Fog,Rogers,,Grand Mesa Strings Publishing,2,
+926-2-41290,String Orchestra,Rejoice!,Hopkins,,LudwigMasters Publications,2,
+926-2-41291,String Orchestra,Radiant Rhapsody,Zare,,Roger Zare Music,2,
+926-2-41292,String Orchestra,Truth or Dare,Silva,,Excelcia,2,
+926-2-41293,String Orchestra,When Lightning Strikes,Silva,,Excelcia,2,
+926-2-41294,String Orchestra,Luminescence,Silva,,"Carl Fischer, Inc.",2,
+926-2-41295,String Orchestra,Let Them Not Be Forgotten,Day,,Grand Mesa Strings Publishing,2,
+926-2-41296,String Orchestra,Resolute,Parrish,,"Carl Fischer, Inc.",2,
+926-2-41297,String Orchestra,Canzone,Parrish,,"Carl Fischer, Inc.",2,
+926-2-41298,String Orchestra,Tinikling: The Rice Bird Dance,Traditional Filipino Folk Music,Ford,Tempo Press,2,
+926-2-41299,String Orchestra,Lullaby,Mozart,Hill,TUX Peoples Music,2,
+926-2-41300,String Orchestra,"Divertimento No. 14, K. 270 IV. Presto",Mozart,Dackow,Tempo Press,2,
+926-2-41301,String Orchestra,Joyful Lily,Nishimura,,Excelcia,2,
+926-2-41302,String Orchestra,Alchemic Adventure,Zamora,,Zamora Music,2,
+926-3-41303,String Orchestra,A Hero’s Quest,Kline,,C. Alan Publications,3,
+926-3-41304,String Orchestra,A Dream to Build Upon,Silva,,Excelcia,3,
+926-3-41305,String Orchestra,Moonglow,Ford,,Tempo Press,3,
+926-3-41306,String Orchestra,Victory,Eveland,,Tempo Press,3,
+926-3-41307,String Orchestra,Cosmic Odyssey,Eveland,,Tempo Press,3,
+926-3-41308,String Orchestra,Paladin’s Oath,Morales,,DogSmile Music,3,
+926-3-41309,String Orchestra,Symphony No. 2: I. Allegro assai,Mayer,Meckler,Tempo Press,3,
+926-3-41310,String Orchestra,Golden Daydreams,Golan,,Wingert-Jones,3,
+926-3-41311,String Orchestra,Seafarer’s Quest,Ponce,,Black Portal Audio Productions,3,
+926-3-41312,String Orchestra,Ghosts of the Ancient Mountains,Lipscomb,,DogSmile Music,3,(OPTIONAL harp)
+926-3-41313,String Orchestra,Mosaic,Hart,,Excelcia,3,
+926-3-41314,String Orchestra,Loss and Acceptance,Sluder,,Cane River Music,3,
+926-3-41315,String Orchestra,A Wistful Walk,Sluder,,Cane River Music,3,
+926-3-41316,String Orchestra,Sinfonia in C Major: III. Allegro spiritoso,Martines,Meckler,Tempo Press,3,
+926-3-41317,String Orchestra,Isma'a,Darling,,Highland/Etling,3,
+926-3-41318,String Orchestra,Night Shift,Meyer,,"Alfred Music Company, Inc.",3,
+926-3-41319,String Orchestra,Night Passage,Longfield,,"Hal Leonard Music, Inc.",3,
+926-3-41320,String Orchestra,Starry Night,Zare,,Murphy Music Press,3,(OPTIONAL harp)
+926-3-41321,String Orchestra,Medallion Hunt,Siegler,,Grand Mesa Strings Publishing,3,
+926-3-41322,String Orchestra,On Edge,Day,,Southern Music Company,3,
+926-3-41323,String Orchestra,"Nguoi O Dung Ve (Oh My Loved Ones, Do Not Leave)",Traditional Vietnamese Folk Song,Paxton,"Creative Spirit [Global Adventures, Book III for String Orchestra]",3,(OPTIONAL guitar OR piano)
+926-3-41324,String Orchestra,Faith Eternal,Traditional Hymn Tune,Chambers,"Hal Leonard Music, Inc.",3,
+926-3-41325,String Orchestra,Song for UhmMa (Song for My Mother),Traditional Korean Folk Song,Han,"Hal Leonard Music, Inc.",3,(OPTIONAL piano/harp)
+926-3-41326,String Orchestra,Beyond These Horizons…,Owens,,Randall Standridge Music,3,(harp REQUIRED)
+926-3-41327,String Orchestra,"Symphony No. 12 in G Major, K. 110 IV. Allegro (Finale)",Mozart,Dackow,Tempo Press,3,
+926-4-41328,String Orchestra,Arise,American Folk Song,Bauder & Moss,Tempo Press,4,(OPTIONAL piano OR harp)
+926-4-41329,String Orchestra,Along Mill Creek,Woodruff,,LudwigMasters Publications,4,(OPTIONAL harp)
+926-4-41330,String Orchestra,Atlantis of the Sands,Pilsner,,Zicato Music,4,
+926-4-41331,String Orchestra,Serenade for String Orchestra: Movement III,Andrée,Meckler,Tempo Press,4,
+926-4-41332,String Orchestra,String Quartet in E-flat Major: III. Romanze,Mendelssohn,Meckler,Tempo Press,4,
+926-4-41333,String Orchestra,Larghetto and Allegro,Handel,Whittington,Southern Music Company,4,
+926-4-41334,String Orchestra,"Finale from Symphony in D Major, W. 27","Bach, J.C.",Debbaut,Southern Music Company,4,
+926-4-41335,String Orchestra,Symphony Concertante No. 2 in G Major: I. Allegro,"Bologne, Chevalier de Saint-Georges",Dackow,Tempo Press,4,
+926-4-41336,String Orchestra,Second to None,Sluder,,Zicato Music,4,
+926-4-41337,String Orchestra,String Quartet No. 2 in B-Flat Major: Mvt. II Allegro,Lombardini-Sirmen,Meckler,Tempo Press,4,
+926-5-41338,String Orchestra,Visions of Tomorrow,Gordon,,Leap Year Music,5,
+926-5-41339,String Orchestra,Sinfonia for Strings (String Quartet No. 2),Borodin,Drew,Edwin F. Kalmus,5,(play one mvt)
+926-5-41340,String Orchestra,Taifu,Pilsner,,Zicato Music,5,
+926-5-41341,String Orchestra,Symphony No. 2 (Finale),Mayer,Taylor,"Carl Fischer, Inc.",5,(OPTIONAL percussion)
+926-5-41342,String Orchestra,Octet,Mendelssohn,Dackow,Tempo Press,5,
+926-5-41343,String Orchestra,"Scherzo from String Quartet, D. 956",Schubert,Debbaut,Southern Music Company,5,
+926-5-41344,String Orchestra,"Symphony No. 2 ""Romantic"" - 1st Movement",Hanson,Parrish,"Carl Fischer, Inc.",5,(OPTIONAL harp)
+926-5-41345,String Orchestra,"Finale to Symphony in D Minor, “La Casa del Diavolo”",Boccherini,Selby,GIA Publications,5,
+926-5-41346,String Orchestra,Serenade for Strings,Karlowicz,,Luck's Music Library,5,(play one mvt)
+926-5-41347,String Orchestra,Serenade for Strings,Warlock,,Oxford University Press;Luck's Music Library,5,
+926-5-41348,String Orchestra,Alis Volat Propriis,Newbold,,MakeMusic Publications,5,(OPTIONAL harp OR piano)
+926-5-41349,String Orchestra,Serenade for Strings,Wolf-Ferrari,,Edwin F. Kalmus;Luck's Music Library,5,"(play mvt 1,2 OR 4)"

@@ -357,6 +357,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "344-3-41981",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Over Yonder",
+    "composer": "Gazlay",
+    "arranger": "",
+    "publishers": [
+      "Imagine Music"
+    ],
+    "publisherText": "Imagine Music",
+    "classLevel": 3,
+    "specification": "(tpt, horn, trom OR euph, tuba)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/over-yonder-1644111/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "344-3-14139",
     "instrumentSlug": "brass-quartet",
     "instrumentName": "Brass Quartets",
@@ -1888,6 +1909,27 @@
     "sheetMusicAffiliateUrl": null,
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "344-2-41980",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Crosswinds",
+    "composer": "Gazlay",
+    "arranger": "",
+    "publishers": [
+      "Imagine Music"
+    ],
+    "publisherText": "Imagine Music",
+    "classLevel": 2,
+    "specification": "(2 tpts, horn, trom)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/crosswinds-11205434/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
     "uilCode": "344-2-14107",
@@ -3465,6 +3507,69 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "344-1-41976",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Ascension",
+    "composer": "Boswell",
+    "arranger": "Fennell",
+    "publishers": [
+      "matonizz.com"
+    ],
+    "publisherText": "matonizz.com",
+    "classLevel": 1,
+    "specification": "LOW BRASS QUARTET (any published combination)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/ascension-11637847e/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "344-1-41978",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Beyond The Stars",
+    "composer": "Boswell",
+    "arranger": "Fennell",
+    "publishers": [
+      "matonizz.com"
+    ],
+    "publisherText": "matonizz.com",
+    "classLevel": 1,
+    "specification": "LOW BRASS QUARTET (any published combination)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "344-1-41977",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "The Knight's Journey",
+    "composer": "Boswell",
+    "arranger": "Fennell",
+    "publishers": [
+      "matonizz.com"
+    ],
+    "publisherText": "matonizz.com",
+    "classLevel": 1,
+    "specification": "LOW BRASS QUARTET (any published combination)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "344-1-14068",
     "instrumentSlug": "brass-quartet",
     "instrumentName": "Brass Quartets",
@@ -4135,6 +4240,27 @@
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/sharagan-and-fugue-1001890/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "344-1-42174",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Five Chansons",
+    "composer": "Janequin",
+    "arranger": "Box",
+    "publishers": [
+      "davidboxmusic.com"
+    ],
+    "publisherText": "davidboxmusic.com",
+    "classLevel": 1,
+    "specification": "(2 tpt, hn, trb) (choose one mvt from 1,2, OR 5 PLUS 3 OR 4) (2 total)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
   },
   {
     "uilCode": "344-1-14077",
@@ -4948,6 +5074,27 @@
     "publisherText": "Tierolff Muziekcentrale",
     "classLevel": 1,
     "specification": "(2 tpt, hn, trb)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "344-1-41979",
+    "instrumentSlug": "brass-quartet",
+    "instrumentName": "Brass Quartets",
+    "eventName": "Brass Quartet",
+    "title": "Renaissance and Baroque Suites for Flexible Instrumentation Quartets, Vol.3",
+    "composer": "various",
+    "arranger": "Opaskar",
+    "publishers": [
+      "LudwigMasters Publications"
+    ],
+    "publisherText": "LudwigMasters Publications",
+    "classLevel": 1,
+    "specification": "LOW BRASS QUARTET (any published combination) (play three mvts from Suite 7, 8, 9, OR 10)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,

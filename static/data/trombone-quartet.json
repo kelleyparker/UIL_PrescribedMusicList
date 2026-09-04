@@ -1075,6 +1075,69 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "345-3-42003",
+    "instrumentSlug": "trombone-quartet",
+    "instrumentName": "Trombone Quartets",
+    "eventName": "Trombone Quartet",
+    "title": "Renaissance and Baroque Suites for Flexible Instrumentation Quartets Vol. I",
+    "composer": "various",
+    "arranger": "Opaskar",
+    "publishers": [
+      "LudwigMasters Publications"
+    ],
+    "publisherText": "LudwigMasters Publications",
+    "classLevel": 3,
+    "specification": "(play 1st mvt from EITHER Suite 1 OR Suite 2)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "345-3-42004",
+    "instrumentSlug": "trombone-quartet",
+    "instrumentName": "Trombone Quartets",
+    "eventName": "Trombone Quartet",
+    "title": "Renaissance and Baroque Suites for Flexible Instrumentation Quartets, Vol. II",
+    "composer": "various",
+    "arranger": "Opaskar",
+    "publishers": [
+      "LudwigMasters Publications"
+    ],
+    "publisherText": "LudwigMasters Publications",
+    "classLevel": 3,
+    "specification": "(play 2nd OR 3rd mvt from Suite No.6)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "345-3-42005",
+    "instrumentSlug": "trombone-quartet",
+    "instrumentName": "Trombone Quartets",
+    "eventName": "Trombone Quartet",
+    "title": "Renaissance and Baroque Suites for Flexible Instrumentation Quartets, Vol. III",
+    "composer": "various",
+    "arranger": "Opaskar",
+    "publishers": [
+      "LudwigMasters Publications"
+    ],
+    "publisherText": "LudwigMasters Publications",
+    "classLevel": 3,
+    "specification": "(play 4th OR 6th mvt from Suite No.9)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "345-2-14022",
     "instrumentSlug": "trombone-quartet",
     "instrumentName": "Trombone Quartets",
@@ -1220,6 +1283,27 @@
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/sanctus-11303955f/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "345-2-42002",
+    "instrumentSlug": "trombone-quartet",
+    "instrumentName": "Trombone Quartets",
+    "eventName": "Trombone Quartet",
+    "title": "Long and Short of It",
+    "composer": "Hall",
+    "arranger": "",
+    "publishers": [
+      "LudwigMasters Publications"
+    ],
+    "publisherText": "LudwigMasters Publications",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
   },
   {
     "uilCode": "345-2-14028",
@@ -1409,6 +1493,27 @@
     "sheetMusicAffiliateUrl": null,
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "345-2-42000",
+    "instrumentSlug": "trombone-quartet",
+    "instrumentName": "Trombone Quartets",
+    "eventName": "Trombone Quartet",
+    "title": "Vilanelle",
+    "composer": "Massenet",
+    "arranger": "Gregory",
+    "publishers": [
+      "JW Pepper"
+    ],
+    "publisherText": "JW Pepper",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/vilanelle-11699200/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
     "uilCode": "345-2-14034",
@@ -1915,6 +2020,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "345-2-42001",
+    "instrumentSlug": "trombone-quartet",
+    "instrumentName": "Trombone Quartets",
+    "eventName": "Trombone Quartet",
+    "title": "Amazing Grace",
+    "composer": "Traditional",
+    "arranger": "Hall",
+    "publishers": [
+      "LudwigMasters Publications"
+    ],
+    "publisherText": "LudwigMasters Publications",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/amazing-amazing-grace-10509413/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "345-2-23622",
     "instrumentSlug": "trombone-quartet",
     "instrumentName": "Trombone Quartets",
@@ -1999,6 +2125,69 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "345-2-41997",
+    "instrumentSlug": "trombone-quartet",
+    "instrumentName": "Trombone Quartets",
+    "eventName": "Trombone Quartet",
+    "title": "Renaissance and Baroque Suites for Flexible Instrumentation Quartets Vol. I",
+    "composer": "various",
+    "arranger": "Opaskar",
+    "publishers": [
+      "LudwigMasters Publications"
+    ],
+    "publisherText": "LudwigMasters Publications",
+    "classLevel": 2,
+    "specification": "(play two fast & 1 slow mvt from any suite)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "345-2-41998",
+    "instrumentSlug": "trombone-quartet",
+    "instrumentName": "Trombone Quartets",
+    "eventName": "Trombone Quartet",
+    "title": "Renaissance and Baroque Suites for Flexible Instrumentation Quartets, Vol. II",
+    "composer": "various",
+    "arranger": "Opaskar",
+    "publishers": [
+      "LudwigMasters Publications"
+    ],
+    "publisherText": "LudwigMasters Publications",
+    "classLevel": 2,
+    "specification": "(play two fast & 1 slow mvt from any suite)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "345-2-41999",
+    "instrumentSlug": "trombone-quartet",
+    "instrumentName": "Trombone Quartets",
+    "eventName": "Trombone Quartet",
+    "title": "Renaissance and Baroque Suites for Flexible Instrumentation Quartets, Vol. III",
+    "composer": "various",
+    "arranger": "Opaskar",
+    "publishers": [
+      "LudwigMasters Publications"
+    ],
+    "publisherText": "LudwigMasters Publications",
+    "classLevel": 2,
+    "specification": "(play two fast & 1 slow mvt from any suite)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "345-1-13984",
     "instrumentSlug": "trombone-quartet",
     "instrumentName": "Trombone Quartets",
@@ -2039,6 +2228,27 @@
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/sonata-from-die-bankelsangerlieder-10485294/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "345-1-41988",
+    "instrumentSlug": "trombone-quartet",
+    "instrumentName": "Trombone Quartets",
+    "eventName": "Trombone Quartet",
+    "title": "Two Renaissance Madrigals",
+    "composer": "Arcadelt",
+    "arranger": "Wood",
+    "publishers": [
+      "Claude T. Smith Publications"
+    ],
+    "publisherText": "Claude T. Smith Publications",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
   },
   {
     "uilCode": "345-1-13985",
@@ -2228,6 +2438,27 @@
     "sheetMusicAffiliateUrl": null,
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "345-1-41985",
+    "instrumentSlug": "trombone-quartet",
+    "instrumentName": "Trombone Quartets",
+    "eventName": "Trombone Quartet",
+    "title": "Kidwelly Castle",
+    "composer": "Baum",
+    "arranger": "",
+    "publishers": [
+      "Carl Fischer, Inc."
+    ],
+    "publisherText": "Carl Fischer, Inc.",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/kidwelly-castle-11624162/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
     "uilCode": "345-1-34360",
@@ -2524,6 +2755,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "345-1-41987",
+    "instrumentSlug": "trombone-quartet",
+    "instrumentName": "Trombone Quartets",
+    "eventName": "Trombone Quartet",
+    "title": "Two English Madrigals of the Renaissance",
+    "composer": "Farmer",
+    "arranger": "Wood",
+    "publishers": [
+      "Claude T. Smith Publications"
+    ],
+    "publisherText": "Claude T. Smith Publications",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "345-1-34372",
     "instrumentSlug": "trombone-quartet",
     "instrumentName": "Trombone Quartets",
@@ -2577,6 +2829,27 @@
       "Western International Music, Inc."
     ],
     "publisherText": "Western International Music, Inc.",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "345-1-41982",
+    "instrumentSlug": "trombone-quartet",
+    "instrumentName": "Trombone Quartets",
+    "eventName": "Trombone Quartet",
+    "title": "Cantiga Brasileira",
+    "composer": "Gagliardi",
+    "arranger": "",
+    "publishers": [
+      "Kagarice Brass Editions"
+    ],
+    "publisherText": "Kagarice Brass Editions",
     "classLevel": 1,
     "specification": "",
     "noMemoryRequired": false,
@@ -2650,6 +2923,48 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "345-1-41983",
+    "instrumentSlug": "trombone-quartet",
+    "instrumentName": "Trombone Quartets",
+    "eventName": "Trombone Quartet",
+    "title": "Aggressive Negotiations",
+    "composer": "Guardia JR",
+    "arranger": "",
+    "publishers": [
+      "Cimarron Music Press"
+    ],
+    "publisherText": "Cimarron Music Press",
+    "classLevel": 1,
+    "specification": "(play four mvts)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "345-1-41986",
+    "instrumentSlug": "trombone-quartet",
+    "instrumentName": "Trombone Quartets",
+    "eventName": "Trombone Quartet",
+    "title": "Sinfonietta for Trombones",
+    "composer": "Guardia JR",
+    "arranger": "",
+    "publishers": [
+      "Cimarron Music Press"
+    ],
+    "publisherText": "Cimarron Music Press",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "345-1-34357",
     "instrumentSlug": "trombone-quartet",
     "instrumentName": "Trombone Quartets",
@@ -2692,6 +3007,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "345-1-41991",
+    "instrumentSlug": "trombone-quartet",
+    "instrumentName": "Trombone Quartets",
+    "eventName": "Trombone Quartet",
+    "title": "Dancing Light",
+    "composer": "Hass",
+    "arranger": "",
+    "publishers": [
+      "hassmusic.com"
+    ],
+    "publisherText": "hassmusic.com",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "345-1-14002",
     "instrumentSlug": "trombone-quartet",
     "instrumentName": "Trombone Quartets",
@@ -2711,6 +3047,48 @@
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/achieved-is-the-glorious-work-10053276/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "345-1-41984",
+    "instrumentSlug": "trombone-quartet",
+    "instrumentName": "Trombone Quartets",
+    "eventName": "Trombone Quartet",
+    "title": "Suite for Trombone Ensemble",
+    "composer": "Hennagin",
+    "arranger": "",
+    "publishers": [
+      "GIA Publications"
+    ],
+    "publisherText": "GIA Publications",
+    "classLevel": 1,
+    "specification": "(play mvts 1 & 2 OR 2 & 3)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "345-1-41989",
+    "instrumentSlug": "trombone-quartet",
+    "instrumentName": "Trombone Quartets",
+    "eventName": "Trombone Quartet",
+    "title": "Down By the Salley Gardens",
+    "composer": "Hughes",
+    "arranger": "Marchand",
+    "publishers": [
+      "Con Spirito Music"
+    ],
+    "publisherText": "Con Spirito Music",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
   },
   {
     "uilCode": "345-1-34377",
@@ -2839,6 +3217,48 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "345-1-41992",
+    "instrumentSlug": "trombone-quartet",
+    "instrumentName": "Trombone Quartets",
+    "eventName": "Trombone Quartet",
+    "title": "Julile'",
+    "composer": "Long",
+    "arranger": "",
+    "publishers": [
+      "International Music Diffusion"
+    ],
+    "publisherText": "International Music Diffusion",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "345-1-41993",
+    "instrumentSlug": "trombone-quartet",
+    "instrumentName": "Trombone Quartets",
+    "eventName": "Trombone Quartet",
+    "title": "Final de la Symphonie No. 3",
+    "composer": "Mahler",
+    "arranger": "Mastrangelo",
+    "publishers": [
+      "International Music Diffusion"
+    ],
+    "publisherText": "International Music Diffusion",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "345-1-14007",
     "instrumentSlug": "trombone-quartet",
     "instrumentName": "Trombone Quartets",
@@ -2877,6 +3297,27 @@
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/canzona-9504645/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "345-1-41994",
+    "instrumentSlug": "trombone-quartet",
+    "instrumentName": "Trombone Quartets",
+    "eventName": "Trombone Quartet",
+    "title": "Moines et Forbans",
+    "composer": "Massanet",
+    "arranger": "Gregory",
+    "publishers": [
+      "JW Pepper"
+    ],
+    "publisherText": "JW Pepper",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/moines-et-forbans-11699201/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -2963,6 +3404,27 @@
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/fiesta-at-the-red-raider-ballroom-11165292/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "345-1-41996",
+    "instrumentSlug": "trombone-quartet",
+    "instrumentName": "Trombone Quartets",
+    "eventName": "Trombone Quartet",
+    "title": "Nostalgic Introspection",
+    "composer": "Musella",
+    "arranger": "",
+    "publishers": [
+      "MKT Music Publications"
+    ],
+    "publisherText": "MKT Music Publications",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
   },
   {
     "uilCode": "345-1-34355",
@@ -3175,6 +3637,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "345-1-41995",
+    "instrumentSlug": "trombone-quartet",
+    "instrumentName": "Trombone Quartets",
+    "eventName": "Trombone Quartet",
+    "title": "Salve Regina",
+    "composer": "Schubert",
+    "arranger": "Gregory",
+    "publishers": [
+      "JW Pepper"
+    ],
+    "publisherText": "JW Pepper",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/salve-regina-10593273/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "345-1-35107",
     "instrumentSlug": "trombone-quartet",
     "instrumentName": "Trombone Quartets",
@@ -3187,7 +3670,7 @@
     ],
     "publisherText": "JW Pepper",
     "classLevel": 1,
-    "specification": "",
+    "specification": "(play 3rd, 5th and another mvt - THREE TOTAL)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -3360,6 +3843,27 @@
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/agincourt-10058039/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "345-1-41990",
+    "instrumentSlug": "trombone-quartet",
+    "instrumentName": "Trombone Quartets",
+    "eventName": "Trombone Quartet",
+    "title": "Gadget",
+    "composer": "Wilborn",
+    "arranger": "",
+    "publishers": [
+      "Cherry Classics"
+    ],
+    "publisherText": "Cherry Classics",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/gadget-10312049/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   }

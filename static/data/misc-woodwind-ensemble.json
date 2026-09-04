@@ -1197,6 +1197,69 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "270-2-41881",
+    "instrumentSlug": "misc-woodwind-ensemble",
+    "instrumentName": "Miscellaneous Woodwind Ensembles",
+    "eventName": "Miscellaneous Woodwind Ensemble",
+    "title": "Divertimento #3",
+    "composer": "Steward",
+    "arranger": "",
+    "publishers": [
+      "Echelon Music Press"
+    ],
+    "publisherText": "Echelon Music Press",
+    "classLevel": 2,
+    "specification": "NONET (any published combination)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "270-2-41882",
+    "instrumentSlug": "misc-woodwind-ensemble",
+    "instrumentName": "Miscellaneous Woodwind Ensembles",
+    "eventName": "Miscellaneous Woodwind Ensemble",
+    "title": "Fractals",
+    "composer": "Steward",
+    "arranger": "",
+    "publishers": [
+      "Echelon Music Press"
+    ],
+    "publisherText": "Echelon Music Press",
+    "classLevel": 2,
+    "specification": "OCTET (any published combination)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/fractals-11565691/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "270-2-41883",
+    "instrumentSlug": "misc-woodwind-ensemble",
+    "instrumentName": "Miscellaneous Woodwind Ensembles",
+    "eventName": "Miscellaneous Woodwind Ensemble",
+    "title": "Ground Chatter",
+    "composer": "Steward",
+    "arranger": "",
+    "publishers": [
+      "Echelon Music Press"
+    ],
+    "publisherText": "Echelon Music Press",
+    "classLevel": 2,
+    "specification": "OCTET (any published combination)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/ground-chatter-11607620/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "270-2-35524",
     "instrumentSlug": "misc-woodwind-ensemble",
     "instrumentName": "Miscellaneous Woodwind Ensembles",
@@ -1588,6 +1651,27 @@
     "publisherText": "Edition Eulenburg GMBH",
     "classLevel": 1,
     "specification": "NONET (fl, 2 ob, 2 cl, 2 hn, 2 bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "270-1-41878",
+    "instrumentSlug": "misc-woodwind-ensemble",
+    "instrumentName": "Miscellaneous Woodwind Ensembles",
+    "eventName": "Miscellaneous Woodwind Ensemble",
+    "title": "Slavonic Dance in g minor",
+    "composer": "Dvorak",
+    "arranger": "McDermid",
+    "publishers": [
+      "ALRY Publications"
+    ],
+    "publisherText": "ALRY Publications",
+    "classLevel": 1,
+    "specification": "SEXTET (fl, ob, bsn, clar, horn, piano)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -2226,6 +2310,27 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "270-1-41880",
+    "instrumentSlug": "misc-woodwind-ensemble",
+    "instrumentName": "Miscellaneous Woodwind Ensembles",
+    "eventName": "Miscellaneous Woodwind Ensemble",
+    "title": "Scherzo for Woodwinds",
+    "composer": "Ponce",
+    "arranger": "",
+    "publishers": [
+      "enriqueponcemusic.com"
+    ],
+    "publisherText": "enriqueponcemusic.com",
+    "classLevel": 1,
+    "specification": "OCTET (2 fl, 2 ob, 2 clar, 2 bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "270-1-34203",
     "instrumentSlug": "misc-woodwind-ensemble",
     "instrumentName": "Miscellaneous Woodwind Ensembles",
@@ -2245,6 +2350,27 @@
     "sheetMusicAffiliateUrl": null,
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "270-1-41879",
+    "instrumentSlug": "misc-woodwind-ensemble",
+    "instrumentName": "Miscellaneous Woodwind Ensembles",
+    "eventName": "Miscellaneous Woodwind Ensemble",
+    "title": "Mysterioso",
+    "composer": "Rahn",
+    "arranger": "",
+    "publishers": [
+      "chrisrahnmusic.com"
+    ],
+    "publisherText": "chrisrahnmusic.com",
+    "classLevel": 1,
+    "specification": "TRIO (flute, trumpet, piano)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/mysterioso-10606430e/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
     "uilCode": "270-1-12229",

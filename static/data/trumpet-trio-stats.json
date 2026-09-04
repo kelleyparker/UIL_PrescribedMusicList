@@ -5,7 +5,7 @@
   "songCount": 92,
   "publisherCount": 92,
   "noteCount": 1,
-  "databaseRecordCount": 93,
+  "databaseRecordCount": 92,
   "classBreakdown": {
     "3": 28,
     "2": 40,
@@ -17,6 +17,6 @@
     "Trumpet Trio": 92
   },
   "notes": {
-    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-03-28T15:07:47.874658+00:00."
+    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-09-04T16:52:10.422179+00:00."
   }
 }

@@ -273,6 +273,27 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "305-3-41747",
+    "instrumentSlug": "tuba",
+    "instrumentName": "Tuba Solos",
+    "eventName": "Tuba Solo",
+    "title": "Devotion",
+    "composer": "Gazlay",
+    "arranger": "",
+    "publishers": [
+      "JW Pepper"
+    ],
+    "publisherText": "JW Pepper",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/devotion-11659157/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "305-3-13304",
     "instrumentSlug": "tuba",
     "instrumentName": "Tuba Solos",
@@ -567,6 +588,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "305-3-41749",
+    "instrumentSlug": "tuba",
+    "instrumentName": "Tuba Solos",
+    "eventName": "Tuba Solo",
+    "title": "Excursion",
+    "composer": "Paff",
+    "arranger": "",
+    "publishers": [
+      "Cimarron Music Press"
+    ],
+    "publisherText": "Cimarron Music Press",
+    "classLevel": 3,
+    "specification": "(play any two mvts)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/excursion-11649146/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "305-3-13320",
     "instrumentSlug": "tuba",
     "instrumentName": "Tuba Solos",
@@ -668,6 +710,48 @@
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/rigaudon-from-pieces-de-c-tuba-solo-4611877/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "305-3-41751",
+    "instrumentSlug": "tuba",
+    "instrumentName": "Tuba Solos",
+    "eventName": "Tuba Solo",
+    "title": "Elementary Solos, Vol. 2",
+    "composer": "Rice",
+    "arranger": "",
+    "publishers": [
+      "beginning.band.com"
+    ],
+    "publisherText": "beginning.band.com",
+    "classLevel": 3,
+    "specification": "(play any two solos)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "305-3-41750",
+    "instrumentSlug": "tuba",
+    "instrumentName": "Tuba Solos",
+    "eventName": "Tuba Solo",
+    "title": "Velcro Summer",
+    "composer": "Stewart",
+    "arranger": "",
+    "publishers": [
+      "JW Pepper"
+    ],
+    "publisherText": "JW Pepper",
+    "classLevel": 3,
+    "specification": "(play any two mvts)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/velcro-summer-11560710/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -799,6 +883,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "305-3-41748",
+    "instrumentSlug": "tuba",
+    "instrumentName": "Tuba Solos",
+    "eventName": "Tuba Solo",
+    "title": "Sound Innovations",
+    "composer": "various",
+    "arranger": "",
+    "publishers": [
+      "Alfred Music Company, Inc."
+    ],
+    "publisherText": "Alfred Music Company, Inc.",
+    "classLevel": 3,
+    "specification": "(pick one solo from: p 2, p 6, p14, p20, p24, p28, p30, p34, p 38)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/sound-innovations-fanfare-10093426/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "305-2-13242",
     "instrumentSlug": "tuba",
     "instrumentName": "Tuba Solos",
@@ -883,6 +988,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "305-2-41742",
+    "instrumentSlug": "tuba",
+    "instrumentName": "Tuba Solos",
+    "eventName": "Tuba Solo",
+    "title": "Three Moods",
+    "composer": "Brandon",
+    "arranger": "",
+    "publishers": [
+      "Cimarron Music Press"
+    ],
+    "publisherText": "Cimarron Music Press",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "305-2-13247",
     "instrumentSlug": "tuba",
     "instrumentName": "Tuba Solos",
@@ -946,6 +1072,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "305-2-41744",
+    "instrumentSlug": "tuba",
+    "instrumentName": "Tuba Solos",
+    "eventName": "Tuba Solo",
+    "title": "Prelude in B minor",
+    "composer": "Chopin",
+    "arranger": "May",
+    "publishers": [
+      "Lost Key Music"
+    ],
+    "publisherText": "Lost Key Music",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "305-2-37324",
     "instrumentSlug": "tuba",
     "instrumentName": "Tuba Solos",
@@ -965,27 +1112,6 @@
     "sheetMusicAffiliateUrl": null,
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": null
-  },
-  {
-    "uilCode": "305-2-37325",
-    "instrumentSlug": "tuba",
-    "instrumentName": "Tuba Solos",
-    "eventName": "Tuba Solo",
-    "title": "Concertino for Tuba",
-    "composer": "Curnow",
-    "arranger": "",
-    "publishers": [
-      "Curnow Music"
-    ],
-    "publisherText": "Curnow Music",
-    "classLevel": 2,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/concertino-for-tuba-2700228/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
     "uilCode": "305-2-13250",
@@ -1072,6 +1198,27 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "305-2-41743",
+    "instrumentSlug": "tuba",
+    "instrumentName": "Tuba Solos",
+    "eventName": "Tuba Solo",
+    "title": "Hallowed",
+    "composer": "Gazlay",
+    "arranger": "",
+    "publishers": [
+      "JW Pepper"
+    ],
+    "publisherText": "JW Pepper",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/hallowed-11648116/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "305-2-13253",
     "instrumentSlug": "tuba",
     "instrumentName": "Tuba Solos",
@@ -1091,6 +1238,27 @@
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/grieg-suite-11342728/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "305-2-41745",
+    "instrumentSlug": "tuba",
+    "instrumentName": "Tuba Solos",
+    "eventName": "Tuba Solo",
+    "title": "Two Pieces",
+    "composer": "Haddad",
+    "arranger": "",
+    "publishers": [
+      "Southern Music Company"
+    ],
+    "publisherText": "Southern Music Company",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
   },
   {
     "uilCode": "305-2-13254",
@@ -1177,27 +1345,6 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
-    "uilCode": "305-2-13217",
-    "instrumentSlug": "tuba",
-    "instrumentName": "Tuba Solos",
-    "eventName": "Tuba Solo",
-    "title": "Larghetto and Allegro",
-    "composer": "Handel",
-    "arranger": "Little",
-    "publishers": [
-      "Belwin, Inc"
-    ],
-    "publisherText": "Belwin, Inc",
-    "classLevel": 2,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/larghetto-and-allegro-4588802/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
     "uilCode": "305-2-13260",
     "instrumentSlug": "tuba",
     "instrumentName": "Tuba Solos",
@@ -1238,6 +1385,27 @@
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/thrice-happy-the-monarch-4607313/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "305-2-41746",
+    "instrumentSlug": "tuba",
+    "instrumentName": "Tuba Solos",
+    "eventName": "Tuba Solo",
+    "title": "Little Fiesta",
+    "composer": "Harris",
+    "arranger": "",
+    "publishers": [
+      "Southern Music Company"
+    ],
+    "publisherText": "Southern Music Company",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
   },
   {
     "uilCode": "305-2-13262",
@@ -1366,27 +1534,6 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
-    "uilCode": "305-2-13228",
-    "instrumentSlug": "tuba",
-    "instrumentName": "Tuba Solos",
-    "eventName": "Tuba Solo",
-    "title": "Alleluja, Exultate",
-    "composer": "Mozart",
-    "arranger": "Matthews",
-    "publishers": [
-      "Wingert/Jones"
-    ],
-    "publisherText": "Wingert/Jones",
-    "classLevel": 2,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/alleluja-exultate-5007695/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
     "uilCode": "305-2-13269",
     "instrumentSlug": "tuba",
     "instrumentName": "Tuba Solos",
@@ -1429,6 +1576,48 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "305-2-41741",
+    "instrumentSlug": "tuba",
+    "instrumentName": "Tuba Solos",
+    "eventName": "Tuba Solo",
+    "title": "Concerto for Tuba",
+    "composer": "Paff",
+    "arranger": "",
+    "publishers": [
+      "Cimarron Music Press"
+    ],
+    "publisherText": "Cimarron Music Press",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "305-2-41739",
+    "instrumentSlug": "tuba",
+    "instrumentName": "Tuba Solos",
+    "eventName": "Tuba Solo",
+    "title": "The Seasons",
+    "composer": "Paff",
+    "arranger": "",
+    "publishers": [
+      "Cimarron Music Press"
+    ],
+    "publisherText": "Cimarron Music Press",
+    "classLevel": 2,
+    "specification": "(play any three mvts)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "305-2-13271",
     "instrumentSlug": "tuba",
     "instrumentName": "Tuba Solos",
@@ -1448,6 +1637,27 @@
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/essay-for-tuba-2068054/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "305-2-41740",
+    "instrumentSlug": "tuba",
+    "instrumentName": "Tuba Solos",
+    "eventName": "Tuba Solo",
+    "title": "Song and Dance",
+    "composer": "Pethel",
+    "arranger": "",
+    "publishers": [
+      "Cimarron Music Press"
+    ],
+    "publisherText": "Cimarron Music Press",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
   },
   {
     "uilCode": "305-2-13272",
@@ -1576,48 +1786,6 @@
     "sheetMusicAffiliateSource": null
   },
   {
-    "uilCode": "305-2-13278",
-    "instrumentSlug": "tuba",
-    "instrumentName": "Tuba Solos",
-    "eventName": "Tuba Solo",
-    "title": "Two Songs",
-    "composer": "Spillman",
-    "arranger": "",
-    "publishers": [
-      "Edition Musicus-New York, Inc."
-    ],
-    "publisherText": "Edition Musicus-New York, Inc.",
-    "classLevel": 2,
-    "specification": "(play either song)",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/two-songs-11371753/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "305-2-13237",
-    "instrumentSlug": "tuba",
-    "instrumentName": "Tuba Solos",
-    "eventName": "Tuba Solo",
-    "title": "Adagio and Allegro",
-    "composer": "Telemann",
-    "arranger": "Friedman",
-    "publishers": [
-      "Southern Music Company"
-    ],
-    "publisherText": "Southern Music Company",
-    "classLevel": 2,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/adagio-and-allegro-10006616/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
     "uilCode": "305-2-13279",
     "instrumentSlug": "tuba",
     "instrumentName": "Tuba Solos",
@@ -1694,7 +1862,7 @@
     ],
     "publisherText": "Stainer & Bell;E.C. Schirmer Music Company",
     "classLevel": 2,
-    "specification": "(play three mvts)",
+    "specification": "(play any two mvts)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -1720,27 +1888,6 @@
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/praeludium-in-c-minor-4595906/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "305-2-13283",
-    "instrumentSlug": "tuba",
-    "instrumentName": "Tuba Solos",
-    "eventName": "Tuba Solo",
-    "title": "Sonata No.3 in a minor",
-    "composer": "Vivaldi",
-    "arranger": "Morris",
-    "publishers": [
-      "Shawnee Press"
-    ],
-    "publisherText": "Shawnee Press",
-    "classLevel": 2,
-    "specification": "(play mvt 4)",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/sonata-no-3-in-a-minor-4841797/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -1892,6 +2039,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "305-2-41738",
+    "instrumentSlug": "tuba",
+    "instrumentName": "Tuba Solos",
+    "eventName": "Tuba Solo",
+    "title": "Sound Innovations",
+    "composer": "various",
+    "arranger": "",
+    "publishers": [
+      "Alfred Music Company, Inc."
+    ],
+    "publisherText": "Alfred Music Company, Inc.",
+    "classLevel": 2,
+    "specification": "(pick one solo: p 4, p 8, p10, p12, p16, p18, p21, p26, p,32, p36)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/sound-innovations-fanfare-10093426/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "305-1-37322",
     "instrumentSlug": "tuba",
     "instrumentName": "Tuba Solos",
@@ -1925,8 +2093,8 @@
     ],
     "publisherText": "Faber Music, Ltd.",
     "classLevel": 1,
-    "specification": "(unaccomp) NMR:(play all)",
-    "noMemoryRequired": true,
+    "specification": "(unaccomp)",
+    "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/fantasy-for-tuba-op-102-5006762/p",
@@ -1974,6 +2142,27 @@
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/introduction-and-dance-4594263/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "305-1-41715",
+    "instrumentSlug": "tuba",
+    "instrumentName": "Tuba Solos",
+    "eventName": "Tuba Solo",
+    "title": "Concerto for Tuba",
+    "composer": "Barnes",
+    "arranger": "",
+    "publishers": [
+      "Southern Music Company"
+    ],
+    "publisherText": "Southern Music Company",
+    "classLevel": 1,
+    "specification": "NMR:(play one mvt)",
+    "noMemoryRequired": true,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
   },
   {
     "uilCode": "305-1-13206",
@@ -2060,6 +2249,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "305-1-41722",
+    "instrumentSlug": "tuba",
+    "instrumentName": "Tuba Solos",
+    "eventName": "Tuba Solo",
+    "title": "Whale Songs",
+    "composer": "Blake",
+    "arranger": "",
+    "publishers": [
+      "Cimarron Music Press"
+    ],
+    "publisherText": "Cimarron Music Press",
+    "classLevel": 1,
+    "specification": "(unaccomp) (play any two mvts)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "305-1-38584",
     "instrumentSlug": "tuba",
     "instrumentName": "Tuba Solos",
@@ -2131,9 +2341,9 @@
     "composer": "Broughton",
     "arranger": "",
     "publishers": [
-      "Masters Music Publications"
+      "LudwigMasters Publications"
     ],
-    "publisherText": "Masters Music Publications",
+    "publisherText": "LudwigMasters Publications",
     "classLevel": 1,
     "specification": "(play one mvt)",
     "noMemoryRequired": false,
@@ -2228,6 +2438,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "305-1-37325",
+    "instrumentSlug": "tuba",
+    "instrumentName": "Tuba Solos",
+    "eventName": "Tuba Solo",
+    "title": "Concertino for Tuba",
+    "composer": "Curnow",
+    "arranger": "",
+    "publishers": [
+      "Curnow Music"
+    ],
+    "publisherText": "Curnow Music",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "305-1-31363",
     "instrumentSlug": "tuba",
     "instrumentName": "Tuba Solos",
@@ -2247,6 +2478,48 @@
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/fantasia-for-tuba-10015610/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "305-1-41731",
+    "instrumentSlug": "tuba",
+    "instrumentName": "Tuba Solos",
+    "eventName": "Tuba Solo",
+    "title": "Tavern Dance",
+    "composer": "Davanzo",
+    "arranger": "",
+    "publishers": [
+      "Cimarron Music Press"
+    ],
+    "publisherText": "Cimarron Music Press",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "305-1-41732",
+    "instrumentSlug": "tuba",
+    "instrumentName": "Tuba Solos",
+    "eventName": "Tuba Solo",
+    "title": "Introduction and Dance",
+    "composer": "Deddos",
+    "arranger": "",
+    "publishers": [
+      "Cimarron Music Press"
+    ],
+    "publisherText": "Cimarron Music Press",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
   },
   {
     "uilCode": "305-1-38586",
@@ -2291,6 +2564,27 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "305-1-41735",
+    "instrumentSlug": "tuba",
+    "instrumentName": "Tuba Solos",
+    "eventName": "Tuba Solo",
+    "title": "Harmoniae Saltantes.",
+    "composer": "Fontanot",
+    "arranger": "",
+    "publishers": [
+      "Potenza Music"
+    ],
+    "publisherText": "Potenza Music",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/harmoniae-saltantes-10605480/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "305-1-30498",
     "instrumentSlug": "tuba",
     "instrumentName": "Tuba Solos",
@@ -2303,8 +2597,8 @@
     ],
     "publisherText": "Kendor Music, Inc.",
     "classLevel": 1,
-    "specification": "",
-    "noMemoryRequired": false,
+    "specification": "NMR:(play all)",
+    "noMemoryRequired": true,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/capriccio-2099786/p",
@@ -2438,6 +2732,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "305-1-41718",
+    "instrumentSlug": "tuba",
+    "instrumentName": "Tuba Solos",
+    "eventName": "Tuba Solo",
+    "title": "Steel City Scenes",
+    "composer": "Gourlay",
+    "arranger": "",
+    "publishers": [
+      "Cimarron Music Press"
+    ],
+    "publisherText": "Cimarron Music Press",
+    "classLevel": 1,
+    "specification": "(unaccomp) (play any three mvts)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "305-1-13214",
     "instrumentSlug": "tuba",
     "instrumentName": "Tuba Solos",
@@ -2471,13 +2786,34 @@
     ],
     "publisherText": "Boosey & Hawkes, Inc.",
     "classLevel": 1,
-    "specification": "",
-    "noMemoryRequired": false,
+    "specification": "NMR:(play all)",
+    "noMemoryRequired": true,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/tuba-rhapsody-7192826/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "305-1-41727",
+    "instrumentSlug": "tuba",
+    "instrumentName": "Tuba Solos",
+    "eventName": "Tuba Solo",
+    "title": "Onwards and Upwards",
+    "composer": "Gulino",
+    "arranger": "",
+    "publishers": [
+      "Cimarron Music Press"
+    ],
+    "publisherText": "Cimarron Music Press",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
   },
   {
     "uilCode": "305-1-13216",
@@ -2493,7 +2829,7 @@
     ],
     "publisherText": "Templeton Publishing Company, Inc.;Shawnee Press",
     "classLevel": 1,
-    "specification": "(play mvts 1 & 2 OR 2 & 3)",
+    "specification": "(play any two mvts)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -2513,6 +2849,27 @@
       "North Texas Low Brass Camp"
     ],
     "publisherText": "North Texas Low Brass Camp",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "305-1-13217",
+    "instrumentSlug": "tuba",
+    "instrumentName": "Tuba Solos",
+    "eventName": "Tuba Solo",
+    "title": "Larghetto and Allegro",
+    "composer": "Handel",
+    "arranger": "Little",
+    "publishers": [
+      "Belwin, Inc"
+    ],
+    "publisherText": "Belwin, Inc",
     "classLevel": 1,
     "specification": "",
     "noMemoryRequired": false,
@@ -2607,6 +2964,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "305-1-41723",
+    "instrumentSlug": "tuba",
+    "instrumentName": "Tuba Solos",
+    "eventName": "Tuba Solo",
+    "title": "Orange Tuba",
+    "composer": "Hidenori",
+    "arranger": "",
+    "publishers": [
+      "Cimarron Music Press"
+    ],
+    "publisherText": "Cimarron Music Press",
+    "classLevel": 1,
+    "specification": "NMR:(play all)",
+    "noMemoryRequired": true,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "305-1-13222",
     "instrumentSlug": "tuba",
     "instrumentName": "Tuba Solos",
@@ -2645,6 +3023,48 @@
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/lento-4602462/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "305-1-41729",
+    "instrumentSlug": "tuba",
+    "instrumentName": "Tuba Solos",
+    "eventName": "Tuba Solo",
+    "title": "Sonatina",
+    "composer": "Ingram",
+    "arranger": "",
+    "publishers": [
+      "Cimarron Music Press"
+    ],
+    "publisherText": "Cimarron Music Press",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/sonatina-2042166/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "305-1-41719",
+    "instrumentSlug": "tuba",
+    "instrumentName": "Tuba Solos",
+    "eventName": "Tuba Solo",
+    "title": "Diverse Moments No. 1",
+    "composer": "Jager",
+    "arranger": "",
+    "publishers": [
+      "Wingert-Jones"
+    ],
+    "publisherText": "Wingert-Jones",
+    "classLevel": 1,
+    "specification": "(unaccomp) (play any three mvts)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/diverse-moments-no-1-5004734/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -2691,6 +3111,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "305-1-41717",
+    "instrumentSlug": "tuba",
+    "instrumentName": "Tuba Solos",
+    "eventName": "Tuba Solo",
+    "title": "States of Matter",
+    "composer": "Kuo",
+    "arranger": "",
+    "publishers": [
+      "Electric Violin Music"
+    ],
+    "publisherText": "Electric Violin Music",
+    "classLevel": 1,
+    "specification": "NMR:(unaccomp)",
+    "noMemoryRequired": true,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "305-1-30514",
     "instrumentSlug": "tuba",
     "instrumentName": "Tuba Solos",
@@ -2733,6 +3174,48 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "305-1-41721",
+    "instrumentSlug": "tuba",
+    "instrumentName": "Tuba Solos",
+    "eventName": "Tuba Solo",
+    "title": "Into The Madhouse",
+    "composer": "Lester",
+    "arranger": "",
+    "publishers": [
+      "Cimarron Music Press"
+    ],
+    "publisherText": "Cimarron Music Press",
+    "classLevel": 1,
+    "specification": "(unaccomp) (play any two mvts)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "305-1-41730",
+    "instrumentSlug": "tuba",
+    "instrumentName": "Tuba Solos",
+    "eventName": "Tuba Solo",
+    "title": "Concert Piece No. 1",
+    "composer": "Liang",
+    "arranger": "",
+    "publishers": [
+      "Cimarron Music Press"
+    ],
+    "publisherText": "Cimarron Music Press",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "305-1-38583",
     "instrumentSlug": "tuba",
     "instrumentName": "Tuba Solos",
@@ -2773,6 +3256,27 @@
     "sheetMusicAffiliateUrl": null,
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "305-1-41736",
+    "instrumentSlug": "tuba",
+    "instrumentName": "Tuba Solos",
+    "eventName": "Tuba Solo",
+    "title": "Sketches",
+    "composer": "MacFarland",
+    "arranger": "",
+    "publishers": [
+      "Presto Music"
+    ],
+    "publisherText": "Presto Music",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/sketches-4843975/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
     "uilCode": "305-1-38587",
@@ -2880,6 +3384,48 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "305-1-41733",
+    "instrumentSlug": "tuba",
+    "instrumentName": "Tuba Solos",
+    "eventName": "Tuba Solo",
+    "title": "Suite in One Movement",
+    "composer": "Miles",
+    "arranger": "",
+    "publishers": [
+      "Potenza Music"
+    ],
+    "publisherText": "Potenza Music",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "305-1-13228",
+    "instrumentSlug": "tuba",
+    "instrumentName": "Tuba Solos",
+    "eventName": "Tuba Solo",
+    "title": "Alleluja, Exultate",
+    "composer": "Mozart",
+    "arranger": "Matthews",
+    "publishers": [
+      "Wingert-Jones"
+    ],
+    "publisherText": "Wingert-Jones",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/alleluja-exultate-5007695/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "305-1-13229",
     "instrumentSlug": "tuba",
     "instrumentName": "Tuba Solos",
@@ -2913,13 +3459,34 @@
     ],
     "publisherText": "G. Schirmer, Inc.",
     "classLevel": 1,
-    "specification": "(unaccomp)",
+    "specification": "(unaccomp) (play any three mvts)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/impromptus-2081578/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "305-1-41725",
+    "instrumentSlug": "tuba",
+    "instrumentName": "Tuba Solos",
+    "eventName": "Tuba Solo",
+    "title": "Elegy for Tuba and Piano",
+    "composer": "Osmon",
+    "arranger": "",
+    "publishers": [
+      "ALRY Publications"
+    ],
+    "publisherText": "ALRY Publications",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
   },
   {
     "uilCode": "305-1-13231",
@@ -2964,6 +3531,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "305-1-41724",
+    "instrumentSlug": "tuba",
+    "instrumentName": "Tuba Solos",
+    "eventName": "Tuba Solo",
+    "title": "Nine",
+    "composer": "Piland",
+    "arranger": "",
+    "publishers": [
+      "FDPublications"
+    ],
+    "publisherText": "FDPublications",
+    "classLevel": 1,
+    "specification": "NMR:(play all)",
+    "noMemoryRequired": true,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/nine-10368312e/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "305-1-30492",
     "instrumentSlug": "tuba",
     "instrumentName": "Tuba Solos",
@@ -2983,6 +3571,48 @@
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/ballad-and-burlesque-10769857/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "305-1-41714",
+    "instrumentSlug": "tuba",
+    "instrumentName": "Tuba Solos",
+    "eventName": "Tuba Solo",
+    "title": "Scenes from The Andalusia",
+    "composer": "Raum",
+    "arranger": "",
+    "publishers": [
+      "Cimarron Music Press"
+    ],
+    "publisherText": "Cimarron Music Press",
+    "classLevel": 1,
+    "specification": "(play one mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "305-1-41716",
+    "instrumentSlug": "tuba",
+    "instrumentName": "Tuba Solos",
+    "eventName": "Tuba Solo",
+    "title": "Code Cracker",
+    "composer": "Robertson",
+    "arranger": "",
+    "publishers": [
+      "Cimarron Music Press"
+    ],
+    "publisherText": "Cimarron Music Press",
+    "classLevel": 1,
+    "specification": "(unaccomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
   },
   {
     "uilCode": "305-1-13232",
@@ -3018,7 +3648,7 @@
     ],
     "publisherText": "Glouchester Press",
     "classLevel": 1,
-    "specification": "",
+    "specification": "(play any four mvts)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -3102,8 +3732,8 @@
     ],
     "publisherText": "Edition Musicus-New York, Inc.",
     "classLevel": 1,
-    "specification": "(play both)",
-    "noMemoryRequired": false,
+    "specification": "NMR:(play all)",
+    "noMemoryRequired": true,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/two-songs-11371753/p",
@@ -3123,7 +3753,7 @@
     ],
     "publisherText": "Peermusic Classical",
     "classLevel": 1,
-    "specification": "",
+    "specification": "(play any two mvts)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -3144,13 +3774,34 @@
     ],
     "publisherText": "Editions Bim",
     "classLevel": 1,
-    "specification": "",
+    "specification": "(play 1st mvt PLUS two more)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/variations-in-olden-style-tuba-8605682/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "305-1-41734",
+    "instrumentSlug": "tuba",
+    "instrumentName": "Tuba Solos",
+    "eventName": "Tuba Solo",
+    "title": "The Babylon Code",
+    "composer": "Stewart",
+    "arranger": "",
+    "publishers": [
+      "JW Pepper"
+    ],
+    "publisherText": "JW Pepper",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
   },
   {
     "uilCode": "305-1-32417",
@@ -3170,6 +3821,48 @@
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/nocturno-op-7-5964622/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "305-1-13237",
+    "instrumentSlug": "tuba",
+    "instrumentName": "Tuba Solos",
+    "eventName": "Tuba Solo",
+    "title": "Adagio and Allegro",
+    "composer": "Telemann",
+    "arranger": "Friedman",
+    "publishers": [
+      "Southern Music Company"
+    ],
+    "publisherText": "Southern Music Company",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "305-1-41737",
+    "instrumentSlug": "tuba",
+    "instrumentName": "Tuba Solos",
+    "eventName": "Tuba Solo",
+    "title": "Ballad of Enob Mort",
+    "composer": "Uber",
+    "arranger": "",
+    "publishers": [
+      "Southern Music Company"
+    ],
+    "publisherText": "Southern Music Company",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/ballad-of-enob-mort-2064590/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -3203,9 +3896,10 @@
     "composer": "Vaughan",
     "arranger": "",
     "publishers": [
-      "Interlochen Press"
+      "Interlochen Press",
+      "Wingert-Jones"
     ],
-    "publisherText": "Interlochen Press",
+    "publisherText": "Interlochen Press;Wingert-Jones",
     "classLevel": 1,
     "specification": "",
     "noMemoryRequired": false,
@@ -3250,7 +3944,7 @@
     ],
     "publisherText": "E.C. Schirmer Music Company;Stainer & Bell",
     "classLevel": 1,
-    "specification": "",
+    "specification": "(play 6th mvt PLUS two more)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -3280,23 +3974,23 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
-    "uilCode": "305-1-32419",
+    "uilCode": "305-1-41726",
     "instrumentSlug": "tuba",
     "instrumentName": "Tuba Solos",
     "eventName": "Tuba Solo",
-    "title": "Sonata for Tuba and Piano",
-    "composer": "Wilder",
+    "title": "Rondo for Sweet Babu",
+    "composer": "Volkmann",
     "arranger": "",
     "publishers": [
-      "Hal Leonard Music, Inc."
+      "Cimarron Music Press"
     ],
-    "publisherText": "Hal Leonard Music, Inc.",
+    "publisherText": "Cimarron Music Press",
     "classLevel": 1,
     "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/sonata-for-tuba-and-piano-4846135/p",
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/suite-babu-op-6-tuba-piano-7487796/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -3305,7 +3999,7 @@
     "instrumentSlug": "tuba",
     "instrumentName": "Tuba Solos",
     "eventName": "Tuba Solo",
-    "title": "Suite No. 1",
+    "title": "Suite No. 1 (Effie Suite)",
     "composer": "Wilder",
     "arranger": "",
     "publishers": [
@@ -3313,13 +4007,34 @@
     ],
     "publisherText": "Shawnee Press",
     "classLevel": 1,
-    "specification": "",
+    "specification": "(play any three mvts)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/suite-no-1-effie-suite-5270111/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "305-1-41728",
+    "instrumentSlug": "tuba",
+    "instrumentName": "Tuba Solos",
+    "eventName": "Tuba Solo",
+    "title": "Tennessee Journey",
+    "composer": "York",
+    "arranger": "",
+    "publishers": [
+      "Cimarron Music Press"
+    ],
+    "publisherText": "Cimarron Music Press",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
   },
   {
     "uilCode": "305-1-30496",
@@ -3341,6 +4056,48 @@
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/through-the-tunnel-10483444/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "305-1-41720",
+    "instrumentSlug": "tuba",
+    "instrumentName": "Tuba Solos",
+    "eventName": "Tuba Solo",
+    "title": "Music for Solo Tuba",
+    "composer": "Yurko",
+    "arranger": "",
+    "publishers": [
+      "Cimarron Music Press"
+    ],
+    "publisherText": "Cimarron Music Press",
+    "classLevel": 1,
+    "specification": "NMR:(unaccomp) (play any three mvts)",
+    "noMemoryRequired": true,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "305-1-41713",
+    "instrumentSlug": "tuba",
+    "instrumentName": "Tuba Solos",
+    "eventName": "Tuba Solo",
+    "title": "Concerto for Tuba",
+    "composer": "Ziek",
+    "arranger": "",
+    "publishers": [
+      "Cimarron Music Press"
+    ],
+    "publisherText": "Cimarron Music Press",
+    "classLevel": 1,
+    "specification": "(play one mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
   },
   {
     "uilCode": "305-1-38588",

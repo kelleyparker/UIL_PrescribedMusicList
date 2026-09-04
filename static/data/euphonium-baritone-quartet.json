@@ -1075,6 +1075,69 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "343-3-41973",
+    "instrumentSlug": "euphonium-baritone-quartet",
+    "instrumentName": "Euphonium and Baritone Horn Quartets",
+    "eventName": "Euphonium/Baritone Horn Quartet",
+    "title": "Renaissance and Baroque Suites for Flexible Instrumentation Quartets, Vol.I",
+    "composer": "various",
+    "arranger": "Opaskar",
+    "publishers": [
+      "LudwigMasters Publications"
+    ],
+    "publisherText": "LudwigMasters Publications",
+    "classLevel": 3,
+    "specification": "(play 1st mvt from EITHER Suite 1 OR Suite 2)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "343-3-41974",
+    "instrumentSlug": "euphonium-baritone-quartet",
+    "instrumentName": "Euphonium and Baritone Horn Quartets",
+    "eventName": "Euphonium/Baritone Horn Quartet",
+    "title": "Renaissance and Baroque Suites for Flexible Instrumentation Quartets, Vol.II",
+    "composer": "various",
+    "arranger": "Opaskar",
+    "publishers": [
+      "LudwigMasters Publications"
+    ],
+    "publisherText": "LudwigMasters Publications",
+    "classLevel": 3,
+    "specification": "(play 2nd OR 3rd mvt from Suite No.6)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "343-3-41975",
+    "instrumentSlug": "euphonium-baritone-quartet",
+    "instrumentName": "Euphonium and Baritone Horn Quartets",
+    "eventName": "Euphonium/Baritone Horn Quartet",
+    "title": "Renaissance and Baroque Suites for Flexible Instrumentation Quartets, Vol.III",
+    "composer": "various",
+    "arranger": "Opaskar",
+    "publishers": [
+      "LudwigMasters Publications"
+    ],
+    "publisherText": "LudwigMasters Publications",
+    "classLevel": 3,
+    "specification": "(play 4th OR 6th mvt from Suite No.9)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "343-2-38613",
     "instrumentSlug": "euphonium-baritone-quartet",
     "instrumentName": "Euphonium and Baritone Horn Quartets",
@@ -1991,6 +2054,69 @@
     "publisherText": "Western International Music, Inc.",
     "classLevel": 2,
     "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "343-2-41970",
+    "instrumentSlug": "euphonium-baritone-quartet",
+    "instrumentName": "Euphonium and Baritone Horn Quartets",
+    "eventName": "Euphonium/Baritone Horn Quartet",
+    "title": "Renaissance and Baroque Suites for Flexible Instrumentation Quartets, Vol.I",
+    "composer": "various",
+    "arranger": "Opaskar",
+    "publishers": [
+      "LudwigMasters Publications"
+    ],
+    "publisherText": "LudwigMasters Publications",
+    "classLevel": 2,
+    "specification": "(play two fast & 1 slow mvt from any suite)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "343-2-41971",
+    "instrumentSlug": "euphonium-baritone-quartet",
+    "instrumentName": "Euphonium and Baritone Horn Quartets",
+    "eventName": "Euphonium/Baritone Horn Quartet",
+    "title": "Renaissance and Baroque Suites for Flexible Instrumentation Quartets, Vol.II",
+    "composer": "various",
+    "arranger": "Opaskar",
+    "publishers": [
+      "LudwigMasters Publications"
+    ],
+    "publisherText": "LudwigMasters Publications",
+    "classLevel": 2,
+    "specification": "(play two fast & 1 slow mvt from any suite)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "343-2-41972",
+    "instrumentSlug": "euphonium-baritone-quartet",
+    "instrumentName": "Euphonium and Baritone Horn Quartets",
+    "eventName": "Euphonium/Baritone Horn Quartet",
+    "title": "Renaissance and Baroque Suites for Flexible Instrumentation Quartets, Vol.III",
+    "composer": "various",
+    "arranger": "Opaskar",
+    "publishers": [
+      "LudwigMasters Publications"
+    ],
+    "publisherText": "LudwigMasters Publications",
+    "classLevel": 2,
+    "specification": "(play two fast & 1 slow mvt from any suite)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -3525,6 +3651,27 @@
     "publisherText": "Ludwig Music Publishing Company",
     "classLevel": 1,
     "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "343-1-41969",
+    "instrumentSlug": "euphonium-baritone-quartet",
+    "instrumentName": "Euphonium and Baritone Horn Quartets",
+    "eventName": "Euphonium/Baritone Horn Quartet",
+    "title": "Renaissance Quartets for Progressive Difficulty",
+    "composer": "various",
+    "arranger": "Trentadue",
+    "publishers": [
+      "TUX Peoples Music"
+    ],
+    "publisherText": "TUX Peoples Music",
+    "classLevel": 1,
+    "specification": "(perform Hostis Herodes & a contrasting mvt)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,

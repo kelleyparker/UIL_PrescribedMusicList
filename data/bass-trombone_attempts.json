@@ -367,6 +367,41 @@
     "matched": true,
     "source": "JW Pepper link"
   },
+  "306-1-41752": {
+    "lastAttempted": "2026-09-04T16:48:48.346935+00:00",
+    "matched": false
+  },
+  "306-1-41753": {
+    "lastAttempted": "2026-09-04T16:48:45.471596+00:00",
+    "matched": false
+  },
+  "306-1-41754": {
+    "lastAttempted": "2026-09-04T16:48:46.349270+00:00",
+    "matched": true,
+    "source": "JW Pepper link"
+  },
+  "306-1-41755": {
+    "lastAttempted": "2026-09-04T16:48:40.124418+00:00",
+    "matched": true,
+    "source": "JW Pepper link"
+  },
+  "306-1-41756": {
+    "lastAttempted": "2026-09-04T16:48:47.054340+00:00",
+    "matched": false
+  },
+  "306-1-41757": {
+    "lastAttempted": "2026-09-04T16:48:45.932557+00:00",
+    "matched": false
+  },
+  "306-1-41758": {
+    "lastAttempted": "2026-09-04T16:48:47.976394+00:00",
+    "matched": false
+  },
+  "306-1-41759": {
+    "lastAttempted": "2026-09-04T16:48:47.460171+00:00",
+    "matched": true,
+    "source": "JW Pepper link"
+  },
   "306-2-13385": {
     "lastAttempted": "2026-03-28T12:12:29.909388+00:00",
     "matched": true,
@@ -432,6 +467,10 @@
   },
   "306-2-37317": {
     "lastAttempted": "2026-03-28T12:16:56.868702+00:00",
+    "matched": false
+  },
+  "306-2-41760": {
+    "lastAttempted": "2026-09-04T16:48:47.569628+00:00",
     "matched": false
   },
   "306-3-37318": {

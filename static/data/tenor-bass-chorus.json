@@ -1911,6 +1911,27 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "933-5-41512",
+    "instrumentSlug": "tenor-bass-chorus",
+    "instrumentName": "Tenor-Bass Choruses",
+    "eventName": "Tenor-Bass Chorus",
+    "title": "La Bikina",
+    "composer": "Gasson",
+    "arranger": "Reyes",
+    "publishers": [
+      "Sheet Music Direct"
+    ],
+    "publisherText": "Sheet Music Direct",
+    "classLevel": 5,
+    "specification": "(TTBB) (tenor solo) (cello REQUIRED) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/la-bikina-90004457e/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "933-5-37918",
     "instrumentSlug": "tenor-bass-chorus",
     "instrumentName": "Tenor-Bass Choruses",
@@ -1972,6 +1993,27 @@
     "sheetMusicAffiliateUrl": null,
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "933-5-41510",
+    "instrumentSlug": "tenor-bass-chorus",
+    "instrumentName": "Tenor-Bass Choruses",
+    "eventName": "Tenor-Bass Chorus",
+    "title": "Ubi Caritas",
+    "composer": "Gjeilo",
+    "arranger": "",
+    "publishers": [
+      "GIA Publications"
+    ],
+    "publisherText": "GIA Publications",
+    "classLevel": 5,
+    "specification": "(TTBB) (divisi) (a cappella)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/ubi-caritas-11639368/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
     "uilCode": "933-5-22373",
@@ -2371,6 +2413,27 @@
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/o-ignis-spiritus-11625601/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "933-5-41506",
+    "instrumentSlug": "tenor-bass-chorus",
+    "instrumentName": "Tenor-Bass Choruses",
+    "eventName": "Tenor-Bass Chorus",
+    "title": "She Walks in Beauty",
+    "composer": "Koppin",
+    "arranger": "",
+    "publishers": [
+      "Walton Music Corporation"
+    ],
+    "publisherText": "Walton Music Corporation",
+    "classLevel": 5,
+    "specification": "(TTBB) (oboe REQUIRED) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
   },
   {
     "uilCode": "933-5-22377",
@@ -3108,6 +3171,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "933-5-41507",
+    "instrumentSlug": "tenor-bass-chorus",
+    "instrumentName": "Tenor-Bass Choruses",
+    "eventName": "Tenor-Bass Chorus",
+    "title": "This Endris Night",
+    "composer": "Quartel",
+    "arranger": "",
+    "publishers": [
+      "Oxford University Press"
+    ],
+    "publisherText": "Oxford University Press",
+    "classLevel": 5,
+    "specification": "(TTBB) (opt handbells) (a cappella)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/this-endris-night-10993554/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "933-5-39459",
     "instrumentSlug": "tenor-bass-chorus",
     "instrumentName": "Tenor-Bass Choruses",
@@ -3656,6 +3740,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "933-5-41511",
+    "instrumentSlug": "tenor-bass-chorus",
+    "instrumentName": "Tenor-Bass Choruses",
+    "eventName": "Tenor-Bass Chorus",
+    "title": "Dies Irae",
+    "composer": "Stroope",
+    "arranger": "",
+    "publishers": [
+      "Alliance Music Publications"
+    ],
+    "publisherText": "Alliance Music Publications",
+    "classLevel": 5,
+    "specification": "(TBB) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/dies-irae-11504505f/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "933-5-32000",
     "instrumentSlug": "tenor-bass-chorus",
     "instrumentName": "Tenor-Bass Choruses",
@@ -3971,6 +4076,27 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "933-5-41509",
+    "instrumentSlug": "tenor-bass-chorus",
+    "instrumentName": "Tenor-Bass Choruses",
+    "eventName": "Tenor-Bass Chorus",
+    "title": "Dies Irae",
+    "composer": "Trotta",
+    "arranger": "",
+    "publishers": [
+      "Hampton Roads Music Group"
+    ],
+    "publisherText": "Hampton Roads Music Group",
+    "classLevel": 5,
+    "specification": "(TTBB) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/dies-irae-11315944f/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "933-5-39460",
     "instrumentSlug": "tenor-bass-chorus",
     "instrumentName": "Tenor-Bass Choruses",
@@ -4201,6 +4327,27 @@
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/o-sacrum-convivium-6000707/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "933-5-41508",
+    "instrumentSlug": "tenor-bass-chorus",
+    "instrumentName": "Tenor-Bass Choruses",
+    "eventName": "Tenor-Bass Chorus",
+    "title": "Will There Really Be a Morning",
+    "composer": "Vu",
+    "arranger": "",
+    "publishers": [
+      "Hal Leonard Music, Inc."
+    ],
+    "publisherText": "Hal Leonard Music, Inc.",
+    "classLevel": 5,
+    "specification": "(TTBB) (divisi) (a cappella)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
   },
   {
     "uilCode": "933-5-40577",
@@ -6135,6 +6282,48 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "933-4-41501",
+    "instrumentSlug": "tenor-bass-chorus",
+    "instrumentName": "Tenor-Bass Choruses",
+    "eventName": "Tenor-Bass Chorus",
+    "title": "Bailara (TTBB)",
+    "composer": "Davison",
+    "arranger": "",
+    "publishers": [
+      "Walton Music Corporation"
+    ],
+    "publisherText": "Walton Music Corporation",
+    "classLevel": 4,
+    "specification": "(TTBB) (guitar and percussion REQUIRED) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/bailara-11606291/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "933-4-41503",
+    "instrumentSlug": "tenor-bass-chorus",
+    "instrumentName": "Tenor-Bass Choruses",
+    "eventName": "Tenor-Bass Chorus",
+    "title": "Things That Never Die",
+    "composer": "Dengler",
+    "arranger": "",
+    "publishers": [
+      "Shawnee Press"
+    ],
+    "publisherText": "Shawnee Press",
+    "classLevel": 4,
+    "specification": "(TTBB) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "933-4-40558",
     "instrumentSlug": "tenor-bass-chorus",
     "instrumentName": "Tenor-Bass Choruses",
@@ -6511,6 +6700,27 @@
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/ad-amore-10289553/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "933-4-41502",
+    "instrumentSlug": "tenor-bass-chorus",
+    "instrumentName": "Tenor-Bass Choruses",
+    "eventName": "Tenor-Bass Chorus",
+    "title": "Ten Thousand Miles Away",
+    "composer": "Kohn",
+    "arranger": "Echols",
+    "publishers": [
+      "E.C. Schirmer Music Company"
+    ],
+    "publisherText": "E.C. Schirmer Music Company",
+    "classLevel": 4,
+    "specification": "(TTBB) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
   },
   {
     "uilCode": "933-4-27784",
@@ -7059,6 +7269,27 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "933-4-41498",
+    "instrumentSlug": "tenor-bass-chorus",
+    "instrumentName": "Tenor-Bass Choruses",
+    "eventName": "Tenor-Bass Chorus",
+    "title": "Courage Lives!",
+    "composer": "Patterson",
+    "arranger": "",
+    "publishers": [
+      "Heritage Music Press"
+    ],
+    "publisherText": "Heritage Music Press",
+    "classLevel": 4,
+    "specification": "(TTBB) (opt trumpet) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "933-4-40563",
     "instrumentSlug": "tenor-bass-chorus",
     "instrumentName": "Tenor-Bass Choruses",
@@ -7267,6 +7498,27 @@
     "sheetMusicAffiliateUrl": null,
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "933-4-41505",
+    "instrumentSlug": "tenor-bass-chorus",
+    "instrumentName": "Tenor-Bass Choruses",
+    "eventName": "Tenor-Bass Chorus",
+    "title": "Invictus",
+    "composer": "Rist",
+    "arranger": "",
+    "publishers": [
+      "earthsongs"
+    ],
+    "publisherText": "earthsongs",
+    "classLevel": 4,
+    "specification": "(TTBB) (cello REQUIRED) (tenor solo or small group) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/invictus-2449924/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
     "uilCode": "933-4-40565",
@@ -7753,6 +8005,27 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "933-4-41497",
+    "instrumentSlug": "tenor-bass-chorus",
+    "instrumentName": "Tenor-Bass Choruses",
+    "eventName": "Tenor-Bass Chorus",
+    "title": "Swilo Yini",
+    "composer": "South African Folk Song",
+    "arranger": "Barrett",
+    "publishers": [
+      "Walton Music Corporation"
+    ],
+    "publisherText": "Walton Music Corporation",
+    "classLevel": 4,
+    "specification": "(TTBB) (improvised percussion REQUIRED) (descant) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/swilo-yini-11593002/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "933-4-39448",
     "instrumentSlug": "tenor-bass-chorus",
     "instrumentName": "Tenor-Bass Choruses",
@@ -7787,6 +8060,27 @@
     "publisherText": "Carl Fischer, Inc.",
     "classLevel": 4,
     "specification": "(TBB) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "933-4-41499",
+    "instrumentSlug": "tenor-bass-chorus",
+    "instrumentName": "Tenor-Bass Choruses",
+    "eventName": "Tenor-Bass Chorus",
+    "title": "Dance for Love",
+    "composer": "Stroope",
+    "arranger": "",
+    "publishers": [
+      "Santa Barbara Music Publishing"
+    ],
+    "publisherText": "Santa Barbara Music Publishing",
+    "classLevel": 4,
+    "specification": "(TTBB) (accomp)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -7963,6 +8257,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "933-4-41504",
+    "instrumentSlug": "tenor-bass-chorus",
+    "instrumentName": "Tenor-Bass Choruses",
+    "eventName": "Tenor-Bass Chorus",
+    "title": "The Waves on the Sea, How They Roll",
+    "composer": "Traditional",
+    "arranger": "Paxton",
+    "publishers": [
+      "Creative Spirit"
+    ],
+    "publisherText": "Creative Spirit",
+    "classLevel": 4,
+    "specification": "(TTB) (opt banjo or guitar) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "933-4-33361",
     "instrumentSlug": "tenor-bass-chorus",
     "instrumentName": "Tenor-Bass Choruses",
@@ -7984,6 +8299,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "933-4-41495",
+    "instrumentSlug": "tenor-bass-chorus",
+    "instrumentName": "Tenor-Bass Choruses",
+    "eventName": "Tenor-Bass Chorus",
+    "title": "Mama Wawa",
+    "composer": "Traditional Burmese",
+    "arranger": "Myin",
+    "publishers": [
+      "Galaxy Music Corporation"
+    ],
+    "publisherText": "Galaxy Music Corporation",
+    "classLevel": 4,
+    "specification": "(TBB) (a cappella)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/mama-wawa-11537981/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "933-4-38195",
     "instrumentSlug": "tenor-bass-chorus",
     "instrumentName": "Tenor-Bass Choruses",
@@ -7997,6 +8333,48 @@
     "publisherText": "Hal Leonard Music, Inc.",
     "classLevel": 4,
     "specification": "(TTB) (a cappella)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "933-4-41496",
+    "instrumentSlug": "tenor-bass-chorus",
+    "instrumentName": "Tenor-Bass Choruses",
+    "eventName": "Tenor-Bass Chorus",
+    "title": "Wild Mountain Thyme",
+    "composer": "Traditional Scottish Folk Song",
+    "arranger": "Narverud",
+    "publishers": [
+      "JN Music"
+    ],
+    "publisherText": "JN Music",
+    "classLevel": 4,
+    "specification": "(TB) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/wild-mountain-thyme-11561850/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "933-4-41500",
+    "instrumentSlug": "tenor-bass-chorus",
+    "instrumentName": "Tenor-Bass Choruses",
+    "eventName": "Tenor-Bass Chorus",
+    "title": "Like a River in My Soul",
+    "composer": "Traditional Spiritual",
+    "arranger": "Osiek",
+    "publishers": [
+      "Beckenhorst Press"
+    ],
+    "publisherText": "Beckenhorst Press",
+    "classLevel": 4,
+    "specification": "(TTBB) (accomp)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -8312,6 +8690,27 @@
     "publisherText": "Alfred Music Company, Inc.",
     "classLevel": 3,
     "specification": "(TBB) (a cappella)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "933-3-41488",
+    "instrumentSlug": "tenor-bass-chorus",
+    "instrumentName": "Tenor-Bass Choruses",
+    "eventName": "Tenor-Bass Chorus",
+    "title": "Bound for the Promised Land",
+    "composer": "American Folk Song",
+    "arranger": "Wagner",
+    "publishers": [
+      "Heritage Music Press"
+    ],
+    "publisherText": "Heritage Music Press",
+    "classLevel": 3,
+    "specification": "(TBB) (opt percussion) (accomp)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -9863,6 +10262,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "933-3-41486",
+    "instrumentSlug": "tenor-bass-chorus",
+    "instrumentName": "Tenor-Bass Choruses",
+    "eventName": "Tenor-Bass Chorus",
+    "title": "Viking Song",
+    "composer": "Coleridge-Taylor",
+    "arranger": "Carlson",
+    "publishers": [
+      "Gentry Publications"
+    ],
+    "publisherText": "Gentry Publications",
+    "classLevel": 3,
+    "specification": "(TTBB) (opt percussion) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/viking-song-11641110/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "933-3-22112",
     "instrumentSlug": "tenor-bass-chorus",
     "instrumentName": "Tenor-Bass Choruses",
@@ -10008,6 +10428,27 @@
     "sheetMusicAffiliateUrl": null,
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "933-3-41493",
+    "instrumentSlug": "tenor-bass-chorus",
+    "instrumentName": "Tenor-Bass Choruses",
+    "eventName": "Tenor-Bass Chorus",
+    "title": "Bailara (TB)",
+    "composer": "Davison",
+    "arranger": "",
+    "publishers": [
+      "Walton Music Corporation"
+    ],
+    "publisherText": "Walton Music Corporation",
+    "classLevel": 3,
+    "specification": "(TB) (guitar and percussion REQUIRED) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/bailara-11606291/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
     "uilCode": "933-3-38184",
@@ -10409,6 +10850,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "933-3-41489",
+    "instrumentSlug": "tenor-bass-chorus",
+    "instrumentName": "Tenor-Bass Choruses",
+    "eventName": "Tenor-Bass Chorus",
+    "title": "The Irish Blessing",
+    "composer": "Eilers",
+    "arranger": "Crocker",
+    "publishers": [
+      "Sheet Music Direct"
+    ],
+    "publisherText": "Sheet Music Direct",
+    "classLevel": 3,
+    "specification": "(TTBB) (a cappella)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "933-3-28082",
     "instrumentSlug": "tenor-bass-chorus",
     "instrumentName": "Tenor-Bass Choruses",
@@ -10766,6 +11228,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "933-3-41490",
+    "instrumentSlug": "tenor-bass-chorus",
+    "instrumentName": "Tenor-Bass Choruses",
+    "eventName": "Tenor-Bass Chorus",
+    "title": "Desperta Ferro",
+    "composer": "Fox",
+    "arranger": "",
+    "publishers": [
+      "Alfred Music Company, Inc."
+    ],
+    "publisherText": "Alfred Music Company, Inc.",
+    "classLevel": 3,
+    "specification": "(TTB) (opt percussion) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/desperta-ferro-11197163/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "933-3-34523",
     "instrumentSlug": "tenor-bass-chorus",
     "instrumentName": "Tenor-Bass Choruses",
@@ -11014,6 +11497,27 @@
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/dies-irae-8071141/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "933-3-41492",
+    "instrumentSlug": "tenor-bass-chorus",
+    "instrumentName": "Tenor-Bass Choruses",
+    "eventName": "Tenor-Bass Chorus",
+    "title": "Good News, Great Joy",
+    "composer": "Gray",
+    "arranger": "",
+    "publishers": [
+      "Alfred Music Company, Inc."
+    ],
+    "publisherText": "Alfred Music Company, Inc.",
+    "classLevel": 3,
+    "specification": "(TTB) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/good-news-3285947/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -12615,6 +13119,27 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "933-3-41487",
+    "instrumentSlug": "tenor-bass-chorus",
+    "instrumentName": "Tenor-Bass Choruses",
+    "eventName": "Tenor-Bass Chorus",
+    "title": "Oak and Ash and Thorn",
+    "composer": "Traditional English Folk Song",
+    "arranger": "Wagner",
+    "publishers": [
+      "Heritage Music Press"
+    ],
+    "publisherText": "Heritage Music Press",
+    "classLevel": 3,
+    "specification": "(TBB) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "933-3-37900",
     "instrumentSlug": "tenor-bass-chorus",
     "instrumentName": "Tenor-Bass Choruses",
@@ -12697,6 +13222,48 @@
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/wild-mountain-thyme-11561850/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "933-3-41491",
+    "instrumentSlug": "tenor-bass-chorus",
+    "instrumentName": "Tenor-Bass Choruses",
+    "eventName": "Tenor-Bass Chorus",
+    "title": "Wild Mountain Thyme",
+    "composer": "Traditional Scottish Folk Song",
+    "arranger": "Parr",
+    "publishers": [
+      "Hal Leonard Music, Inc."
+    ],
+    "publisherText": "Hal Leonard Music, Inc.",
+    "classLevel": 3,
+    "specification": "(TTB) (opt flute) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/wild-mountain-thyme-11561850/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "933-3-41494",
+    "instrumentSlug": "tenor-bass-chorus",
+    "instrumentName": "Tenor-Bass Choruses",
+    "eventName": "Tenor-Bass Chorus",
+    "title": "Go Down, Moses",
+    "composer": "Traditional Spiritual",
+    "arranger": "Gray",
+    "publishers": [
+      "Alfred Music Company, Inc."
+    ],
+    "publisherText": "Alfred Music Company, Inc.",
+    "classLevel": 3,
+    "specification": "(TTB) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
   },
   {
     "uilCode": "933-3-33258",
@@ -12970,6 +13537,27 @@
     "sheetMusicAffiliateUrl": null,
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "933-3-41485",
+    "instrumentSlug": "tenor-bass-chorus",
+    "instrumentName": "Tenor-Bass Choruses",
+    "eventName": "Tenor-Bass Chorus",
+    "title": "The Pasture",
+    "composer": "Vu",
+    "arranger": "",
+    "publishers": [
+      "Hal Leonard Music, Inc."
+    ],
+    "publisherText": "Hal Leonard Music, Inc.",
+    "classLevel": 3,
+    "specification": "(TTB) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/the-pasture-11634067/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
     "uilCode": "933-3-36779",
@@ -14766,6 +15354,48 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "933-2-41476",
+    "instrumentSlug": "tenor-bass-chorus",
+    "instrumentName": "Tenor-Bass Choruses",
+    "eventName": "Tenor-Bass Chorus",
+    "title": "Ubi Caritas",
+    "composer": "Crocker",
+    "arranger": "",
+    "publishers": [
+      "Hal Leonard Music, Inc."
+    ],
+    "publisherText": "Hal Leonard Music, Inc.",
+    "classLevel": 2,
+    "specification": "(TB) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/ubi-caritas-11639368/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "933-2-41481",
+    "instrumentSlug": "tenor-bass-chorus",
+    "instrumentName": "Tenor-Bass Choruses",
+    "eventName": "Tenor-Bass Chorus",
+    "title": "The Mariner",
+    "composer": "Dauer",
+    "arranger": "",
+    "publishers": [
+      "Alfred Music Company, Inc."
+    ],
+    "publisherText": "Alfred Music Company, Inc.",
+    "classLevel": 2,
+    "specification": "(TB) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/the-mariner-11613284/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "933-2-33220",
     "instrumentSlug": "tenor-bass-chorus",
     "instrumentName": "Tenor-Bass Choruses",
@@ -15010,6 +15640,27 @@
     "publisherText": "Lorenz Corporation",
     "classLevel": 2,
     "specification": "(TB) (opt divisi) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "933-2-41478",
+    "instrumentSlug": "tenor-bass-chorus",
+    "instrumentName": "Tenor-Bass Choruses",
+    "eventName": "Tenor-Bass Chorus",
+    "title": "The Journey",
+    "composer": "Dvorak/Shaker Hymn",
+    "arranger": "Martin",
+    "publishers": [
+      "Shawnee Press"
+    ],
+    "publisherText": "Shawnee Press",
+    "classLevel": 2,
+    "specification": "(TB) (opt violin) (accomp)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -15330,6 +15981,27 @@
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/eldorado-11100072/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "933-2-41483",
+    "instrumentSlug": "tenor-bass-chorus",
+    "instrumentName": "Tenor-Bass Choruses",
+    "eventName": "Tenor-Bass Chorus",
+    "title": "John Peel",
+    "composer": "Franklin",
+    "arranger": "",
+    "publishers": [
+      "Heritage Music Press"
+    ],
+    "publisherText": "Heritage Music Press",
+    "classLevel": 2,
+    "specification": "(TB) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/john-peel-11561771/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -15880,6 +16552,27 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "933-2-41482",
+    "instrumentSlug": "tenor-bass-chorus",
+    "instrumentName": "Tenor-Bass Choruses",
+    "eventName": "Tenor-Bass Chorus",
+    "title": "The Hills",
+    "composer": "Narverud",
+    "arranger": "",
+    "publishers": [
+      "BriLee Music"
+    ],
+    "publisherText": "BriLee Music",
+    "classLevel": 2,
+    "specification": "(TB) (opt descant) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/the-hills-11559849/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "933-2-22099",
     "instrumentSlug": "tenor-bass-chorus",
     "instrumentName": "Tenor-Bass Choruses",
@@ -16082,6 +16775,48 @@
     "publisherText": "Heritage Music Press",
     "classLevel": 2,
     "specification": "(TTB) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "933-2-41480",
+    "instrumentSlug": "tenor-bass-chorus",
+    "instrumentName": "Tenor-Bass Choruses",
+    "eventName": "Tenor-Bass Chorus",
+    "title": "Mollie Beth",
+    "composer": "Rentz",
+    "arranger": "",
+    "publishers": [
+      "Alfred Music Company, Inc."
+    ],
+    "publisherText": "Alfred Music Company, Inc.",
+    "classLevel": 2,
+    "specification": "(TB) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/mollie-beth-11611133/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "933-2-41477",
+    "instrumentSlug": "tenor-bass-chorus",
+    "instrumentName": "Tenor-Bass Choruses",
+    "eventName": "Tenor-Bass Chorus",
+    "title": "Songs of Farewell",
+    "composer": "Ricks",
+    "arranger": "",
+    "publishers": [
+      "BriLee Music"
+    ],
+    "publisherText": "BriLee Music",
+    "classLevel": 2,
+    "specification": "(TB) (sing one) (a cappella)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -16468,6 +17203,27 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "933-2-41484",
+    "instrumentSlug": "tenor-bass-chorus",
+    "instrumentName": "Tenor-Bass Choruses",
+    "eventName": "Tenor-Bass Chorus",
+    "title": "Keep A-Goin\u2019",
+    "composer": "Thomas",
+    "arranger": "",
+    "publishers": [
+      "BriLee Music"
+    ],
+    "publisherText": "BriLee Music",
+    "classLevel": 2,
+    "specification": "(TB) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "933-2-39430",
     "instrumentSlug": "tenor-bass-chorus",
     "instrumentName": "Tenor-Bass Choruses",
@@ -16637,6 +17393,27 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "933-2-41479",
+    "instrumentSlug": "tenor-bass-chorus",
+    "instrumentName": "Tenor-Bass Choruses",
+    "eventName": "Tenor-Bass Chorus",
+    "title": "The Keys to Canterbury",
+    "composer": "Traditional English Folk Song",
+    "arranger": "Sharpe",
+    "publishers": [
+      "Heritage Music Press"
+    ],
+    "publisherText": "Heritage Music Press",
+    "classLevel": 2,
+    "specification": "(TB) (opt percussion) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "933-2-37897",
     "instrumentSlug": "tenor-bass-chorus",
     "instrumentName": "Tenor-Bass Choruses",
@@ -16763,6 +17540,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "933-2-41474",
+    "instrumentSlug": "tenor-bass-chorus",
+    "instrumentName": "Tenor-Bass Choruses",
+    "eventName": "Tenor-Bass Chorus",
+    "title": "Heleluyan",
+    "composer": "Traditional Muscogee",
+    "arranger": "Wagner",
+    "publishers": [
+      "Alfred Music Company, Inc."
+    ],
+    "publisherText": "Alfred Music Company, Inc.",
+    "classLevel": 2,
+    "specification": "(TB) (opt flute & drum) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/heleluyan-11680891/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "933-2-35247",
     "instrumentSlug": "tenor-bass-chorus",
     "instrumentName": "Tenor-Bass Choruses",
@@ -16860,6 +17658,27 @@
     "publisherText": "BriLee Music",
     "classLevel": 2,
     "specification": "(TB) (opt divisi) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "933-2-41475",
+    "instrumentSlug": "tenor-bass-chorus",
+    "instrumentName": "Tenor-Bass Choruses",
+    "eventName": "Tenor-Bass Chorus",
+    "title": "Who Will Be a Witness",
+    "composer": "Traditional Spiritual",
+    "arranger": "Moore",
+    "publishers": [
+      "Alfred Music Company, Inc."
+    ],
+    "publisherText": "Alfred Music Company, Inc.",
+    "classLevel": 2,
+    "specification": "(TB) (accomp)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -18094,6 +18913,27 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "933-1-41472",
+    "instrumentSlug": "tenor-bass-chorus",
+    "instrumentName": "Tenor-Bass Choruses",
+    "eventName": "Tenor-Bass Chorus",
+    "title": "Three A Cappella Spanish Songs for Tenor-Bass Choir",
+    "composer": "Jones",
+    "arranger": "",
+    "publishers": [
+      "BriLee Music"
+    ],
+    "publisherText": "BriLee Music",
+    "classLevel": 1,
+    "specification": "(TB) (sing Caballito) (a cappella)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "933-1-27707",
     "instrumentSlug": "tenor-bass-chorus",
     "instrumentName": "Tenor-Bass Choruses",
@@ -18491,6 +19331,27 @@
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/aura-lee-10452862/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "933-1-41473",
+    "instrumentSlug": "tenor-bass-chorus",
+    "instrumentName": "Tenor-Bass Choruses",
+    "eventName": "Tenor-Bass Chorus",
+    "title": "Three Latin Pieces",
+    "composer": "Traditional",
+    "arranger": "Courtney",
+    "publishers": [
+      "BriLee Music"
+    ],
+    "publisherText": "BriLee Music",
+    "classLevel": 1,
+    "specification": "(TB) (sing one) (a cappella)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
   },
   {
     "uilCode": "933-1-40540",

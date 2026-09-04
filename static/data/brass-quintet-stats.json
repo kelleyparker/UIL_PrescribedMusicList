@@ -2,21 +2,21 @@
   "schoolYear": "2025-2026",
   "instrumentSlug": "brass-quintet",
   "instrumentName": "Brass Quintets",
-  "songCount": 364,
-  "publisherCount": 369,
+  "songCount": 372,
+  "publisherCount": 377,
   "noteCount": 1,
-  "databaseRecordCount": 365,
+  "databaseRecordCount": 372,
   "classBreakdown": {
-    "3": 73,
+    "3": 74,
     "2": 129,
-    "1": 162
+    "1": 169
   },
   "noMemoryRequiredCount": 0,
   "publicDomainPdfCount": 0,
   "eventBreakdown": {
-    "Brass Quintet": 364
+    "Brass Quintet": 372
   },
   "notes": {
-    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-03-28T15:07:47.968368+00:00."
+    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-09-04T16:52:54.004183+00:00."
   }
 }

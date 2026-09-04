@@ -151,6 +151,29 @@
     "lastAttempted": "2026-03-28T08:42:07.501113+00:00",
     "matched": false
   },
+  "302-1-41671": {
+    "lastAttempted": "2026-09-04T16:48:17.461233+00:00",
+    "matched": true,
+    "source": "JW Pepper link"
+  },
+  "302-1-41672": {
+    "lastAttempted": "2026-09-04T16:48:12.464896+00:00",
+    "matched": false
+  },
+  "302-1-41673": {
+    "lastAttempted": "2026-09-04T16:47:57.261098+00:00",
+    "matched": true,
+    "source": "JW Pepper link"
+  },
+  "302-1-41674": {
+    "lastAttempted": "2026-09-04T16:48:14.285432+00:00",
+    "matched": false
+  },
+  "302-1-41675": {
+    "lastAttempted": "2026-09-04T16:48:14.837105+00:00",
+    "matched": true,
+    "source": "JW Pepper link"
+  },
   "302-2-12780": {
     "lastAttempted": "2026-03-28T08:30:29.915340+00:00",
     "matched": true,
@@ -412,6 +435,39 @@
   },
   "302-2-38563": {
     "lastAttempted": "2026-03-28T08:42:36.499754+00:00",
+    "matched": false
+  },
+  "302-2-41676": {
+    "lastAttempted": "2026-09-04T16:48:14.921036+00:00",
+    "matched": true,
+    "source": "JW Pepper link"
+  },
+  "302-2-41677": {
+    "lastAttempted": "2026-09-04T16:48:18.094862+00:00",
+    "matched": true,
+    "source": "JW Pepper link"
+  },
+  "302-2-41678": {
+    "lastAttempted": "2026-09-04T16:48:18.209311+00:00",
+    "matched": true,
+    "source": "JW Pepper link"
+  },
+  "302-2-41679": {
+    "lastAttempted": "2026-09-04T16:48:18.523100+00:00",
+    "matched": true,
+    "source": "JW Pepper link"
+  },
+  "302-2-41680": {
+    "lastAttempted": "2026-09-04T16:48:14.453969+00:00",
+    "matched": true,
+    "source": "JW Pepper link"
+  },
+  "302-2-41681": {
+    "lastAttempted": "2026-09-04T16:48:17.666618+00:00",
+    "matched": false
+  },
+  "302-2-41682": {
+    "lastAttempted": "2026-09-04T16:48:19.017056+00:00",
     "matched": false
   },
   "302-3-12840": {
@@ -684,5 +740,10 @@
   "302-3-38569": {
     "lastAttempted": "2026-03-28T08:42:45.882351+00:00",
     "matched": false
+  },
+  "302-3-41683": {
+    "lastAttempted": "2026-09-04T16:48:18.351233+00:00",
+    "matched": true,
+    "source": "JW Pepper link"
   }
 }

@@ -1237,6 +1237,27 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "275-1-41947",
+    "instrumentSlug": "clarinet-choir",
+    "instrumentName": "Clarinet Choirs",
+    "eventName": "Clarinet Choir",
+    "title": "Prelude and Fugue in D Minor",
+    "composer": "Bach",
+    "arranger": "Coleman",
+    "publishers": [
+      "Claude T. Smith Publications"
+    ],
+    "publisherText": "Claude T. Smith Publications",
+    "classLevel": 1,
+    "specification": "(4 Bb, 1 bass)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "275-1-34573",
     "instrumentSlug": "clarinet-choir",
     "instrumentName": "Clarinet Choirs",
@@ -1403,6 +1424,27 @@
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/praeludium-10155177e/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "275-1-41946",
+    "instrumentSlug": "clarinet-choir",
+    "instrumentName": "Clarinet Choirs",
+    "eventName": "Clarinet Choir",
+    "title": "Minute Waltz",
+    "composer": "Chopin",
+    "arranger": "Coleman",
+    "publishers": [
+      "Claude T. Smith Publications"
+    ],
+    "publisherText": "Claude T. Smith Publications",
+    "classLevel": 1,
+    "specification": "(4 Bb, 1 bass)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
   },
   {
     "uilCode": "275-1-12344",
@@ -1670,6 +1712,27 @@
     "publisherText": "JTL Publications, G. Scott Music Publishing Co.",
     "classLevel": 1,
     "specification": "(6 b-flat cl, alto cl, 2 bass cl, b-flat or Eb contrabass cl)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "275-1-41945",
+    "instrumentSlug": "clarinet-choir",
+    "instrumentName": "Clarinet Choirs",
+    "eventName": "Clarinet Choir",
+    "title": "The Circus Bee",
+    "composer": "Fillmore",
+    "arranger": "Coleman",
+    "publishers": [
+      "Claude T. Smith Publications"
+    ],
+    "publisherText": "Claude T. Smith Publications",
+    "classLevel": 1,
+    "specification": "(4 Bb, 1 bass)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -2182,48 +2245,6 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
-    "uilCode": "275-1-12352",
-    "instrumentSlug": "clarinet-choir",
-    "instrumentName": "Clarinet Choirs",
-    "eventName": "Clarinet Choir",
-    "title": "Elegy and Dance",
-    "composer": "Karel",
-    "arranger": "",
-    "publishers": [
-      "LeBlanc Publications, Inc."
-    ],
-    "publisherText": "LeBlanc Publications, Inc.",
-    "classLevel": 1,
-    "specification": "(Eb cl, 8 b-flat cl, 2 alto cl, 2 b-flat bass cl, Eb contralto cl, b-flat contrabass cl)",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": null,
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": null
-  },
-  {
-    "uilCode": "275-1-12353",
-    "instrumentSlug": "clarinet-choir",
-    "instrumentName": "Clarinet Choirs",
-    "eventName": "Clarinet Choir",
-    "title": "Now Thank We All Our God",
-    "composer": "Karg-Elert",
-    "arranger": "Heim",
-    "publishers": [
-      "Kendor Music, Inc."
-    ],
-    "publisherText": "Kendor Music, Inc.",
-    "classLevel": 1,
-    "specification": "(Eb cl, 6 b-flat cl, 2 alto cl, bass cl, Eb contralto cl (opt))",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/church-music-for-all-organs-990978/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
     "uilCode": "275-1-12354",
     "instrumentSlug": "clarinet-choir",
     "instrumentName": "Clarinet Choirs",
@@ -2308,25 +2329,46 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
-    "uilCode": "275-1-12357",
+    "uilCode": "275-1-41948",
     "instrumentSlug": "clarinet-choir",
     "instrumentName": "Clarinet Choirs",
     "eventName": "Clarinet Choir",
-    "title": "Rondo (from Serenade No. 10)",
+    "title": "Quadrille",
     "composer": "Mozart",
-    "arranger": "Pillin",
+    "arranger": "Bouchet",
     "publishers": [
-      "Western International Music, Inc."
+      "International Music Diffusion"
     ],
-    "publisherText": "Western International Music, Inc.",
+    "publisherText": "International Music Diffusion",
     "classLevel": 1,
-    "specification": "(6 b-flat cl, alto cl, bass cl, Eb contralto cl (opt), b-flat or Eb contrabass cl)",
+    "specification": "(sextet; any published version)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/rondo-4851267/p",
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/quadrille-10677863e/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "275-1-41943",
+    "instrumentSlug": "clarinet-choir",
+    "instrumentName": "Clarinet Choirs",
+    "eventName": "Clarinet Choir",
+    "title": "Serenade #12, Mvt. 1",
+    "composer": "Mozart",
+    "arranger": "Gregory",
+    "publishers": [
+      "Any Publisher"
+    ],
+    "publisherText": "Any Publisher",
+    "classLevel": 1,
+    "specification": "(3 Bb, alto, bass, contra-alto, contrabass)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
   },
   {
     "uilCode": "275-1-34652",
@@ -2455,6 +2497,27 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "275-1-41944",
+    "instrumentSlug": "clarinet-choir",
+    "instrumentName": "Clarinet Choirs",
+    "eventName": "Clarinet Choir",
+    "title": "In Her Footsteps",
+    "composer": "Ponce",
+    "arranger": "",
+    "publishers": [
+      "Black Portal Audio Productions"
+    ],
+    "publisherText": "Black Portal Audio Productions",
+    "classLevel": 1,
+    "specification": "(Eb, Bb, alto, bass, contrabass)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "275-1-26591",
     "instrumentSlug": "clarinet-choir",
     "instrumentName": "Clarinet Choirs",
@@ -2516,6 +2579,27 @@
     "sheetMusicAffiliateUrl": null,
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "275-1-41942",
+    "instrumentSlug": "clarinet-choir",
+    "instrumentName": "Clarinet Choirs",
+    "eventName": "Clarinet Choir",
+    "title": "Laideronnette",
+    "composer": "Ravel",
+    "arranger": "Gregory",
+    "publishers": [
+      "Any Publisher"
+    ],
+    "publisherText": "Any Publisher",
+    "classLevel": 1,
+    "specification": "(3 Bb, alto, bass, contra-alto, contrabass)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/laideronnette-imperatrice-des-pagodes-10360979/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
     "uilCode": "275-1-34643",

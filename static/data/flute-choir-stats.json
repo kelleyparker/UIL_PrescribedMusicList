@@ -2,21 +2,21 @@
   "schoolYear": "2025-2026",
   "instrumentSlug": "flute-choir",
   "instrumentName": "Flute Choirs",
-  "songCount": 144,
-  "publisherCount": 152,
+  "songCount": 127,
+  "publisherCount": 128,
   "noteCount": 1,
-  "databaseRecordCount": 145,
+  "databaseRecordCount": 127,
   "classBreakdown": {
-    "3": 33,
+    "3": 23,
     "2": 41,
-    "1": 70
+    "1": 63
   },
   "noMemoryRequiredCount": 0,
   "publicDomainPdfCount": 0,
   "eventBreakdown": {
-    "Flute Choir": 144
+    "Flute Choir": 127
   },
   "notes": {
-    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-03-28T15:07:47.852520+00:00."
+    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-09-04T16:52:10.414216+00:00."
   }
 }

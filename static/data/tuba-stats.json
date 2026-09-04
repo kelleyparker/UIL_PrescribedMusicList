@@ -2,21 +2,21 @@
   "schoolYear": "2025-2026",
   "instrumentSlug": "tuba",
   "instrumentName": "Tuba Solos",
-  "songCount": 160,
-  "publisherCount": 164,
+  "songCount": 196,
+  "publisherCount": 201,
   "noteCount": 1,
-  "databaseRecordCount": 161,
+  "databaseRecordCount": 196,
   "classBreakdown": {
-    "3": 38,
-    "2": 52,
-    "1": 70
+    "3": 43,
+    "2": 55,
+    "1": 98
   },
-  "noMemoryRequiredCount": 7,
+  "noMemoryRequiredCount": 14,
   "publicDomainPdfCount": 0,
   "eventBreakdown": {
-    "Tuba Solo": 160
+    "Tuba Solo": 196
   },
   "notes": {
-    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-03-28T15:07:47.493737+00:00."
+    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-09-04T16:48:31.485233+00:00."
   }
 }

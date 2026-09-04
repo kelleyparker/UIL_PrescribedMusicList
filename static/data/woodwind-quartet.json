@@ -1071,6 +1071,27 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "241-2-41851",
+    "instrumentSlug": "woodwind-quartet",
+    "instrumentName": "Woodwind Quartets",
+    "eventName": "Woodwind Quartet",
+    "title": "Fireflies",
+    "composer": "Mekel",
+    "arranger": "Rogers",
+    "publishers": [
+      "TUX Peoples Music"
+    ],
+    "publisherText": "TUX Peoples Music",
+    "classLevel": 2,
+    "specification": "(ob, cl, bsn, horn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/fireflies-4962957/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "241-2-29754",
     "instrumentSlug": "woodwind-quartet",
     "instrumentName": "Woodwind Quartets",
@@ -1279,6 +1300,27 @@
     "sheetMusicAffiliateUrl": null,
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "241-1-41849",
+    "instrumentSlug": "woodwind-quartet",
+    "instrumentName": "Woodwind Quartets",
+    "eventName": "Woodwind Quartet",
+    "title": "Tico Tico No Fuba",
+    "composer": "Abreu",
+    "arranger": "",
+    "publishers": [
+      "Lost Key Music"
+    ],
+    "publisherText": "Lost Key Music",
+    "classLevel": 1,
+    "specification": "(fl, ob, cl, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/tico-tico-no-fuba-11601741/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
     "uilCode": "241-1-35727",
@@ -2197,6 +2239,27 @@
     "publisherText": "Eschig (France)",
     "classLevel": 1,
     "specification": "(fl, ob, cl, hn, bsn) (play one mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "241-1-41850",
+    "instrumentSlug": "woodwind-quartet",
+    "instrumentName": "Woodwind Quartets",
+    "eventName": "Woodwind Quartet",
+    "title": "Andaluza from \"Quatre Pieces Espagnoles\"",
+    "composer": "de Falla",
+    "arranger": "Steber",
+    "publishers": [
+      "MKT Music Publications"
+    ],
+    "publisherText": "MKT Music Publications",
+    "classLevel": 1,
+    "specification": "(fl, ob, cl, bsn)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,

@@ -2,21 +2,21 @@
   "schoolYear": "2025-2026",
   "instrumentSlug": "woodwind-trio",
   "instrumentName": "Woodwind Trios",
-  "songCount": 269,
-  "publisherCount": 274,
+  "songCount": 275,
+  "publisherCount": 280,
   "noteCount": 1,
-  "databaseRecordCount": 270,
+  "databaseRecordCount": 275,
   "classBreakdown": {
     "3": 60,
     "2": 109,
-    "1": 100
+    "1": 106
   },
   "noMemoryRequiredCount": 0,
   "publicDomainPdfCount": 0,
   "eventBreakdown": {
-    "Woodwind Trio": 269
+    "Woodwind Trio": 275
   },
   "notes": {
-    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-03-28T15:07:47.731950+00:00."
+    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-09-04T16:48:54.690654+00:00."
   }
 }

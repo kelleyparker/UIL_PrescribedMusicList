@@ -2,21 +2,21 @@
   "schoolYear": "2025-2026",
   "instrumentSlug": "bb-clarinet-quartet",
   "instrumentName": "Bb Clarinet Quartets",
-  "songCount": 127,
-  "publisherCount": 127,
+  "songCount": 125,
+  "publisherCount": 125,
   "noteCount": 1,
-  "databaseRecordCount": 128,
+  "databaseRecordCount": 125,
   "classBreakdown": {
     "3": 31,
     "2": 61,
-    "1": 35
+    "1": 33
   },
   "noMemoryRequiredCount": 0,
   "publicDomainPdfCount": 0,
   "eventBreakdown": {
-    "Bb Clarinet Quartet": 127
+    "Bb Clarinet Quartet": 125
   },
   "notes": {
-    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-03-28T15:07:47.801741+00:00."
+    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-09-04T16:48:55.036055+00:00."
   }
 }

@@ -2,21 +2,21 @@
   "schoolYear": "2025-2026",
   "instrumentSlug": "trombone-trio",
   "instrumentName": "Trombone Trios",
-  "songCount": 94,
-  "publisherCount": 95,
+  "songCount": 100,
+  "publisherCount": 101,
   "noteCount": 1,
-  "databaseRecordCount": 95,
+  "databaseRecordCount": 100,
   "classBreakdown": {
-    "3": 32,
-    "2": 30,
-    "1": 32
+    "3": 35,
+    "2": 32,
+    "1": 33
   },
   "noMemoryRequiredCount": 0,
   "publicDomainPdfCount": 0,
   "eventBreakdown": {
-    "Trombone Trio": 94
+    "Trombone Trio": 100
   },
   "notes": {
-    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-03-28T15:07:47.880216+00:00."
+    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-09-04T16:52:22.141105+00:00."
   }
 }

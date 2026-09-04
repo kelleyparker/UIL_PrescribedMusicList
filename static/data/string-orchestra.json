@@ -548,6 +548,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "926-5-41345",
+    "instrumentSlug": "string-orchestra",
+    "instrumentName": "String Orchestra",
+    "eventName": "String Orchestra",
+    "title": "Finale to Symphony in D Minor, \u201cLa Casa del Diavolo\u201d",
+    "composer": "Boccherini",
+    "arranger": "Selby",
+    "publishers": [
+      "GIA Publications"
+    ],
+    "publisherText": "GIA Publications",
+    "classLevel": 5,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/boccherini-minuet-10185467/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "926-5-26048",
     "instrumentSlug": "string-orchestra",
     "instrumentName": "String Orchestra",
@@ -607,6 +628,27 @@
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/minuet-11589705/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "926-5-41339",
+    "instrumentSlug": "string-orchestra",
+    "instrumentName": "String Orchestra",
+    "eventName": "String Orchestra",
+    "title": "Sinfonia for Strings (String Quartet No. 2)",
+    "composer": "Borodin",
+    "arranger": "Drew",
+    "publishers": [
+      "Edwin F. Kalmus"
+    ],
+    "publisherText": "Edwin F. Kalmus",
+    "classLevel": 5,
+    "specification": "(play one mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/string-quartet-no-2-string-quartet-4863049/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -833,7 +875,7 @@
     ],
     "publisherText": "Stainer & Bell",
     "classLevel": 5,
-    "specification": "(play Prelude or Finale)",
+    "specification": "(play Prelude OR Finale)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -1685,6 +1727,27 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "926-5-41338",
+    "instrumentSlug": "string-orchestra",
+    "instrumentName": "String Orchestra",
+    "eventName": "String Orchestra",
+    "title": "Visions of Tomorrow",
+    "composer": "Gordon",
+    "arranger": "",
+    "publishers": [
+      "Leap Year Music"
+    ],
+    "publisherText": "Leap Year Music",
+    "classLevel": 5,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "926-5-26057",
     "instrumentSlug": "string-orchestra",
     "instrumentName": "String Orchestra",
@@ -1720,7 +1783,7 @@
     ],
     "publisherText": "Schott Company;Luck's Music Library;Edwin F. Kalmus",
     "classLevel": 5,
-    "specification": "(horn optional)",
+    "specification": "(horn OPTIONAL)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -1891,6 +1954,27 @@
     "publisherText": "Carl Fischer, Inc.",
     "classLevel": 5,
     "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "926-5-41344",
+    "instrumentSlug": "string-orchestra",
+    "instrumentName": "String Orchestra",
+    "eventName": "String Orchestra",
+    "title": "Symphony No. 2 \"Romantic\" - 1st Movement",
+    "composer": "Hanson",
+    "arranger": "Parrish",
+    "publishers": [
+      "Carl Fischer, Inc."
+    ],
+    "publisherText": "Carl Fischer, Inc.",
+    "classLevel": 5,
+    "specification": "(OPTIONAL harp)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -2075,9 +2159,10 @@
     "composer": "Holst",
     "arranger": "",
     "publishers": [
-      "G. Schirmer, Inc."
+      "G. Schirmer, Inc.",
+      "Luck's Music Library"
     ],
-    "publisherText": "G. Schirmer, Inc.",
+    "publisherText": "G. Schirmer, Inc.;Luck's Music Library",
     "classLevel": 5,
     "specification": "(play mvt 1 or 4)",
     "noMemoryRequired": false,
@@ -2319,6 +2404,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "926-5-41346",
+    "instrumentSlug": "string-orchestra",
+    "instrumentName": "String Orchestra",
+    "eventName": "String Orchestra",
+    "title": "Serenade for Strings",
+    "composer": "Karlowicz",
+    "arranger": "",
+    "publishers": [
+      "Luck's Music Library"
+    ],
+    "publisherText": "Luck's Music Library",
+    "classLevel": 5,
+    "specification": "(play one mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/holiday-strings-10052319/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "926-5-38022",
     "instrumentSlug": "string-orchestra",
     "instrumentName": "String Orchestra",
@@ -2444,6 +2550,48 @@
     "sheetMusicAffiliateUrl": null,
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "926-5-41341",
+    "instrumentSlug": "string-orchestra",
+    "instrumentName": "String Orchestra",
+    "eventName": "String Orchestra",
+    "title": "Symphony No. 2 (Finale)",
+    "composer": "Mayer",
+    "arranger": "Taylor",
+    "publishers": [
+      "Carl Fischer, Inc."
+    ],
+    "publisherText": "Carl Fischer, Inc.",
+    "classLevel": 5,
+    "specification": "(OPTIONAL percussion)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/finale-10067175/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "926-5-41342",
+    "instrumentSlug": "string-orchestra",
+    "instrumentName": "String Orchestra",
+    "eventName": "String Orchestra",
+    "title": "Octet",
+    "composer": "Mendelssohn",
+    "arranger": "Dackow",
+    "publishers": [
+      "Tempo Press"
+    ],
+    "publisherText": "Tempo Press",
+    "classLevel": 5,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/octet-10339849/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
     "uilCode": "926-5-26063",
@@ -2639,7 +2787,7 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
-    "uilCode": "926-5-40089",
+    "uilCode": "926-5-41348",
     "instrumentSlug": "string-orchestra",
     "instrumentName": "String Orchestra",
     "eventName": "String Orchestra",
@@ -2651,7 +2799,7 @@
     ],
     "publisherText": "MakeMusic Publications",
     "classLevel": 5,
-    "specification": "(harp OPTIONAL)",
+    "specification": "(OPTIONAL harp OR piano)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -2820,7 +2968,7 @@
     ],
     "publisherText": "Pecktackular Music",
     "classLevel": 5,
-    "specification": "(play mvt 1 or 3)",
+    "specification": "(play mvt 1 OR 3)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -2848,6 +2996,27 @@
     "sheetMusicAffiliateUrl": null,
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "926-5-41340",
+    "instrumentSlug": "string-orchestra",
+    "instrumentName": "String Orchestra",
+    "eventName": "String Orchestra",
+    "title": "Taifu",
+    "composer": "Pilsner",
+    "arranger": "",
+    "publishers": [
+      "Zicato Music"
+    ],
+    "publisherText": "Zicato Music",
+    "classLevel": 5,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/taifu-11356349/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
     "uilCode": "926-5-19068",
@@ -2925,7 +3094,7 @@
     ],
     "publisherText": "FJH Music Company",
     "classLevel": 5,
-    "specification": "(play all)",
+    "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -3009,7 +3178,7 @@
     ],
     "publisherText": "Ediciones Joaquin Rodrigo",
     "classLevel": 5,
-    "specification": "(play all)",
+    "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -3072,7 +3241,7 @@
     ],
     "publisherText": "Luck's Music Library",
     "classLevel": 5,
-    "specification": "(play mvt 1 or 4)",
+    "specification": "(play mvt 1 OR 4)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -3114,7 +3283,7 @@
     ],
     "publisherText": "Universal Editions",
     "classLevel": 5,
-    "specification": "(harp required)",
+    "specification": "(harp REQUIRED)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -3142,6 +3311,27 @@
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/schubert-suite-9561131/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "926-5-41343",
+    "instrumentSlug": "string-orchestra",
+    "instrumentName": "String Orchestra",
+    "eventName": "String Orchestra",
+    "title": "Scherzo from String Quartet, D. 956",
+    "composer": "Schubert",
+    "arranger": "Debbaut",
+    "publishers": [
+      "Southern Music Company"
+    ],
+    "publisherText": "Southern Music Company",
+    "classLevel": 5,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
   },
   {
     "uilCode": "926-5-31846",
@@ -3219,7 +3409,7 @@
     ],
     "publisherText": "Murphy Music Press",
     "classLevel": 5,
-    "specification": "(OPTIONAL harp)",
+    "specification": "(harp OPTIONAL)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -3303,7 +3493,7 @@
     ],
     "publisherText": "Southern Music Company",
     "classLevel": 5,
-    "specification": "(play mvt 1 OR mvt 3) (harp AND piano required)",
+    "specification": "(play mvt 1 OR mvt 3) (harp AND piano REQUIRED)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -3430,7 +3620,7 @@
     ],
     "publisherText": "Wingert/Jones",
     "classLevel": 5,
-    "specification": "(optional timpani)",
+    "specification": "(timpani OPTIONAL)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -3820,6 +4010,28 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "926-5-41347",
+    "instrumentSlug": "string-orchestra",
+    "instrumentName": "String Orchestra",
+    "eventName": "String Orchestra",
+    "title": "Serenade for Strings",
+    "composer": "Warlock",
+    "arranger": "",
+    "publishers": [
+      "Oxford University Press",
+      "Luck's Music Library"
+    ],
+    "publisherText": "Oxford University Press;Luck's Music Library",
+    "classLevel": 5,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "926-5-32145",
     "instrumentSlug": "string-orchestra",
     "instrumentName": "String Orchestra",
@@ -3937,7 +4149,7 @@
     ],
     "publisherText": "Luck's Music Library",
     "classLevel": 5,
-    "specification": "(play mvt. 1 or 4)",
+    "specification": "(play mvt. 1 OR 4)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -3946,7 +4158,7 @@
     "sheetMusicAffiliateSource": null
   },
   {
-    "uilCode": "926-5-26086",
+    "uilCode": "926-5-41349",
     "instrumentSlug": "string-orchestra",
     "instrumentName": "String Orchestra",
     "eventName": "String Orchestra",
@@ -3954,11 +4166,12 @@
     "composer": "Wolf-Ferrari",
     "arranger": "",
     "publishers": [
-      "Edwin F. Kalmus"
+      "Edwin F. Kalmus",
+      "Luck's Music Library"
     ],
-    "publisherText": "Edwin F. Kalmus",
+    "publisherText": "Edwin F. Kalmus;Luck's Music Library",
     "classLevel": 5,
-    "specification": "(play mvt 4 only)",
+    "specification": "(play mvt 1,2 OR 4)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -4062,6 +4275,48 @@
       "TRN Music Publisher"
     ],
     "publisherText": "TRN Music Publisher",
+    "classLevel": 4,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "926-4-41328",
+    "instrumentSlug": "string-orchestra",
+    "instrumentName": "String Orchestra",
+    "eventName": "String Orchestra",
+    "title": "Arise",
+    "composer": "American Folk Song",
+    "arranger": "Bauder & Moss",
+    "publishers": [
+      "Tempo Press"
+    ],
+    "publisherText": "Tempo Press",
+    "classLevel": 4,
+    "specification": "(OPTIONAL piano OR harp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/national-anthem-arise-arise-11625801/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "926-4-41331",
+    "instrumentSlug": "string-orchestra",
+    "instrumentName": "String Orchestra",
+    "eventName": "String Orchestra",
+    "title": "Serenade for String Orchestra: Movement III",
+    "composer": "Andr\u00e9e",
+    "arranger": "Meckler",
+    "publishers": [
+      "Tempo Press"
+    ],
+    "publisherText": "Tempo Press",
     "classLevel": 4,
     "specification": "",
     "noMemoryRequired": false,
@@ -4661,6 +4916,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "926-4-41334",
+    "instrumentSlug": "string-orchestra",
+    "instrumentName": "String Orchestra",
+    "eventName": "String Orchestra",
+    "title": "Finale from Symphony in D Major, W. 27",
+    "composer": "Bach, J.C.",
+    "arranger": "Debbaut",
+    "publishers": [
+      "Southern Music Company"
+    ],
+    "publisherText": "Southern Music Company",
+    "classLevel": 4,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/symphony-59-fire-symphony-10540395/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "926-4-18931",
     "instrumentSlug": "string-orchestra",
     "instrumentName": "String Orchestra",
@@ -5119,6 +5395,27 @@
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/boccherini-minuet-10185467/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "926-4-41335",
+    "instrumentSlug": "string-orchestra",
+    "instrumentName": "String Orchestra",
+    "eventName": "String Orchestra",
+    "title": "Symphony Concertante No. 2 in G Major: I. Allegro",
+    "composer": "Bologne, Chevalier de Saint-Georges",
+    "arranger": "Dackow",
+    "publishers": [
+      "Tempo Press"
+    ],
+    "publisherText": "Tempo Press",
+    "classLevel": 4,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/chevalier-selections-11618785/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -6658,6 +6955,27 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "926-4-41333",
+    "instrumentSlug": "string-orchestra",
+    "instrumentName": "String Orchestra",
+    "eventName": "String Orchestra",
+    "title": "Larghetto and Allegro",
+    "composer": "Handel",
+    "arranger": "Whittington",
+    "publishers": [
+      "Southern Music Company"
+    ],
+    "publisherText": "Southern Music Company",
+    "classLevel": 4,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/allegro-11202632/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "926-4-30278",
     "instrumentSlug": "string-orchestra",
     "instrumentName": "String Orchestra",
@@ -7562,6 +7880,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "926-4-41337",
+    "instrumentSlug": "string-orchestra",
+    "instrumentName": "String Orchestra",
+    "eventName": "String Orchestra",
+    "title": "String Quartet No. 2 in B-Flat Major: Mvt. II Allegro",
+    "composer": "Lombardini-Sirmen",
+    "arranger": "Meckler",
+    "publishers": [
+      "Tempo Press"
+    ],
+    "publisherText": "Tempo Press",
+    "classLevel": 4,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/allegro-11608230/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "926-4-32143",
     "instrumentSlug": "string-orchestra",
     "instrumentName": "String Orchestra",
@@ -7664,6 +8003,27 @@
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/andante-9551943/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "926-4-41332",
+    "instrumentSlug": "string-orchestra",
+    "instrumentName": "String Orchestra",
+    "eventName": "String Orchestra",
+    "title": "String Quartet in E-flat Major: III. Romanze",
+    "composer": "Mendelssohn",
+    "arranger": "Meckler",
+    "publishers": [
+      "Tempo Press"
+    ],
+    "publisherText": "Tempo Press",
+    "classLevel": 4,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/romanze-11615231/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -8551,6 +8911,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "926-4-41330",
+    "instrumentSlug": "string-orchestra",
+    "instrumentName": "String Orchestra",
+    "eventName": "String Orchestra",
+    "title": "Atlantis of the Sands",
+    "composer": "Pilsner",
+    "arranger": "",
+    "publishers": [
+      "Zicato Music"
+    ],
+    "publisherText": "Zicato Music",
+    "classLevel": 4,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "926-4-36733",
     "instrumentSlug": "string-orchestra",
     "instrumentName": "String Orchestra",
@@ -9363,6 +9744,27 @@
     "publisherText": "FJH Music Company",
     "classLevel": 4,
     "specification": "(opt percussion)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "926-4-41336",
+    "instrumentSlug": "string-orchestra",
+    "instrumentName": "String Orchestra",
+    "eventName": "String Orchestra",
+    "title": "Second to None",
+    "composer": "Sluder",
+    "arranger": "",
+    "publishers": [
+      "Zicato Music"
+    ],
+    "publisherText": "Zicato Music",
+    "classLevel": 4,
+    "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -10512,6 +10914,27 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "926-4-41329",
+    "instrumentSlug": "string-orchestra",
+    "instrumentName": "String Orchestra",
+    "eventName": "String Orchestra",
+    "title": "Along Mill Creek",
+    "composer": "Woodruff",
+    "arranger": "",
+    "publishers": [
+      "LudwigMasters Publications"
+    ],
+    "publisherText": "LudwigMasters Publications",
+    "classLevel": 4,
+    "specification": "(OPTIONAL harp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/along-mill-creek-11624074/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "926-4-36738",
     "instrumentSlug": "string-orchestra",
     "instrumentName": "String Orchestra",
@@ -10888,27 +11311,6 @@
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/mission-song-9546772/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "926-3-30254",
-    "instrumentSlug": "string-orchestra",
-    "instrumentName": "String Orchestra",
-    "eventName": "String Orchestra",
-    "title": "Sakura, Sakura",
-    "composer": "Anon. or Trad.",
-    "arranger": "Yamada or Clark",
-    "publishers": [
-      "Carl Fischer, Inc."
-    ],
-    "publisherText": "Carl Fischer, Inc.",
-    "classLevel": 3,
-    "specification": "(piano required)",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/sakura-sakura-11568200/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -13036,6 +13438,27 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "926-3-41317",
+    "instrumentSlug": "string-orchestra",
+    "instrumentName": "String Orchestra",
+    "eventName": "String Orchestra",
+    "title": "Isma'a",
+    "composer": "Darling",
+    "arranger": "",
+    "publishers": [
+      "Highland/Etling"
+    ],
+    "publisherText": "Highland/Etling",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/ismaa-10032743/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "926-3-30237",
     "instrumentSlug": "string-orchestra",
     "instrumentName": "String Orchestra",
@@ -13131,6 +13554,27 @@
       "Wingert/Jones"
     ],
     "publisherText": "Wingert/Jones",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "926-3-41322",
+    "instrumentSlug": "string-orchestra",
+    "instrumentName": "String Orchestra",
+    "eventName": "String Orchestra",
+    "title": "On Edge",
+    "composer": "Day",
+    "arranger": "",
+    "publishers": [
+      "Southern Music Company"
+    ],
+    "publisherText": "Southern Music Company",
     "classLevel": 3,
     "specification": "",
     "noMemoryRequired": false,
@@ -13415,6 +13859,48 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "926-3-41307",
+    "instrumentSlug": "string-orchestra",
+    "instrumentName": "String Orchestra",
+    "eventName": "String Orchestra",
+    "title": "Cosmic Odyssey",
+    "composer": "Eveland",
+    "arranger": "",
+    "publishers": [
+      "Tempo Press"
+    ],
+    "publisherText": "Tempo Press",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/cosmic-odyssey-11574820/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "926-3-41306",
+    "instrumentSlug": "string-orchestra",
+    "instrumentName": "String Orchestra",
+    "eventName": "String Orchestra",
+    "title": "Victory",
+    "composer": "Eveland",
+    "arranger": "",
+    "publishers": [
+      "Tempo Press"
+    ],
+    "publisherText": "Tempo Press",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/victory-11574819/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "926-3-33164",
     "instrumentSlug": "string-orchestra",
     "instrumentName": "String Orchestra",
@@ -13601,6 +14087,27 @@
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/meadowlands-10374390/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "926-3-41305",
+    "instrumentSlug": "string-orchestra",
+    "instrumentName": "String Orchestra",
+    "eventName": "String Orchestra",
+    "title": "Moonglow",
+    "composer": "Ford",
+    "arranger": "",
+    "publishers": [
+      "Tempo Press"
+    ],
+    "publisherText": "Tempo Press",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/moonglow-1335769/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -13871,6 +14378,27 @@
     "publisherText": "Kendor Music, Inc.",
     "classLevel": 3,
     "specification": "(opt percussion)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "926-3-41310",
+    "instrumentSlug": "string-orchestra",
+    "instrumentName": "String Orchestra",
+    "eventName": "String Orchestra",
+    "title": "Golden Daydreams",
+    "composer": "Golan",
+    "arranger": "",
+    "publishers": [
+      "Wingert-Jones"
+    ],
+    "publisherText": "Wingert-Jones",
+    "classLevel": 3,
+    "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -14719,6 +15247,27 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "926-3-41313",
+    "instrumentSlug": "string-orchestra",
+    "instrumentName": "String Orchestra",
+    "eventName": "String Orchestra",
+    "title": "Mosaic",
+    "composer": "Hart",
+    "arranger": "",
+    "publishers": [
+      "Excelcia"
+    ],
+    "publisherText": "Excelcia",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/mosaic-11620275/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "926-3-40104",
     "instrumentSlug": "string-orchestra",
     "instrumentName": "String Orchestra",
@@ -15265,6 +15814,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "926-3-41303",
+    "instrumentSlug": "string-orchestra",
+    "instrumentName": "String Orchestra",
+    "eventName": "String Orchestra",
+    "title": "A Hero\u2019s Quest",
+    "composer": "Kline",
+    "arranger": "",
+    "publishers": [
+      "C. Alan Publications"
+    ],
+    "publisherText": "C. Alan Publications",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "926-3-38006",
     "instrumentSlug": "string-orchestra",
     "instrumentName": "String Orchestra",
@@ -15370,6 +15940,27 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "926-3-41312",
+    "instrumentSlug": "string-orchestra",
+    "instrumentName": "String Orchestra",
+    "eventName": "String Orchestra",
+    "title": "Ghosts of the Ancient Mountains",
+    "composer": "Lipscomb",
+    "arranger": "",
+    "publishers": [
+      "DogSmile Music"
+    ],
+    "publisherText": "DogSmile Music",
+    "classLevel": 3,
+    "specification": "(OPTIONAL harp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "926-3-36730",
     "instrumentSlug": "string-orchestra",
     "instrumentName": "String Orchestra",
@@ -15389,6 +15980,27 @@
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/momentum-10046796/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "926-3-41319",
+    "instrumentSlug": "string-orchestra",
+    "instrumentName": "String Orchestra",
+    "eventName": "String Orchestra",
+    "title": "Night Passage",
+    "composer": "Longfield",
+    "arranger": "",
+    "publishers": [
+      "Hal Leonard Music, Inc."
+    ],
+    "publisherText": "Hal Leonard Music, Inc.",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
   },
   {
     "uilCode": "926-3-31006",
@@ -15601,6 +16213,27 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "926-3-41316",
+    "instrumentSlug": "string-orchestra",
+    "instrumentName": "String Orchestra",
+    "eventName": "String Orchestra",
+    "title": "Sinfonia in C Major: III. Allegro spiritoso",
+    "composer": "Martines",
+    "arranger": "Meckler",
+    "publishers": [
+      "Tempo Press"
+    ],
+    "publisherText": "Tempo Press",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "926-3-25945",
     "instrumentSlug": "string-orchestra",
     "instrumentName": "String Orchestra",
@@ -15662,6 +16295,27 @@
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/small-overture-2475246/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "926-3-41309",
+    "instrumentSlug": "string-orchestra",
+    "instrumentName": "String Orchestra",
+    "eventName": "String Orchestra",
+    "title": "Symphony No. 2: I. Allegro assai",
+    "composer": "Mayer",
+    "arranger": "Meckler",
+    "publishers": [
+      "Tempo Press"
+    ],
+    "publisherText": "Tempo Press",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
   },
   {
     "uilCode": "926-3-18766",
@@ -15937,6 +16591,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "926-3-41318",
+    "instrumentSlug": "string-orchestra",
+    "instrumentName": "String Orchestra",
+    "eventName": "String Orchestra",
+    "title": "Night Shift",
+    "composer": "Meyer",
+    "arranger": "",
+    "publishers": [
+      "Alfred Music Company, Inc."
+    ],
+    "publisherText": "Alfred Music Company, Inc.",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/night-shift-2346344/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "926-3-40115",
     "instrumentSlug": "string-orchestra",
     "instrumentName": "String Orchestra",
@@ -16061,6 +16736,27 @@
     "sheetMusicAffiliateUrl": null,
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "926-3-41308",
+    "instrumentSlug": "string-orchestra",
+    "instrumentName": "String Orchestra",
+    "eventName": "String Orchestra",
+    "title": "Paladin\u2019s Oath",
+    "composer": "Morales",
+    "arranger": "",
+    "publishers": [
+      "DogSmile Music"
+    ],
+    "publisherText": "DogSmile Music",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/paladins-oath-11642910/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
     "uilCode": "926-3-26018",
@@ -16459,6 +17155,27 @@
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/mozart-variations-10066924/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "926-3-41327",
+    "instrumentSlug": "string-orchestra",
+    "instrumentName": "String Orchestra",
+    "eventName": "String Orchestra",
+    "title": "Symphony No. 12 in G Major, K. 110 IV. Allegro (Finale)",
+    "composer": "Mozart",
+    "arranger": "Dackow",
+    "publishers": [
+      "Tempo Press"
+    ],
+    "publisherText": "Tempo Press",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/finale-10067175/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -17009,6 +17726,27 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "926-3-41326",
+    "instrumentSlug": "string-orchestra",
+    "instrumentName": "String Orchestra",
+    "eventName": "String Orchestra",
+    "title": "Beyond These Horizons\u2026",
+    "composer": "Owens",
+    "arranger": "",
+    "publishers": [
+      "Randall Standridge Music"
+    ],
+    "publisherText": "Randall Standridge Music",
+    "classLevel": 3,
+    "specification": "(harp REQUIRED)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "926-3-25952",
     "instrumentSlug": "string-orchestra",
     "instrumentName": "String Orchestra",
@@ -17173,6 +17911,27 @@
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/kendor-concert-favorites-vol-2-10617763/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "926-3-41311",
+    "instrumentSlug": "string-orchestra",
+    "instrumentName": "String Orchestra",
+    "eventName": "String Orchestra",
+    "title": "Seafarer\u2019s Quest",
+    "composer": "Ponce",
+    "arranger": "",
+    "publishers": [
+      "Black Portal Audio Productions"
+    ],
+    "publisherText": "Black Portal Audio Productions",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/seafarers-quest-11638694/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -18251,6 +19010,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "926-3-41321",
+    "instrumentSlug": "string-orchestra",
+    "instrumentName": "String Orchestra",
+    "eventName": "String Orchestra",
+    "title": "Medallion Hunt",
+    "composer": "Siegler",
+    "arranger": "",
+    "publishers": [
+      "Grand Mesa Strings Publishing"
+    ],
+    "publisherText": "Grand Mesa Strings Publishing",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "926-3-28351",
     "instrumentSlug": "string-orchestra",
     "instrumentName": "String Orchestra",
@@ -18291,6 +19071,27 @@
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/dos-fuegos-2472804/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "926-3-41304",
+    "instrumentSlug": "string-orchestra",
+    "instrumentName": "String Orchestra",
+    "eventName": "String Orchestra",
+    "title": "A Dream to Build Upon",
+    "composer": "Silva",
+    "arranger": "",
+    "publishers": [
+      "Excelcia"
+    ],
+    "publisherText": "Excelcia",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
   },
   {
     "uilCode": "926-3-31960",
@@ -18398,6 +19199,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "926-3-41315",
+    "instrumentSlug": "string-orchestra",
+    "instrumentName": "String Orchestra",
+    "eventName": "String Orchestra",
+    "title": "A Wistful Walk",
+    "composer": "Sluder",
+    "arranger": "",
+    "publishers": [
+      "Cane River Music"
+    ],
+    "publisherText": "Cane River Music",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/a-wistful-walk-11637911/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "926-3-34921",
     "instrumentSlug": "string-orchestra",
     "instrumentName": "String Orchestra",
@@ -18417,6 +19239,27 @@
     "sheetMusicAffiliateUrl": null,
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "926-3-41314",
+    "instrumentSlug": "string-orchestra",
+    "instrumentName": "String Orchestra",
+    "eventName": "String Orchestra",
+    "title": "Loss and Acceptance",
+    "composer": "Sluder",
+    "arranger": "",
+    "publishers": [
+      "Cane River Music"
+    ],
+    "publisherText": "Cane River Music",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/loss-and-acceptance-11659334/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
     "uilCode": "926-3-40106",
@@ -19408,6 +20251,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "926-3-41324",
+    "instrumentSlug": "string-orchestra",
+    "instrumentName": "String Orchestra",
+    "eventName": "String Orchestra",
+    "title": "Faith Eternal",
+    "composer": "Traditional Hymn Tune",
+    "arranger": "Chambers",
+    "publishers": [
+      "Hal Leonard Music, Inc."
+    ],
+    "publisherText": "Hal Leonard Music, Inc.",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/hymn-11618569/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "926-3-32116",
     "instrumentSlug": "string-orchestra",
     "instrumentName": "String Orchestra",
@@ -19425,6 +20289,69 @@
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/carrickfergus-11337831/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "926-3-30254",
+    "instrumentSlug": "string-orchestra",
+    "instrumentName": "String Orchestra",
+    "eventName": "String Orchestra",
+    "title": "Sakura, Sakura",
+    "composer": "Traditional Japanese Folk Song",
+    "arranger": "Yamada or Clark",
+    "publishers": [
+      "Carl Fischer, Inc."
+    ],
+    "publisherText": "Carl Fischer, Inc.",
+    "classLevel": 3,
+    "specification": "(piano required)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/sakura-sakura-11568200/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "926-3-41325",
+    "instrumentSlug": "string-orchestra",
+    "instrumentName": "String Orchestra",
+    "eventName": "String Orchestra",
+    "title": "Song for UhmMa (Song for My Mother)",
+    "composer": "Traditional Korean Folk Song",
+    "arranger": "Han",
+    "publishers": [
+      "Hal Leonard Music, Inc."
+    ],
+    "publisherText": "Hal Leonard Music, Inc.",
+    "classLevel": 3,
+    "specification": "(OPTIONAL piano/harp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/song-for-uhmma-11537013/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "926-3-41323",
+    "instrumentSlug": "string-orchestra",
+    "instrumentName": "String Orchestra",
+    "eventName": "String Orchestra",
+    "title": "Nguoi O Dung Ve (Oh My Loved Ones, Do Not Leave)",
+    "composer": "Traditional Vietnamese Folk Song",
+    "arranger": "Paxton",
+    "publishers": [
+      "Creative Spirit [Global Adventures, Book III for String Orchestra]"
+    ],
+    "publisherText": "Creative Spirit [Global Adventures, Book III for String Orchestra]",
+    "classLevel": 3,
+    "specification": "(OPTIONAL guitar OR piano)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/nguoi-o-dung-ve-11699303/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -19975,6 +20902,27 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "926-3-41320",
+    "instrumentSlug": "string-orchestra",
+    "instrumentName": "String Orchestra",
+    "eventName": "String Orchestra",
+    "title": "Starry Night",
+    "composer": "Zare",
+    "arranger": "",
+    "publishers": [
+      "Murphy Music Press"
+    ],
+    "publisherText": "Murphy Music Press",
+    "classLevel": 3,
+    "specification": "(OPTIONAL harp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "926-3-31825",
     "instrumentSlug": "string-orchestra",
     "instrumentName": "String Orchestra",
@@ -20176,7 +21124,7 @@
     ],
     "publisherText": "Hal Leonard Music, Inc.",
     "classLevel": 2,
-    "specification": "(perc required, piano opt)",
+    "specification": "(percussion REQUIRED) (piano OPTIONAL)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -20596,7 +21544,7 @@
     ],
     "publisherText": "FJH Music Company",
     "classLevel": 2,
-    "specification": "(piano opt)",
+    "specification": "(OPTIONAL piano)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -20689,6 +21637,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "926-2-41283",
+    "instrumentSlug": "string-orchestra",
+    "instrumentName": "String Orchestra",
+    "eventName": "String Orchestra",
+    "title": "Force of Nature",
+    "composer": "Atterbury",
+    "arranger": "",
+    "publishers": [
+      "Tempo Press"
+    ],
+    "publisherText": "Tempo Press",
+    "classLevel": 2,
+    "specification": "(OPTIONAL piano)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/force-of-nature-11619632/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "926-2-18694",
     "instrumentSlug": "string-orchestra",
     "instrumentName": "String Orchestra",
@@ -20743,7 +21712,7 @@
     ],
     "publisherText": "Kendor Music, Inc.",
     "classLevel": 2,
-    "specification": "(play both minuets)",
+    "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -21027,6 +21996,27 @@
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/beethoven-inc-2703085/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "926-2-41273",
+    "instrumentSlug": "string-orchestra",
+    "instrumentName": "String Orchestra",
+    "eventName": "String Orchestra",
+    "title": "Emperor in the Countryside",
+    "composer": "Beethoven",
+    "arranger": "Sluder",
+    "publishers": [
+      "Tempo Press"
+    ],
+    "publisherText": "Tempo Press",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
   },
   {
     "uilCode": "926-2-25018",
@@ -21482,7 +22472,7 @@
     ],
     "publisherText": "Belwin, Inc",
     "classLevel": 2,
-    "specification": "(Play mvts. 1 & 2 or 2 & 3)",
+    "specification": "(Play mvts. 1 & 2 OR 2 & 3)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -21608,7 +22598,7 @@
     ],
     "publisherText": "Kendor Music, Inc.",
     "classLevel": 2,
-    "specification": "(percussion optional)",
+    "specification": "(OPTIONAL percussion)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -21739,6 +22729,27 @@
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/contredanse-2399442/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "926-2-41285",
+    "instrumentSlug": "string-orchestra",
+    "instrumentName": "String Orchestra",
+    "eventName": "String Orchestra",
+    "title": "Endless Possibilities",
+    "composer": "Clark",
+    "arranger": "",
+    "publishers": [
+      "Excelcia"
+    ],
+    "publisherText": "Excelcia",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/endless-possibilities-11615094/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -21890,6 +22901,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "926-2-41286",
+    "instrumentSlug": "string-orchestra",
+    "instrumentName": "String Orchestra",
+    "eventName": "String Orchestra",
+    "title": "Soaring Above",
+    "composer": "Clark",
+    "arranger": "",
+    "publishers": [
+      "Excelcia"
+    ],
+    "publisherText": "Excelcia",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/soaring-above-11615085/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "926-2-31769",
     "instrumentSlug": "string-orchestra",
     "instrumentName": "String Orchestra",
@@ -21902,13 +22934,34 @@
     ],
     "publisherText": "Alfred Music Company, Inc.",
     "classLevel": 2,
-    "specification": "(piano optional)",
+    "specification": "(OPTIONAL piano)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": null,
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "926-2-41282",
+    "instrumentSlug": "string-orchestra",
+    "instrumentName": "String Orchestra",
+    "eventName": "String Orchestra",
+    "title": "Night Chase",
+    "composer": "Coles",
+    "arranger": "",
+    "publishers": [
+      "Grand Mesa Strings Publishing"
+    ],
+    "publisherText": "Grand Mesa Strings Publishing",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/coles-song-2334548/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
     "uilCode": "926-2-32102",
@@ -21923,7 +22976,7 @@
     ],
     "publisherText": "Carl Fischer, Inc.",
     "classLevel": 2,
-    "specification": "(Chimes optional)",
+    "specification": "(OPTIONAL chimes)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -22035,6 +23088,27 @@
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/best-of-corelli-5467741/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "926-2-41287",
+    "instrumentSlug": "string-orchestra",
+    "instrumentName": "String Orchestra",
+    "eventName": "String Orchestra",
+    "title": "March to the Dragon\u2019s Lair",
+    "composer": "Culver",
+    "arranger": "",
+    "publishers": [
+      "DogSmile Music"
+    ],
+    "publisherText": "DogSmile Music",
+    "classLevel": 2,
+    "specification": "(OPTIONAL piano)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
   },
   {
     "uilCode": "926-2-30227",
@@ -22184,6 +23258,27 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "926-2-41281",
+    "instrumentSlug": "string-orchestra",
+    "instrumentName": "String Orchestra",
+    "eventName": "String Orchestra",
+    "title": "Thor\u2019s Thunder",
+    "composer": "Davis",
+    "arranger": "",
+    "publishers": [
+      "Tempo Press"
+    ],
+    "publisherText": "Tempo Press",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/thors-thunder-11632576/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "926-2-31776",
     "instrumentSlug": "string-orchestra",
     "instrumentName": "String Orchestra",
@@ -22216,6 +23311,27 @@
       "Grand Mesa Music Publishers"
     ],
     "publisherText": "Grand Mesa Music Publishers",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "926-2-41295",
+    "instrumentSlug": "string-orchestra",
+    "instrumentName": "String Orchestra",
+    "eventName": "String Orchestra",
+    "title": "Let Them Not Be Forgotten",
+    "composer": "Day",
+    "arranger": "",
+    "publishers": [
+      "Grand Mesa Strings Publishing"
+    ],
+    "publisherText": "Grand Mesa Strings Publishing",
     "classLevel": 2,
     "specification": "",
     "noMemoryRequired": false,
@@ -23099,7 +24215,7 @@
     ],
     "publisherText": "Soundwave",
     "classLevel": 2,
-    "specification": "(piano or harp not optional)",
+    "specification": "(piano OR harp REQUIRED)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -23192,6 +24308,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "926-2-41284",
+    "instrumentSlug": "string-orchestra",
+    "instrumentName": "String Orchestra",
+    "eventName": "String Orchestra",
+    "title": "Centrifuge",
+    "composer": "Griesinger",
+    "arranger": "",
+    "publishers": [
+      "Carl Fischer, Inc."
+    ],
+    "publisherText": "Carl Fischer, Inc.",
+    "classLevel": 2,
+    "specification": "(OPTIONAL piano)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/centrifuge-10907785/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "926-2-40128",
     "instrumentSlug": "string-orchestra",
     "instrumentName": "String Orchestra",
@@ -23225,7 +24362,7 @@
     ],
     "publisherText": "Carl Fischer, Inc.",
     "classLevel": 2,
-    "specification": "(piano required)",
+    "specification": "(piano REQUIRED)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -23288,7 +24425,7 @@
     ],
     "publisherText": "Kendor Music, Inc.",
     "classLevel": 2,
-    "specification": "(POP) (opt percussion)",
+    "specification": "(POP) (OPTIONAL percussion)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -23309,7 +24446,7 @@
     ],
     "publisherText": "Kendor Music, Inc.",
     "classLevel": 2,
-    "specification": "(Piano or harp required)",
+    "specification": "(piano OR harp REQUIRED)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -23697,6 +24834,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "926-2-41288",
+    "instrumentSlug": "string-orchestra",
+    "instrumentName": "String Orchestra",
+    "eventName": "String Orchestra",
+    "title": "Temple Raider",
+    "composer": "Hillegass Jr",
+    "arranger": "",
+    "publishers": [
+      "Belwin, Inc"
+    ],
+    "publisherText": "Belwin, Inc",
+    "classLevel": 2,
+    "specification": "(OPTIONAL percussion)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/temple-raider-11200412/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "926-2-32108",
     "instrumentSlug": "string-orchestra",
     "instrumentName": "String Orchestra",
@@ -23800,6 +24958,27 @@
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/sonatina-4594404/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "926-2-41290",
+    "instrumentSlug": "string-orchestra",
+    "instrumentName": "String Orchestra",
+    "eventName": "String Orchestra",
+    "title": "Rejoice!",
+    "composer": "Hopkins",
+    "arranger": "",
+    "publishers": [
+      "LudwigMasters Publications"
+    ],
+    "publisherText": "LudwigMasters Publications",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
   },
   {
     "uilCode": "926-2-25898",
@@ -24255,7 +25434,7 @@
     ],
     "publisherText": "Alfred Music Company, Inc.",
     "classLevel": 2,
-    "specification": "(perc optional)",
+    "specification": "(OPTIONAL percussion)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -24475,6 +25654,48 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "926-2-41300",
+    "instrumentSlug": "string-orchestra",
+    "instrumentName": "String Orchestra",
+    "eventName": "String Orchestra",
+    "title": "Divertimento No. 14, K. 270 IV. Presto",
+    "composer": "Mozart",
+    "arranger": "Dackow",
+    "publishers": [
+      "Tempo Press"
+    ],
+    "publisherText": "Tempo Press",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/presto-11568646/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "926-2-41299",
+    "instrumentSlug": "string-orchestra",
+    "instrumentName": "String Orchestra",
+    "eventName": "String Orchestra",
+    "title": "Lullaby",
+    "composer": "Mozart",
+    "arranger": "Hill",
+    "publishers": [
+      "TUX Peoples Music"
+    ],
+    "publisherText": "TUX Peoples Music",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "926-2-30220",
     "instrumentSlug": "string-orchestra",
     "instrumentName": "String Orchestra",
@@ -24571,7 +25792,7 @@
     ],
     "publisherText": "Wingert-Jones",
     "classLevel": 2,
-    "specification": "(opt percussion)",
+    "specification": "(OPTIONAL percussion)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -24634,7 +25855,7 @@
     ],
     "publisherText": "FJH Music Company",
     "classLevel": 2,
-    "specification": "(piano opt)",
+    "specification": "(OPTIONAL piano)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -24718,7 +25939,7 @@
     ],
     "publisherText": "Kendor Music, Inc.",
     "classLevel": 2,
-    "specification": "(POP) (opt percussion)",
+    "specification": "(POP) (OPTIONAL percussion)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -24739,7 +25960,7 @@
     ],
     "publisherText": "Carl Fischer, Inc.",
     "classLevel": 2,
-    "specification": "(Piano or Harp optional)(Percussion required)",
+    "specification": "(percussion REQUIRED) (OPTIONAL piano OR harp)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -24760,13 +25981,34 @@
     ],
     "publisherText": "Carl Fischer, Inc.",
     "classLevel": 2,
-    "specification": "(piano not required)",
+    "specification": "(OPTIONAL piano)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/bluebell-10908040/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "926-2-41301",
+    "instrumentSlug": "string-orchestra",
+    "instrumentName": "String Orchestra",
+    "eventName": "String Orchestra",
+    "title": "Joyful Lily",
+    "composer": "Nishimura",
+    "arranger": "",
+    "publishers": [
+      "Excelcia"
+    ],
+    "publisherText": "Excelcia",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
   },
   {
     "uilCode": "926-2-37993",
@@ -24802,7 +26044,7 @@
     ],
     "publisherText": "Carl Fischer, Inc.",
     "classLevel": 2,
-    "specification": "(Piano or Harp optional)",
+    "specification": "(OPTIONAL Piano OR harp)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -25096,7 +26338,7 @@
     ],
     "publisherText": "FJH Music Company",
     "classLevel": 2,
-    "specification": "(percussion optional)",
+    "specification": "(OPTIONAL percussion)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -25124,6 +26366,48 @@
     "sheetMusicAffiliateUrl": null,
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "926-2-41297",
+    "instrumentSlug": "string-orchestra",
+    "instrumentName": "String Orchestra",
+    "eventName": "String Orchestra",
+    "title": "Canzone",
+    "composer": "Parrish",
+    "arranger": "",
+    "publishers": [
+      "Carl Fischer, Inc."
+    ],
+    "publisherText": "Carl Fischer, Inc.",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/canzone-10997964/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "926-2-41296",
+    "instrumentSlug": "string-orchestra",
+    "instrumentName": "String Orchestra",
+    "eventName": "String Orchestra",
+    "title": "Resolute",
+    "composer": "Parrish",
+    "arranger": "",
+    "publishers": [
+      "Carl Fischer, Inc."
+    ],
+    "publisherText": "Carl Fischer, Inc.",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/resolute-11500104/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
     "uilCode": "926-2-33382",
@@ -25189,6 +26473,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "926-2-41280",
+    "instrumentSlug": "string-orchestra",
+    "instrumentName": "String Orchestra",
+    "eventName": "String Orchestra",
+    "title": "The Old Faithful Rainbow",
+    "composer": "Pedrazzini",
+    "arranger": "",
+    "publishers": [
+      "Grand Mesa Strings Publishing"
+    ],
+    "publisherText": "Grand Mesa Strings Publishing",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "926-2-31805",
     "instrumentSlug": "string-orchestra",
     "instrumentName": "String Orchestra",
@@ -25201,7 +26506,7 @@
     ],
     "publisherText": "Alfred Music Company, Inc.",
     "classLevel": 2,
-    "specification": "(play mvts 1 & 2 or mvts 2 & 3)",
+    "specification": "(play mvts 1 & 2 OR 2 & 3)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -25348,7 +26653,7 @@
     ],
     "publisherText": "Wingert/Jones",
     "classLevel": 2,
-    "specification": "(opt harp or piano)",
+    "specification": "(OPTIONAL harp OR piano)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -25651,6 +26956,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "926-2-41289",
+    "instrumentSlug": "string-orchestra",
+    "instrumentName": "String Orchestra",
+    "eventName": "String Orchestra",
+    "title": "Lighthouse in the Fog",
+    "composer": "Rogers",
+    "arranger": "",
+    "publishers": [
+      "Grand Mesa Strings Publishing"
+    ],
+    "publisherText": "Grand Mesa Strings Publishing",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "926-2-25909",
     "instrumentSlug": "string-orchestra",
     "instrumentName": "String Orchestra",
@@ -25704,6 +27030,69 @@
       "Neil A. Kjos Music Company"
     ],
     "publisherText": "Neil A. Kjos Music Company",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "926-2-41274",
+    "instrumentSlug": "string-orchestra",
+    "instrumentName": "String Orchestra",
+    "eventName": "String Orchestra",
+    "title": "A Joyful Life",
+    "composer": "Sanguinito",
+    "arranger": "",
+    "publishers": [
+      "DogSmile Music"
+    ],
+    "publisherText": "DogSmile Music",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "926-2-41275",
+    "instrumentSlug": "string-orchestra",
+    "instrumentName": "String Orchestra",
+    "eventName": "String Orchestra",
+    "title": "Elevation",
+    "composer": "Sanguinito",
+    "arranger": "",
+    "publishers": [
+      "TUX Peoples Music"
+    ],
+    "publisherText": "TUX Peoples Music",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/elevation-11674138/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "926-2-41276",
+    "instrumentSlug": "string-orchestra",
+    "instrumentName": "String Orchestra",
+    "eventName": "String Orchestra",
+    "title": "Valiant Quest",
+    "composer": "Sanguinito",
+    "arranger": "",
+    "publishers": [
+      "Grand Mesa Strings Publishing"
+    ],
+    "publisherText": "Grand Mesa Strings Publishing",
     "classLevel": 2,
     "specification": "",
     "noMemoryRequired": false,
@@ -25936,7 +27325,7 @@
     ],
     "publisherText": "Alfred Music Company, Inc.",
     "classLevel": 2,
-    "specification": "(Piano and Percussion optional)",
+    "specification": "(OPTIONAL piano & percussion)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -26008,6 +27397,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "926-2-41294",
+    "instrumentSlug": "string-orchestra",
+    "instrumentName": "String Orchestra",
+    "eventName": "String Orchestra",
+    "title": "Luminescence",
+    "composer": "Silva",
+    "arranger": "",
+    "publishers": [
+      "Carl Fischer, Inc."
+    ],
+    "publisherText": "Carl Fischer, Inc.",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/luminescence-10277980/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "926-2-31804",
     "instrumentSlug": "string-orchestra",
     "instrumentName": "String Orchestra",
@@ -26069,6 +27479,48 @@
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/sunburst-10013209/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "926-2-41292",
+    "instrumentSlug": "string-orchestra",
+    "instrumentName": "String Orchestra",
+    "eventName": "String Orchestra",
+    "title": "Truth or Dare",
+    "composer": "Silva",
+    "arranger": "",
+    "publishers": [
+      "Excelcia"
+    ],
+    "publisherText": "Excelcia",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/truth-or-dare-11615083/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "926-2-41293",
+    "instrumentSlug": "string-orchestra",
+    "instrumentName": "String Orchestra",
+    "eventName": "String Orchestra",
+    "title": "When Lightning Strikes",
+    "composer": "Silva",
+    "arranger": "",
+    "publishers": [
+      "Excelcia"
+    ],
+    "publisherText": "Excelcia",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
   },
   {
     "uilCode": "926-2-25884",
@@ -26314,7 +27766,7 @@
     ],
     "publisherText": "Kjos Music",
     "classLevel": 2,
-    "specification": "(opt harp or piano)",
+    "specification": "(OPTIONAL harp OR piano)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -26398,7 +27850,7 @@
     ],
     "publisherText": "Alfred Music Company, Inc.",
     "classLevel": 2,
-    "specification": "(opt percussion)",
+    "specification": "(OPTIONAL percussion)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -26524,7 +27976,7 @@
     ],
     "publisherText": "Wingert/Jones",
     "classLevel": 2,
-    "specification": "(play mvt. 1 or 2)",
+    "specification": "(play mvt. 1 OR 2)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -26688,11 +28140,11 @@
     "composer": "Traditional",
     "arranger": "Caravella",
     "publishers": [
-      "Wingert/Jones"
+      "Wingert-Jones"
     ],
-    "publisherText": "Wingert/Jones",
+    "publisherText": "Wingert-Jones",
     "classLevel": 2,
-    "specification": "(play all)",
+    "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -26713,7 +28165,7 @@
     ],
     "publisherText": "Belwin, Inc",
     "classLevel": 2,
-    "specification": "(percussion opt)",
+    "specification": "(OPTIONAL percussion)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -26802,6 +28254,27 @@
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/the-rowan-tree-10370814/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "926-2-41298",
+    "instrumentSlug": "string-orchestra",
+    "instrumentName": "String Orchestra",
+    "eventName": "String Orchestra",
+    "title": "Tinikling: The Rice Bird Dance",
+    "composer": "Traditional Filipino Folk Music",
+    "arranger": "Ford",
+    "publishers": [
+      "Tempo Press"
+    ],
+    "publisherText": "Tempo Press",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/tinikling-11632600/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -27059,6 +28532,48 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "926-2-41277",
+    "instrumentSlug": "string-orchestra",
+    "instrumentName": "String Orchestra",
+    "eventName": "String Orchestra",
+    "title": "Ambulations",
+    "composer": "Woodruff",
+    "arranger": "",
+    "publishers": [
+      "LudwigMasters Publications"
+    ],
+    "publisherText": "LudwigMasters Publications",
+    "classLevel": 2,
+    "specification": "(OPTIONAL harp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/ambulations-11624075/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "926-2-41278",
+    "instrumentSlug": "string-orchestra",
+    "instrumentName": "String Orchestra",
+    "eventName": "String Orchestra",
+    "title": "The Legend of the Crooked Stick",
+    "composer": "Woodruff",
+    "arranger": "",
+    "publishers": [
+      "Wingert-Jones"
+    ],
+    "publisherText": "Wingert-Jones",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "926-2-36714",
     "instrumentSlug": "string-orchestra",
     "instrumentName": "String Orchestra",
@@ -27092,7 +28607,49 @@
     ],
     "publisherText": "Carl Fischer, Inc.",
     "classLevel": 2,
-    "specification": "(piano required)",
+    "specification": "(piano REQUIRED)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "926-2-41302",
+    "instrumentSlug": "string-orchestra",
+    "instrumentName": "String Orchestra",
+    "eventName": "String Orchestra",
+    "title": "Alchemic Adventure",
+    "composer": "Zamora",
+    "arranger": "",
+    "publishers": [
+      "Zamora Music"
+    ],
+    "publisherText": "Zamora Music",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/alchemic-adventure-10479313/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "926-2-41291",
+    "instrumentSlug": "string-orchestra",
+    "instrumentName": "String Orchestra",
+    "eventName": "String Orchestra",
+    "title": "Radiant Rhapsody",
+    "composer": "Zare",
+    "arranger": "",
+    "publishers": [
+      "Roger Zare Music"
+    ],
+    "publisherText": "Roger Zare Music",
+    "classLevel": 2,
+    "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -27690,6 +29247,27 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "926-1-41253",
+    "instrumentSlug": "string-orchestra",
+    "instrumentName": "String Orchestra",
+    "eventName": "String Orchestra",
+    "title": "Burst!",
+    "composer": "Balmages",
+    "arranger": "",
+    "publishers": [
+      "FJH Music Company"
+    ],
+    "publisherText": "FJH Music Company",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/burst-10277832/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "926-1-31801",
     "instrumentSlug": "string-orchestra",
     "instrumentName": "String Orchestra",
@@ -28154,6 +29732,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "926-1-41259",
+    "instrumentSlug": "string-orchestra",
+    "instrumentName": "String Orchestra",
+    "eventName": "String Orchestra",
+    "title": "52 Pickup",
+    "composer": "Coles",
+    "arranger": "",
+    "publishers": [
+      "Wingert-Jones"
+    ],
+    "publisherText": "Wingert-Jones",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/52-pickup-11615389/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "926-1-25872",
     "instrumentSlug": "string-orchestra",
     "instrumentName": "String Orchestra",
@@ -28469,6 +30068,27 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "926-1-41258",
+    "instrumentSlug": "string-orchestra",
+    "instrumentName": "String Orchestra",
+    "eventName": "String Orchestra",
+    "title": "Dark Magic",
+    "composer": "Donahoe",
+    "arranger": "",
+    "publishers": [
+      "Grand Mesa Strings Publishing"
+    ],
+    "publisherText": "Grand Mesa Strings Publishing",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/dark-magic-11621736/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "926-1-37983",
     "instrumentSlug": "string-orchestra",
     "instrumentName": "String Orchestra",
@@ -28486,6 +30106,27 @@
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/shipwreck-coast-11400600/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "926-1-41263",
+    "instrumentSlug": "string-orchestra",
+    "instrumentName": "String Orchestra",
+    "eventName": "String Orchestra",
+    "title": "Binary 0101",
+    "composer": "Estes",
+    "arranger": "",
+    "publishers": [
+      "Excelcia"
+    ],
+    "publisherText": "Excelcia",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/binary-0101-11615076/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -28973,6 +30614,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "926-1-41260",
+    "instrumentSlug": "string-orchestra",
+    "instrumentName": "String Orchestra",
+    "eventName": "String Orchestra",
+    "title": "Castle Quest",
+    "composer": "Griesinger",
+    "arranger": "",
+    "publishers": [
+      "Hal Leonard Music, Inc."
+    ],
+    "publisherText": "Hal Leonard Music, Inc.",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "926-1-40133",
     "instrumentSlug": "string-orchestra",
     "instrumentName": "String Orchestra",
@@ -29286,6 +30948,27 @@
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/astro-dance-11520426/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "926-1-41256",
+    "instrumentSlug": "string-orchestra",
+    "instrumentName": "String Orchestra",
+    "eventName": "String Orchestra",
+    "title": "Dominoes",
+    "composer": "Hill",
+    "arranger": "",
+    "publishers": [
+      "TUX Peoples Music"
+    ],
+    "publisherText": "TUX Peoples Music",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/dominoes-11618808/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -29689,6 +31372,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "926-1-41257",
+    "instrumentSlug": "string-orchestra",
+    "instrumentName": "String Orchestra",
+    "eventName": "String Orchestra",
+    "title": "Sunrise Reflections",
+    "composer": "Morales",
+    "arranger": "",
+    "publishers": [
+      "Southern Music Company"
+    ],
+    "publisherText": "Southern Music Company",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "926-1-24969",
     "instrumentSlug": "string-orchestra",
     "instrumentName": "String Orchestra",
@@ -29706,6 +31410,27 @@
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/o-mistress-mine-9502035/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "926-1-41255",
+    "instrumentSlug": "string-orchestra",
+    "instrumentName": "String Orchestra",
+    "eventName": "String Orchestra",
+    "title": "Thunderstone",
+    "composer": "Neidhold",
+    "arranger": "",
+    "publishers": [
+      "Grand Mesa Strings Publishing"
+    ],
+    "publisherText": "Grand Mesa Strings Publishing",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/thunderstone-11621742/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -29757,6 +31482,27 @@
     "instrumentName": "String Orchestra",
     "eventName": "String Orchestra",
     "title": "Honor and Glory",
+    "composer": "Newbold",
+    "arranger": "",
+    "publishers": [
+      "FJH Music Company"
+    ],
+    "publisherText": "FJH Music Company",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "926-1-41268",
+    "instrumentSlug": "string-orchestra",
+    "instrumentName": "String Orchestra",
+    "eventName": "String Orchestra",
+    "title": "The Russian Music Box",
     "composer": "Newbold",
     "arranger": "",
     "publishers": [
@@ -29920,6 +31666,27 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "926-1-41269",
+    "instrumentSlug": "string-orchestra",
+    "instrumentName": "String Orchestra",
+    "eventName": "String Orchestra",
+    "title": "Anchored",
+    "composer": "Parrish",
+    "arranger": "",
+    "publishers": [
+      "Wingert-Jones"
+    ],
+    "publisherText": "Wingert-Jones",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/anchored-10981236/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "926-1-31942",
     "instrumentSlug": "string-orchestra",
     "instrumentName": "String Orchestra",
@@ -29937,6 +31704,27 @@
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/sourwood-mountain-10027341/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "926-1-41266",
+    "instrumentSlug": "string-orchestra",
+    "instrumentName": "String Orchestra",
+    "eventName": "String Orchestra",
+    "title": "El Coqui",
+    "composer": "Puerto Rican Folk Song",
+    "arranger": "Morales",
+    "publishers": [
+      "DogSmile Music"
+    ],
+    "publisherText": "DogSmile Music",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/el-coqui-11642803/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -30025,6 +31813,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "926-1-41265",
+    "instrumentSlug": "string-orchestra",
+    "instrumentName": "String Orchestra",
+    "eventName": "String Orchestra",
+    "title": "Caverns of Darkness",
+    "composer": "Rogers",
+    "arranger": "",
+    "publishers": [
+      "Grand Mesa Strings Publishing"
+    ],
+    "publisherText": "Grand Mesa Strings Publishing",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/caverns-of-darkness-11621735/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "926-1-40132",
     "instrumentSlug": "string-orchestra",
     "instrumentName": "String Orchestra",
@@ -30036,6 +31845,27 @@
       "Grand Mesa Strings Publishing"
     ],
     "publisherText": "Grand Mesa Strings Publishing",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "926-1-41264",
+    "instrumentSlug": "string-orchestra",
+    "instrumentName": "String Orchestra",
+    "eventName": "String Orchestra",
+    "title": "Evening Glow",
+    "composer": "Rogers",
+    "arranger": "",
+    "publishers": [
+      "TUX Peoples Music"
+    ],
+    "publisherText": "TUX Peoples Music",
     "classLevel": 1,
     "specification": "",
     "noMemoryRequired": false,
@@ -30086,6 +31916,27 @@
     "sheetMusicAffiliateUrl": null,
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "926-1-41254",
+    "instrumentSlug": "string-orchestra",
+    "instrumentName": "String Orchestra",
+    "eventName": "String Orchestra",
+    "title": "Mystical Beasts",
+    "composer": "Sanguinito",
+    "arranger": "",
+    "publishers": [
+      "Grand Mesa Strings Publishing"
+    ],
+    "publisherText": "Grand Mesa Strings Publishing",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/mystical-beasts-11621740/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
     "uilCode": "926-1-31779",
@@ -30193,6 +32044,27 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "926-1-41262",
+    "instrumentSlug": "string-orchestra",
+    "instrumentName": "String Orchestra",
+    "eventName": "String Orchestra",
+    "title": "Black Bear Ballet",
+    "composer": "Sluder",
+    "arranger": "",
+    "publishers": [
+      "Grand Mesa Strings Publishing"
+    ],
+    "publisherText": "Grand Mesa Strings Publishing",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "926-1-40139",
     "instrumentSlug": "string-orchestra",
     "instrumentName": "String Orchestra",
@@ -30204,6 +32076,27 @@
       "Cane River Music"
     ],
     "publisherText": "Cane River Music",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "926-1-41261",
+    "instrumentSlug": "string-orchestra",
+    "instrumentName": "String Orchestra",
+    "eventName": "String Orchestra",
+    "title": "Fire and Ash",
+    "composer": "Sluder",
+    "arranger": "",
+    "publishers": [
+      "Tempo Press"
+    ],
+    "publisherText": "Tempo Press",
     "classLevel": 1,
     "specification": "",
     "noMemoryRequired": false,
@@ -30254,6 +32147,27 @@
     "sheetMusicAffiliateUrl": null,
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "926-1-41267",
+    "instrumentSlug": "string-orchestra",
+    "instrumentName": "String Orchestra",
+    "eventName": "String Orchestra",
+    "title": "Dark Currents",
+    "composer": "Standridge",
+    "arranger": "",
+    "publishers": [
+      "Randall Standridge Music"
+    ],
+    "publisherText": "Randall Standridge Music",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/dark-currents-11623406/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
     "uilCode": "926-1-40131",
@@ -30466,6 +32380,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "926-1-41270",
+    "instrumentSlug": "string-orchestra",
+    "instrumentName": "String Orchestra",
+    "eventName": "String Orchestra",
+    "title": "Kraken",
+    "composer": "Van Doren",
+    "arranger": "",
+    "publishers": [
+      "RWS Music Company"
+    ],
+    "publisherText": "RWS Music Company",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/kraken-11524059/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "926-1-28298",
     "instrumentSlug": "string-orchestra",
     "instrumentName": "String Orchestra",
@@ -30666,6 +32601,48 @@
       "Carl Fischer, Inc."
     ],
     "publisherText": "Carl Fischer, Inc.",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "926-1-41271",
+    "instrumentSlug": "string-orchestra",
+    "instrumentName": "String Orchestra",
+    "eventName": "String Orchestra",
+    "title": "Cha Cha Chango",
+    "composer": "Zamora",
+    "arranger": "",
+    "publishers": [
+      "Zamora Music"
+    ],
+    "publisherText": "Zamora Music",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/cha-cha-chango-10479309/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "926-1-41272",
+    "instrumentSlug": "string-orchestra",
+    "instrumentName": "String Orchestra",
+    "eventName": "String Orchestra",
+    "title": "Retro Romp",
+    "composer": "Zamora",
+    "arranger": "",
+    "publishers": [
+      "Zamora Music"
+    ],
+    "publisherText": "Zamora Music",
     "classLevel": 1,
     "specification": "",
     "noMemoryRequired": false,

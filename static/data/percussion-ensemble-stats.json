@@ -5,7 +5,7 @@
   "songCount": 1028,
   "publisherCount": 1030,
   "noteCount": 1,
-  "databaseRecordCount": 1029,
+  "databaseRecordCount": 1028,
   "classBreakdown": {
     "3": 211,
     "2": 279,
@@ -17,6 +17,6 @@
     "Percussion Ensemble": 1028
   },
   "notes": {
-    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-03-28T15:07:48.032147+00:00."
+    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-09-04T16:53:07.037674+00:00."
   }
 }

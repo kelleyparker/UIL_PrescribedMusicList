@@ -124,7 +124,7 @@ Code,Event Name,Title,Composer,Arranger,Publisher [Collection],Grade,Specificati
 272-1-37287,Double Reed Ensemble,Moto Perpetuo,Paganini,Glickman,TrevCo Music Publishing,1,BASSOON SEXTET
 272-1-37288,Double Reed Ensemble,Echo Sonata,Anonymous,Hawkins,TrevCo Music Publishing,1,BASSOON TRIO
 272-1-37289,Double Reed Ensemble,Chaconne,Bach,Glickman,TrevCo Music Publishing,1,BASSOON TRIO
-272-1-37290,Double Reed Ensemble,Symphonie Fantasique IV March,Berlioz,Schulz,TrevCo Music Publishing,1,"BASSOON QUARTET (3bsn, 1 cbsn) (Bassoon 4 may substitute for Contrabassoon)"
+272-1-37290,Double Reed Ensemble,Symphonie Fantasique IV March,Berlioz,Schulz,TrevCo Music Publishing,1,"BASSOON QUARTET (3 bsn, 1 cbsn) (Bassoon 4 may substitute for Contrabassoon)"
 272-1-37291,Double Reed Ensemble,L'Arlesienne Suite,Bizet,Glickman,TrevCo Music Publishing,1,BASSOON QUARTET (play one mvt)
 272-1-37292,Double Reed Ensemble,Le Phenix,Corrette,,TrevCo Music Publishing,1,BASSOON QUARTET
 272-2-37293,Double Reed Ensemble,Andkatyssa,Craypo,,Diabolical Genuis Publishing,2,BASSOON TRIO
@@ -139,3 +139,61 @@ Code,Event Name,Title,Composer,Arranger,Publisher [Collection],Grade,Specificati
 272-3-37303,Double Reed Ensemble,Tre Sinfonie,Rossi,Stickley/ed. Weiat,Chris Weait,3,BASSOON TRIO (play one mvt)
 272-3-37304,Double Reed Ensemble,Amazing Grace,Traditional,Weait,Chris Weait,3,BASSOON QUARTET
 272-3-37305,Double Reed Ensemble,Old English Songs,Traditional,Hall,Masters Music Publications,3,BASSOON TRIO
+272-1-41884,Double Reed Ensemble,Scherzo from Symphony in C,Bizet,Johnston,ALRY Publications,1,BASSOON OCTET
+272-1-41885,Double Reed Ensemble,Salve Regina,Gutierrez de Padilla,Johnston,ALRY Publications,1,BASSOON OCTET
+272-1-41886,Double Reed Ensemble,"Festgesang, Op. 68",Mendelssohn,Gregory,Any Publisher,1,BASSOON QUARTET
+272-1-41887,Double Reed Ensemble,Song of the Spirits,Schubert,Gregory,Any Publisher,1,BASSOON QUARTET
+272-1-41888,Double Reed Ensemble,Villanelle,Massenet,Gregory,Any Publisher,1,BASSOON QUARTET
+272-1-41889,Double Reed Ensemble,Introduction and Fugue,Mozart,Pappas,JPM Music Publications,1,BASSOON QUARTET
+272-1-41890,Double Reed Ensemble,La Marche des Fantoches en Bois,Paciorkiewicz,,International Music Diffusion,1,BASSOON QUARTET
+272-1-41891,Double Reed Ensemble,"Hunting Songs, Op. 137",Schumann,Gregory,Any Publisher,1,BASSOON QUARTET (play any four mvts)
+272-1-41892,Double Reed Ensemble,Third Concerto for Four,Vivaldi,Gregory,Any Publisher,1,BASSOON QUARTET (play any mvt EXCEPT 1st)
+272-1-41893,Double Reed Ensemble,Three Mini-Marches,Draganski,,ALRY Publications,1,BASSOON QUARTET (play any two mvts)
+272-1-41894,Double Reed Ensemble,Five Romances,Schumann,Gregory,Any Publisher,1,BASSOON QUARTET (play at least three mvts)
+272-1-41895,Double Reed Ensemble,"Six Lieder, Op. 33",Schumann,Gregory,Any Publisher,1,BASSOON QUARTET (play four mvts)
+272-1-41896,Double Reed Ensemble,"Concerto alla rustica, RV 151",Vivaldi,Gregory,Any Publisher,1,BASSOON QUARTET (play mvt 1)
+272-1-41897,Double Reed Ensemble,"Concerto for Four, #1",Telemann,Gregory,Any Publisher,1,BASSOON QUARTET (play mvt 2 OR 4)
+272-1-41898,Double Reed Ensemble,Messages,Lys,,International Music Diffusion,1,BASSOON QUARTET (play one mvt)
+272-1-41899,Double Reed Ensemble,Symphony No. 7: Allegretto,Beethoven,Coste,International Music Diffusion,1,BASSOON QUINTET
+272-1-41900,Double Reed Ensemble,Whisper Me Your Dreams,Graves,,Cimarron Music Press,1,BASSOON QUINTET
+272-1-41901,Double Reed Ensemble,The Marriage of Figaro Overture,Mozart,Johnston,ALRY Publications,1,BASSOON SEPTET (contra REQUIRED) (TIMPANI NOT ALLOWED)
+272-1-41902,Double Reed Ensemble,Salvation is Created,Chesnokov,Johnston,ALRY Publications,1,BASSOON SEXTET (contra REQUIRED)
+272-1-41903,Double Reed Ensemble,"Now Be Praised, BWV 41",Bach,Gregory,Any Publisher,1,BASSOON TRIO
+272-1-41904,Double Reed Ensemble,Three Renaissance Dances,Holborne,Gregory,Any Publisher,1,BASSOON TRIO
+272-1-41905,Double Reed Ensemble,Tres Musicos,Pappas,,JPM Music Publications,1,BASSOON TRIO
+272-1-41906,Double Reed Ensemble,"The Magic Bassoon, Act 1",Mozart,Simpson,Potenza Music,1,BASSOON TRIO (play at least three mvts)
+272-1-41907,Double Reed Ensemble,"The Magic Bassoon, Act 2",Mozart,Simpson,Potenza Music,1,BASSOON TRIO (play at least three mvts)
+272-1-41908,Double Reed Ensemble,"Concerto, RV 532",Vivaldi,Gregory,Any Publisher,1,BASSOON TRIO (play mvt 1 OR 2)
+272-1-41909,Double Reed Ensemble,Canon,Pachelbel,Marlatt,Eighth Note Publications,1,"QUARTET (2 ob, EH, bsn)"
+272-1-41910,Double Reed Ensemble,Jesu Joy of Man's Desiring,Bach,Marlatt,Eighth Note Publications,1,"QUARTET (2 ob, EH, bsn)"
+272-1-41911,Double Reed Ensemble,Little Fugue,Bach,Marlatt,Eighth Note Publications,1,"QUARTET (2 ob, EH, bsn)"
+272-1-41912,Double Reed Ensemble,"Renaissance and Baroque Suites for Flexible Quartets, Vol. 1",various,Opaskar,LudwigMasters Publications,1,QUARTET (any published combination) (play any four mvts from the same suite)
+272-1-41913,Double Reed Ensemble,"Renaissance and Baroque Suites for Flexible Quartets, Vol. 2",various,Opaskar,LudwigMasters Publications,1,QUARTET (any published combination) (play any four mvts from the same suite)
+272-1-41914,Double Reed Ensemble,"Renaissance and Baroque Suites for Flexible Quartets, Vol. 3",various,Opaskar,LudwigMasters Publications,1,QUARTET (any published combination) (play any four mvts from the same suite)
+272-1-41915,Double Reed Ensemble,Chorale and Fugue in F Major,Jackson,,Cimarron Music Press,1,"QUINTET (2 ob, EH, 2 bsn)"
+272-1-41916,Double Reed Ensemble,Danse Bacchanale,Saint-Saens,Steber,MKT Music Publications,1,"QUINTET or SEXTET (2 ob, EH, 2 bsn, OPT contra)"
+272-1-41917,Double Reed Ensemble,Paso Doble: Torero y Capote,Chaffin,,Sheet Music Direct,1,"SEPTET (3 ob, EH, 2 bsn, contra)"
+272-1-41918,Double Reed Ensemble,Suite,Cuong,,vietcoungmusic.com,1,"TRIO (2 ob, EH) (play 2nd OR 3rd mvt)"
+272-1-41919,Double Reed Ensemble,Parable of a Stormy Sea,Morris,,TrevCo Music Publishing,1,"TRIO (2 ob, EH) (play two mvts)"
+272-1-41920,Double Reed Ensemble,Baryton Trio #4,Haydn,Gibson,JPM Music Publications,1,"TRIO (ob, EH, bsn)"
+272-1-41921,Double Reed Ensemble,Art Music,Chaffin,,Sheet Music Direct,1,"TRIO (ob, EH, bsn) (play one mvt)"
+272-2-41922,Double Reed Ensemble,Les Maîtres Chanteurs de Nuremberg,Wagner,Fiat,International Music Diffusion,2,BASSOON QUARTET
+272-2-41923,Double Reed Ensemble,Stabat Mater,Gutierrez de Padilla,Johnston,ALRY Publications,2,BASSOON QUARTET
+272-2-41924,Double Reed Ensemble,The Four Jesters,Pappas,,JPM Music Publications,2,BASSOON QUARTET
+272-2-41925,Double Reed Ensemble,Two Folk Songs,Pappas,,JPM Music Publications,2,BASSOON QUARTET
+272-2-41926,Double Reed Ensemble,"Six Lieder, Op. 33",Schumann,Gregory,Any Publisher,2,BASSOON QUARTET (play any two mvts)
+272-2-41927,Double Reed Ensemble,"Concerto for Four, #1",Telemann,Gregory,Any Publisher,2,BASSOON QUARTET (play mvt 1)
+272-2-41928,Double Reed Ensemble,Five Romances,Schumann,Gregory,Any Publisher,2,BASSOON QUARTET (play mvt 3 OR 5)
+272-2-41929,Double Reed Ensemble,Reunion!,Graves,,Cimarron Music Press,2,BASSOON QUINTET
+272-2-41930,Double Reed Ensemble,Ave Verum Corpus,Mozart,May,Lost Key Music,2,"QUARTET (2 ob, 2 bsn)"
+272-2-41931,Double Reed Ensemble,Air on the G String,Bach,Marlatt,Eighth Note Publications,2,"QUARTET (2 ob, EH, bsn)"
+272-2-41932,Double Reed Ensemble,Ave Maria,Schubert,Marlatt,Eighth Note Publications,2,"QUARTET (2 ob, EH, bsn)"
+272-2-41933,Double Reed Ensemble,"Renaissance and Baroque Suites for Flexible Quartets, Vol. 1",various,Opaskar,LudwigMasters Publications,2,QUARTET (any published combination) (play two fast & 1 slow mvt from any suite)
+272-2-41934,Double Reed Ensemble,"Renaissance and Baroque Suites for Flexible Quartets, Vol. 2",various,Opaskar,LudwigMasters Publications,2,QUARTET (any published combination) (play two fast & 1 slow mvt from any suite)
+272-2-41935,Double Reed Ensemble,"Renaissance and Baroque Suites for Flexible Quartets, Vol. 3",various,Opaskar,LudwigMasters Publications,2,QUARTET (any published combination) (play two fast & 1 slow mvt from any suite)
+272-2-41936,Double Reed Ensemble,Baryton Trio #4,Haydn,Gibson,JPM Music Publications,2,"TRIO (ob, EH, bsn)"
+272-3-41937,Double Reed Ensemble,"Concerto for Four, #1",Telemann,Gregory,Any Publisher,3,BASSOON QUARTET (play mvt 3)
+272-3-41938,Double Reed Ensemble,Dance of the Kasmandl,Pappas,,JPM Music Publications,3,OBOE TRIO
+272-3-41939,Double Reed Ensemble,"Renaissance and Baroque Suites for Flexible Quartets, Vol. 1",various,Opaskar,LudwigMasters Publications,3,QUARTET (any published combination) (play 1st mvt from EITHER Suite 1 OR Suite 2)
+272-3-41940,Double Reed Ensemble,"Renaissance and Baroque Suites for Flexible Quartets, Vol. 2",various,Opaskar,LudwigMasters Publications,3,QUARTET (any published combination) (play 2nd OR 3rd mvt from Suite No.6)
+272-3-41941,Double Reed Ensemble,"Renaissance and Baroque Suites for Flexible Quartets, Vol. 3",various,Opaskar,LudwigMasters Publications,3,QUARTET (any published combination) (play 4th OR 6th mvt from Suite No.9)

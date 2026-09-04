@@ -5,7 +5,7 @@
   "songCount": 112,
   "publisherCount": 112,
   "noteCount": 1,
-  "databaseRecordCount": 113,
+  "databaseRecordCount": 112,
   "classBreakdown": {
     "3": 37,
     "2": 31,
@@ -17,6 +17,6 @@
     "Guitar Trio": 112
   },
   "notes": {
-    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-03-28T15:07:48.121380+00:00."
+    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-09-04T16:53:07.228409+00:00."
   }
 }

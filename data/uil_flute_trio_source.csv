@@ -34,7 +34,7 @@ Code,Event Name,Title,Composer,Arranger,Publisher [Collection],Grade,Specificati
 234-1-11573,Flute Trio,Grand Trio Eb Major,Walckiers,Maganini,"Edition Musicus-New York, Inc.",1,(play Moderato or Finale & Scherzo or Adagio) (no score available)
 234-1-11576,Flute Trio,Classic Fantasy,Waln,,Neil A. Kjos Music Company,1,
 234-1-11577,Flute Trio,Zwei Sonaten fur Drei Querfloten,Weidermann,,Amadeus Verlag,1,(play one entire Sonata)
-234-2-11578,Flute Trio,Prelude,Bach,Gearhart/Wilkins,Shawnee Press [Flute Sessions],2,
+234-2-11578,Flute Trio,Flute Sessions,various,Gearhart/Wilkins,Shawnee Press [Flute Sessions],2,(play Prelude (Bach) OR Trio (Mozart) OR Phantasm OR Allegro (Quantz))
 234-2-11580,Flute Trio,Theme and Variations Op. 25,Beethoven,Featherston,"Belwin, Inc",2,
 234-2-11579,Flute Trio,Menuet in G,Beethoven,McLin,Pro-Art Publications,2,
 234-2-11581,Flute Trio,Trio for Flutes Op. 51 No. 1,Berbiguier,,Southern Music Company;ALRY Publications,2,(play mvt 2)
@@ -57,7 +57,6 @@ Code,Event Name,Title,Composer,Arranger,Publisher [Collection],Grade,Specificati
 234-2-11599,Flute Trio,Sonata No. III (from Chamber Music for Three Flutes),Mattheson,Voxman,"Rubank, Inc.",2,
 234-2-11600,Flute Trio,Siciliano,McKay,,C.L. Barnhouse Company,2,
 234-2-11601,Flute Trio,Scherzino,Metzger,Voxman,"Rubank, Inc. [Chamber Music for Three Flutes]",2,
-234-2-11608,Flute Trio,Trio,Mozart,Gearhart/Wilkins,Shawnee Press [Flute Sessions],2,
 234-2-11602,Flute Trio,Allegro,Mozart,Guenther,Southern Music Company,2,
 234-2-11603,Flute Trio,Allegro and Menuetto,Mozart,Guenther,"Belwin, Inc",2,
 234-2-11604,Flute Trio,Larghetto and Menuetto,Mozart,Guenther,"Belwin, Inc",2,
@@ -68,8 +67,6 @@ Code,Event Name,Title,Composer,Arranger,Publisher [Collection],Grade,Specificati
 234-2-11610,Flute Trio,Two Moods,Niehaus,,RBC Publications,2,
 234-2-11611,Flute Trio,Spanish Rondo,Ostransky,,"Rubank, Inc.",2,
 234-2-11612,Flute Trio,Suite for Three Flutes,Presser,,Tenuto Publications,2,
-234-2-11613,Flute Trio,Phantasm,Prokofieff,Gearhart/Wilkins,Shawnee Press [Flute Sessions],2,
-234-2-11614,Flute Trio,Allegro,Quantz,Gearhart/Wilkins,Shawnee Press [Flute Sessions],2,
 234-2-11615,Flute Trio,Suite in D Major,Quantz,,Edition Kunzelman USA,2,(play two mvts)
 234-2-11617,Flute Trio,Capriccio for Three Flutes,Scarlatti,Morgan,Cimarron Music Press,2,(w/o repeats)
 234-2-11618,Flute Trio,Menuet Antique,Scheurer,Voxman,"Rubank, Inc. [Chamber Music for Three Flutes]",2,
@@ -82,7 +79,7 @@ Code,Event Name,Title,Composer,Arranger,Publisher [Collection],Grade,Specificati
 234-3-11626,Flute Trio,Sonata,Boismortier,,"Boosey & Hawkes, Inc.",3,(play Gavotte)
 234-3-11627,Flute Trio,Adagio,Corelli,Voxman,"Rubank, Inc. [Chamber Music for Three Flutes]",3,
 234-3-11628,Flute Trio,Wiegenlied,Anon. or Trad.,Engebretson,Ed Sueta Publications,3,
-234-3-11630,Flute Trio,March,Handel,Gearhart/Wilkins,Shawnee Press [Flute Sessions],3,
+234-3-11630,Flute Trio,Flute Sessions,various,Gearhart/Wilkins,Shawnee Press [Flute Sessions],3,(play March (Handel) OR Madrigal (Palestrina))
 234-3-11629,Flute Trio,Little Fugue,Handel,Schaeffer,Pro-Art Publications,3,
 234-3-11631,Flute Trio,March in Bb,Handel,Voxman,"Rubank, Inc. [Chamber Music for Three Flutes]",3,
 234-3-11633,Flute Trio,Menuet and Finale,Haydn,Merriman,C.L. Barnhouse Company,3,
@@ -90,7 +87,6 @@ Code,Event Name,Title,Composer,Arranger,Publisher [Collection],Grade,Specificati
 234-3-11634,Flute Trio,Four Seasons,McKay,,C.L. Barnhouse Company,3,(play mvts 2 & 3)
 234-3-11635,Flute Trio,Canon at the Second,Mozart,Voxman,"Rubank, Inc. [Chamber Music for Three Flutes]",3,
 234-3-11636,Flute Trio,Canon at the Unison and Octave,Mozart,Voxman,"Rubank, Inc. [Chamber Music for Three Flutes]",3,
-234-3-11638,Flute Trio,Madrigal,Palestrina,Gearhart/Wilkins,Shawnee Press [Flute Sessions],3,
 234-3-11639,Flute Trio,Gavotte (from Harpsichord Suite No. 5),Purcell,Vedeski,Medici Music Press,3,
 234-3-11640,Flute Trio,Largo and Minuetto,Quantz,Voxman,"Rubank, Inc. [Chamber Music for Three Flutes]",3,
 234-3-11641,Flute Trio,Two German Dances,Schubert,Voxman,"Rubank, Inc. [Chamber Music for Three Flutes]",3,
@@ -98,11 +94,11 @@ Code,Event Name,Title,Composer,Arranger,Publisher [Collection],Grade,Specificati
 234-1-12216,Flute Trio,Greensleeves Variations,Kibbe,,Shawnee Press,1,"(2 fl, alto fl)"
 234-2-26430,Flute Trio,Czech Suite,Blahnik,,"Alliance Publications, Inc.",2,
 234-2-26431,Flute Trio,Two Couperin Trios,Couperin,Frost,Great Works Publishing,2,
-234-2-26432,Flute Trio,Melody in F,Rubinstein,Lombardo,Lom,2,
+234-2-26432,Flute Trio,Melody in F,Rubinstein,Lombardo,Lombardo Music Publication,2,
 234-3-26433,Flute Trio,Simple Gifts,Anon. or Trad.,Halferty,"Kendor Music, Inc.",3,
-234-3-26434,Flute Trio,The Water is Wide,Anon. or Trad.,Lombardo,Lom,3,
-234-3-26435,Flute Trio,Scarborough Fair,Anon. or Trad.,Lombardo,Lom,3,
-234-3-26436,Flute Trio,Aura Lee,Anon. or Trad.,Lombardo,Lom,3,
+234-3-26434,Flute Trio,The Water is Wide,Anon. or Trad.,Lombardo,Lombardo Music Publication,3,
+234-3-26435,Flute Trio,Scarborough Fair,Anon. or Trad.,Lombardo,Lombardo Music Publication,3,
+234-3-26436,Flute Trio,Aura Lee,Anon. or Trad.,Lombardo,Lombardo Music Publication,3,
 234-1-31338,Flute Trio,Cancion Espanol,Giovannini,,RBC Publications,1,(play all)
 234-1-31339,Flute Trio,Flutes in the Garden,Schocker,,Presser,1,(play mvts 1 & 2 or mvts 3 & 4)
 234-1-34382,Flute Trio,Percolate,Chamberlain,,Spotted Rocket,1,
@@ -175,3 +171,7 @@ Code,Event Name,Title,Composer,Arranger,Publisher [Collection],Grade,Specificati
 234-3-38493,Flute Trio,What Child Is This,Traditional English Folk Song,Williams,Nigel Williams,3,
 234-3-38494,Flute Trio,The Kanons,Mozart,Perks,BRS Music,3,(play one Kanon)
 234-3-38495,Flute Trio,Four Folkish Dreams,Hoelscher,,The Telesterion,3,(play 2nd mvt)
+234-1-41841,Flute Trio,Elfentanz: Capriccio,Bolck,Marro,ALRY Publications,1,
+234-2-41842,Flute Trio,Rondo Fantasie on Themes by Charles Carter,Carter,Musella,ALRY Publications,2,
+234-2-41843,Flute Trio,Summer Suite,Zipin,,ALRY Publications,2,(play mvts 1 & 3)
+234-2-41844,Flute Trio,Irish Roundabout,Lendt,,JPM Music Publications,2,

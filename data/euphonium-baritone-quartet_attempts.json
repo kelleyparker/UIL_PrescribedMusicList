@@ -321,6 +321,10 @@
     "lastAttempted": "2026-03-28T14:13:15.597431+00:00",
     "matched": false
   },
+  "343-1-41969": {
+    "lastAttempted": "2026-09-04T16:52:31.801036+00:00",
+    "matched": false
+  },
   "343-2-24807": {
     "lastAttempted": "2026-03-28T14:12:19.245405+00:00",
     "matched": true,
@@ -522,6 +526,18 @@
     "lastAttempted": "2026-03-28T14:13:11.359195+00:00",
     "matched": true,
     "source": "JW Pepper link"
+  },
+  "343-2-41970": {
+    "lastAttempted": "2026-09-04T16:52:31.266497+00:00",
+    "matched": false
+  },
+  "343-2-41971": {
+    "lastAttempted": "2026-09-04T16:52:35.327740+00:00",
+    "matched": false
+  },
+  "343-2-41972": {
+    "lastAttempted": "2026-09-04T16:52:29.890458+00:00",
+    "matched": false
   },
   "343-3-24840": {
     "lastAttempted": "2026-03-28T14:12:20.722943+00:00",
@@ -749,6 +765,18 @@
   },
   "343-3-35771": {
     "lastAttempted": "2026-03-28T14:13:25.995976+00:00",
+    "matched": false
+  },
+  "343-3-41973": {
+    "lastAttempted": "2026-09-04T16:52:30.093341+00:00",
+    "matched": false
+  },
+  "343-3-41974": {
+    "lastAttempted": "2026-09-04T16:52:30.114543+00:00",
+    "matched": false
+  },
+  "343-3-41975": {
+    "lastAttempted": "2026-09-04T16:52:31.759315+00:00",
     "matched": false
   }
 }

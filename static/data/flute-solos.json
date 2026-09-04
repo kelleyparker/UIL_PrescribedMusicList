@@ -1,26 +1,5 @@
 [
   {
-    "uilCode": "202-3-36943",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Reflections",
-    "composer": "Albert",
-    "arranger": "",
-    "publishers": [
-      "Any Publisher"
-    ],
-    "publisherText": "Any Publisher",
-    "classLevel": 3,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/reflections-9560885/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
     "uilCode": "202-3-10299",
     "instrumentSlug": "flute",
     "instrumentName": "Flute Solos",
@@ -84,27 +63,6 @@
     "sheetMusicAffiliateSource": null
   },
   {
-    "uilCode": "202-3-23263",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Little Jig",
-    "composer": "Bach",
-    "arranger": "Guenther",
-    "publishers": [
-      "Belwin, Inc [Flute Solos Level 2]"
-    ],
-    "publisherText": "Belwin, Inc [Flute Solos Level 2]",
-    "classLevel": 3,
-    "specification": "(Giguetta)",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/bach-5976972/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
     "uilCode": "202-3-10300",
     "instrumentSlug": "flute",
     "instrumentName": "Flute Solos",
@@ -122,27 +80,6 @@
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/bach-5976972/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "202-3-23267",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Minuet",
-    "composer": "Bach",
-    "arranger": "Guenther",
-    "publishers": [
-      "Belwin, Inc [Flute Solos Level 2]"
-    ],
-    "publisherText": "Belwin, Inc [Flute Solos Level 2]",
-    "classLevel": 3,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/minuet-997338/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -171,34 +108,13 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
-    "uilCode": "202-3-23255",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "The St. Catherine Rigaudon",
-    "composer": "Barrett",
-    "arranger": "Dishinger",
-    "publishers": [
-      "Medici Music Press [Medici Masterworks Solos Volume I]"
-    ],
-    "publisherText": "Medici Music Press [Medici Masterworks Solos Volume I]",
-    "classLevel": 3,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": null,
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": null
-  },
-  {
     "uilCode": "202-3-10303",
     "instrumentSlug": "flute",
     "instrumentName": "Flute Solos",
     "eventName": "Flute Solo",
     "title": "Evening in the Country",
     "composer": "Bartok",
-    "arranger": "",
+    "arranger": "Harris",
     "publishers": [
       "Ludwig Music Publishing Company"
     ],
@@ -211,111 +127,6 @@
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/bartok-suite-2376614/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "202-3-10304",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Minuet",
-    "composer": "Beethoven",
-    "arranger": "Perry",
-    "publishers": [
-      "Rudall, Carte and Company [Classical Album for Flute and Piano]"
-    ],
-    "publisherText": "Rudall, Carte and Company [Classical Album for Flute and Piano]",
-    "classLevel": 3,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/minuet-11589705/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "202-3-23271",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Two Dances",
-    "composer": "Beethoven",
-    "arranger": "Guenther",
-    "publishers": [
-      "Belwin, Inc [Flute Solos Level 2]"
-    ],
-    "publisherText": "Belwin, Inc [Flute Solos Level 2]",
-    "classLevel": 3,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": null,
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": null
-  },
-  {
-    "uilCode": "202-3-23275",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Echoes",
-    "composer": "Billingsley",
-    "arranger": "Hahn/Lamb",
-    "publishers": [
-      "Belwin, Inc [Solo Sounds for Flute Volume I, Levels 1-3]"
-    ],
-    "publisherText": "Belwin, Inc [Solo Sounds for Flute Volume I, Levels 1-3]",
-    "classLevel": 3,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/echoes-11409485/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "202-3-23273",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Morning Mist",
-    "composer": "Billingsley",
-    "arranger": "Hahn/Lamb",
-    "publishers": [
-      "Belwin, Inc [Solo Sounds for Flute Volume I, Levels 1-3]"
-    ],
-    "publisherText": "Belwin, Inc [Solo Sounds for Flute Volume I, Levels 1-3]",
-    "classLevel": 3,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/morning-mist-10312626/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "202-3-23272",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Summer Song",
-    "composer": "Billingsley",
-    "arranger": "Hahn/Lamb",
-    "publishers": [
-      "Belwin, Inc [Solo Sounds for Flute Volume I, Levels 1-3]"
-    ],
-    "publisherText": "Belwin, Inc [Solo Sounds for Flute Volume I, Levels 1-3]",
-    "classLevel": 3,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": null,
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": null
   },
   {
     "uilCode": "202-3-10305",
@@ -335,48 +146,6 @@
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/simply-bizet-11177561/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "202-3-23284",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Les Tendres Badinages (from Sonata No. 6)",
-    "composer": "Blavet",
-    "arranger": "Wye",
-    "publishers": [
-      "J&W Chester, Ltd. [Flute Solos Volume II]"
-    ],
-    "publisherText": "J&W Chester, Ltd. [Flute Solos Volume II]",
-    "classLevel": 3,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": null,
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": null
-  },
-  {
-    "uilCode": "202-3-29654",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Polovetzian Dance (from Act II of Prince Igor)",
-    "composer": "Borodin",
-    "arranger": "Conley",
-    "publishers": [
-      "Kendor Music, Inc."
-    ],
-    "publisherText": "Kendor Music, Inc.",
-    "classLevel": 3,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/polovetzian-dance-4863817/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -435,34 +204,13 @@
     ],
     "publisherText": "Alphonse Leduc",
     "classLevel": 3,
-    "specification": "(play # 3 or # 4)",
+    "specification": "(play any two pieces)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": null,
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": null
-  },
-  {
-    "uilCode": "202-3-26341",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Waltz",
-    "composer": "Brahms",
-    "arranger": "",
-    "publishers": [
-      "Carl Fischer, Inc. [Solos for Flute 36 Repertoire Pieces]"
-    ],
-    "publisherText": "Carl Fischer, Inc. [Solos for Flute 36 Repertoire Pieces]",
-    "classLevel": 3,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/waltz-11589247/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
     "uilCode": "202-3-10309",
@@ -507,90 +255,6 @@
     "sheetMusicAffiliateSource": null
   },
   {
-    "uilCode": "202-3-23268",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Nocturn in Eb",
-    "composer": "Chopin",
-    "arranger": "Steensland/Guenther",
-    "publishers": [
-      "Belwin, Inc [Flute Solos Level 2]"
-    ],
-    "publisherText": "Belwin, Inc [Flute Solos Level 2]",
-    "classLevel": 3,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": null,
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": null
-  },
-  {
-    "uilCode": "202-3-10316",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Ayre",
-    "composer": "Clarke",
-    "arranger": "Dishinger",
-    "publishers": [
-      "Medici Music Press [Medici Masterworks Solos Volume I]"
-    ],
-    "publisherText": "Medici Music Press [Medici Masterworks Solos Volume I]",
-    "classLevel": 3,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/ayre-8602707/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "202-3-36944",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Two Pieces",
-    "composer": "Cooke",
-    "arranger": "",
-    "publishers": [
-      "Novello Publications Inc. [A Very Easy 20th Century Album]"
-    ],
-    "publisherText": "Novello Publications Inc. [A Very Easy 20th Century Album]",
-    "classLevel": 3,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": null,
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": null
-  },
-  {
-    "uilCode": "202-3-26343",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Gigue",
-    "composer": "Corelli",
-    "arranger": "",
-    "publishers": [
-      "Carl Fischer, Inc. [Solos for Flute 36 Repertoire Pieces]"
-    ],
-    "publisherText": "Carl Fischer, Inc. [Solos for Flute 36 Repertoire Pieces]",
-    "classLevel": 3,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/gigue-4595302/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
     "uilCode": "202-3-10311",
     "instrumentSlug": "flute",
     "instrumentName": "Flute Solos",
@@ -604,48 +268,6 @@
     "publisherText": "Edition Musicus-New York, Inc.",
     "classLevel": 3,
     "specification": "(play one mvt, except 4)",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": null,
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": null
-  },
-  {
-    "uilCode": "202-3-10312",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Le Bavolet Flottant",
-    "composer": "Couperin",
-    "arranger": "Perry",
-    "publishers": [
-      "Rudall, Carte and Company [Classical Album for Flute and Piano]"
-    ],
-    "publisherText": "Rudall, Carte and Company [Classical Album for Flute and Piano]",
-    "classLevel": 3,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/le-bavolet-flottant-4885703/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "202-3-26344",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Thu Sau",
-    "composer": "Cummings",
-    "arranger": "",
-    "publishers": [
-      "Trigram Music Inc."
-    ],
-    "publisherText": "Trigram Music Inc.",
-    "classLevel": 3,
-    "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -718,132 +340,6 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
-    "uilCode": "202-3-10315",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Petite Piece",
-    "composer": "Debussy",
-    "arranger": "Ephross",
-    "publishers": [
-      "Southern Music Company"
-    ],
-    "publisherText": "Southern Music Company",
-    "classLevel": 3,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/petite-piece-7887656/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "202-3-36945",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Dorest Street and Sun Shower",
-    "composer": "Dick",
-    "arranger": "",
-    "publishers": [
-      "Novello Publications Inc. [A Very Easy 20th Century Album]"
-    ],
-    "publisherText": "Novello Publications Inc. [A Very Easy 20th Century Album]",
-    "classLevel": 3,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": null,
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": null
-  },
-  {
-    "uilCode": "202-3-36946",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Heard on the Breeze and Marionette",
-    "composer": "Dodgson",
-    "arranger": "",
-    "publishers": [
-      "Novello Publications Inc. [A Very Easy 20th Century Album]"
-    ],
-    "publisherText": "Novello Publications Inc. [A Very Easy 20th Century Album]",
-    "classLevel": 3,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": null,
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": null
-  },
-  {
-    "uilCode": "202-3-23285",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Adagio Nobile",
-    "composer": "Donjon",
-    "arranger": "Wye",
-    "publishers": [
-      "J&W Chester, Ltd. [Flute Solos Volume II]"
-    ],
-    "publisherText": "J&W Chester, Ltd. [Flute Solos Volume II]",
-    "classLevel": 3,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/romantic-miniatures-vol-2-10467508/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "202-3-10317",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Puppet Parade",
-    "composer": "Edelson",
-    "arranger": "",
-    "publishers": [
-      "C&E Enterprises"
-    ],
-    "publisherText": "C&E Enterprises",
-    "classLevel": 3,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/puppet-parade-5277108/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "202-3-23288",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Scherzando (from Sonata No. 6)",
-    "composer": "Eichner",
-    "arranger": "Wye",
-    "publishers": [
-      "J&W Chester, Ltd. [Flute Solos Volume II]"
-    ],
-    "publisherText": "J&W Chester, Ltd. [Flute Solos Volume II]",
-    "classLevel": 3,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/scherzando-5990281/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
     "uilCode": "202-3-10318",
     "instrumentSlug": "flute",
     "instrumentName": "Flute Solos",
@@ -865,44 +361,44 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
-    "uilCode": "202-3-23276",
+    "uilCode": "202-3-41772",
     "instrumentSlug": "flute",
     "instrumentName": "Flute Solos",
     "eventName": "Flute Solo",
-    "title": "The Peasant Dance",
-    "composer": "Garrett",
-    "arranger": "Weber/Lamb",
-    "publishers": [
-      "Belwin, Inc [Solo Sounds for Flute Volume I, Levels 1-3]"
-    ],
-    "publisherText": "Belwin, Inc [Solo Sounds for Flute Volume I, Levels 1-3]",
-    "classLevel": 3,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": null,
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": null
-  },
-  {
-    "uilCode": "202-3-10319",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Gavotte (from Armide)",
-    "composer": "Gluck",
+    "title": "Devotion",
+    "composer": "Gazlay",
     "arranger": "",
     "publishers": [
-      "G. Schirmer, Inc."
+      "JW Pepper"
     ],
-    "publisherText": "G. Schirmer, Inc.",
+    "publisherText": "JW Pepper",
     "classLevel": 3,
     "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/gavotte-4880506/p",
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/devotion-11659157/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "202-3-41773",
+    "instrumentSlug": "flute",
+    "instrumentName": "Flute Solos",
+    "eventName": "Flute Solo",
+    "title": "Hallowed",
+    "composer": "Gazlay",
+    "arranger": "",
+    "publishers": [
+      "JW Pepper"
+    ],
+    "publisherText": "JW Pepper",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/hallowed-11666132/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -951,27 +447,6 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
-    "uilCode": "202-3-23261",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Elf Dance",
-    "composer": "Grieg",
-    "arranger": "Steensland/Guenther",
-    "publishers": [
-      "Belwin, Inc [Flute Solos Level 2]"
-    ],
-    "publisherText": "Belwin, Inc [Flute Solos Level 2]",
-    "classLevel": 3,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/play-grieg-10056145/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
     "uilCode": "202-3-29660",
     "instrumentSlug": "flute",
     "instrumentName": "Flute Solos",
@@ -1012,90 +487,6 @@
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/canzona-4028387/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "202-3-23262",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Erin's Song",
-    "composer": "Guenther",
-    "arranger": "",
-    "publishers": [
-      "Belwin, Inc [Flute Solos Level 2]"
-    ],
-    "publisherText": "Belwin, Inc [Flute Solos Level 2]",
-    "classLevel": 3,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/erins-song-flute-solo-2082840/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "202-3-23269",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Reverie",
-    "composer": "Guenther",
-    "arranger": "",
-    "publishers": [
-      "Belwin, Inc [Flute Solos Level 2]"
-    ],
-    "publisherText": "Belwin, Inc [Flute Solos Level 2]",
-    "classLevel": 3,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/reverie-11668457/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "202-3-23270",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Spanish Folk Song",
-    "composer": "Guenther",
-    "arranger": "",
-    "publishers": [
-      "Belwin, Inc [Flute Solos Level 2]"
-    ],
-    "publisherText": "Belwin, Inc [Flute Solos Level 2]",
-    "classLevel": 3,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/classic-festival-solos-5297668/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "202-3-36947",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Day Dreaming and Arietta",
-    "composer": "Hand",
-    "arranger": "",
-    "publishers": [
-      "Novello Publications Inc. [A Very Easy 20th Century Album]"
-    ],
-    "publisherText": "Novello Publications Inc. [A Very Easy 20th Century Album]",
-    "classLevel": 3,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": null,
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": null
   },
   {
     "uilCode": "202-3-10324",
@@ -1162,27 +553,6 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
-    "uilCode": "202-3-23258",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Gavotte (from Sonata No. 7)",
-    "composer": "Handel",
-    "arranger": "Dishinger",
-    "publishers": [
-      "Medici Music Press [Medici Masterworks Solos Volume I]"
-    ],
-    "publisherText": "Medici Music Press [Medici Masterworks Solos Volume I]",
-    "classLevel": 3,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/gavotte-4882338/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
     "uilCode": "202-3-10327",
     "instrumentSlug": "flute",
     "instrumentName": "Flute Solos",
@@ -1203,27 +573,6 @@
     "sheetMusicAffiliateUrl": null,
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": null
-  },
-  {
-    "uilCode": "202-3-10368",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Andante",
-    "composer": "Harmston",
-    "arranger": "Wye",
-    "publishers": [
-      "J&W Chester, Ltd. [Flute Solos Volume II]"
-    ],
-    "publisherText": "J&W Chester, Ltd. [Flute Solos Volume II]",
-    "classLevel": 3,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/andante-11629035e/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
     "uilCode": "202-3-10328",
@@ -1269,27 +618,6 @@
     "sheetMusicAffiliateSource": null
   },
   {
-    "uilCode": "202-3-10330",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Serenade",
-    "composer": "Haydn",
-    "arranger": "Perry",
-    "publishers": [
-      "Rudall, Carte and Company [Classical Album for Flute and Piano]"
-    ],
-    "publisherText": "Rudall, Carte and Company [Classical Album for Flute and Piano]",
-    "classLevel": 3,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/serenade-9551971/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
     "uilCode": "202-3-10331",
     "instrumentSlug": "flute",
     "instrumentName": "Flute Solos",
@@ -1332,27 +660,6 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
-    "uilCode": "202-3-36948",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Rumba and What The Tree Told Me",
-    "composer": "Horovitz",
-    "arranger": "",
-    "publishers": [
-      "Novello Publications Inc. [A Very Easy 20th Century Album]"
-    ],
-    "publisherText": "Novello Publications Inc. [A Very Easy 20th Century Album]",
-    "classLevel": 3,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": null,
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": null
-  },
-  {
     "uilCode": "202-3-10333",
     "instrumentSlug": "flute",
     "instrumentName": "Flute Solos",
@@ -1370,69 +677,6 @@
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/wintersong-11392315e/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "202-3-23289",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Cradle Song",
-    "composer": "Jacob",
-    "arranger": "Wye",
-    "publishers": [
-      "J&W Chester, Ltd. [Flute Solos Volume II]"
-    ],
-    "publisherText": "J&W Chester, Ltd. [Flute Solos Volume II]",
-    "classLevel": 3,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/cradle-song-11646684e/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "202-3-10334",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Chanson Triste",
-    "composer": "Kalinnikow",
-    "arranger": "",
-    "publishers": [
-      "Edition Musicus-New York, Inc."
-    ],
-    "publisherText": "Edition Musicus-New York, Inc.",
-    "classLevel": 3,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": null,
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": null
-  },
-  {
-    "uilCode": "202-3-10335",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Fourteen Pieces for Flute and Piano",
-    "composer": "Koechlin",
-    "arranger": "",
-    "publishers": [
-      "Salabert, Inc."
-    ],
-    "publisherText": "Salabert, Inc.",
-    "classLevel": 3,
-    "specification": "(play three)",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/flute-de-pan-flute-piano-7393341/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -1458,216 +702,6 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
-    "uilCode": "202-3-10338",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Andantino",
-    "composer": "Lewallen",
-    "arranger": "",
-    "publishers": [
-      "Belwin, Inc"
-    ],
-    "publisherText": "Belwin, Inc",
-    "classLevel": 3,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/andantino-10751681e/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "202-3-23278",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Andantino",
-    "composer": "Lewallen",
-    "arranger": "Lamb",
-    "publishers": [
-      "Belwin, Inc [Solo Sounds for Flute Volume I, Levels 1-3]"
-    ],
-    "publisherText": "Belwin, Inc [Solo Sounds for Flute Volume I, Levels 1-3]",
-    "classLevel": 3,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/andantino-10751681e/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "202-3-23279",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Country Dance",
-    "composer": "Lewallen",
-    "arranger": "Lamb",
-    "publishers": [
-      "Belwin, Inc [Solo Sounds for Flute Volume I, Levels 1-3]"
-    ],
-    "publisherText": "Belwin, Inc [Solo Sounds for Flute Volume I, Levels 1-3]",
-    "classLevel": 3,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/classic-festival-solos-5297668/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "202-3-23281",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Notturno",
-    "composer": "Lewallen",
-    "arranger": "Lamb",
-    "publishers": [
-      "Belwin, Inc [Solo Sounds for Flute Volume I, Levels 1-3]"
-    ],
-    "publisherText": "Belwin, Inc [Solo Sounds for Flute Volume I, Levels 1-3]",
-    "classLevel": 3,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/notturno-4584629/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "202-3-10337",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Poeme Petite",
-    "composer": "Lewallen",
-    "arranger": "Lamb",
-    "publishers": [
-      "Belwin, Inc [Solo Sounds for Flute Volume I, Levels 1-3]"
-    ],
-    "publisherText": "Belwin, Inc [Solo Sounds for Flute Volume I, Levels 1-3]",
-    "classLevel": 3,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/classic-festival-solos-5297668/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "202-3-23257",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Courante",
-    "composer": "Lully",
-    "arranger": "Dishinger",
-    "publishers": [
-      "Medici Music Press [Medici Masterworks Solos Volume I]"
-    ],
-    "publisherText": "Medici Music Press [Medici Masterworks Solos Volume I]",
-    "classLevel": 3,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/courante-11134383e/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "202-3-10342",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Sonata XII",
-    "composer": "Marcello",
-    "arranger": "Slater",
-    "publishers": [
-      "Oxford University Press"
-    ],
-    "publisherText": "Oxford University Press",
-    "classLevel": 3,
-    "specification": "(play mvts 1 & 2 or 3 & 4)",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": null,
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": null
-  },
-  {
-    "uilCode": "202-3-10341",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Sonata in F",
-    "composer": "Marcello",
-    "arranger": "Slater",
-    "publishers": [
-      "Oxford University Press"
-    ],
-    "publisherText": "Oxford University Press",
-    "classLevel": 3,
-    "specification": "(play last two mvts)",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": null,
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": null
-  },
-  {
-    "uilCode": "202-3-23259",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "La Voltigeuse (from Three Small Pieces for Piano)",
-    "composer": "Marpurg",
-    "arranger": "Dishinger",
-    "publishers": [
-      "Medici Music Press [Medici Masterworks Solos Volume I]"
-    ],
-    "publisherText": "Medici Music Press [Medici Masterworks Solos Volume I]",
-    "classLevel": 3,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": null,
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": null
-  },
-  {
-    "uilCode": "202-3-23274",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "On Wings of Song",
-    "composer": "Mendelssohn",
-    "arranger": "Weber/Lamb",
-    "publishers": [
-      "Belwin, Inc [Solo Sounds for Flute Volume I, Levels 1-3]"
-    ],
-    "publisherText": "Belwin, Inc [Solo Sounds for Flute Volume I, Levels 1-3]",
-    "classLevel": 3,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": null,
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": null
-  },
-  {
     "uilCode": "202-3-10343",
     "instrumentSlug": "flute",
     "instrumentName": "Flute Solos",
@@ -1690,69 +724,6 @@
     "sheetMusicAffiliateSource": null
   },
   {
-    "uilCode": "202-3-10344",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "The Kerry Dance",
-    "composer": "Molloy",
-    "arranger": "Rubin",
-    "publishers": [
-      "JTL Publications, G. Scott Music Publishing Co."
-    ],
-    "publisherText": "JTL Publications, G. Scott Music Publishing Co.",
-    "classLevel": 3,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": null,
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": null
-  },
-  {
-    "uilCode": "202-3-29666",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Rondeau",
-    "composer": "Mouret",
-    "arranger": "Conley",
-    "publishers": [
-      "Kendor Music, Inc."
-    ],
-    "publisherText": "Kendor Music, Inc.",
-    "classLevel": 3,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/rondeau-8603135/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "202-3-10345",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Adagio",
-    "composer": "Mozart",
-    "arranger": "Lentz",
-    "publishers": [
-      "Belwin, Inc"
-    ],
-    "publisherText": "Belwin, Inc",
-    "classLevel": 3,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/adagio-10609296/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
     "uilCode": "202-3-10346",
     "instrumentSlug": "flute",
     "instrumentName": "Flute Solos",
@@ -1770,90 +741,6 @@
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/allegretto-2051159/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "202-3-23283",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Allegro (from Sonata in G)",
-    "composer": "Mozart",
-    "arranger": "Wye",
-    "publishers": [
-      "J&W Chester, Ltd. [Flute Solos Volume II]"
-    ],
-    "publisherText": "J&W Chester, Ltd. [Flute Solos Volume II]",
-    "classLevel": 3,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/allegro-9519066/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "202-3-10347",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Andante (from Piano Sonata No. 1)",
-    "composer": "Mozart",
-    "arranger": "Isaac",
-    "publishers": [
-      "Carl Fischer, Inc."
-    ],
-    "publisherText": "Carl Fischer, Inc.",
-    "classLevel": 3,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/andante-4880902/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "202-3-23260",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Cradle Song",
-    "composer": "Mozart",
-    "arranger": "Guenther",
-    "publishers": [
-      "Belwin, Inc [Flute Solos Level 2]"
-    ],
-    "publisherText": "Belwin, Inc [Flute Solos Level 2]",
-    "classLevel": 3,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/cradle-song-11646684e/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "202-3-23266",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Melody (from Don Giovanni)",
-    "composer": "Mozart",
-    "arranger": "Steensland/Guenther",
-    "publishers": [
-      "Belwin, Inc [Flute Solos Level 2]"
-    ],
-    "publisherText": "Belwin, Inc [Flute Solos Level 2]",
-    "classLevel": 3,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/melody-11601710/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -1901,69 +788,6 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
-    "uilCode": "202-3-23287",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Minuets I and II (from Sonata No. 5 in C)",
-    "composer": "Mozart",
-    "arranger": "Wye",
-    "publishers": [
-      "J&W Chester, Ltd. [Flute Solos Volume II]"
-    ],
-    "publisherText": "J&W Chester, Ltd. [Flute Solos Volume II]",
-    "classLevel": 3,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/magic-flute-flute-piano-7864226/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "202-3-10351",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Emily's Caprice",
-    "composer": "Niehaus",
-    "arranger": "",
-    "publishers": [
-      "Kendor Music, Inc."
-    ],
-    "publisherText": "Kendor Music, Inc.",
-    "classLevel": 3,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/emilys-caprice-clarinet-piano-5243092/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "202-3-10352",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Timepiece",
-    "composer": "Niehaus",
-    "arranger": "",
-    "publishers": [
-      "Kendor Music, Inc."
-    ],
-    "publisherText": "Kendor Music, Inc.",
-    "classLevel": 3,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/timepiece-5252788/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
     "uilCode": "202-3-10353",
     "instrumentSlug": "flute",
     "instrumentName": "Flute Solos",
@@ -1983,27 +807,6 @@
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/pergolesi-se-tu-mami-10052080/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "202-3-10354",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Rebekah's Song",
-    "composer": "Pethel",
-    "arranger": "",
-    "publishers": [
-      "Kendor Music, Inc."
-    ],
-    "publisherText": "Kendor Music, Inc.",
-    "classLevel": 3,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": null,
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": null
   },
   {
     "uilCode": "202-3-10355",
@@ -2048,48 +851,6 @@
     "sheetMusicAffiliateSource": null
   },
   {
-    "uilCode": "202-3-10357",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "100 Tunes to Play, Book 8-Bach",
-    "composer": "Pont",
-    "arranger": "",
-    "publishers": [
-      "Oxford University Press"
-    ],
-    "publisherText": "Oxford University Press",
-    "classLevel": 3,
-    "specification": "(play two contrasting)",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": null,
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": null
-  },
-  {
-    "uilCode": "202-3-23256",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Tambourin (from Pieces de Clavecin)",
-    "composer": "Rameau",
-    "arranger": "Dishinger",
-    "publishers": [
-      "Medici Music Press [Medici Masterworks Solos Volume I]"
-    ],
-    "publisherText": "Medici Music Press [Medici Masterworks Solos Volume I]",
-    "classLevel": 3,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/tambourin-10679241e/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
     "uilCode": "202-3-10358",
     "instrumentSlug": "flute",
     "instrumentName": "Flute Solos",
@@ -2109,69 +870,6 @@
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/pavane-pour-une-infante-defunte-9558126/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "202-3-36949",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Suite: Dawn Until Night",
-    "composer": "Ridout",
-    "arranger": "",
-    "publishers": [
-      "Novello Publications Inc. [A Very Easy 20th Century Album]"
-    ],
-    "publisherText": "Novello Publications Inc. [A Very Easy 20th Century Album]",
-    "classLevel": 3,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": null,
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": null
-  },
-  {
-    "uilCode": "202-3-23264",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Melodie",
-    "composer": "Rubenstein",
-    "arranger": "Guenther",
-    "publishers": [
-      "Belwin, Inc [Flute Solos Level 2]"
-    ],
-    "publisherText": "Belwin, Inc [Flute Solos Level 2]",
-    "classLevel": 3,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/melodie-995910/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "202-3-10359",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "The Swan",
-    "composer": "Saint-Saens",
-    "arranger": "Finno",
-    "publishers": [
-      "Kendor Music, Inc."
-    ],
-    "publisherText": "Kendor Music, Inc.",
-    "classLevel": 3,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": null,
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": null
   },
   {
     "uilCode": "202-3-10360",
@@ -2234,69 +932,6 @@
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/serenade-11585160/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "202-3-10363",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Three Themes (from Franz Schubert)",
-    "composer": "Schubert",
-    "arranger": "",
-    "publishers": [
-      "Carl Fischer, Inc."
-    ],
-    "publisherText": "Carl Fischer, Inc.",
-    "classLevel": 3,
-    "specification": "(play two)",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/three-themes-9548344/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "202-3-23265",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Melody",
-    "composer": "Schumann",
-    "arranger": "Guenther",
-    "publishers": [
-      "Belwin, Inc [Flute Solos Level 2]"
-    ],
-    "publisherText": "Belwin, Inc [Flute Solos Level 2]",
-    "classLevel": 3,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/melody-11601710/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "202-3-23282",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Adobe",
-    "composer": "Sumerlin",
-    "arranger": "Lamb",
-    "publishers": [
-      "Belwin, Inc [Solo Sounds for Flute Volume I, Levels 1-3]"
-    ],
-    "publisherText": "Belwin, Inc [Solo Sounds for Flute Volume I, Levels 1-3]",
-    "classLevel": 3,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/adobe-4584223/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -2368,15 +1003,15 @@
     "instrumentSlug": "flute",
     "instrumentName": "Flute Solos",
     "eventName": "Flute Solo",
-    "title": "Be Thou My Vision",
+    "title": "Ten Sacred Songs",
     "composer": "Traditional",
     "arranger": "Frackenpohl",
     "publishers": [
-      "Kendor Music, Inc."
+      "Kendor Music, Inc. [Ten Sacred Songs]"
     ],
-    "publisherText": "Kendor Music, Inc.",
+    "publisherText": "Kendor Music, Inc. [Ten Sacred Songs]",
     "classLevel": 3,
-    "specification": "",
+    "specification": "(play Be Thou My Vision)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -2427,69 +1062,6 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
-    "uilCode": "202-3-23286",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Allegro (from Sonata No. 2)",
-    "composer": "Vivaldi",
-    "arranger": "Wye",
-    "publishers": [
-      "J&W Chester, Ltd. [Flute Solos Volume II]"
-    ],
-    "publisherText": "J&W Chester, Ltd. [Flute Solos Volume II]",
-    "classLevel": 3,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/allegro-9552047/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "202-3-23277",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Album Leaf",
-    "composer": "Walker",
-    "arranger": "Lamb",
-    "publishers": [
-      "Belwin, Inc [Solo Sounds for Flute Volume I, Levels 1-3]"
-    ],
-    "publisherText": "Belwin, Inc [Solo Sounds for Flute Volume I, Levels 1-3]",
-    "classLevel": 3,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/album-leaf-6047260/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "202-3-23280",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Autumn Leaves",
-    "composer": "Weber",
-    "arranger": "Lamb",
-    "publishers": [
-      "Belwin, Inc [Solo Sounds for Flute Volume I, Levels 1-3]"
-    ],
-    "publisherText": "Belwin, Inc [Solo Sounds for Flute Volume I, Levels 1-3]",
-    "classLevel": 3,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/autumn-leaves-3255536/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
     "uilCode": "202-3-10367",
     "instrumentSlug": "flute",
     "instrumentName": "Flute Solos",
@@ -2507,6 +1079,48 @@
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/pavane-4583068/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "202-3-26341",
+    "instrumentSlug": "flute",
+    "instrumentName": "Flute Solos",
+    "eventName": "Flute Solo",
+    "title": "36 Repertoire Pieces (Solos for Flute)",
+    "composer": "various",
+    "arranger": "",
+    "publishers": [
+      "Carl Fischer, Inc. [Solos for Flute 36 Repertoire Pieces]"
+    ],
+    "publisherText": "Carl Fischer, Inc. [Solos for Flute 36 Repertoire Pieces]",
+    "classLevel": 3,
+    "specification": "(play Waltz OR Gigue)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/waltz-11589247/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "202-3-10304",
+    "instrumentSlug": "flute",
+    "instrumentName": "Flute Solos",
+    "eventName": "Flute Solo",
+    "title": "Classical Album for Flute and Piano",
+    "composer": "various",
+    "arranger": "Perry",
+    "publishers": [
+      "Boosey & Hawkes, Inc. [Classical Album for Flute and Piano]"
+    ],
+    "publisherText": "Boosey & Hawkes, Inc. [Classical Album for Flute and Piano]",
+    "classLevel": 3,
+    "specification": "(play Minuet OR Le Bavolet Flottant OR Serenade)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/minuet-11589705/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -2532,6 +1146,48 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "202-3-10323",
+    "instrumentSlug": "flute",
+    "instrumentName": "Flute Solos",
+    "eventName": "Flute Solo",
+    "title": "Flute Solos Level Two",
+    "composer": "various",
+    "arranger": "Steensland/Guenther",
+    "publishers": [
+      "Belwin, Inc [Flute Solos Level 2]"
+    ],
+    "publisherText": "Belwin, Inc [Flute Solos Level 2]",
+    "classLevel": 3,
+    "specification": "(play one solo)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "202-3-23289",
+    "instrumentSlug": "flute",
+    "instrumentName": "Flute Solos",
+    "eventName": "Flute Solo",
+    "title": "Flute Solos Volume II",
+    "composer": "various",
+    "arranger": "Wye",
+    "publishers": [
+      "J&W Chester, Ltd. [Flute Solos Volume II]"
+    ],
+    "publisherText": "J&W Chester, Ltd. [Flute Solos Volume II]",
+    "classLevel": 3,
+    "specification": "(play Cradle Song)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/cradle-song-11646684e/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "202-3-36950",
     "instrumentSlug": "flute",
     "instrumentName": "Flute Solos",
@@ -2553,25 +1209,88 @@
     "sheetMusicAffiliateSource": null
   },
   {
-    "uilCode": "202-3-10323",
+    "uilCode": "202-3-10359",
     "instrumentSlug": "flute",
     "instrumentName": "Flute Solos",
     "eventName": "Flute Solo",
-    "title": "Ballet of the Shepherds",
-    "composer": "von Gluck",
-    "arranger": "Steensland/Guenther",
+    "title": "Kendor Recital Solos, Volume 2",
+    "composer": "various",
+    "arranger": "",
     "publishers": [
-      "Belwin, Inc [Flute Solos Level 2]"
+      "Kendor Music, Inc. [Kendor Recital Solos, Volume 2]"
     ],
-    "publisherText": "Belwin, Inc [Flute Solos Level 2]",
+    "publisherText": "Kendor Music, Inc. [Kendor Recital Solos, Volume 2]",
     "classLevel": 3,
-    "specification": "",
+    "specification": "(play The Swan OR Rondeau)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": null,
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "202-3-10316",
+    "instrumentSlug": "flute",
+    "instrumentName": "Flute Solos",
+    "eventName": "Flute Solo",
+    "title": "Medici Masterworks Solos, Volume One",
+    "composer": "various",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press [Medici Masterworks Solos Volume I]"
+    ],
+    "publisherText": "Medici Music Press [Medici Masterworks Solos Volume I]",
+    "classLevel": 3,
+    "specification": "(play any one solo)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/ayre-8602707/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "202-3-10337",
+    "instrumentSlug": "flute",
+    "instrumentName": "Flute Solos",
+    "eventName": "Flute Solo",
+    "title": "Solo Sounds for Flute, Volume I, Levels 1-3",
+    "composer": "various",
+    "arranger": "Lamb",
+    "publishers": [
+      "Belwin, Inc [Solo Sounds for Flute Volume I, Levels 1-3]"
+    ],
+    "publisherText": "Belwin, Inc [Solo Sounds for Flute Volume I, Levels 1-3]",
+    "classLevel": 3,
+    "specification": "(play any one EXCEPT Blues in F OR either Fiesta)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/classic-festival-solos-5297668/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "202-3-41771",
+    "instrumentSlug": "flute",
+    "instrumentName": "Flute Solos",
+    "eventName": "Flute Solo",
+    "title": "Sound Innovations Soloist for Intermediate Musicians",
+    "composer": "various",
+    "arranger": "",
+    "publishers": [
+      "Alfred Music Company, Inc."
+    ],
+    "publisherText": "Alfred Music Company, Inc.",
+    "classLevel": 3,
+    "specification": "(play any solo)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/intermediate-jazz-conception-10035014/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
     "uilCode": "202-2-36912",
@@ -2658,95 +1377,11 @@
     "sheetMusicAffiliateSource": null
   },
   {
-    "uilCode": "202-2-36915",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "The Day Before",
-    "composer": "Albert",
-    "arranger": "",
-    "publishers": [
-      "Any Publisher"
-    ],
-    "publisherText": "Any Publisher",
-    "classLevel": 2,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": null,
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": null
-  },
-  {
-    "uilCode": "202-2-32182",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Alla Mazurka Op. 24 No. 3",
-    "composer": "Andersen",
-    "arranger": "Robison",
-    "publishers": [
-      "European American [AndersenCollection]"
-    ],
-    "publisherText": "European American [AndersenCollection]",
-    "classLevel": 2,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": null,
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": null
-  },
-  {
-    "uilCode": "202-2-32183",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Barcarolle Op. 24 No. 4",
-    "composer": "Andersen",
-    "arranger": "Robison",
-    "publishers": [
-      "European American [AndersenCollection]"
-    ],
-    "publisherText": "European American [AndersenCollection]",
-    "classLevel": 2,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": null,
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": null
-  },
-  {
-    "uilCode": "202-2-32184",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Chant Pastorale Op. 24 No. 1",
-    "composer": "Andersen",
-    "arranger": "Robison",
-    "publishers": [
-      "European American [AndersenCollection]"
-    ],
-    "publisherText": "European American [AndersenCollection]",
-    "classLevel": 2,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": null,
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": null
-  },
-  {
     "uilCode": "202-2-10216",
     "instrumentSlug": "flute",
     "instrumentName": "Flute Solos",
     "eventName": "Flute Solo",
-    "title": "Legende",
+    "title": "Legende, Op. 55, No. 5",
     "composer": "Andersen",
     "arranger": "Ephross",
     "publishers": [
@@ -2761,6 +1396,27 @@
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/legende-5145594/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "202-2-32182",
+    "instrumentSlug": "flute",
+    "instrumentName": "Flute Solos",
+    "eventName": "Flute Solo",
+    "title": "The Andersen Collection",
+    "composer": "Andersen",
+    "arranger": "Robison",
+    "publishers": [
+      "European American [AndersenCollection]"
+    ],
+    "publisherText": "European American [AndersenCollection]",
+    "classLevel": 2,
+    "specification": "(play Alla Mazurka OR Barcarolle OR Chant Pastorale)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
   },
   {
     "uilCode": "202-2-10217",
@@ -2806,53 +1462,11 @@
     "sheetMusicAffiliateSource": null
   },
   {
-    "uilCode": "202-2-26333",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Arioso",
-    "composer": "Bach",
-    "arranger": "",
-    "publishers": [
-      "Carl Fischer, Inc. [Solos for Flute 36 Repertoire Pieces]"
-    ],
-    "publisherText": "Carl Fischer, Inc. [Solos for Flute 36 Repertoire Pieces]",
-    "classLevel": 2,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/arioso-1002609/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "202-2-26334",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Siciliano",
-    "composer": "Bach",
-    "arranger": "",
-    "publishers": [
-      "Carl Fischer, Inc. [Solos for Flute 36 Repertoire Pieces]"
-    ],
-    "publisherText": "Carl Fischer, Inc. [Solos for Flute 36 Repertoire Pieces]",
-    "classLevel": 2,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/siciliano-10826669e/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
     "uilCode": "202-2-10220",
     "instrumentSlug": "flute",
     "instrumentName": "Flute Solos",
     "eventName": "Flute Solo",
-    "title": "Sonata II",
+    "title": "Sonata II BWV 1031 in E-flat Major",
     "composer": "Bach",
     "arranger": "",
     "publishers": [
@@ -2860,7 +1474,7 @@
     ],
     "publisherText": "Southern Music Company",
     "classLevel": 2,
-    "specification": "(play mvt 1)",
+    "specification": "(play 1st mvt)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -2934,67 +1548,25 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
-    "uilCode": "202-2-36918",
+    "uilCode": "202-2-41768",
     "instrumentSlug": "flute",
     "instrumentName": "Flute Solos",
     "eventName": "Flute Solo",
-    "title": "Andante",
-    "composer": "Barthe",
+    "title": "Mohawk Valley (Part 6 from \"Iroquois Suite\")",
+    "composer": "Beeftink",
     "arranger": "",
     "publishers": [
-      "Southern Music Company [Paris Conservatory Flute Album]"
+      "Elite Source Music"
     ],
-    "publisherText": "Southern Music Company [Paris Conservatory Flute Album]",
+    "publisherText": "Elite Source Music",
     "classLevel": 2,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/andante-4880902/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "202-2-36917",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Andantino con moto",
-    "composer": "Barthe",
-    "arranger": "",
-    "publishers": [
-      "Southern Music Company [Paris Conservatory Flute Album]"
-    ],
-    "publisherText": "Southern Music Company [Paris Conservatory Flute Album]",
-    "classLevel": 2,
-    "specification": "",
+    "specification": "(may be performed on alto flute)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": null,
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": null
-  },
-  {
-    "uilCode": "202-2-36919",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Moderato",
-    "composer": "Barthe",
-    "arranger": "",
-    "publishers": [
-      "Southern Music Company [Paris Conservatory Flute Album]"
-    ],
-    "publisherText": "Southern Music Company [Paris Conservatory Flute Album]",
-    "classLevel": 2,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/moderato-10326093e/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
     "uilCode": "202-2-10222",
@@ -3086,7 +1658,7 @@
     "instrumentSlug": "flute",
     "instrumentName": "Flute Solos",
     "eventName": "Flute Solo",
-    "title": "Romance",
+    "title": "Three Venezuelan Pieces, Vol. 2",
     "composer": "Calca\u00f1o",
     "arranger": "",
     "publishers": [
@@ -3145,27 +1717,6 @@
     "sheetMusicAffiliateSource": null
   },
   {
-    "uilCode": "202-2-36925",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Andantino",
-    "composer": "Cohen",
-    "arranger": "",
-    "publishers": [
-      "Southern Music Company [Paris Conservatory Flute Album]"
-    ],
-    "publisherText": "Southern Music Company [Paris Conservatory Flute Album]",
-    "classLevel": 2,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/andantino-10751681e/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
     "uilCode": "202-2-38390",
     "instrumentSlug": "flute",
     "instrumentName": "Flute Solos",
@@ -3185,27 +1736,6 @@
     "sheetMusicAffiliateUrl": null,
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": null
-  },
-  {
-    "uilCode": "202-2-36926",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Allegretto",
-    "composer": "Colin",
-    "arranger": "",
-    "publishers": [
-      "Southern Music Company [Paris Conservatory Flute Album]"
-    ],
-    "publisherText": "Southern Music Company [Paris Conservatory Flute Album]",
-    "classLevel": 2,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/allegretto-10561629/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
     "uilCode": "202-2-10227",
@@ -3250,6 +1780,48 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "202-2-10315",
+    "instrumentSlug": "flute",
+    "instrumentName": "Flute Solos",
+    "eventName": "Flute Solo",
+    "title": "Petite Piece",
+    "composer": "Debussy",
+    "arranger": "Ephross",
+    "publishers": [
+      "Southern Music Company"
+    ],
+    "publisherText": "Southern Music Company",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/petite-piece-9547683/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "202-2-41770",
+    "instrumentSlug": "flute",
+    "instrumentName": "Flute Solos",
+    "eventName": "Flute Solo",
+    "title": "Hide and Seek",
+    "composer": "Dennee",
+    "arranger": "Steber",
+    "publishers": [
+      "MKT Music Publications"
+    ],
+    "publisherText": "MKT Music Publications",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "202-2-10230",
     "instrumentSlug": "flute",
     "instrumentName": "Flute Solos",
@@ -3268,90 +1840,6 @@
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/romantic-miniatures-vol-2-10467508/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "202-2-36928",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Allegretto",
-    "composer": "Dubois",
-    "arranger": "",
-    "publishers": [
-      "Southern Music Company [Paris Conservatory Flute Album]"
-    ],
-    "publisherText": "Southern Music Company [Paris Conservatory Flute Album]",
-    "classLevel": 2,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/allegretto-10561629/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "202-2-36929",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Allegretto Moderato",
-    "composer": "Duprato",
-    "arranger": "",
-    "publishers": [
-      "Southern Music Company [Paris Conservatory Flute Album]"
-    ],
-    "publisherText": "Southern Music Company [Paris Conservatory Flute Album]",
-    "classLevel": 2,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": null,
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": null
-  },
-  {
-    "uilCode": "202-2-36930",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Allegretto and Allegretto Moderato",
-    "composer": "Duvernoy",
-    "arranger": "",
-    "publishers": [
-      "Southern Music Company [Paris Conservatory Flute Album]"
-    ],
-    "publisherText": "Southern Music Company [Paris Conservatory Flute Album]",
-    "classLevel": 2,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/flute-music-by-french-composers-956771/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "202-2-26346",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Berceuse",
-    "composer": "Faure",
-    "arranger": "",
-    "publishers": [
-      "Carl Fischer, Inc. [Solos for Flute 36 Repertoire Pieces]"
-    ],
-    "publisherText": "Carl Fischer, Inc. [Solos for Flute 36 Repertoire Pieces]",
-    "classLevel": 2,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/berceuse-9539518/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -3441,6 +1929,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "202-2-10237",
+    "instrumentSlug": "flute",
+    "instrumentName": "Flute Solos",
+    "eventName": "Flute Solo",
+    "title": "Deux Esquisses (Two Sketches)",
+    "composer": "Gaubert",
+    "arranger": "",
+    "publishers": [
+      "Heugel & Company"
+    ],
+    "publisherText": "Heugel & Company",
+    "classLevel": 2,
+    "specification": "(play either sketch)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/orientale-11635124/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "202-2-10236",
     "instrumentSlug": "flute",
     "instrumentName": "Flute Solos",
@@ -3458,48 +1967,6 @@
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/madrigal-5822325/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "202-2-10237",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Orientale",
-    "composer": "Gaubert",
-    "arranger": "",
-    "publishers": [
-      "Heugel & Company"
-    ],
-    "publisherText": "Heugel & Company",
-    "classLevel": 2,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/orientale-11635124/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "202-2-10238",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Soir Sur La Plaine",
-    "composer": "Gaubert",
-    "arranger": "",
-    "publishers": [
-      "Heugel & Company"
-    ],
-    "publisherText": "Heugel & Company",
-    "classLevel": 2,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/soir-sur-la-plaine-4777140/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -3569,28 +2036,6 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
-    "uilCode": "202-2-26350",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Tambourin",
-    "composer": "Gossec",
-    "arranger": "",
-    "publishers": [
-      "Carl Fischer, Inc. [Solos for Flute 36 Repertoire Pieces]",
-      "Excelcia"
-    ],
-    "publisherText": "Carl Fischer, Inc. [Solos for Flute 36 Repertoire Pieces];Excelcia",
-    "classLevel": 2,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/tambourin-10679241e/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
     "uilCode": "202-2-10243",
     "instrumentSlug": "flute",
     "instrumentName": "Flute Solos",
@@ -3624,7 +2069,7 @@
     ],
     "publisherText": "Southern Music Company",
     "classLevel": 2,
-    "specification": "(play mvts 1 & 2 or 3 & 4)",
+    "specification": "(play mvts 1 & 2 OR 3 & 4)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -3673,27 +2118,6 @@
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/griffins-grand-entry-10527576/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "202-2-36932",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Allegretto Scherzando",
-    "composer": "Guiraud",
-    "arranger": "",
-    "publishers": [
-      "Southern Music Company [Paris Conservatory Flute Album]"
-    ],
-    "publisherText": "Southern Music Company [Paris Conservatory Flute Album]",
-    "classLevel": 2,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": null,
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": null
   },
   {
     "uilCode": "202-2-10246",
@@ -3893,6 +2317,27 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "202-2-41769",
+    "instrumentSlug": "flute",
+    "instrumentName": "Flute Solos",
+    "eventName": "Flute Solo",
+    "title": "Reflections",
+    "composer": "Hoover",
+    "arranger": "",
+    "publishers": [
+      "Papagena Press"
+    ],
+    "publisherText": "Papagena Press",
+    "classLevel": 2,
+    "specification": "(unaccomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/reflections-5119268/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "202-2-10264",
     "instrumentSlug": "flute",
     "instrumentName": "Flute Solos",
@@ -3936,6 +2381,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "202-2-10335",
+    "instrumentSlug": "flute",
+    "instrumentName": "Flute Solos",
+    "eventName": "Flute Solo",
+    "title": "Fourteen Pieces for Flute and Piano",
+    "composer": "Koechlin",
+    "arranger": "",
+    "publishers": [
+      "Salabert, Inc."
+    ],
+    "publisherText": "Salabert, Inc.",
+    "classLevel": 2,
+    "specification": "(play three)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/flute-de-pan-flute-piano-7393341/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "202-2-32185",
     "instrumentSlug": "flute",
     "instrumentName": "Flute Solos",
@@ -3962,7 +2428,7 @@
     "instrumentName": "Flute Solos",
     "eventName": "Flute Solo",
     "title": "Piece Romantique",
-    "composer": "LeFevre",
+    "composer": "Lefebvre",
     "arranger": "Waln",
     "publishers": [
       "Neil A. Kjos Music Company"
@@ -3976,6 +2442,27 @@
     "sheetMusicAffiliateUrl": null,
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "202-2-10338",
+    "instrumentSlug": "flute",
+    "instrumentName": "Flute Solos",
+    "eventName": "Flute Solo",
+    "title": "Andantino",
+    "composer": "Lewallen",
+    "arranger": "",
+    "publishers": [
+      "Belwin, Inc"
+    ],
+    "publisherText": "Belwin, Inc",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/andantino-5131339/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
     "uilCode": "202-2-32186",
@@ -4041,6 +2528,48 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "202-2-10342",
+    "instrumentSlug": "flute",
+    "instrumentName": "Flute Solos",
+    "eventName": "Flute Solo",
+    "title": "Sonata XII",
+    "composer": "Marcello",
+    "arranger": "Slater",
+    "publishers": [
+      "Oxford University Press"
+    ],
+    "publisherText": "Oxford University Press",
+    "classLevel": 2,
+    "specification": "(play mvts 1 & 2 OR 3 & 4)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "202-2-10341",
+    "instrumentSlug": "flute",
+    "instrumentName": "Flute Solos",
+    "eventName": "Flute Solo",
+    "title": "Sonata in F",
+    "composer": "Marcello",
+    "arranger": "",
+    "publishers": [
+      "Oxford University Press"
+    ],
+    "publisherText": "Oxford University Press",
+    "classLevel": 2,
+    "specification": "(play last two mvts)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "202-2-10266",
     "instrumentSlug": "flute",
     "instrumentName": "Flute Solos",
@@ -4085,27 +2614,6 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
-    "uilCode": "202-2-36936",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Allegretto",
-    "composer": "Marty",
-    "arranger": "",
-    "publishers": [
-      "Southern Music Company [Paris Conservatory Flute Album]"
-    ],
-    "publisherText": "Southern Music Company [Paris Conservatory Flute Album]",
-    "classLevel": 2,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/allegretto-11581149/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
     "uilCode": "202-2-10267",
     "instrumentSlug": "flute",
     "instrumentName": "Flute Solos",
@@ -4125,6 +2633,48 @@
     "sheetMusicAffiliateUrl": null,
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "202-2-10345",
+    "instrumentSlug": "flute",
+    "instrumentName": "Flute Solos",
+    "eventName": "Flute Solo",
+    "title": "Adagio",
+    "composer": "Mozart",
+    "arranger": "Lentz",
+    "publishers": [
+      "Belwin, Inc"
+    ],
+    "publisherText": "Belwin, Inc",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/adagio-11692049/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "202-2-10347",
+    "instrumentSlug": "flute",
+    "instrumentName": "Flute Solos",
+    "eventName": "Flute Solo",
+    "title": "Andante (from Piano Sonata No. 1)",
+    "composer": "Mozart",
+    "arranger": "Isaac",
+    "publishers": [
+      "Carl Fischer, Inc."
+    ],
+    "publisherText": "Carl Fischer, Inc.",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/andante-11629035e/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
     "uilCode": "202-2-32187",
@@ -4212,48 +2762,6 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
-    "uilCode": "202-2-10273",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Sonatine I",
-    "composer": "Mozart",
-    "arranger": "",
-    "publishers": [
-      "C.F. Peters Corporation [Sonatinen fur Blockflote und cembalo]"
-    ],
-    "publisherText": "C.F. Peters Corporation [Sonatinen fur Blockflote und cembalo]",
-    "classLevel": 2,
-    "specification": "(play two mvts)",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": null,
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": null
-  },
-  {
-    "uilCode": "202-2-10274",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Sonatine II",
-    "composer": "Mozart",
-    "arranger": "",
-    "publishers": [
-      "C.F. Peters Corporation [Sonatinen fur Blockflote und cembalo]"
-    ],
-    "publisherText": "C.F. Peters Corporation [Sonatinen fur Blockflote und cembalo]",
-    "classLevel": 2,
-    "specification": "(play two mvts)",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": null,
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": null
-  },
-  {
     "uilCode": "202-2-36937",
     "instrumentSlug": "flute",
     "instrumentName": "Flute Solos",
@@ -4288,27 +2796,6 @@
     "publisherText": "American Composers Alliance [Flute Works by American Composers]",
     "classLevel": 2,
     "specification": "(unaccomp)",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": null,
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": null
-  },
-  {
-    "uilCode": "202-2-36939",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Allegretto moderato",
-    "composer": "Paladilhe",
-    "arranger": "",
-    "publishers": [
-      "Southern Music Company [Paris Conservatory Flute Album]"
-    ],
-    "publisherText": "Southern Music Company [Paris Conservatory Flute Album]",
-    "classLevel": 2,
-    "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -4372,7 +2859,7 @@
     ],
     "publisherText": "G. Schirmer, Inc. [Flute Music of the Baroque]",
     "classLevel": 2,
-    "specification": "(play mvts 1 & 2 or 3 & 4)",
+    "specification": "(play mvts 1 & 2 OR 3 & 4)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -4400,27 +2887,6 @@
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/sonata-11640400/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "202-2-36940",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Tres doux et tres tranquille",
-    "composer": "Pugno",
-    "arranger": "",
-    "publishers": [
-      "Southern Music Company [Paris Conservatory Flute Album]"
-    ],
-    "publisherText": "Southern Music Company [Paris Conservatory Flute Album]",
-    "classLevel": 2,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": null,
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": null
   },
   {
     "uilCode": "202-2-10279",
@@ -4504,27 +2970,6 @@
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/mead-and-mush-11356331/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "202-2-26360",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Romance",
-    "composer": "Schumann",
-    "arranger": "",
-    "publishers": [
-      "Carl Fischer, Inc. [Solos for Flute 36 Repertoire Pieces]"
-    ],
-    "publisherText": "Carl Fischer, Inc. [Solos for Flute 36 Repertoire Pieces]",
-    "classLevel": 2,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/romance-11593172/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -4699,27 +3144,6 @@
     "sheetMusicAffiliateSource": null
   },
   {
-    "uilCode": "202-2-36942",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Allegro Moderato",
-    "composer": "Vidal",
-    "arranger": "",
-    "publishers": [
-      "Southern Music Company [Paris Conservatory Flute Album]"
-    ],
-    "publisherText": "Southern Music Company [Paris Conservatory Flute Album]",
-    "classLevel": 2,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": null,
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": null
-  },
-  {
     "uilCode": "202-2-10294",
     "instrumentSlug": "flute",
     "instrumentName": "Flute Solos",
@@ -4850,46 +3274,88 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
-    "uilCode": "202-1-36840",
+    "uilCode": "202-2-26333",
     "instrumentSlug": "flute",
     "instrumentName": "Flute Solos",
     "eventName": "Flute Solo",
-    "title": "Two Skazkas",
-    "composer": "Al-Ahmad",
+    "title": "36 Repertoire Pieces (Solos for Flute)",
+    "composer": "various",
     "arranger": "",
     "publishers": [
-      "Theodore Presser Company"
+      "Carl Fischer, Inc. [Solos for Flute 36 Repertoire Pieces]"
     ],
-    "publisherText": "Theodore Presser Company",
-    "classLevel": 1,
-    "specification": "(play one mvt)",
+    "publisherText": "Carl Fischer, Inc. [Solos for Flute 36 Repertoire Pieces]",
+    "classLevel": 2,
+    "specification": "(play Arioso OR Siciliano OR Berceuse OR Romance OR Tambourin)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/two-skazkas-10992357/p",
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/arioso-1002609/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
-    "uilCode": "202-1-36841",
+    "uilCode": "202-2-36944",
     "instrumentSlug": "flute",
     "instrumentName": "Flute Solos",
     "eventName": "Flute Solo",
-    "title": "Acadian Dreams",
-    "composer": "Albert",
-    "arranger": "",
+    "title": "A Very Easy 20th Century Album",
+    "composer": "various",
+    "arranger": "Wye",
     "publishers": [
-      "Any Publisher"
+      "Novello Publications Inc. [A Very Easy 20th Century Album]"
     ],
-    "publisherText": "Any Publisher",
-    "classLevel": 1,
-    "specification": "",
+    "publisherText": "Novello Publications Inc. [A Very Easy 20th Century Album]",
+    "classLevel": 2,
+    "specification": "(play any one solo)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/acadian-dreams-11404109/p",
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "202-2-10368",
+    "instrumentSlug": "flute",
+    "instrumentName": "Flute Solos",
+    "eventName": "Flute Solo",
+    "title": "Flute Solos Volume II",
+    "composer": "various",
+    "arranger": "Wye",
+    "publishers": [
+      "J&W Chester, Ltd. [Flute Solos Volume II]"
+    ],
+    "publisherText": "J&W Chester, Ltd. [Flute Solos Volume II]",
+    "classLevel": 2,
+    "specification": "(play one solo EXCEPT Cradle Song, Rossini Theme, & Tempo Giusto)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/classical-solos-10461614/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "202-2-36917",
+    "instrumentSlug": "flute",
+    "instrumentName": "Flute Solos",
+    "eventName": "Flute Solo",
+    "title": "Paris Conservatory Flute Album",
+    "composer": "various",
+    "arranger": "",
+    "publishers": [
+      "Southern Music Company [Paris Conservatory Flute Album]"
+    ],
+    "publisherText": "Southern Music Company [Paris Conservatory Flute Album]",
+    "classLevel": 2,
+    "specification": "(play any one solo EXCEPT Allegretto Scherzando (Guiraud); Modere (Pierne) OR Andantino (Mouquet))",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
   },
   {
     "uilCode": "202-1-38382",
@@ -4911,48 +3377,6 @@
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/acadian-dreams-11404109/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "202-1-36842",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Rememberances",
-    "composer": "Albert",
-    "arranger": "",
-    "publishers": [
-      "Any Publisher"
-    ],
-    "publisherText": "Any Publisher",
-    "classLevel": 1,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": null,
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": null
-  },
-  {
-    "uilCode": "202-1-32935",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Herdsmaidens' Dance",
-    "composer": "Alfven",
-    "arranger": "",
-    "publishers": [
-      "Just Flutes [Three Swedish Pieces]"
-    ],
-    "publisherText": "Just Flutes [Three Swedish Pieces]",
-    "classLevel": 1,
-    "specification": "(play all)",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": null,
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": null
   },
   {
     "uilCode": "202-1-36843",
@@ -4997,27 +3421,6 @@
     "sheetMusicAffiliateSource": null
   },
   {
-    "uilCode": "202-1-32936",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Six Pieces (Sechs Stucke)",
-    "composer": "Amirov",
-    "arranger": "",
-    "publishers": [
-      "Edition Sikorski"
-    ],
-    "publisherText": "Edition Sikorski",
-    "classLevel": 1,
-    "specification": "(play any 3 mvts.)",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": null,
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": null
-  },
-  {
     "uilCode": "202-1-32938",
     "instrumentSlug": "flute",
     "instrumentName": "Flute Solos",
@@ -5030,29 +3433,8 @@
     ],
     "publisherText": "Paterson's Publications",
     "classLevel": 1,
-    "specification": "(play mvt. 1 or mvts. 2 & 3)",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": null,
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": null
-  },
-  {
-    "uilCode": "202-1-32937",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Concerto en Sol",
-    "composer": "Arrieu",
-    "arranger": "",
-    "publishers": [
-      "Editions Amphion"
-    ],
-    "publisherText": "Editions Amphion",
-    "classLevel": 1,
-    "specification": "(play mvt. 1 or mvts. 2 & 3)",
-    "noMemoryRequired": false,
+    "specification": "NMR:(play 1st mvt OR 2nd & 3rd)",
+    "noMemoryRequired": true,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": null,
@@ -5081,71 +3463,6 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
-    "uilCode": "202-1-36846",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Flute Concerto",
-    "composer": "Avshalamov",
-    "arranger": "",
-    "publishers": [
-      "American Composers Alliance"
-    ],
-    "publisherText": "American Composers Alliance",
-    "classLevel": 1,
-    "specification": "(play one mvt)",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/flute-concerto-flute-piano-7170087/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "202-1-32932",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "6 Sonatas (Wq 125, 126, 127, 129, 130, 134)",
-    "composer": "Bach, C.P.E.",
-    "arranger": "",
-    "publishers": [
-      "Any Publisher"
-    ],
-    "publisherText": "Any Publisher",
-    "classLevel": 1,
-    "specification": "(play 1 complete sonata)",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/sonatas-5138367/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "202-1-32931",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Concerto in d minor (Wq. 22, HWV 426 or 484.1)",
-    "composer": "Bach, C.P.E.",
-    "arranger": "",
-    "publishers": [
-      "International Music Company",
-      "G. Henle Verlag/USA, Inc.",
-      "Kunzelmann"
-    ],
-    "publisherText": "International Music Company;G. Henle Verlag/USA, Inc.;Kunzelmann",
-    "classLevel": 1,
-    "specification": "(play mvt. 2 or 3) NMR:(play mvt. 1)",
-    "noMemoryRequired": true,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/bach-5976972/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
     "uilCode": "202-1-10098",
     "instrumentSlug": "flute",
     "instrumentName": "Flute Solos",
@@ -5159,7 +3476,7 @@
     ],
     "publisherText": "Schott Company;Southern Music Company",
     "classLevel": 1,
-    "specification": "(play all)",
+    "specification": "(play 1st OR 2nd mvt)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -5180,32 +3497,11 @@
     ],
     "publisherText": "Any Publisher",
     "classLevel": 1,
-    "specification": "(unaccomp) (play any 2 mvts.)",
+    "specification": "(unaccomp) (play any two mvts)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/bach-5976972/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "202-1-32933",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Partita in a minor (BWV 1013) (Solo Sonata)",
-    "composer": "Bach, J.S.",
-    "arranger": "",
-    "publishers": [
-      "Any Publisher"
-    ],
-    "publisherText": "Any Publisher",
-    "classLevel": 1,
-    "specification": "(play mvt. 1 (Allemande) and one other mvt.) (unaccomp) NMR:(play mvt. 1 and one other mvt.)",
-    "noMemoryRequired": true,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/partita-in-a-minor-bwv-1013-10397808/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -5273,27 +3569,6 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
-    "uilCode": "202-1-32934",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Sonata in b minor, BWV 1030 (SMC - Sonata I)",
-    "composer": "Bach, J.S.",
-    "arranger": "",
-    "publishers": [
-      "Any Publisher"
-    ],
-    "publisherText": "Any Publisher",
-    "classLevel": 1,
-    "specification": "(play mvt. 1 or mvts. 2 & 3) NMR:(play mvt. 1 or mvts. 2 & 3)",
-    "noMemoryRequired": true,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/sonata-in-g-minor-bwv-1030a-10489462/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
     "uilCode": "202-1-10090",
     "instrumentSlug": "flute",
     "instrumentName": "Flute Solos",
@@ -5327,7 +3602,7 @@
     ],
     "publisherText": "Any Publisher",
     "classLevel": 1,
-    "specification": "(play mvts 1 & 2 or 2 & 3)",
+    "specification": "(play mvts 1 & 2 OR 2 & 3)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -5353,27 +3628,6 @@
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/suite-in-b-minor-bwv1067-flute-pf-5827365/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "202-1-36847",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Left Behind",
-    "composer": "Bassingthwaighte",
-    "arranger": "",
-    "publishers": [
-      "ALRY Publications [21st Century Masterworks]"
-    ],
-    "publisherText": "ALRY Publications [21st Century Masterworks]",
-    "classLevel": 1,
-    "specification": "(unaccomp)",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/left-behind-90524923e/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -5420,49 +3674,6 @@
     "sheetMusicAffiliateSource": null
   },
   {
-    "uilCode": "202-1-32940",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Concerto in a minor",
-    "composer": "Blavet",
-    "arranger": "",
-    "publishers": [
-      "Broekmans & Van Poppel",
-      "International Music Company"
-    ],
-    "publisherText": "Broekmans & Van Poppel;International Music Company",
-    "classLevel": 1,
-    "specification": "(play mvt. 1 or last mvt.)",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": null,
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": null
-  },
-  {
-    "uilCode": "202-1-36850",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Murali",
-    "composer": "Bliss",
-    "arranger": "",
-    "publishers": [
-      "American Composers Alliance [Flute Works by American Composers]"
-    ],
-    "publisherText": "American Composers Alliance [Flute Works by American Composers]",
-    "classLevel": 1,
-    "specification": "(unaccomp)",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/murali-10367885/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
     "uilCode": "202-1-10101",
     "instrumentSlug": "flute",
     "instrumentName": "Flute Solos",
@@ -5475,7 +3686,7 @@
     ],
     "publisherText": "Broude Brothers",
     "classLevel": 1,
-    "specification": "(play mvts 1 & 3 or mvt 4)",
+    "specification": "(play mvts 1 & 3 OR mvt 4)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -5497,7 +3708,7 @@
     ],
     "publisherText": "Southern Music Company;International Music Company",
     "classLevel": 1,
-    "specification": "(play mvt 1. or mvt. 3)",
+    "specification": "(play mvt 1 OR mvt 3)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -5518,13 +3729,35 @@
     ],
     "publisherText": "Hal Leonard Music, Inc.",
     "classLevel": 1,
-    "specification": "(play mvt. 1, or mvt. 2, or mvt. 4)",
+    "specification": "(play 1st OR 2nd OR 4th mvt)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/suite-for-flute-and-jazz-piano-4952552/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "202-1-41761",
+    "instrumentSlug": "flute",
+    "instrumentName": "Flute Solos",
+    "eventName": "Flute Solo",
+    "title": "Sonata in D Major, Op. 1, Vol. 2, No. 4",
+    "composer": "Bon",
+    "arranger": "",
+    "publishers": [
+      "IMSLP",
+      "Furore Verlag [Sei Sonate da Camera, Op. 1, Vol. 2]"
+    ],
+    "publisherText": "IMSLP;Furore Verlag [Sei Sonate da Camera, Op. 1, Vol. 2]",
+    "classLevel": 1,
+    "specification": "(play mvts 1 & 2)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
   },
   {
     "uilCode": "202-1-36851",
@@ -5569,48 +3802,6 @@
     "sheetMusicAffiliateSource": null
   },
   {
-    "uilCode": "202-1-36853",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Divertimento",
-    "composer": "Borroff",
-    "arranger": "",
-    "publishers": [
-      "American Composers Alliance [Flute Works by American Composers]"
-    ],
-    "publisherText": "American Composers Alliance [Flute Works by American Composers]",
-    "classLevel": 1,
-    "specification": "(unaccomp) (play mvts. 2, 4, & 5)",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/divertimento-4789541/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "202-1-32941",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Agrestide",
-    "composer": "Bozza",
-    "arranger": "",
-    "publishers": [
-      "Alphonse Leduc"
-    ],
-    "publisherText": "Alphonse Leduc",
-    "classLevel": 1,
-    "specification": "(play all) NMR:(play all)",
-    "noMemoryRequired": true,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/agrestide-flute-solo-4777082/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
     "uilCode": "202-1-10105",
     "instrumentSlug": "flute",
     "instrumentName": "Flute Solos",
@@ -5623,8 +3814,8 @@
     ],
     "publisherText": "Alphonse Leduc",
     "classLevel": 1,
-    "specification": "(unaccomp) (play all)",
-    "noMemoryRequired": false,
+    "specification": "NMR:(unaccomp)",
+    "noMemoryRequired": true,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/image-4777009/p",
@@ -5644,34 +3835,13 @@
     ],
     "publisherText": "Masters Music Publications",
     "classLevel": 1,
-    "specification": "(play all)",
+    "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": null,
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": null
-  },
-  {
-    "uilCode": "202-1-36878",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Velocity",
-    "composer": "Bunch",
-    "arranger": "",
-    "publishers": [
-      "Theodore Presser Company [Eight Visions]"
-    ],
-    "publisherText": "Theodore Presser Company [Eight Visions]",
-    "classLevel": 1,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/velocity-10088868/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
     "uilCode": "202-1-10108",
@@ -5686,7 +3856,7 @@
     ],
     "publisherText": "Carl Fischer, Inc.",
     "classLevel": 1,
-    "specification": "(play any one mvt.)",
+    "specification": "(play any mvt)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -5708,7 +3878,7 @@
     ],
     "publisherText": "Masters Music Publications;G. Schirmer, Inc.",
     "classLevel": 1,
-    "specification": "(play all)",
+    "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -5729,34 +3899,13 @@
     ],
     "publisherText": "Any Publisher",
     "classLevel": 1,
-    "specification": "(play all)",
+    "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/french-music-for-flute-and-piano-of-the-19th-and-20-10754068/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "202-1-26342",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Sicilienne et Burlesque",
-    "composer": "Casella",
-    "arranger": "",
-    "publishers": [
-      "Any Publisher"
-    ],
-    "publisherText": "Any Publisher",
-    "classLevel": 1,
-    "specification": "(play all)",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": null,
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": null
   },
   {
     "uilCode": "202-1-10111",
@@ -5771,7 +3920,7 @@
     ],
     "publisherText": "Any Publisher",
     "classLevel": 1,
-    "specification": "(play all)",
+    "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -5801,48 +3950,6 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
-    "uilCode": "202-1-36855",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Three Pieces for Flute, Vol. 1",
-    "composer": "Charpentier",
-    "arranger": "",
-    "publishers": [
-      "Cayambis Music Press"
-    ],
-    "publisherText": "Cayambis Music Press",
-    "classLevel": 1,
-    "specification": "(play two pieces)",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": null,
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": null
-  },
-  {
-    "uilCode": "202-1-32943",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Great Train Race",
-    "composer": "Clarke",
-    "arranger": "",
-    "publishers": [
-      "Ian Clarke Music"
-    ],
-    "publisherText": "Ian Clarke Music",
-    "classLevel": 1,
-    "specification": "(unaccomp) (play all)",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": null,
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": null
-  },
-  {
     "uilCode": "202-1-32944",
     "instrumentSlug": "flute",
     "instrumentName": "Flute Solos",
@@ -5855,32 +3962,11 @@
     ],
     "publisherText": "Ian Clarke Music",
     "classLevel": 1,
-    "specification": "(play all)",
+    "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/hypnosis-10348220/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "202-1-32945",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "TRKs",
-    "composer": "Clarke",
-    "arranger": "",
-    "publishers": [
-      "Ian Clarke Music"
-    ],
-    "publisherText": "Ian Clarke Music",
-    "classLevel": 1,
-    "specification": "(flute & cd) (play all)",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/trks-10973415/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -5969,27 +4055,6 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
-    "uilCode": "202-1-36859",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Charanga",
-    "composer": "Colquhoun",
-    "arranger": "",
-    "publishers": [
-      "ALRY Publications"
-    ],
-    "publisherText": "ALRY Publications",
-    "classLevel": 1,
-    "specification": "(unaccomp)",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/charanga-10954571/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
     "uilCode": "202-1-10114",
     "instrumentSlug": "flute",
     "instrumentName": "Flute Solos",
@@ -6002,55 +4067,13 @@
     ],
     "publisherText": "Boosey & Hawkes, Inc.",
     "classLevel": 1,
-    "specification": "(play mvt 1 or 3)",
-    "noMemoryRequired": false,
+    "specification": "NMR:(play mvt 1 OR 3)",
+    "noMemoryRequired": true,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/a-copland-portrait-10541100/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "202-1-32946",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Concerto",
-    "composer": "Damase",
-    "arranger": "",
-    "publishers": [
-      "Henry Lemoine"
-    ],
-    "publisherText": "Henry Lemoine",
-    "classLevel": 1,
-    "specification": "(play mvt. 1 or mvt. 2 to the end)",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/concerto-9540722/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "202-1-32947",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Sonate en Concert",
-    "composer": "Damase",
-    "arranger": "",
-    "publishers": [
-      "Henry Lemoine"
-    ],
-    "publisherText": "Henry Lemoine",
-    "classLevel": 1,
-    "specification": "(play without optional cello) (play beginning through pg. 5/line 1 or start pg. 5/line 2 and play to end)",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": null,
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": null
   },
   {
     "uilCode": "202-1-32948",
@@ -6065,7 +4088,7 @@
     ],
     "publisherText": "Any Publisher",
     "classLevel": 1,
-    "specification": "(play all)",
+    "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -6086,32 +4109,11 @@
     ],
     "publisherText": "Any Publisher",
     "classLevel": 1,
-    "specification": "(unaccomp) (play all)",
+    "specification": "(unaccomp)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/syrinx-11356334/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "202-1-32949",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Sixieme Solo de Concert",
-    "composer": "Demersseman",
-    "arranger": "",
-    "publishers": [
-      "Any Publisher"
-    ],
-    "publisherText": "Any Publisher",
-    "classLevel": 1,
-    "specification": "(play all)",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/sixieme-solo-de-concert-10969451/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -6137,27 +4139,6 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
-    "uilCode": "202-1-32950",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Fish Are Jumping",
-    "composer": "Dick",
-    "arranger": "",
-    "publishers": [
-      "Multiple Breath Music"
-    ],
-    "publisherText": "Multiple Breath Music",
-    "classLevel": 1,
-    "specification": "(unaccomp) (play all)",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": null,
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": null
-  },
-  {
     "uilCode": "202-1-32951",
     "instrumentSlug": "flute",
     "instrumentName": "Flute Solos",
@@ -6170,32 +4151,11 @@
     ],
     "publisherText": "Multiple Breath Music",
     "classLevel": 1,
-    "specification": "(unaccomp) (play all)",
+    "specification": "(unaccomp)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/the-old-chiefs-lookout-10881360/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "202-1-36860",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Sonata: Motion",
-    "composer": "Dillon",
-    "arranger": "",
-    "publishers": [
-      "American Composers Alliance"
-    ],
-    "publisherText": "American Composers Alliance",
-    "classLevel": 1,
-    "specification": "(play mvt. 1 OR 3)",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/sonata-9535271/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -6212,7 +4172,7 @@
     ],
     "publisherText": "Any Publisher",
     "classLevel": 1,
-    "specification": "(play all)",
+    "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -6233,34 +4193,13 @@
     ],
     "publisherText": "Presser",
     "classLevel": 1,
-    "specification": "(play mvt. 1 OR 2 & 3) (unaccomp)",
+    "specification": "(play mvt 1 OR 2 & 3) (unaccomp)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": null,
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": null
-  },
-  {
-    "uilCode": "202-1-32952",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Sonate",
-    "composer": "Dubois",
-    "arranger": "",
-    "publishers": [
-      "Alphonse Leduc"
-    ],
-    "publisherText": "Alphonse Leduc",
-    "classLevel": 1,
-    "specification": "(play mvt. 1)",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/sonate-9540368/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
     "uilCode": "202-1-10120",
@@ -6275,32 +4214,11 @@
     ],
     "publisherText": "Alphonse Leduc",
     "classLevel": 1,
-    "specification": "(play all) NMR:(play all)",
+    "specification": "NMR:(play all)",
     "noMemoryRequired": true,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/sonatine-5680459/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "202-1-10121",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Concertino, Op. 45",
-    "composer": "Duvernoy",
-    "arranger": "",
-    "publishers": [
-      "Any Publisher"
-    ],
-    "publisherText": "Any Publisher",
-    "classLevel": 1,
-    "specification": "(play all)",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/concertino-4582938/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -6317,7 +4235,7 @@
     ],
     "publisherText": "Any Publisher",
     "classLevel": 1,
-    "specification": "(play 1 & 2; or 4)",
+    "specification": "(play 1 & 2 OR 4)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -6359,7 +4277,7 @@
     ],
     "publisherText": "Any Publisher",
     "classLevel": 1,
-    "specification": "(play all)",
+    "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -6380,34 +4298,13 @@
     ],
     "publisherText": "Any Publisher",
     "classLevel": 1,
-    "specification": "(play any one mvt.)",
+    "specification": "(play any one mvt)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": null,
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": null
-  },
-  {
-    "uilCode": "202-1-36862",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Spirit Man",
-    "composer": "Fairlie-Kennedy",
-    "arranger": "",
-    "publishers": [
-      "American Composers Alliance [Flute Works by American Composers]"
-    ],
-    "publisherText": "American Composers Alliance [Flute Works by American Composers]",
-    "classLevel": 1,
-    "specification": "(unaccomp) (MUST BE PERFORMED ON C FLUTE)",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/flute-de-pan-flute-piano-7393341/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
     "uilCode": "202-1-10126",
@@ -6422,32 +4319,11 @@
     ],
     "publisherText": "Any Publisher",
     "classLevel": 1,
-    "specification": "(play all)",
+    "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/fantasie-997692/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "202-1-32924",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Sonata",
-    "composer": "Feld",
-    "arranger": "",
-    "publishers": [
-      "Alphonse Leduc"
-    ],
-    "publisherText": "Alphonse Leduc",
-    "classLevel": 1,
-    "specification": "(play mvt. 2) NMR:(play mvt. 1 or mvt. 3)",
-    "noMemoryRequired": true,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/sonata-4777629/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -6473,109 +4349,25 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
-    "uilCode": "202-1-36863",
+    "uilCode": "202-1-41764",
     "instrumentSlug": "flute",
     "instrumentName": "Flute Solos",
     "eventName": "Flute Solo",
-    "title": "The Flicker",
-    "composer": "Fine",
+    "title": "Sonata XI in d minor",
+    "composer": "Frederich the Great",
     "arranger": "",
     "publishers": [
-      "ALRY Publications [21st Century Masterworks]"
+      "G. Schirmer, Inc."
     ],
-    "publisherText": "ALRY Publications [21st Century Masterworks]",
+    "publisherText": "G. Schirmer, Inc.",
     "classLevel": 1,
-    "specification": "",
+    "specification": "(play mvts 1 & 2 OR 1 & 3)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": null,
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": null
-  },
-  {
-    "uilCode": "202-1-32957",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Concerto No. 1 in G",
-    "composer": "Frederich the Great",
-    "arranger": "",
-    "publishers": [
-      "Edwin F. Kalmus"
-    ],
-    "publisherText": "Edwin F. Kalmus",
-    "classLevel": 1,
-    "specification": "(play mvt. 1 or mvts. 2 & 3)",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/concerto-piccolo-concerto-9536124/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "202-1-32958",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Concerto No. 2 in G",
-    "composer": "Frederich the Great",
-    "arranger": "",
-    "publishers": [
-      "Edwin F. Kalmus"
-    ],
-    "publisherText": "Edwin F. Kalmus",
-    "classLevel": 1,
-    "specification": "(play any two mvts.)",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/concerto-piccolo-concerto-9536124/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "202-1-32959",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Concerto No. 3 in C",
-    "composer": "Frederich the Great",
-    "arranger": "",
-    "publishers": [
-      "Edwin F. Kalmus"
-    ],
-    "publisherText": "Edwin F. Kalmus",
-    "classLevel": 1,
-    "specification": "(play any two mvts.)",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/concerto-piccolo-concerto-9536124/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "202-1-32954",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Concerto No. 4 in D",
-    "composer": "Frederich the Great",
-    "arranger": "",
-    "publishers": [
-      "Edwin F. Kalmus"
-    ],
-    "publisherText": "Edwin F. Kalmus",
-    "classLevel": 1,
-    "specification": "(play any two mvts.)",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/concerto-piccolo-concerto-9536124/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
     "uilCode": "202-1-36864",
@@ -6599,27 +4391,6 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
-    "uilCode": "202-1-36865",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "To Dance to the Whistling Wind",
-    "composer": "Froom",
-    "arranger": "",
-    "publishers": [
-      "American Composers Alliance [Flute Works by American Composers]"
-    ],
-    "publisherText": "American Composers Alliance [Flute Works by American Composers]",
-    "classLevel": 1,
-    "specification": "(unaccomp)",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": null,
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": null
-  },
-  {
     "uilCode": "202-1-32953",
     "instrumentSlug": "flute",
     "instrumentName": "Flute Solos",
@@ -6632,7 +4403,7 @@
     ],
     "publisherText": "Suvini Zerboni",
     "classLevel": 1,
-    "specification": "(unaccomp) (play all)",
+    "specification": "(unaccomp)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -6656,7 +4427,7 @@
     ],
     "publisherText": "G. Schirmer, Inc.;Masters Music Publications;Southern Music Company;Gerard Billaudot Edition",
     "classLevel": 1,
-    "specification": "(play all)",
+    "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -6686,27 +4457,6 @@
     "sheetMusicAffiliateSource": null
   },
   {
-    "uilCode": "202-1-36867",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Three Pieces in Crystal",
-    "composer": "Gannon",
-    "arranger": "",
-    "publishers": [
-      "American Composers Alliance"
-    ],
-    "publisherText": "American Composers Alliance",
-    "classLevel": 1,
-    "specification": "(play two mvts) (MUST BE PEROFMED ON C FLUTE)",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": null,
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": null
-  },
-  {
     "uilCode": "202-1-36868",
     "instrumentSlug": "flute",
     "instrumentName": "Flute Solos",
@@ -6719,7 +4469,7 @@
     ],
     "publisherText": "Cayambis Music Press",
     "classLevel": 1,
-    "specification": "(play mvt. 1 OR 3)",
+    "specification": "(play mvt 1 OR 3)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -6740,7 +4490,7 @@
     ],
     "publisherText": "Any Publisher",
     "classLevel": 1,
-    "specification": "(play all)",
+    "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -6761,32 +4511,11 @@
     ],
     "publisherText": "Any Publisher",
     "classLevel": 1,
-    "specification": "(play all)",
+    "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/french-music-for-flute-and-piano-of-the-19th-and-20-10754068/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "202-1-26348",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Sonata (No. 1 in A Major)",
-    "composer": "Gaubert",
-    "arranger": "",
-    "publishers": [
-      "Any Publisher"
-    ],
-    "publisherText": "Any Publisher",
-    "classLevel": 1,
-    "specification": "(play mvt 1 or 3)",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/sonata-11640400/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -6803,28 +4532,7 @@
     ],
     "publisherText": "Heugel & Company",
     "classLevel": 1,
-    "specification": "(play mvt 1 or 3)",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/french-music-for-flute-and-piano-of-the-19th-and-20-10754068/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "202-1-10132",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Waltz from Suite Op. 116",
-    "composer": "Godard",
-    "arranger": "",
-    "publishers": [
-      "Any Publisher"
-    ],
-    "publisherText": "Any Publisher",
-    "classLevel": 1,
-    "specification": "(play all)",
+    "specification": "(play 1st OR 3rd mvt)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -6845,7 +4553,7 @@
     ],
     "publisherText": "Progress Press",
     "classLevel": 1,
-    "specification": "(play all) NMR:(play all)",
+    "specification": "NMR:(optional cut REQUIRED)",
     "noMemoryRequired": true,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -6866,7 +4574,7 @@
     ],
     "publisherText": "Any Publisher",
     "classLevel": 1,
-    "specification": "(play all) NMR:(play all)",
+    "specification": "NMR:(play all)",
     "noMemoryRequired": true,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -6875,44 +4583,23 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
-    "uilCode": "202-1-36869",
+    "uilCode": "202-1-41762",
     "instrumentSlug": "flute",
     "instrumentName": "Flute Solos",
     "eventName": "Flute Solo",
-    "title": "Blackheath",
-    "composer": "Griffin",
+    "title": "Flight for Solo Flute",
+    "composer": "Hailstork",
     "arranger": "",
     "publishers": [
-      "ALRY Publications [21st Century Masterworks]"
+      "Theodore Presser Company"
     ],
-    "publisherText": "ALRY Publications [21st Century Masterworks]",
+    "publisherText": "Theodore Presser Company",
     "classLevel": 1,
-    "specification": "(unaccomp) (play mvt 1 OR 3)",
-    "noMemoryRequired": false,
+    "specification": "NMR:(unaccomp)",
+    "noMemoryRequired": true,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/griffins-grand-entry-10527576/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "202-1-32961",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Concertino",
-    "composer": "Grovlez",
-    "arranger": "",
-    "publishers": [
-      "Editions Combre"
-    ],
-    "publisherText": "Editions Combre",
-    "classLevel": 1,
-    "specification": "(play all)",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/concertino-4582938/p",
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/flight-11404107/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -6929,7 +4616,28 @@
     ],
     "publisherText": "Theodore Presser Company",
     "classLevel": 1,
-    "specification": "(unaccomp)",
+    "specification": "(unaccomp) (play mvts 1 & 2 OR 3 & 4)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "202-1-41763",
+    "instrumentSlug": "flute",
+    "instrumentName": "Flute Solos",
+    "eventName": "Flute Solo",
+    "title": "The Pied Piper of Harlem",
+    "composer": "Hailstork",
+    "arranger": "",
+    "publishers": [
+      "International Opus Music"
+    ],
+    "publisherText": "International Opus Music",
+    "classLevel": 1,
+    "specification": "(unaccomp) (play any two mvts)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -7043,48 +4751,6 @@
     "sheetMusicAffiliateSource": null
   },
   {
-    "uilCode": "202-1-10141",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Serenade",
-    "composer": "Hanson",
-    "arranger": "",
-    "publishers": [
-      "Carl Fischer, Inc."
-    ],
-    "publisherText": "Carl Fischer, Inc.",
-    "classLevel": 1,
-    "specification": "(play all)",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/serenade-10515910/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "202-1-36872",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Court Dances",
-    "composer": "Harberg",
-    "arranger": "",
-    "publishers": [
-      "Theodore Presser Company"
-    ],
-    "publisherText": "Theodore Presser Company",
-    "classLevel": 1,
-    "specification": "(play two mvts)",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/court-dances-5169867/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
     "uilCode": "202-1-38386",
     "instrumentSlug": "flute",
     "instrumentName": "Flute Solos",
@@ -7099,90 +4765,6 @@
     "classLevel": 1,
     "specification": "NMR:(unaccomp)",
     "noMemoryRequired": true,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": null,
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": null
-  },
-  {
-    "uilCode": "202-1-29662",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Sonata Rubata",
-    "composer": "Harlos",
-    "arranger": "",
-    "publishers": [
-      "Southern Music Company"
-    ],
-    "publisherText": "Southern Music Company",
-    "classLevel": 1,
-    "specification": "(play mvt 1 or 3)",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/sonata-rubata-5988274/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "202-1-32962",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "In Ireland",
-    "composer": "Harty",
-    "arranger": "",
-    "publishers": [
-      "Any Publisher"
-    ],
-    "publisherText": "Any Publisher",
-    "classLevel": 1,
-    "specification": "(play all)",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": null,
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": null
-  },
-  {
-    "uilCode": "202-1-10142",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Concerto in D Major, Hob. Vllf: D1",
-    "composer": "Haydn",
-    "arranger": "",
-    "publishers": [
-      "Any Publisher"
-    ],
-    "publisherText": "Any Publisher",
-    "classLevel": 1,
-    "specification": "(play mvt 1 or 3)",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": null,
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": null
-  },
-  {
-    "uilCode": "202-1-32964",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Fury of Light",
-    "composer": "Heggie",
-    "arranger": "",
-    "publishers": [
-      "Bent Pen Music"
-    ],
-    "publisherText": "Bent Pen Music",
-    "classLevel": 1,
-    "specification": "(play mvts. 1 & 2)",
-    "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": null,
@@ -7265,32 +4847,11 @@
     ],
     "publisherText": "Schott Company",
     "classLevel": 1,
-    "specification": "(play mvt. 1 & 2; or play mvt. 3 including March)",
-    "noMemoryRequired": false,
+    "specification": "NMR:(play 1st mvt)",
+    "noMemoryRequired": true,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/sonata-11640400/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "202-1-10147",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Danse de la Chevre",
-    "composer": "Honegger",
-    "arranger": "",
-    "publishers": [
-      "Salabert, Inc."
-    ],
-    "publisherText": "Salabert, Inc.",
-    "classLevel": 1,
-    "specification": "(unaccomp) (play all)",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/danse-de-la-chevre-10843685/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -7307,7 +4868,7 @@
     ],
     "publisherText": "Papangena Press",
     "classLevel": 1,
-    "specification": "(play all) (unaccomp)",
+    "specification": "(unaccomp)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -7349,7 +4910,7 @@
     ],
     "publisherText": "Billaudot",
     "classLevel": 1,
-    "specification": "(play all)",
+    "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -7370,8 +4931,8 @@
     ],
     "publisherText": "Alphonse Leduc",
     "classLevel": 1,
-    "specification": "(play any one mvt.)",
-    "noMemoryRequired": false,
+    "specification": "NMR:(play any one mvt)",
+    "noMemoryRequired": true,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/concerto-7984826/p",
@@ -7391,7 +4952,7 @@
     ],
     "publisherText": "Alphonse Leduc",
     "classLevel": 1,
-    "specification": "(play all)",
+    "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -7412,8 +4973,8 @@
     ],
     "publisherText": "Alphonse Leduc",
     "classLevel": 1,
-    "specification": "(unaccomp) (play all)",
-    "noMemoryRequired": false,
+    "specification": "NMR:(unaccomp)",
+    "noMemoryRequired": true,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/piece-pour-flute-seule-11210130e/p",
@@ -7433,8 +4994,8 @@
     ],
     "publisherText": "Galaxy Music Corporation",
     "classLevel": 1,
-    "specification": "(play mvt. 1 (and stop at letter J), or mvt. 3, or mvt. 4)",
-    "noMemoryRequired": false,
+    "specification": "NMR:(play 1st mvt & stop at letter J OR 3rd mvt OR 4th mvt)",
+    "noMemoryRequired": true,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": null,
@@ -7463,25 +5024,25 @@
     "sheetMusicAffiliateSource": null
   },
   {
-    "uilCode": "202-1-10152",
+    "uilCode": "202-1-41766",
     "instrumentSlug": "flute",
     "instrumentName": "Flute Solos",
     "eventName": "Flute Solo",
-    "title": "Sonata Appassionata in F# minor, Op. 140",
-    "composer": "Karg-Elert",
+    "title": "Five Miniatures",
+    "composer": "Kahkonen",
     "arranger": "",
     "publishers": [
-      "Any Publisher"
+      "ALRY Publications"
     ],
-    "publisherText": "Any Publisher",
+    "publisherText": "ALRY Publications",
     "classLevel": 1,
-    "specification": "(unaccomp) (play all) NMR:(play all)",
-    "noMemoryRequired": true,
+    "specification": "(unaccomp) (play any three)",
+    "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/karg-elert-30-caprices-10069946/p",
+    "sheetMusicAffiliateUrl": null,
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
+    "sheetMusicAffiliateSource": null
   },
   {
     "uilCode": "202-1-36877",
@@ -7503,48 +5064,6 @@
     "sheetMusicAffiliateUrl": null,
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": null
-  },
-  {
-    "uilCode": "202-1-10158",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Three Fantasies Op. 38",
-    "composer": "Kuhlau",
-    "arranger": "",
-    "publishers": [
-      "Any Publisher"
-    ],
-    "publisherText": "Any Publisher",
-    "classLevel": 1,
-    "specification": "(unaccomp) (play one mvt of one fantasy)",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": null,
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": null
-  },
-  {
-    "uilCode": "202-1-36879",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "revamper",
-    "composer": "La Berge",
-    "arranger": "",
-    "publishers": [
-      "ALRY Publications [21st Century Masterworks]"
-    ],
-    "publisherText": "ALRY Publications [21st Century Masterworks]",
-    "classLevel": 1,
-    "specification": "(unaccomp)",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/revamper-10955336/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
     "uilCode": "202-1-32969",
@@ -7585,27 +5104,6 @@
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/lughnasa-11208649/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "202-1-32968",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Movin' On",
-    "composer": "Larson",
-    "arranger": "",
-    "publishers": [
-      "Wood Nymph Music"
-    ],
-    "publisherText": "Wood Nymph Music",
-    "classLevel": 1,
-    "specification": "(unaccomp)",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/movin-on-11208650/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -7673,48 +5171,6 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
-    "uilCode": "202-1-26354",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Soliloquy",
-    "composer": "Liebermann",
-    "arranger": "",
-    "publishers": [
-      "Theodore Presser Company"
-    ],
-    "publisherText": "Theodore Presser Company",
-    "classLevel": 1,
-    "specification": "(unaccomp)",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/soliloquy-9539671/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "202-1-32970",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Sonata",
-    "composer": "Liebermann",
-    "arranger": "",
-    "publishers": [
-      "Theodore Presser Company"
-    ],
-    "publisherText": "Theodore Presser Company",
-    "classLevel": 1,
-    "specification": "(play one mvt.)",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/sonata-10043474/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
     "uilCode": "202-1-36883",
     "instrumentSlug": "flute",
     "instrumentName": "Flute Solos",
@@ -7732,27 +5188,6 @@
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/mnicakmun-sounds-of-water-11405435/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "202-1-36884",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Sonata",
-    "composer": "Lonque",
-    "arranger": "",
-    "publishers": [
-      "Metropolis Music Publishers"
-    ],
-    "publisherText": "Metropolis Music Publishers",
-    "classLevel": 1,
-    "specification": "(play two mvts)",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/sonata-11640400/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -7778,27 +5213,6 @@
     "sheetMusicAffiliateSource": null
   },
   {
-    "uilCode": "202-1-32928",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Ballade",
-    "composer": "Martin",
-    "arranger": "",
-    "publishers": [
-      "Universal Editions"
-    ],
-    "publisherText": "Universal Editions",
-    "classLevel": 1,
-    "specification": "(play all) NMR:(play all)",
-    "noMemoryRequired": true,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/ballade-7028483/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
     "uilCode": "202-1-10166",
     "instrumentSlug": "flute",
     "instrumentName": "Flute Solos",
@@ -7812,7 +5226,7 @@
     ],
     "publisherText": "G. Schirmer, Inc.;Associated Music Publishers Inc.",
     "classLevel": 1,
-    "specification": "(play mvt 1 or 3)",
+    "specification": "(play 1st OR 3rd mvt)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -7854,7 +5268,7 @@
     ],
     "publisherText": "Boccaccinni & Spada Editori",
     "classLevel": 1,
-    "specification": "(play mvt. 3)",
+    "specification": "(play 3rd mvt)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -7877,34 +5291,13 @@
     ],
     "publisherText": "Boccaccinni & Spada Editori;Little Piper;Suvini Zerboni",
     "classLevel": 1,
-    "specification": "(play mvt. 1 or mvt. 3)",
+    "specification": "(play mvt 1 OR 3)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": null,
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": null
-  },
-  {
-    "uilCode": "202-1-32972",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Dieci Arie Variate (10 Aria Variations)",
-    "composer": "Mercadante",
-    "arranger": "",
-    "publishers": [
-      "Gerard Billaudot Edition"
-    ],
-    "publisherText": "Gerard Billaudot Edition",
-    "classLevel": 1,
-    "specification": "(play one complete aria) (unaccomp)",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/dieci-arie-variate-solo-10-aria-variations-10877080/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
     "uilCode": "202-1-36886",
@@ -7949,27 +5342,6 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
-    "uilCode": "202-1-36887",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Whirling Wings",
-    "composer": "Mitchell",
-    "arranger": "",
-    "publishers": [
-      "American Composers Alliance"
-    ],
-    "publisherText": "American Composers Alliance",
-    "classLevel": 1,
-    "specification": "(unaccomp) (play two mvts)",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/whirling-wings-11371649/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
     "uilCode": "202-1-32973",
     "instrumentSlug": "flute",
     "instrumentName": "Flute Solos",
@@ -7982,7 +5354,7 @@
     ],
     "publisherText": "Southern Music Company",
     "classLevel": 1,
-    "specification": "(play any one mvt.)",
+    "specification": "(play any one mvt)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -8027,7 +5399,7 @@
     ],
     "publisherText": "Itchy Fingers Publications",
     "classLevel": 1,
-    "specification": "(play any one mvt.) NMR:(play any one mvt.)",
+    "specification": "NMR:(play any one mvt)",
     "noMemoryRequired": true,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -8048,7 +5420,7 @@
     ],
     "publisherText": "Any Publisher",
     "classLevel": 1,
-    "specification": "(play mvt 1 or 3)",
+    "specification": "(play 1st OR 3rd mvt)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -8069,32 +5441,11 @@
     ],
     "publisherText": "Any Publisher",
     "classLevel": 1,
-    "specification": "(play mvt 1 or 3)",
+    "specification": "(play 1st OR 3rd mvt)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/mozart-5933668/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "202-1-33072",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Flute Quartet in D Major",
-    "composer": "Mozart",
-    "arranger": "Stolba",
-    "publishers": [
-      "Presser"
-    ],
-    "publisherText": "Presser",
-    "classLevel": 1,
-    "specification": "(play mvt 1 or mvt 3)(originally written for flute and 3 strings; perform flute solo only)",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/magic-flute-flute-piano-7864226/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -8111,7 +5462,7 @@
     ],
     "publisherText": "Any Publisher",
     "classLevel": 1,
-    "specification": "(play all)",
+    "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -8132,7 +5483,7 @@
     ],
     "publisherText": "G. Schirmer, Inc.",
     "classLevel": 1,
-    "specification": "(play mvt 1, or mvts 2 & 3, or mvt 4) NMR:(play mvt 1, or mvts 2 & 3, or mvt 4)",
+    "specification": "NMR:(play 1st mvt OR 2nd & 3rd OR 4th mvt)",
     "noMemoryRequired": true,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -8153,28 +5504,7 @@
     ],
     "publisherText": "G. Schirmer, Inc.",
     "classLevel": 1,
-    "specification": "(unaccomp) (play two consecutive mvts)",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": null,
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": null
-  },
-  {
-    "uilCode": "202-1-32977",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Sonata in D",
-    "composer": "Muthel",
-    "arranger": "",
-    "publishers": [
-      "Any Publisher"
-    ],
-    "publisherText": "Any Publisher",
-    "classLevel": 1,
-    "specification": "(play mvts. 1 & 2 or mvts. 2 & 3)",
+    "specification": "(unaccomp) (play any two mvts)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -8197,34 +5527,13 @@
     ],
     "publisherText": "Editions Svitzer;Wilhelm Hansen;Samfundet",
     "classLevel": 1,
-    "specification": "(play one mvt.) NMR:(play one mvt.)",
+    "specification": "NMR:(play one mvt)",
     "noMemoryRequired": true,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/concerto-9540722/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "202-1-32979",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Jazz Suite",
-    "composer": "Norris",
-    "arranger": "",
-    "publishers": [
-      "Schott Company"
-    ],
-    "publisherText": "Schott Company",
-    "classLevel": 1,
-    "specification": "(play mvt. 1 or mvts. 3 & 4(",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": null,
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": null
   },
   {
     "uilCode": "202-1-36888",
@@ -8248,27 +5557,6 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
-    "uilCode": "202-1-32980",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Honami",
-    "composer": "Offermans",
-    "arranger": "",
-    "publishers": [
-      "Zimmerman"
-    ],
-    "publisherText": "Zimmerman",
-    "classLevel": 1,
-    "specification": "(unaccomp) (play all)",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/honami-11208639/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
     "uilCode": "202-1-32981",
     "instrumentSlug": "flute",
     "instrumentName": "Flute Solos",
@@ -8281,7 +5569,7 @@
     ],
     "publisherText": "Muramatsu",
     "classLevel": 1,
-    "specification": "(play mvt. 2) NMR:(play mvt. 1 or mvt. 3)",
+    "specification": "(play mvt 2) NMR:(play 1st OR 3rd mvt)",
     "noMemoryRequired": true,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -8367,7 +5655,7 @@
     ],
     "publisherText": "Project Trio",
     "classLevel": 1,
-    "specification": "(unaccomp) (play any one mvt.)",
+    "specification": "(unaccomp) (play any one mvt)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -8388,7 +5676,7 @@
     ],
     "publisherText": "International Music Company",
     "classLevel": 1,
-    "specification": "(play mvt. 1 or mvt. 3)",
+    "specification": "(play 1st OR 3rd mvt)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -8409,7 +5697,7 @@
     ],
     "publisherText": "Any Publisher",
     "classLevel": 1,
-    "specification": "(play all)",
+    "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -8451,7 +5739,7 @@
     ],
     "publisherText": "Associated Music Publishers Inc.",
     "classLevel": 1,
-    "specification": "(play mvt 1 or 3)",
+    "specification": "(play 1st OR 3rd mvt)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -8472,7 +5760,7 @@
     ],
     "publisherText": "Chester Music Ltd.",
     "classLevel": 1,
-    "specification": "(play mvt 1 or 3)",
+    "specification": "(play 1st OR 3rd mvt)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -8493,7 +5781,7 @@
     ],
     "publisherText": "Any Publisher",
     "classLevel": 1,
-    "specification": "(play mvt. 3) NMR:(play mvt. 1 or mvt. 4)",
+    "specification": "NMR:(play any mvt)",
     "noMemoryRequired": true,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -8514,7 +5802,7 @@
     ],
     "publisherText": "Any Publisher",
     "classLevel": 1,
-    "specification": "(play mvt 1 or 3)",
+    "specification": "(play 1st OR 3rd mvt)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -8577,7 +5865,7 @@
     ],
     "publisherText": "Editions Svitzer",
     "classLevel": 1,
-    "specification": "(play all)",
+    "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -8598,7 +5886,7 @@
     ],
     "publisherText": "Any Publisher",
     "classLevel": 1,
-    "specification": "(play all)",
+    "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -8619,7 +5907,7 @@
     ],
     "publisherText": "Any Publisher",
     "classLevel": 1,
-    "specification": "(play mvt. 1 or mvt. 3) NMR:(play mvt. 1 or mvt. 3)",
+    "specification": "NMR:(play 1st OR 3rd mvt)",
     "noMemoryRequired": true,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -8640,32 +5928,11 @@
     ],
     "publisherText": "Any Publisher",
     "classLevel": 1,
-    "specification": "(play mvts. 1 & 2 or mvts. 3 & 4)",
+    "specification": "(play mvts 1 & 2 OR 3 & 4)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/sonata-undine-4786273/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "202-1-32989",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Oiseaux Tendres",
-    "composer": "Rivier",
-    "arranger": "",
-    "publishers": [
-      "Any Publisher"
-    ],
-    "publisherText": "Any Publisher",
-    "classLevel": 1,
-    "specification": "(unaccomp) (play all)",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/oiseaux-tendres-flute-solo-4776258/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -8703,7 +5970,7 @@
     ],
     "publisherText": "Schott Company",
     "classLevel": 1,
-    "specification": "(play any two mvts.)",
+    "specification": "(play any two mvts)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -8723,48 +5990,6 @@
       "Cayambis Music Press"
     ],
     "publisherText": "Cayambis Music Press",
-    "classLevel": 1,
-    "specification": "(unaccomp)",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": null,
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": null
-  },
-  {
-    "uilCode": "202-1-26358",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Joueurs de Flute",
-    "composer": "Roussel",
-    "arranger": "",
-    "publishers": [
-      "Any Publisher"
-    ],
-    "publisherText": "Any Publisher",
-    "classLevel": 1,
-    "specification": "(play any three mvts)",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/joueurs-de-flute-10039237/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "202-1-36895",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Autumn in Homeland",
-    "composer": "Rozman",
-    "arranger": "",
-    "publishers": [
-      "ALRY Publications"
-    ],
-    "publisherText": "ALRY Publications",
     "classLevel": 1,
     "specification": "(unaccomp)",
     "noMemoryRequired": false,
@@ -8796,6 +6021,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "202-1-41765",
+    "instrumentSlug": "flute",
+    "instrumentName": "Flute Solos",
+    "eventName": "Flute Solo",
+    "title": "Sonata for Flute and Piano",
+    "composer": "Rubinstein",
+    "arranger": "Robinson",
+    "publishers": [
+      "LudwigMasters Publications"
+    ],
+    "publisherText": "LudwigMasters Publications",
+    "classLevel": 1,
+    "specification": "(play mvt 1 OR 2 & 3)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "202-1-26359",
     "instrumentSlug": "flute",
     "instrumentName": "Flute Solos",
@@ -8808,7 +6054,7 @@
     ],
     "publisherText": "Oxford University Press",
     "classLevel": 1,
-    "specification": "(play any three mvts)",
+    "specification": "(play two contrasting mvts)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -8850,32 +6096,11 @@
     ],
     "publisherText": "Any Publisher",
     "classLevel": 1,
-    "specification": "(play all)",
+    "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/airs-de-ballet-from-ascanio-flute-s-4855995/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "202-1-32992",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Odelette",
-    "composer": "Saint-Saens",
-    "arranger": "",
-    "publishers": [
-      "Any Publisher"
-    ],
-    "publisherText": "Any Publisher",
-    "classLevel": 1,
-    "specification": "(play all)",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/odelette-10562390/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -8913,34 +6138,13 @@
     ],
     "publisherText": "Durand",
     "classLevel": 1,
-    "specification": "(play all) NMR:(play all)",
+    "specification": "NMR:(play all)",
     "noMemoryRequired": true,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/sonatine-4605028/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "202-1-36898",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Klatka Still",
-    "composer": "Sanford",
-    "arranger": "",
-    "publishers": [
-      "Theodore Presser Company [Eight Visions]"
-    ],
-    "publisherText": "Theodore Presser Company [Eight Visions]",
-    "classLevel": 1,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": null,
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": null
   },
   {
     "uilCode": "202-1-32994",
@@ -8955,7 +6159,7 @@
     ],
     "publisherText": "Southern Music Company",
     "classLevel": 1,
-    "specification": "(play mvt. 1 or mvt. 3)",
+    "specification": "(play 1st OR 3rd mvt)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -8983,27 +6187,6 @@
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/gnossienne-5986019/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "202-1-36899",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Notturno e Danza (Nocturne and Dance)",
-    "composer": "Schampaert",
-    "arranger": "",
-    "publishers": [
-      "Metropolis Music Publishers"
-    ],
-    "publisherText": "Metropolis Music Publishers",
-    "classLevel": 1,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": null,
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": null
   },
   {
     "uilCode": "202-1-38384",
@@ -9039,55 +6222,13 @@
     ],
     "publisherText": "Theodore Presser Company",
     "classLevel": 1,
-    "specification": "(play all)",
+    "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/regrets-and-resolutions-11341174/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "202-1-32997",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Achat Sha'alti and Ufaratsta",
-    "composer": "Schoenfeld",
-    "arranger": "",
-    "publishers": [
-      "Carl Fischer, Inc. [Valentines]"
-    ],
-    "publisherText": "Carl Fischer, Inc. [Valentines]",
-    "classLevel": 1,
-    "specification": "(play both mvts.)",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/valentines-11638873/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "202-1-32998",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Four Souvenirs",
-    "composer": "Schoenfeld",
-    "arranger": "",
-    "publishers": [
-      "Just Flutes"
-    ],
-    "publisherText": "Just Flutes",
-    "classLevel": 1,
-    "specification": "(play any two mvts.)",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": null,
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": null
   },
   {
     "uilCode": "202-1-32999",
@@ -9109,27 +6250,6 @@
     "sheetMusicAffiliateUrl": null,
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": null
-  },
-  {
-    "uilCode": "202-1-33000",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Flute Sonata",
-    "composer": "Schulhoff",
-    "arranger": "",
-    "publishers": [
-      "Chester Music Ltd."
-    ],
-    "publisherText": "Chester Music Ltd.",
-    "classLevel": 1,
-    "specification": "(play mvts. 1, or mvts. 2 & 3, or mvt. 4)",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/flute-sonata-no-1-flute-8602705/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
     "uilCode": "202-1-26361",
@@ -9195,27 +6315,6 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
-    "uilCode": "202-1-36902",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Sonata",
-    "composer": "Senchuk",
-    "arranger": "",
-    "publishers": [
-      "Forest Glade Music"
-    ],
-    "publisherText": "Forest Glade Music",
-    "classLevel": 1,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/sonata-11640400/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
     "uilCode": "202-1-38380",
     "instrumentSlug": "flute",
     "instrumentName": "Flute Solos",
@@ -9249,7 +6348,7 @@
     ],
     "publisherText": "Presser",
     "classLevel": 1,
-    "specification": "(play mvt. 3 OR mvt. 5) (unaccomp)",
+    "specification": "(play mvt 3 OR mvt 5) (unaccomp)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -9354,7 +6453,7 @@
     ],
     "publisherText": "Any Publisher",
     "classLevel": 1,
-    "specification": "(play all)",
+    "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -9396,7 +6495,7 @@
     ],
     "publisherText": "Any Publisher",
     "classLevel": 1,
-    "specification": "(play mvt 1 or 3)",
+    "specification": "(play 1st OR 3rd mvt)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -9426,27 +6525,6 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
-    "uilCode": "202-1-33001",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Concerto in D",
-    "composer": "Telemann",
-    "arranger": "",
-    "publishers": [
-      "International Music Company"
-    ],
-    "publisherText": "International Music Company",
-    "classLevel": 1,
-    "specification": "(play mvts. 1 & 2, or mvts. 3 & 4)",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": null,
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": null
-  },
-  {
     "uilCode": "202-1-33002",
     "instrumentSlug": "flute",
     "instrumentName": "Flute Solos",
@@ -9459,7 +6537,7 @@
     ],
     "publisherText": "International Music Company",
     "classLevel": 1,
-    "specification": "(play mvts. 1 & 2, or mvts. 3 & 4)",
+    "specification": "(play mvts 1 & 2 OR 3 & 4)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -9510,48 +6588,6 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
-    "uilCode": "202-1-33003",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Sonata",
-    "composer": "Uebayashi",
-    "arranger": "",
-    "publishers": [
-      "Alphonse Leduc"
-    ],
-    "publisherText": "Alphonse Leduc",
-    "classLevel": 1,
-    "specification": "(play mvt. 1, or mvts. 2 & 3, or mvt. 4)NMR:(play mvt. 1, or mvts. 2 & 3, or mvt. 4)",
-    "noMemoryRequired": true,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/sonata-4777629/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "202-1-36907",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Sonata",
-    "composer": "Uyttenhove",
-    "arranger": "",
-    "publishers": [
-      "Editions Musicalis J. Maurer"
-    ],
-    "publisherText": "Editions Musicalis J. Maurer",
-    "classLevel": 1,
-    "specification": "(play mvt 1 OR play mvts 2 & 3)",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/sonata-11629192/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
     "uilCode": "202-1-36908",
     "instrumentSlug": "flute",
     "instrumentName": "Flute Solos",
@@ -9585,34 +6621,13 @@
     ],
     "publisherText": "Any Publisher",
     "classLevel": 1,
-    "specification": "(unaccomp) (play all)",
+    "specification": "(unaccomp)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/density-215-flute-solo-5050109/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "202-1-33005",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Concerto in D Major, Op. 10 No. 3, RV 428 'II Gardelino'",
-    "composer": "Vivaldi",
-    "arranger": "",
-    "publishers": [
-      "Any Publisher"
-    ],
-    "publisherText": "Any Publisher",
-    "classLevel": 1,
-    "specification": "(play mvt. 1 or mvt. 3)",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": null,
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": null
   },
   {
     "uilCode": "202-1-36909",
@@ -9741,27 +6756,6 @@
     "sheetMusicAffiliateSource": null
   },
   {
-    "uilCode": "202-1-33006",
-    "instrumentSlug": "flute",
-    "instrumentName": "Flute Solos",
-    "eventName": "Flute Solo",
-    "title": "Sonata",
-    "composer": "Zyman",
-    "arranger": "",
-    "publishers": [
-      "Merion Music Company"
-    ],
-    "publisherText": "Merion Music Company",
-    "classLevel": 1,
-    "specification": "(play mvt. 1 or mvt. 3) NMR:(play mvt. 1 or mvt. 3)",
-    "noMemoryRequired": true,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/sonata-11640400/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
     "uilCode": "202-1-38377",
     "instrumentSlug": "flute",
     "instrumentName": "Flute Solos",
@@ -9781,5 +6775,26 @@
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/flute-fun-flute-5981897/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "202-1-41767",
+    "instrumentSlug": "flute",
+    "instrumentName": "Flute Solos",
+    "eventName": "Flute Solo",
+    "title": "Six Songs Without Words",
+    "composer": "von Schauroth",
+    "arranger": "Kunzer/Walker",
+    "publishers": [
+      "ALRY Publications"
+    ],
+    "publisherText": "ALRY Publications",
+    "classLevel": 1,
+    "specification": "(play four songs)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
   }
 ]

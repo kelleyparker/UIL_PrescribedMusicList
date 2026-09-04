@@ -5,7 +5,7 @@
   "songCount": 204,
   "publisherCount": 207,
   "noteCount": 1,
-  "databaseRecordCount": 205,
+  "databaseRecordCount": 204,
   "classBreakdown": {
     "3": 37,
     "2": 72,
@@ -17,6 +17,6 @@
     "Timpani Solo": 204
   },
   "notes": {
-    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-03-28T15:07:47.677589+00:00."
+    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-09-04T16:48:47.882368+00:00."
   }
 }

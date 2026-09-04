@@ -2,21 +2,21 @@
   "schoolYear": "2025-2026",
   "instrumentSlug": "clarinet-choir",
   "instrumentName": "Clarinet Choirs",
-  "songCount": 137,
-  "publisherCount": 137,
+  "songCount": 141,
+  "publisherCount": 141,
   "noteCount": 1,
-  "databaseRecordCount": 138,
+  "databaseRecordCount": 141,
   "classBreakdown": {
     "3": 24,
     "2": 31,
-    "1": 82
+    "1": 86
   },
   "noMemoryRequiredCount": 0,
   "publicDomainPdfCount": 0,
   "eventBreakdown": {
-    "Clarinet Choir": 137
+    "Clarinet Choir": 141
   },
   "notes": {
-    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-03-28T15:07:47.860134+00:00."
+    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-09-04T16:52:17.921730+00:00."
   }
 }

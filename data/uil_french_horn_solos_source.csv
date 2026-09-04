@@ -54,13 +54,9 @@ Code,Event Name,Title,Composer,Arranger,Publisher [Collection],Grade,Specificati
 302-2-12798,French Horn Solo,Farewell Serenade,Herfurth,Voxman,"Belwin, Inc",2,
 302-2-12799,French Horn Solo,Sonata for Horn in F,Hindemith,,Schott Company,2,(play mvt 2)
 302-2-12800,French Horn Solo,Serenade,Holmes,,Shawnee Press,2,
-302-2-12797,French Horn Solo,Allegro and Minuet,Haydn,Hudadoff,"Belwin, Inc [Fifteen Intermediate F Horn Solos]",2,
-302-2-12833,French Horn Solo,Waltz (from Serenade for Strings),Tchaikovsky,Hudadoff,"Belwin, Inc [Fifteen Intermediate F Horn Solos]",2,
+302-2-12797,French Horn Solo,Fifteen Intermediate F Horn Solos,various,Hudadoff,"Belwin, Inc [Fifteen Intermediate F Horn Solos]",2,(play Allegro and Minuet OR Waltz from Serenade for Strings)
 302-2-12801,French Horn Solo,The Horn of Heimdall,Hurrell,,"Rubank, Inc.",2,
-302-2-12786,French Horn Solo,Legend of the Hills,Cohen,Lamb,"Belwin, Inc [Solo Sounds for French Horn Levels 3-5, Vol. 1]",2,
-302-2-12788,French Horn Solo,Hornpipers Dance,Forsberg,Johnson/Lamb,"Belwin, Inc [Solo Sounds for French Horn Levels 3-5, Vol. 1]",2,
-302-2-12808,French Horn Solo,"Allelulia (from Exsultate, Jubilate)",Mozart,Ployhar/Lamb,"Belwin, Inc [Solo Sounds for French Horn Levels 3-5, Vol. 1]",2,
-302-2-12835,French Horn Solo,Melodies (from Der Freischutz),von Weber,Ployhar/Lamb,"Belwin, Inc [Solo Sounds for French Horn Levels 3-5, Vol. 1]",2,
+302-2-12786,French Horn Solo,"Solo Sounds for French Horn Levels 3-5, Vol. 1",various,Lamb,"Belwin, Inc [Solo Sounds for French Horn Levels 3-5, Vol. 1]",2,(play Legend of the Hills OR Hornpipers Dance OR Alleluia OR Melodies from Der Freischutz)
 302-2-12802,French Horn Solo,Melodie,Lenom,Voxman,"Rubank, Inc.",2,
 302-2-12803,French Horn Solo,Gavotte in Rondeau,Lully,Post,Medici Music Press,2,
 302-2-12810,French Horn Solo,Aria (from The Magic Flute),Mozart,,"Cundy-Bettoney Company, Inc.",2,
@@ -69,10 +65,7 @@ Code,Event Name,Title,Composer,Arranger,Publisher [Collection],Grade,Specificati
 302-2-12811,French Horn Solo,Concerto No. 2 in Eb,Mozart,,Any unabridged edition,2,(play mvt 2)
 302-2-12809,French Horn Solo,Andante and Rondeau,Mozart,Merriman,C.L. Barnhouse Company,2,
 302-2-12815,French Horn Solo,Sonatina No. 1,Mozart,Ramm,Medici Music Press,2,(play one mvt)
-302-2-12780,French Horn Solo,Minuet,Beethoven,Ostrander,"Edition Musicus-New York, Inc. [Concert Album for Horn and Piano]",2,
-302-2-12791,French Horn Solo,Air (from Orpheus),Gluck,Ostrander,"Edition Musicus-New York, Inc. [Concert Album for Horn and Piano]",2,
-302-2-12804,French Horn Solo,Plaister d'Amour,Martini,Ostrander,"Edition Musicus-New York, Inc. [Concert Album for Horn and Piano]",2,
-302-2-12829,French Horn Solo,Berceuse (from The Firebird),Stravinsky,Ostrander,"Edition Musicus-New York, Inc. [Concert Album for Horn and Piano]",2,
+302-2-12780,French Horn Solo,Concert Album for Horn and Piano,various,Ostrander,"Edition Musicus-New York, Inc. [Concert Album for Horn and Piano]",2,(play Minuet OR Air from Orpheus OR Plaister d'Amour OR Berceuse from The Firebird)
 302-2-12816,French Horn Solo,Se Tu M'Ami,Pergolesi,Elkan,Henri Elkan,2,
 302-2-12817,French Horn Solo,Eight Bel Canto Songs,Phillips,,Shawnee Press,2,(play one song)
 302-2-12818,French Horn Solo,9th Solo de Concours,Porret,,Molenaar,2,
@@ -80,9 +73,9 @@ Code,Event Name,Title,Composer,Arranger,Publisher [Collection],Grade,Specificati
 302-2-12820,French Horn Solo,Design,Raymond,,"Western International Music, Inc.",2,
 302-2-12822,French Horn Solo,Romance Op. 36,Saint-Saens,,"Edition Musicus-New York, Inc.;International Music Company",2,
 302-2-12825,French Horn Solo,Etchings,Schudel,,Southern Music Company,2,(play one mvt)
-302-2-12826,French Horn Solo,Abendlied and Traumeri,Schumann,Klemcke,"Carl Fischer, Inc.",2,(play both)
+302-2-12826,French Horn Solo,Abendlied and Traumeri,Schumann,Klemcke,"Carl Fischer, Inc.",2,
 302-2-12827,French Horn Solo,Romance,Scriabin,,Music Corporation of America,2,
-302-2-12828,French Horn Solo,1st Suite: March,Fischer,Stelten,Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande],2,(must also play three additional mvts from the 1st suite of this collection)
+302-2-12828,French Horn Solo,Deux Suites de Danses de L'Epoque Baroque Allemande,various,Stelten,Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande],2,(play FOUR different dances from one suite)
 302-2-12807,French Horn Solo,A Tear,Moussorgsky,Hanson,"Hal Leonard Music, Inc. [Master Solo Collection]",2,
 302-2-12821,French Horn Solo,the Swan,Saint-Saens,Stout,"Hal Leonard Music, Inc. [Master Solo Collection]",2,
 302-2-12830,French Horn Solo,Petite Suite de Danses Anciennes,Susato,Stelten,Alphonse Leduc,2,(play five)
@@ -99,15 +92,12 @@ Code,Event Name,Title,Composer,Arranger,Publisher [Collection],Grade,Specificati
 302-3-12842,French Horn Solo,Kendor Recital Solos,Various,,"Kendor Music, Inc.;Kendor Music, Inc. [Kendor Recital Solos]",3,(play one)
 302-3-12843,French Horn Solo,Meditation,Buchtel,,Neil A. Kjos Music Company,3,
 302-3-12844,French Horn Solo,Cavatina,Chopin,Buchtel,Neil A. Kjos Music Company,3,
-302-3-12847,French Horn Solo,Ayre,Clarke,Dishinger,"Medici Music Press [Medici Masterworks, Vol. I]",3,
+302-3-12847,French Horn Solo,"Medici Masterworks, Vol. I",various,Dishinger,"Medici Music Press [Medici Masterworks, Vol. I]",3,"(play Ayre OR The St, Catherine Rigaudon OR Tambourin OR Courante OR Gavotte OR La Voltigeuse)"
 302-3-12848,French Horn Solo,Berceuse (from Jocelyn),Godard,Buchtel,Neil A. Kjos Music Company,3,
 302-3-12849,French Horn Solo,To Spring,Grieg,Smith/Farkas,"Belwin, Inc",3,
 302-3-12850,French Horn Solo,Allegro Giocoso,Haddad,,Shawnee Press,3,
 302-3-12851,French Horn Solo,Dance of the Bears,Harris,,Ludwig Music Publishing Company;Mitchell Peters,3,
-302-3-12845,French Horn Solo,Nocturne,Chopin,Hudadoff,"Belwin, Inc [Fifteen Intermediate F Horn Solos]",3,
-302-3-12846,French Horn Solo,Reverie,Debussy,Hudadoff,"Belwin, Inc [Fifteen Intermediate F Horn Solos]",3,
-302-3-12860,French Horn Solo,Gopak,Moussorgsky,Hudadoff,"Belwin, Inc [Fifteen Intermediate F Horn Solos]",3,
-302-3-12875,French Horn Solo,Spanish Waltzes,Waldteufel,Hudadoff,"Belwin, Inc [Fifteen Intermediate F Horn Solos]",3,
+302-3-12845,French Horn Solo,Fifteen Intermediate F Horn Solos,various,Hudadoff,"Belwin, Inc [Fifteen Intermediate F Horn Solos]",3,(play Nocturne OR Reverie OR Gopak OR Spanish Waltzes)
 302-3-12852,French Horn Solo,Meadowland,Anon. or Trad.,Hurrel,"Rubank, Inc.",3,
 302-3-12853,French Horn Solo,A Pocket Full of Posies,Irwin,,Irwin,3,(play two contrasting mvts)
 302-3-12855,French Horn Solo,Windmills,James,,Basil Ramsey,3,
@@ -130,34 +120,7 @@ Code,Event Name,Title,Composer,Arranger,Publisher [Collection],Grade,Specificati
 302-3-12873,French Horn Solo,Three Songs Op. 10,Strauss,Davis,"Western International Music, Inc.",3,(play one)
 302-1-12727,French Horn Solo,Villanelle,Dukas,,"G. Schirmer, Inc. [Solos for the Horn Player]",1,
 302-2-12824,French Horn Solo,Sonata for Horn and Piano,Schmidt,,"Western International Music, Inc.",2,(play mvt 2)
-302-3-23559,French Horn Solo,The St. Catherine Rigaudon,Barrett,Dishinger,"Medici Music Press [Medici Masterworks, Vol. I]",3,
-302-3-23560,French Horn Solo,Tambourin (from Pieces de Clavecin),Rameau,Dishinger,"Medici Music Press [Medici Masterworks, Vol. I]",3,
-302-3-23561,French Horn Solo,Courante,Lully,Dishinger,"Medici Music Press [Medici Masterworks, Vol. I]",3,
-302-3-23562,French Horn Solo,Gavotte (from Sonata No. 7),Handel,Dishinger,"Medici Music Press [Medici Masterworks, Vol. I]",3,
-302-3-23563,French Horn Solo,La Voltigeuse (from Three Small Pieces for Piano),Marpurg,Dishinger,"Medici Music Press [Medici Masterworks, Vol. I]",3,
-302-2-23754,French Horn Solo,1st Suite: Bourree,Krieger,Stelten,Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande],2,(must also play three additional mvts from the 1st suite of this collection)
-302-2-23755,French Horn Solo,1st Suite: Sarabande,Reusner,Stelten,Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande],2,(must also play three additional mvts from the 1st suite of this collection)
-302-2-23756,French Horn Solo,1st Suite: Menuet,Krieger,Stelten,Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande],2,(must also play three additional mvts from the 1st suite of this collection)
-302-2-23757,French Horn Solo,1st Suite: Menuet,Bach,Stelten,Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande],2,(must also play three additional mvts from the 1st suite of this collection)
-302-2-23758,French Horn Solo,1st Suite: Rondeau,Fischer,Stelten,Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande],2,(must also play three additional mvts from the 1st suite of this collection)
-302-2-23759,French Horn Solo,2nd Suite: Rigaudon,Bohm,Stelten,Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande],2,(must also play three additional mvts from the 2nd suite of this collection)
-302-2-23760,French Horn Solo,2nd Suite: Bourree,Krieger,Stelten,Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande],2,(must also play three additional mvts from the 2nd suite of this collection)
-302-2-23761,French Horn Solo,2nd Suite: Sarabande,Kuhnau,Stelten,Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande],2,(must also play three additional mvts from the 2nd suite of this collection)
-302-2-23762,French Horn Solo,2nd Suite: Menuet,Schickhardt,Stelten,Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande],2,(must also play three additional mvts from the 2nd suite of this collection)
-302-2-23763,French Horn Solo,2nd Suite: Menuet,Telemann,Stelten,Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande],2,(must also play three additional mvts from the 2nd suite of this collection)
-302-2-23764,French Horn Solo,2nd Suite: Ronde,Fischer,Stelten,Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande],2,(must also play three additional mvts from the 2nd suite of this collection)
-302-3-23765,French Horn Solo,1st Suite: March,Fischer,Stelten,Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande],3,(must also play one additional mvt from the 1st suite of this collection)
-302-3-23766,French Horn Solo,1st Suite: Bourree,Krieger,Stelten,Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande],3,(must also play one additional mvt from the 1st suite of this collection)
-302-3-23767,French Horn Solo,1st Suite: Sarabande,Reusner,Stelten,Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande],3,(must also play one additional mvt from the 1st suite of this collection)
-302-3-23768,French Horn Solo,1st Suite: Menuet,Krieger,Stelten,Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande],3,(must also play one additional mvt from the 1st suite of this collection)
-302-3-23769,French Horn Solo,1st Suite: Menuet,Bach,Stelten,Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande],3,(must also play one additional mvt from the 1st suite of this collection)
-302-3-23770,French Horn Solo,1st Suite: Rondeau,Fischer,Stelten,Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande],3,(must also play one additional mvt from the 1st suite of this collection)
-302-3-23771,French Horn Solo,2nd Suite: Rigaudon,Bohm,Stelten,Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande],3,(must also play one additional mvt from the 2nd suite of this collection)
-302-3-23772,French Horn Solo,2nd Suite: Bourree,Krieger,Stelten,Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande],3,(must also play one additional mvt from the 2nd suite of this collection)
-302-3-23773,French Horn Solo,2nd Suite: Sarabande,Kuhnau,Stelten,Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande],3,(must also play one additional mvt from the 2nd suite of this collection)
-302-3-23774,French Horn Solo,2nd Suite: Menuet,Schickhardt,Stelten,Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande],3,(must also play one additional mvt from the 2nd suite of this collection)
-302-3-23775,French Horn Solo,2nd Suite: Menuet,Telemann,Stelten,Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande],3,(must also play one additional mvt from the 2nd suite of this collection)
-302-3-23776,French Horn Solo,2nd Suite: Ronde,Fischer,Stelten,Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande],3,(must also play one additional mvt from the 2nd suite of this collection)
+302-3-23765,French Horn Solo,Deux Suites de Danses de L'Epoque Baroque Allemande,various,Stelten,Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande],3,(play TWO different dances from one suite)
 302-1-29631,French Horn Solo,Blues and Variations for Monk,Amram,,C.F. Peters Corporation,1,(unaccomp)
 302-1-29633,French Horn Solo,Sonata for Horn and Piano,Stevens,,Robert King,1,(play one mvt)
 302-2-29639,French Horn Solo,Concerto for Horn,Mercadante,Kuyper,"Kendor Music, Inc.",2,(play mvt 1)
@@ -172,8 +135,7 @@ Code,Event Name,Title,Composer,Arranger,Publisher [Collection],Grade,Specificati
 302-2-30469,French Horn Solo,Honor and Arms (from Samson),Handel,Kaisershot,"Kendor Music, Inc.",2,
 302-2-30470,French Horn Solo,Hail The Conquering Hero,Handel,Frackenpohl,"Kendor Music, Inc.",2,
 302-3-30471,French Horn Solo,A Celebration,Schudel,,"Kendor Music, Inc.",3,
-302-3-30472,French Horn Solo,Minuet And Rigadoon,Purcell,Hilfiger,"Kendor Music, Inc. [First Solo Album for Horn]",3,
-302-3-30473,French Horn Solo,Andantino (O Rest In The Lord),Mendelssohn,Hilfiger,"Kendor Music, Inc. [First Solo Album for Horn]",3,
+302-3-30472,French Horn Solo,First Solo Album for Horn,various,Hilfiger,"Kendor Music, Inc. [First Solo Album for Horn]",3,(play Minuet and Rigadoon OR Andantino from O Rest in The Lord)
 302-1-32397,French Horn Solo,Alla Caccia,Abbott,,Weinberger Publishing,1,
 302-1-32398,French Horn Solo,Fantasy for French Horn,Arnold,,"Faber Music, Ltd.",1,(unaccomp)
 302-1-32399,French Horn Solo,Three Hymn Tune Settings,Basler,,Williams Music Publications,1,
@@ -250,3 +212,16 @@ Code,Event Name,Title,Composer,Arranger,Publisher [Collection],Grade,Specificati
 302-3-38567,French Horn Solo,Art Songs for Young Folks,various,Freidrich,Sheet Music Plus Press,3,
 302-3-38568,French Horn Solo,7 Faure Art Songs,Faure,Freidrich,Sheet Music Plus Press,3,(play Les Matelots OR Aurore)
 302-3-38569,French Horn Solo,Art Songs for Young Folks Vol 2,,Freidrich,Sheet Music Plus Press,3,(play Ich Liebe Dich by Beethoven OR Grieg)
+302-1-41671,French Horn Solo,LIFT: Solos for Horn by Black Composers,various,McGillivray,Cimarron Music Press,1,"(play one from: Friendship's Source of Joy, Deep River, Sympathy, Adagio Cantabile, The First Solo Flight, Dahomey Passacaglia)"
+302-1-41672,French Horn Solo,Reimaginings,Gulino,,Cimarron Music Press,1,(play one mvt)
+302-1-41673,French Horn Solo,Checkers,Paget,,Keiser Music Publications,1,
+302-1-41674,French Horn Solo,The Mulligan Gambol,Paget,,Keiser Music Publications,1,
+302-1-41675,French Horn Solo,"Scherzo, Song and Prayer",Musella,,MKT Music Publications,1,
+302-2-41676,French Horn Solo,24 Classic Solos for Winds,various,,"Carl Fischer, Inc.",2,"(play Adoration OR Allegro non troppo from 6 Kinderstucke, Op.72)"
+302-2-41677,French Horn Solo,Sound Innovations Soloist for Intermediate Musicians,various,,"Alfred Music Company, Inc.",2,"(play one from: Apple Honey, Metro Morning, Jubilation!, Up in the Sky, Majestic Celebration, Mustang Spirit, Tambourine Dance, Crowley's Ridge, A Classic Moment, Dance of the Night, Tarantella)"
+302-2-41678,French Horn Solo,LIFT: Solos for Horn by Black Composers,various,McGillivray,Cimarron Music Press,2,(play Old St. John OR When I'm Older)
+302-2-41679,French Horn Solo,"Aura, Goddess of the Breeze",Guardia JR,,Cimarron Music Press,2,
+302-2-41680,French Horn Solo,Solveig's Song,Grieg,Paget,Keiser Music Publications,2,
+302-2-41681,French Horn Solo,The Voices That Are Gone,Foster,Paget,Keiser Music Publications,2,
+302-2-41682,French Horn Solo,Andante Maestoso,von Suppe,Steber,MKT Music Publications,2,
+302-3-41683,French Horn Solo,Sound Innovations Soloist for Intermediate Musicians,various,,"Alfred Music Company, Inc.",3,"(play one from: Stopping by Woods on a Snowy Evening, The Call of Artemis, A Simple Song of Love, Kilkenny Castle, Carnival)"

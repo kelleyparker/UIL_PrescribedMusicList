@@ -2,21 +2,21 @@
   "schoolYear": "2025-2026",
   "instrumentSlug": "woodwind-quintet",
   "instrumentName": "Woodwind Quintets",
-  "songCount": 219,
-  "publisherCount": 229,
+  "songCount": 230,
+  "publisherCount": 240,
   "noteCount": 1,
-  "databaseRecordCount": 220,
+  "databaseRecordCount": 230,
   "classBreakdown": {
     "3": 18,
-    "2": 61,
-    "1": 140
+    "2": 62,
+    "1": 150
   },
   "noMemoryRequiredCount": 0,
   "publicDomainPdfCount": 0,
   "eventBreakdown": {
-    "Woodwind Quintet": 219
+    "Woodwind Quintet": 230
   },
   "notes": {
-    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-03-28T15:07:47.829046+00:00."
+    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-09-04T16:51:54.580228+00:00."
   }
 }

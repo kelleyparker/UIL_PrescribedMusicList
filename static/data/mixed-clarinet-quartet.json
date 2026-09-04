@@ -1176,6 +1176,27 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "244-2-41856",
+    "instrumentSlug": "mixed-clarinet-quartet",
+    "instrumentName": "Mixed Clarinet Quartets",
+    "eventName": "Mixed Clarinet Quartet",
+    "title": "Credo",
+    "composer": "Vivaldi",
+    "arranger": "Gregory",
+    "publishers": [
+      "JW Pepper"
+    ],
+    "publisherText": "JW Pepper",
+    "classLevel": 2,
+    "specification": "(play one mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/credo-5988978/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "244-2-11942",
     "instrumentSlug": "mixed-clarinet-quartet",
     "instrumentName": "Mixed Clarinet Quartets",
@@ -1503,7 +1524,7 @@
     ],
     "publisherText": "Aspenwood Music",
     "classLevel": 1,
-    "specification": "(Eb/2 Bb Cl/Bass)",
+    "specification": "(Eb, 2 Bb, bass)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -1586,27 +1607,6 @@
       "CAMco Music"
     ],
     "publisherText": "CAMco Music",
-    "classLevel": 1,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": null,
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": null
-  },
-  {
-    "uilCode": "244-1-11895",
-    "instrumentSlug": "mixed-clarinet-quartet",
-    "instrumentName": "Mixed Clarinet Quartets",
-    "eventName": "Mixed Clarinet Quartet",
-    "title": "Clarinet Quartet No. 1",
-    "composer": "Endresen",
-    "arranger": "",
-    "publishers": [
-      "Belwin, Inc"
-    ],
-    "publisherText": "Belwin, Inc",
     "classLevel": 1,
     "specification": "",
     "noMemoryRequired": false,
@@ -1974,27 +1974,6 @@
     "sheetMusicAffiliateSource": null
   },
   {
-    "uilCode": "244-1-11898",
-    "instrumentSlug": "mixed-clarinet-quartet",
-    "instrumentName": "Mixed Clarinet Quartets",
-    "eventName": "Mixed Clarinet Quartet",
-    "title": "Procession of the Sardar",
-    "composer": "Ippolitov-Ivanov",
-    "arranger": "Debueris",
-    "publishers": [
-      "Belwin, Inc"
-    ],
-    "publisherText": "Belwin, Inc",
-    "classLevel": 1,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/procession-of-the-sardar-10482699/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
     "uilCode": "244-1-26489",
     "instrumentSlug": "mixed-clarinet-quartet",
     "instrumentName": "Mixed Clarinet Quartets",
@@ -2100,19 +2079,19 @@
     "sheetMusicAffiliateSource": null
   },
   {
-    "uilCode": "244-1-11902",
+    "uilCode": "244-1-41855",
     "instrumentSlug": "mixed-clarinet-quartet",
     "instrumentName": "Mixed Clarinet Quartets",
     "eventName": "Mixed Clarinet Quartet",
-    "title": "First Quartet",
-    "composer": "Mayeur",
-    "arranger": "Voxman",
+    "title": "Finding the Words",
+    "composer": "Markowski",
+    "arranger": "",
     "publishers": [
-      "Rubank, Inc."
+      "Markowski Creative"
     ],
-    "publisherText": "Rubank, Inc.",
+    "publisherText": "Markowski Creative",
     "classLevel": 1,
-    "specification": "",
+    "specification": "(play one mvt)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -2512,6 +2491,27 @@
     "publisherText": "Edition Lemoine",
     "classLevel": 1,
     "specification": "(play one mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "244-1-41854",
+    "instrumentSlug": "mixed-clarinet-quartet",
+    "instrumentName": "Mixed Clarinet Quartets",
+    "eventName": "Mixed Clarinet Quartet",
+    "title": "Plastic Thing",
+    "composer": "Rahn",
+    "arranger": "",
+    "publishers": [
+      "chrisrahnmusic.com"
+    ],
+    "publisherText": "chrisrahnmusic.com",
+    "classLevel": 1,
+    "specification": "(Eb, 2 Bb, bass)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,

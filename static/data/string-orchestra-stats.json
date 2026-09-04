@@ -2,23 +2,23 @@
   "schoolYear": "2025-2026",
   "instrumentSlug": "string-orchestra",
   "instrumentName": "String Orchestra",
-  "songCount": 1476,
-  "publisherCount": 1530,
+  "songCount": 1570,
+  "publisherCount": 1627,
   "noteCount": 1,
-  "databaseRecordCount": 1477,
+  "databaseRecordCount": 1570,
   "classBreakdown": {
-    "5": 188,
-    "4": 313,
-    "3": 450,
-    "2": 339,
-    "1": 169
+    "5": 198,
+    "4": 323,
+    "3": 475,
+    "2": 368,
+    "1": 189
   },
   "noMemoryRequiredCount": 0,
   "publicDomainPdfCount": 0,
   "eventBreakdown": {
-    "String Orchestra": 1476
+    "String Orchestra": 1570
   },
   "notes": {
-    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-03-28T15:07:48.315032+00:00."
+    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-09-04T16:57:09.972618+00:00."
   }
 }

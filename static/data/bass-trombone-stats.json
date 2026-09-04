@@ -2,21 +2,21 @@
   "schoolYear": "2025-2026",
   "instrumentSlug": "bass-trombone",
   "instrumentName": "Bass Trombone Solos",
-  "songCount": 96,
-  "publisherCount": 100,
+  "songCount": 104,
+  "publisherCount": 108,
   "noteCount": 1,
-  "databaseRecordCount": 97,
+  "databaseRecordCount": 104,
   "classBreakdown": {
     "3": 1,
-    "2": 14,
-    "1": 81
+    "2": 15,
+    "1": 88
   },
   "noMemoryRequiredCount": 10,
   "publicDomainPdfCount": 0,
   "eventBreakdown": {
-    "Bass Trombone Solo": 96
+    "Bass Trombone Solo": 104
   },
   "notes": {
-    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-03-28T15:07:47.559395+00:00."
+    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-09-04T16:48:48.377310+00:00."
   }
 }

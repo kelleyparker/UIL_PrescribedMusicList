@@ -2,21 +2,21 @@
   "schoolYear": "2025-2026",
   "instrumentSlug": "horn-quartet",
   "instrumentName": "Horn Quartets",
-  "songCount": 166,
-  "publisherCount": 166,
+  "songCount": 109,
+  "publisherCount": 109,
   "noteCount": 1,
-  "databaseRecordCount": 167,
+  "databaseRecordCount": 109,
   "classBreakdown": {
-    "3": 22,
-    "2": 103,
-    "1": 41
+    "3": 13,
+    "2": 52,
+    "1": 44
   },
   "noMemoryRequiredCount": 0,
   "publicDomainPdfCount": 0,
   "eventBreakdown": {
-    "Horn Quartet": 166
+    "Horn Quartet": 109
   },
   "notes": {
-    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-03-28T15:07:47.912745+00:00."
+    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-09-04T16:52:30.153307+00:00."
   }
 }

@@ -117,7 +117,7 @@ Code,Event Name,Title,Composer,Arranger,Publisher [Collection],Grade,Specificati
 303-2-13001,Tenor Trombone Solo,Lyric Interlude,Johnson,,"Rubank, Inc.",2,
 303-2-13003,Tenor Trombone Solo,Romanze,Klughardt,Muller,Jack Spratt Music Publishers,2,
 303-2-13004,Tenor Trombone Solo,Arietta,Lotti,Smim,"Edition Musicus-New York, Inc.",2,
-303-2-13005,Tenor Trombone Solo,Mozart Sonatina,Mozart,Ernst,"Kendor Music, Inc.",2,(play all)
+303-2-13005,Tenor Trombone Solo,Mozart Sonatina,Mozart,Ernst,"Kendor Music, Inc.",2,
 303-2-13006,Tenor Trombone Solo,Gavotte and Hornpipe,Purcell,Dishinger,Medici Music Press,2,
 303-2-13007,Tenor Trombone Solo,Suite in F Major,Purcell,Maganini,"Edition Musicus-New York, Inc.",2,(play two mvts except mvt 3)
 303-2-13008,Tenor Trombone Solo,Vocalise Op. 34 No. 14,Rachmaninoff,Brown,International Music Company,2,
@@ -136,11 +136,10 @@ Code,Event Name,Title,Composer,Arranger,Publisher [Collection],Grade,Specificati
 303-3-13022,Tenor Trombone Solo,Bach for Trombone,Bach,Krane,Jack Spratt Music Publishers,3,(play one)
 303-1-13024,Tenor Trombone Solo,Petite Piece Concertante,Balay,Voxman,"Rubank, Inc. [Concert and Contest Collection for Baritone  (or Cornet Treble Clef)]",1,
 303-3-13025,Tenor Trombone Solo,Four Miniatures,Boyle,,"Boosey & Hawkes, Inc.",3,(play two)
-303-3-13027,Tenor Trombone Solo,Meditation,Concone,Gower,"Rubank, Inc. [Rubank Trombone or Baritone Solos]",3,
-303-3-13026,Tenor Trombone Solo,Berceuse,Concone,Gower,"Rubank, Inc. [Rubank Trombone or Baritone Solos]",3,
+303-3-13026,Tenor Trombone Solo,Rubank Trombone or Baritone Solos,various,various,"Rubank, Inc. [Rubank Trombone or Baritone Solos]",3,(play Berceuse OR Meditation OR Saraband OR Allerseelen)
 303-3-13028,Tenor Trombone Solo,Sarabande,Corelli,Dishinger,Medici Music Press,3,
 303-3-13029,Tenor Trombone Solo,Sailor's Song,Couperin,Dishinger,Medici Music Press,3,
-303-3-13030,Tenor Trombone Solo,Ayre,Clarke,Dishinger,"Medici Music Press [Medici Masterworks, Vol. 1]",3,
+303-3-13030,Tenor Trombone Solo,"Medici Masterworks, Vol. I",various,Dishinger,"Medici Music Press [Medici Masterworks, Vol. 1]",3,"(play Ayre OR The St, Catherine Rigaudon OR Tambourin OR Courante OR Gavotte OR La Voltigeuse)"
 303-3-13031,Tenor Trombone Solo,Allegro (from Trio No. 3),Druchetzky,Dishinger,Medici Music Press,3,
 303-3-13032,Tenor Trombone Solo,Complainte,Gabaye,,Alphonse Leduc,3,
 303-3-13033,Tenor Trombone Solo,Two Classic Airs,Gluck,Clark,"Edition Musicus-New York, Inc.",3,(play one)
@@ -148,9 +147,8 @@ Code,Event Name,Title,Composer,Arranger,Publisher [Collection],Grade,Specificati
 303-3-13035,Tenor Trombone Solo,Cantilena,Handel,Buchtel,Neil A. Kjos Music Company,3,
 303-3-13034,Tenor Trombone Solo,Bourree,Handel,Dishinger,Medici Music Press,3,
 303-3-13038,Tenor Trombone Solo,Where 'er You Walk,Handel,Dishinger,Medici Music Press,3,
-303-3-13036,Tenor Trombone Solo,Saraband,Handel,Gower,"Rubank, Inc. [Rubank Trombone or Baritone Solos]",3,
 303-3-13039,Tenor Trombone Solo,King's Jester,Harris,,Ludwig Music Publishing Company,3,
-303-3-13040,Tenor Trombone Solo,Eudoxia,Baring-Gould,Lawton,"Oxford University Press [The Young Trombonist, Vol. 1]",3,
+303-3-13040,Tenor Trombone Solo,"The Young Trombonist, Vol. 1",various,Lawton,"Oxford University Press [The Young Trombonist, Vol. 1]",3,(play any one solo)
 303-3-13041,Tenor Trombone Solo,A Mozart Album,Anon. or Trad.,Lethbridge,Oxford University Press,3,(play mvts 1 or 2)
 303-3-13042,Tenor Trombone Solo,Gavotte in Rondeau,Lully,Post,Medici Music Press,3,
 303-3-13043,Tenor Trombone Solo,Menuet,Marpurg,Dishinger,Medici Music Press,3,
@@ -169,47 +167,17 @@ Code,Event Name,Title,Composer,Arranger,Publisher [Collection],Grade,Specificati
 303-3-13056,Tenor Trombone Solo,Chanson D'Aout,Seguin,,Alphonse Leduc,3,
 303-3-13057,Tenor Trombone Solo,A Minor Etude,Solomon,,Southern Music Company,3,
 303-3-13058,Tenor Trombone Solo,Slip Up Polka,Solomon,,Southern Music Company,3,
-303-3-13059,Tenor Trombone Solo,Allerseelen Op. 10 No. 8,Strauss,Walters,"Rubank, Inc. [Rubank Trombone or Baritone Solos]",3,
 303-3-13060,Tenor Trombone Solo,Emerald (from Trombone Gems),VanderCook,,"Rubank, Inc.",3,
 303-3-13061,Tenor Trombone Solo,Ruby,VanderCook,,"Rubank, Inc.",3,
 303-3-13062,Tenor Trombone Solo,A Winter's Willow,Vaughan Williams,Dishinger,Medici Music Press,3,
 303-3-13063,Tenor Trombone Solo,Impressions,Ward,,"Kendor Music, Inc.",3,
-303-3-23564,Tenor Trombone Solo,The St. Catherine Rigaudon,Barrett,Dishinger,"Medici Music Press [Medici Masterworks, Vol. 1]",3,
-303-3-23565,Tenor Trombone Solo,Tambourin (from Pieces de Clavecin),Rameau,Dishinger,"Medici Music Press [Medici Masterworks, Vol. 1]",3,
-303-3-23566,Tenor Trombone Solo,Courante,Lully,Dishinger,"Medici Music Press [Medici Masterworks, Vol. 1]",3,
-303-3-23567,Tenor Trombone Solo,Gavotte (from Sonata No. 7),Handel,Dishinger,"Medici Music Press [Medici Masterworks, Vol. 1]",3,
-303-3-23568,Tenor Trombone Solo,La Voltigeuse (from Three Small Pieces for Piano),Marpurg,Dishinger,"Medici Music Press [Medici Masterworks, Vol. 1]",3,
-303-3-23569,Tenor Trombone Solo,In dulci jubilo,Anon. or Trad.,Lawton,"Oxford University Press [The Young Trombonist, Vol. 1]",3,
-303-3-23570,Tenor Trombone Solo,Sussex Carol,Anon. or Trad.,Lawton,"Oxford University Press [The Young Trombonist, Vol. 1]",3,
-303-3-23571,Tenor Trombone Solo,St. Anne,Croft,Lawton,"Oxford University Press [The Young Trombonist, Vol. 1]",3,
-303-3-23572,Tenor Trombone Solo,Lasst Uns Erfreuen,Anon. or Trad.,Lawton,"Oxford University Press [The Young Trombonist, Vol. 1]",3,
-303-3-23573,Tenor Trombone Solo,Ye Banks and Braes,Anon. or Trad.,Lawton,"Oxford University Press [The Young Trombonist, Vol. 1]",3,
-303-3-23574,Tenor Trombone Solo,3rd Mode Melody,Tallis,Lawton,"Oxford University Press [The Young Trombonist, Vol. 1]",3,
-303-3-23575,Tenor Trombone Solo,Let Erin Remeber the Days of Old,Anon. or Trad.,Lawton,"Oxford University Press [The Young Trombonist, Vol. 1]",3,
-303-3-23576,Tenor Trombone Solo,It Came Upon the Midnight Clear,Sullivan,Lawton,"Oxford University Press [The Young Trombonist, Vol. 1]",3,
-303-3-23577,Tenor Trombone Solo,Away in a Manger,Kirkpatrick,Lawton,"Oxford University Press [The Young Trombonist, Vol. 1]",3,
-303-3-23578,Tenor Trombone Solo,O Little Town of Bethlehem,Anon. or Trad.,Lawton,"Oxford University Press [The Young Trombonist, Vol. 1]",3,
-303-3-23579,Tenor Trombone Solo,Eibhlin a Ruin,Anon. or Trad.,Lawton,"Oxford University Press [The Young Trombonist, Vol. 1]",3,
-303-3-23580,Tenor Trombone Solo,Unto Us A Boy Is Born,Cantiones,Lawton,"Oxford University Press [The Young Trombonist, Vol. 1]",3,
-303-3-23581,Tenor Trombone Solo,Wachet auf,Bach,Lawton,"Oxford University Press [The Young Trombonist, Vol. 1]",3,
-303-3-23582,Tenor Trombone Solo,Repton,Parry,Lawton,"Oxford University Press [The Young Trombonist, Vol. 1]",3,
-303-3-23583,Tenor Trombone Solo,Rhyfelgyrch Capten Morgan,Anon. or Trad.,Lawton,"Oxford University Press [The Young Trombonist, Vol. 1]",3,
-303-3-23584,Tenor Trombone Solo,The Old 100th,Anon. or Trad.,Lawton,"Oxford University Press [The Young Trombonist, Vol. 1]",3,
-303-3-23585,Tenor Trombone Solo,O Jesulein Suss,Bach,Lawton,"Oxford University Press [The Young Trombonist, Vol. 1]",3,
-303-3-23586,Tenor Trombone Solo,Once In Royal David's City,Gauntlett,Lawton,"Oxford University Press [The Young Trombonist, Vol. 1]",3,
-303-3-23587,Tenor Trombone Solo,Theme (from Symphony No. 9),Beethoven,Lawton,"Oxford University Press [The Young Trombonist, Vol. 1]",3,
-303-3-23588,Tenor Trombone Solo,Dafydd y Garreg Wen,Anon. or Trad.,Lawton,"Oxford University Press [The Young Trombonist, Vol. 1]",3,
-303-3-23589,Tenor Trombone Solo,Rocking,Anon. or Trad.,Lawton,"Oxford University Press [The Young Trombonist, Vol. 1]",3,
-303-3-23590,Tenor Trombone Solo,Llwyn On,Anon. or Trad.,Lawton,"Oxford University Press [The Young Trombonist, Vol. 1]",3,
-303-3-23591,Tenor Trombone Solo,Greensleeves,Anon. or Trad.,Lawton,"Oxford University Press [The Young Trombonist, Vol. 1]",3,
-303-3-23592,Tenor Trombone Solo,The Kings,Cornelius,Lawton,"Oxford University Press [The Young Trombonist, Vol. 1]",3,
 303-1-28173,Tenor Trombone Solo,Concertino,Larsson,,Gehr,1,(play mvts 1 & 2 or 2 & 3)
 303-1-12911,Tenor Trombone Solo,Concerto,Grondahl,,C.F. Peters Corporation,1,"(play mvts 1 & 2, or 2 & 3)"
-303-2-29840,Tenor Trombone Solo,Austin Park March,Frackenpohl,,"Kendor Music, Inc.",2,(play all)
+303-2-29840,Tenor Trombone Solo,Austin Park March,Frackenpohl,,"Kendor Music, Inc.",2,
 303-1-29841,Tenor Trombone Solo,Concertino,Sachse,,International Music Company,1,
 303-1-29842,Tenor Trombone Solo,Concerto #2 in A Major,Reiche,,International Music Company,1,
 303-1-29843,Tenor Trombone Solo,Concertino,Jacob,,Emerson Editions,1,
-303-2-29844,Tenor Trombone Solo,Norwegian Dance,Grieg,Bender,MSB,2,(play all)
+303-2-29844,Tenor Trombone Solo,Norwegian Dance,Grieg,Bender,MSB,2,
 303-1-29845,Tenor Trombone Solo,Concertino in Eb,Kuhne,,"Belwin, Inc",1,
 303-1-29846,Tenor Trombone Solo,A' La Maniere De Bach,Defaye,,Alphonse Leduc,1,
 303-1-29847,Tenor Trombone Solo,A' La Maniere De Schumann,Defaye,,Alphonse Leduc,1,
@@ -219,7 +187,7 @@ Code,Event Name,Title,Composer,Arranger,Publisher [Collection],Grade,Specificati
 303-1-29851,Tenor Trombone Solo,Aria and Polonaise,Jongen,,"Alfred Music Company, Inc.",1,
 303-3-29852,Tenor Trombone Solo,Caprice for Trombone and Piano,Pekas,,Grand Mesa Music Publishers,3,(play all)
 303-3-29853,Tenor Trombone Solo,Majestic Major for Trombone and Piano,Pekas,,Grand Mesa Music Publishers,3,(play all)
-303-2-29854,Tenor Trombone Solo,Elegy for Trombone and Piano,Massanet,Frasier,Grand Mesa Music Publishers,2,(play all)
+303-2-29854,Tenor Trombone Solo,Elegy for Trombone and Piano,Massanet,Frasier,Grand Mesa Music Publishers,2,
 303-1-29856,Tenor Trombone Solo,Variations,Stekke,,Henri Elkan,1,(play Theme & any 2 variations)
 303-1-29857,Tenor Trombone Solo,Capriccio,Bonneau,,Alphonse Leduc,1,
 303-1-29858,Tenor Trombone Solo,Deuxieme Solo de Concert,Vidal,,Alphonse Leduc,1,
@@ -231,7 +199,6 @@ Code,Event Name,Title,Composer,Arranger,Publisher [Collection],Grade,Specificati
 303-1-12895,Tenor Trombone Solo,Fantasy,Creston,,"G. Schirmer, Inc.",1,(play all) NMR:(play all)
 303-1-12901,Tenor Trombone Solo,"Choral, Cadence et Fugato",Dutilleux,,Alphonse Leduc,1,
 303-3-30457,Tenor Trombone Solo,Lullaby-Ukolebavka,Dvorak,Smisek,"Alliance Publications, Inc.",3,
-303-1-32414,Tenor Trombone Solo,Colors,Appermont,,Beriato/Hal Leonard,1,(play any 3 mvts) NMR:(play all)
 303-1-32415,Tenor Trombone Solo,Suites 1-6,Bach,Brown,International Music Company;Southern Music Company,1,(unaccomp)(play two contrasting mvts from one suite)
 303-1-32421,Tenor Trombone Solo,Suite,Bassett,,Pillin Music,1,(unaccomp)(play any 3 mvts)
 303-1-32422,Tenor Trombone Solo,Morning Walk,Bolter,,Air-ev Productions,1,(play all) NMR:(play all)
@@ -267,7 +234,7 @@ Code,Event Name,Title,Composer,Arranger,Publisher [Collection],Grade,Specificati
 303-1-37394,Tenor Trombone Solo,Two Spanish Dances,Granados,Sauer,Cherry Classics,1,
 303-1-37395,Tenor Trombone Solo,Prayer,Bloch,Cherry,Cherry Classics,1,
 303-1-37396,Tenor Trombone Solo,Three Pieces,Elgar,Sauer,Cherry Classics,1,
-303-1-37397,Tenor Trombone Solo,Sonata No. 1,Gulino,,Cimarron Music Press,1,
+303-1-37397,Tenor Trombone Solo,Sonata No. 1,Gulino,,Cimarron Music Press,1,(play mvts 1 & 2 OR 2 & 3)
 303-1-37398,Tenor Trombone Solo,Worlds Apart,Gulino,,Cimarron Music Press,1,(perform Tenor version)
 303-1-37399,Tenor Trombone Solo,Sonatina,Koetsier,,Donemus Amsterdam,1,
 303-1-37400,Tenor Trombone Solo,Csardas,Monti,Reift,Editions Marc Reift,1,
@@ -281,7 +248,6 @@ Code,Event Name,Title,Composer,Arranger,Publisher [Collection],Grade,Specificati
 303-1-37408,Tenor Trombone Solo,The Volunteer,Simons,Lake/Buckholz,Kagarice Brass Editions,1,
 303-1-37409,Tenor Trombone Solo,Colors,Appermonte,,Kameleon Editions,1,(play any 3 mvts) NMR:(play all)
 303-1-37410,Tenor Trombone Solo,Nocturno,Strauss,Lawrence,Marco Polo Publishing,1,
-303-1-37411,Tenor Trombone Solo,Arrows of Time,Peaslee,,Margun Music,1,
 303-1-37412,Tenor Trombone Solo,Canto II,Adler,,Oxford University Press,1,
 303-1-37413,Tenor Trombone Solo,Red Sky,Barfield,,Paarup Music Editions,1,
 303-1-37414,Tenor Trombone Solo,Sonata,Stevens,,Peer International,1,
@@ -300,3 +266,29 @@ Code,Event Name,Title,Composer,Arranger,Publisher [Collection],Grade,Specificati
 303-3-38570,Tenor Trombone Solo,Adelina,Tarrega,May,Lost Key Music,3,
 303-3-38571,Tenor Trombone Solo,Festival Solos,various,Pearson & Elledge,Neil A. Kjos Music Company,3,(play one solo EXCEPT Melody and Springtime Waltz)
 303-3-38572,Tenor Trombone Solo,"Festival Solos, Book 2",various,Pearson & Elledge,Neil A. Kjos Music Company,3,(play one solo)
+303-1-41684,Tenor Trombone Solo,Concerto Deciso,Bondon,,International Music Diffusion,1,(play mvts 1 & 2 OR 2 & 3)
+303-1-41685,Tenor Trombone Solo,Premier Concerto,Van Maele,,International Music Diffusion,1,(play mvts 1 & 2 OR 2 & 3)
+303-1-41686,Tenor Trombone Solo,Trombone Sonata (Antara),Hedwig,,Potenza Music,1,(play mvts 1 & 3 OR 2 & 3)
+303-1-41687,Tenor Trombone Solo,Fantasia per Trombone,Hidas,,Editio Musica Budapest,1,(unacomp)
+303-1-41688,Tenor Trombone Solo,Dramatische Fantaisie,Schampaert,,ALRY Publications,1,
+303-1-41689,Tenor Trombone Solo,Divertimento,Van Hoof,,ALRY Publications,1,
+303-1-41690,Tenor Trombone Solo,Sonata,Vande Ginste,,ALRY Publications,1,
+303-1-41691,Tenor Trombone Solo,Awaken,Rudy,,Alias Press,1,
+303-1-41692,Tenor Trombone Solo,Sonata for Trombone,Baker,,Cimarron Music Press,1,
+303-1-41693,Tenor Trombone Solo,Risus,Fontanot,,Cimarron Music Press,1,
+303-1-41694,Tenor Trombone Solo,Introduction et Allegro,Hugon,,International Music Diffusion,1,
+303-1-41695,Tenor Trombone Solo,Dialogue and Resonance,Rynduch-Gaertner,,International Music Diffusion,1,
+303-1-41696,Tenor Trombone Solo,"Variations on ""Annie Laurie""",Pryor,,LudwigMasters Publications,1,
+303-1-41697,Tenor Trombone Solo,Dance Party,Nitsch,,TUX Peoples Music,1,
+303-2-41698,Tenor Trombone Solo,Three Pastorales,Takahashi,,ALRY Publications,2,(play any two mvts)
+303-2-41699,Tenor Trombone Solo,Poseidon,Kaisershot,,Claude T. Smith Publications,2,
+303-2-41700,Tenor Trombone Solo,Ray of Light,Kuo,,Electric Violin Music,2,
+303-2-41701,Tenor Trombone Solo,Concertino,Clark,,JPM Music Publications,2,
+303-2-41702,Tenor Trombone Solo,Reverie,Gazlay,,JW Pepper,2,
+303-2-41703,Tenor Trombone Solo,Two Spanish Dances,Ostransky,,"Rubank, Inc.",2,
+303-3-41704,Tenor Trombone Solo,24 Classic Solos for Winds,various,,"Carl Fischer, Inc.",3,(play Adoration)
+303-3-41705,Tenor Trombone Solo,Sound Innovations Soloist for Intermediate Musicians: Trombone Solo Book,various,,"Alfred Music Company, Inc.",3,(play any selection)
+303-3-41706,Tenor Trombone Solo,Three Pastorales,Takahashi,,ALRY Publications,3,(play one mvt)
+303-3-41707,Tenor Trombone Solo,Devotion,Gazlay,,JW Pepper,3,
+303-3-41708,Tenor Trombone Solo,Day Dreamin',Gazlay,,JW Pepper,3,
+303-3-41709,Tenor Trombone Solo,Andante Maestoso,von Suppe,Steber,MKT Music Publications,3,

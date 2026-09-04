@@ -2,21 +2,21 @@
   "schoolYear": "2025-2026",
   "instrumentSlug": "bb-clarinet-solo",
   "instrumentName": "Bb Clarinet Solos",
-  "songCount": 267,
-  "publisherCount": 326,
+  "songCount": 274,
+  "publisherCount": 333,
   "noteCount": 1,
-  "databaseRecordCount": 268,
+  "databaseRecordCount": 274,
   "classBreakdown": {
-    "3": 57,
-    "2": 97,
-    "1": 113
+    "3": 58,
+    "2": 98,
+    "1": 118
   },
-  "noMemoryRequiredCount": 11,
+  "noMemoryRequiredCount": 12,
   "publicDomainPdfCount": 0,
   "eventBreakdown": {
-    "Bb Clarinet Solo": 267
+    "Bb Clarinet Solo": 274
   },
   "notes": {
-    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-03-28T15:07:47.456667+00:00."
+    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-09-04T16:48:14.597876+00:00."
   }
 }

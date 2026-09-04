@@ -1,5 +1,47 @@
 [
   {
+    "uilCode": "373-3-42161",
+    "instrumentSlug": "misc-horn-ensemble",
+    "instrumentName": "Miscellaneous Horn Ensembles",
+    "eventName": "Miscellaneous Horn Ensemble",
+    "title": "The Brown Sound, Vol. 1",
+    "composer": "Steward",
+    "arranger": "",
+    "publishers": [
+      "Echelon Music Press"
+    ],
+    "publisherText": "Echelon Music Press",
+    "classLevel": 3,
+    "specification": "TRIO (play any two mvts)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "373-3-42162",
+    "instrumentSlug": "misc-horn-ensemble",
+    "instrumentName": "Miscellaneous Horn Ensembles",
+    "eventName": "Miscellaneous Horn Ensemble",
+    "title": "The Brown Sound, Vol. 2",
+    "composer": "Steward",
+    "arranger": "",
+    "publishers": [
+      "Echelon Music Press"
+    ],
+    "publisherText": "Echelon Music Press",
+    "classLevel": 3,
+    "specification": "TRIO (play any two mvts)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "373-3-35669",
     "instrumentSlug": "misc-horn-ensemble",
     "instrumentName": "Miscellaneous Horn Ensembles",
@@ -1006,6 +1048,27 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "373-1-42160",
+    "instrumentSlug": "misc-horn-ensemble",
+    "instrumentName": "Miscellaneous Horn Ensembles",
+    "eventName": "Miscellaneous Horn Ensemble",
+    "title": "Bohemian Galop",
+    "composer": "Jackson",
+    "arranger": "",
+    "publishers": [
+      "International Horn Society"
+    ],
+    "publisherText": "International Horn Society",
+    "classLevel": 1,
+    "specification": "SEXTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "373-1-34346",
     "instrumentSlug": "misc-horn-ensemble",
     "instrumentName": "Miscellaneous Horn Ensembles",
@@ -1321,6 +1384,27 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "373-1-42159",
+    "instrumentSlug": "misc-horn-ensemble",
+    "instrumentName": "Miscellaneous Horn Ensembles",
+    "eventName": "Miscellaneous Horn Ensemble",
+    "title": "Arise to a New Day",
+    "composer": "Steward",
+    "arranger": "",
+    "publishers": [
+      "Echelon Music Press"
+    ],
+    "publisherText": "Echelon Music Press",
+    "classLevel": 1,
+    "specification": "SEXTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "373-1-34329",
     "instrumentSlug": "misc-horn-ensemble",
     "instrumentName": "Miscellaneous Horn Ensembles",
@@ -1332,6 +1416,27 @@
       "Phoenix Music Publications"
     ],
     "publisherText": "Phoenix Music Publications",
+    "classLevel": 1,
+    "specification": "QUINTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "373-1-42158",
+    "instrumentSlug": "misc-horn-ensemble",
+    "instrumentName": "Miscellaneous Horn Ensembles",
+    "eventName": "Miscellaneous Horn Ensemble",
+    "title": "Yesterday's Light",
+    "composer": "Weeks",
+    "arranger": "",
+    "publishers": [
+      "Avalon Press"
+    ],
+    "publisherText": "Avalon Press",
     "classLevel": 1,
     "specification": "QUINTET",
     "noMemoryRequired": false,

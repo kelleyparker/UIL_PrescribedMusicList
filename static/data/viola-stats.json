@@ -5,7 +5,7 @@
   "songCount": 542,
   "publisherCount": 579,
   "noteCount": 1,
-  "databaseRecordCount": 543,
+  "databaseRecordCount": 542,
   "classBreakdown": {
     "3": 171,
     "2": 143,
@@ -17,6 +17,6 @@
     "Viola Solo": 542
   },
   "notes": {
-    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-03-28T15:07:47.594036+00:00."
+    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-09-04T16:48:41.077583+00:00."
   }
 }

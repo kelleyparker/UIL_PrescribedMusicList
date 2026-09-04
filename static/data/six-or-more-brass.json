@@ -2188,6 +2188,27 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "371-1-42042",
+    "instrumentSlug": "six-or-more-brass",
+    "instrumentName": "Six or More Brass Ensembles",
+    "eventName": "Six or More Brass",
+    "title": "IET Fanfare",
+    "composer": "Hightower",
+    "arranger": "",
+    "publishers": [
+      "Pinnacle Brass Publications"
+    ],
+    "publisherText": "Pinnacle Brass Publications",
+    "classLevel": 1,
+    "specification": "LOW BRASS ENSEMBLE (4 eup, 4 tba)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "371-1-14451",
     "instrumentSlug": "six-or-more-brass",
     "instrumentName": "Six or More Brass Ensembles",
@@ -2209,40 +2230,19 @@
     "sheetMusicAffiliateSource": null
   },
   {
-    "uilCode": "371-1-31373",
+    "uilCode": "371-1-42043",
     "instrumentSlug": "six-or-more-brass",
     "instrumentName": "Six or More Brass Ensembles",
     "eventName": "Six or More Brass",
-    "title": "March in Bb",
+    "title": "Second Suite in F, Mvt 1 March",
     "composer": "Holst",
-    "arranger": "Gardner",
+    "arranger": "Fennell",
     "publishers": [
-      "Alliance Publications, Inc."
+      "matonizz.com"
     ],
-    "publisherText": "Alliance Publications, Inc.",
+    "publisherText": "matonizz.com",
     "classLevel": 1,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": null,
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": null
-  },
-  {
-    "uilCode": "371-1-31376",
-    "instrumentSlug": "six-or-more-brass",
-    "instrumentName": "Six or More Brass Ensembles",
-    "eventName": "Six or More Brass",
-    "title": "March in F",
-    "composer": "Holst",
-    "arranger": "Gardner",
-    "publishers": [
-      "Alliance Publications, Inc."
-    ],
-    "publisherText": "Alliance Publications, Inc.",
-    "classLevel": 1,
-    "specification": "(percussion required)",
+    "specification": "LOW BRASS ENSEMBLE (4 eup, 2 tba)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -2502,6 +2502,27 @@
     "sheetMusicAffiliateUrl": null,
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "371-1-42041",
+    "instrumentSlug": "six-or-more-brass",
+    "instrumentName": "Six or More Brass Ensembles",
+    "eventName": "Six or More Brass",
+    "title": "Run What Ya Brung",
+    "composer": "Steward",
+    "arranger": "",
+    "publishers": [
+      "Echelon Music Press"
+    ],
+    "publisherText": "Echelon Music Press",
+    "classLevel": 1,
+    "specification": "(2 tpt, 2 hn, 2 trb, euph, tuba)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/run-what-ya-brung-11635520/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
     "uilCode": "371-1-25403",

@@ -2,20 +2,20 @@
   "schoolYear": "2025-2026",
   "instrumentSlug": "trombone-choir",
   "instrumentName": "Trombone Choirs",
-  "songCount": 64,
-  "publisherCount": 64,
+  "songCount": 71,
+  "publisherCount": 71,
   "noteCount": 1,
-  "databaseRecordCount": 65,
+  "databaseRecordCount": 71,
   "classBreakdown": {
     "2": 21,
-    "1": 43
+    "1": 50
   },
   "noMemoryRequiredCount": 0,
   "publicDomainPdfCount": 0,
   "eventBreakdown": {
-    "Trombone Choir": 64
+    "Trombone Choir": 71
   },
   "notes": {
-    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-03-28T15:07:47.998049+00:00."
+    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-09-04T16:55:27.430631+00:00."
   }
 }

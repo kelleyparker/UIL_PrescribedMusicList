@@ -5,7 +5,7 @@
   "songCount": 182,
   "publisherCount": 184,
   "noteCount": 1,
-  "databaseRecordCount": 183,
+  "databaseRecordCount": 182,
   "classBreakdown": {
     "3": 29,
     "2": 79,
@@ -17,6 +17,6 @@
     "Miscellaneous String Quartet": 182
   },
   "notes": {
-    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-03-28T15:07:48.151206+00:00."
+    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-09-04T16:53:07.434627+00:00."
   }
 }

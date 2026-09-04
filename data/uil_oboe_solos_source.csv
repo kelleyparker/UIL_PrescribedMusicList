@@ -121,7 +121,7 @@ Code,Event Name,Title,Composer,Arranger,Publisher [Collection],Grade,Specificati
 203-3-10510,Oboe Solo,Sleeping Beauty Waltz,Tchaikovsky,,"Belwin, Inc [Classic Festival Solos Vol. 2]",3,
 203-3-10512,Oboe Solo,Swan Lake,Tchaikovsky,Foster,"Belwin, Inc [Oboe Solos, Level Two]",3,
 203-3-10513,Oboe Solo,The Organ Grinder,Tchaikovsky,Best,"Belwin, Inc [Oboe Solos, Level One]",3,
-203-3-10514,Oboe Solo,"Sakura, Sakura",Anon. or Trad.,Walters,"Rubank, Inc.",3,
+203-3-10514,Oboe Solo,"Sakura, Sakura",Traditional Japanese Folk Song,Walters,"Rubank, Inc.",3,
 203-3-10515,Oboe Solo,Sentimental Lady,Weber,,"Belwin, Inc [Classic Festival Solos Vol. 1]",3,(play all)
 203-3-10516,Oboe Solo,Sonatine,Weinberger,,"Carl Fischer, Inc.",3,(play Moderato only)
 203-3-10517,Oboe Solo,The Elm is Scattering,White,,Shawnee Press,3,
@@ -195,3 +195,21 @@ Code,Event Name,Title,Composer,Arranger,Publisher [Collection],Grade,Specificati
 203-2-38403,Oboe Solo,Ten Little Studies,Jacob,,Oxford University Press,2,(play four mvts)
 203-2-38404,Oboe Solo,Dances of The Baroque Era,various,Nagy,Editio Musica Budapest,2,(PERFORM Bourree I-II OR Menuet I-II OR Pastorale OR Pavane)
 203-3-38405,Oboe Solo,Ten Little Studies,Jacob,,Oxford University Press,3,(play two mvts)
+203-1-41774,Oboe Solo,Six Canadian Scenes for Solo Oboe,Cuong,,vietcoungmusic.com,1,NMR:(unaccomp) (play any two mvts)
+203-1-41775,Oboe Solo,27-72,Morris,,TrevCo Music Publishing,1,(play any mvt EXCEPT 3rd)
+203-1-41776,Oboe Solo,Where Do Children Come From?,Morris,,TrevCo Music Publishing,1,(play two mvts)
+203-1-41777,Oboe Solo,Collision Etudes,Morris,,TrevCo Music Publishing,1,(unaccomp) (play two mvts)
+203-1-41778,Oboe Solo,Sonata for Oboe and Piano,Eben,,Panton,1,(play any two mvts)
+203-1-41779,Oboe Solo,Three Romances Op. 22,C Schumann,,Accolade,1,(play mvts 1 & 2 OR 2 & 3)
+203-1-41780,Oboe Solo,"Sonata, Op. 85",Bowen,Chester,Chester Music Ltd.,1,(play mvt 1 OR 2 & 3)
+203-1-41781,Oboe Solo,The Door of No Return,Talbot-Howard,,Pantokrator Publications,1,
+203-1-41782,Oboe Solo,Ego Flos Campi,Talbot-Howard,,Pantokrator Publications,1,
+203-1-41783,Oboe Solo,Poem for Oboe and Piano,Dranishnikova,,TrevCo Music Publishing,1,
+203-1-41784,Oboe Solo,Concerto No. 1 for Oboe,Jacob,,Stainer & Bell,1,NMR:(play any mvt)
+203-1-41785,Oboe Solo,Sonata,Coulthard,,TrevCo Music Publishing,1,(play two mvts)
+203-1-41786,Oboe Solo,"Sea-Shore Suite, Op. 3b",Gipps,,Emerson Editions,1,
+203-1-41787,Oboe Solo,"Suite, Op. 17",Haas,,Masters Music Publications,1,(play two mvts)
+203-1-41788,Oboe Solo,Mist Fantasy,Cuong,,vietcoungmusic.com,1,NMR:(unaccomp)
+203-2-41789,Oboe Solo,El Choclo,Villoldo,May,Lost Key Music,2,
+203-2-41790,Oboe Solo,Air,Reicha,,McGinnis & Marx,2,
+203-3-41791,Oboe Solo,"Prelude in e minor, Op.28, No 4",Chopin,May,Lost Key Music,3,

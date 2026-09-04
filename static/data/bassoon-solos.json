@@ -357,6 +357,90 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "205-3-41810",
+    "instrumentSlug": "bassoon",
+    "instrumentName": "Bassoon Solos",
+    "eventName": "Bassoon Solo",
+    "title": "Daydreamin'",
+    "composer": "Gazlay",
+    "arranger": "",
+    "publishers": [
+      "JW Pepper"
+    ],
+    "publisherText": "JW Pepper",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/daydreamin-11648596/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "205-3-41811",
+    "instrumentSlug": "bassoon",
+    "instrumentName": "Bassoon Solos",
+    "eventName": "Bassoon Solo",
+    "title": "Devotion",
+    "composer": "Gazlay",
+    "arranger": "",
+    "publishers": [
+      "JW Pepper"
+    ],
+    "publisherText": "JW Pepper",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/devotion-11659157/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "205-3-41809",
+    "instrumentSlug": "bassoon",
+    "instrumentName": "Bassoon Solos",
+    "eventName": "Bassoon Solo",
+    "title": "Hallowed",
+    "composer": "Gazlay",
+    "arranger": "",
+    "publishers": [
+      "JW Pepper"
+    ],
+    "publisherText": "JW Pepper",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/hallowed-11648595/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "205-3-41812",
+    "instrumentSlug": "bassoon",
+    "instrumentName": "Bassoon Solos",
+    "eventName": "Bassoon Solo",
+    "title": "Reverie",
+    "composer": "Gazlay",
+    "arranger": "",
+    "publishers": [
+      "JW Pepper"
+    ],
+    "publisherText": "JW Pepper",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/reverie-11673806/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "205-3-37106",
     "instrumentSlug": "bassoon",
     "instrumentName": "Bassoon Solos",
@@ -1657,6 +1741,27 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "205-2-41808",
+    "instrumentSlug": "bassoon",
+    "instrumentName": "Bassoon Solos",
+    "eventName": "Bassoon Solo",
+    "title": "Invocation aux Quatre Lunes",
+    "composer": "Aubin",
+    "arranger": "",
+    "publishers": [
+      "International Music Diffusion"
+    ],
+    "publisherText": "International Music Diffusion",
+    "classLevel": 2,
+    "specification": "(play 2nd mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "205-2-10660",
     "instrumentSlug": "bassoon",
     "instrumentName": "Bassoon Solos",
@@ -2035,6 +2140,27 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "205-2-41805",
+    "instrumentSlug": "bassoon",
+    "instrumentName": "Bassoon Solos",
+    "eventName": "Bassoon Solo",
+    "title": "Hide and Seek",
+    "composer": "Dennee",
+    "arranger": "Steber",
+    "publishers": [
+      "MKT Music Publications"
+    ],
+    "publisherText": "MKT Music Publications",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "205-2-26387",
     "instrumentSlug": "bassoon",
     "instrumentName": "Bassoon Solos",
@@ -2178,6 +2304,27 @@
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/soliloquy-4794780/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "205-2-41807",
+    "instrumentSlug": "bassoon",
+    "instrumentName": "Bassoon Solos",
+    "eventName": "Bassoon Solo",
+    "title": "A Song of Ascents",
+    "composer": "Gazlay",
+    "arranger": "",
+    "publishers": [
+      "JW Pepper"
+    ],
+    "publisherText": "JW Pepper",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/a-song-of-ascents-11672209/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -3947,6 +4094,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "205-2-41806",
+    "instrumentSlug": "bassoon",
+    "instrumentName": "Bassoon Solos",
+    "eventName": "Bassoon Solo",
+    "title": "Poet and Peasant Overture: Andante Maestoso",
+    "composer": "von Suppe",
+    "arranger": "Steber",
+    "publishers": [
+      "MKT Music Publications"
+    ],
+    "publisherText": "MKT Music Publications",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "205-1-36972",
     "instrumentSlug": "bassoon",
     "instrumentName": "Bassoon Solos",
@@ -4006,6 +4174,27 @@
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/nightfall-5347182/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "205-1-41798",
+    "instrumentSlug": "bassoon",
+    "instrumentName": "Bassoon Solos",
+    "eventName": "Bassoon Solo",
+    "title": "Out of Bounds",
+    "composer": "Anderson",
+    "arranger": "",
+    "publishers": [
+      "ALRY Publications"
+    ],
+    "publisherText": "ALRY Publications",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/out-of-bounds-10561831/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -4086,6 +4275,27 @@
     "publisherText": "Faber Music, Ltd.",
     "classLevel": 1,
     "specification": "(unacomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "205-1-41795",
+    "instrumentSlug": "bassoon",
+    "instrumentName": "Bassoon Solos",
+    "eventName": "Bassoon Solo",
+    "title": "Invocation aux Quatre Lunes",
+    "composer": "Aubin",
+    "arranger": "",
+    "publishers": [
+      "International Music Diffusion"
+    ],
+    "publisherText": "International Music Diffusion",
+    "classLevel": 1,
+    "specification": "(play mvt 1 OR 3 PLUS 4)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -4283,6 +4493,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "205-1-41803",
+    "instrumentSlug": "bassoon",
+    "instrumentName": "Bassoon Solos",
+    "eventName": "Bassoon Solo",
+    "title": "Concertino for Bassoon",
+    "composer": "Barnes",
+    "arranger": "",
+    "publishers": [
+      "Southern Music Company"
+    ],
+    "publisherText": "Southern Music Company",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "205-1-36979",
     "instrumentSlug": "bassoon",
     "instrumentName": "Bassoon Solos",
@@ -4342,6 +4573,27 @@
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/adagio-10609296/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "205-1-41796",
+    "instrumentSlug": "bassoon",
+    "instrumentName": "Bassoon Solos",
+    "eventName": "Bassoon Solo",
+    "title": "Air Varie",
+    "composer": "Berr",
+    "arranger": "Fiat",
+    "publishers": [
+      "International Music Diffusion"
+    ],
+    "publisherText": "International Music Diffusion",
+    "classLevel": 1,
+    "specification": "(play Introduction, Theme & Variations)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/air-varie-10354317/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -5501,6 +5753,48 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "205-1-41802",
+    "instrumentSlug": "bassoon",
+    "instrumentName": "Bassoon Solos",
+    "eventName": "Bassoon Solo",
+    "title": "Hall of Ghosts",
+    "composer": "Harberg",
+    "arranger": "",
+    "publishers": [
+      "Presser"
+    ],
+    "publisherText": "Presser",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "205-1-41800",
+    "instrumentSlug": "bassoon",
+    "instrumentName": "Bassoon Solos",
+    "eventName": "Bassoon Solo",
+    "title": "Sonata",
+    "composer": "Harberg",
+    "arranger": "",
+    "publishers": [
+      "Presser"
+    ],
+    "publisherText": "Presser",
+    "classLevel": 1,
+    "specification": "(play mvt 1 OR 2)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/sonata-4777629/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "205-1-37001",
     "instrumentSlug": "bassoon",
     "instrumentName": "Bassoon Solos",
@@ -5942,6 +6236,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "205-1-41793",
+    "instrumentSlug": "bassoon",
+    "instrumentName": "Bassoon Solos",
+    "eventName": "Bassoon Solo",
+    "title": "Ray of Light",
+    "composer": "Kuo",
+    "arranger": "",
+    "publishers": [
+      "Electric Violin Music"
+    ],
+    "publisherText": "Electric Violin Music",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "205-1-37013",
     "instrumentSlug": "bassoon",
     "instrumentName": "Bassoon Solos",
@@ -6171,6 +6486,27 @@
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/contrasts-10502605/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "205-1-41797",
+    "instrumentSlug": "bassoon",
+    "instrumentName": "Bassoon Solos",
+    "eventName": "Bassoon Solo",
+    "title": "Deux Instantanes",
+    "composer": "Lys",
+    "arranger": "",
+    "publishers": [
+      "International Music Diffusion"
+    ],
+    "publisherText": "International Music Diffusion",
+    "classLevel": 1,
+    "specification": "(play one mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
   },
   {
     "uilCode": "205-1-37021",
@@ -7541,6 +7877,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "205-1-41794",
+    "instrumentSlug": "bassoon",
+    "instrumentName": "Bassoon Solos",
+    "eventName": "Bassoon Solo",
+    "title": "Song for Bassoon and Piano",
+    "composer": "Trentadue",
+    "arranger": "",
+    "publishers": [
+      "TUX Peoples Music"
+    ],
+    "publisherText": "TUX Peoples Music",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "205-1-37051",
     "instrumentSlug": "bassoon",
     "instrumentName": "Bassoon Solos",
@@ -7575,6 +7932,27 @@
     "publisherText": "martinvanklompenberg.com",
     "classLevel": 1,
     "specification": "(play two contrasting mvts)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "205-1-41799",
+    "instrumentSlug": "bassoon",
+    "instrumentName": "Bassoon Solos",
+    "eventName": "Bassoon Solo",
+    "title": "Sonata for Bassoon and Piano",
+    "composer": "Vande Ginste",
+    "arranger": "",
+    "publishers": [
+      "ALRY Publications"
+    ],
+    "publisherText": "ALRY Publications",
+    "classLevel": 1,
+    "specification": "(play mvts 1 & 4)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -7912,6 +8290,27 @@
     "classLevel": 1,
     "specification": "(play 2 mvts) NMR:(play three or more mvts.)",
     "noMemoryRequired": true,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "205-1-41801",
+    "instrumentSlug": "bassoon",
+    "instrumentName": "Bassoon Solos",
+    "eventName": "Bassoon Solo",
+    "title": "Mountain Song",
+    "composer": "Yi",
+    "arranger": "",
+    "publishers": [
+      "Presser"
+    ],
+    "publisherText": "Presser",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": null,

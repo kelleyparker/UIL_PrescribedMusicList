@@ -378,6 +378,27 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "207-3-41819",
+    "instrumentSlug": "bb-clarinet-solo",
+    "instrumentName": "Bb Clarinet Solos",
+    "eventName": "Bb Clarinet Solo",
+    "title": "Elementary Solos, Vol. 1",
+    "composer": "Evans",
+    "arranger": "",
+    "publishers": [
+      "beginning.band.com"
+    ],
+    "publisherText": "beginning.band.com",
+    "classLevel": 3,
+    "specification": "(play Cakewalk, Allemande, OR Playtime)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "207-3-37143",
     "instrumentSlug": "bb-clarinet-solo",
     "instrumentName": "Bb Clarinet Solos",
@@ -1188,7 +1209,7 @@
     ],
     "publisherText": "Kendor Music, Inc. [Kendor Recital Solos, Volume 2]",
     "classLevel": 3,
-    "specification": "(perform Gavotte OR British Isle Sketches OR Lavendar Variations OR Impromptu- Finale OR Habanera)",
+    "specification": "(perform Gavotte OR British Isle Sketches OR Lavendar Variations OR Impromptu- Finale)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -2379,6 +2400,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "207-2-41818",
+    "instrumentSlug": "bb-clarinet-solo",
+    "instrumentName": "Bb Clarinet Solos",
+    "eventName": "Bb Clarinet Solo",
+    "title": "Porch Lights",
+    "composer": "Markowski",
+    "arranger": "",
+    "publishers": [
+      "Markowski Creative"
+    ],
+    "publisherText": "Markowski Creative",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "207-2-37139",
     "instrumentSlug": "bb-clarinet-solo",
     "instrumentName": "Bb Clarinet Solos",
@@ -3254,6 +3296,27 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "207-1-41817",
+    "instrumentSlug": "bb-clarinet-solo",
+    "instrumentName": "Bb Clarinet Solos",
+    "eventName": "Bb Clarinet Solo",
+    "title": "Transposing a feeling",
+    "composer": "Ali",
+    "arranger": "",
+    "publishers": [
+      "Austin Ali"
+    ],
+    "publisherText": "Austin Ali",
+    "classLevel": 1,
+    "specification": "NMR:(unaccomp)",
+    "noMemoryRequired": true,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "207-1-32237",
     "instrumentSlug": "bb-clarinet-solo",
     "instrumentName": "Bb Clarinet Solos",
@@ -4021,6 +4084,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "207-1-41816",
+    "instrumentSlug": "bb-clarinet-solo",
+    "instrumentName": "Bb Clarinet Solos",
+    "eventName": "Bb Clarinet Solo",
+    "title": "Escapades #1",
+    "composer": "Grosborne",
+    "arranger": "",
+    "publishers": [
+      "International Music Diffusion"
+    ],
+    "publisherText": "International Music Diffusion",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "207-1-10748",
     "instrumentSlug": "bb-clarinet-solo",
     "instrumentName": "Bb Clarinet Solos",
@@ -4783,6 +4867,27 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "207-1-41813",
+    "instrumentSlug": "bb-clarinet-solo",
+    "instrumentName": "Bb Clarinet Solos",
+    "eventName": "Bb Clarinet Solo",
+    "title": "Prise de Bec",
+    "composer": "Naulais",
+    "arranger": "",
+    "publishers": [
+      "International Music Diffusion"
+    ],
+    "publisherText": "International Music Diffusion",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "207-1-32269",
     "instrumentSlug": "bb-clarinet-solo",
     "instrumentName": "Bb Clarinet Solos",
@@ -4865,6 +4970,27 @@
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/air-varie-11419468/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "207-1-41814",
+    "instrumentSlug": "bb-clarinet-solo",
+    "instrumentName": "Bb Clarinet Solos",
+    "eventName": "Bb Clarinet Solo",
+    "title": "Variations Sur Carmen",
+    "composer": "Petit",
+    "arranger": "",
+    "publishers": [
+      "International Music Diffusion"
+    ],
+    "publisherText": "International Music Diffusion",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
   },
   {
     "uilCode": "207-1-10769",
@@ -5051,8 +5177,29 @@
     ],
     "publisherText": "Rongwen Bros. Music Company",
     "classLevel": 1,
-    "specification": "(play any one mvt)(unaccomp) NMR:(play any one mvt)",
+    "specification": "(play any one mvt) (unaccomp) NMR:(play any one mvt)",
     "noMemoryRequired": true,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "207-1-41815",
+    "instrumentSlug": "bb-clarinet-solo",
+    "instrumentName": "Bb Clarinet Solos",
+    "eventName": "Bb Clarinet Solo",
+    "title": "Oskan 2",
+    "composer": "Rydin",
+    "arranger": "",
+    "publishers": [
+      "International Music Diffusion"
+    ],
+    "publisherText": "International Music Diffusion",
+    "classLevel": 1,
+    "specification": "(unacomp)",
+    "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": null,

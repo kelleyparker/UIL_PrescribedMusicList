@@ -5,7 +5,7 @@
   "songCount": 90,
   "publisherCount": 91,
   "noteCount": 1,
-  "databaseRecordCount": 91,
+  "databaseRecordCount": 90,
   "classBreakdown": {
     "3": 59,
     "2": 20,
@@ -17,6 +17,6 @@
     "Violin Trio": 90
   },
   "notes": {
-    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-03-28T15:07:48.099057+00:00."
+    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-09-04T16:53:07.172317+00:00."
   }
 }

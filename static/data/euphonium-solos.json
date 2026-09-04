@@ -231,6 +231,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "304-3-41711",
+    "instrumentSlug": "euphonium",
+    "instrumentName": "Euphonium and Baritone Horn Solos",
+    "eventName": "Euphonium/Baritone Horn Solo",
+    "title": "Devotion",
+    "composer": "Gazlay",
+    "arranger": "",
+    "publishers": [
+      "JW Pepper"
+    ],
+    "publisherText": "JW Pepper",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/devotion-11659157/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "304-3-13186",
     "instrumentSlug": "euphonium",
     "instrumentName": "Euphonium and Baritone Horn Solos",
@@ -588,6 +609,27 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "304-3-41712",
+    "instrumentSlug": "euphonium",
+    "instrumentName": "Euphonium and Baritone Horn Solos",
+    "eventName": "Euphonium/Baritone Horn Solo",
+    "title": "The Squire's Tale",
+    "composer": "Steward",
+    "arranger": "",
+    "publishers": [
+      "Echelon Music Press"
+    ],
+    "publisherText": "Echelon Music Press",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "304-3-37499",
     "instrumentSlug": "euphonium",
     "instrumentName": "Euphonium and Baritone Horn Solos",
@@ -649,27 +691,6 @@
     "sheetMusicAffiliateUrl": null,
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": null
-  },
-  {
-    "uilCode": "304-3-38978",
-    "instrumentSlug": "euphonium",
-    "instrumentName": "Euphonium and Baritone Horn Solos",
-    "eventName": "Euphonium/Baritone Horn Solo",
-    "title": "8 Bel Canto Songs",
-    "composer": "various",
-    "arranger": "Phillips",
-    "publishers": [
-      "Shawnee Press [8 Bel Canto Songs for Tuba]"
-    ],
-    "publisherText": "Shawnee Press [8 Bel Canto Songs for Tuba]",
-    "classLevel": 3,
-    "specification": "(play one)",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/three-songs-for-tuba-tuba-5497698/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
     "uilCode": "304-3-38976",
@@ -3315,7 +3336,7 @@
     ],
     "publisherText": "Carl Fischer, Inc.",
     "classLevel": 1,
-    "specification": "",
+    "specification": "(play mvts 1 & 2 OR 2 & 3)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -4097,6 +4118,27 @@
     "publisherText": "Belwin, Inc",
     "classLevel": 1,
     "specification": "(play mvt 1)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "304-1-41710",
+    "instrumentSlug": "euphonium",
+    "instrumentName": "Euphonium and Baritone Horn Solos",
+    "eventName": "Euphonium/Baritone Horn Solo",
+    "title": "Ray of Light",
+    "composer": "Kuo",
+    "arranger": "",
+    "publishers": [
+      "Electric Violin Music"
+    ],
+    "publisherText": "Electric Violin Music",
+    "classLevel": 1,
+    "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,

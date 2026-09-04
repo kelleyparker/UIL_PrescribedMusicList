@@ -5,7 +5,7 @@
   "songCount": 43,
   "publisherCount": 43,
   "noteCount": 1,
-  "databaseRecordCount": 44,
+  "databaseRecordCount": 43,
   "classBreakdown": {
     "3": 5,
     "2": 14,
@@ -17,6 +17,6 @@
     "Mixed Clarinet Trio": 43
   },
   "notes": {
-    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-03-28T15:07:47.782118+00:00."
+    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-09-04T16:48:48.574188+00:00."
   }
 }

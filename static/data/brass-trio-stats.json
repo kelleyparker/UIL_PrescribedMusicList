@@ -2,21 +2,21 @@
   "schoolYear": "2025-2026",
   "instrumentSlug": "brass-trio",
   "instrumentName": "Brass Trios",
-  "songCount": 72,
-  "publisherCount": 75,
+  "songCount": 76,
+  "publisherCount": 79,
   "noteCount": 1,
-  "databaseRecordCount": 73,
+  "databaseRecordCount": 76,
   "classBreakdown": {
     "3": 9,
     "2": 22,
-    "1": 41
+    "1": 45
   },
   "noMemoryRequiredCount": 0,
   "publicDomainPdfCount": 0,
   "eventBreakdown": {
-    "Brass Trio": 72
+    "Brass Trio": 76
   },
   "notes": {
-    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-03-28T15:07:47.892149+00:00."
+    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-09-04T16:52:25.678121+00:00."
   }
 }

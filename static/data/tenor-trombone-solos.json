@@ -21,279 +21,6 @@
     "sheetMusicAffiliateSource": null
   },
   {
-    "uilCode": "303-3-23588",
-    "instrumentSlug": "tenor-trombone",
-    "instrumentName": "Tenor Trombone Solos",
-    "eventName": "Tenor Trombone Solo",
-    "title": "Dafydd y Garreg Wen",
-    "composer": "Anon. or Trad.",
-    "arranger": "Lawton",
-    "publishers": [
-      "Oxford University Press [The Young Trombonist, Vol. 1]"
-    ],
-    "publisherText": "Oxford University Press [The Young Trombonist, Vol. 1]",
-    "classLevel": 3,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/dafydd-y-garreg-wen-11629136e/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "303-3-23579",
-    "instrumentSlug": "tenor-trombone",
-    "instrumentName": "Tenor Trombone Solos",
-    "eventName": "Tenor Trombone Solo",
-    "title": "Eibhlin a Ruin",
-    "composer": "Anon. or Trad.",
-    "arranger": "Lawton",
-    "publishers": [
-      "Oxford University Press [The Young Trombonist, Vol. 1]"
-    ],
-    "publisherText": "Oxford University Press [The Young Trombonist, Vol. 1]",
-    "classLevel": 3,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/young-trombonist-vol-1-4796298/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "303-3-23591",
-    "instrumentSlug": "tenor-trombone",
-    "instrumentName": "Tenor Trombone Solos",
-    "eventName": "Tenor Trombone Solo",
-    "title": "Greensleeves",
-    "composer": "Anon. or Trad.",
-    "arranger": "Lawton",
-    "publishers": [
-      "Oxford University Press [The Young Trombonist, Vol. 1]"
-    ],
-    "publisherText": "Oxford University Press [The Young Trombonist, Vol. 1]",
-    "classLevel": 3,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/greensleeves-11518890/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "303-3-23569",
-    "instrumentSlug": "tenor-trombone",
-    "instrumentName": "Tenor Trombone Solos",
-    "eventName": "Tenor Trombone Solo",
-    "title": "In dulci jubilo",
-    "composer": "Anon. or Trad.",
-    "arranger": "Lawton",
-    "publishers": [
-      "Oxford University Press [The Young Trombonist, Vol. 1]"
-    ],
-    "publisherText": "Oxford University Press [The Young Trombonist, Vol. 1]",
-    "classLevel": 3,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/in-dulci-jubilo-11638762/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "303-3-23572",
-    "instrumentSlug": "tenor-trombone",
-    "instrumentName": "Tenor Trombone Solos",
-    "eventName": "Tenor Trombone Solo",
-    "title": "Lasst Uns Erfreuen",
-    "composer": "Anon. or Trad.",
-    "arranger": "Lawton",
-    "publishers": [
-      "Oxford University Press [The Young Trombonist, Vol. 1]"
-    ],
-    "publisherText": "Oxford University Press [The Young Trombonist, Vol. 1]",
-    "classLevel": 3,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/lasst-uns-erfreuen-11613140/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "303-3-23575",
-    "instrumentSlug": "tenor-trombone",
-    "instrumentName": "Tenor Trombone Solos",
-    "eventName": "Tenor Trombone Solo",
-    "title": "Let Erin Remeber the Days of Old",
-    "composer": "Anon. or Trad.",
-    "arranger": "Lawton",
-    "publishers": [
-      "Oxford University Press [The Young Trombonist, Vol. 1]"
-    ],
-    "publisherText": "Oxford University Press [The Young Trombonist, Vol. 1]",
-    "classLevel": 3,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/young-trombonist-vol-1-4796298/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "303-3-23590",
-    "instrumentSlug": "tenor-trombone",
-    "instrumentName": "Tenor Trombone Solos",
-    "eventName": "Tenor Trombone Solo",
-    "title": "Llwyn On",
-    "composer": "Anon. or Trad.",
-    "arranger": "Lawton",
-    "publishers": [
-      "Oxford University Press [The Young Trombonist, Vol. 1]"
-    ],
-    "publisherText": "Oxford University Press [The Young Trombonist, Vol. 1]",
-    "classLevel": 3,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/young-trombonist-vol-1-4796298/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "303-3-23578",
-    "instrumentSlug": "tenor-trombone",
-    "instrumentName": "Tenor Trombone Solos",
-    "eventName": "Tenor Trombone Solo",
-    "title": "O Little Town of Bethlehem",
-    "composer": "Anon. or Trad.",
-    "arranger": "Lawton",
-    "publishers": [
-      "Oxford University Press [The Young Trombonist, Vol. 1]"
-    ],
-    "publisherText": "Oxford University Press [The Young Trombonist, Vol. 1]",
-    "classLevel": 3,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/young-trombonist-vol-1-4796298/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "303-3-23583",
-    "instrumentSlug": "tenor-trombone",
-    "instrumentName": "Tenor Trombone Solos",
-    "eventName": "Tenor Trombone Solo",
-    "title": "Rhyfelgyrch Capten Morgan",
-    "composer": "Anon. or Trad.",
-    "arranger": "Lawton",
-    "publishers": [
-      "Oxford University Press [The Young Trombonist, Vol. 1]"
-    ],
-    "publisherText": "Oxford University Press [The Young Trombonist, Vol. 1]",
-    "classLevel": 3,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/young-trombonist-vol-1-4796298/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "303-3-23589",
-    "instrumentSlug": "tenor-trombone",
-    "instrumentName": "Tenor Trombone Solos",
-    "eventName": "Tenor Trombone Solo",
-    "title": "Rocking",
-    "composer": "Anon. or Trad.",
-    "arranger": "Lawton",
-    "publishers": [
-      "Oxford University Press [The Young Trombonist, Vol. 1]"
-    ],
-    "publisherText": "Oxford University Press [The Young Trombonist, Vol. 1]",
-    "classLevel": 3,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/rocking-10617843/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "303-3-23570",
-    "instrumentSlug": "tenor-trombone",
-    "instrumentName": "Tenor Trombone Solos",
-    "eventName": "Tenor Trombone Solo",
-    "title": "Sussex Carol",
-    "composer": "Anon. or Trad.",
-    "arranger": "Lawton",
-    "publishers": [
-      "Oxford University Press [The Young Trombonist, Vol. 1]"
-    ],
-    "publisherText": "Oxford University Press [The Young Trombonist, Vol. 1]",
-    "classLevel": 3,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/sussex-carol-11567129/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "303-3-23584",
-    "instrumentSlug": "tenor-trombone",
-    "instrumentName": "Tenor Trombone Solos",
-    "eventName": "Tenor Trombone Solo",
-    "title": "The Old 100th",
-    "composer": "Anon. or Trad.",
-    "arranger": "Lawton",
-    "publishers": [
-      "Oxford University Press [The Young Trombonist, Vol. 1]"
-    ],
-    "publisherText": "Oxford University Press [The Young Trombonist, Vol. 1]",
-    "classLevel": 3,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/the-old-100th-11659914/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "303-3-23573",
-    "instrumentSlug": "tenor-trombone",
-    "instrumentName": "Tenor Trombone Solos",
-    "eventName": "Tenor Trombone Solo",
-    "title": "Ye Banks and Braes",
-    "composer": "Anon. or Trad.",
-    "arranger": "Lawton",
-    "publishers": [
-      "Oxford University Press [The Young Trombonist, Vol. 1]"
-    ],
-    "publisherText": "Oxford University Press [The Young Trombonist, Vol. 1]",
-    "classLevel": 3,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/ye-banks-and-braes-11624846/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
     "uilCode": "303-3-25350",
     "instrumentSlug": "tenor-trombone",
     "instrumentName": "Tenor Trombone Solos",
@@ -378,111 +105,6 @@
     "sheetMusicAffiliateSource": null
   },
   {
-    "uilCode": "303-3-23585",
-    "instrumentSlug": "tenor-trombone",
-    "instrumentName": "Tenor Trombone Solos",
-    "eventName": "Tenor Trombone Solo",
-    "title": "O Jesulein Suss",
-    "composer": "Bach",
-    "arranger": "Lawton",
-    "publishers": [
-      "Oxford University Press [The Young Trombonist, Vol. 1]"
-    ],
-    "publisherText": "Oxford University Press [The Young Trombonist, Vol. 1]",
-    "classLevel": 3,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/o-jesulein-suss-11561340/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "303-3-23581",
-    "instrumentSlug": "tenor-trombone",
-    "instrumentName": "Tenor Trombone Solos",
-    "eventName": "Tenor Trombone Solo",
-    "title": "Wachet auf",
-    "composer": "Bach",
-    "arranger": "Lawton",
-    "publishers": [
-      "Oxford University Press [The Young Trombonist, Vol. 1]"
-    ],
-    "publisherText": "Oxford University Press [The Young Trombonist, Vol. 1]",
-    "classLevel": 3,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/wachet-auf-10906167/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "303-3-13040",
-    "instrumentSlug": "tenor-trombone",
-    "instrumentName": "Tenor Trombone Solos",
-    "eventName": "Tenor Trombone Solo",
-    "title": "Eudoxia",
-    "composer": "Baring-Gould",
-    "arranger": "Lawton",
-    "publishers": [
-      "Oxford University Press [The Young Trombonist, Vol. 1]"
-    ],
-    "publisherText": "Oxford University Press [The Young Trombonist, Vol. 1]",
-    "classLevel": 3,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": null,
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": null
-  },
-  {
-    "uilCode": "303-3-23564",
-    "instrumentSlug": "tenor-trombone",
-    "instrumentName": "Tenor Trombone Solos",
-    "eventName": "Tenor Trombone Solo",
-    "title": "The St. Catherine Rigaudon",
-    "composer": "Barrett",
-    "arranger": "Dishinger",
-    "publishers": [
-      "Medici Music Press [Medici Masterworks, Vol. 1]"
-    ],
-    "publisherText": "Medici Music Press [Medici Masterworks, Vol. 1]",
-    "classLevel": 3,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": null,
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": null
-  },
-  {
-    "uilCode": "303-3-23587",
-    "instrumentSlug": "tenor-trombone",
-    "instrumentName": "Tenor Trombone Solos",
-    "eventName": "Tenor Trombone Solo",
-    "title": "Theme (from Symphony No. 9)",
-    "composer": "Beethoven",
-    "arranger": "Lawton",
-    "publishers": [
-      "Oxford University Press [The Young Trombonist, Vol. 1]"
-    ],
-    "publisherText": "Oxford University Press [The Young Trombonist, Vol. 1]",
-    "classLevel": 3,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/theme-10155349e/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
     "uilCode": "303-3-37425",
     "instrumentSlug": "tenor-trombone",
     "instrumentName": "Tenor Trombone Solos",
@@ -525,90 +147,6 @@
     "sheetMusicAffiliateSource": null
   },
   {
-    "uilCode": "303-3-23580",
-    "instrumentSlug": "tenor-trombone",
-    "instrumentName": "Tenor Trombone Solos",
-    "eventName": "Tenor Trombone Solo",
-    "title": "Unto Us A Boy Is Born",
-    "composer": "Cantiones",
-    "arranger": "Lawton",
-    "publishers": [
-      "Oxford University Press [The Young Trombonist, Vol. 1]"
-    ],
-    "publisherText": "Oxford University Press [The Young Trombonist, Vol. 1]",
-    "classLevel": 3,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": null,
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": null
-  },
-  {
-    "uilCode": "303-3-13030",
-    "instrumentSlug": "tenor-trombone",
-    "instrumentName": "Tenor Trombone Solos",
-    "eventName": "Tenor Trombone Solo",
-    "title": "Ayre",
-    "composer": "Clarke",
-    "arranger": "Dishinger",
-    "publishers": [
-      "Medici Music Press [Medici Masterworks, Vol. 1]"
-    ],
-    "publisherText": "Medici Music Press [Medici Masterworks, Vol. 1]",
-    "classLevel": 3,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/ayre-10917298e/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "303-3-13026",
-    "instrumentSlug": "tenor-trombone",
-    "instrumentName": "Tenor Trombone Solos",
-    "eventName": "Tenor Trombone Solo",
-    "title": "Berceuse",
-    "composer": "Concone",
-    "arranger": "Gower",
-    "publishers": [
-      "Rubank, Inc. [Rubank Trombone or Baritone Solos]"
-    ],
-    "publisherText": "Rubank, Inc. [Rubank Trombone or Baritone Solos]",
-    "classLevel": 3,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/berceuse-995720/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "303-3-13027",
-    "instrumentSlug": "tenor-trombone",
-    "instrumentName": "Tenor Trombone Solos",
-    "eventName": "Tenor Trombone Solo",
-    "title": "Meditation",
-    "composer": "Concone",
-    "arranger": "Gower",
-    "publishers": [
-      "Rubank, Inc. [Rubank Trombone or Baritone Solos]"
-    ],
-    "publisherText": "Rubank, Inc. [Rubank Trombone or Baritone Solos]",
-    "classLevel": 3,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/meditation-9549215/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
     "uilCode": "303-3-13028",
     "instrumentSlug": "tenor-trombone",
     "instrumentName": "Tenor Trombone Solos",
@@ -630,27 +168,6 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
-    "uilCode": "303-3-23592",
-    "instrumentSlug": "tenor-trombone",
-    "instrumentName": "Tenor Trombone Solos",
-    "eventName": "Tenor Trombone Solo",
-    "title": "The Kings",
-    "composer": "Cornelius",
-    "arranger": "Lawton",
-    "publishers": [
-      "Oxford University Press [The Young Trombonist, Vol. 1]"
-    ],
-    "publisherText": "Oxford University Press [The Young Trombonist, Vol. 1]",
-    "classLevel": 3,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": null,
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": null
-  },
-  {
     "uilCode": "303-3-13029",
     "instrumentSlug": "tenor-trombone",
     "instrumentName": "Tenor Trombone Solos",
@@ -668,27 +185,6 @@
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/sailors-song-2215085/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "303-3-23571",
-    "instrumentSlug": "tenor-trombone",
-    "instrumentName": "Tenor Trombone Solos",
-    "eventName": "Tenor Trombone Solo",
-    "title": "St. Anne",
-    "composer": "Croft",
-    "arranger": "Lawton",
-    "publishers": [
-      "Oxford University Press [The Young Trombonist, Vol. 1]"
-    ],
-    "publisherText": "Oxford University Press [The Young Trombonist, Vol. 1]",
-    "classLevel": 3,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/st-anne-10320899/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -798,17 +294,17 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
-    "uilCode": "303-3-23586",
+    "uilCode": "303-3-41708",
     "instrumentSlug": "tenor-trombone",
     "instrumentName": "Tenor Trombone Solos",
     "eventName": "Tenor Trombone Solo",
-    "title": "Once In Royal David's City",
-    "composer": "Gauntlett",
-    "arranger": "Lawton",
+    "title": "Day Dreamin'",
+    "composer": "Gazlay",
+    "arranger": "",
     "publishers": [
-      "Oxford University Press [The Young Trombonist, Vol. 1]"
+      "JW Pepper"
     ],
-    "publisherText": "Oxford University Press [The Young Trombonist, Vol. 1]",
+    "publisherText": "JW Pepper",
     "classLevel": 3,
     "specification": "",
     "noMemoryRequired": false,
@@ -817,6 +313,27 @@
     "sheetMusicAffiliateUrl": null,
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "303-3-41707",
+    "instrumentSlug": "tenor-trombone",
+    "instrumentName": "Tenor Trombone Solos",
+    "eventName": "Tenor Trombone Solo",
+    "title": "Devotion",
+    "composer": "Gazlay",
+    "arranger": "",
+    "publishers": [
+      "JW Pepper"
+    ],
+    "publisherText": "JW Pepper",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/devotion-11659154/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
     "uilCode": "303-3-13033",
@@ -878,48 +395,6 @@
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/cantilena-996280/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "303-3-23567",
-    "instrumentSlug": "tenor-trombone",
-    "instrumentName": "Tenor Trombone Solos",
-    "eventName": "Tenor Trombone Solo",
-    "title": "Gavotte (from Sonata No. 7)",
-    "composer": "Handel",
-    "arranger": "Dishinger",
-    "publishers": [
-      "Medici Music Press [Medici Masterworks, Vol. 1]"
-    ],
-    "publisherText": "Medici Music Press [Medici Masterworks, Vol. 1]",
-    "classLevel": 3,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/gavotte-4882338/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "303-3-13036",
-    "instrumentSlug": "tenor-trombone",
-    "instrumentName": "Tenor Trombone Solos",
-    "eventName": "Tenor Trombone Solo",
-    "title": "Saraband",
-    "composer": "Handel",
-    "arranger": "Gower",
-    "publishers": [
-      "Rubank, Inc. [Rubank Trombone or Baritone Solos]"
-    ],
-    "publisherText": "Rubank, Inc. [Rubank Trombone or Baritone Solos]",
-    "classLevel": 3,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/saraband-4582110/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -987,48 +462,6 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
-    "uilCode": "303-3-23577",
-    "instrumentSlug": "tenor-trombone",
-    "instrumentName": "Tenor Trombone Solos",
-    "eventName": "Tenor Trombone Solo",
-    "title": "Away in a Manger",
-    "composer": "Kirkpatrick",
-    "arranger": "Lawton",
-    "publishers": [
-      "Oxford University Press [The Young Trombonist, Vol. 1]"
-    ],
-    "publisherText": "Oxford University Press [The Young Trombonist, Vol. 1]",
-    "classLevel": 3,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/manger-scene-11660026/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "303-3-23566",
-    "instrumentSlug": "tenor-trombone",
-    "instrumentName": "Tenor Trombone Solos",
-    "eventName": "Tenor Trombone Solo",
-    "title": "Courante",
-    "composer": "Lully",
-    "arranger": "Dishinger",
-    "publishers": [
-      "Medici Music Press [Medici Masterworks, Vol. 1]"
-    ],
-    "publisherText": "Medici Music Press [Medici Masterworks, Vol. 1]",
-    "classLevel": 3,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/courante-11134383e/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
     "uilCode": "303-3-13042",
     "instrumentSlug": "tenor-trombone",
     "instrumentName": "Tenor Trombone Solos",
@@ -1040,27 +473,6 @@
       "Medici Music Press"
     ],
     "publisherText": "Medici Music Press",
-    "classLevel": 3,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": null,
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": null
-  },
-  {
-    "uilCode": "303-3-23568",
-    "instrumentSlug": "tenor-trombone",
-    "instrumentName": "Tenor Trombone Solos",
-    "eventName": "Tenor Trombone Solo",
-    "title": "La Voltigeuse (from Three Small Pieces for Piano)",
-    "composer": "Marpurg",
-    "arranger": "Dishinger",
-    "publishers": [
-      "Medici Music Press [Medici Masterworks, Vol. 1]"
-    ],
-    "publisherText": "Medici Music Press [Medici Masterworks, Vol. 1]",
     "classLevel": 3,
     "specification": "",
     "noMemoryRequired": false,
@@ -1193,27 +605,6 @@
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/presto-10929691/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "303-3-23582",
-    "instrumentSlug": "tenor-trombone",
-    "instrumentName": "Tenor Trombone Solos",
-    "eventName": "Tenor Trombone Solo",
-    "title": "Repton",
-    "composer": "Parry",
-    "arranger": "Lawton",
-    "publishers": [
-      "Oxford University Press [The Young Trombonist, Vol. 1]"
-    ],
-    "publisherText": "Oxford University Press [The Young Trombonist, Vol. 1]",
-    "classLevel": 3,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/repton-fantasy-10011333/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -1365,27 +756,6 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
-    "uilCode": "303-3-23565",
-    "instrumentSlug": "tenor-trombone",
-    "instrumentName": "Tenor Trombone Solos",
-    "eventName": "Tenor Trombone Solo",
-    "title": "Tambourin (from Pieces de Clavecin)",
-    "composer": "Rameau",
-    "arranger": "Dishinger",
-    "publishers": [
-      "Medici Music Press [Medici Masterworks, Vol. 1]"
-    ],
-    "publisherText": "Medici Music Press [Medici Masterworks, Vol. 1]",
-    "classLevel": 3,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/tambourin-9542600/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
     "uilCode": "303-3-25351",
     "instrumentSlug": "tenor-trombone",
     "instrumentName": "Tenor Trombone Solos",
@@ -1512,67 +882,25 @@
     "sheetMusicAffiliateSource": null
   },
   {
-    "uilCode": "303-3-13059",
+    "uilCode": "303-3-41706",
     "instrumentSlug": "tenor-trombone",
     "instrumentName": "Tenor Trombone Solos",
     "eventName": "Tenor Trombone Solo",
-    "title": "Allerseelen Op. 10 No. 8",
-    "composer": "Strauss",
-    "arranger": "Walters",
+    "title": "Three Pastorales",
+    "composer": "Takahashi",
+    "arranger": "",
     "publishers": [
-      "Rubank, Inc. [Rubank Trombone or Baritone Solos]"
+      "ALRY Publications"
     ],
-    "publisherText": "Rubank, Inc. [Rubank Trombone or Baritone Solos]",
+    "publisherText": "ALRY Publications",
     "classLevel": 3,
-    "specification": "",
+    "specification": "(play one mvt)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/allerseelen-4582227/p",
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/three-pastorales-4784104/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "303-3-23576",
-    "instrumentSlug": "tenor-trombone",
-    "instrumentName": "Tenor Trombone Solos",
-    "eventName": "Tenor Trombone Solo",
-    "title": "It Came Upon the Midnight Clear",
-    "composer": "Sullivan",
-    "arranger": "Lawton",
-    "publishers": [
-      "Oxford University Press [The Young Trombonist, Vol. 1]"
-    ],
-    "publisherText": "Oxford University Press [The Young Trombonist, Vol. 1]",
-    "classLevel": 3,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": null,
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": null
-  },
-  {
-    "uilCode": "303-3-23574",
-    "instrumentSlug": "tenor-trombone",
-    "instrumentName": "Tenor Trombone Solos",
-    "eventName": "Tenor Trombone Solo",
-    "title": "3rd Mode Melody",
-    "composer": "Tallis",
-    "arranger": "Lawton",
-    "publishers": [
-      "Oxford University Press [The Young Trombonist, Vol. 1]"
-    ],
-    "publisherText": "Oxford University Press [The Young Trombonist, Vol. 1]",
-    "classLevel": 3,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": null,
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": null
   },
   {
     "uilCode": "303-3-38570",
@@ -1680,6 +1008,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "303-3-41704",
+    "instrumentSlug": "tenor-trombone",
+    "instrumentName": "Tenor Trombone Solos",
+    "eventName": "Tenor Trombone Solo",
+    "title": "24 Classic Solos for Winds",
+    "composer": "various",
+    "arranger": "",
+    "publishers": [
+      "Carl Fischer, Inc."
+    ],
+    "publisherText": "Carl Fischer, Inc.",
+    "classLevel": 3,
+    "specification": "(play Adoration)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/classic-christmas-carols-for-band-2476873/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "303-3-38571",
     "instrumentSlug": "tenor-trombone",
     "instrumentName": "Tenor Trombone Solos",
@@ -1718,6 +1067,111 @@
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/skilful-solos-10040698/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "303-3-13030",
+    "instrumentSlug": "tenor-trombone",
+    "instrumentName": "Tenor Trombone Solos",
+    "eventName": "Tenor Trombone Solo",
+    "title": "Medici Masterworks, Vol. I",
+    "composer": "various",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press [Medici Masterworks, Vol. 1]"
+    ],
+    "publisherText": "Medici Music Press [Medici Masterworks, Vol. 1]",
+    "classLevel": 3,
+    "specification": "(play Ayre OR The St, Catherine Rigaudon OR Tambourin OR Courante OR Gavotte OR La Voltigeuse)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/ayre-10917298e/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "303-3-13026",
+    "instrumentSlug": "tenor-trombone",
+    "instrumentName": "Tenor Trombone Solos",
+    "eventName": "Tenor Trombone Solo",
+    "title": "Rubank Trombone or Baritone Solos",
+    "composer": "various",
+    "arranger": "various",
+    "publishers": [
+      "Rubank, Inc. [Rubank Trombone or Baritone Solos]"
+    ],
+    "publisherText": "Rubank, Inc. [Rubank Trombone or Baritone Solos]",
+    "classLevel": 3,
+    "specification": "(play Berceuse OR Meditation OR Saraband OR Allerseelen)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/berceuse-995720/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "303-3-41705",
+    "instrumentSlug": "tenor-trombone",
+    "instrumentName": "Tenor Trombone Solos",
+    "eventName": "Tenor Trombone Solo",
+    "title": "Sound Innovations Soloist for Intermediate Musicians: Trombone Solo Book",
+    "composer": "various",
+    "arranger": "",
+    "publishers": [
+      "Alfred Music Company, Inc."
+    ],
+    "publisherText": "Alfred Music Company, Inc.",
+    "classLevel": 3,
+    "specification": "(play any selection)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/intermediate-etudes-6089999/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "303-3-13040",
+    "instrumentSlug": "tenor-trombone",
+    "instrumentName": "Tenor Trombone Solos",
+    "eventName": "Tenor Trombone Solo",
+    "title": "The Young Trombonist, Vol. 1",
+    "composer": "various",
+    "arranger": "Lawton",
+    "publishers": [
+      "Oxford University Press [The Young Trombonist, Vol. 1]"
+    ],
+    "publisherText": "Oxford University Press [The Young Trombonist, Vol. 1]",
+    "classLevel": 3,
+    "specification": "(play any one solo)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "303-3-41709",
+    "instrumentSlug": "tenor-trombone",
+    "instrumentName": "Tenor Trombone Solos",
+    "eventName": "Tenor Trombone Solo",
+    "title": "Andante Maestoso",
+    "composer": "von Suppe",
+    "arranger": "Steber",
+    "publishers": [
+      "MKT Music Publications"
+    ],
+    "publisherText": "MKT Music Publications",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/marcia-maestoso-5933825/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -2058,6 +1512,27 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "303-2-41701",
+    "instrumentSlug": "tenor-trombone",
+    "instrumentName": "Tenor Trombone Solos",
+    "eventName": "Tenor Trombone Solo",
+    "title": "Concertino",
+    "composer": "Clark",
+    "arranger": "",
+    "publishers": [
+      "JPM Music Publications"
+    ],
+    "publisherText": "JPM Music Publications",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/concertino-11685118/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "303-2-12985",
     "instrumentSlug": "tenor-trombone",
     "instrumentName": "Tenor Trombone Solos",
@@ -2175,7 +1650,7 @@
     ],
     "publisherText": "Kendor Music, Inc.",
     "classLevel": 2,
-    "specification": "(play all)",
+    "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -2228,6 +1703,27 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "303-2-41702",
+    "instrumentSlug": "tenor-trombone",
+    "instrumentName": "Tenor Trombone Solos",
+    "eventName": "Tenor Trombone Solo",
+    "title": "Reverie",
+    "composer": "Gazlay",
+    "arranger": "",
+    "publishers": [
+      "JW Pepper"
+    ],
+    "publisherText": "JW Pepper",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/reverie-11673806/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "303-2-12992",
     "instrumentSlug": "tenor-trombone",
     "instrumentName": "Tenor Trombone Solos",
@@ -2261,7 +1757,7 @@
     ],
     "publisherText": "MSB",
     "classLevel": 2,
-    "specification": "(play all)",
+    "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -2417,6 +1913,27 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "303-2-41699",
+    "instrumentSlug": "tenor-trombone",
+    "instrumentName": "Tenor Trombone Solos",
+    "eventName": "Tenor Trombone Solo",
+    "title": "Poseidon",
+    "composer": "Kaisershot",
+    "arranger": "",
+    "publishers": [
+      "Claude T. Smith Publications"
+    ],
+    "publisherText": "Claude T. Smith Publications",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/poseidon-11623820/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "303-2-13003",
     "instrumentSlug": "tenor-trombone",
     "instrumentName": "Tenor Trombone Solos",
@@ -2436,6 +1953,27 @@
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/romanze-4888418/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "303-2-41700",
+    "instrumentSlug": "tenor-trombone",
+    "instrumentName": "Tenor Trombone Solos",
+    "eventName": "Tenor Trombone Solo",
+    "title": "Ray of Light",
+    "composer": "Kuo",
+    "arranger": "",
+    "publishers": [
+      "Electric Violin Music"
+    ],
+    "publisherText": "Electric Violin Music",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
   },
   {
     "uilCode": "303-2-13004",
@@ -2471,7 +2009,7 @@
     ],
     "publisherText": "Grand Mesa Music Publishers",
     "classLevel": 2,
-    "specification": "(play all)",
+    "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -2513,7 +2051,7 @@
     ],
     "publisherText": "Kendor Music, Inc.",
     "classLevel": 2,
-    "specification": "(play all)",
+    "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -2539,6 +2077,27 @@
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/prelude-and-chorale-on-svaty-vaclave-10842216/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "303-2-41703",
+    "instrumentSlug": "tenor-trombone",
+    "instrumentName": "Tenor Trombone Solos",
+    "eventName": "Tenor Trombone Solo",
+    "title": "Two Spanish Dances",
+    "composer": "Ostransky",
+    "arranger": "",
+    "publishers": [
+      "Rubank, Inc."
+    ],
+    "publisherText": "Rubank, Inc.",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/concert-and-contest-collection-for-trombone-959866/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -2749,6 +2308,27 @@
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/pieta-signore-4797775/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "303-2-41698",
+    "instrumentSlug": "tenor-trombone",
+    "instrumentName": "Tenor Trombone Solos",
+    "eventName": "Tenor Trombone Solo",
+    "title": "Three Pastorales",
+    "composer": "Takahashi",
+    "arranger": "",
+    "publishers": [
+      "ALRY Publications"
+    ],
+    "publisherText": "ALRY Publications",
+    "classLevel": 2,
+    "specification": "(play any two mvts)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/three-pastorales-4784104/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -2964,27 +2544,6 @@
     "sheetMusicAffiliateSource": null
   },
   {
-    "uilCode": "303-1-32414",
-    "instrumentSlug": "tenor-trombone",
-    "instrumentName": "Tenor Trombone Solos",
-    "eventName": "Tenor Trombone Solo",
-    "title": "Colors",
-    "composer": "Appermont",
-    "arranger": "",
-    "publishers": [
-      "Beriato/Hal Leonard"
-    ],
-    "publisherText": "Beriato/Hal Leonard",
-    "classLevel": 1,
-    "specification": "(play any 3 mvts) NMR:(play all)",
-    "noMemoryRequired": true,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/colors-10977275/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
     "uilCode": "303-1-37409",
     "instrumentSlug": "tenor-trombone",
     "instrumentName": "Tenor Trombone Solos",
@@ -3062,6 +2621,27 @@
     "publisherText": "International Music Company;Southern Music Company",
     "classLevel": 1,
     "specification": "(unaccomp)(play two contrasting mvts from one suite)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "303-1-41692",
+    "instrumentSlug": "tenor-trombone",
+    "instrumentName": "Tenor Trombone Solos",
+    "eventName": "Tenor Trombone Solo",
+    "title": "Sonata for Trombone",
+    "composer": "Baker",
+    "arranger": "",
+    "publishers": [
+      "Cimarron Music Press"
+    ],
+    "publisherText": "Cimarron Music Press",
+    "classLevel": 1,
+    "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -3356,6 +2936,27 @@
     "publisherText": "Air-ev Productions",
     "classLevel": 1,
     "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "303-1-41684",
+    "instrumentSlug": "tenor-trombone",
+    "instrumentName": "Tenor Trombone Solos",
+    "eventName": "Tenor Trombone Solo",
+    "title": "Concerto Deciso",
+    "composer": "Bondon",
+    "arranger": "",
+    "publishers": [
+      "International Music Diffusion"
+    ],
+    "publisherText": "International Music Diffusion",
+    "classLevel": 1,
+    "specification": "(play mvts 1 & 2 OR 2 & 3)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -4183,6 +3784,27 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "303-1-41693",
+    "instrumentSlug": "tenor-trombone",
+    "instrumentName": "Tenor Trombone Solos",
+    "eventName": "Tenor Trombone Solo",
+    "title": "Risus",
+    "composer": "Fontanot",
+    "arranger": "",
+    "publishers": [
+      "Cimarron Music Press"
+    ],
+    "publisherText": "Cimarron Music Press",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "303-1-12904",
     "instrumentSlug": "tenor-trombone",
     "instrumentName": "Tenor Trombone Solos",
@@ -4452,7 +4074,7 @@
     ],
     "publisherText": "Cimarron Music Press",
     "classLevel": 1,
-    "specification": "",
+    "specification": "(play mvts 1 & 2 OR 2 & 3)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -4547,6 +4169,48 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "303-1-41686",
+    "instrumentSlug": "tenor-trombone",
+    "instrumentName": "Tenor Trombone Solos",
+    "eventName": "Tenor Trombone Solo",
+    "title": "Trombone Sonata (Antara)",
+    "composer": "Hedwig",
+    "arranger": "",
+    "publishers": [
+      "Potenza Music"
+    ],
+    "publisherText": "Potenza Music",
+    "classLevel": 1,
+    "specification": "(play mvts 1 & 3 OR 2 & 3)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "303-1-41687",
+    "instrumentSlug": "tenor-trombone",
+    "instrumentName": "Tenor Trombone Solos",
+    "eventName": "Tenor Trombone Solo",
+    "title": "Fantasia per Trombone",
+    "composer": "Hidas",
+    "arranger": "",
+    "publishers": [
+      "Editio Musica Budapest"
+    ],
+    "publisherText": "Editio Musica Budapest",
+    "classLevel": 1,
+    "specification": "(unacomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "303-1-32432",
     "instrumentSlug": "tenor-trombone",
     "instrumentName": "Tenor Trombone Solos",
@@ -4600,6 +4264,27 @@
       "Warwick Music UK"
     ],
     "publisherText": "Warwick Music UK",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "303-1-41694",
+    "instrumentSlug": "tenor-trombone",
+    "instrumentName": "Tenor Trombone Solos",
+    "eventName": "Tenor Trombone Solo",
+    "title": "Introduction et Allegro",
+    "composer": "Hugon",
+    "arranger": "",
+    "publishers": [
+      "International Music Diffusion"
+    ],
+    "publisherText": "International Music Diffusion",
     "classLevel": 1,
     "specification": "",
     "noMemoryRequired": false,
@@ -5178,6 +4863,27 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "303-1-41697",
+    "instrumentSlug": "tenor-trombone",
+    "instrumentName": "Tenor Trombone Solos",
+    "eventName": "Tenor Trombone Solo",
+    "title": "Dance Party",
+    "composer": "Nitsch",
+    "arranger": "",
+    "publishers": [
+      "TUX Peoples Music"
+    ],
+    "publisherText": "TUX Peoples Music",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "303-1-32427",
     "instrumentSlug": "tenor-trombone",
     "instrumentName": "Tenor Trombone Solos",
@@ -5233,27 +4939,6 @@
     "publisherText": "Margun Music",
     "classLevel": 1,
     "specification": "(play one mvt)",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/arrows-of-time-5600978/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "303-1-37411",
-    "instrumentSlug": "tenor-trombone",
-    "instrumentName": "Tenor Trombone Solos",
-    "eventName": "Tenor Trombone Solo",
-    "title": "Arrows of Time",
-    "composer": "Peaslee",
-    "arranger": "",
-    "publishers": [
-      "Margun Music"
-    ],
-    "publisherText": "Margun Music",
-    "classLevel": 1,
-    "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -5357,6 +5042,27 @@
       "Carl Fischer, Inc."
     ],
     "publisherText": "Carl Fischer, Inc.",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/arthur-pryor-trombone-solos-5973028/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "303-1-41696",
+    "instrumentSlug": "tenor-trombone",
+    "instrumentName": "Tenor Trombone Solos",
+    "eventName": "Tenor Trombone Solo",
+    "title": "Variations on \"Annie Laurie\"",
+    "composer": "Pryor",
+    "arranger": "",
+    "publishers": [
+      "LudwigMasters Publications"
+    ],
+    "publisherText": "LudwigMasters Publications",
     "classLevel": 1,
     "specification": "",
     "noMemoryRequired": false,
@@ -5515,6 +5221,48 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "303-1-41691",
+    "instrumentSlug": "tenor-trombone",
+    "instrumentName": "Tenor Trombone Solos",
+    "eventName": "Tenor Trombone Solo",
+    "title": "Awaken",
+    "composer": "Rudy",
+    "arranger": "",
+    "publishers": [
+      "Alias Press"
+    ],
+    "publisherText": "Alias Press",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/awaken-11614242/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "303-1-41695",
+    "instrumentSlug": "tenor-trombone",
+    "instrumentName": "Tenor Trombone Solos",
+    "eventName": "Tenor Trombone Solo",
+    "title": "Dialogue and Resonance",
+    "composer": "Rynduch-Gaertner",
+    "arranger": "",
+    "publishers": [
+      "International Music Diffusion"
+    ],
+    "publisherText": "International Music Diffusion",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "303-1-29841",
     "instrumentSlug": "tenor-trombone",
     "instrumentName": "Tenor Trombone Solos",
@@ -5660,6 +5408,27 @@
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/seven-gnossiennes-10034904/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "303-1-41688",
+    "instrumentSlug": "tenor-trombone",
+    "instrumentName": "Tenor Trombone Solos",
+    "eventName": "Tenor Trombone Solo",
+    "title": "Dramatische Fantaisie",
+    "composer": "Schampaert",
+    "arranger": "",
+    "publishers": [
+      "ALRY Publications"
+    ],
+    "publisherText": "ALRY Publications",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
   },
   {
     "uilCode": "303-1-37406",
@@ -6080,6 +5849,69 @@
     "sheetMusicAffiliateUrl": null,
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "303-1-41689",
+    "instrumentSlug": "tenor-trombone",
+    "instrumentName": "Tenor Trombone Solos",
+    "eventName": "Tenor Trombone Solo",
+    "title": "Divertimento",
+    "composer": "Van Hoof",
+    "arranger": "",
+    "publishers": [
+      "ALRY Publications"
+    ],
+    "publisherText": "ALRY Publications",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/divertimento-7188816/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "303-1-41685",
+    "instrumentSlug": "tenor-trombone",
+    "instrumentName": "Tenor Trombone Solos",
+    "eventName": "Tenor Trombone Solo",
+    "title": "Premier Concerto",
+    "composer": "Van Maele",
+    "arranger": "",
+    "publishers": [
+      "International Music Diffusion"
+    ],
+    "publisherText": "International Music Diffusion",
+    "classLevel": 1,
+    "specification": "(play mvts 1 & 2 OR 2 & 3)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "303-1-41690",
+    "instrumentSlug": "tenor-trombone",
+    "instrumentName": "Tenor Trombone Solos",
+    "eventName": "Tenor Trombone Solo",
+    "title": "Sonata",
+    "composer": "Vande Ginste",
+    "arranger": "",
+    "publishers": [
+      "ALRY Publications"
+    ],
+    "publisherText": "ALRY Publications",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/sonata-4777629/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
     "uilCode": "303-1-29858",

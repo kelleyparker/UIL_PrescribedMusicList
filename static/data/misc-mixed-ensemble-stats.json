@@ -5,7 +5,7 @@
   "songCount": 35,
   "publisherCount": 35,
   "noteCount": 1,
-  "databaseRecordCount": 36,
+  "databaseRecordCount": 35,
   "classBreakdown": {
     "3": 1,
     "2": 11,
@@ -17,6 +17,6 @@
     "Miscellaneous Mixed Ensemble": 35
   },
   "notes": {
-    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-03-28T15:07:48.070233+00:00."
+    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-09-04T16:53:07.103396+00:00."
   }
 }

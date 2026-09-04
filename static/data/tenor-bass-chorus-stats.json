@@ -2,24 +2,24 @@
   "schoolYear": "2025-2026",
   "instrumentSlug": "tenor-bass-chorus",
   "instrumentName": "Tenor-Bass Choruses",
-  "songCount": 892,
-  "publisherCount": 926,
+  "songCount": 933,
+  "publisherCount": 967,
   "noteCount": 1,
-  "databaseRecordCount": 893,
+  "databaseRecordCount": 933,
   "classBreakdown": {
     "6": 11,
-    "5": 201,
-    "4": 183,
-    "3": 225,
-    "2": 195,
-    "1": 77
+    "5": 208,
+    "4": 194,
+    "3": 235,
+    "2": 206,
+    "1": 79
   },
   "noMemoryRequiredCount": 0,
   "publicDomainPdfCount": 0,
   "eventBreakdown": {
-    "Tenor-Bass Chorus": 892
+    "Tenor-Bass Chorus": 933
   },
   "notes": {
-    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-03-28T15:13:40.789695+00:00."
+    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-09-04T16:57:18.899602+00:00."
   }
 }

@@ -5,11 +5,11 @@
   "songCount": 176,
   "publisherCount": 183,
   "noteCount": 1,
-  "databaseRecordCount": 177,
+  "databaseRecordCount": 176,
   "classBreakdown": {
-    "3": 50,
+    "3": 49,
     "2": 72,
-    "1": 54
+    "1": 55
   },
   "noMemoryRequiredCount": 0,
   "publicDomainPdfCount": 0,
@@ -17,6 +17,6 @@
     "Flute Trio": 176
   },
   "notes": {
-    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-03-28T15:07:47.756721+00:00."
+    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-09-04T16:48:56.672111+00:00."
   }
 }

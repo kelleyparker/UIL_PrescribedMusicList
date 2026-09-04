@@ -2,21 +2,21 @@
   "schoolYear": "2025-2026",
   "instrumentSlug": "flute-quartet",
   "instrumentName": "Flute Quartets",
-  "songCount": 149,
-  "publisherCount": 150,
+  "songCount": 130,
+  "publisherCount": 131,
   "noteCount": 1,
-  "databaseRecordCount": 150,
+  "databaseRecordCount": 130,
   "classBreakdown": {
-    "3": 46,
-    "2": 47,
-    "1": 56
+    "3": 29,
+    "2": 44,
+    "1": 57
   },
   "noMemoryRequiredCount": 0,
   "publicDomainPdfCount": 0,
   "eventBreakdown": {
-    "Flute Quartet": 149
+    "Flute Quartet": 130
   },
   "notes": {
-    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-03-28T15:07:47.794957+00:00."
+    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-09-04T16:49:23.353383+00:00."
   }
 }

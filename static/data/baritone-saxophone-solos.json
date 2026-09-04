@@ -462,6 +462,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "214-2-41833",
+    "instrumentSlug": "baritone-saxophone",
+    "instrumentName": "Baritone Saxophone Solos",
+    "eventName": "Baritone Saxophone Solo",
+    "title": "Brahms for Bari",
+    "composer": "Brahms",
+    "arranger": "Young",
+    "publishers": [
+      "TUX Peoples Music"
+    ],
+    "publisherText": "TUX Peoples Music",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/brahms-for-bari-11567411/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "214-2-11374",
     "instrumentSlug": "baritone-saxophone",
     "instrumentName": "Baritone Saxophone Solos",
@@ -880,6 +901,27 @@
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/impromptu-11671295/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "214-1-41832",
+    "instrumentSlug": "baritone-saxophone",
+    "instrumentName": "Baritone Saxophone Solos",
+    "eventName": "Baritone Saxophone Solo",
+    "title": "Impressions from the Chinese Zodiac",
+    "composer": "",
+    "arranger": "",
+    "publishers": [
+      "Theodore Presser Company"
+    ],
+    "publisherText": "Theodore Presser Company",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
   },
   {
     "uilCode": "214-1-11347",

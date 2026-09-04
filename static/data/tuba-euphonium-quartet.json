@@ -42,6 +42,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "347-3-42028",
+    "instrumentSlug": "tuba-euphonium-quartet",
+    "instrumentName": "Tuba and Euphonium Quartets",
+    "eventName": "Tuba/Euphonium Quartet",
+    "title": "10 Characteristic Studies for Tuba/Euphonium Quartet",
+    "composer": "Bonner",
+    "arranger": "",
+    "publishers": [
+      "drewbonner.com"
+    ],
+    "publisherText": "drewbonner.com",
+    "classLevel": 3,
+    "specification": "(play one study from 1 - 3)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "347-3-35758",
     "instrumentSlug": "tuba-euphonium-quartet",
     "instrumentName": "Tuba and Euphonium Quartets",
@@ -481,6 +502,27 @@
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/white-christmas-11643474/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "347-2-42027",
+    "instrumentSlug": "tuba-euphonium-quartet",
+    "instrumentName": "Tuba and Euphonium Quartets",
+    "eventName": "Tuba/Euphonium Quartet",
+    "title": "10 Characteristic Studies for Tuba/Euphonium Quartet",
+    "composer": "Bonner",
+    "arranger": "",
+    "publishers": [
+      "drewbonner.com"
+    ],
+    "publisherText": "drewbonner.com",
+    "classLevel": 2,
+    "specification": "(play one study from 4 - 8)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
   },
   {
     "uilCode": "347-2-38646",
@@ -1282,6 +1324,48 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "347-1-42015",
+    "instrumentSlug": "tuba-euphonium-quartet",
+    "instrumentName": "Tuba and Euphonium Quartets",
+    "eventName": "Tuba/Euphonium Quartet",
+    "title": "Mini Overture",
+    "composer": "Arai",
+    "arranger": "",
+    "publishers": [
+      "Cimarron Music Press"
+    ],
+    "publisherText": "Cimarron Music Press",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "347-1-42009",
+    "instrumentSlug": "tuba-euphonium-quartet",
+    "instrumentName": "Tuba and Euphonium Quartets",
+    "eventName": "Tuba/Euphonium Quartet",
+    "title": "Chorale and Chorus BWV 6",
+    "composer": "Bach",
+    "arranger": "Gregory",
+    "publishers": [
+      "JW Pepper"
+    ],
+    "publisherText": "JW Pepper",
+    "classLevel": 1,
+    "specification": "(opt Euph for 1st Tuba)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "347-1-38643",
     "instrumentSlug": "tuba-euphonium-quartet",
     "instrumentName": "Tuba and Euphonium Quartets",
@@ -1471,6 +1555,27 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "347-1-42020",
+    "instrumentSlug": "tuba-euphonium-quartet",
+    "instrumentName": "Tuba and Euphonium Quartets",
+    "eventName": "Tuba/Euphonium Quartet",
+    "title": "Fanfare",
+    "composer": "Barnes",
+    "arranger": "",
+    "publishers": [
+      "Southern Music Company"
+    ],
+    "publisherText": "Southern Music Company",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/fanfare-11596695/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "347-1-14166",
     "instrumentSlug": "tuba-euphonium-quartet",
     "instrumentName": "Tuba and Euphonium Quartets",
@@ -1505,6 +1610,69 @@
     "publisherText": "Cherry Classics",
     "classLevel": 1,
     "specification": "(any combination of euphoniums & tubas) (trombone arrangement)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "347-1-42006",
+    "instrumentSlug": "tuba-euphonium-quartet",
+    "instrumentName": "Tuba and Euphonium Quartets",
+    "eventName": "Tuba/Euphonium Quartet",
+    "title": "10 Characteristic Studies for Tuba/Euphonium Quartet",
+    "composer": "Bonner",
+    "arranger": "",
+    "publishers": [
+      "drewbonner.com"
+    ],
+    "publisherText": "drewbonner.com",
+    "classLevel": 1,
+    "specification": "(play 9 & 10)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "347-1-42007",
+    "instrumentSlug": "tuba-euphonium-quartet",
+    "instrumentName": "Tuba and Euphonium Quartets",
+    "eventName": "Tuba/Euphonium Quartet",
+    "title": "The Earth Spins On",
+    "composer": "Bonner",
+    "arranger": "",
+    "publishers": [
+      "drewbonner.com"
+    ],
+    "publisherText": "drewbonner.com",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "347-1-42026",
+    "instrumentSlug": "tuba-euphonium-quartet",
+    "instrumentName": "Tuba and Euphonium Quartets",
+    "eventName": "Tuba/Euphonium Quartet",
+    "title": "The Knight's Journey",
+    "composer": "Boswell",
+    "arranger": "Fennell",
+    "publishers": [
+      "matonizz.com"
+    ],
+    "publisherText": "matonizz.com",
+    "classLevel": 1,
+    "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -1555,6 +1723,48 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "347-1-42021",
+    "instrumentSlug": "tuba-euphonium-quartet",
+    "instrumentName": "Tuba and Euphonium Quartets",
+    "eventName": "Tuba/Euphonium Quartet",
+    "title": "Midsummer Songs",
+    "composer": "Cooman",
+    "arranger": "",
+    "publishers": [
+      "Southern Music Company"
+    ],
+    "publisherText": "Southern Music Company",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "347-1-42017",
+    "instrumentSlug": "tuba-euphonium-quartet",
+    "instrumentName": "Tuba and Euphonium Quartets",
+    "eventName": "Tuba/Euphonium Quartet",
+    "title": "Sonata a Quattro",
+    "composer": "Corelli",
+    "arranger": "Cross",
+    "publishers": [
+      "JW Pepper"
+    ],
+    "publisherText": "JW Pepper",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/sonata-a-quattro-11213999/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "347-1-38631",
     "instrumentSlug": "tuba-euphonium-quartet",
     "instrumentName": "Tuba and Euphonium Quartets",
@@ -1574,6 +1784,27 @@
     "sheetMusicAffiliateUrl": null,
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "347-1-42014",
+    "instrumentSlug": "tuba-euphonium-quartet",
+    "instrumentName": "Tuba and Euphonium Quartets",
+    "eventName": "Tuba/Euphonium Quartet",
+    "title": "Canzona Per Sonare No. 2",
+    "composer": "Gabrieli",
+    "arranger": "Lukowicz",
+    "publishers": [
+      "Cimarron Music Press"
+    ],
+    "publisherText": "Cimarron Music Press",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/canzoni-per-sonare-11170094/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
     "uilCode": "347-1-31365",
@@ -1786,6 +2017,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "347-1-42018",
+    "instrumentSlug": "tuba-euphonium-quartet",
+    "instrumentName": "Tuba and Euphonium Quartets",
+    "eventName": "Tuba/Euphonium Quartet",
+    "title": "Overture to Berenice",
+    "composer": "Handel",
+    "arranger": "Gregory",
+    "publishers": [
+      "JW Pepper"
+    ],
+    "publisherText": "JW Pepper",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/overture-to-berenice-11216759/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "347-1-38634",
     "instrumentSlug": "tuba-euphonium-quartet",
     "instrumentName": "Tuba and Euphonium Quartets",
@@ -1828,6 +2080,27 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "347-1-42025",
+    "instrumentSlug": "tuba-euphonium-quartet",
+    "instrumentName": "Tuba and Euphonium Quartets",
+    "eventName": "Tuba/Euphonium Quartet",
+    "title": "Maidens' Three Dances",
+    "composer": "Hiroki",
+    "arranger": "",
+    "publishers": [
+      "Bravo Music"
+    ],
+    "publisherText": "Bravo Music",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "347-1-14169",
     "instrumentSlug": "tuba-euphonium-quartet",
     "instrumentName": "Tuba and Euphonium Quartets",
@@ -1847,6 +2120,27 @@
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/quartet-for-tubas-2072957/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "347-1-42008",
+    "instrumentSlug": "tuba-euphonium-quartet",
+    "instrumentName": "Tuba and Euphonium Quartets",
+    "eventName": "Tuba/Euphonium Quartet",
+    "title": "Novemberfrost",
+    "composer": "Illevold",
+    "arranger": "",
+    "publishers": [
+      "euphonia.no"
+    ],
+    "publisherText": "euphonia.no",
+    "classLevel": 1,
+    "specification": "(any published combination)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
   },
   {
     "uilCode": "347-1-14170",
@@ -1883,6 +2177,27 @@
     "publisherText": "Cimarron Music Press/Whaling Publications",
     "classLevel": 1,
     "specification": "(play three mvts) (2 eup, 2 tba or 3 eup, 1 tba)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "347-1-42175",
+    "instrumentSlug": "tuba-euphonium-quartet",
+    "instrumentName": "Tuba and Euphonium Quartets",
+    "eventName": "Tuba/Euphonium Quartet",
+    "title": "Five Chansons",
+    "composer": "Janequin",
+    "arranger": "Box",
+    "publishers": [
+      "davidboxmusic.com"
+    ],
+    "publisherText": "davidboxmusic.com",
+    "classLevel": 1,
+    "specification": "(3 euph, tuba) (choose one mvt from 1,2, OR 5 PLUS 3 OR 4) (2 total)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -2017,6 +2332,48 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "347-1-42013",
+    "instrumentSlug": "tuba-euphonium-quartet",
+    "instrumentName": "Tuba and Euphonium Quartets",
+    "eventName": "Tuba/Euphonium Quartet",
+    "title": "Scherzo Humoristique",
+    "composer": "Prokofiev",
+    "arranger": "Doughty",
+    "publishers": [
+      "Cimarron Music Press"
+    ],
+    "publisherText": "Cimarron Music Press",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/scherzo-humoristique-9575440/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "347-1-42016",
+    "instrumentSlug": "tuba-euphonium-quartet",
+    "instrumentName": "Tuba and Euphonium Quartets",
+    "eventName": "Tuba/Euphonium Quartet",
+    "title": "Wie ist Doch die Erde so schon",
+    "composer": "Reger",
+    "arranger": "Gregory",
+    "publishers": [
+      "JW Pepper"
+    ],
+    "publisherText": "JW Pepper",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "347-1-14179",
     "instrumentSlug": "tuba-euphonium-quartet",
     "instrumentName": "Tuba and Euphonium Quartets",
@@ -2036,6 +2393,27 @@
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/four-quartets-5196993/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "347-1-42010",
+    "instrumentSlug": "tuba-euphonium-quartet",
+    "instrumentName": "Tuba and Euphonium Quartets",
+    "eventName": "Tuba/Euphonium Quartet",
+    "title": "Psychedelic Dances",
+    "composer": "Robertson",
+    "arranger": "",
+    "publishers": [
+      "Euphonium.com"
+    ],
+    "publisherText": "Euphonium.com",
+    "classLevel": 1,
+    "specification": "(play at least 2 mvts)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
   },
   {
     "uilCode": "347-1-34098",
@@ -2122,6 +2500,48 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "347-1-42011",
+    "instrumentSlug": "tuba-euphonium-quartet",
+    "instrumentName": "Tuba and Euphonium Quartets",
+    "eventName": "Tuba/Euphonium Quartet",
+    "title": "Six Renaissance Dances, Vol 1",
+    "composer": "Schultz",
+    "arranger": "Gregory",
+    "publishers": [
+      "JW Pepper"
+    ],
+    "publisherText": "JW Pepper",
+    "classLevel": 1,
+    "specification": "(play three dances, one of each style)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "347-1-42012",
+    "instrumentSlug": "tuba-euphonium-quartet",
+    "instrumentName": "Tuba and Euphonium Quartets",
+    "eventName": "Tuba/Euphonium Quartet",
+    "title": "Six Renaissance Dances, Vol 2",
+    "composer": "Schultz",
+    "arranger": "Gregory",
+    "publishers": [
+      "JW Pepper"
+    ],
+    "publisherText": "JW Pepper",
+    "classLevel": 1,
+    "specification": "(play three dances, one of each style)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "347-1-14182",
     "instrumentSlug": "tuba-euphonium-quartet",
     "instrumentName": "Tuba and Euphonium Quartets",
@@ -2183,6 +2603,27 @@
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/the-black-horse-troop-11122199/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "347-1-42022",
+    "instrumentSlug": "tuba-euphonium-quartet",
+    "instrumentName": "Tuba and Euphonium Quartets",
+    "eventName": "Tuba/Euphonium Quartet",
+    "title": "The Liberty Bell",
+    "composer": "Sousa",
+    "arranger": "Robertson",
+    "publishers": [
+      "Tuba Euphonium Press"
+    ],
+    "publisherText": "Tuba Euphonium Press",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
   },
   {
     "uilCode": "347-1-38636",
@@ -2269,6 +2710,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "347-1-42019",
+    "instrumentSlug": "tuba-euphonium-quartet",
+    "instrumentName": "Tuba and Euphonium Quartets",
+    "eventName": "Tuba/Euphonium Quartet",
+    "title": "Susato Suite",
+    "composer": "Susato",
+    "arranger": "Sherman",
+    "publishers": [
+      "LudwigMasters Publications"
+    ],
+    "publisherText": "LudwigMasters Publications",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/a-susato-suite-10843137/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "347-1-34758",
     "instrumentSlug": "tuba-euphonium-quartet",
     "instrumentName": "Tuba and Euphonium Quartets",
@@ -2328,6 +2790,48 @@
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/elsas-procession-to-the-cathedral-10060574/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "347-1-42023",
+    "instrumentSlug": "tuba-euphonium-quartet",
+    "instrumentName": "Tuba and Euphonium Quartets",
+    "eventName": "Tuba/Euphonium Quartet",
+    "title": "Amazones",
+    "composer": "Yagisawa",
+    "arranger": "",
+    "publishers": [
+      "Bravo Music"
+    ],
+    "publisherText": "Bravo Music",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "347-1-42024",
+    "instrumentSlug": "tuba-euphonium-quartet",
+    "instrumentName": "Tuba and Euphonium Quartets",
+    "eventName": "Tuba/Euphonium Quartet",
+    "title": "Esmeralda",
+    "composer": "Yagisawa",
+    "arranger": "",
+    "publishers": [
+      "Bravo Music"
+    ],
+    "publisherText": "Bravo Music",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/esmeralda-10799430/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },

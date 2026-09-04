@@ -2,21 +2,21 @@
   "schoolYear": "2025-2026",
   "instrumentSlug": "tuba-euphonium-quartet",
   "instrumentName": "Tuba and Euphonium Quartets",
-  "songCount": 113,
-  "publisherCount": 114,
+  "songCount": 137,
+  "publisherCount": 138,
   "noteCount": 1,
-  "databaseRecordCount": 114,
+  "databaseRecordCount": 137,
   "classBreakdown": {
-    "3": 18,
-    "2": 41,
-    "1": 54
+    "3": 19,
+    "2": 42,
+    "1": 76
   },
   "noMemoryRequiredCount": 0,
   "publicDomainPdfCount": 0,
   "eventBreakdown": {
-    "Tuba/Euphonium Quartet": 113
+    "Tuba/Euphonium Quartet": 137
   },
   "notes": {
-    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-03-28T15:07:47.950523+00:00."
+    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-09-04T16:52:42.286566+00:00."
   }
 }

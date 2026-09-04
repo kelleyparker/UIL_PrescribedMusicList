@@ -78,10 +78,10 @@ Code,Event Name,Title,Composer,Arranger,Publisher [Collection],Grade,Specificati
 332-2-29912,Trombone Trio,Three Spirituals,Anon. or Trad.,Uber,"Kendor Music, Inc.",2,(play all)
 332-3-29913,Trombone Trio,Beginning Trios for Trombones,Uber,,"Kendor Music, Inc.",3,(play any 4)
 332-1-29914,Trombone Trio,"Trio Sonata No. 5, Movement 3 (from Six Trio Sonatas, BWV 529)",Bach,Dishinger,Medici Music Press,1,(play all)
-332-1-29915,Trombone Trio,Elijah Favorites,Mendelssohn,Hall,Great Works Publishing,1,(play all)
+332-1-29915,Trombone Trio,Elijah Favorites,Mendelssohn,Hall,Great Works Publishing,1,
 332-1-29916,Trombone Trio,A Viennese Sonatina,Mozart,Miller,Ludwig Music Publishing Company,1,(play all)
-332-1-29917,Trombone Trio,Old Tyme Songs,Hall,,Great Works Publishing,1,(play all)
-332-1-29918,Trombone Trio,Dance Suite,Hall,,Great Works Publishing,1,(play all)
+332-2-29917,Trombone Trio,Old Tyme Songs,Hall,,LudwigMasters Publications,2,
+332-1-29918,Trombone Trio,Dance Suite,Hall,,Great Works Publishing,1,
 332-1-34351,Trombone Trio,Interludio,Hidas,,Editio Musica,1,
 332-1-34352,Trombone Trio,"Fantasy & Fugue in d minor, BMV.905",Bach,Sauer,Cherry Classics,1,
 332-3-35093,Trombone Trio,Procession of the Knights,Pappas,,JPM Music Publications,3,
@@ -93,3 +93,9 @@ Code,Event Name,Title,Composer,Arranger,Publisher [Collection],Grade,Specificati
 332-2-35101,Trombone Trio,Down Home,Haspiel,,JPM Music Publications,2,
 332-2-35102,Trombone Trio,Sea Chantey,Pappas,,JPM Music Publications,2,
 332-3-35706,Trombone Trio,Horst Du die Posaunen? (Do You Hear the Trombones Play?),various,Andraschek,"Alfred Music Company, Inc.",3,(play one)
+332-1-38596,Trombone Trio,"Now Be Praised, BWV 41",Bach,Gregory,JW Pepper,1,
+332-1-41952,Trombone Trio,Three Tableaux,Solomon,,Southern Music Company,1,
+332-2-41953,Trombone Trio,Reflecting and Rejoicing,Hall,,LudwigMasters Publications,2,
+332-3-41954,Trombone Trio,Spirituals About Nobody,Traditional,Hall,LudwigMasters Publications,3,
+332-3-41955,Trombone Trio,Spirituals of the Old South,Traditional,Hall,LudwigMasters Publications,3,
+332-3-41956,Trombone Trio,College Glee Club,various,Hall,LudwigMasters Publications,3,

@@ -49,7 +49,7 @@ Code,Event Name,Title,Composer,Arranger,Publisher [Collection],Grade,Specificati
 207-1-32239,Bb Clarinet Solo,Concertino,Bencriscutto,,Neil A. Kjos Music Company,1,
 207-1-10777,Bb Clarinet Solo,"Long Long Ago, Fantasie Op. 12",Ritter,Shanley,Southern Music Company,1,
 207-1-10778,Bb Clarinet Solo,"Introduction, Theme and Variations",Rossini,Hite/Glazer,Oxford University Press;Southern Music Company,1,(play all) NMR:(play all)
-207-1-10780,Bb Clarinet Solo,Sonatina Op. 27,Rozsa,,Rongwen Bros. Music Company,1,(play any one mvt)(unaccomp) NMR:(play any one mvt)
+207-1-10780,Bb Clarinet Solo,Sonatina Op. 27,Rozsa,,Rongwen Bros. Music Company,1,(play any one mvt) (unaccomp) NMR:(play any one mvt)
 207-1-10781,Bb Clarinet Solo,Sonata Op. 167,Saint-Saens,,Durand;Excelcia,1,(play two mvts including either mvts 1 or 4)
 207-1-10783,Bb Clarinet Solo,Fantasy Pieces Op. 73,Schumann,Simon/Armato/UrText,"G. Schirmer, Inc. [Masterworks for Clarinet and Piano];Carl Fischer, Inc. [Recital Clarinetist];G. Henle Verlag/USA, Inc.",1,(play two mvts)
 207-1-10784,Bb Clarinet Solo,Five Pieces,Smith,,European American,1,(play any two mvts or mvt 5 alone) (unaccomp) NMR:(play any two mvts or mvt 5 alone)
@@ -256,7 +256,7 @@ Code,Event Name,Title,Composer,Arranger,Publisher [Collection],Grade,Specificati
 207-3-37146,Bb Clarinet Solo,Air on the G String (from Orchestral Suite No. 3),Bach,Halferty,"Kendor Music, Inc.",3,
 207-3-37147,Bb Clarinet Solo,First Recital Album,various,Balent,"Kendor Music, Inc. [First Recital Album]",3,(perform French Song OR Remembering OR Away We Go OR Thoughts of Home OR The Happy Farmer)
 207-3-37148,Bb Clarinet Solo,Kendor Debut Solos,various,,"Kendor Music, Inc. [Kendor Debut Solos]",3,(perform La Cinquantaine OR Sicilian OR Rondino OR Basse Danse No. 8 OR Cuckoo Galop)
-207-3-37149,Bb Clarinet Solo,"Kendor Recital Solos, Volume 2",various,various,"Kendor Music, Inc. [Kendor Recital Solos, Volume 2]",3,(perform Gavotte OR British Isle Sketches OR Lavendar Variations OR Impromptu- Finale OR Habanera)
+207-3-37149,Bb Clarinet Solo,"Kendor Recital Solos, Volume 2",various,various,"Kendor Music, Inc. [Kendor Recital Solos, Volume 2]",3,(perform Gavotte OR British Isle Sketches OR Lavendar Variations OR Impromptu- Finale)
 207-3-37150,Bb Clarinet Solo,15 Original Compositions for Clarinet and Piano,Ticheli,,Manhattan Beach Music [15 Original Compositions for Clarinet and Piano],3,(perform Turkish Dance OR Long Ago & Far Away OR Mystery Tale OR Lucky Day OR Sitting on a Rainbow)
 207-3-37151,Bb Clarinet Solo,Be Thou My Vision,Traditional Irish Folk Song,Marshall,Mel Bay [Lyrical Solos from the British Isles for Clarinet and Piano],3,
 207-3-37152,Bb Clarinet Solo,The Girl I Left Behind Me,English Folk Song,Marshall,Mel Bay [Lyrical Solos from the British Isles for Clarinet and Piano],3,
@@ -266,3 +266,10 @@ Code,Event Name,Title,Composer,Arranger,Publisher [Collection],Grade,Specificati
 207-1-38449,Bb Clarinet Solo,Pepita Greus,Chovi,Corley,Southern Music Company,1,
 207-2-38450,Bb Clarinet Solo,Four Short Pieces,Bridge,Corley,Southern Music Company,2,(play Mvt 1 OR 2 AND Mvt 4)
 207-3-38451,Bb Clarinet Solo,Four Short Pieces,Bridge,Corley,Southern Music Company,3,(play Mvt 1 OR 2)
+207-1-41813,Bb Clarinet Solo,Prise de Bec,Naulais,,International Music Diffusion,1,
+207-1-41814,Bb Clarinet Solo,Variations Sur Carmen,Petit,,International Music Diffusion,1,
+207-1-41815,Bb Clarinet Solo,Oskan 2,Rydin,,International Music Diffusion,1,(unacomp)
+207-1-41816,Bb Clarinet Solo,Escapades #1,Grosborne,,International Music Diffusion,1,
+207-1-41817,Bb Clarinet Solo,Transposing a feeling,Ali,,Austin Ali,1,NMR:(unaccomp)
+207-2-41818,Bb Clarinet Solo,Porch Lights,Markowski,,Markowski Creative,2,
+207-3-41819,Bb Clarinet Solo,"Elementary Solos, Vol. 1",Evans,,beginning.band.com,3,"(play Cakewalk, Allemande, OR Playtime)"

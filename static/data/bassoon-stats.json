@@ -2,21 +2,21 @@
   "schoolYear": "2025-2026",
   "instrumentSlug": "bassoon",
   "instrumentName": "Bassoon Solos",
-  "songCount": 382,
-  "publisherCount": 385,
+  "songCount": 401,
+  "publisherCount": 404,
   "noteCount": 1,
-  "databaseRecordCount": 383,
+  "databaseRecordCount": 401,
   "classBreakdown": {
-    "3": 76,
-    "2": 112,
-    "1": 194
+    "3": 80,
+    "2": 116,
+    "1": 205
   },
   "noMemoryRequiredCount": 22,
   "publicDomainPdfCount": 0,
   "eventBreakdown": {
-    "Bassoon Solo": 382
+    "Bassoon Solo": 401
   },
   "notes": {
-    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-03-28T15:07:47.521611+00:00."
+    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-09-04T16:48:35.213952+00:00."
   }
 }

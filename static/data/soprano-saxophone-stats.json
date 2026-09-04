@@ -2,21 +2,21 @@
   "schoolYear": "2025-2026",
   "instrumentSlug": "soprano-saxophone",
   "instrumentName": "Soprano Saxophone Solos",
-  "songCount": 35,
-  "publisherCount": 35,
+  "songCount": 38,
+  "publisherCount": 38,
   "noteCount": 1,
-  "databaseRecordCount": 36,
+  "databaseRecordCount": 38,
   "classBreakdown": {
     "3": 1,
     "2": 9,
-    "1": 25
+    "1": 28
   },
   "noMemoryRequiredCount": 2,
   "publicDomainPdfCount": 0,
   "eventBreakdown": {
-    "Soprano Saxophone Solo": 35
+    "Soprano Saxophone Solo": 38
   },
   "notes": {
-    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-03-28T15:07:47.478375+00:00."
+    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-09-04T16:48:25.155435+00:00."
   }
 }

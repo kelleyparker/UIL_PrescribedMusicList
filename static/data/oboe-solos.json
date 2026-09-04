@@ -21,27 +21,6 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
-    "uilCode": "203-3-10514",
-    "instrumentSlug": "oboe",
-    "instrumentName": "Oboe Solos",
-    "eventName": "Oboe Solo",
-    "title": "Sakura, Sakura",
-    "composer": "Anon. or Trad.",
-    "arranger": "Walters",
-    "publishers": [
-      "Rubank, Inc."
-    ],
-    "publisherText": "Rubank, Inc.",
-    "classLevel": 3,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/sakura-sakura-11163440/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
     "uilCode": "203-3-10477",
     "instrumentSlug": "oboe",
     "instrumentName": "Oboe Solos",
@@ -208,6 +187,27 @@
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/solemn-thought-11317056/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "203-3-41791",
+    "instrumentSlug": "oboe",
+    "instrumentName": "Oboe Solos",
+    "eventName": "Oboe Solo",
+    "title": "Prelude in e minor, Op.28, No 4",
+    "composer": "Chopin",
+    "arranger": "May",
+    "publishers": [
+      "Lost Key Music"
+    ],
+    "publisherText": "Lost Key Music",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
   },
   {
     "uilCode": "203-3-10487",
@@ -899,6 +899,27 @@
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/tchaikovsky-5972013/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "203-3-10514",
+    "instrumentSlug": "oboe",
+    "instrumentName": "Oboe Solos",
+    "eventName": "Oboe Solo",
+    "title": "Sakura, Sakura",
+    "composer": "Traditional Japanese Folk Song",
+    "arranger": "Walters",
+    "publishers": [
+      "Rubank, Inc."
+    ],
+    "publisherText": "Rubank, Inc.",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/sakura-sakura-11163440/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -2121,6 +2142,27 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "203-2-41790",
+    "instrumentSlug": "oboe",
+    "instrumentName": "Oboe Solos",
+    "eventName": "Oboe Solo",
+    "title": "Air",
+    "composer": "Reicha",
+    "arranger": "",
+    "publishers": [
+      "McGinnis & Marx"
+    ],
+    "publisherText": "McGinnis & Marx",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/air-5285002/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "203-2-10371",
     "instrumentSlug": "oboe",
     "instrumentName": "Oboe Solos",
@@ -2369,6 +2411,27 @@
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/addio-del-passato-4788899/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "203-2-41789",
+    "instrumentSlug": "oboe",
+    "instrumentName": "Oboe Solos",
+    "eventName": "Oboe Solo",
+    "title": "El Choclo",
+    "composer": "Villoldo",
+    "arranger": "May",
+    "publishers": [
+      "Lost Key Music"
+    ],
+    "publisherText": "Lost Key Music",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/el-choclo-11408608/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -2623,6 +2686,27 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "203-1-41780",
+    "instrumentSlug": "oboe",
+    "instrumentName": "Oboe Solos",
+    "eventName": "Oboe Solo",
+    "title": "Sonata, Op. 85",
+    "composer": "Bowen",
+    "arranger": "Chester",
+    "publishers": [
+      "Chester Music Ltd."
+    ],
+    "publisherText": "Chester Music Ltd.",
+    "classLevel": 1,
+    "specification": "(play mvt 1 OR 2 & 3)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/sonata-11640400/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "203-1-32198",
     "instrumentSlug": "oboe",
     "instrumentName": "Oboe Solos",
@@ -2684,6 +2768,27 @@
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/six-metamorphoses-ovid-op-49-4525150/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "203-1-41779",
+    "instrumentSlug": "oboe",
+    "instrumentName": "Oboe Solos",
+    "eventName": "Oboe Solo",
+    "title": "Three Romances Op. 22",
+    "composer": "C Schumann",
+    "arranger": "",
+    "publishers": [
+      "Accolade"
+    ],
+    "publisherText": "Accolade",
+    "classLevel": 1,
+    "specification": "(play mvts 1 & 2 OR 2 & 3)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
   },
   {
     "uilCode": "203-1-10378",
@@ -2770,6 +2875,69 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "203-1-41785",
+    "instrumentSlug": "oboe",
+    "instrumentName": "Oboe Solos",
+    "eventName": "Oboe Solo",
+    "title": "Sonata",
+    "composer": "Coulthard",
+    "arranger": "",
+    "publishers": [
+      "TrevCo Music Publishing"
+    ],
+    "publisherText": "TrevCo Music Publishing",
+    "classLevel": 1,
+    "specification": "(play two mvts)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/sonata-11640400/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "203-1-41788",
+    "instrumentSlug": "oboe",
+    "instrumentName": "Oboe Solos",
+    "eventName": "Oboe Solo",
+    "title": "Mist Fantasy",
+    "composer": "Cuong",
+    "arranger": "",
+    "publishers": [
+      "vietcoungmusic.com"
+    ],
+    "publisherText": "vietcoungmusic.com",
+    "classLevel": 1,
+    "specification": "NMR:(unaccomp)",
+    "noMemoryRequired": true,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "203-1-41774",
+    "instrumentSlug": "oboe",
+    "instrumentName": "Oboe Solos",
+    "eventName": "Oboe Solo",
+    "title": "Six Canadian Scenes for Solo Oboe",
+    "composer": "Cuong",
+    "arranger": "",
+    "publishers": [
+      "vietcoungmusic.com"
+    ],
+    "publisherText": "vietcoungmusic.com",
+    "classLevel": 1,
+    "specification": "NMR:(unaccomp) (play any two mvts)",
+    "noMemoryRequired": true,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "203-1-26368",
     "instrumentSlug": "oboe",
     "instrumentName": "Oboe Solos",
@@ -2810,6 +2978,48 @@
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/album-of-five-pieces-5271325/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "203-1-41783",
+    "instrumentSlug": "oboe",
+    "instrumentName": "Oboe Solos",
+    "eventName": "Oboe Solo",
+    "title": "Poem for Oboe and Piano",
+    "composer": "Dranishnikova",
+    "arranger": "",
+    "publishers": [
+      "TrevCo Music Publishing"
+    ],
+    "publisherText": "TrevCo Music Publishing",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "203-1-41778",
+    "instrumentSlug": "oboe",
+    "instrumentName": "Oboe Solos",
+    "eventName": "Oboe Solo",
+    "title": "Sonata for Oboe and Piano",
+    "composer": "Eben",
+    "arranger": "",
+    "publishers": [
+      "Panton"
+    ],
+    "publisherText": "Panton",
+    "classLevel": 1,
+    "specification": "(play any two mvts)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
   },
   {
     "uilCode": "203-1-10382",
@@ -2917,6 +3127,27 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "203-1-41786",
+    "instrumentSlug": "oboe",
+    "instrumentName": "Oboe Solos",
+    "eventName": "Oboe Solo",
+    "title": "Sea-Shore Suite, Op. 3b",
+    "composer": "Gipps",
+    "arranger": "",
+    "publishers": [
+      "Emerson Editions"
+    ],
+    "publisherText": "Emerson Editions",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "203-1-10386",
     "instrumentSlug": "oboe",
     "instrumentName": "Oboe Solos",
@@ -2994,6 +3225,27 @@
     "publisherText": "Southern Music Company",
     "classLevel": 1,
     "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "203-1-41787",
+    "instrumentSlug": "oboe",
+    "instrumentName": "Oboe Solos",
+    "eventName": "Oboe Solo",
+    "title": "Suite, Op. 17",
+    "composer": "Haas",
+    "arranger": "",
+    "publishers": [
+      "Masters Music Publications"
+    ],
+    "publisherText": "Masters Music Publications",
+    "classLevel": 1,
+    "specification": "(play two mvts)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -3193,6 +3445,27 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "203-1-41784",
+    "instrumentSlug": "oboe",
+    "instrumentName": "Oboe Solos",
+    "eventName": "Oboe Solo",
+    "title": "Concerto No. 1 for Oboe",
+    "composer": "Jacob",
+    "arranger": "",
+    "publishers": [
+      "Stainer & Bell"
+    ],
+    "publisherText": "Stainer & Bell",
+    "classLevel": 1,
+    "specification": "NMR:(play any mvt)",
+    "noMemoryRequired": true,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "203-1-26376",
     "instrumentSlug": "oboe",
     "instrumentName": "Oboe Solos",
@@ -3382,6 +3655,48 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "203-1-41775",
+    "instrumentSlug": "oboe",
+    "instrumentName": "Oboe Solos",
+    "eventName": "Oboe Solo",
+    "title": "27-72",
+    "composer": "Morris",
+    "arranger": "",
+    "publishers": [
+      "TrevCo Music Publishing"
+    ],
+    "publisherText": "TrevCo Music Publishing",
+    "classLevel": 1,
+    "specification": "(play any mvt EXCEPT 3rd)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/morris-dance-4885711/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "203-1-41777",
+    "instrumentSlug": "oboe",
+    "instrumentName": "Oboe Solos",
+    "eventName": "Oboe Solo",
+    "title": "Collision Etudes",
+    "composer": "Morris",
+    "arranger": "",
+    "publishers": [
+      "TrevCo Music Publishing"
+    ],
+    "publisherText": "TrevCo Music Publishing",
+    "classLevel": 1,
+    "specification": "(unaccomp) (play two mvts)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/morris-dance-4885711/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "203-1-33791",
     "instrumentSlug": "oboe",
     "instrumentName": "Oboe Solos",
@@ -3399,6 +3714,27 @@
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/four-personalities-10956404/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "203-1-41776",
+    "instrumentSlug": "oboe",
+    "instrumentName": "Oboe Solos",
+    "eventName": "Oboe Solo",
+    "title": "Where Do Children Come From?",
+    "composer": "Morris",
+    "arranger": "",
+    "publishers": [
+      "TrevCo Music Publishing"
+    ],
+    "publisherText": "TrevCo Music Publishing",
+    "classLevel": 1,
+    "specification": "(play two mvts)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/morris-dance-4885711/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -3822,6 +4158,48 @@
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/oboe-concerto-oboe-5438304/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "203-1-41782",
+    "instrumentSlug": "oboe",
+    "instrumentName": "Oboe Solos",
+    "eventName": "Oboe Solo",
+    "title": "Ego Flos Campi",
+    "composer": "Talbot-Howard",
+    "arranger": "",
+    "publishers": [
+      "Pantokrator Publications"
+    ],
+    "publisherText": "Pantokrator Publications",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/ego-flos-campi-10188773/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "203-1-41781",
+    "instrumentSlug": "oboe",
+    "instrumentName": "Oboe Solos",
+    "eventName": "Oboe Solo",
+    "title": "The Door of No Return",
+    "composer": "Talbot-Howard",
+    "arranger": "",
+    "publishers": [
+      "Pantokrator Publications"
+    ],
+    "publisherText": "Pantokrator Publications",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
   },
   {
     "uilCode": "203-1-10417",

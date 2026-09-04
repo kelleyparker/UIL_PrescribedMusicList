@@ -2,21 +2,21 @@
   "schoolYear": "2025-2026",
   "instrumentSlug": "alto-clarinet-solo",
   "instrumentName": "Alto Clarinet Solos",
-  "songCount": 61,
-  "publisherCount": 61,
+  "songCount": 62,
+  "publisherCount": 62,
   "noteCount": 1,
   "databaseRecordCount": 62,
   "classBreakdown": {
-    "3": 24,
+    "3": 25,
     "2": 27,
     "1": 10
   },
   "noMemoryRequiredCount": 0,
   "publicDomainPdfCount": 0,
   "eventBreakdown": {
-    "Alto Clarinet Solo": 61
+    "Alto Clarinet Solo": 62
   },
   "notes": {
-    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-03-28T15:07:47.461563+00:00."
+    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-09-04T16:47:57.235494+00:00."
   }
 }

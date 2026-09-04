@@ -2,24 +2,24 @@
   "schoolYear": "2025-2026",
   "instrumentSlug": "treble-chorus",
   "instrumentName": "Treble Choruses",
-  "songCount": 1355,
-  "publisherCount": 1410,
+  "songCount": 1420,
+  "publisherCount": 1475,
   "noteCount": 1,
-  "databaseRecordCount": 1356,
+  "databaseRecordCount": 1420,
   "classBreakdown": {
-    "6": 22,
-    "5": 206,
-    "4": 268,
-    "3": 374,
-    "2": 307,
-    "1": 178
+    "6": 24,
+    "5": 219,
+    "4": 278,
+    "3": 395,
+    "2": 318,
+    "1": 186
   },
   "noMemoryRequiredCount": 0,
   "publicDomainPdfCount": 0,
   "eventBreakdown": {
-    "Treble Chorus": 1355
+    "Treble Chorus": 1420
   },
   "notes": {
-    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-03-28T15:13:40.674412+00:00."
+    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-09-04T16:57:19.840168+00:00."
   }
 }

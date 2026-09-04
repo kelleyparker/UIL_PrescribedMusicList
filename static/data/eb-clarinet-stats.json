@@ -3,9 +3,9 @@
   "instrumentSlug": "eb-clarinet-solo",
   "instrumentName": "Eb Clarinet Solos",
   "songCount": 30,
-  "publisherCount": 32,
+  "publisherCount": 33,
   "noteCount": 1,
-  "databaseRecordCount": 31,
+  "databaseRecordCount": 30,
   "classBreakdown": {
     "3": 4,
     "2": 10,
@@ -17,6 +17,6 @@
     "Eb Clarinet Solo": 30
   },
   "notes": {
-    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-03-28T15:07:47.467915+00:00."
+    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-09-04T16:47:48.377919+00:00."
   }
 }

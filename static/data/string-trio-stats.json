@@ -5,7 +5,7 @@
   "songCount": 82,
   "publisherCount": 85,
   "noteCount": 1,
-  "databaseRecordCount": 83,
+  "databaseRecordCount": 82,
   "classBreakdown": {
     "3": 17,
     "2": 39,
@@ -17,6 +17,6 @@
     "String Trio": 82
   },
   "notes": {
-    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-03-28T15:07:48.105202+00:00."
+    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-09-04T16:53:07.180350+00:00."
   }
 }

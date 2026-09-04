@@ -5,7 +5,7 @@
   "songCount": 131,
   "publisherCount": 148,
   "noteCount": 1,
-  "databaseRecordCount": 132,
+  "databaseRecordCount": 131,
   "classBreakdown": {
     "3": 65,
     "2": 46,
@@ -17,6 +17,6 @@
     "Piano Trio": 131
   },
   "notes": {
-    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-03-28T15:07:48.091712+00:00."
+    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-09-04T16:53:07.158151+00:00."
   }
 }

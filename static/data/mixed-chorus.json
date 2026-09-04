@@ -1,5 +1,26 @@
 [
   {
+    "uilCode": "931-6-41603",
+    "instrumentSlug": "mixed-chorus",
+    "instrumentName": "Mixed Choruses",
+    "eventName": "Mixed Chorus",
+    "title": "Gloria",
+    "composer": "Alcala",
+    "arranger": "",
+    "publishers": [
+      "Walton Music Corporation"
+    ],
+    "publisherText": "Walton Music Corporation",
+    "classLevel": 6,
+    "specification": "(SATB) (divisi) (a cappella)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "931-6-27691",
     "instrumentSlug": "mixed-chorus",
     "instrumentName": "Mixed Choruses",
@@ -1389,6 +1410,27 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "931-6-41604",
+    "instrumentSlug": "mixed-chorus",
+    "instrumentName": "Mixed Choruses",
+    "eventName": "Mixed Chorus",
+    "title": "Requiem Aeternam",
+    "composer": "Woo",
+    "arranger": "",
+    "publishers": [
+      "Walton Music Corporation"
+    ],
+    "publisherText": "Walton Music Corporation",
+    "classLevel": 6,
+    "specification": "(SATB) (divisi) (soprano solo) (cello REQUIRED) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/requiem-aeternam-10999920/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "931-6-39416",
     "instrumentSlug": "mixed-chorus",
     "instrumentName": "Mixed Choruses",
@@ -1406,6 +1448,27 @@
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/crucifige-11514207/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "931-5-41585",
+    "instrumentSlug": "mixed-chorus",
+    "instrumentName": "Mixed Choruses",
+    "eventName": "Mixed Chorus",
+    "title": "Bayanihan",
+    "composer": "Abela",
+    "arranger": "",
+    "publishers": [
+      "Galaxy Music Corporation"
+    ],
+    "publisherText": "Galaxy Music Corporation",
+    "classLevel": 5,
+    "specification": "(SATB) (divisi) (a cappella)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/bayanihan-11618206/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -2209,6 +2272,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "931-5-41586",
+    "instrumentSlug": "mixed-chorus",
+    "instrumentName": "Mixed Choruses",
+    "eventName": "Mixed Chorus",
+    "title": "Little Lamb",
+    "composer": "Barkoskie IV",
+    "arranger": "",
+    "publishers": [
+      "Alliance Music Publications"
+    ],
+    "publisherText": "Alliance Music Publications",
+    "classLevel": 5,
+    "specification": "(SATB) (divisi) (a cappella)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "931-5-30804",
     "instrumentSlug": "mixed-chorus",
     "instrumentName": "Mixed Choruses",
@@ -2271,6 +2355,27 @@
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/dawn-11310115f/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "931-5-41602",
+    "instrumentSlug": "mixed-chorus",
+    "instrumentName": "Mixed Choruses",
+    "eventName": "Mixed Chorus",
+    "title": "Dreams of Thee",
+    "composer": "Barnum",
+    "arranger": "",
+    "publishers": [
+      "Walton Music Corporation"
+    ],
+    "publisherText": "Walton Music Corporation",
+    "classLevel": 5,
+    "specification": "(SAB) (opt C instrument) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
   },
   {
     "uilCode": "931-5-38292",
@@ -3451,6 +3556,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "931-5-41597",
+    "instrumentSlug": "mixed-chorus",
+    "instrumentName": "Mixed Choruses",
+    "eventName": "Mixed Chorus",
+    "title": "Songs of Remembrance",
+    "composer": "Chatman",
+    "arranger": "",
+    "publishers": [
+      "Galaxy Music Corporation"
+    ],
+    "publisherText": "Galaxy Music Corporation",
+    "classLevel": 5,
+    "specification": "(SATB) (divisi) (solo) (ONLY sing 1. Come to me) (opt clarinet) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "931-5-27626",
     "instrumentSlug": "mixed-chorus",
     "instrumentName": "Mixed Choruses",
@@ -3470,6 +3596,27 @@
     "sheetMusicAffiliateUrl": null,
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "931-5-41583",
+    "instrumentSlug": "mixed-chorus",
+    "instrumentName": "Mixed Choruses",
+    "eventName": "Mixed Chorus",
+    "title": "Adam lay ybounden",
+    "composer": "Chavarria",
+    "arranger": "",
+    "publishers": [
+      "Oxford University Press"
+    ],
+    "publisherText": "Oxford University Press",
+    "classLevel": 5,
+    "specification": "(SATB) (divisi) (a cappella)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/adam-lay-ybounden-11613650/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
     "uilCode": "931-5-21823",
@@ -4526,6 +4673,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "931-5-41595",
+    "instrumentSlug": "mixed-chorus",
+    "instrumentName": "Mixed Choruses",
+    "eventName": "Mixed Chorus",
+    "title": "The Heavens\u2019 Flock",
+    "composer": "Esenvalds",
+    "arranger": "",
+    "publishers": [
+      "Musica Baltica"
+    ],
+    "publisherText": "Musica Baltica",
+    "classLevel": 5,
+    "specification": "(SATB) (divisi) (a cappella)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/the-heavens-flock-10523226/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "931-5-38283",
     "instrumentSlug": "mixed-chorus",
     "instrumentName": "Mixed Choruses",
@@ -5514,6 +5682,27 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "931-5-41590",
+    "instrumentSlug": "mixed-chorus",
+    "instrumentName": "Mixed Choruses",
+    "eventName": "Mixed Chorus",
+    "title": "When We Love",
+    "composer": "Hagenberg",
+    "arranger": "",
+    "publishers": [
+      "Elaine Hagenberg Music, LLC"
+    ],
+    "publisherText": "Elaine Hagenberg Music, LLC",
+    "classLevel": 5,
+    "specification": "(SATB) (divisi) (a cappella)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "931-5-37876",
     "instrumentSlug": "mixed-chorus",
     "instrumentName": "Mixed Choruses",
@@ -5785,6 +5974,27 @@
     "sheetMusicAffiliateUrl": null,
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "931-5-41596",
+    "instrumentSlug": "mixed-chorus",
+    "instrumentName": "Mixed Choruses",
+    "eventName": "Mixed Chorus",
+    "title": "I Am Loved",
+    "composer": "Harris",
+    "arranger": "",
+    "publishers": [
+      "Hinshaw Music Inc."
+    ],
+    "publisherText": "Hinshaw Music Inc.",
+    "classLevel": 5,
+    "specification": "(SATB) (divisi) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/i-am-loved-10589951/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
     "uilCode": "931-5-38266",
@@ -6375,6 +6585,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "931-5-41592",
+    "instrumentSlug": "mixed-chorus",
+    "instrumentName": "Mixed Choruses",
+    "eventName": "Mixed Chorus",
+    "title": "Tokecang",
+    "composer": "Indonesian Folk Song",
+    "arranger": "Steven",
+    "publishers": [
+      "Walton Music Corporation"
+    ],
+    "publisherText": "Walton Music Corporation",
+    "classLevel": 5,
+    "specification": "(SATB) (divisi) (soprano/tenor solo) (a cappella)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/tokecang-11593007/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "931-5-29340",
     "instrumentSlug": "mixed-chorus",
     "instrumentName": "Mixed Choruses",
@@ -6522,6 +6753,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "931-5-41598",
+    "instrumentSlug": "mixed-chorus",
+    "instrumentName": "Mixed Choruses",
+    "eventName": "Mixed Chorus",
+    "title": "Unclouded Day (from Heavenly Home: Three American Songs)",
+    "composer": "Kirchner",
+    "arranger": "",
+    "publishers": [
+      "Boosey & Hawkes, Inc."
+    ],
+    "publisherText": "Boosey & Hawkes, Inc.",
+    "classLevel": 5,
+    "specification": "(SSAATTBB) (a cappella)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/unclouded-day-10309004/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "931-5-29404",
     "instrumentSlug": "mixed-chorus",
     "instrumentName": "Mixed Choruses",
@@ -6583,6 +6835,27 @@
     "sheetMusicAffiliateUrl": null,
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "931-5-41594",
+    "instrumentSlug": "mixed-chorus",
+    "instrumentName": "Mixed Choruses",
+    "eventName": "Mixed Chorus",
+    "title": "The Lamb",
+    "composer": "Koziej",
+    "arranger": "",
+    "publishers": [
+      "Oxford University Press"
+    ],
+    "publisherText": "Oxford University Press",
+    "classLevel": 5,
+    "specification": "(SATB) (divisi) (a cappella)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/lamb-3304327/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
     "uilCode": "931-5-27650",
@@ -8396,6 +8669,27 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "931-5-41588",
+    "instrumentSlug": "mixed-chorus",
+    "instrumentName": "Mixed Choruses",
+    "eventName": "Mixed Chorus",
+    "title": "Kizilciklar",
+    "composer": "Onsoz",
+    "arranger": "",
+    "publishers": [
+      "Galaxy Music Corporation"
+    ],
+    "publisherText": "Galaxy Music Corporation",
+    "classLevel": 5,
+    "specification": "(SATB) (a cappella)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/kizilciklar-11640799/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "931-5-39403",
     "instrumentSlug": "mixed-chorus",
     "instrumentName": "Mixed Choruses",
@@ -9280,6 +9574,27 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "931-5-41587",
+    "instrumentSlug": "mixed-chorus",
+    "instrumentName": "Mixed Choruses",
+    "eventName": "Mixed Chorus",
+    "title": "Bahaari Baarish",
+    "composer": "Rajasekar",
+    "arranger": "",
+    "publishers": [
+      "Oxford University Press"
+    ],
+    "publisherText": "Oxford University Press",
+    "classLevel": 5,
+    "specification": "(SATB) (divisi) (soprano solo) (a cappella)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/bahaari-baarish-11592385/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "931-5-39396",
     "instrumentSlug": "mixed-chorus",
     "instrumentName": "Mixed Choruses",
@@ -9398,6 +9713,27 @@
     "publisherText": "Jake Runstead Music",
     "classLevel": 5,
     "specification": "(SATB) (opt claps) (a cappella)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "931-5-41599",
+    "instrumentSlug": "mixed-chorus",
+    "instrumentName": "Mixed Choruses",
+    "eventName": "Mixed Chorus",
+    "title": "Let My Love Be Heard",
+    "composer": "Runestad",
+    "arranger": "",
+    "publishers": [
+      "Jake Runestad Music LLC"
+    ],
+    "publisherText": "Jake Runestad Music LLC",
+    "classLevel": 5,
+    "specification": "(SATB) (divisi) (a cappella)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -9951,6 +10287,27 @@
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/shenandoah-2475376/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "931-5-41584",
+    "instrumentSlug": "mixed-chorus",
+    "instrumentName": "Mixed Choruses",
+    "eventName": "Mixed Chorus",
+    "title": "Cantate Domino",
+    "composer": "Sheils",
+    "arranger": "",
+    "publishers": [
+      "Alliance Music Publications"
+    ],
+    "publisherText": "Alliance Music Publications",
+    "classLevel": 5,
+    "specification": "(SATB) (divisi) (a cappella)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
   },
   {
     "uilCode": "931-5-21877",
@@ -11258,6 +11615,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "931-5-41591",
+    "instrumentSlug": "mixed-chorus",
+    "instrumentName": "Mixed Choruses",
+    "eventName": "Mixed Chorus",
+    "title": "Exsultate Justi",
+    "composer": "Trotta",
+    "arranger": "",
+    "publishers": [
+      "Hampton Roads Music Group"
+    ],
+    "publisherText": "Hampton Roads Music Group",
+    "classLevel": 5,
+    "specification": "(SA(T)B) (a cappella)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "931-5-39404",
     "instrumentSlug": "mixed-chorus",
     "instrumentName": "Mixed Choruses",
@@ -11403,6 +11781,27 @@
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/o-quam-gloriosum-10707134e/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "931-5-41593",
+    "instrumentSlug": "mixed-chorus",
+    "instrumentName": "Mixed Choruses",
+    "eventName": "Mixed Chorus",
+    "title": "Oh Day of Fire and Sun",
+    "composer": "Vass",
+    "arranger": "",
+    "publishers": [
+      "Hal Leonard Music, Inc."
+    ],
+    "publisherText": "Hal Leonard Music, Inc.",
+    "classLevel": 5,
+    "specification": "(SATB) (divisi) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
   },
   {
     "uilCode": "931-5-21879",
@@ -11805,6 +12204,27 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "931-5-41589",
+    "instrumentSlug": "mixed-chorus",
+    "instrumentName": "Mixed Choruses",
+    "eventName": "Mixed Chorus",
+    "title": "Give Me Your Stars",
+    "composer": "Walker",
+    "arranger": "",
+    "publishers": [
+      "E.C. Schirmer Music Company"
+    ],
+    "publisherText": "E.C. Schirmer Music Company",
+    "classLevel": 5,
+    "specification": "(SATB) (divisi) (soprano solo) (a cappella)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "931-5-35347",
     "instrumentSlug": "mixed-chorus",
     "instrumentName": "Mixed Choruses",
@@ -12099,6 +12519,27 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "931-5-41600",
+    "instrumentSlug": "mixed-chorus",
+    "instrumentName": "Mixed Choruses",
+    "eventName": "Mixed Chorus",
+    "title": "Stopping By Woods on a Snowy Evening",
+    "composer": "Whitacre",
+    "arranger": "",
+    "publishers": [
+      "Walton Music Corporation"
+    ],
+    "publisherText": "Walton Music Corporation",
+    "classLevel": 5,
+    "specification": "(SATB) (divisi) (a cappella)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "931-5-29250",
     "instrumentSlug": "mixed-chorus",
     "instrumentName": "Mixed Choruses",
@@ -12221,6 +12662,27 @@
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/ave-maris-stella-5848866/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "931-5-41601",
+    "instrumentSlug": "mixed-chorus",
+    "instrumentName": "Mixed Choruses",
+    "eventName": "Mixed Chorus",
+    "title": "Tenue Tamen Potente",
+    "composer": "Wykoff",
+    "arranger": "",
+    "publishers": [
+      "Walton Music Corporation"
+    ],
+    "publisherText": "Walton Music Corporation",
+    "classLevel": 5,
+    "specification": "(SATB) (a cappella)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/tenue-tamen-potente-11593003/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -12708,6 +13170,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "931-4-41559",
+    "instrumentSlug": "mixed-chorus",
+    "instrumentName": "Mixed Choruses",
+    "eventName": "Mixed Chorus",
+    "title": "Kolibri",
+    "composer": "Alexander/Silvestri",
+    "arranger": "",
+    "publishers": [
+      "Heritage Music Press"
+    ],
+    "publisherText": "Heritage Music Press",
+    "classLevel": 4,
+    "specification": "(SATB) (divisi) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/kolibri-11641421/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "931-4-21430",
     "instrumentSlug": "mixed-chorus",
     "instrumentName": "Mixed Choruses",
@@ -12784,6 +13267,27 @@
     "publisherText": "Hinshaw Music Inc.",
     "classLevel": 4,
     "specification": "(SATB) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "931-4-41557",
+    "instrumentSlug": "mixed-chorus",
+    "instrumentName": "Mixed Choruses",
+    "eventName": "Mixed Chorus",
+    "title": "Jubilate Deo",
+    "composer": "Anglea",
+    "arranger": "",
+    "publishers": [
+      "Hinshaw Music Inc."
+    ],
+    "publisherText": "Hinshaw Music Inc.",
+    "classLevel": 4,
+    "specification": "(SATB) (divisi) (accomp)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -13401,6 +13905,27 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "931-4-41568",
+    "instrumentSlug": "mixed-chorus",
+    "instrumentName": "Mixed Choruses",
+    "eventName": "Mixed Chorus",
+    "title": "Alle Psallite",
+    "composer": "Anonymous",
+    "arranger": "Wagner",
+    "publishers": [
+      "Heritage Music Press"
+    ],
+    "publisherText": "Heritage Music Press",
+    "classLevel": 4,
+    "specification": "(SATB) (opt. hand drum OR tambourine) (a cappella)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/alle-psallite-4064556/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "931-4-31050",
     "instrumentSlug": "mixed-chorus",
     "instrumentName": "Mixed Choruses",
@@ -13674,6 +14199,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "931-4-41561",
+    "instrumentSlug": "mixed-chorus",
+    "instrumentName": "Mixed Choruses",
+    "eventName": "Mixed Chorus",
+    "title": "Empress of Night",
+    "composer": "Beach",
+    "arranger": "Williams",
+    "publishers": [
+      "Oxford University Press"
+    ],
+    "publisherText": "Oxford University Press",
+    "classLevel": 4,
+    "specification": "(SATB) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/empress-of-night-11613705e/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "931-4-40472",
     "instrumentSlug": "mixed-chorus",
     "instrumentName": "Mixed Choruses",
@@ -13927,6 +14473,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "931-4-41552",
+    "instrumentSlug": "mixed-chorus",
+    "instrumentName": "Mixed Choruses",
+    "eventName": "Mixed Chorus",
+    "title": "Celtic Jubilate (SAB)",
+    "composer": "Brinsmead",
+    "arranger": "",
+    "publishers": [
+      "Walton Music Corporation"
+    ],
+    "publisherText": "Walton Music Corporation",
+    "classLevel": 4,
+    "specification": "(SAB) (Bodhr\u00e1n or djembe REQUIRED) (a cappella)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/pianotrax-17-11613325/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "931-4-39379",
     "instrumentSlug": "mixed-chorus",
     "instrumentName": "Mixed Choruses",
@@ -13988,6 +14555,27 @@
     "sheetMusicAffiliateUrl": null,
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "931-4-41564",
+    "instrumentSlug": "mixed-chorus",
+    "instrumentName": "Mixed Choruses",
+    "eventName": "Mixed Chorus",
+    "title": "O Lux Beatissima",
+    "composer": "Burrows",
+    "arranger": "",
+    "publishers": [
+      "Heritage Music Press"
+    ],
+    "publisherText": "Heritage Music Press",
+    "classLevel": 4,
+    "specification": "(SAB) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/o-lux-beatissima-10684757/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
     "uilCode": "931-4-35332",
@@ -14262,6 +14850,27 @@
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/where-dwells-the-soul-of-my-love-11302895f/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "931-4-41558",
+    "instrumentSlug": "mixed-chorus",
+    "instrumentName": "Mixed Choruses",
+    "eventName": "Mixed Chorus",
+    "title": "The Mountains Are Calling",
+    "composer": "Choplin",
+    "arranger": "",
+    "publishers": [
+      "Heritage Music Press"
+    ],
+    "publisherText": "Heritage Music Press",
+    "classLevel": 4,
+    "specification": "(SATB) (divisi) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
   },
   {
     "uilCode": "931-4-36763",
@@ -15273,6 +15882,27 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "931-4-41576",
+    "instrumentSlug": "mixed-chorus",
+    "instrumentName": "Mixed Choruses",
+    "eventName": "Mixed Chorus",
+    "title": "Khattar pattar",
+    "composer": "Esmail",
+    "arranger": "",
+    "publishers": [
+      "Oxford University Press"
+    ],
+    "publisherText": "Oxford University Press",
+    "classLevel": 4,
+    "specification": "(SATB) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/khattar-pattar-11639574/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "931-4-38257",
     "instrumentSlug": "mixed-chorus",
     "instrumentName": "Mixed Choruses",
@@ -15397,6 +16027,27 @@
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/ave-regina-caelorum-3287661/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "931-4-41581",
+    "instrumentSlug": "mixed-chorus",
+    "instrumentName": "Mixed Choruses",
+    "eventName": "Mixed Chorus",
+    "title": "The Everlasting Flame",
+    "composer": "Fogelman",
+    "arranger": "",
+    "publishers": [
+      "Walton Music Corporation"
+    ],
+    "publisherText": "Walton Music Corporation",
+    "classLevel": 4,
+    "specification": "(SATB) (divisi) (opt harp) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
   },
   {
     "uilCode": "931-4-21708",
@@ -15735,6 +16386,48 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "931-4-41565",
+    "instrumentSlug": "mixed-chorus",
+    "instrumentName": "Mixed Choruses",
+    "eventName": "Mixed Chorus",
+    "title": "Requiem",
+    "composer": "Gilkyson",
+    "arranger": "Johnson",
+    "publishers": [
+      "G. Schirmer, Inc."
+    ],
+    "publisherText": "G. Schirmer, Inc.",
+    "classLevel": 4,
+    "specification": "(SATB) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/requiem-11682267/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "931-4-41582",
+    "instrumentSlug": "mixed-chorus",
+    "instrumentName": "Mixed Choruses",
+    "eventName": "Mixed Chorus",
+    "title": "Hine Ma Tov",
+    "composer": "Ginsberg",
+    "arranger": "",
+    "publishers": [
+      "Santa Barbara Music Publishing"
+    ],
+    "publisherText": "Santa Barbara Music Publishing",
+    "classLevel": 4,
+    "specification": "(SATB) (opt flute) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "931-4-39372",
     "instrumentSlug": "mixed-chorus",
     "instrumentName": "Mixed Choruses",
@@ -15773,6 +16466,27 @@
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/northern-lights-11541975e/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "931-4-41554",
+    "instrumentSlug": "mixed-chorus",
+    "instrumentName": "Mixed Choruses",
+    "eventName": "Mixed Chorus",
+    "title": "Seasons",
+    "composer": "Gjeilo",
+    "arranger": "",
+    "publishers": [
+      "Walton Music Corporation"
+    ],
+    "publisherText": "Walton Music Corporation",
+    "classLevel": 4,
+    "specification": "(SATB) (opt flute) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/seasons-10513272/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -16210,6 +16924,27 @@
     "publisherText": "Concordia Publishing House [SAB Choir Goes for Baroque, The]",
     "classLevel": 4,
     "specification": "(SAB) (instruments) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "931-4-41563",
+    "instrumentSlug": "mixed-chorus",
+    "instrumentName": "Mixed Choruses",
+    "eventName": "Mixed Chorus",
+    "title": "Bring Me All Your Dreams",
+    "composer": "Harris",
+    "arranger": "",
+    "publishers": [
+      "Oxford University Press"
+    ],
+    "publisherText": "Oxford University Press",
+    "classLevel": 4,
+    "specification": "(SATB) (divisi) (a cappella)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -16975,6 +17710,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "931-4-41553",
+    "instrumentSlug": "mixed-chorus",
+    "instrumentName": "Mixed Choruses",
+    "eventName": "Mixed Chorus",
+    "title": "What You Dream",
+    "composer": "Kilstofte",
+    "arranger": "",
+    "publishers": [
+      "The Newmatic Press"
+    ],
+    "publisherText": "The Newmatic Press",
+    "classLevel": 4,
+    "specification": "(SATB) (a cappella)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "931-4-39364",
     "instrumentSlug": "mixed-chorus",
     "instrumentName": "Mixed Choruses",
@@ -16988,6 +17744,27 @@
     "publisherText": "SBMP",
     "classLevel": 4,
     "specification": "(SATB) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "931-4-41560",
+    "instrumentSlug": "mixed-chorus",
+    "instrumentName": "Mixed Choruses",
+    "eventName": "Mixed Chorus",
+    "title": "Love Is",
+    "composer": "Koppin",
+    "arranger": "",
+    "publishers": [
+      "Galaxy Music Corporation"
+    ],
+    "publisherText": "Galaxy Music Corporation",
+    "classLevel": 4,
+    "specification": "(SATB) (divisi) (accomp)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -17181,6 +17958,27 @@
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/scio-enim-10707082e/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "931-4-41573",
+    "instrumentSlug": "mixed-chorus",
+    "instrumentName": "Mixed Choruses",
+    "eventName": "Mixed Chorus",
+    "title": "Alfonso XII",
+    "composer": "Latin American Folk Song",
+    "arranger": "Martinez",
+    "publishers": [
+      "Heritage Music Press"
+    ],
+    "publisherText": "Heritage Music Press",
+    "classLevel": 4,
+    "specification": "(SATB) (opt solo) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/alfonso-xii-11641394/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -17393,6 +18191,27 @@
     "sheetMusicAffiliateUrl": null,
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "931-4-41567",
+    "instrumentSlug": "mixed-chorus",
+    "instrumentName": "Mixed Choruses",
+    "eventName": "Mixed Chorus",
+    "title": "O Radiant Dawn",
+    "composer": "MacMillan",
+    "arranger": "",
+    "publishers": [
+      "Boosey & Hawkes, Inc."
+    ],
+    "publisherText": "Boosey & Hawkes, Inc.",
+    "classLevel": 4,
+    "specification": "(SATB) (a cappella)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/o-radiant-dawn-11557076f/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
     "uilCode": "931-4-21326",
@@ -18488,6 +19307,27 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "931-4-41570",
+    "instrumentSlug": "mixed-chorus",
+    "instrumentName": "Mixed Choruses",
+    "eventName": "Mixed Chorus",
+    "title": "R\u2019fuah Sh\u2019leimah (Song of Healing)",
+    "composer": "Newman",
+    "arranger": "",
+    "publishers": [
+      "Hal Leonard Music, Inc."
+    ],
+    "publisherText": "Hal Leonard Music, Inc.",
+    "classLevel": 4,
+    "specification": "(SATB) (divisi) (a cappella)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/rfuah-shleimah-11620674/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "931-4-21498",
     "instrumentSlug": "mixed-chorus",
     "instrumentName": "Mixed Choruses",
@@ -19137,6 +19977,27 @@
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/sarah-quartel-songbook-11342510/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "931-4-41562",
+    "instrumentSlug": "mixed-chorus",
+    "instrumentName": "Mixed Choruses",
+    "eventName": "Mixed Chorus",
+    "title": "The Lake Isle of Innisfree",
+    "composer": "Quartel",
+    "arranger": "",
+    "publishers": [
+      "Oxford University Press"
+    ],
+    "publisherText": "Oxford University Press",
+    "classLevel": 4,
+    "specification": "(SATB) (solo OR small group) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
   },
   {
     "uilCode": "931-4-39382",
@@ -20084,6 +20945,48 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "931-4-41566",
+    "instrumentSlug": "mixed-chorus",
+    "instrumentName": "Mixed Choruses",
+    "eventName": "Mixed Chorus",
+    "title": "Eloyi",
+    "composer": "South African Folk Song",
+    "arranger": "Ndlovu & Masetlhe",
+    "publishers": [
+      "Walton Music Corporation"
+    ],
+    "publisherText": "Walton Music Corporation",
+    "classLevel": 4,
+    "specification": "(SATB) (solo) (a cappella)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/eloyi-11592985/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "931-4-41571",
+    "instrumentSlug": "mixed-chorus",
+    "instrumentName": "Mixed Choruses",
+    "eventName": "Mixed Chorus",
+    "title": "R\u00edu R\u00edu Ch\u00edu",
+    "composer": "Spanish Renaissance Carol",
+    "arranger": "Sable",
+    "publishers": [
+      "Heritage Music Press"
+    ],
+    "publisherText": "Heritage Music Press",
+    "classLevel": 4,
+    "specification": "(SATB) (descant) (a cappella)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "931-4-21519",
     "instrumentSlug": "mixed-chorus",
     "instrumentName": "Mixed Choruses",
@@ -20202,6 +21105,27 @@
     "publisherText": "Colloquium Music Publications",
     "classLevel": 4,
     "specification": "(SATB) (a cappella)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "931-4-41577",
+    "instrumentSlug": "mixed-chorus",
+    "instrumentName": "Mixed Choruses",
+    "eventName": "Mixed Chorus",
+    "title": "In the Silence of the Night",
+    "composer": "Steffen",
+    "arranger": "",
+    "publishers": [
+      "Oxford University Press"
+    ],
+    "publisherText": "Oxford University Press",
+    "classLevel": 4,
+    "specification": "(SAB) (accomp)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -20525,6 +21449,27 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "931-4-41555",
+    "instrumentSlug": "mixed-chorus",
+    "instrumentName": "Mixed Choruses",
+    "eventName": "Mixed Chorus",
+    "title": "Who Has Seen the Wind?",
+    "composer": "Tippette",
+    "arranger": "",
+    "publishers": [
+      "Excelcia"
+    ],
+    "publisherText": "Excelcia",
+    "classLevel": 4,
+    "specification": "(SAB) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "931-4-38246",
     "instrumentSlug": "mixed-chorus",
     "instrumentName": "Mixed Choruses",
@@ -20689,6 +21634,27 @@
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/ani-maamin-10995776/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "931-4-41569",
+    "instrumentSlug": "mixed-chorus",
+    "instrumentName": "Mixed Choruses",
+    "eventName": "Mixed Chorus",
+    "title": "La Llorona",
+    "composer": "Traditional Mexican Folk Song",
+    "arranger": "Soto",
+    "publishers": [
+      "Heritage Music Press"
+    ],
+    "publisherText": "Heritage Music Press",
+    "classLevel": 4,
+    "specification": "(SATB) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/la-llorona-11617582/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -21029,6 +21995,27 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "931-4-41580",
+    "instrumentSlug": "mixed-chorus",
+    "instrumentName": "Mixed Choruses",
+    "eventName": "Mixed Chorus",
+    "title": "There Is No Rose",
+    "composer": "Trotta",
+    "arranger": "",
+    "publishers": [
+      "Hampton Roads Music Group"
+    ],
+    "publisherText": "Hampton Roads Music Group",
+    "classLevel": 4,
+    "specification": "(SATB) (divisi) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "931-4-37867",
     "instrumentSlug": "mixed-chorus",
     "instrumentName": "Mixed Choruses",
@@ -21262,6 +22249,48 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "931-4-41572",
+    "instrumentSlug": "mixed-chorus",
+    "instrumentName": "Mixed Choruses",
+    "eventName": "Mixed Chorus",
+    "title": "A Quiet Sanctus",
+    "composer": "Wagner",
+    "arranger": "",
+    "publishers": [
+      "Heritage Music Press"
+    ],
+    "publisherText": "Heritage Music Press",
+    "classLevel": 4,
+    "specification": "(SATB) (divisi) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "931-4-41574",
+    "instrumentSlug": "mixed-chorus",
+    "instrumentName": "Mixed Choruses",
+    "eventName": "Mixed Chorus",
+    "title": "There Will Be Stars",
+    "composer": "Wagner",
+    "arranger": "",
+    "publishers": [
+      "Heritage Music Press"
+    ],
+    "publisherText": "Heritage Music Press",
+    "classLevel": 4,
+    "specification": "(SATB) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "931-4-21421",
     "instrumentSlug": "mixed-chorus",
     "instrumentName": "Mixed Choruses",
@@ -21367,6 +22396,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "931-4-41579",
+    "instrumentSlug": "mixed-chorus",
+    "instrumentName": "Mixed Choruses",
+    "eventName": "Mixed Chorus",
+    "title": "Glow",
+    "composer": "Whitacre",
+    "arranger": "",
+    "publishers": [
+      "Hal Leonard Music, Inc."
+    ],
+    "publisherText": "Hal Leonard Music, Inc.",
+    "classLevel": 4,
+    "specification": "(SATB) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/glow-11676726e/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "931-4-37864",
     "instrumentSlug": "mixed-chorus",
     "instrumentName": "Mixed Choruses",
@@ -21384,6 +22434,27 @@
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/sing-gently-11219607/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "931-4-41575",
+    "instrumentSlug": "mixed-chorus",
+    "instrumentName": "Mixed Choruses",
+    "eventName": "Mixed Chorus",
+    "title": "Lighten our Darkness",
+    "composer": "Whitbourn",
+    "arranger": "",
+    "publishers": [
+      "Oxford University Press"
+    ],
+    "publisherText": "Oxford University Press",
+    "classLevel": 4,
+    "specification": "(SATB) (a cappella)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/lighten-our-darkness-11592372/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -21527,6 +22598,27 @@
     "publisherText": "Oxford University Press",
     "classLevel": 4,
     "specification": "(SATB) (divisi) (a cappella)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "931-4-41578",
+    "instrumentSlug": "mixed-chorus",
+    "instrumentName": "Mixed Choruses",
+    "eventName": "Mixed Chorus",
+    "title": "Beyond the Sea",
+    "composer": "Wright",
+    "arranger": "",
+    "publishers": [
+      "Oxford University Press"
+    ],
+    "publisherText": "Oxford University Press",
+    "classLevel": 4,
+    "specification": "(SATB) (accomp)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -21701,6 +22793,27 @@
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/lovesight-11550944f/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "931-4-41556",
+    "instrumentSlug": "mixed-chorus",
+    "instrumentName": "Mixed Choruses",
+    "eventName": "Mixed Chorus",
+    "title": "O be joyful",
+    "composer": "Young",
+    "arranger": "",
+    "publishers": [
+      "Oxford University Press"
+    ],
+    "publisherText": "Oxford University Press",
+    "classLevel": 4,
+    "specification": "(SATB) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
   },
   {
     "uilCode": "931-4-27612",
@@ -21933,6 +23046,27 @@
     "sheetMusicAffiliateUrl": null,
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "931-3-41537",
+    "instrumentSlug": "mixed-chorus",
+    "instrumentName": "Mixed Choruses",
+    "eventName": "Mixed Chorus",
+    "title": "Shady Grove",
+    "composer": "American Folk Song",
+    "arranger": "Crocker",
+    "publishers": [
+      "E.C. Schirmer Music Company"
+    ],
+    "publisherText": "E.C. Schirmer Music Company",
+    "classLevel": 3,
+    "specification": "(SAB) (violin REQUIRED) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/shady-grove-11599710e/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
     "uilCode": "931-3-38234",
@@ -23196,6 +24330,69 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "931-3-41548",
+    "instrumentSlug": "mixed-chorus",
+    "instrumentName": "Mixed Choruses",
+    "eventName": "Mixed Chorus",
+    "title": "My Lord, what a mornin\u2019",
+    "composer": "Burleigh",
+    "arranger": "Garrett",
+    "publishers": [
+      "Oxford University Press"
+    ],
+    "publisherText": "Oxford University Press",
+    "classLevel": 3,
+    "specification": "(SATB) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "931-3-41547",
+    "instrumentSlug": "mixed-chorus",
+    "instrumentName": "Mixed Choruses",
+    "eventName": "Mixed Chorus",
+    "title": "Hashkiveinu",
+    "composer": "Burrows",
+    "arranger": "",
+    "publishers": [
+      "Oxford University Press"
+    ],
+    "publisherText": "Oxford University Press",
+    "classLevel": 3,
+    "specification": "(SATB) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/hashkiveinu-11652504f/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "931-3-41535",
+    "instrumentSlug": "mixed-chorus",
+    "instrumentName": "Mixed Choruses",
+    "eventName": "Mixed Chorus",
+    "title": "Moonlight",
+    "composer": "Burrows",
+    "arranger": "",
+    "publishers": [
+      "Alfred Music Company, Inc."
+    ],
+    "publisherText": "Alfred Music Company, Inc.",
+    "classLevel": 3,
+    "specification": "(SATB) (opt cello) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/pianotrax-17-11613325/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "931-3-35324",
     "instrumentSlug": "mixed-chorus",
     "instrumentName": "Mixed Choruses",
@@ -23532,6 +24729,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "931-3-41541",
+    "instrumentSlug": "mixed-chorus",
+    "instrumentName": "Mixed Choruses",
+    "eventName": "Mixed Chorus",
+    "title": "Hatikva",
+    "composer": "Cohen",
+    "arranger": "",
+    "publishers": [
+      "Heritage Music Press"
+    ],
+    "publisherText": "Heritage Music Press",
+    "classLevel": 3,
+    "specification": "(SATB) (violin OR flute REQUIRED) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/hatikva-10882860/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "931-3-21196",
     "instrumentSlug": "mixed-chorus",
     "instrumentName": "Mixed Choruses",
@@ -23574,6 +24792,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "931-3-41524",
+    "instrumentSlug": "mixed-chorus",
+    "instrumentName": "Mixed Choruses",
+    "eventName": "Mixed Chorus",
+    "title": "A Wreath of Beauty",
+    "composer": "Crellin",
+    "arranger": "",
+    "publishers": [
+      "Heritage Music Press"
+    ],
+    "publisherText": "Heritage Music Press",
+    "classLevel": 3,
+    "specification": "(SAB) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/a-wreath-of-beauty-11561727/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "931-3-21197",
     "instrumentSlug": "mixed-chorus",
     "instrumentName": "Mixed Choruses",
@@ -23593,6 +24832,48 @@
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/exaudi-deus-10275058/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "931-3-41521",
+    "instrumentSlug": "mixed-chorus",
+    "instrumentName": "Mixed Choruses",
+    "eventName": "Mixed Chorus",
+    "title": "Exsultate Justi",
+    "composer": "Crocker",
+    "arranger": "",
+    "publishers": [
+      "Hal Leonard Music, Inc."
+    ],
+    "publisherText": "Hal Leonard Music, Inc.",
+    "classLevel": 3,
+    "specification": "(three-part mixed) (opt descant) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "931-3-41533",
+    "instrumentSlug": "mixed-chorus",
+    "instrumentName": "Mixed Choruses",
+    "eventName": "Mixed Chorus",
+    "title": "Fire and Ice",
+    "composer": "Crocker",
+    "arranger": "",
+    "publishers": [
+      "Hal Leonard Music, Inc."
+    ],
+    "publisherText": "Hal Leonard Music, Inc.",
+    "classLevel": 3,
+    "specification": "(SAB) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
   },
   {
     "uilCode": "931-3-38231",
@@ -23742,6 +25023,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "931-3-41538",
+    "instrumentSlug": "mixed-chorus",
+    "instrumentName": "Mixed Choruses",
+    "eventName": "Mixed Chorus",
+    "title": "Shout for Joy",
+    "composer": "Davison",
+    "arranger": "",
+    "publishers": [
+      "Walton Music Corporation"
+    ],
+    "publisherText": "Walton Music Corporation",
+    "classLevel": 3,
+    "specification": "(SA(T)B) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "931-3-21182",
     "instrumentSlug": "mixed-chorus",
     "instrumentName": "Mixed Choruses",
@@ -23776,6 +25078,27 @@
     "publisherText": "Theodore Presser Company",
     "classLevel": 3,
     "specification": "(SAB) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "931-3-41549",
+    "instrumentSlug": "mixed-chorus",
+    "instrumentName": "Mixed Choruses",
+    "eventName": "Mixed Chorus",
+    "title": "There\u2019s a meeting here tonight",
+    "composer": "Dett",
+    "arranger": "Garrett",
+    "publishers": [
+      "Oxford University Press"
+    ],
+    "publisherText": "Oxford University Press",
+    "classLevel": 3,
+    "specification": "(SAT(B)) (accomp)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -24282,6 +25605,48 @@
     "publisherText": "Concordia Publishing House",
     "classLevel": 3,
     "specification": "(double chorus - SATB/SATB) (English or Latin) (opt brass) (a cappella)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "931-3-41523",
+    "instrumentSlug": "mixed-chorus",
+    "instrumentName": "Mixed Choruses",
+    "eventName": "Mixed Chorus",
+    "title": "A Joyful Sound",
+    "composer": "Garrett",
+    "arranger": "",
+    "publishers": [
+      "MLAG Music"
+    ],
+    "publisherText": "MLAG Music",
+    "classLevel": 3,
+    "specification": "(SATB) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "931-3-41536",
+    "instrumentSlug": "mixed-chorus",
+    "instrumentName": "Mixed Choruses",
+    "eventName": "Mixed Chorus",
+    "title": "The Gift to Sing",
+    "composer": "Garrett",
+    "arranger": "",
+    "publishers": [
+      "Oxford University Press"
+    ],
+    "publisherText": "Oxford University Press",
+    "classLevel": 3,
+    "specification": "(SATB) (accomp)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -25242,6 +26607,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "931-3-41546",
+    "instrumentSlug": "mixed-chorus",
+    "instrumentName": "Mixed Choruses",
+    "eventName": "Mixed Chorus",
+    "title": "O Nata Lux",
+    "composer": "Johnson",
+    "arranger": "",
+    "publishers": [
+      "Alfred Music Company, Inc."
+    ],
+    "publisherText": "Alfred Music Company, Inc.",
+    "classLevel": 3,
+    "specification": "(SAB) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/o-nata-lux-11568105/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "931-3-34488",
     "instrumentSlug": "mixed-chorus",
     "instrumentName": "Mixed Choruses",
@@ -25339,6 +26725,27 @@
     "publisherText": "Lorenz Corporation",
     "classLevel": 3,
     "specification": "(SATB) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "931-3-41545",
+    "instrumentSlug": "mixed-chorus",
+    "instrumentName": "Mixed Choruses",
+    "eventName": "Mixed Chorus",
+    "title": "The Turtle Dove",
+    "composer": "Johnson",
+    "arranger": "",
+    "publishers": [
+      "Alfred Music Company, Inc."
+    ],
+    "publisherText": "Alfred Music Company, Inc.",
+    "classLevel": 3,
+    "specification": "(SATB) (opt cello) (accomp)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -25780,6 +27187,48 @@
     "publisherText": "Heritage Music Press",
     "classLevel": 3,
     "specification": "(SATB) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "931-3-41529",
+    "instrumentSlug": "mixed-chorus",
+    "instrumentName": "Mixed Choruses",
+    "eventName": "Mixed Chorus",
+    "title": "Gloria Fanfare",
+    "composer": "Lightfoot",
+    "arranger": "",
+    "publishers": [
+      "Galaxy Music Corporation"
+    ],
+    "publisherText": "Galaxy Music Corporation",
+    "classLevel": 3,
+    "specification": "(SAB) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "931-3-41522",
+    "instrumentSlug": "mixed-chorus",
+    "instrumentName": "Mixed Choruses",
+    "eventName": "Mixed Chorus",
+    "title": "Sing Out With Joy",
+    "composer": "Lightfoot",
+    "arranger": "",
+    "publishers": [
+      "Hal Leonard Music, Inc."
+    ],
+    "publisherText": "Hal Leonard Music, Inc.",
+    "classLevel": 3,
+    "specification": "(three-part mixed) (accomp)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -26397,6 +27846,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "931-3-41550",
+    "instrumentSlug": "mixed-chorus",
+    "instrumentName": "Mixed Choruses",
+    "eventName": "Mixed Chorus",
+    "title": "The Violet",
+    "composer": "Myers",
+    "arranger": "",
+    "publishers": [
+      "Oxford University Press"
+    ],
+    "publisherText": "Oxford University Press",
+    "classLevel": 3,
+    "specification": "(SAB) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/the-violet-11396656/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "931-3-40465",
     "instrumentSlug": "mixed-chorus",
     "instrumentName": "Mixed Choruses",
@@ -26729,6 +28199,27 @@
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/irish-blessing-11659638f/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "931-3-41540",
+    "instrumentSlug": "mixed-chorus",
+    "instrumentName": "Mixed Choruses",
+    "eventName": "Mixed Chorus",
+    "title": "Moonrise, Outer Banks",
+    "composer": "Patterson",
+    "arranger": "",
+    "publishers": [
+      "Heritage Music Press"
+    ],
+    "publisherText": "Heritage Music Press",
+    "classLevel": 3,
+    "specification": "(SAB) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/moonrise-outer-banks-11347668/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -27153,6 +28644,27 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "931-3-41525",
+    "instrumentSlug": "mixed-chorus",
+    "instrumentName": "Mixed Choruses",
+    "eventName": "Mixed Chorus",
+    "title": "The Parting Glass",
+    "composer": "Quartel",
+    "arranger": "",
+    "publishers": [
+      "Oxford University Press"
+    ],
+    "publisherText": "Oxford University Press",
+    "classLevel": 3,
+    "specification": "(SAB) (a cappella)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "931-3-38240",
     "instrumentSlug": "mixed-chorus",
     "instrumentName": "Mixed Choruses",
@@ -27447,6 +28959,27 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "931-3-41543",
+    "instrumentSlug": "mixed-chorus",
+    "instrumentName": "Mixed Choruses",
+    "eventName": "Mixed Chorus",
+    "title": "Cantate Hodie",
+    "composer": "Sable",
+    "arranger": "",
+    "publishers": [
+      "Heritage Music Press"
+    ],
+    "publisherText": "Heritage Music Press",
+    "classLevel": 3,
+    "specification": "(SAB) (opt percussion) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "931-3-27537",
     "instrumentSlug": "mixed-chorus",
     "instrumentName": "Mixed Choruses",
@@ -27464,6 +28997,48 @@
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/casita-de-campo-3294674/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "931-3-41530",
+    "instrumentSlug": "mixed-chorus",
+    "instrumentName": "Mixed Choruses",
+    "eventName": "Mixed Chorus",
+    "title": "Inventionem Ignis",
+    "composer": "Sanders",
+    "arranger": "",
+    "publishers": [
+      "Bel Cantare Music"
+    ],
+    "publisherText": "Bel Cantare Music",
+    "classLevel": 3,
+    "specification": "(SAB) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/inventionem-ignis-11629423/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "931-3-41532",
+    "instrumentSlug": "mixed-chorus",
+    "instrumentName": "Mixed Choruses",
+    "eventName": "Mixed Chorus",
+    "title": "Una Voce",
+    "composer": "Sanders",
+    "arranger": "",
+    "publishers": [
+      "Bel Cantare Music"
+    ],
+    "publisherText": "Bel Cantare Music",
+    "classLevel": 3,
+    "specification": "(SAB) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/una-voce-3298579/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -27846,6 +29421,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "931-3-41544",
+    "instrumentSlug": "mixed-chorus",
+    "instrumentName": "Mixed Choruses",
+    "eventName": "Mixed Chorus",
+    "title": "O Nata Lux",
+    "composer": "Sharpe",
+    "arranger": "",
+    "publishers": [
+      "Heritage Music Press"
+    ],
+    "publisherText": "Heritage Music Press",
+    "classLevel": 3,
+    "specification": "(SATB) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/o-nata-lux-11568105/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "931-3-30786",
     "instrumentSlug": "mixed-chorus",
     "instrumentName": "Mixed Choruses",
@@ -28031,6 +29627,27 @@
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/a-tallis-anthem-11557621/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "931-3-41531",
+    "instrumentSlug": "mixed-chorus",
+    "instrumentName": "Mixed Choruses",
+    "eventName": "Mixed Chorus",
+    "title": "Benedicite",
+    "composer": "Thomas",
+    "arranger": "",
+    "publishers": [
+      "Heritage Music Press"
+    ],
+    "publisherText": "Heritage Music Press",
+    "classLevel": 3,
+    "specification": "(SAB) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/benedicite-11641400/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -28224,6 +29841,27 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "931-3-41539",
+    "instrumentSlug": "mixed-chorus",
+    "instrumentName": "Mixed Choruses",
+    "eventName": "Mixed Chorus",
+    "title": "Sambalele",
+    "composer": "Traditional Brazilian Folk Song",
+    "arranger": "Gray",
+    "publishers": [
+      "Shawnee Press"
+    ],
+    "publisherText": "Shawnee Press",
+    "classLevel": 3,
+    "specification": "(SATB) (opt percussion) (a cappella)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/sambalele-11608608/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "931-3-35315",
     "instrumentSlug": "mixed-chorus",
     "instrumentName": "Mixed Choruses",
@@ -28243,6 +29881,27 @@
     "sheetMusicAffiliateUrl": null,
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "931-3-41542",
+    "instrumentSlug": "mixed-chorus",
+    "instrumentName": "Mixed Choruses",
+    "eventName": "Mixed Chorus",
+    "title": "Artza Alinu",
+    "composer": "Traditional Hebrew Song",
+    "arranger": "Robinson",
+    "publishers": [
+      "Heritage Music Press"
+    ],
+    "publisherText": "Heritage Music Press",
+    "classLevel": 3,
+    "specification": "(SAB) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/artza-alinu-10519909/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
     "uilCode": "931-3-37846",
@@ -28308,6 +29967,48 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "931-3-41527",
+    "instrumentSlug": "mixed-chorus",
+    "instrumentName": "Mixed Choruses",
+    "eventName": "Mixed Chorus",
+    "title": "Rosibella",
+    "composer": "Traditional Sea Chantey",
+    "arranger": "Gray",
+    "publishers": [
+      "Heritage Music Press"
+    ],
+    "publisherText": "Heritage Music Press",
+    "classLevel": 3,
+    "specification": "(SAB) (opt cowbell) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/rosibella-11561815/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "931-3-41520",
+    "instrumentSlug": "mixed-chorus",
+    "instrumentName": "Mixed Choruses",
+    "eventName": "Mixed Chorus",
+    "title": "Rapaci\u00f1o de mi vida",
+    "composer": "Traditional Spanish Folk Song",
+    "arranger": "Crocker",
+    "publishers": [
+      "Hal Leonard Music, Inc."
+    ],
+    "publisherText": "Hal Leonard Music, Inc.",
+    "classLevel": 3,
+    "specification": "(three-part mixed) (flute REQUIRED) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "931-3-37851",
     "instrumentSlug": "mixed-chorus",
     "instrumentName": "Mixed Choruses",
@@ -28371,6 +30072,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "931-3-41528",
+    "instrumentSlug": "mixed-chorus",
+    "instrumentName": "Mixed Choruses",
+    "eventName": "Mixed Chorus",
+    "title": "Joshua! (Fit the Battle of Jericho)",
+    "composer": "Traditional Spiritual",
+    "arranger": "Sharpe",
+    "publishers": [
+      "Heritage Music Press"
+    ],
+    "publisherText": "Heritage Music Press",
+    "classLevel": 3,
+    "specification": "(SAB) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/joshua-11616632/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "931-3-35325",
     "instrumentSlug": "mixed-chorus",
     "instrumentName": "Mixed Choruses",
@@ -28384,6 +30106,27 @@
     "publisherText": "Hal Leonard Music, Inc.",
     "classLevel": 3,
     "specification": "(SSATB) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "931-3-41526",
+    "instrumentSlug": "mixed-chorus",
+    "instrumentName": "Mixed Choruses",
+    "eventName": "Mixed Chorus",
+    "title": "Poor Wayfaring Stranger",
+    "composer": "Traditional Spiritual",
+    "arranger": "Purifoy",
+    "publishers": [
+      "Heritage Music Press"
+    ],
+    "publisherText": "Heritage Music Press",
+    "classLevel": 3,
+    "specification": "(SATB) (accomp)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -28578,6 +30321,27 @@
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/kyrie-eleison-11670241/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "931-3-41551",
+    "instrumentSlug": "mixed-chorus",
+    "instrumentName": "Mixed Choruses",
+    "eventName": "Mixed Chorus",
+    "title": "Gloria Patri et Filio",
+    "composer": "Vivaldi",
+    "arranger": "Liebergan",
+    "publishers": [
+      "Alfred Music Company, Inc."
+    ],
+    "publisherText": "Alfred Music Company, Inc.",
+    "classLevel": 3,
+    "specification": "(three-part mixed) (opt cello) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/gloria-patri-et-filio-10997433/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -29127,6 +30891,27 @@
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/tutto-lo-di-mi-dici-11576527f/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "931-3-41534",
+    "instrumentSlug": "mixed-chorus",
+    "instrumentName": "Mixed Choruses",
+    "eventName": "Mixed Chorus",
+    "title": "Two Madrigals for the Developing SAB Choir, Vol. 2",
+    "composer": "various",
+    "arranger": "Padworski",
+    "publishers": [
+      "Hal Leonard Music, Inc."
+    ],
+    "publisherText": "Hal Leonard Music, Inc.",
+    "classLevel": 3,
+    "specification": "(SAB) (sing one madrigal) (a cappella)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
   },
   {
     "uilCode": "931-2-21096",
@@ -29740,6 +31525,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "931-2-41518",
+    "instrumentSlug": "mixed-chorus",
+    "instrumentName": "Mixed Choruses",
+    "eventName": "Mixed Chorus",
+    "title": "Music of Life",
+    "composer": "Boykin",
+    "arranger": "",
+    "publishers": [
+      "Oxford University Press"
+    ],
+    "publisherText": "Oxford University Press",
+    "classLevel": 2,
+    "specification": "(SATB) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "931-2-21099",
     "instrumentSlug": "mixed-chorus",
     "instrumentName": "Mixed Choruses",
@@ -30221,6 +32027,27 @@
     "publisherText": "Shawnee Press",
     "classLevel": 2,
     "specification": "(three part mixed) (opt flute) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "931-2-41514",
+    "instrumentSlug": "mixed-chorus",
+    "instrumentName": "Mixed Choruses",
+    "eventName": "Mixed Chorus",
+    "title": "The Autumn Moon",
+    "composer": "Donnelly/Strid",
+    "arranger": "",
+    "publishers": [
+      "Heritage Music Press"
+    ],
+    "publisherText": "Heritage Music Press",
+    "classLevel": 2,
+    "specification": "(two-part mixed) (opt flute) (accomp)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -30736,6 +32563,27 @@
     "sheetMusicAffiliateUrl": null,
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "931-2-41517",
+    "instrumentSlug": "mixed-chorus",
+    "instrumentName": "Mixed Choruses",
+    "eventName": "Mixed Chorus",
+    "title": "Wasure Yawa Suru",
+    "composer": "Gray",
+    "arranger": "",
+    "publishers": [
+      "Heritage Music Press"
+    ],
+    "publisherText": "Heritage Music Press",
+    "classLevel": 2,
+    "specification": "(three-part mixed) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/wasure-yawa-suru-11641443/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
     "uilCode": "931-2-39338",
@@ -32046,6 +33894,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "931-2-41519",
+    "instrumentSlug": "mixed-chorus",
+    "instrumentName": "Mixed Choruses",
+    "eventName": "Mixed Chorus",
+    "title": "Agnus Dei",
+    "composer": "Porterfield",
+    "arranger": "",
+    "publishers": [
+      "Alfred Music Company, Inc."
+    ],
+    "publisherText": "Alfred Music Company, Inc.",
+    "classLevel": 2,
+    "specification": "(three-part mixed) (a cappella)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/agnus-dei-11681307/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "931-2-21133",
     "instrumentSlug": "mixed-chorus",
     "instrumentName": "Mixed Choruses",
@@ -32385,6 +34254,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "931-2-41515",
+    "instrumentSlug": "mixed-chorus",
+    "instrumentName": "Mixed Choruses",
+    "eventName": "Mixed Chorus",
+    "title": "Dona Nobis Pacem",
+    "composer": "Sowa",
+    "arranger": "",
+    "publishers": [
+      "Windham Music Press"
+    ],
+    "publisherText": "Windham Music Press",
+    "classLevel": 2,
+    "specification": "(SAB) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "931-2-21030",
     "instrumentSlug": "mixed-chorus",
     "instrumentName": "Mixed Choruses",
@@ -32681,6 +34571,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "931-2-41513",
+    "instrumentSlug": "mixed-chorus",
+    "instrumentName": "Mixed Choruses",
+    "eventName": "Mixed Chorus",
+    "title": "Sakura",
+    "composer": "Traditional Japanese Folk Song",
+    "arranger": "Albrecht",
+    "publishers": [
+      "Alfred Music Company, Inc."
+    ],
+    "publisherText": "Alfred Music Company, Inc.",
+    "classLevel": 2,
+    "specification": "(three-part mixed) (opt percussion) (accomp)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/sakura-sakura-3303215/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "931-2-35294",
     "instrumentSlug": "mixed-chorus",
     "instrumentName": "Mixed Choruses",
@@ -32698,6 +34609,27 @@
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/ubi-caritas-11639368/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "931-2-41516",
+    "instrumentSlug": "mixed-chorus",
+    "instrumentName": "Mixed Choruses",
+    "eventName": "Mixed Chorus",
+    "title": "Kokoleoko",
+    "composer": "Traditional Liberian Folk Song",
+    "arranger": "Johnson",
+    "publishers": [
+      "Hal Leonard Music, Inc."
+    ],
+    "publisherText": "Hal Leonard Music, Inc.",
+    "classLevel": 2,
+    "specification": "(three-part mixed) (percussion REQUIRED) (a cappella)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/kokoleoko-3296111/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -34387,7 +36319,7 @@
     ],
     "publisherText": "Shawnee Press",
     "classLevel": 1,
-    "specification": "(3 part mixed) (accomp)",
+    "specification": "(three part mixed) (accomp)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,

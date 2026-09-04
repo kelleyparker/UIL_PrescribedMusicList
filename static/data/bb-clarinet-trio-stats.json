@@ -2,21 +2,21 @@
   "schoolYear": "2025-2026",
   "instrumentSlug": "bb-clarinet-trio",
   "instrumentName": "Bb Clarinet Trios",
-  "songCount": 141,
-  "publisherCount": 144,
+  "songCount": 144,
+  "publisherCount": 147,
   "noteCount": 1,
-  "databaseRecordCount": 142,
+  "databaseRecordCount": 144,
   "classBreakdown": {
-    "3": 42,
-    "2": 66,
-    "1": 33
+    "3": 44,
+    "2": 68,
+    "1": 32
   },
   "noMemoryRequiredCount": 0,
   "publicDomainPdfCount": 0,
   "eventBreakdown": {
-    "Bb Clarinet Trio": 141
+    "Bb Clarinet Trio": 144
   },
   "notes": {
-    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-03-28T15:07:47.773045+00:00."
+    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-09-04T16:48:55.027909+00:00."
   }
 }

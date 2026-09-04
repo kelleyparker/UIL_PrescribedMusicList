@@ -2,21 +2,21 @@
   "schoolYear": "2025-2026",
   "instrumentSlug": "french-horn",
   "instrumentName": "French Horn Solos",
-  "songCount": 251,
-  "publisherCount": 268,
+  "songCount": 226,
+  "publisherCount": 243,
   "noteCount": 1,
-  "databaseRecordCount": 252,
+  "databaseRecordCount": 226,
   "classBreakdown": {
-    "3": 80,
-    "2": 98,
-    "1": 73
+    "3": 61,
+    "2": 87,
+    "1": 78
   },
   "noMemoryRequiredCount": 2,
   "publicDomainPdfCount": 0,
   "eventBreakdown": {
-    "French Horn Solo": 251
+    "French Horn Solo": 226
   },
   "notes": {
-    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-03-28T15:07:47.473971+00:00."
+    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-09-04T16:48:19.065416+00:00."
   }
 }

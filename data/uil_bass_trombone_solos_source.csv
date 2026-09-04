@@ -9,7 +9,7 @@ Code,Event Name,Title,Composer,Arranger,Publisher [Collection],Grade,Specificati
 306-1-13332,Bass Trombone Solo,Theme Varie,Bozza,,Alphonse Leduc,1,
 306-1-13333,Bass Trombone Solo,Fantasie Concertante,Casterede,,Alphonse Leduc,1,(play all) NMR:(play all)
 306-1-13334,Bass Trombone Solo,Sonatine,Casterede,,Alphonse Leduc,1,(for french tuba) (play mvts 1 & 2 or 2 & 3)
-306-1-13335,Bass Trombone Solo,Deux Danses,Defaye,Knaub,Alphonse Leduc,1,(play one)
+306-1-13335,Bass Trombone Solo,Deux Danses,Defaye,Knaub,Alphonse Leduc,1,
 306-1-13336,Bass Trombone Solo,Ballade for Bass Trombone,Ewazen,,International Trombone Association Press,1,(play all) NMR:(play all)
 306-1-13337,Bass Trombone Solo,Concerto for Bass Trombone,Ewazen,,International Trombone Association Press,1,(play mvts 1 & 2 or 2 & 3) NMR:(play mvts 1 & 2 or 2 & 3)
 306-1-13338,Bass Trombone Solo,Rhapsody for Bass Trombone,Ewazen,,International Trombone Association Press,1,(play mvts 1 & 2 or 2 & 3) NMR:(play mvts 1 & 2 or 2 & 3)
@@ -79,7 +79,6 @@ Code,Event Name,Title,Composer,Arranger,Publisher [Collection],Grade,Specificati
 306-1-32435,Bass Trombone Solo,Canto II,Adler,,Oxford University Press,1,
 306-1-32436,Bass Trombone Solo,Elegy,Bartles,,Sam Fox Publishing Company,1,
 306-1-32437,Bass Trombone Solo,Sagittarius 2,Bolter,,Air-ev Productions,1,(play all) NMR:(play all)
-306-1-32438,Bass Trombone Solo,Deux Danses,Defaye,Knaub,Alphonse Leduc,1,
 306-1-32439,Bass Trombone Solo,Concertino,Ewazen,,International Trombone Association Press,1,
 306-1-32440,Bass Trombone Solo,Sonata,Gillingham,,International Trombone Association Press,1,(play mvts 1 & 2 or pmvts 2 & 3) NMR:(play mvts 1 & 2 or 2 & 3)
 306-1-32441,Bass Trombone Solo,Morceau Symphonique,Guilmant,Bachman,"Alfred Music Company, Inc.",1,(in Bb)
@@ -95,3 +94,12 @@ Code,Event Name,Title,Composer,Arranger,Publisher [Collection],Grade,Specificati
 306-2-37316,Bass Trombone Solo,Six Sonatas for Bass Trombone or Tuba and Piano,Galliard,Everett,Potenza Music,2,(play two contrasting mvts from same Sonata)
 306-2-37317,Bass Trombone Solo,24 Concert Pieces - Bass Trombone,Edwards,,Hornbone Press [24 Concert Pieces - Bass Trombone],2,"(play one; choose from 7, 8, 9, 11, 13, 14, 19, 20, 21, 23, OR 24) (play low octave when it splits)"
 306-3-37318,Bass Trombone Solo,24 Concert Pieces - Bass Trombone,Edwards,,Hornbone Press [24 Concert Pieces - Bass Trombone],3,"(play one; choose from 1, 5, OR 6) (play low octave when it splits)"
+306-1-41752,Bass Trombone Solo,"Witch of November, Op. 16",Deterling,,Deterling Music,1,(opt vibrophone accomp)
+306-1-41753,Bass Trombone Solo,"Concerto ""War Games""",York,,Cimarron Music Press,1,(play mvt 2 PLUS one more)
+306-1-41754,Bass Trombone Solo,First Things First,Gulino,,Cimarron Music Press,1,(unaccomp)
+306-1-41755,Bass Trombone Solo,Monologue,Naulais,,International Music Diffusion,1,(unaccomp)
+306-1-41756,Bass Trombone Solo,Valse Baltique,Rose,,Ascenda Music Publishing,1,
+306-1-41757,Bass Trombone Solo,A Caged Bird,York,,Cimarron Music Press,1,
+306-1-41758,Bass Trombone Solo,Gaelic Rhapsody on Irish Themes,Bough,,Cimarron Music Press,1,
+306-1-41759,Bass Trombone Solo,Violent Shadows,Hass,,Murphy Music Press,1,
+306-2-41760,Bass Trombone Solo,"Concerto ""War Games""",York,,Cimarron Music Press,2,(play 1st OR 2nd mvt)

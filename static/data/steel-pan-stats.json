@@ -5,7 +5,7 @@
   "songCount": 29,
   "publisherCount": 39,
   "noteCount": 1,
-  "databaseRecordCount": 30,
+  "databaseRecordCount": 29,
   "classBreakdown": {
     "3": 8,
     "2": 3,
@@ -17,6 +17,6 @@
     "Steel Pan Solo": 29
   },
   "notes": {
-    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-03-28T15:07:47.724769+00:00."
+    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-09-04T16:48:47.944837+00:00."
   }
 }

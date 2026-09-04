@@ -2,21 +2,21 @@
   "schoolYear": "2025-2026",
   "instrumentSlug": "euphonium-baritone-quartet",
   "instrumentName": "Euphonium and Baritone Horn Quartets",
-  "songCount": 168,
-  "publisherCount": 173,
+  "songCount": 175,
+  "publisherCount": 180,
   "noteCount": 1,
-  "databaseRecordCount": 169,
+  "databaseRecordCount": 175,
   "classBreakdown": {
-    "3": 51,
-    "2": 44,
-    "1": 73
+    "3": 54,
+    "2": 47,
+    "1": 74
   },
   "noMemoryRequiredCount": 0,
   "publicDomainPdfCount": 0,
   "eventBreakdown": {
-    "Euphonium/Baritone Horn Quartet": 168
+    "Euphonium/Baritone Horn Quartet": 175
   },
   "notes": {
-    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-03-28T15:07:47.921810+00:00."
+    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-09-04T16:52:35.337097+00:00."
   }
 }

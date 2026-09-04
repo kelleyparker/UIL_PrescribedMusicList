@@ -2,21 +2,21 @@
   "schoolYear": "2025-2026",
   "instrumentSlug": "tenor-trombone",
   "instrumentName": "Tenor Trombone Solos",
-  "songCount": 301,
-  "publisherCount": 314,
+  "songCount": 293,
+  "publisherCount": 306,
   "noteCount": 1,
-  "databaseRecordCount": 302,
+  "databaseRecordCount": 293,
   "classBreakdown": {
-    "3": 82,
-    "2": 58,
-    "1": 161
+    "3": 56,
+    "2": 64,
+    "1": 173
   },
-  "noMemoryRequiredCount": 11,
+  "noMemoryRequiredCount": 10,
   "publicDomainPdfCount": 0,
   "eventBreakdown": {
-    "Tenor Trombone Solo": 301
+    "Tenor Trombone Solo": 293
   },
   "notes": {
-    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-03-28T15:07:47.551881+00:00."
+    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-09-04T16:48:47.758052+00:00."
   }
 }

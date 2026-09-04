@@ -420,6 +420,27 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "360-2-42040",
+    "instrumentSlug": "brass-sextet",
+    "instrumentName": "Brass Sextets",
+    "eventName": "Brass Sextet",
+    "title": "Salutation",
+    "composer": "Gazlay",
+    "arranger": "",
+    "publishers": [
+      "JW Pepper"
+    ],
+    "publisherText": "JW Pepper",
+    "classLevel": 2,
+    "specification": "(any published combination)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/salutation-11524714/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "360-2-26710",
     "instrumentSlug": "brass-sextet",
     "instrumentName": "Brass Sextets",
@@ -1176,6 +1197,48 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "360-1-42038",
+    "instrumentSlug": "brass-sextet",
+    "instrumentName": "Brass Sextets",
+    "eventName": "Brass Sextet",
+    "title": "Prelude in G Minor",
+    "composer": "Rachmaninoff",
+    "arranger": "Steber",
+    "publishers": [
+      "MKT Music Publications"
+    ],
+    "publisherText": "MKT Music Publications",
+    "classLevel": 1,
+    "specification": "(any published combination)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "360-1-42039",
+    "instrumentSlug": "brass-sextet",
+    "instrumentName": "Brass Sextets",
+    "eventName": "Brass Sextet",
+    "title": "William Tell Overture",
+    "composer": "Rossini",
+    "arranger": "Steber",
+    "publishers": [
+      "MKT Music Publications"
+    ],
+    "publisherText": "MKT Music Publications",
+    "classLevel": 1,
+    "specification": "(any published combination)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/rudimental-rossini-5991021/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "360-1-40028",
     "instrumentSlug": "brass-sextet",
     "instrumentName": "Brass Sextets",
@@ -1231,6 +1294,27 @@
     "publisherText": "Rubank, Inc.",
     "classLevel": 1,
     "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "360-1-42037",
+    "instrumentSlug": "brass-sextet",
+    "instrumentName": "Brass Sextets",
+    "eventName": "Brass Sextet",
+    "title": "Along the Long Star Trail",
+    "composer": "Steber",
+    "arranger": "",
+    "publishers": [
+      "MKT Music Publications"
+    ],
+    "publisherText": "MKT Music Publications",
+    "classLevel": 1,
+    "specification": "(any published combination)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,

@@ -84,27 +84,6 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
-    "uilCode": "302-3-23769",
-    "instrumentSlug": "french-horn",
-    "instrumentName": "French Horn Solos",
-    "eventName": "French Horn Solo",
-    "title": "1st Suite: Menuet",
-    "composer": "Bach",
-    "arranger": "Stelten",
-    "publishers": [
-      "Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande]"
-    ],
-    "publisherText": "Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande]",
-    "classLevel": 3,
-    "specification": "(must also play one additional mvt from the 1st suite of this collection)",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/menuet-little-prelude-french-horn-5491014/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
     "uilCode": "302-3-29644",
     "instrumentSlug": "french-horn",
     "instrumentName": "French Horn Solos",
@@ -210,27 +189,6 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
-    "uilCode": "302-3-23559",
-    "instrumentSlug": "french-horn",
-    "instrumentName": "French Horn Solos",
-    "eventName": "French Horn Solo",
-    "title": "The St. Catherine Rigaudon",
-    "composer": "Barrett",
-    "arranger": "Dishinger",
-    "publishers": [
-      "Medici Music Press [Medici Masterworks, Vol. I]"
-    ],
-    "publisherText": "Medici Music Press [Medici Masterworks, Vol. I]",
-    "classLevel": 3,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": null,
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": null
-  },
-  {
     "uilCode": "302-3-12841",
     "instrumentSlug": "french-horn",
     "instrumentName": "French Horn Solos",
@@ -248,27 +206,6 @@
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/may-song-french-horn-solo-5006424/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "302-3-23771",
-    "instrumentSlug": "french-horn",
-    "instrumentName": "French Horn Solos",
-    "eventName": "French Horn Solo",
-    "title": "2nd Suite: Rigaudon",
-    "composer": "Bohm",
-    "arranger": "Stelten",
-    "publishers": [
-      "Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande]"
-    ],
-    "publisherText": "Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande]",
-    "classLevel": 3,
-    "specification": "(must also play one additional mvt from the 2nd suite of this collection)",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/rigaudon-2065050/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -315,48 +252,6 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
-    "uilCode": "302-3-12845",
-    "instrumentSlug": "french-horn",
-    "instrumentName": "French Horn Solos",
-    "eventName": "French Horn Solo",
-    "title": "Nocturne",
-    "composer": "Chopin",
-    "arranger": "Hudadoff",
-    "publishers": [
-      "Belwin, Inc [Fifteen Intermediate F Horn Solos]"
-    ],
-    "publisherText": "Belwin, Inc [Fifteen Intermediate F Horn Solos]",
-    "classLevel": 3,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/nocturne-11605896/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "302-3-12847",
-    "instrumentSlug": "french-horn",
-    "instrumentName": "French Horn Solos",
-    "eventName": "French Horn Solo",
-    "title": "Ayre",
-    "composer": "Clarke",
-    "arranger": "Dishinger",
-    "publishers": [
-      "Medici Music Press [Medici Masterworks, Vol. I]"
-    ],
-    "publisherText": "Medici Music Press [Medici Masterworks, Vol. I]",
-    "classLevel": 3,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/ayre-10917298e/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
     "uilCode": "302-3-25323",
     "instrumentSlug": "french-horn",
     "instrumentName": "French Horn Solos",
@@ -378,27 +273,6 @@
     "sheetMusicAffiliateSource": null
   },
   {
-    "uilCode": "302-3-12846",
-    "instrumentSlug": "french-horn",
-    "instrumentName": "French Horn Solos",
-    "eventName": "French Horn Solo",
-    "title": "Reverie",
-    "composer": "Debussy",
-    "arranger": "Hudadoff",
-    "publishers": [
-      "Belwin, Inc [Fifteen Intermediate F Horn Solos]"
-    ],
-    "publisherText": "Belwin, Inc [Fifteen Intermediate F Horn Solos]",
-    "classLevel": 3,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/reverie-11668457/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
     "uilCode": "302-3-38568",
     "instrumentSlug": "french-horn",
     "instrumentName": "French Horn Solos",
@@ -412,69 +286,6 @@
     "publisherText": "Sheet Music Plus Press",
     "classLevel": 3,
     "specification": "(play Les Matelots OR Aurore)",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": null,
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": null
-  },
-  {
-    "uilCode": "302-3-23765",
-    "instrumentSlug": "french-horn",
-    "instrumentName": "French Horn Solos",
-    "eventName": "French Horn Solo",
-    "title": "1st Suite: March",
-    "composer": "Fischer",
-    "arranger": "Stelten",
-    "publishers": [
-      "Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande]"
-    ],
-    "publisherText": "Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande]",
-    "classLevel": 3,
-    "specification": "(must also play one additional mvt from the 1st suite of this collection)",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/march-90038820e/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "302-3-23770",
-    "instrumentSlug": "french-horn",
-    "instrumentName": "French Horn Solos",
-    "eventName": "French Horn Solo",
-    "title": "1st Suite: Rondeau",
-    "composer": "Fischer",
-    "arranger": "Stelten",
-    "publishers": [
-      "Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande]"
-    ],
-    "publisherText": "Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande]",
-    "classLevel": 3,
-    "specification": "(must also play one additional mvt from the 1st suite of this collection)",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/rondeau-10657564/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "302-3-23776",
-    "instrumentSlug": "french-horn",
-    "instrumentName": "French Horn Solos",
-    "eventName": "French Horn Solo",
-    "title": "2nd Suite: Ronde",
-    "composer": "Fischer",
-    "arranger": "Stelten",
-    "publishers": [
-      "Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande]"
-    ],
-    "publisherText": "Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande]",
-    "classLevel": 3,
-    "specification": "(must also play one additional mvt from the 2nd suite of this collection)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -714,27 +525,6 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
-    "uilCode": "302-3-23562",
-    "instrumentSlug": "french-horn",
-    "instrumentName": "French Horn Solos",
-    "eventName": "French Horn Solo",
-    "title": "Gavotte (from Sonata No. 7)",
-    "composer": "Handel",
-    "arranger": "Dishinger",
-    "publishers": [
-      "Medici Music Press [Medici Masterworks, Vol. I]"
-    ],
-    "publisherText": "Medici Music Press [Medici Masterworks, Vol. I]",
-    "classLevel": 3,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/gavotte-in-rondeau-french-horn-solo-4846432/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
     "uilCode": "302-3-12851",
     "instrumentSlug": "french-horn",
     "instrumentName": "French Horn Solos",
@@ -820,90 +610,6 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
-    "uilCode": "302-3-23766",
-    "instrumentSlug": "french-horn",
-    "instrumentName": "French Horn Solos",
-    "eventName": "French Horn Solo",
-    "title": "1st Suite: Bourree",
-    "composer": "Krieger",
-    "arranger": "Stelten",
-    "publishers": [
-      "Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande]"
-    ],
-    "publisherText": "Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande]",
-    "classLevel": 3,
-    "specification": "(must also play one additional mvt from the 1st suite of this collection)",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/bourree-french-horn-5444757/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "302-3-23768",
-    "instrumentSlug": "french-horn",
-    "instrumentName": "French Horn Solos",
-    "eventName": "French Horn Solo",
-    "title": "1st Suite: Menuet",
-    "composer": "Krieger",
-    "arranger": "Stelten",
-    "publishers": [
-      "Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande]"
-    ],
-    "publisherText": "Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande]",
-    "classLevel": 3,
-    "specification": "(must also play one additional mvt from the 1st suite of this collection)",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/menuet-french-horn-solo-6119598/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "302-3-23772",
-    "instrumentSlug": "french-horn",
-    "instrumentName": "French Horn Solos",
-    "eventName": "French Horn Solo",
-    "title": "2nd Suite: Bourree",
-    "composer": "Krieger",
-    "arranger": "Stelten",
-    "publishers": [
-      "Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande]"
-    ],
-    "publisherText": "Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande]",
-    "classLevel": 3,
-    "specification": "(must also play one additional mvt from the 2nd suite of this collection)",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/bourree-french-horn-5444757/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "302-3-23773",
-    "instrumentSlug": "french-horn",
-    "instrumentName": "French Horn Solos",
-    "eventName": "French Horn Solo",
-    "title": "2nd Suite: Sarabande",
-    "composer": "Kuhnau",
-    "arranger": "Stelten",
-    "publishers": [
-      "Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande]"
-    ],
-    "publisherText": "Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande]",
-    "classLevel": 3,
-    "specification": "(must also play one additional mvt from the 2nd suite of this collection)",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/sarabande-french-horn-solo-4783809/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
     "uilCode": "302-3-12856",
     "instrumentSlug": "french-horn",
     "instrumentName": "French Horn Solos",
@@ -936,48 +642,6 @@
       "Belwin, Inc"
     ],
     "publisherText": "Belwin, Inc",
-    "classLevel": 3,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": null,
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": null
-  },
-  {
-    "uilCode": "302-3-23561",
-    "instrumentSlug": "french-horn",
-    "instrumentName": "French Horn Solos",
-    "eventName": "French Horn Solo",
-    "title": "Courante",
-    "composer": "Lully",
-    "arranger": "Dishinger",
-    "publishers": [
-      "Medici Music Press [Medici Masterworks, Vol. I]"
-    ],
-    "publisherText": "Medici Music Press [Medici Masterworks, Vol. I]",
-    "classLevel": 3,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/courante-11134383e/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "302-3-23563",
-    "instrumentSlug": "french-horn",
-    "instrumentName": "French Horn Solos",
-    "eventName": "French Horn Solo",
-    "title": "La Voltigeuse (from Three Small Pieces for Piano)",
-    "composer": "Marpurg",
-    "arranger": "Dishinger",
-    "publishers": [
-      "Medici Music Press [Medici Masterworks, Vol. I]"
-    ],
-    "publisherText": "Medici Music Press [Medici Masterworks, Vol. I]",
     "classLevel": 3,
     "specification": "",
     "noMemoryRequired": false,
@@ -1028,48 +692,6 @@
     "sheetMusicAffiliateUrl": null,
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": null
-  },
-  {
-    "uilCode": "302-3-30473",
-    "instrumentSlug": "french-horn",
-    "instrumentName": "French Horn Solos",
-    "eventName": "French Horn Solo",
-    "title": "Andantino (O Rest In The Lord)",
-    "composer": "Mendelssohn",
-    "arranger": "Hilfiger",
-    "publishers": [
-      "Kendor Music, Inc. [First Solo Album for Horn]"
-    ],
-    "publisherText": "Kendor Music, Inc. [First Solo Album for Horn]",
-    "classLevel": 3,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/first-solo-album-for-horn-10062183/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "302-3-12860",
-    "instrumentSlug": "french-horn",
-    "instrumentName": "French Horn Solos",
-    "eventName": "French Horn Solo",
-    "title": "Gopak",
-    "composer": "Moussorgsky",
-    "arranger": "Hudadoff",
-    "publishers": [
-      "Belwin, Inc [Fifteen Intermediate F Horn Solos]"
-    ],
-    "publisherText": "Belwin, Inc [Fifteen Intermediate F Horn Solos]",
-    "classLevel": 3,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/gopak-11548389/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
     "uilCode": "302-3-12861",
@@ -1219,27 +841,6 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
-    "uilCode": "302-3-30472",
-    "instrumentSlug": "french-horn",
-    "instrumentName": "French Horn Solos",
-    "eventName": "French Horn Solo",
-    "title": "Minuet And Rigadoon",
-    "composer": "Purcell",
-    "arranger": "Hilfiger",
-    "publishers": [
-      "Kendor Music, Inc. [First Solo Album for Horn]"
-    ],
-    "publisherText": "Kendor Music, Inc. [First Solo Album for Horn]",
-    "classLevel": 3,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/first-solo-album-for-horn-10062183/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
     "uilCode": "302-3-29646",
     "instrumentSlug": "french-horn",
     "instrumentName": "French Horn Solos",
@@ -1282,48 +883,6 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
-    "uilCode": "302-3-23560",
-    "instrumentSlug": "french-horn",
-    "instrumentName": "French Horn Solos",
-    "eventName": "French Horn Solo",
-    "title": "Tambourin (from Pieces de Clavecin)",
-    "composer": "Rameau",
-    "arranger": "Dishinger",
-    "publishers": [
-      "Medici Music Press [Medici Masterworks, Vol. I]"
-    ],
-    "publisherText": "Medici Music Press [Medici Masterworks, Vol. I]",
-    "classLevel": 3,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/tambourin-9542600/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "302-3-23767",
-    "instrumentSlug": "french-horn",
-    "instrumentName": "French Horn Solos",
-    "eventName": "French Horn Solo",
-    "title": "1st Suite: Sarabande",
-    "composer": "Reusner",
-    "arranger": "Stelten",
-    "publishers": [
-      "Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande]"
-    ],
-    "publisherText": "Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande]",
-    "classLevel": 3,
-    "specification": "(must also play one additional mvt from the 1st suite of this collection)",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/sarabande-9511232/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
     "uilCode": "302-3-25317",
     "instrumentSlug": "french-horn",
     "instrumentName": "French Horn Solos",
@@ -1343,27 +902,6 @@
     "sheetMusicAffiliateUrl": null,
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": null
-  },
-  {
-    "uilCode": "302-3-23774",
-    "instrumentSlug": "french-horn",
-    "instrumentName": "French Horn Solos",
-    "eventName": "French Horn Solo",
-    "title": "2nd Suite: Menuet",
-    "composer": "Schickhardt",
-    "arranger": "Stelten",
-    "publishers": [
-      "Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande]"
-    ],
-    "publisherText": "Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande]",
-    "classLevel": 3,
-    "specification": "(must also play one additional mvt from the 2nd suite of this collection)",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/menuet-9547658/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
     "uilCode": "302-3-30471",
@@ -1513,27 +1051,6 @@
     "sheetMusicAffiliateSource": null
   },
   {
-    "uilCode": "302-3-23775",
-    "instrumentSlug": "french-horn",
-    "instrumentName": "French Horn Solos",
-    "eventName": "French Horn Solo",
-    "title": "2nd Suite: Menuet",
-    "composer": "Telemann",
-    "arranger": "Stelten",
-    "publishers": [
-      "Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande]"
-    ],
-    "publisherText": "Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande]",
-    "classLevel": 3,
-    "specification": "(must also play one additional mvt from the 2nd suite of this collection)",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/menuett-french-horn-solo-4862025/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
     "uilCode": "302-3-37376",
     "instrumentSlug": "french-horn",
     "instrumentName": "French Horn Solos",
@@ -1598,27 +1115,6 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
-    "uilCode": "302-3-12875",
-    "instrumentSlug": "french-horn",
-    "instrumentName": "French Horn Solos",
-    "eventName": "French Horn Solo",
-    "title": "Spanish Waltzes",
-    "composer": "Waldteufel",
-    "arranger": "Hudadoff",
-    "publishers": [
-      "Belwin, Inc [Fifteen Intermediate F Horn Solos]"
-    ],
-    "publisherText": "Belwin, Inc [Fifteen Intermediate F Horn Solos]",
-    "classLevel": 3,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": null,
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": null
-  },
-  {
     "uilCode": "302-3-38567",
     "instrumentSlug": "french-horn",
     "instrumentName": "French Horn Solos",
@@ -1638,6 +1134,27 @@
     "sheetMusicAffiliateUrl": null,
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "302-3-23765",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Deux Suites de Danses de L'Epoque Baroque Allemande",
+    "composer": "various",
+    "arranger": "Stelten",
+    "publishers": [
+      "Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande]"
+    ],
+    "publisherText": "Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande]",
+    "classLevel": 3,
+    "specification": "(play TWO different dances from one suite)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/march-90038820e/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
     "uilCode": "302-3-38564",
@@ -1682,6 +1199,90 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "302-3-12845",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Fifteen Intermediate F Horn Solos",
+    "composer": "various",
+    "arranger": "Hudadoff",
+    "publishers": [
+      "Belwin, Inc [Fifteen Intermediate F Horn Solos]"
+    ],
+    "publisherText": "Belwin, Inc [Fifteen Intermediate F Horn Solos]",
+    "classLevel": 3,
+    "specification": "(play Nocturne OR Reverie OR Gopak OR Spanish Waltzes)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/nocturne-11605896/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "302-3-30472",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "First Solo Album for Horn",
+    "composer": "various",
+    "arranger": "Hilfiger",
+    "publishers": [
+      "Kendor Music, Inc. [First Solo Album for Horn]"
+    ],
+    "publisherText": "Kendor Music, Inc. [First Solo Album for Horn]",
+    "classLevel": 3,
+    "specification": "(play Minuet and Rigadoon OR Andantino from O Rest in The Lord)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/first-solo-album-for-horn-10062183/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "302-3-12847",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Medici Masterworks, Vol. I",
+    "composer": "various",
+    "arranger": "Dishinger",
+    "publishers": [
+      "Medici Music Press [Medici Masterworks, Vol. I]"
+    ],
+    "publisherText": "Medici Music Press [Medici Masterworks, Vol. I]",
+    "classLevel": 3,
+    "specification": "(play Ayre OR The St, Catherine Rigaudon OR Tambourin OR Courante OR Gavotte OR La Voltigeuse)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/ayre-10917298e/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "302-3-41683",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Sound Innovations Soloist for Intermediate Musicians",
+    "composer": "various",
+    "arranger": "",
+    "publishers": [
+      "Alfred Music Company, Inc."
+    ],
+    "publisherText": "Alfred Music Company, Inc.",
+    "classLevel": 3,
+    "specification": "(play one from: Stopping by Woods on a Snowy Evening, The Call of Artemis, A Simple Song of Love, Kilkenny Castle, Carnival)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/intermediate-ukulele-10433977/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "302-2-37349",
     "instrumentSlug": "french-horn",
     "instrumentName": "French Horn Solos",
@@ -1720,27 +1321,6 @@
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/scenarios-11337767/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "302-2-23757",
-    "instrumentSlug": "french-horn",
-    "instrumentName": "French Horn Solos",
-    "eventName": "French Horn Solo",
-    "title": "1st Suite: Menuet",
-    "composer": "Bach",
-    "arranger": "Stelten",
-    "publishers": [
-      "Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande]"
-    ],
-    "publisherText": "Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande]",
-    "classLevel": 2,
-    "specification": "(must also play three additional mvts from the 1st suite of this collection)",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/menuet-little-prelude-french-horn-5491014/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -1871,27 +1451,6 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
-    "uilCode": "302-2-12780",
-    "instrumentSlug": "french-horn",
-    "instrumentName": "French Horn Solos",
-    "eventName": "French Horn Solo",
-    "title": "Minuet",
-    "composer": "Beethoven",
-    "arranger": "Ostrander",
-    "publishers": [
-      "Edition Musicus-New York, Inc. [Concert Album for Horn and Piano]"
-    ],
-    "publisherText": "Edition Musicus-New York, Inc. [Concert Album for Horn and Piano]",
-    "classLevel": 2,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/minuet-11589705/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
     "uilCode": "302-2-12781",
     "instrumentSlug": "french-horn",
     "instrumentName": "French Horn Solos",
@@ -1909,27 +1468,6 @@
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/bolero-baritone-horn-piano-6088710/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "302-2-23759",
-    "instrumentSlug": "french-horn",
-    "instrumentName": "French Horn Solos",
-    "eventName": "French Horn Solo",
-    "title": "2nd Suite: Rigaudon",
-    "composer": "Bohm",
-    "arranger": "Stelten",
-    "publishers": [
-      "Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande]"
-    ],
-    "publisherText": "Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande]",
-    "classLevel": 2,
-    "specification": "(must also play three additional mvts from the 2nd suite of this collection)",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/rigaudon-2065050/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -2035,27 +1573,6 @@
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/chant-sans-paroles-4792685/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "302-2-12786",
-    "instrumentSlug": "french-horn",
-    "instrumentName": "French Horn Solos",
-    "eventName": "French Horn Solo",
-    "title": "Legend of the Hills",
-    "composer": "Cohen",
-    "arranger": "Lamb",
-    "publishers": [
-      "Belwin, Inc [Solo Sounds for French Horn Levels 3-5, Vol. 1]"
-    ],
-    "publisherText": "Belwin, Inc [Solo Sounds for French Horn Levels 3-5, Vol. 1]",
-    "classLevel": 2,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/legend-of-the-hills-996892/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -2207,88 +1724,25 @@
     "sheetMusicAffiliateSource": null
   },
   {
-    "uilCode": "302-2-12828",
+    "uilCode": "302-2-41681",
     "instrumentSlug": "french-horn",
     "instrumentName": "French Horn Solos",
     "eventName": "French Horn Solo",
-    "title": "1st Suite: March",
-    "composer": "Fischer",
-    "arranger": "Stelten",
+    "title": "The Voices That Are Gone",
+    "composer": "Foster",
+    "arranger": "Paget",
     "publishers": [
-      "Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande]"
+      "Keiser Music Publications"
     ],
-    "publisherText": "Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande]",
+    "publisherText": "Keiser Music Publications",
     "classLevel": 2,
-    "specification": "(must also play three additional mvts from the 1st suite of this collection)",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/march-90038820e/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "302-2-23758",
-    "instrumentSlug": "french-horn",
-    "instrumentName": "French Horn Solos",
-    "eventName": "French Horn Solo",
-    "title": "1st Suite: Rondeau",
-    "composer": "Fischer",
-    "arranger": "Stelten",
-    "publishers": [
-      "Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande]"
-    ],
-    "publisherText": "Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande]",
-    "classLevel": 2,
-    "specification": "(must also play three additional mvts from the 1st suite of this collection)",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/rondeau-10657564/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "302-2-23764",
-    "instrumentSlug": "french-horn",
-    "instrumentName": "French Horn Solos",
-    "eventName": "French Horn Solo",
-    "title": "2nd Suite: Ronde",
-    "composer": "Fischer",
-    "arranger": "Stelten",
-    "publishers": [
-      "Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande]"
-    ],
-    "publisherText": "Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande]",
-    "classLevel": 2,
-    "specification": "(must also play three additional mvts from the 2nd suite of this collection)",
+    "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": null,
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": null
-  },
-  {
-    "uilCode": "302-2-12788",
-    "instrumentSlug": "french-horn",
-    "instrumentName": "French Horn Solos",
-    "eventName": "French Horn Solo",
-    "title": "Hornpipers Dance",
-    "composer": "Forsberg",
-    "arranger": "Johnson/Lamb",
-    "publishers": [
-      "Belwin, Inc [Solo Sounds for French Horn Levels 3-5, Vol. 1]"
-    ],
-    "publisherText": "Belwin, Inc [Solo Sounds for French Horn Levels 3-5, Vol. 1]",
-    "classLevel": 2,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/classic-festival-solos-5297866/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
     "uilCode": "302-2-37358",
@@ -2417,27 +1871,6 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
-    "uilCode": "302-2-12791",
-    "instrumentSlug": "french-horn",
-    "instrumentName": "French Horn Solos",
-    "eventName": "French Horn Solo",
-    "title": "Air (from Orpheus)",
-    "composer": "Gluck",
-    "arranger": "Ostrander",
-    "publishers": [
-      "Edition Musicus-New York, Inc. [Concert Album for Horn and Piano]"
-    ],
-    "publisherText": "Edition Musicus-New York, Inc. [Concert Album for Horn and Piano]",
-    "classLevel": 2,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/air-from-orpheus-french-horn-solo-5302500/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
     "uilCode": "302-2-12792",
     "instrumentSlug": "french-horn",
     "instrumentName": "French Horn Solos",
@@ -2497,6 +1930,48 @@
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/adagio-religioso-french-horn-solo-5268685/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "302-2-41680",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Solveig's Song",
+    "composer": "Grieg",
+    "arranger": "Paget",
+    "publishers": [
+      "Keiser Music Publications"
+    ],
+    "publisherText": "Keiser Music Publications",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/solveigs-song-9556595/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "302-2-41679",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Aura, Goddess of the Breeze",
+    "composer": "Guardia JR",
+    "arranger": "",
+    "publishers": [
+      "Cimarron Music Press"
+    ],
+    "publisherText": "Cimarron Music Press",
+    "classLevel": 2,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/aura-2330587/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -2606,27 +2081,6 @@
     "sheetMusicAffiliateSource": null
   },
   {
-    "uilCode": "302-2-12797",
-    "instrumentSlug": "french-horn",
-    "instrumentName": "French Horn Solos",
-    "eventName": "French Horn Solo",
-    "title": "Allegro and Minuet",
-    "composer": "Haydn",
-    "arranger": "Hudadoff",
-    "publishers": [
-      "Belwin, Inc [Fifteen Intermediate F Horn Solos]"
-    ],
-    "publisherText": "Belwin, Inc [Fifteen Intermediate F Horn Solos]",
-    "classLevel": 2,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": null,
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": null
-  },
-  {
     "uilCode": "302-2-12798",
     "instrumentSlug": "french-horn",
     "instrumentName": "French Horn Solos",
@@ -2711,90 +2165,6 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
-    "uilCode": "302-2-23754",
-    "instrumentSlug": "french-horn",
-    "instrumentName": "French Horn Solos",
-    "eventName": "French Horn Solo",
-    "title": "1st Suite: Bourree",
-    "composer": "Krieger",
-    "arranger": "Stelten",
-    "publishers": [
-      "Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande]"
-    ],
-    "publisherText": "Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande]",
-    "classLevel": 2,
-    "specification": "(must also play three additional mvts from the 1st suite of this collection)",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/bourree-french-horn-5444757/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "302-2-23756",
-    "instrumentSlug": "french-horn",
-    "instrumentName": "French Horn Solos",
-    "eventName": "French Horn Solo",
-    "title": "1st Suite: Menuet",
-    "composer": "Krieger",
-    "arranger": "Stelten",
-    "publishers": [
-      "Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande]"
-    ],
-    "publisherText": "Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande]",
-    "classLevel": 2,
-    "specification": "(must also play three additional mvts from the 1st suite of this collection)",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/menuet-french-horn-solo-6119598/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "302-2-23760",
-    "instrumentSlug": "french-horn",
-    "instrumentName": "French Horn Solos",
-    "eventName": "French Horn Solo",
-    "title": "2nd Suite: Bourree",
-    "composer": "Krieger",
-    "arranger": "Stelten",
-    "publishers": [
-      "Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande]"
-    ],
-    "publisherText": "Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande]",
-    "classLevel": 2,
-    "specification": "(must also play three additional mvts from the 2nd suite of this collection)",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/bourree-french-horn-5444757/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "302-2-23761",
-    "instrumentSlug": "french-horn",
-    "instrumentName": "French Horn Solos",
-    "eventName": "French Horn Solo",
-    "title": "2nd Suite: Sarabande",
-    "composer": "Kuhnau",
-    "arranger": "Stelten",
-    "publishers": [
-      "Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande]"
-    ],
-    "publisherText": "Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande]",
-    "classLevel": 2,
-    "specification": "(must also play three additional mvts from the 2nd suite of this collection)",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/sarabande-french-horn-solo-4783809/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
     "uilCode": "302-2-37350",
     "instrumentSlug": "french-horn",
     "instrumentName": "French Horn Solos",
@@ -2856,27 +2226,6 @@
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/gavotte-in-rondeau-french-horn-solo-4846432/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "302-2-12804",
-    "instrumentSlug": "french-horn",
-    "instrumentName": "French Horn Solos",
-    "eventName": "French Horn Solo",
-    "title": "Plaister d'Amour",
-    "composer": "Martini",
-    "arranger": "Ostrander",
-    "publishers": [
-      "Edition Musicus-New York, Inc. [Concert Album for Horn and Piano]"
-    ],
-    "publisherText": "Edition Musicus-New York, Inc. [Concert Album for Horn and Piano]",
-    "classLevel": 2,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": null,
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": null
   },
   {
     "uilCode": "302-2-37345",
@@ -2959,27 +2308,6 @@
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/master-solos-for-horn-2033686/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "302-2-12808",
-    "instrumentSlug": "french-horn",
-    "instrumentName": "French Horn Solos",
-    "eventName": "French Horn Solo",
-    "title": "Allelulia (from Exsultate, Jubilate)",
-    "composer": "Mozart",
-    "arranger": "Ployhar/Lamb",
-    "publishers": [
-      "Belwin, Inc [Solo Sounds for French Horn Levels 3-5, Vol. 1]"
-    ],
-    "publisherText": "Belwin, Inc [Solo Sounds for French Horn Levels 3-5, Vol. 1]",
-    "classLevel": 2,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/rubank-treasures-for-french-horn-10882646/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -3236,27 +2564,6 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
-    "uilCode": "302-2-23755",
-    "instrumentSlug": "french-horn",
-    "instrumentName": "French Horn Solos",
-    "eventName": "French Horn Solo",
-    "title": "1st Suite: Sarabande",
-    "composer": "Reusner",
-    "arranger": "Stelten",
-    "publishers": [
-      "Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande]"
-    ],
-    "publisherText": "Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande]",
-    "classLevel": 2,
-    "specification": "(must also play three additional mvts from the 1st suite of this collection)",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/sarabande-9511232/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
     "uilCode": "302-2-12822",
     "instrumentSlug": "french-horn",
     "instrumentName": "French Horn Solos",
@@ -3296,27 +2603,6 @@
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/master-solos-for-horn-2033686/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "302-2-23762",
-    "instrumentSlug": "french-horn",
-    "instrumentName": "French Horn Solos",
-    "eventName": "French Horn Solo",
-    "title": "2nd Suite: Menuet",
-    "composer": "Schickhardt",
-    "arranger": "Stelten",
-    "publishers": [
-      "Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande]"
-    ],
-    "publisherText": "Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande]",
-    "classLevel": 2,
-    "specification": "(must also play three additional mvts from the 2nd suite of this collection)",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/menuet-9547658/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -3375,7 +2661,7 @@
     ],
     "publisherText": "Carl Fischer, Inc.",
     "classLevel": 2,
-    "specification": "(play both)",
+    "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -3401,27 +2687,6 @@
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/lyrical-romance-french-horn-solo-5160569/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "302-2-12829",
-    "instrumentSlug": "french-horn",
-    "instrumentName": "French Horn Solos",
-    "eventName": "French Horn Solo",
-    "title": "Berceuse (from The Firebird)",
-    "composer": "Stravinsky",
-    "arranger": "Ostrander",
-    "publishers": [
-      "Edition Musicus-New York, Inc. [Concert Album for Horn and Piano]"
-    ],
-    "publisherText": "Edition Musicus-New York, Inc. [Concert Album for Horn and Piano]",
-    "classLevel": 2,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/berceuse-995720/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -3464,48 +2729,6 @@
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/tchaikovsky-5972013/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "302-2-12833",
-    "instrumentSlug": "french-horn",
-    "instrumentName": "French Horn Solos",
-    "eventName": "French Horn Solo",
-    "title": "Waltz (from Serenade for Strings)",
-    "composer": "Tchaikovsky",
-    "arranger": "Hudadoff",
-    "publishers": [
-      "Belwin, Inc [Fifteen Intermediate F Horn Solos]"
-    ],
-    "publisherText": "Belwin, Inc [Fifteen Intermediate F Horn Solos]",
-    "classLevel": 2,
-    "specification": "",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/waltz-11589247/p",
-    "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
-  },
-  {
-    "uilCode": "302-2-23763",
-    "instrumentSlug": "french-horn",
-    "instrumentName": "French Horn Solos",
-    "eventName": "French Horn Solo",
-    "title": "2nd Suite: Menuet",
-    "composer": "Telemann",
-    "arranger": "Stelten",
-    "publishers": [
-      "Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande]"
-    ],
-    "publisherText": "Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande]",
-    "classLevel": 2,
-    "specification": "(must also play three additional mvts from the 2nd suite of this collection)",
-    "noMemoryRequired": false,
-    "publicDomainPdfUrl": null,
-    "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/menuett-french-horn-solo-4862025/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -3678,6 +2901,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "302-2-41676",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "24 Classic Solos for Winds",
+    "composer": "various",
+    "arranger": "",
+    "publishers": [
+      "Carl Fischer, Inc."
+    ],
+    "publisherText": "Carl Fischer, Inc.",
+    "classLevel": 2,
+    "specification": "(play Adoration OR Allegro non troppo from 6 Kinderstucke, Op.72)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/classic-christmas-carols-for-band-2476873/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "302-2-38561",
     "instrumentSlug": "french-horn",
     "instrumentName": "French Horn Solos",
@@ -3691,6 +2935,69 @@
     "publisherText": "Sheet Music Plus Press",
     "classLevel": 2,
     "specification": "(play Vittoria Vittoria OR Bist Du Mir)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "302-2-12780",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Concert Album for Horn and Piano",
+    "composer": "various",
+    "arranger": "Ostrander",
+    "publishers": [
+      "Edition Musicus-New York, Inc. [Concert Album for Horn and Piano]"
+    ],
+    "publisherText": "Edition Musicus-New York, Inc. [Concert Album for Horn and Piano]",
+    "classLevel": 2,
+    "specification": "(play Minuet OR Air from Orpheus OR Plaister d'Amour OR Berceuse from The Firebird)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/minuet-11589705/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "302-2-12828",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Deux Suites de Danses de L'Epoque Baroque Allemande",
+    "composer": "various",
+    "arranger": "Stelten",
+    "publishers": [
+      "Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande]"
+    ],
+    "publisherText": "Alphonse Leduc [Deux Suites de Danses de L'Epoque Baroque Allemande]",
+    "classLevel": 2,
+    "specification": "(play FOUR different dances from one suite)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/march-90038820e/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "302-2-12797",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Fifteen Intermediate F Horn Solos",
+    "composer": "various",
+    "arranger": "Hudadoff",
+    "publishers": [
+      "Belwin, Inc [Fifteen Intermediate F Horn Solos]"
+    ],
+    "publisherText": "Belwin, Inc [Fifteen Intermediate F Horn Solos]",
+    "classLevel": 2,
+    "specification": "(play Allegro and Minuet OR Waltz from Serenade for Strings)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -3720,25 +3027,88 @@
     "sheetMusicAffiliateSource": null
   },
   {
-    "uilCode": "302-2-12835",
+    "uilCode": "302-2-41678",
     "instrumentSlug": "french-horn",
     "instrumentName": "French Horn Solos",
     "eventName": "French Horn Solo",
-    "title": "Melodies (from Der Freischutz)",
-    "composer": "von Weber",
-    "arranger": "Ployhar/Lamb",
+    "title": "LIFT: Solos for Horn by Black Composers",
+    "composer": "various",
+    "arranger": "McGillivray",
+    "publishers": [
+      "Cimarron Music Press"
+    ],
+    "publisherText": "Cimarron Music Press",
+    "classLevel": 2,
+    "specification": "(play Old St. John OR When I'm Older)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/lift-11198263/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "302-2-12786",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Solo Sounds for French Horn Levels 3-5, Vol. 1",
+    "composer": "various",
+    "arranger": "Lamb",
     "publishers": [
       "Belwin, Inc [Solo Sounds for French Horn Levels 3-5, Vol. 1]"
     ],
     "publisherText": "Belwin, Inc [Solo Sounds for French Horn Levels 3-5, Vol. 1]",
     "classLevel": 2,
+    "specification": "(play Legend of the Hills OR Hornpipers Dance OR Alleluia OR Melodies from Der Freischutz)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/legend-of-the-hills-996892/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "302-2-41677",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Sound Innovations Soloist for Intermediate Musicians",
+    "composer": "various",
+    "arranger": "",
+    "publishers": [
+      "Alfred Music Company, Inc."
+    ],
+    "publisherText": "Alfred Music Company, Inc.",
+    "classLevel": 2,
+    "specification": "(play one from: Apple Honey, Metro Morning, Jubilation!, Up in the Sky, Majestic Celebration, Mustang Spirit, Tambourine Dance, Crowley's Ridge, A Classic Moment, Dance of the Night, Tarantella)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/intermediate-ukulele-10433977/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "302-2-41682",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Andante Maestoso",
+    "composer": "von Suppe",
+    "arranger": "Steber",
+    "publishers": [
+      "MKT Music Publications"
+    ],
+    "publisherText": "MKT Music Publications",
+    "classLevel": 2,
     "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
-    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/soloist-folio-for-french-horn-4898912/p",
+    "sheetMusicAffiliateUrl": null,
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
-    "sheetMusicAffiliateSource": "JW Pepper link"
+    "sheetMusicAffiliateSource": null
   },
   {
     "uilCode": "302-1-32397",
@@ -4352,6 +3722,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "302-1-41672",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Reimaginings",
+    "composer": "Gulino",
+    "arranger": "",
+    "publishers": [
+      "Cimarron Music Press"
+    ],
+    "publisherText": "Cimarron Music Press",
+    "classLevel": 1,
+    "specification": "(play one mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "302-1-32406",
     "instrumentSlug": "french-horn",
     "instrumentName": "French Horn Solos",
@@ -4841,6 +4232,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "302-1-41675",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Scherzo, Song and Prayer",
+    "composer": "Musella",
+    "arranger": "",
+    "publishers": [
+      "MKT Music Publications"
+    ],
+    "publisherText": "MKT Music Publications",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/scherzo-9534974/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "302-1-32410",
     "instrumentSlug": "french-horn",
     "instrumentName": "French Horn Solos",
@@ -4881,6 +4293,48 @@
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/bagatelle-4923041/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "302-1-41673",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "Checkers",
+    "composer": "Paget",
+    "arranger": "",
+    "publishers": [
+      "Keiser Music Publications"
+    ],
+    "publisherText": "Keiser Music Publications",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/checkers-10034940/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "302-1-41674",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "The Mulligan Gambol",
+    "composer": "Paget",
+    "arranger": "",
+    "publishers": [
+      "Keiser Music Publications"
+    ],
+    "publisherText": "Keiser Music Publications",
+    "classLevel": 1,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
   },
   {
     "uilCode": "302-1-12758",
@@ -5284,6 +4738,27 @@
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/sonata-no-3-french-horn-solo-5268826/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "302-1-41671",
+    "instrumentSlug": "french-horn",
+    "instrumentName": "French Horn Solos",
+    "eventName": "French Horn Solo",
+    "title": "LIFT: Solos for Horn by Black Composers",
+    "composer": "various",
+    "arranger": "McGillivray",
+    "publishers": [
+      "Cimarron Music Press"
+    ],
+    "publisherText": "Cimarron Music Press",
+    "classLevel": 1,
+    "specification": "(play one from: Friendship's Source of Joy, Deep River, Sympathy, Adagio Cantabile, The First Solo Flight, Dahomey Passacaglia)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/lift-11198263/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   }

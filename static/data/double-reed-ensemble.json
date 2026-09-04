@@ -189,6 +189,27 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "272-3-41938",
+    "instrumentSlug": "double-reed-ensemble",
+    "instrumentName": "Double Reed Ensembles",
+    "eventName": "Double Reed Ensemble",
+    "title": "Dance of the Kasmandl",
+    "composer": "Pappas",
+    "arranger": "",
+    "publishers": [
+      "JPM Music Publications"
+    ],
+    "publisherText": "JPM Music Publications",
+    "classLevel": 3,
+    "specification": "OBOE TRIO",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/dance-of-the-kasmandl-11685103/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "272-3-35635",
     "instrumentSlug": "double-reed-ensemble",
     "instrumentName": "Double Reed Ensembles",
@@ -292,6 +313,27 @@
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/four-allemandes-5033972/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "272-3-41937",
+    "instrumentSlug": "double-reed-ensemble",
+    "instrumentName": "Double Reed Ensembles",
+    "eventName": "Double Reed Ensemble",
+    "title": "Concerto for Four, #1",
+    "composer": "Telemann",
+    "arranger": "Gregory",
+    "publishers": [
+      "Any Publisher"
+    ],
+    "publisherText": "Any Publisher",
+    "classLevel": 3,
+    "specification": "BASSOON QUARTET (play mvt 3)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
   },
   {
     "uilCode": "272-3-37304",
@@ -399,6 +441,69 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "272-3-41939",
+    "instrumentSlug": "double-reed-ensemble",
+    "instrumentName": "Double Reed Ensembles",
+    "eventName": "Double Reed Ensemble",
+    "title": "Renaissance and Baroque Suites for Flexible Quartets, Vol. 1",
+    "composer": "various",
+    "arranger": "Opaskar",
+    "publishers": [
+      "LudwigMasters Publications"
+    ],
+    "publisherText": "LudwigMasters Publications",
+    "classLevel": 3,
+    "specification": "QUARTET (any published combination) (play 1st mvt from EITHER Suite 1 OR Suite 2)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "272-3-41940",
+    "instrumentSlug": "double-reed-ensemble",
+    "instrumentName": "Double Reed Ensembles",
+    "eventName": "Double Reed Ensemble",
+    "title": "Renaissance and Baroque Suites for Flexible Quartets, Vol. 2",
+    "composer": "various",
+    "arranger": "Opaskar",
+    "publishers": [
+      "LudwigMasters Publications"
+    ],
+    "publisherText": "LudwigMasters Publications",
+    "classLevel": 3,
+    "specification": "QUARTET (any published combination) (play 2nd OR 3rd mvt from Suite No.6)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "272-3-41941",
+    "instrumentSlug": "double-reed-ensemble",
+    "instrumentName": "Double Reed Ensembles",
+    "eventName": "Double Reed Ensemble",
+    "title": "Renaissance and Baroque Suites for Flexible Quartets, Vol. 3",
+    "composer": "various",
+    "arranger": "Opaskar",
+    "publishers": [
+      "LudwigMasters Publications"
+    ],
+    "publisherText": "LudwigMasters Publications",
+    "classLevel": 3,
+    "specification": "QUARTET (any published combination) (play 4th OR 6th mvt from Suite No.9)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "272-2-35616",
     "instrumentSlug": "double-reed-ensemble",
     "instrumentName": "Double Reed Ensembles",
@@ -439,6 +544,27 @@
     "sheetMusicAffiliateUrl": null,
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "272-2-41931",
+    "instrumentSlug": "double-reed-ensemble",
+    "instrumentName": "Double Reed Ensembles",
+    "eventName": "Double Reed Ensemble",
+    "title": "Air on the G String",
+    "composer": "Bach",
+    "arranger": "Marlatt",
+    "publishers": [
+      "Eighth Note Publications"
+    ],
+    "publisherText": "Eighth Note Publications",
+    "classLevel": 2,
+    "specification": "QUARTET (2 ob, EH, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/bach-5976972/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
     "uilCode": "272-2-35622",
@@ -504,6 +630,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "272-2-41929",
+    "instrumentSlug": "double-reed-ensemble",
+    "instrumentName": "Double Reed Ensembles",
+    "eventName": "Double Reed Ensemble",
+    "title": "Reunion!",
+    "composer": "Graves",
+    "arranger": "",
+    "publishers": [
+      "Cimarron Music Press"
+    ],
+    "publisherText": "Cimarron Music Press",
+    "classLevel": 2,
+    "specification": "BASSOON QUINTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/reunion-2201929/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "272-2-35614",
     "instrumentSlug": "double-reed-ensemble",
     "instrumentName": "Double Reed Ensembles",
@@ -523,6 +670,27 @@
     "sheetMusicAffiliateUrl": null,
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "272-2-41923",
+    "instrumentSlug": "double-reed-ensemble",
+    "instrumentName": "Double Reed Ensembles",
+    "eventName": "Double Reed Ensemble",
+    "title": "Stabat Mater",
+    "composer": "Gutierrez de Padilla",
+    "arranger": "Johnston",
+    "publishers": [
+      "ALRY Publications"
+    ],
+    "publisherText": "ALRY Publications",
+    "classLevel": 2,
+    "specification": "BASSOON QUARTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/stabat-mater-11659825f/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
     "uilCode": "272-2-35623",
@@ -609,6 +777,27 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "272-2-41936",
+    "instrumentSlug": "double-reed-ensemble",
+    "instrumentName": "Double Reed Ensembles",
+    "eventName": "Double Reed Ensemble",
+    "title": "Baryton Trio #4",
+    "composer": "Haydn",
+    "arranger": "Gibson",
+    "publishers": [
+      "JPM Music Publications"
+    ],
+    "publisherText": "JPM Music Publications",
+    "classLevel": 2,
+    "specification": "TRIO (ob, EH, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/baryton-trio-4-10756864/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "272-2-37296",
     "instrumentSlug": "double-reed-ensemble",
     "instrumentName": "Double Reed Ensembles",
@@ -672,6 +861,27 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "272-2-41930",
+    "instrumentSlug": "double-reed-ensemble",
+    "instrumentName": "Double Reed Ensembles",
+    "eventName": "Double Reed Ensemble",
+    "title": "Ave Verum Corpus",
+    "composer": "Mozart",
+    "arranger": "May",
+    "publishers": [
+      "Lost Key Music"
+    ],
+    "publisherText": "Lost Key Music",
+    "classLevel": 2,
+    "specification": "QUARTET (2 ob, 2 bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/mozart-5933668/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "272-2-35618",
     "instrumentSlug": "double-reed-ensemble",
     "instrumentName": "Double Reed Ensembles",
@@ -733,6 +943,48 @@
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/sea-chantey-11620265/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "272-2-41924",
+    "instrumentSlug": "double-reed-ensemble",
+    "instrumentName": "Double Reed Ensembles",
+    "eventName": "Double Reed Ensemble",
+    "title": "The Four Jesters",
+    "composer": "Pappas",
+    "arranger": "",
+    "publishers": [
+      "JPM Music Publications"
+    ],
+    "publisherText": "JPM Music Publications",
+    "classLevel": 2,
+    "specification": "BASSOON QUARTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/the-four-jesters-11685132/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "272-2-41925",
+    "instrumentSlug": "double-reed-ensemble",
+    "instrumentName": "Double Reed Ensembles",
+    "eventName": "Double Reed Ensemble",
+    "title": "Two Folk Songs",
+    "composer": "Pappas",
+    "arranger": "",
+    "publishers": [
+      "JPM Music Publications"
+    ],
+    "publisherText": "JPM Music Publications",
+    "classLevel": 2,
+    "specification": "BASSOON QUARTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
   },
   {
     "uilCode": "272-2-35627",
@@ -819,6 +1071,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "272-2-41932",
+    "instrumentSlug": "double-reed-ensemble",
+    "instrumentName": "Double Reed Ensembles",
+    "eventName": "Double Reed Ensemble",
+    "title": "Ave Maria",
+    "composer": "Schubert",
+    "arranger": "Marlatt",
+    "publishers": [
+      "Eighth Note Publications"
+    ],
+    "publisherText": "Eighth Note Publications",
+    "classLevel": 2,
+    "specification": "QUARTET (2 ob, EH, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "272-2-12269",
     "instrumentSlug": "double-reed-ensemble",
     "instrumentName": "Double Reed Ensembles",
@@ -840,6 +1113,48 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "272-2-41928",
+    "instrumentSlug": "double-reed-ensemble",
+    "instrumentName": "Double Reed Ensembles",
+    "eventName": "Double Reed Ensemble",
+    "title": "Five Romances",
+    "composer": "Schumann",
+    "arranger": "Gregory",
+    "publishers": [
+      "Any Publisher"
+    ],
+    "publisherText": "Any Publisher",
+    "classLevel": 2,
+    "specification": "BASSOON QUARTET (play mvt 3 OR 5)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/five-romances-11160389/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "272-2-41926",
+    "instrumentSlug": "double-reed-ensemble",
+    "instrumentName": "Double Reed Ensembles",
+    "eventName": "Double Reed Ensemble",
+    "title": "Six Lieder, Op. 33",
+    "composer": "Schumann",
+    "arranger": "Gregory",
+    "publishers": [
+      "Any Publisher"
+    ],
+    "publisherText": "Any Publisher",
+    "classLevel": 2,
+    "specification": "BASSOON QUARTET (play any two mvts)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "272-2-35629",
     "instrumentSlug": "double-reed-ensemble",
     "instrumentName": "Double Reed Ensembles",
@@ -853,6 +1168,27 @@
     "publisherText": "Western International Music, Inc.",
     "classLevel": 2,
     "specification": "QUARTET (ob, EH, 2 bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "272-2-41927",
+    "instrumentSlug": "double-reed-ensemble",
+    "instrumentName": "Double Reed Ensembles",
+    "eventName": "Double Reed Ensemble",
+    "title": "Concerto for Four, #1",
+    "composer": "Telemann",
+    "arranger": "Gregory",
+    "publishers": [
+      "Any Publisher"
+    ],
+    "publisherText": "Any Publisher",
+    "classLevel": 2,
+    "specification": "BASSOON QUARTET (play mvt 1)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -895,6 +1231,27 @@
     "publisherText": "Western International Music, Inc.",
     "classLevel": 2,
     "specification": "QUARTET (2 ob, EH, bsn) (play two mvts)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "272-2-41922",
+    "instrumentSlug": "double-reed-ensemble",
+    "instrumentName": "Double Reed Ensembles",
+    "eventName": "Double Reed Ensemble",
+    "title": "Les Ma\u00eetres Chanteurs de Nuremberg",
+    "composer": "Wagner",
+    "arranger": "Fiat",
+    "publishers": [
+      "International Music Diffusion"
+    ],
+    "publisherText": "International Music Diffusion",
+    "classLevel": 2,
+    "specification": "BASSOON QUARTET",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -985,6 +1342,69 @@
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/festival-ensembles-5977983/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "272-2-41933",
+    "instrumentSlug": "double-reed-ensemble",
+    "instrumentName": "Double Reed Ensembles",
+    "eventName": "Double Reed Ensemble",
+    "title": "Renaissance and Baroque Suites for Flexible Quartets, Vol. 1",
+    "composer": "various",
+    "arranger": "Opaskar",
+    "publishers": [
+      "LudwigMasters Publications"
+    ],
+    "publisherText": "LudwigMasters Publications",
+    "classLevel": 2,
+    "specification": "QUARTET (any published combination) (play two fast & 1 slow mvt from any suite)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "272-2-41934",
+    "instrumentSlug": "double-reed-ensemble",
+    "instrumentName": "Double Reed Ensembles",
+    "eventName": "Double Reed Ensemble",
+    "title": "Renaissance and Baroque Suites for Flexible Quartets, Vol. 2",
+    "composer": "various",
+    "arranger": "Opaskar",
+    "publishers": [
+      "LudwigMasters Publications"
+    ],
+    "publisherText": "LudwigMasters Publications",
+    "classLevel": 2,
+    "specification": "QUARTET (any published combination) (play two fast & 1 slow mvt from any suite)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "272-2-41935",
+    "instrumentSlug": "double-reed-ensemble",
+    "instrumentName": "Double Reed Ensembles",
+    "eventName": "Double Reed Ensemble",
+    "title": "Renaissance and Baroque Suites for Flexible Quartets, Vol. 3",
+    "composer": "various",
+    "arranger": "Opaskar",
+    "publishers": [
+      "LudwigMasters Publications"
+    ],
+    "publisherText": "LudwigMasters Publications",
+    "classLevel": 2,
+    "specification": "QUARTET (any published combination) (play two fast & 1 slow mvt from any suite)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
   },
   {
     "uilCode": "272-1-37278",
@@ -1113,6 +1533,69 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "272-1-41910",
+    "instrumentSlug": "double-reed-ensemble",
+    "instrumentName": "Double Reed Ensembles",
+    "eventName": "Double Reed Ensemble",
+    "title": "Jesu Joy of Man's Desiring",
+    "composer": "Bach",
+    "arranger": "Marlatt",
+    "publishers": [
+      "Eighth Note Publications"
+    ],
+    "publisherText": "Eighth Note Publications",
+    "classLevel": 1,
+    "specification": "QUARTET (2 ob, EH, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/bach-5976972/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "272-1-41911",
+    "instrumentSlug": "double-reed-ensemble",
+    "instrumentName": "Double Reed Ensembles",
+    "eventName": "Double Reed Ensemble",
+    "title": "Little Fugue",
+    "composer": "Bach",
+    "arranger": "Marlatt",
+    "publishers": [
+      "Eighth Note Publications"
+    ],
+    "publisherText": "Eighth Note Publications",
+    "classLevel": 1,
+    "specification": "QUARTET (2 ob, EH, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "272-1-41903",
+    "instrumentSlug": "double-reed-ensemble",
+    "instrumentName": "Double Reed Ensembles",
+    "eventName": "Double Reed Ensemble",
+    "title": "Now Be Praised, BWV 41",
+    "composer": "Bach",
+    "arranger": "Gregory",
+    "publishers": [
+      "Any Publisher"
+    ],
+    "publisherText": "Any Publisher",
+    "classLevel": 1,
+    "specification": "BASSOON TRIO",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/now-be-praised-11333197/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "272-1-31401",
     "instrumentSlug": "double-reed-ensemble",
     "instrumentName": "Double Reed Ensembles",
@@ -1174,6 +1657,27 @@
     "sheetMusicAffiliateUrl": null,
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "272-1-41899",
+    "instrumentSlug": "double-reed-ensemble",
+    "instrumentName": "Double Reed Ensembles",
+    "eventName": "Double Reed Ensemble",
+    "title": "Symphony No. 7: Allegretto",
+    "composer": "Beethoven",
+    "arranger": "Coste",
+    "publishers": [
+      "International Music Diffusion"
+    ],
+    "publisherText": "International Music Diffusion",
+    "classLevel": 1,
+    "specification": "BASSOON QUINTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/allegretto-10561629/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
     "uilCode": "272-1-12197",
@@ -1251,7 +1755,7 @@
     ],
     "publisherText": "TrevCo Music Publishing",
     "classLevel": 1,
-    "specification": "BASSOON QUARTET (3bsn, 1 cbsn) (Bassoon 4 may substitute for Contrabassoon)",
+    "specification": "BASSOON QUARTET (3 bsn, 1 cbsn) (Bassoon 4 may substitute for Contrabassoon)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -1300,6 +1804,27 @@
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/larlesienne-suite-10186435/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "272-1-41884",
+    "instrumentSlug": "double-reed-ensemble",
+    "instrumentName": "Double Reed Ensembles",
+    "eventName": "Double Reed Ensemble",
+    "title": "Scherzo from Symphony in C",
+    "composer": "Bizet",
+    "arranger": "Johnston",
+    "publishers": [
+      "ALRY Publications"
+    ],
+    "publisherText": "ALRY Publications",
+    "classLevel": 1,
+    "specification": "BASSOON OCTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
   },
   {
     "uilCode": "272-1-35600",
@@ -1361,6 +1886,69 @@
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/introduction-10190097/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "272-1-41921",
+    "instrumentSlug": "double-reed-ensemble",
+    "instrumentName": "Double Reed Ensembles",
+    "eventName": "Double Reed Ensemble",
+    "title": "Art Music",
+    "composer": "Chaffin",
+    "arranger": "",
+    "publishers": [
+      "Sheet Music Direct"
+    ],
+    "publisherText": "Sheet Music Direct",
+    "classLevel": 1,
+    "specification": "TRIO (ob, EH, bsn) (play one mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "272-1-41917",
+    "instrumentSlug": "double-reed-ensemble",
+    "instrumentName": "Double Reed Ensembles",
+    "eventName": "Double Reed Ensemble",
+    "title": "Paso Doble: Torero y Capote",
+    "composer": "Chaffin",
+    "arranger": "",
+    "publishers": [
+      "Sheet Music Direct"
+    ],
+    "publisherText": "Sheet Music Direct",
+    "classLevel": 1,
+    "specification": "SEPTET (3 ob, EH, 2 bsn, contra)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "272-1-41902",
+    "instrumentSlug": "double-reed-ensemble",
+    "instrumentName": "Double Reed Ensembles",
+    "eventName": "Double Reed Ensemble",
+    "title": "Salvation is Created",
+    "composer": "Chesnokov",
+    "arranger": "Johnston",
+    "publishers": [
+      "ALRY Publications"
+    ],
+    "publisherText": "ALRY Publications",
+    "classLevel": 1,
+    "specification": "BASSOON SEXTET (contra REQUIRED)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/salvation-is-created-1940048/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -1449,6 +2037,27 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "272-1-41918",
+    "instrumentSlug": "double-reed-ensemble",
+    "instrumentName": "Double Reed Ensembles",
+    "eventName": "Double Reed Ensemble",
+    "title": "Suite",
+    "composer": "Cuong",
+    "arranger": "",
+    "publishers": [
+      "vietcoungmusic.com"
+    ],
+    "publisherText": "vietcoungmusic.com",
+    "classLevel": 1,
+    "specification": "TRIO (2 ob, EH) (play 2nd OR 3rd mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/suite-7866718/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "272-1-35574",
     "instrumentSlug": "double-reed-ensemble",
     "instrumentName": "Double Reed Ensembles",
@@ -1504,6 +2113,27 @@
     "publisherText": "TrevCo Music Publishing",
     "classLevel": 1,
     "specification": "BASSOON QUARTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "272-1-41893",
+    "instrumentSlug": "double-reed-ensemble",
+    "instrumentName": "Double Reed Ensembles",
+    "eventName": "Double Reed Ensemble",
+    "title": "Three Mini-Marches",
+    "composer": "Draganski",
+    "arranger": "",
+    "publishers": [
+      "ALRY Publications"
+    ],
+    "publisherText": "ALRY Publications",
+    "classLevel": 1,
+    "specification": "BASSOON QUARTET (play any two mvts)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -1659,6 +2289,27 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "272-1-41900",
+    "instrumentSlug": "double-reed-ensemble",
+    "instrumentName": "Double Reed Ensembles",
+    "eventName": "Double Reed Ensemble",
+    "title": "Whisper Me Your Dreams",
+    "composer": "Graves",
+    "arranger": "",
+    "publishers": [
+      "Cimarron Music Press"
+    ],
+    "publisherText": "Cimarron Music Press",
+    "classLevel": 1,
+    "specification": "BASSOON QUINTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "272-1-37285",
     "instrumentSlug": "double-reed-ensemble",
     "instrumentName": "Double Reed Ensembles",
@@ -1676,6 +2327,27 @@
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/album-leaf-6047260/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "272-1-41885",
+    "instrumentSlug": "double-reed-ensemble",
+    "instrumentName": "Double Reed Ensembles",
+    "eventName": "Double Reed Ensemble",
+    "title": "Salve Regina",
+    "composer": "Gutierrez de Padilla",
+    "arranger": "Johnston",
+    "publishers": [
+      "ALRY Publications"
+    ],
+    "publisherText": "ALRY Publications",
+    "classLevel": 1,
+    "specification": "BASSOON OCTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/salve-regina-10593273/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -1869,6 +2541,27 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "272-1-41920",
+    "instrumentSlug": "double-reed-ensemble",
+    "instrumentName": "Double Reed Ensembles",
+    "eventName": "Double Reed Ensemble",
+    "title": "Baryton Trio #4",
+    "composer": "Haydn",
+    "arranger": "Gibson",
+    "publishers": [
+      "JPM Music Publications"
+    ],
+    "publisherText": "JPM Music Publications",
+    "classLevel": 1,
+    "specification": "TRIO (ob, EH, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/baryton-trio-4-10756864/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "272-1-35595",
     "instrumentSlug": "double-reed-ensemble",
     "instrumentName": "Double Reed Ensembles",
@@ -1882,6 +2575,27 @@
     "publisherText": "Schott Company",
     "classLevel": 1,
     "specification": "TRIO (2 ob, bsn) (play two contrasting movements)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "272-1-41904",
+    "instrumentSlug": "double-reed-ensemble",
+    "instrumentName": "Double Reed Ensembles",
+    "eventName": "Double Reed Ensemble",
+    "title": "Three Renaissance Dances",
+    "composer": "Holborne",
+    "arranger": "Gregory",
+    "publishers": [
+      "Any Publisher"
+    ],
+    "publisherText": "Any Publisher",
+    "classLevel": 1,
+    "specification": "BASSOON TRIO",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -1924,6 +2638,27 @@
     "publisherText": "TrevCo Music Publishing",
     "classLevel": 1,
     "specification": "QUARTET (2 ob, 2 bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "272-1-41915",
+    "instrumentSlug": "double-reed-ensemble",
+    "instrumentName": "Double Reed Ensembles",
+    "eventName": "Double Reed Ensemble",
+    "title": "Chorale and Fugue in F Major",
+    "composer": "Jackson",
+    "arranger": "",
+    "publishers": [
+      "Cimarron Music Press"
+    ],
+    "publisherText": "Cimarron Music Press",
+    "classLevel": 1,
+    "specification": "QUINTET (2 ob, EH, 2 bsn)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -2037,6 +2772,48 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "272-1-41898",
+    "instrumentSlug": "double-reed-ensemble",
+    "instrumentName": "Double Reed Ensembles",
+    "eventName": "Double Reed Ensemble",
+    "title": "Messages",
+    "composer": "Lys",
+    "arranger": "",
+    "publishers": [
+      "International Music Diffusion"
+    ],
+    "publisherText": "International Music Diffusion",
+    "classLevel": 1,
+    "specification": "BASSOON QUARTET (play one mvt)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "272-1-41888",
+    "instrumentSlug": "double-reed-ensemble",
+    "instrumentName": "Double Reed Ensembles",
+    "eventName": "Double Reed Ensemble",
+    "title": "Villanelle",
+    "composer": "Massenet",
+    "arranger": "Gregory",
+    "publishers": [
+      "Any Publisher"
+    ],
+    "publisherText": "Any Publisher",
+    "classLevel": 1,
+    "specification": "BASSOON QUARTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/villanelle-11680548/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "272-1-12218",
     "instrumentSlug": "double-reed-ensemble",
     "instrumentName": "Double Reed Ensembles",
@@ -2056,6 +2833,27 @@
     "sheetMusicAffiliateUrl": null,
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "272-1-41886",
+    "instrumentSlug": "double-reed-ensemble",
+    "instrumentName": "Double Reed Ensembles",
+    "eventName": "Double Reed Ensemble",
+    "title": "Festgesang, Op. 68",
+    "composer": "Mendelssohn",
+    "arranger": "Gregory",
+    "publishers": [
+      "Any Publisher"
+    ],
+    "publisherText": "Any Publisher",
+    "classLevel": 1,
+    "specification": "BASSOON QUARTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/festgesang-11336676/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
     "uilCode": "272-1-37286",
@@ -2113,6 +2911,27 @@
     "publisherText": "Jeanne Inc.",
     "classLevel": 1,
     "specification": "TRIO (ob, EH, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "272-1-41919",
+    "instrumentSlug": "double-reed-ensemble",
+    "instrumentName": "Double Reed Ensembles",
+    "eventName": "Double Reed Ensemble",
+    "title": "Parable of a Stormy Sea",
+    "composer": "Morris",
+    "arranger": "",
+    "publishers": [
+      "TrevCo Music Publishing"
+    ],
+    "publisherText": "TrevCo Music Publishing",
+    "classLevel": 1,
+    "specification": "TRIO (2 ob, EH) (play two mvts)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -2205,6 +3024,90 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "272-1-41889",
+    "instrumentSlug": "double-reed-ensemble",
+    "instrumentName": "Double Reed Ensembles",
+    "eventName": "Double Reed Ensemble",
+    "title": "Introduction and Fugue",
+    "composer": "Mozart",
+    "arranger": "Pappas",
+    "publishers": [
+      "JPM Music Publications"
+    ],
+    "publisherText": "JPM Music Publications",
+    "classLevel": 1,
+    "specification": "BASSOON QUARTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "272-1-41906",
+    "instrumentSlug": "double-reed-ensemble",
+    "instrumentName": "Double Reed Ensembles",
+    "eventName": "Double Reed Ensemble",
+    "title": "The Magic Bassoon, Act 1",
+    "composer": "Mozart",
+    "arranger": "Simpson",
+    "publishers": [
+      "Potenza Music"
+    ],
+    "publisherText": "Potenza Music",
+    "classLevel": 1,
+    "specification": "BASSOON TRIO (play at least three mvts)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "272-1-41907",
+    "instrumentSlug": "double-reed-ensemble",
+    "instrumentName": "Double Reed Ensembles",
+    "eventName": "Double Reed Ensemble",
+    "title": "The Magic Bassoon, Act 2",
+    "composer": "Mozart",
+    "arranger": "Simpson",
+    "publishers": [
+      "Potenza Music"
+    ],
+    "publisherText": "Potenza Music",
+    "classLevel": 1,
+    "specification": "BASSOON TRIO (play at least three mvts)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "272-1-41901",
+    "instrumentSlug": "double-reed-ensemble",
+    "instrumentName": "Double Reed Ensembles",
+    "eventName": "Double Reed Ensemble",
+    "title": "The Marriage of Figaro Overture",
+    "composer": "Mozart",
+    "arranger": "Johnston",
+    "publishers": [
+      "ALRY Publications"
+    ],
+    "publisherText": "ALRY Publications",
+    "classLevel": 1,
+    "specification": "BASSOON SEPTET (contra REQUIRED) (TIMPANI NOT ALLOWED)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/finding-figaro-11619628/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "272-1-34216",
     "instrumentSlug": "double-reed-ensemble",
     "instrumentName": "Double Reed Ensembles",
@@ -2224,6 +3127,27 @@
     "sheetMusicAffiliateUrl": null,
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "272-1-41909",
+    "instrumentSlug": "double-reed-ensemble",
+    "instrumentName": "Double Reed Ensembles",
+    "eventName": "Double Reed Ensemble",
+    "title": "Canon",
+    "composer": "Pachelbel",
+    "arranger": "Marlatt",
+    "publishers": [
+      "Eighth Note Publications"
+    ],
+    "publisherText": "Eighth Note Publications",
+    "classLevel": 1,
+    "specification": "QUARTET (2 ob, EH, bsn)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/canon-11585083/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
     "uilCode": "272-1-37274",
@@ -2247,6 +3171,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "272-1-41890",
+    "instrumentSlug": "double-reed-ensemble",
+    "instrumentName": "Double Reed Ensembles",
+    "eventName": "Double Reed Ensemble",
+    "title": "La Marche des Fantoches en Bois",
+    "composer": "Paciorkiewicz",
+    "arranger": "",
+    "publishers": [
+      "International Music Diffusion"
+    ],
+    "publisherText": "International Music Diffusion",
+    "classLevel": 1,
+    "specification": "BASSOON QUARTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "272-1-37287",
     "instrumentSlug": "double-reed-ensemble",
     "instrumentName": "Double Reed Ensembles",
@@ -2264,6 +3209,27 @@
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/moto-perpetuo-10005729/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "272-1-41905",
+    "instrumentSlug": "double-reed-ensemble",
+    "instrumentName": "Double Reed Ensembles",
+    "eventName": "Double Reed Ensemble",
+    "title": "Tres Musicos",
+    "composer": "Pappas",
+    "arranger": "",
+    "publishers": [
+      "JPM Music Publications"
+    ],
+    "publisherText": "JPM Music Publications",
+    "classLevel": 1,
+    "specification": "BASSOON TRIO",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/tres-musicos-9545666/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -2541,6 +3507,27 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "272-1-41916",
+    "instrumentSlug": "double-reed-ensemble",
+    "instrumentName": "Double Reed Ensembles",
+    "eventName": "Double Reed Ensemble",
+    "title": "Danse Bacchanale",
+    "composer": "Saint-Saens",
+    "arranger": "Steber",
+    "publishers": [
+      "MKT Music Publications"
+    ],
+    "publisherText": "MKT Music Publications",
+    "classLevel": 1,
+    "specification": "QUINTET or SEXTET (2 ob, EH, 2 bsn, OPT contra)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "272-1-35611",
     "instrumentSlug": "double-reed-ensemble",
     "instrumentName": "Double Reed Ensembles",
@@ -2596,6 +3583,90 @@
     "publisherText": "JW Pepper",
     "classLevel": 1,
     "specification": "BASSOON QUARTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "272-1-41887",
+    "instrumentSlug": "double-reed-ensemble",
+    "instrumentName": "Double Reed Ensembles",
+    "eventName": "Double Reed Ensemble",
+    "title": "Song of the Spirits",
+    "composer": "Schubert",
+    "arranger": "Gregory",
+    "publishers": [
+      "Any Publisher"
+    ],
+    "publisherText": "Any Publisher",
+    "classLevel": 1,
+    "specification": "BASSOON QUARTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "272-1-41894",
+    "instrumentSlug": "double-reed-ensemble",
+    "instrumentName": "Double Reed Ensembles",
+    "eventName": "Double Reed Ensemble",
+    "title": "Five Romances",
+    "composer": "Schumann",
+    "arranger": "Gregory",
+    "publishers": [
+      "Any Publisher"
+    ],
+    "publisherText": "Any Publisher",
+    "classLevel": 1,
+    "specification": "BASSOON QUARTET (play at least three mvts)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/five-romances-11160389/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "272-1-41891",
+    "instrumentSlug": "double-reed-ensemble",
+    "instrumentName": "Double Reed Ensembles",
+    "eventName": "Double Reed Ensemble",
+    "title": "Hunting Songs, Op. 137",
+    "composer": "Schumann",
+    "arranger": "Gregory",
+    "publishers": [
+      "Any Publisher"
+    ],
+    "publisherText": "Any Publisher",
+    "classLevel": 1,
+    "specification": "BASSOON QUARTET (play any four mvts)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/hunting-songs-11333219/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "272-1-41895",
+    "instrumentSlug": "double-reed-ensemble",
+    "instrumentName": "Double Reed Ensembles",
+    "eventName": "Double Reed Ensemble",
+    "title": "Six Lieder, Op. 33",
+    "composer": "Schumann",
+    "arranger": "Gregory",
+    "publishers": [
+      "Any Publisher"
+    ],
+    "publisherText": "Any Publisher",
+    "classLevel": 1,
+    "specification": "BASSOON QUARTET (play four mvts)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -2688,6 +3759,27 @@
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
   {
+    "uilCode": "272-1-41897",
+    "instrumentSlug": "double-reed-ensemble",
+    "instrumentName": "Double Reed Ensembles",
+    "eventName": "Double Reed Ensemble",
+    "title": "Concerto for Four, #1",
+    "composer": "Telemann",
+    "arranger": "Gregory",
+    "publishers": [
+      "Any Publisher"
+    ],
+    "publisherText": "Any Publisher",
+    "classLevel": 1,
+    "specification": "BASSOON QUARTET (play mvt 2 OR 4)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "272-1-37265",
     "instrumentSlug": "double-reed-ensemble",
     "instrumentName": "Double Reed Ensembles",
@@ -2722,6 +3814,69 @@
     "publisherText": "Bocal Music",
     "classLevel": 1,
     "specification": "BASSOON QUARTET",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "272-1-41896",
+    "instrumentSlug": "double-reed-ensemble",
+    "instrumentName": "Double Reed Ensembles",
+    "eventName": "Double Reed Ensemble",
+    "title": "Concerto alla rustica, RV 151",
+    "composer": "Vivaldi",
+    "arranger": "Gregory",
+    "publishers": [
+      "Any Publisher"
+    ],
+    "publisherText": "Any Publisher",
+    "classLevel": 1,
+    "specification": "BASSOON QUARTET (play mvt 1)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/concerto-alla-rustica-11333275/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "272-1-41908",
+    "instrumentSlug": "double-reed-ensemble",
+    "instrumentName": "Double Reed Ensembles",
+    "eventName": "Double Reed Ensemble",
+    "title": "Concerto, RV 532",
+    "composer": "Vivaldi",
+    "arranger": "Gregory",
+    "publishers": [
+      "Any Publisher"
+    ],
+    "publisherText": "Any Publisher",
+    "classLevel": 1,
+    "specification": "BASSOON TRIO (play mvt 1 OR 2)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/concerto-9547987/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "272-1-41892",
+    "instrumentSlug": "double-reed-ensemble",
+    "instrumentName": "Double Reed Ensembles",
+    "eventName": "Double Reed Ensemble",
+    "title": "Third Concerto for Four",
+    "composer": "Vivaldi",
+    "arranger": "Gregory",
+    "publishers": [
+      "Any Publisher"
+    ],
+    "publisherText": "Any Publisher",
+    "classLevel": 1,
+    "specification": "BASSOON QUARTET (play any mvt EXCEPT 1st)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -2911,6 +4066,69 @@
     "publisherText": "Last Resort Music Publishing, Inc.",
     "classLevel": 1,
     "specification": "QUARTET (2 ob, EH, bsn) (play one quartet)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "272-1-41912",
+    "instrumentSlug": "double-reed-ensemble",
+    "instrumentName": "Double Reed Ensembles",
+    "eventName": "Double Reed Ensemble",
+    "title": "Renaissance and Baroque Suites for Flexible Quartets, Vol. 1",
+    "composer": "various",
+    "arranger": "Opaskar",
+    "publishers": [
+      "LudwigMasters Publications"
+    ],
+    "publisherText": "LudwigMasters Publications",
+    "classLevel": 1,
+    "specification": "QUARTET (any published combination) (play any four mvts from the same suite)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "272-1-41913",
+    "instrumentSlug": "double-reed-ensemble",
+    "instrumentName": "Double Reed Ensembles",
+    "eventName": "Double Reed Ensemble",
+    "title": "Renaissance and Baroque Suites for Flexible Quartets, Vol. 2",
+    "composer": "various",
+    "arranger": "Opaskar",
+    "publishers": [
+      "LudwigMasters Publications"
+    ],
+    "publisherText": "LudwigMasters Publications",
+    "classLevel": 1,
+    "specification": "QUARTET (any published combination) (play any four mvts from the same suite)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "272-1-41914",
+    "instrumentSlug": "double-reed-ensemble",
+    "instrumentName": "Double Reed Ensembles",
+    "eventName": "Double Reed Ensemble",
+    "title": "Renaissance and Baroque Suites for Flexible Quartets, Vol. 3",
+    "composer": "various",
+    "arranger": "Opaskar",
+    "publishers": [
+      "LudwigMasters Publications"
+    ],
+    "publisherText": "LudwigMasters Publications",
+    "classLevel": 1,
+    "specification": "QUARTET (any published combination) (play any four mvts from the same suite)",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,

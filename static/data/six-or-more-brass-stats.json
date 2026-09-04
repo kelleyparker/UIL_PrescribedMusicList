@@ -2,21 +2,21 @@
   "schoolYear": "2025-2026",
   "instrumentSlug": "six-or-more-brass",
   "instrumentName": "Six or More Brass Ensembles",
-  "songCount": 131,
-  "publisherCount": 136,
+  "songCount": 132,
+  "publisherCount": 137,
   "noteCount": 1,
   "databaseRecordCount": 132,
   "classBreakdown": {
     "3": 33,
     "2": 39,
-    "1": 59
+    "1": 60
   },
   "noMemoryRequiredCount": 0,
   "publicDomainPdfCount": 0,
   "eventBreakdown": {
-    "Six or More Brass": 131
+    "Six or More Brass": 132
   },
   "notes": {
-    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-03-28T15:07:47.985361+00:00."
+    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-09-04T16:53:03.718058+00:00."
   }
 }

@@ -5,7 +5,7 @@
   "songCount": 487,
   "publisherCount": 589,
   "noteCount": 1,
-  "databaseRecordCount": 488,
+  "databaseRecordCount": 487,
   "classBreakdown": {
     "3": 99,
     "2": 158,
@@ -17,6 +17,6 @@
     "Cello Solo": 487
   },
   "notes": {
-    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-03-28T15:07:47.613330+00:00."
+    "dataset_audit": "Sourced from local CSV snapshots. Imported 2026-09-04T16:48:41.102031+00:00."
   }
 }

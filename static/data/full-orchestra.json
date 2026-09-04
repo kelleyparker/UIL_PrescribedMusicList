@@ -2577,9 +2577,10 @@
     "composer": "Holst",
     "arranger": "",
     "publishers": [
-      "Boosey & Hawkes, Inc."
+      "Boosey & Hawkes, Inc.",
+      "Luck's Music Library"
     ],
-    "publisherText": "Boosey & Hawkes, Inc.",
+    "publisherText": "Boosey & Hawkes, Inc.;Luck's Music Library",
     "classLevel": 5,
     "specification": "(play Prelude PLUS mvts. 1 & 2 OR Interlude PLUS mvts. 3 & 4)",
     "noMemoryRequired": false,
@@ -3625,6 +3626,27 @@
     "publisherText": "Boosey & Hawkes, Inc.",
     "classLevel": 5,
     "specification": "(play one)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
+    "uilCode": "921-5-41354",
+    "instrumentSlug": "full-orchestra",
+    "instrumentName": "Full Orchestra",
+    "eventName": "Full Orchestra",
+    "title": "Preludio Sinfonico",
+    "composer": "Puccini",
+    "arranger": "Kaye",
+    "publishers": [
+      "Edwin F. Kalmus"
+    ],
+    "publisherText": "Edwin F. Kalmus",
+    "classLevel": 5,
+    "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
@@ -6800,6 +6822,27 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "921-4-41353",
+    "instrumentSlug": "full-orchestra",
+    "instrumentName": "Full Orchestra",
+    "eventName": "Full Orchestra",
+    "title": "The Last Flight Out",
+    "composer": "Likhuta",
+    "arranger": "",
+    "publishers": [
+      "Murphy Music Press"
+    ],
+    "publisherText": "Murphy Music Press",
+    "classLevel": 4,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": null,
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": null
+  },
+  {
     "uilCode": "921-4-25759",
     "instrumentSlug": "full-orchestra",
     "instrumentName": "Full Orchestra",
@@ -8321,6 +8364,27 @@
     "sheetMusicAffiliateSource": null
   },
   {
+    "uilCode": "921-3-41351",
+    "instrumentSlug": "full-orchestra",
+    "instrumentName": "Full Orchestra",
+    "eventName": "Full Orchestra",
+    "title": "Choose Kindness",
+    "composer": "Arcari",
+    "arranger": "",
+    "publishers": [
+      "Excelcia"
+    ],
+    "publisherText": "Excelcia",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/choose-kindness-11673101/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
     "uilCode": "921-3-18347",
     "instrumentSlug": "full-orchestra",
     "instrumentName": "Full Orchestra",
@@ -9036,6 +9100,27 @@
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
     "sheetMusicAffiliateUrl": "https://www.jwpepper.com/tournament-of-the-temperments-4969259/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "921-3-41352",
+    "instrumentSlug": "full-orchestra",
+    "instrumentName": "Full Orchestra",
+    "eventName": "Full Orchestra",
+    "title": "Prairie Dance",
+    "composer": "Docter",
+    "arranger": "",
+    "publishers": [
+      "Belwin, Inc"
+    ],
+    "publisherText": "Belwin, Inc",
+    "classLevel": 3,
+    "specification": "",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/prairie-dance-11511670/p",
     "sheetMusicAffiliateLabel": "Buy Sheet Music",
     "sheetMusicAffiliateSource": "JW Pepper link"
   },
@@ -15394,6 +15479,27 @@
     "publisherText": "Any unabridged edition",
     "classLevel": 0,
     "specification": "(except a Menuetto)",
+    "noMemoryRequired": false,
+    "publicDomainPdfUrl": null,
+    "publicDomainSource": null,
+    "sheetMusicAffiliateUrl": "https://www.jwpepper.com/overture-4965745/p",
+    "sheetMusicAffiliateLabel": "Buy Sheet Music",
+    "sheetMusicAffiliateSource": "JW Pepper link"
+  },
+  {
+    "uilCode": "921-0-41350",
+    "instrumentSlug": "full-orchestra",
+    "instrumentName": "Full Orchestra",
+    "eventName": "Full Orchestra",
+    "title": "Overture, tone poem, or cinematic suite",
+    "composer": "Williams",
+    "arranger": "",
+    "publishers": [
+      "Any unabridged edition"
+    ],
+    "publisherText": "Any unabridged edition",
+    "classLevel": 0,
+    "specification": "",
     "noMemoryRequired": false,
     "publicDomainPdfUrl": null,
     "publicDomainSource": null,
